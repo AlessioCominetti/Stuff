@@ -1,0 +1,415 @@
+--Abilities--
+XX Improve unit armor
+XX Holy strike
+XX Regen
+XX Poison damage
+XX Instakill
+XX Aoe blast
+XX Nets
+XX Improve unit attack
+XX Whirlwind
+XX Teleport
+XX armor curse
+XX Summon strong unit/s
+XX Static field
+XX Burst attack
+XX Improve tower range
+XX Armor piercing attack
+XX Weak curse
+XX Silence
+XX Improve unit health
+XX Bleeding strike
+XX Improve unit dodge
+XX Improve unit instakill chance
+XX Gold gathering
+XX Slow down Aoe
+XX Stun
+XX Reduce magic armor
+XX Reduce physical armor
+XX Crit chance
+XX Hunter's mark
+XX True damage
+XX Healing
+XX Sylvan curse
+XX Bonus damage per kill permanentely
+XX Slow down efect single target
+XX Improve one singular unit to veteran
+XX Grant brief invulnerability to units
+XX Grant thorned armor to units
+XX Improve fire rate for a brief period
+XX Possess enemy for a while
+XX Summon unit who walks to the enemy
+XX Improve kamizake attack of units
+XX Make enemies/units explode on death
+XX Improve units with vampire strikes
+
+--Towers--
+XX Barrack
+XX Archer tower
+XX Magic tower
+XX Artillery tower
+XX Ranged barrack
+XX Charge up shots
+XX Aoe tower
+XX Necromancy
+XX Movable tower
+XX Random target
+XX Switch modes
+XX Fog tower
+XX Afterburn embers
+XX Blazing hits
+XX Multi hit
+XX Poison tower
+
+--TOWERS-- [16]
+---Legionary Barrack
+Train 3 legionaries to block foes
+Cost  HP  Atk  Armor  Respawn 
+70   70    2    20     10
+110  120   3    25     10
+150  180   8    40     10
+200  240   10   60     10
+-Improved Armor 250 G: increase armor to 75%
+-Recovery 150G 3 tiers: enable regeneration with 5/10/15 Hp/sec
+-Thornmail 300G: legionaries return 50% of damage taken back to enemy
+-Resilience 300G 2 tiers: increas HP by 30/60
+-Hispanic steel 300G 2 tiers: improve attack by 8/16
+-Pila 200G 2 tiers: enable a ranged attack. Range 300 Atk 30/60 Fire rate 4s
+
+---Assassin Barrack
+Train 3 assassins that can dodge melee attacks and cloack when not fighting
+Cost  HP  Atk Dodge Respawn
+70    50    3   20     8
+100  100    6   30     8
+160  150   10   40     8
+230  200   12   50     8
+-Lethality 300G 2 tiers: give the assassins a 1/2% chance
+to instakill with each strike, and permanentely increase
+the base damage by 5/10
+-Counterattack 150G 2 tiers: increase dodge chance to 60/75%.
+Counter deal an additional 15/30 damage
+-Pickpocket 200G: each hit steal 1 G from the enemy
+-Pit trap 200G: summon a trap to immobilize enemies for 3 seconds.
+Place 1 every 10 seconds
+-Disarm 200G 3 tiers: each hit has a chance to disarm the foe,
+making him deal 20/40/60% less damage while in combat
+-Revenge 100G 3 tiers: dying assassins deal 100/200/300 damage on death
+to the killer in melee fight
+
+---Viking Hall
+Train 2 powerful berserkers who deal a lot of damage
+and heal for each hit unleashed
+Cost HP  Atk  Drain  Respawn
+90  100    6   20     15
+130 160   10   30     15
+170 320   20   40     15
+210 480   30   50     15
+-Berserke Gang 200G 2 tiers: when Hp goes below 50%, unit becomes invulnerable
+for 3/6 seconds, and double attack rate
+-Spin 350G: each attack has a 25% to deal area damage
+-Blessed Axe 350G 2 tiers: basic attack deal true damage and increase
+damage by 10/20
+-Throwing axes 200G 2 tiers: enable a ranged attack
+Damage 24/48 each Fire rate 2 seconds
+-Bleeding strike 300G 2 tiers: each attack inflict bleeding for 10 seconds
+Damage 3/6 per second
+-Draugr Curse 400G: dying berserkers turns into draugrs who
+walk to the enemy. HP 200 Atk 24 Explosion 125
+
+---Archer Tower
+A tower with longe range that shoots arrows to the enemies.
+Cambe toggled to attack foe with the highest health,
+nearest escape point, random target, least health or
+weakest armor.
+Cost  Atk Fire rate  Range
+100     8     1      280
+150    18     0.6    320
+200    21     0.5    360
+250    24     0.4    400
+-Poison Arrows 250G 3 tiers: arrows inflict poison which
+does 5/10/15 poison damage per second for 20 seconds
+-Raise Height 150G: increase this tower range by 20%
+-Cripple 200G: every 10 second, shoot an arrow that
+will slow down a foe by 30% for 10 seconds
+-Hunter's Mark 250G 3 tiers: make a target suffer twice
+the damage from all sources for 5/10/15 seconds
+-Thrill of the Hunt 400G: tower gain 1 atk for each
+enemy it kills
+-Armor piercer 200G 2 tiers: every four seconds, shoot
+an arrow that ignores half of the target armor
+and deal 10/20 extra damage
+
+---Fire Wizard
+Shoot fireballs at the enemy, dealing fire
+damage over time, about 20 seconds
+Cost Attack Fire rate Range  burn damage
+100    15       3     320       2
+150    45       3     340       3
+220    78       3     350       4
+330   150       3     360       5
+-Combustion 100G: extends fire effect by 10 seconds
+-Meteor 300G 2 tiers: long range fire magic attack
+Damage 200/400 damage Blast area 120 Recharge 20
+-Embers 200G: fireballs leave embers on the ground
+Damage per second 10 last 5 seconds, area 80
+-Magma fissure 200G 3 tiers: summon 4/6/8 fire pillars
+Damage each 80/100/120 Recharge 20
+-Heated shots 200G 3 tiers: enemies on fire deal less damage and walk slower
+Enemies walk 20/40/60% slower while on fire and deal
+20/40/60% less damage
+-Fiery Blood 100G 3 tiers: improve other towers and units attack
+Towers and units in range +10/20/30% attack
+
+---Ice Wizard
+Shoot ice lances which deal physical damage,
+applying a slowing effect. Can fire a number of projectiles
+equal to tower level.
+Cost Attack Fire rate Range Slow down  Duration
+100    30       4     320     20%        5
+150    30       4     340     30%        6
+220    30       4     360     40%        7
+330    30       4     400     50%        8
+-Freezing effect 200G 3 tiers: each hit has a 20/40/60% to freeze for 5 seconds
+-Frosbite 250G 3 tiers: frozen/slowed enemies take 5/10/15 true damage/sec
+-Ice golem 350G 2 tiers: summon an ice golem
+HP 400-600  Atk 20-30  Armor 60-70% Respawn 20 seconds
+-Shatter 200G 3 tiers: each attack reduce physical and magic armor permanentely
+by 1/2/3 points respectively
+-Snow storm 200G 2 tiers: make some clouds snow, to slow down all foes
+along the path. Slow down 50% duration 8-16 seconds  Recharge 30 seconds
+-Ice Armor 150G: improve allies armor by 10% and magical armor by 50%
+
+---Wind Wizard
+Magic tower that deals effective damage
+vs flying enemies, and has a chance to knockback
+ground targets
+Cost Attack Fire rate Range Bonus damage Knockback effect(applied every 5th hit)
+100     3       0.4   320     +2            1 node
+150     8       0.4   340     +4            2 node 
+220    14       0.4   360     +6            3 node
+330    22       0.4   400     +8            4 node
+-Wind Whirl 300G 3 tiers: take a group of enemies and deal
+continous damage to them while pushing them
+on the ground. Damage 30/60/90 distance 20-30-40 nodes
+Max enemies group 10, Recharge 20 seconds
+-Wind Blade storm 150G 3 tiers: deal 10-20-30 continous hits.
+If target dies, switch to another. Recharge 10 seconds. Fire rate -> 0.1
+-ArchGale 150G:increase bonus damage to air units by 12
+-Silver silence 300G 2 tiers: silences a group of enemies for 10 seconds
+Recharge 20/10 seconds
+-Healing Wind 200G 3 tiers: heal allies nearby tower by 8/16/24 Hp/sec
+-Wind shield 100G 2 tiers: allies nearby tower take -40/60%
+damage from ranged attacks
+
+---Thunder Wizard
+Tower that can charge up his shots. Deals a lot
+of damage, often overkill. Thunder can stun foes briefly for 1 seconds.
+Charges 2.
+Cost Attack Fire rate Range
+100    35       5     320
+150    90       5     340
+220   150       5     360
+330   250       5     400    
+-Incinerate 350G 2 tiers: instakill or deal great damage to one enemy
+Recharge 20/15 seconds
+-Overcharge 200G 3 tiers: increase base attack power +50/100/150
+-Static field: each successful attack leaves a static field
+-ArcThunder 100G: overkill damage arcs to other enemies
+-Voltaic pillars 100G 3 tiers: tower stores +1/2/3 bolts
+-Shocking bolt 200G 2 tiers: increase stun duration +1/2 seconds
+
+---Earth Wizard
+Can lob rocks at the enemy, dealing physical splash
+damage in a small zone. Rock fragements on impact,
+leaving spikes on the ground and knockback.
+Towers leave splinters equal to tower's level.
+Each splinter deal 3 damage to all foes who pass nearby.
+Last 10 seconds
+Cost Damage Fire rate Blast area Range Knockback(nodes) 
+100    7        3        80       300     1               
+200   21        3        90       320     2
+300   36        3       100       340     3
+400   54        3       110       360     4
+-Splinters 150G: boulders breaks into 3 more pieces
+-Rock golem 350G 2 tiers: summon a powerful rock golem
+HP 500-900 Atk 20-30 Armor 50-60% Respawn 8 seconds
+-Armor curse 200G: each hit reduce the target's physical
+armor by half for 10 seconds, dealing 4 true damage per second
+-Impale 400G 2 tiers: instakill ground enemy every 24/16 seconds
+-Contusion 200G 3 tiers: each hit has a 35/70/100% chance to stun
+for 2 seconds
+-Earthquake 250G 3 tiers: Aoe physical attack with great area
+Area 400, damage 100/200/300 true damage to only ground enemies,
+recharge 18 seconds
+
+---Laser Tower
+Deal continous damage to one target at time.
+Excels at foes with high Hp.
+Cost Attack Fire rate Range
+150    3->8     0.4   320
+240    8->22    0.4   320
+310    13->41   0.4   320
+400    18->55   0.4   320
+-Focus Fire 200G: deal more damage when attacking
+the same enemy for long periods of time, atk->88
+-Teleport 250G 2 tiers: teleport a group of enemies
+Min 1 Max 4-6 Distance 30-40 nodes Recharge 10 seconds
+-Unstable power 200G 2 tiers: enemies killed by the tower
+explode(area 100), dealing 35/70 area damage
+-Astrolabio 300G: improve this tower and nearby's range by 25%
+-Fierce Laser 200G 3 tiers: units under attack by the laser are
+slowed down by 30/40/50% (both attack and movement speed)
+-Silver Ward 200G 3 tiers: silences a group of enemies and make them
+lose all physical and magical armor for 3/6/9 seconds.
+Recharge 10 seconds
+
+
+---Necromancer Tower
+Cost Attack Fire rate Range
+100     5       1     320
+160    12       1     360
+220    30       1     400
+300    50       1     440  
+Magic tower which turns enemies into skeletons, cap 20
+Skeletons HP 50 Atk 4->6 Armor 0->30%
+Big Skeleton HP 100 Atk 6->9 Armor 30->60%
+-Stone graves 100G 2 tiers: increase number of skeletons by 5/10
+-Death Lord 300G 2 tiers: summon a death rider, it
+improves the stats of other skeletons
+HP 250-350 Atk 10-20 Armor 40-60% Respawn 12 seconds
+-Plague 350G 2 tiers: create a plague, dealing 20
+damage per second for 4-6 seconds, recharge 12 seconds
+-Fog of despair 100G: enemies inside the tower's range
+have a 20% chance to miss their attacks
+-Walking skeleton 150G 2 tiers: summon every 12 seconds
+a skeleton warrior that will walk down the path
+HP 80-160 Atk 15-20
+-Ripe Explosion 200G: defeated enemies and skeletons explode
+dealing 25 explosive damage in area 100
+
+
+---Tree wizard 
+Uses plant magic to either stun/poison or deal physical/magical damage
+to a group or to singular foes. Fire rate: 4.5 group, 1.5 single target
+Cost Attack Range   Stun    Poison(last 20 seconds)
+100    20     320  0.9-0.3    4
+150    60     340  1.2-0.4    8
+220    90     360  1.5-0.5   12
+330   160     400  1.8-0.6   16
+-Grasping Roots 250G 3 tiers: summon roots over the ground, stunning
+enemies for 3/6/9 seconds, and dealing 10 damage per seconds. Recharge 20 seconds.
+-Summon spear guardians 200G 2 tiers: summon a pair of spearmen
+HP 100-200 Atk 10-20 Armor 20-30% Respawn 10seconds
+-Curse of Weakness 200G 3 tiers: force an enemy to walk/attack 60% slower and take
+60% more damage for 5/10/15 seconds. Recharge 15 seconds
+-Sylvan Curse 250G 3 tiers: curse an enemy for 5 seconds, causing 35/70/100%
+of all damage dealt to it also affect nearby enemies
+-Healing Sprites 200G 3 tiers: heals allies in range by 8/16/24 hp/sec
+-Noxious pollen 300G: every 20 seconds, spawn an infectius pollen
+that slow down foes in a wide area, foes defeated while impollinated,
+will transform into a fungal zombie who will wal down the path
+Fungal Zombie: HP 200 Atk 20
+
+---Dark tower
+Spew fogs that damages all enmies around it.
+Can swap places with any other towers.
+Cost DPS Range 300
+120   3
+140   7
+180  11 
+220  17
+-Dark Guardians 200G 3 tiers: summon 1/2/3 dark guardians
+HP 200 Atk 20 Armor 65% respawn 15seconds
+-Thick Fog 100G 3 tiers: enemies inside move 25/35/50% slower,
+ranged units have half their range inside
+-Wraith 200G 2 tiers: summon a spirit to take control of one enemy for 10 seconds
+Recharge 24/16 seconds
+-Oblivion 300G 3 tiers: instakill an enemy and generate an explosion
+Recharge 30/25/20 seconds damage 30/60/90 area 100
+-Confusion 200G 2 tiers: enemies inside the fog have a 5/10% per second
+to attack themselves for 2 seconds
+-Fell realm 200G 3 tiers: enemies inside the tower have a 0.3/0.7/1% chance
+per second to drown, getting eliminated instantly
+
+---Bombard Tower
+Shoot explosive charges on the path
+Cost Damage Fire rate Blast area Range
+150   20        4        80       320
+260   55        4       100       320
+400   80        4       120       360
+480   114       4       125       360
+-Big Bomb 250G 2 tiers: shoot a giant bomb,
+with extra range(400) and blast area(+25).
+Damage 250/500 Recharge 15 seconds
+-Homing missiles 250G 2 tiers: Shoot one missile
+that never misses with 600 range. 
+Damage 120/240  Recharge 14 seconds
+-Tar bomb 100G 2 tiers: explosions slow
+down enemies by 50% for 5 seconds
+-Alchemy 300G: increase blast radius by 20%
+and reduce attack cooldown by 25% (fire every
+3 seconds instead of 4)
+-Phosporous projectiles 200G: each explosion
+destroy enemie's armor by 4% each
+-Overheat 400G: every 32 seconds, the bombard
+will fire twice as fast for 12 seconds
+
+---Pirate Tower
+Block enemies with  2 pirates, shoot projectile and explosions.
+Three towers combined into one. Respawn 12
+Cost Gun_d Fire rate Range HP Atk Armor
+140    16     2      320   90  3   30
+220    30     2      340  120  5   40
+300    44     2      360  150  8   50
+380    60     2      380  200  15  60
+-Bombard 300G 2 tiers: install a small bombard, dealing
+100/200 damage in 120 area every 5 seconds
+-Arquebus 300G 2 tiers: shooter fires 50/100% faster
+-Pirate Captain 300G: add a pirate captain to the crew
+HP 300 Atk 20 Armor 50 allied units in 150 area deal +50% damage
+-Crippling shot 200G 2 tiers: every 5ht shot will slow down
+the target by 60% for 3/6 seconds
+-Treasure Hunt 200G 2 tiers: enemies who dies in range
+of this tower will yield an additional 1/2 G
+-Rum rations 300G: pirates whose Hp drops below 30%, will
+heal by 150 HP over 5 seconds, recharge 20 seconds
+
+---Plasma Tower
+Shoot plasma bolts either targetting one or multiple foes.
+Deals true damage with each attack. Foes under attack
+are also slowed by 20% for 5 seconds
+Cost Damage Fire rate Range
+150    4-9       1      320
+200    9-24      1      320
+250   14-36      1      320
+300   20-60      1      320
+-Aumgentation 225G 2 tiers: increase base attack by 25/50%
+-Arc Reactor 225G 2 tiers: increase base range by 25/50%
+-Shocking news 200G 3 tiers: increase slow down effect to 30/40/50%
+-Cristallization 200G 2 tiers: cristallize 2/4 enemies for 5 seconds.
+These enemies cannot attack and will take 30% more damage from
+all sources. Recharge 15 seconds
+-Electrical surge 200G 3 tiers: Create an electric field in area 400
+for 6/8/10 seconds.Enemies inside will get the slow down effect
+and will take 6/8/10 true damage per second. Recharge 20 seconds.
+-Voltaic Golem 200G 3 tiers: summon an electrical golem
+HP 500 Atk 15-40-70 Armor 20%
+
+---Hypnotic Tower
+Tower who can hypnotize enemies to fight among themselves.
+Hypnosis last for 8 seconds
+Cost  Cooldown Range
+150     30      320
+200     14      350
+250      7      380
+300      5      400
+-Deep Hypnosis 225G 2 tiers: hypnosis last for 2/4 more seconds
+-Quick Casting 225G 2 tiers: -1/2 seconds cooldown
+-Enchanted Sound 225G 2 tiers: hypnotized units deal +25/50% damage
+-Contagious Hypnosis 225 G 2 tiers: hypnotized units have a 10/20% chance to
+hypnotized other units with each hit. Same duration.
+-Mirror Image 225G 2 tiers: summon a copy of the last hypnotized unit as a guardian.
+The guardian can be raplced only with the last hypnotized unit.
+Guardians have a 12 seconds lifespan. At most, 1/2 guardians at time.
+-Mass control 225G 2 tiers: hypnotized up to 10 enemies in an area of 200 tiles
+for 4 seconds. Cooldown 30/20 seconds.

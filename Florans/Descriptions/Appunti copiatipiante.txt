@@ -1,0 +1,282 @@
+fuoco-ibisco
+giacchio-bucaneve
+vento-salice
+tuono-verbena
+acqua-giunco/ninfea
+terra-mirto
+metallo-felce argentata
+legno-edera
+radiazioni-brassica jungea(senape indiana)
+suono-alloro
+luce-giglio
+oscurità-papavero
+
+Hibiscus Incandenscente
+Lvl 7
+ATK 2600
+DEF 1800
+Effect: if this monster is summoned through a special effect, destroy
+2 random monsters on the field.
+Once per turn:player can send one monster plant card to
+the graveyard. Doing so will deliver 500 dmg to the
+adversary and this card will gain 500 ATK for this turn.
+If this card gets destroyed, conjure a Fire Spirit Flower
+to the player's hand.
+
+Bucaneve Silente
+Lvl 6
+ATK 2100
+DEF 2400
+Effect:  when summoned through a special effect,
+choose a monster, halves that monster's ATK for this turn.
+When summoned, freeze a card (cannot be played for this turn)
+If this monster gets defeated, conjure a Frigid Breeze
+to the player's hand.
+
+Salice Fendinebbia
+Lvl 4
+ATK 1800
+DEF 1200
+Effect: if this monster is summoned through a special effect, can
+pick 2 random cards of the opponent's hand, and put them back
+to his deck. 
+This card can be put straight to the graveyard to allow a
+player's monster to attack directly. 
+If this card is in the graveyard, and the player controls
+a WIND monster, this card return to the battlefield,
+if destroyed, then this card gets banished.
+
+Verbena Tonante
+Lvl 5
+ATK 2400
+DEF 1600
+Effect: if this monster is summoned through a special effect,
+can pick 3 random cards of the opponent's hand and send
+them to the graveyard.
+When this monster is sent to the graveyard, a player's
+monster get 100 ATK.
+Player can send this card from the graveyard to the banish.
+Doing so will give the player a Dark Thunder to his hand.
+
+Giunco e Ninfea
+Lvl 5
+ATK 2300
+DEF 2000
+Effect: if this monster is summoned through a special effect,
+add a monster of lvl 4 or less to this player's hand.
+Once per turn, the player can discard ona card to
+draw 2 more.
+If this monster is sent to the graveyard, player can choose
+one card in the graveyard and put it back into his deck.
+
+Mirto Sabbioso
+Lvl 6
+ATK 2200
+DEF 2600
+Effect: if this monster is summoned through a special effect,
+player can choose ona card into the opponent's graveyard
+and banish it.
+Once per turn, gain LP equal to half the DEF of one floran
+monster of the player's choice.
+If this card is in the graveyard, and the player has
+gained any LP this turn, player can summon back
+this card, but with 0 ATK for this turn.
+
+
+UNITA SCARTATE
+Durion soldier
+HP 200 Atk 10 Rof 1.5 Speed 4
+2x vs buildings 3x vs cavalry 2.1x vs shock infantry
+Cost: 50 F 50 W 1 pop 30 sec
+Repulsion: enemies in 6 tiles get -10% atk and movement speed
+Compared to pikeman: +33% HP, -20% speed, -40% dmg vs cavalry, shock infantry
+(compared with an improved pikeman of 50 F 50 W cost)
+
+Nicotia soldier
+HP 110 Ark 20 rof 1.5 speed 4.5
+Poison: 4 dmg/sec for 5 sec
+Cost: 80 G 40 F 1 pop 30 sec
+
+Alismata Leaf Shield
+HP 65 Atk 10 Rof 1.5 Speed 5 Melee 25%
+Cost: 40 F 20 W 1 pop 15 sec
+Thornmail: return 50% of damage taken back to the enemy in melee
+
+Hydrocharita
+HP 60 Atk 10 Rof 2.0 Range 14 Speed 5 ranged 25%
+Cost: 45 F 25 G 1 pop 15 sec
+
+Asphodelus
+HP 160 Atk 20 Rof 1.5 Range 16 Speed 5
+Cost: 80 F 45 G 1 pop 30 sec
+Allies nearby recover 50 Hp/min
+
+Corsia Guardiano delle Fronde
+HP 140 Atk 24 Rof 1.5 Speed 5 Melee 30%
+Cost: 90 F 30 G 1 pop 30 sec
+
+Vine mancer
+HP 90 Atk 12 rof 1.5 speed 6.25  Trample 50%
+x2.5 vs ranged infantry
+Cost: 45 F 40 G 1 pop 10 sec
+
+Cyrcastera Leaf Mystic
+HP 100 Atk 10(true) rof 1.5 range 18 speed 4 Ranged 30%
+x2.5 vs heavy infantry x2 vs cavalry
+Cost: 60 F 50 G 1 pop 12 sec
+Illusion: make 1 illusion every 20 seconds, last for 10 seconds.
+Illusions have 20% of the selected unit's max HP, can attack but deal no damage
+
+Dillenia Gunnera--light ranged infantry
+HP 100 speed 5
+Rifle: 75 atk 3 rof range 18 los 20, attack ignore 20% of target's ranged resistence
+Siege: 75 damage 3 rof range 6
+Knife: 3 atk 1.5 rof
+Cost: 50 F 50 G 1 pop 20 sec
+Victory Song: gain +50% movement speed for 6 seconds after each kill
+
+Eriobotrya--light ranged infantry
+HP 70 Atk 18-6 rof 3-1.5 range 16 speed 5 Ranged 30% blast 2.5
+Cost: 50 G 20 F 1 pop 14 sec   Snare: 40%
+
+--Tanaceto--heavy melee infantry
+HP 160 Atk 10 rof 1.5 speed 4.2 Melee 20%
+Cost: 60 G 40 F 1 pop 30 sec
+Persistence: enemies in 12 tiles lose 1 atk every 5 sec, enemy
+attack cannot go lower than 1, also remove debuff of allied florans
+
+--Calendula--monk
+HP 100 Speed 5 Ranged 20% 
+Cost: 80 G 20 W 1 pop 30 sec
+Heal 80 Hp/min range 10
+
+--Enula wind rider--light shock melee infantry
+HP 140 Atk 18 rof 1.5 Speed 7.5 Melee 10%  1.5x vs ranged
+Cost: 100 F 40 G 2 pop 45 sec
+Eolus Charge: +50% move speed for 5 sec ignore collisions, CD 40s
+
+--Vernonia--heavy melee infantry
+HP 220 Atk 28 rof 1.5 Speed 4 Melee 40%  
+2x vs cavalry 1.5x vs shock
+Cost: 100 W 60 G 2 pop 45 sec
+Fury: +50% atk for 5s, CD 60s
+
+--Arnica--monk
+HP 130 Atk 6 rof 1.5 speed 5 Ranged 20%
+Cost: 100 G 1 pop 30sec     
+Shield: allies in 8 tiles get +15% armor
+
+--Aspilla--siege ranged infantry
+HP 100 Atk 32 rof 3 range 14 Speed 5 Ranged 10%
+Siege: 80 damage 6 range 3 rof   
+Cost: 80 G 60 W 1 pop 30 sec
+Burn: 5 dmg/s for 5 sec
+
+--Dombeya--magic
+HP 140 Atk 18-6 rof 3-1.5 range 12 speed 4.5  Ranged 15%
+Cost: 60 F 100 G 2 pop 40 sec
+Rally Cry: for 15 sec, allies get +10% atk and 10% move speed, CD 60s
+Petal Protection: 3 random allies get a 50 Hp shield for 10 sec
+
+--Triplonchiton--heavy melee infantry
+HP 130 Atk 12 rof 1.5 speed 4.5  Melee 30%  Trample 25% 
+1.5x vs infantry
+Cost: 50 F 30 W 1 pop 22 sec
+Steel Roots: when first struck, +50% melee armor for 10 sec, CD 60 sec
+
+--Rhododendron--Hero explorer
+HP 300 Atk 45-24 rof 3-1.5 range 14 speed 4.5 Melee 30%
+1 max, Respawn 60s, Cost 300 G or F
+Botanic Command: florans in 10 tiles get +10% atk, 15% move speed
+and regen 50 Hp/min
+         
+--Gaultheria--magic
+HP 200 Atk 35 rof 3 range 18 speed 5 Melee/Ranged 20% blast 3
+Cost: 250 G 2 pop 50 sec  
+Freeze Blast: freeze enemies in area for 8 sec, CD 60s
+         
+--Bertolletia--siege hero unit
+HP 1200 Atk 120 rof 4 speed 3.2  blast 2.5
+Siege: 240 damage 4 rof
+Cost: 250 F 250 G 5 pop 75 sec
+Tropical Tempest: deal 100 damage, stun for 7 sec, CD 60s
+Thunder Shell: when taking damage, +100% M/R/S for 8 sec, CD 30s
+
+⚔️ Abilità del Guerriero del Giglio
+🌟 1. Lama dei Tepali
+Il guerriero può far crescere dal proprio avambraccio una lama bianca, sottile e affilata come un petalo indurito.
+È leggera, rapidissima e può tagliare materiali molto più duri del metallo.
+
+🌬️ 2. Respiro del Giglio
+Emanano una fragranza eterea che può avere due effetti:
+
+calmare e rasserenare gli alleati
+
+disorientare i nemici, rendendo i loro movimenti più lenti e incerti
+
+La fragranza non è un veleno: è una forma di influenza naturale, come un profumo che agisce sullo spirito.
+
+🌿 3. Rinascita del Bulbo
+Quando un guerriero è ferito gravemente, può entrare in uno stato di “riposo vegetale”:
+il corpo si chiude come un bocciolo e in poche ore rigenera tessuti e forza.
+Non è immortale, ma è estremamente difficile da abbattere.
+
+✨ 4. Luce del Pistillo
+Dal petto può emanare un bagliore dorato che:
+
+illumina anche la notte più profonda
+
+rivela illusioni o presenze nascoste
+
+respinge creature corrotte o prive di purezza
+
+È un potere raro, riservato ai guerrieri più devoti.
+
+🛡️ 5. Scudo dei Petali
+Con un gesto rapido, può far ruotare attorno a sé una corona di petali rigidi che deviano frecce, lame e persino piccoli incantesimi.
+
+🌸 La Tribù del Giglio – Storia e Cultura
+🌱 Origini
+La tribù del Giglio nacque in un’antica valle dove i gigli selvatici crescevano in quantità immense.
+Secondo la loro leggenda, il primo guerriero emerse da un fiore gigantesco sbocciato durante un’eclissi.
+Da quel giorno, i gigli divennero il simbolo della loro forza e della loro purezza.
+
+🏞️ La Valle Bianca
+Vivono in un territorio sacro chiamato Valle Bianca, un luogo avvolto da nebbie luminose e attraversato da ruscelli cristallini.
+Le loro città non sono costruite: crescono, modellate da piante e radici che rispondono alla loro volontà.
+
+👑 Il Consiglio dei Petali
+La tribù è guidata da un consiglio di cinque anziani, ognuno rappresentante un “petalo” della loro filosofia:
+
+Purezza
+
+Protezione
+
+Saggezza
+
+Armonia
+
+Coraggio
+
+Il Guerriero del Giglio appartiene al petalo del Coraggio.
+
+⚔️ La Guerra delle Ombre
+Secoli fa, la tribù fu quasi sterminata da una forza oscura chiamata Nebbia Nera, una corruzione che appassiva ogni forma di vita.
+I guerrieri del Giglio combatterono per generazioni, usando la loro luce per respingere l’oscurità.
+
+Da allora, la tribù vive con un duplice scopo:
+
+proteggere la Valle Bianca
+
+impedire che la Nebbia Nera torni a diffondersi
+
+🌸 Il Rituale della Fioritura
+Ogni guerriero, prima di essere riconosciuto tale, deve piantare un bulbo di giglio e vegliarlo per tre notti.
+Se il fiore sboccia, significa che il suo spirito è puro.
+Se appassisce, il candidato non è pronto.
+
+
+
+
+
+

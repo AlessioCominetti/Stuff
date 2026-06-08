@@ -1,0 +1,140 @@
+-The Aster Empire is the biggest and most prolific in the hystory
+of Florania. They have the most diverse tribes the most numerous and
+the most warriors. All citizen part take in skirmish and battles.
+They worhsip life as well as death both with equal importance.
+The empire was formed to face off the countless threats.
+Ants, humans, ranuns. Conflict made them stronger and got them
+the chance to develop technologies and weapons.
+The Empire stand strong, and has a lot of infrastructure.
+All citizens who join the army are greatly compensated with
+land, clothes and all kinds of food. 
+The Aster have the most diverse unit rooster and open tech
+trree. They capable to swarm their foes with plenty
+fo cheap fooder and train elite in the imperial age.
+They have great defenses who can be further improved
+with sun ceremonies. However, they require a lot of
+resources and they don't excel in anything.
+
+-Floran units and buildings regen hp when out of battle
+-Floran units and buildings are created for free and
+automatically, but 5 times slower. Can use resources
+to sped up creation time
+-Villagers can be turned into some military units for free,
+but creation time is long and can't be sped up
+-Dying soldiers produce essence, which is used to
+perform rituals at the Sun Temple, villagers who are
+killed by shamans produce much more
+-Can upgrade castles and towers
+-Settlements provide +5 population and can be garrisoned
+with villagers to shoot arrows, but cost +25 W
+-Eco upgrades cost -50% but require +50% research time
+
+
+UNITS
+Aextoxicon
+Rabarbarum swordman
+Amaranthus
+Dragon fruit
+Cactus Rogue
+Plumbago
+Bouganville
+Santal Tree
+Nyssa Camptoteca
+Camelia
+Erica
+Rhododendron
+Gaultheria
+Myrtillus
+Sapote
+Sapodiya
+Lucuma
+LAMIDI
+Borago warrior
+Garrya
+Icacina astromagus
+Apocina sage
+Apocina spearman
+Acokantheran
+Gentiana
+Morinda
+Yohimbe
+Vinca
+Prostanthera
+Salvia
+Rosmarinus
+Nepeta
+Origanum
+Thimus
+Mentis
+Lavandula
+Prunella
+Melissa
+Pedalia
+Lamia warrior
+Sesamus
+Coleus
+Verbena
+Digitalis purpurea
+Sinandra
+Jasminus
+Ligustro
+Tebebuia
+Olfo
+Plantago
+Cestrum
+Petunia
+Atropa Belladonna
+mandragora
+Withania
+Solanum icopersicum/linneum
+CAMPANULIDI
+antriscus
+daucus
+angelica
+centella
+petroselium
+sedano
+fenkel
+azorella
+astrantia
+aralia
+eleutherococcus
+mate
+chuquiraga
+famatina
+chaetanthera
+gerbera
+tehuasca
+hecastus
+ainsliaea
+cardus
+cicoria
+artemisia
+camonilla
+farfaraccio
+taraxacus lion warrior
+lobelia
+elianthus
+sambuca
+valeriana
+
+BUILDINGS
+Town Hall
+House
+Mill
+Storehouse
+Farm
+Dock
+Blacksmith
+Market
+Temple
+University
+Wonder
+--
+Barrack
+Archery Range
+Siege Workshop
+Castle
+walls/gates
+Tower
+Outpost

@@ -1,0 +1,592 @@
+All florans regen 0.5HP% per second and can stealth
+
+Major civs
+Ranun, Aster, Rosa, Commelini-monocotiledoni, Magnolia-Angio basali
+Minor civs
+Fern, Pino
+
+https://epics-of-eskatos.fandom.com/wiki/Epics_of_Eskatos_Wiki
+
+RANUN
+Aggresion, guerriglia, adaptability
+-Units gain XP when nearby allied buildings
+-Units can evolve with XP
+-Every three military units put together will generate
+a small illusion, (HP=total Hp of all three units/5, no atk)
+the illusion disappearonly when 20 tiles away from the group
+-Buildings change shape,size and functionality based on time,
+weather and environment they are placed.
+-Every time a Ranun unit dies, there's a 10% chance to spawn
+an illusion(HP 20%, no atk) which last for 5 sec
+
+Techs:
+Alkaloid infusion: melee units inflict poison
+Radial Bloom: buildings heal allies nearby
+Symbiotic Growth: units gain XP when nearby allied buildings
+Toxic Rebirth: defeated allies release a toxic cloud
+Alcaloids: Poison inflict +2 dmg/sec and lowers enemy's armor by 10%
+Lake's Mirror: illusions last 10 sec more
+Evolved Trance: Papaverum and Circastera gain +10% Atk and HP
+Tricolpato: groups of at least 3 soldiers gain +10% speed and +5% atk
+Trochus's Bark: Trochodendro +20% armor
+
+Buildings:
+Embassy: Train Trochodendro, Buxa and Bellendena
+Petal Grove: Market, research unique techs and upgrades
+Symbiosis Circle: Temple
+Toxic Garden: Train Hydrastes, Xanhorhiza, Berberis Thorn, Euptelea
+Poison Den: Train Akon units
+Sleep Temple: Train Actea, Circastera, Pulsatilla, Talictro,Papaverum maceman,Vinemancer
+
+City Cards:
+Akon Surge: ship 2 akon archers, 2 akon spearman, 2 akon swordman
+Gaia's Blessing: heal all units by 25% instantly
+Rooted defense: enable rooting for buildings, rooted buildings
+work 30% slower but have 20% more HP
+Symbiotic Expansion: Building are constructed 25% faster
+Euptela's Charge: summon 3 Euptelas
+Spring Bloom: +100% train speed for 10 sec to all light infantry units
+Deep Root: Akon units +20% HP
+Spirit Consolidation: turn 3 illusions in real warriors (with 50% HP)
+Living Bark: Trochodendro +10% armor
+Ematic Leaf: Belledena apply armor corrsion by 25% for 10 sec
+Weapon Switch: Spear,Bow,Sword Akon can switch weapons to turn into each other unit
+
+Units:
+Town Center/Poison Den
+--Akon spearman--light melee infantry
+HP 180 Atk 22 rof 1.5  Speed 4.5  Melee 20%
+Siege: 48 damage 6 range 3 rof
+1.5x vs light shock melee infantry/cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 80 F 40 G 1 pop 36 sec
+Switch weapon: turn this unit into an akon swordman
+--Akon Swordman--light melee infantry
+HP 200 Atk 20 rof 1.5 speed 4.5  Melee 20%
+Siege: 48 damage 6 range 3 rof
+2x vs heavy infantry 1.5x vs cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 80 F 40 G 1 pop 36 sec
+Switch weapon: turn this unit into an akon spearman
+--Akon archer--light ranged infantry
+HP 110 Atk 12-6 rof 3-1.5 Range 22 Speed 4.8  Ranged 20%
+Siege: 12 damage 6 range 3 rof
+2.25x vs light infantry 1.5x vs cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 60 F 40 G 1 pop 12 sec
+
+Toxic Garden
+--Berberis's Thorn--light melee infantry
+HP 140 Atk 20 rof 1.2 Speed 5  Melee 10% Ranged 10%
+1.5x vs ranged infantry
+Cost: 70 F 30 G 1 pop 15 sec
+--Euptelea--light melee infantry
+HP 130 Atk 20 rof 2 Speed 5.5  Melee 15% Ranged 15%
+2x vs melee infantry 1.5x vs cavalry
+Cost: 75 F 50 G 1 pop 15 sec
+Disarm: first strike apply -50% fire rate to target
+for 10 seconds, recharge 30 seconds
+
+Sleep Temple
+--Papaverum Maceman--heavy melee infantry
+HP 250 Atk 36 rof 3  Speed 3.5  Melee 30% Ranged 30%
+2x vs heavy infantry 1.5x vs artillery
+Siege: 48 damage 6 range 3 rof
+Cost: 100 F 60 G 2 pop 20 sec
+Trance: +25% defense and attack, -20% movement speed
+--Vine mancer--light shock infantry
+HP 160 Atk 24 rof 1.5 speed 6.25  Trample 50% Melee 10% Ranged 10%
+2.25x vs ranged infantry 1.5x vs monks 
+Cost: 90 F 80 G 2 pop 20 sec
+--Circastera Leaf Mystic--light monk infantry
+HP 200 Atk 28(true) rof 2 range 18 speed 4  Ranged 30%
+2.5x vs heavy infantry 2x vs cavalry
+Cost: 120 F 100 G 2 pop 24 sec
+Illusion: make 1 illusion every 20 seconds.
+Illusions have 20% of the selected unit's max HP,
+can attack but deal no damage
+
+
+ASTER
+Balanced civilitation, adaptable
+-Units gain XP when nearby allied buildings
+-Units can evolve with XP
+-Groups of three units regen 0.25% Hp/min
+-Groups of three different units get +10% atk
+-Gain +1 essence for every 5 floran units recruited:
+essence is used to research technologies
+-Special active abilities have a 10% to be instantly refreshed
+
+Techs:
+Neuflora Pulse: enable conversion spell
+Solar Bloom: all military units +10% atk and movement speed
+Aromatic Shield: healers +15% melee/ranged resistence
+Radial Bloom: buildings heal allies nearby
+Berberidic Chaos: Berberidopsida gain +20% atk for 12 sec for each
+fallen ally, stack five times
+Botanic Ceremony: while essence is burning, lamian units gather 20% faster
+and convert W to G at 30 resources/min
+
+Buildings:
+-Sunspire: Town Center, trains Rhododendon
+
+-Den: Barrack, train Myrtal Guardian, Nyssa Guardian, Rabarbarum Crimson Swordman,
+Incendiary Pepper, Garrya, Agrifolium, Vine Warrior, Brunia siege thorns,
+Anopterus flower sentinel, Berberidopsida, Aextoxicon, Amaranthus, Borago,
+Coleus, Ligustro
+++Instalment: Wet Den: Barrack, train Arctoti, Cicoria, Tanaceto, Taraxacus, Artemisia, Aspilla
+++Instalment: Mirror Den: train Gymnarrena, Ainsliaes, Lobelia, Calendula, Arnica
+
+-Herbal/Aroma Temple: Temple, train Apocina units, Acokantheran, Gentiana,
+Vinca, Yohimbe, Noni
+++Instalment: Sun Temple: train Sun icopersicum, sun linneum, sun priest
+++Instalment: Fog Temple: train Antriscus, Centella, Angelica, Astrantia, Camomilla
+
+-Petal Archive: Accademy, research technologies
+
+-Stellar Garden: train Camelia, Erica, Gaultheria, Bertolletia
+++Instalment: Herbal Garden: Train Verbea, Lavender defender, produce essence
+++Instalment: Orchard: train Dragon Fruit, Cactus, Plumbago, Bouganville
+
+-Sanctuary: train Santal, Lucuma, Astromagus Icacina, paracrifus, Dipsacal
+++Instalment: Astral Sanctuary: train Gerbera, Adenocaulina, Erythrocephalum, Cardus, Chuquiraga
+++Instalment: Lamian Altar:train Jasminus, Tebebuia, Incensus, Petunia, Sinandra
+
+-Laboratory: train Cestrum, Nicotia, Mandragora, Belladonna, Ashwagandha
+++Instalment: Chaos Laboratory: train Tarconantho, Famatina, Farfaraccioc, Teratogos, Tehuasca
+
+-Blacksmith: research blacksmith upgrades
+++Instalment: Sesamus Forge: research upgrades, train Sesamus, act as drop-off point
+++Instalment: Thorn smith: train Daucus, Sedano, Azorella, Fenkel, Aralia, Eleutherococcus
+
+-Drusa Minecamp: drop off point for minerals, train Drusa
+
+City Cards:
+Solar Surge: +2 archers, +1 Gale rider
+Petal Pact: instant conversion of 2 enemy units
+Spice Trade: +15% G from trading
+Root Wisdom: techs are researched 25% faster
+Belladonna Shipment: +3 Belladonna
+Mental's Gift: healers, support +25% heal range
+DragoFury: Dragon fruit gain +50% atk for 10 sec per kill, stack twice
+Improved thorns: Bouganville +25% reflect
+Leader's Rally: Rhododendron can summon an aura that buffs
+allied florans in 10 tiles for 30s,  +10% atk +15% speed , CD 90s
+Improved Drain: Santail +50% drain power
+Durable Poison Bark: Nyssa +10% armor, poison +7 dmg/sec for 6 sec
+Meditation: double Ashwagandha XP production
+Incendiary peppers: pepper +50% bonus damage and +50% fire duration
+Garrya resonance: double atk buff from Garryas, cap at +150%
+
+Units:
+Den(Barrack)
+--Myrtal Guardian--light melee infantry
+HP 180 Atk 24 rof 1.5 Speed 4.8  Melee/Ranged 20%
+1.5x vs melee infantry 0.5x vs cavalry/shock infantry
+Cost: 80 F 40 G 1 pop 25 sec
+--Cornial:Nyssa Guardian--light melee infantry
+HP 220 Atk 30 rof 2 Speed 4  Melee/Ranged 30% Siege 15%
+1.5x vs light infantry 
+Cost: 90 F 50 G 1 pop 30 sec
+Protector: +10% melee/ranged/siege resistence when nearby allied buildings
+--Crimson Swordman--light melee infantry
+HP 165 Atk 22 rof 1.2 Speed 5.5
+2.5x vs ranged infantry 0.75x vs heavy infantry
+Siege: 24 damage 6 range 3 rof
+Cost: 70 F 30 G 1 pop 22 sec
+Dodge dance: dodge one melee attack every 10 seconds
+--Incendiary Pepper--light ranged infantry
+HP 150 Atk 26(fire) rof 1.5 range 6 Speed 5 Melee 20%  Blast 2.5
+2.5x vs buildings 1.5 vs infantry 0.5x vs cavalry
+Cost: 90 F 60 G 1 pop 36 sec
+--Garrya--light melee infantry
+HP 160 Atk 20 rof 1.5 speed 4.8 Melee/Ranged 20%
+2x vs light infantry 0.75x vs heavy infantry
+Siege: 40 damage 6 range 3 rof
+Cost: 80 F 50 G 1 pop 24 sec
+Teamwork: +5% Atk for each Garrya nearby, max +100%
+Cannot be snared
+--Agrifolium Swordman--light melee infantry
+HP 200 Atk 24 rof 1.6 Speed 4.25 Melee/Ranged/Siege 30%
+1.5x vs cavalry
+Cost: 85 F 45 G 1 pop 27 sec
+Thornmail: return 30% of damage taken back to the enemy
+--Vine Warrior--light melee infantry
+HP 170 Atk 20 rof 1.5 speed 4.5
+2x vs melee infantry
+Cost: 80 F 40 G 1 pop 25 sec
+Vines: summon vines that ensnare up to 5 enemies for 10 seconds.
+Can immobilize any unit, including artillery, buildings and ships.
+Cannot ensanre enemies otherwise. Recharge, 60 seconds.
+--Siege Thorns--siege unit
+HP 240 Atk 40 rof 3 speed 4 Melee/Ranged 40%
+3x vs cavalry/artillery
+Siege: 60 damage 3 rof
+100 W 60 G 2 pop 32 sec
+--Flower Sentinel--light melee infantry
+HP 150 Atk 20 rof 1.25 speed 5.5
+2.25x vs ranged infantry 0.75x vs heavy infantry
+Siege: 24 damage 6 range 3 rof
+65 F 35 G 1 pop 22 sec
+
+Sanctuary
+--Incensus--support
+HP 100 Speed 4.5 Ranged 25%
+Heal 10/s range 12
+Cost: 50 F 30 G 1 pop 20 sec
+--Astral Parasite--support
+HP 160 Atk 20(magic) rof 2 range 18 speed 4.25  Ranged 30%
+2.5x vs heavy infantry 0.5x vs cavalry
+Cost: 120 F 100 G 2 pop 35 sec
+Life Drain: Attack heals unit by 50% of damage dealt
+and slow down target by 30% while under attack
+--Sun Priest--monk
+HP 130 Atk 24(magic) rof 2 Range 20 speed 5  Ranged 25% Blast 1.25
+2.25x vs light infantry  Heal 10/s range 12
+Cost: 75 F 50 G 1 pop 26 sec
+--Dipsacal--light melee infantry
+HP 150 Atk 15 rof 1.5 speed 4.25  Melee/Ranged 20%
+2x light infantry 0.75x vs cavalry
+Cost: 70 F 30 G 1 pop 24 sec
+Sleeping strike:put an enemy to sleep for 10 seconds.
+Sleep gets interrupted when target takes damage. Recharge 10 seconds
+--Paracrifus--magic
+HP 300 Atk 40(magic) rof 2 speed 4  Melee/Ranged/Siege 30%  Blast 2
+3x vs infantry 2x vs cavalry
+Siege: 60 damage 6 range 3 rof
+Cost: 200 F 150 G 3 pop 45 sec
+
+Stellar Garden
+--Gentiana--light ranged infantry
+HP 110 Atk 18 rof 2 range 20 Speed 4.8 Ranged 20% 
+2.25x vs light infantry 0.5x vs cavalry
+Siege: 8 damage 6 range 3 rof
+Cost: 60 F 40 G 1 pop 26 sec
+Sticky: potions apply slow down by 50% for 5 seconds
+--Astromagus--magic
+HP 200 Atk 30(magic) rof 2.5 range 22 Speed 4  Ranged 30%  Blast 4
+2.5x vs heavy infantry
+Siege: 36 damage 6 range 3 rof
+Cost: 125 F 125 G 2 pop 40 sec
+
+ROSA
+Versatile, Booming, Advanced techs, adaptable
+-Units gain XP when nearby allied buildings
+-Units can evolve with XP
+-Fabidi units +10% HP for each unit nearby(max at +100%, that is, 1%HP/sec)
+-Malvidi units +5% atk for each unit nearby(max at +50%)
+-Buildings provide +10% HP to allied units in los
+
+Techs:
+Radical symbiosis: units gain HP and XP when nearby allied buildings
+Fruit Alchemy: spear units deal splash damage
+Flower Ceremony: monks and support gain +10% Atk and +15% movement speed
+ThornBark: heavy infantry reflect 10% damage
+
+Buildings:
+Holy Woods: Town Center, train Cacao Chief
+
+Botanic Archive: Accademy
+
+Aroma Temple: Temple, train Saracas, Galega, Papaya
+++Instalment: Passion Altar: enable Ipericum, Salix, Passiflora, Mirra
+++Instalment: Lunar Altar: enable Oenothera, Alzatea, Combreta, Pomegranate, Picramnia
+
+Den: Barrack, train Nodular spearman, Oak guardian,
+Ruta warrior, Maple guardian
+++Instalment: Ranged post: enable Brassica, Wine Warrior
+++Instalment: Bastion Fabidi: enable Oak guardian, Labichea
+++Instalment: Bastion Malvidi: enable Triplonchiton, Durion, Rose Apple, Jabutica
+++Instalment: Fortress Fabidi: enable Larrea Sand warrior, Guaiaco
+++Instalment: Fortress Malvidi: enable Grewia, Hibiscus, Linen
+
+Rose garden: train celastral warrior, Geranio guardian, rose swordman,
+++Instalment: Forge Fabidi: enable rose mage, Pyrus, Hawthorn, Urtica, Ulmus
+++Instalment: Forge Malvidi: enable Tapiscia, Garcinia
+++Instalment: Officine Fabidi: enable cucurbital grenadier, produce different grenades
+++Instalment: Officine Malvidi: enable Jaborandi, Aurantio, Aegle, Buddha, Longan
+
+Sanctuary: train Eucaliptus, Crossomata, Coca Alchemist
+++Instalment: Malva Altar: enable Ayenia, Sterculia, Dombeya, Malva, Altea
+
+Siege workshop: train Tamarindus, Cempedak, Cercis Red Leaf, Eriobotrya
+++Instalment: Explosion center: enable Guarana, Akee, Rambutan, Jungle olive, Mango
+
+City Cards:
+Urban Symbiosis: buildings are constructed 25% faster
+Root Architecture: buildings 20% HP
+Nodular Roots: Astraglus +5% atk for each allied fabidi unit (max+25%)
+Moon Blessing: +20% atk global during the night
+Fruit Fury: Guarana, Akee, Jungle Olive +20% Atk
+Explosions: self destruct damage +25%
+Living bark: Jabutica, Rose Apple regen 4 hp/sec while idle for more than 10 sec
+
+Units:
+Den(Barrack)
+--Astragalus Nodular Spearman--light melee infantry
+HP 200 Atk 26 rof 1.5 speed 4.4  Melee/Ranged 25%
+2x vs cavalry 1.5x vs shock infantry
+Cost: 85 F 35 G 1 pop 26 sec
+--Oak Bark Guardian--heavy infantry
+HP 240 Atk 32 rof 2 Speed 4 Melee/Ranged 35% Siege 15%
+1.75x vs cavalry
+Cost: 100 F 60 G 2 pop 30 sec
+Protector: +10% melee/ranged/siege resistence when nearby allied buildings
+--Brassica--light shock melee infantry
+HP 140 Atk 25 rof 1.5 speed 5.5 Melee/Ranged 15%
+Cost: 70 F 30 G 1 pop 22 sec
+Irritation: inflict irritation with each hit.
+Target loses 30% movement speed and attack rate for 10 seconds, doesn't stack.
+--Wine Warrior--light melee infantry
+HP 160 Atk 24 rof 1.5 speed 4.8 Melee/Ranged 20%
+1.5x vs melee infantry 0.5x vs cavalry
+Cost: 80 F 40 G 1 pop 25 sec
+Ecstasi: unit gain +25% attack for 16 seconds, recharge 40 seconds
+--Ruta Warrior--light melee infantry
+HP 165 Atk 25 rof 1.5 speed 5
+2x vs light infantry
+Cost: 70 F 30 G
+Corrosion: each hit destroy 5% of target's resistences(all 3)
+--Maple Guardian--heavy melee infantry
+HP 200 Atk 24 rof 1.6 speed 4.2 Melee/Ranged 30% Siege 20%
+1.5x vs cavalry
+Cost: 85 F 45 G 1 pop 27 sec
+Thormail: reflect 20% damage
+--Sand Warrior--light melee infantry
+HP 180 Atk 24 rof 1.5 speed 4.5  Melee/Ranged 25% Siege 10%
+Cost: 90 F 50 G 1 pop 28 sec
+Fire shield: units/buildings nearby take -50% fire/siege damage
+
+Sanctuary
+--Alchemist--magic
+HP 200 Atk 36(fire) rof 3 range 18 speed 4.25  Ranged 25%  Blast 2.5
+2.5x vs heavy infantry 0.5x vs cavalry
+Cost: 120 F 100 G 2 pop 35 sec
+Burn: explosions leave fire, dealing 4dmg/sec for 30 seconds
+--Eucalipt Healer--magic monk
+HP 100 Speed 4.5  Heal 10/s range 12  Ranged 25%
+Cost: 50 F 30 G  1 pop 20 sec
+--Crossomata--magic
+HP 300 Atk 40(magic) rof 2 speed 4 Melee/Ranged/Siege 30%
+3x vs infantry 2x vs cavalry
+Cost: 200 F 150 G 3 pop 45 sec
+Conversion: unit can convert enemy or neutral units, range 12, recharge 60s
+
+Rose Garden
+--Cucurbital warrior--light ranged infantry
+HP 130 Atk 30 rof 3 range 20 speed 5 Ranged 25% Blast 1
+2.25x vs light infantry 0.5x vs cavalry
+Cost: 60 F 40 G 1 pop 26 sec
+--Celastral Warrior--light shock melee infantry
+HP 160 Atk 24 rof 1.4 speed 6.5 Melee 20%
+2.5x vs artillery 0.75x vs heavy infantry
+Cost: 90 F 90 G 2 pop 30 sec
+Stun strike: apply stun for 1.5 seconds, recharge 15 seconds
+--Geranio Guardian--light melee infantry
+HP 150 Atk 20 rof 2 speed 4.5 Ranged 25%
+2x vs light infantry 1.2x vs cavalry
+Cost: 70 F 30 G 1 pop 24 sec
+--Rose Swordman--light melee infantry
+HP 150 Atk 24 rof 1.5 speed 5.5 Melee/Ranged 15%
+2.5x vs ranged infantry 0.75x vs heavy infantry
+Cost: 75 F 35 G 1 pop 22 sec
+Dodge dance: dodge one melee attack every 10 seconds
+
+
+COMMELINI-MONOCOTILEDONI
+defense, boom
+-Air Tower: defensive building that heal allies in range
+-Temple can upgrade units in group of three
+-Buildings can expand and multiply slowly by themselves
+
+Techs:
+Photosyntesis: Floran units and buildings regen 0.5% HP ever second
+Ecological Adaptability: floran units and
+
+Buildings:
+Den: barrack, Poace train Wind blade, Areca spearman, Cypera Sentinel, Hydrocharita
+<<Wet Den: train Acora warrior, Alismata leaf shield
+<<Flower Den: train Agavenger, Asparagus, Asphodelus, Astelia
+<<Rizomatic Den: train Dioscorea Serpent
+<<Wind Den: train Pandan Spiral Blade
+<<Shadow Den: train Petrosavia
+Sanctuary: train Hanguana, Commelinidi Blue Runner
+<<Orchard: train banana warrior, ginger mage, Orchidanthia, Golden root
+<<Farm: train Zea, Ananas, Cypera Sentinel, Wind Blade
+Lilia Garden: train Corsia, Lilium, Garlic, Tulip warrior
+
+City Cards:
+
+Units:
+Den(Barrack)
+--Wind Blade--light melee shock infantry
+HP 120 Atk 18 rof 1.25 Speed 5.5 Melee 20%
+Cost: 80 F 20 G 1 pop 25 sec
+Aerodinamic: +20% movement speed for 4 seconds after a kill
+--Areca Warrior--heavy melee infantry
+HP 180 Atk 24 rof 1.5 speed 4.5  Melee 30%
+1.25x vs cavalry
+Cost: 100 F 20 W 1 pop 30 sec
+Rally Guard: allies nearby +10% resistence(M/R/S)
+--Banana warrior--siege melee infantry
+HP 140 Atk 20 rof 1.5 speed 5
+Cost: 90 F 30 G 1 pop 28 sec
+Stun: stun an enemy for 3 sec, recharge 7.5 sec
+--Cypera Sentinel--light ranged infantry
+HP 100 Atk 22 rof 3 range 16  speed 5  Ranged 20%
+1.3x vs ranged cavalry
+Cost: 60 F 30 W 1 pop 20 sec
+>>Wet Den
+--Acora Warrior--light melee infantry
+HP 125 Atk 20 rof 1.5 speed 5 Melee 25%
+Cost: 75 F 25 W 1 pop 24 sec
+--Alismata Leaf Shield--light melee infantry
+HP 160 Atk 20 rof 1.5 speed 4.5  Melee 35%
+Cost: 80 F 40 W 2 pop 30 sec
+Thormail: reflect 50% of damage taken
+>>Flower Den
+--Agavenger--light melee infantry
+HP 130 Atk 20 rof 1.2 speed 5 Melee/Ranged 15%
+1.4x vs ranged infantry
+Cost: 90 F 50 G 1 pop 28 sec
+Slow: apply -20% slow movement for 3 sec for each hit
+Resurrection: unit has a 25% to return to the battlefield with 50% max hp left
+--Tulip Warrior--light melee infantry
+HP 110 Atk 20 rof 1.5 speed 5 Melee/Ranged 20%
+Cost: 70 F 40 G 1 pop 26 sec
+Perfume: enemies nearby get -10% atk for 5 sec, effect
+is reapplied every 5 sec
+>>Rizomatic Den
+--Dioscorea Snake--siege unit
+HP 100 Atk 25 rof 1.5 speed 6 Ranged 20%  blast 1.5
+0.6x vs cavalry
+Siege: 50 damage 3 rof
+Cost: 80 F 40 G 1 pop 30 sec
+Burrow: unit can move underground, while underground,
+cannot be targeted or damaged
+>>Wind Den
+--Pandan Spiral Blade--light melee shock infantry
+HP 150 Atk 25 rof 1.5 speed 6 Melee 25%
+Cost: 95 F 30 W 1 pop 30 sec
+Whirlwind: every 9 seconds, deal splash damage in area 2
+Switch Shield: switch melee resistence with ranged resistence and viceversa
+>>Shadow Den
+--Petrosavia--light melee infantry
+HP 100 Atk 28 rof 2 speed 6 Ranged 30%
+Cost: 65 F 35 G 1 pop 20 sec
+Invisibility: unit becomes invisible for 8 seconds, recharge 30s
+
+Sanctuary
+--Ginger Mage--magic
+HP 120 Atk 24-8 rof 3-1.5 range 10 speed 4.5 Ranged 25%   Blast 2.5
+Cost: 80 F 45 G 2 pop 35 sec
+Irritation: attack applies -20% damage reduction for target for 5 sec
+--Blue Runner--light melee shock infantry
+HP 90 Atk 20 rof 1.5 speed 6 Ranged 10%
+Cost: 60 F 30 G 1 pop 20 sec
+Illusion: create a copy of itself with 20 HP and no attack, recharge 30sec
+
+
+MAGNOLIA AND ANGIOSPERME BASALI
+defense, boom
+-Buildings provide XP over time
+
+Buildings:
+Tepalo Temple: Temple, train Canella, Winter Dryms
+++Instalment: Magnolian altar: upgrades units
+
+Sanctuary: train Ascarina, Sarcandra
+++Instalment: Officine: enable Piper petard and Myristica
+
+Spiral Garden: train Laural, Atheros, Avocado, Camphora
+++Instalment: enable Magnolian guard
+++Instalment: enable Camphora upgrades
+
+Lake Den: train Amborella, Floating Eye warrior, Austrobailey
+
+Units:
+Spiral Garden
+--Magnolian Guard--heavy melee infantry
+HP 200 Atk 30 rof 2 speed 4.25 Melee 30%
+1.33x vs heavy infantry/cavalry/shock infantry
+Cost: 100 F 20 W 1 pop 30 sec
+Perfume: enemies nearby get -10% atk for 5 sec, effect
+is reapplied every 5 sec
+--Laural--light ranged infantry
+HP 110 Atk 26-8 rof 3-1.5 range 10 speed 4.5 Ranged 25%
+1.3x vs heavy infantry
+Cost: 55 F 35 G 1 pop 20 sec
+
+Tepalo Temple
+--Canella--light shock melee infantry
+HP 105 Atk 20 rof 1.5 speed 5 Melee 20%
+Cost: 65 F 35 G 1 pop 20 sec
+
+Sanctuary
+--Piper petard--siege ranged infantry
+HP 100 Atk 24-8 rof 3-1.5 range 18 speed 5 ranged 20%  Blast 1
+Ranged: 1.25x vs cavalry 0.75x vs heavy infantry
+Cost: 90 F 40 W 1 pop 28 sec
+--Myristica--light melee infantry
+HP 120 Atk 28 rof 2 speed 5 Melee/Ranged 15%
+1.3x vs ranged infantry
+Cost: 100 F 60 G 2 pop 35 sec
+Trance: for 10 seconds, +25% attack rate, -25% movement speed, recharge 30s
+
+Lake Den
+--Amborella--magic
+HP 150 Atk 20 rof 2 speed 4.25 Melee/Magic 40%
+Cost: 90 F 50 G 2 pop 32 sec 
+--Floating Eye Warrior--light melee infantry
+HP 150 Atk 20 rof 1.5 speed 5
+Cost: 80 F 30 W 1 pop 26 sec
+--Austrobailey--magic
+HP 110 Atk 25 rof 3 range 14 Ranged 25%   Heal 10/s range 12
+Cost: 85 F 40 G 1 pop 30 sec
+Fog: enemies in range move 15% slower
+
+
+MERCENARIES
+FERN
+--Spore Shooter--light ranged infantry
+HP 110 Atk 20-7 rof 3-1.5 range 16 speed 5 Ranged 25%
+1.5x vs light ranged infantry
+Cost: 80 F 20 G 1 pop 25 sec
+Blind: blind a target for 3 seconds, blinded targets
+have 70% to miss their attacks, rrcharge 15 sec
+--Frondan Architect--civilian infantry
+HP 180 Atk 22 rof 1.5 speed 4.2 Melee 40%
+Cost: 100 F 40 W 2 pop 30 sec
+Builder: unit can build buildings for free, but at a slower rate
+--Fog Shaman--monk
+HP 130 Atk 15 rof 1.5 speed 4.5 Melee/Ranged 20%
+Cost: 90 F 30 G 2 pop 32 sec  Heal 10/sec range 12
+Fortify: allies regen 1 Hp/sec
+--Rizoma Shaman--monk
+HP 120 Atk 15 rof 1.5 speed 5  Melee/Ranged 20%
+Cost: 90 F 50 G 2 pop 32 sec  Heal 10/sec range 12
+Fractal Cycle: increase attack by 100% and reduce move speed
+by 50% for 6 sec, recharge 30 sec
+PINO
+--Pine Guardian--heavy melee infantry
+HP 200 Atk 24 rof 1.5 speed 4.25 Melee 35%
+1.25x vs heavy infantry
+Cost: 100 F 40 F 2 pop 30 sec
+Perfume: enemies nearby get -10% atk for 5 sec, effect
+is reapplied every 5 sec
+--Araucaria--siege melee infantry
+HP 220 Atk 32 rof 2 speed 4 Melee 40% Trample 30%
+1.5x vs buildings
+Cost: 120 F 60 W 3 pop 36 sec
+--Cipressus Archer--light ranged infantry
+HP 130 Atk 24-8 rof 3-1.5 range 12 speed 4.5 Ranged 25%
+0.7x vs cavalry/shock infantry
+Cost: 90 F 10 G 2 pop 32 sec
+Perfume: enemies nearby get -10% atk for 5 sec, effect
+is reapplied every 5 sec
+--Ephedra Archer--light ranged infantry
+HP 110 Atk 30-10 rof 3-1.5 range 18 speed 5.5 Ranged 30%
+1.25x vs cavalry 0.6x vs shock infantry
+Siege: 15 damage 6 range 3 rof
+Cost: 90 F 35 G 1 pop 26 sec
+Ephedric infusion: +10% speed for 5 seconds and heal for 5 hp per kill

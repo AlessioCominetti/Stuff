@@ -1,0 +1,181 @@
+-the rosa became one of the most noble and elegant floran tribes.
+They became a kingdom after the unification of the civil wars,
+the rosa kingdom may be small, but their warriors are the
+most decisive and strong among floran. They are often
+prideful and arrogant, but they never retreat from battle.
+Like the Aster, they prefer to find glory in death in battle.
+Cowardice is punished and great awards are bestowed upon
+the survivors of skirmishes and battles. Unlike the
+Aster, only the nobles prefer to fight. The commoners
+work a farmers, builders and artisans.
+They have a caste system. Only the ones who belong to the
+Rosa family are allowed to pursue the maximum rank
+of Rosa soldiers. The land of Rosa are filled with fine sand
+grains and the fishes have a lot of stone inside their bellies.
+
+-Floran units and buildings regen hp outside battle
+-Floran units and buildings are created for free automatically
+but 5 times slower. Can be sped up with resources
+-Military units gain +10% hp and atk 5 minutes after they spawn
+-All military units get a special ability: blooming.
+When in battle, +20% atk and movement speed for 10 seconds, CD 2 min
+-Villagers work 30% slower but resources are deposited remotely
+-farmers and fishermen generate a small tickle of S
+-Villagers and buildings have thorned armor, 20% return of damage
+
+UNITS
+--FABIDI--
+Saxifraga
+skirmisher with slowing javelins
+Bonus: +1/1 armor in mountain, double regen in forest
+
+Vite
+Create vine traps who paralyze enemies who step on them
+Bonus: +25% stun duration in forest, +10% movement speed in beach
+
+Cucurbitales grenadier
+Ranged unit who deals blast damage over a small area
+Bonus: +1 atk in desert, +20% blast area in swamps
+
+Nodular Astragalus pikeman
+spearman with good melee armor
+Bonus: +4 dmg vs cavalry in desert, +1/1 armor in mountain
+
+Galega
+healer
+Bonus: +20% healing in swamp/forest, +1 range in forest
+
+Glicine
+shock infantry that is effective vs cavalry
+Bonus: +1 atk in forest
+
+Ulex spear armor
+spearman with thorn armor
+Bonus: +2/0 armor in mountain, +1 atk in desert
+
+Acacia archer
+foot archer with thorn armor
+Bonus: +1 range in forest, +1 atk in desert
+
+Cercis Red Leaf
+shock infantry with great armor
+Bonus: +1 atk in forest
+
+Tamarindus axe scout
+shock infantry with good attack and pierce armor
+Bonus: +1 atk in desert, +10% movement speed in forest
+
+Labichea Sentinel
+Spearman/skirmisher hybrid. Effective vs archers and cavalry
+Bonus: +1/1 armor in mountain, double regen in swamp
+
+Cassia fistula
+Melee infantry with fast attack rate
+Bonus: +10% fire rate and movement speed in forest and beach
+
+Bark Kastanas Guardian
+heavy infantry
+Bonus: +2/2 armor in mountain, double regen in forest
+
+Rose Swordman
+Elite swordman with fast attack rate
+Bonus: +1 atk in forest/desert/mountain, +1/1 armor in swamp
+
+Hawthorn Halberdier
+halberdier with thorn armor
+Bonus: +1/1 armor in forest, +1 atk in mountain
+
+Ulmus Rubra
+heavy infantry
+Bonus: +2/2 armor in forest, double regeneration in mountain
+
+Larrea Sand Warrior
+shock infantry
+Bonus: +2 atk in desert/beach
+
+Guaiaco
+heavy infantry with increased resistence
+Bonus: +20% resistence and +1/1 armor in mountain and forest
+
+Ziziphus
+shock infantry
+Bonus: +1 atk in desert
+
+--COM--
+Celastros
+Ipericum Red Oil
+Salix
+Passiflora Crusader
+Garcinia Mangostana
+Linen
+Carambola
+--MALVIDI--
+Brassica
+Geranio Petal Shield
+Tapiscia Huertala
+Cacao
+Altea
+Hibiscus
+Malva
+Oenothera
+Mirto
+Alzatea
+Eucalyptus
+Melograno
+Syzygium (rose apple)
+Jabutica
+Tea Tree
+Ruta
+Jaborandi
+Aurantio
+Aegle Spirit Walker
+Guarana
+Litchi
+Mango
+jungle olive
+maprang
+Akee
+Longan
+Mirra
+
+BUILDINGS
+
+Rose Hall
+Train villagers, drop oof point for resources and give +5 population
+-Forest: produce a small tickle of W
+-Beach: villagers drop off +10% F
+-Desert: produce a small tickle of S
+-Mountain: villagers +5 HP
+-Swamp: villagers gain a poison effect
+
+Fabidi Lodge
+train Fabidi units
+-forest: infantry get +1 atk
+-swamp: infantry get a poison effect
+-desert: infantry gain 20% thorns
+-mountain: infantry gain 12 hp/min regen in/out combat
+-beach: units are trained 15% faster
+
+Com Lodge
+train Com units
+-forest: units recover hp 50% faster
+-swamp: mages apply slow down 30%
+-desert: units deal +2 dmg to buildings
+-mountain: units get +2 resistence
+-beach: units +15% movement speed
+
+Malvidi Lodge
+train Malvidi units
+-forest: units +1 ranged attack
+-swamp: units deal 1 splash damage
+-desert: units +10% fire rate
+-mountain: units +1/1 armor
+-beach: heal 5 hp after death to allies in 8 tiles
+
+Rose Tower
+Change projectile
+-forest: +1 atk
+-swamp: poison
+-desert: fire damage
+-mountain: +3 dmg vs buildings
+-beach: 25% pass through damage

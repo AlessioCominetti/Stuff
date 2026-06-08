@@ -1,0 +1,1093 @@
+TECHS
+Each Florans can research 1 Flower tech in Castle Age and 
+another one in Imperial Age. Can also research 1 more with 
+a special tech researched at the Fortress.
+
+REMOVED
+--sappers, loom, bombard tower and all guns and cavalry
+
+TOTAL (61)
+Economy 12
+Upgrade farms I/II/III: decrease cost of farms by 20%   75/150/225 F/W 20/40/70 sec
+Woodcutting I/II/III: woodcutter work 20% faster 75/150/225 F/W 30/60/90 sec (-100 F +100 W cost in total)
+Mining I/II/III: miner work 10% faster  100/150/250 F 50/100/150 W 60/70/80 sec
+Buy new fishing nets I/II/III: fisherman/fishing ships work 10% faster F  50/100/150 F/W 15/20/30 sec (+100 F cost in total)
+
+Temple 8
+III)Study scriptures: shaman +50 Hp 300 G 100 sec 
+(Sanctity+Fervor) (-15 G cost, -10 sec)
+III)Heresy 1000 G 60 sec
+III)Study herbal medicine: increase healing rate by 50%  200 G 40 sec
+(also applies normal effect of herbal medicine)
+III) Mind Control: enable dark mages to convert other monks,siege and buildings 1000 G 160 sec
+(redepmtion+atonement+theocracy)
+IV)Ancient tradition: shaman/dark mage +3 healing/conversion range 200 G 60 sec
+(blockprinting)
+III/IV) devotion/faith 100/550 F 200/750 G 40/60 sec
+IV)Rituals: cut in half creation time of shamans/dark mages  200 G 50 sec
+(illumination is free)
+
+Barrack 3
+II) War march: all foot soldiers +10% movement speed 100 F 40 sec (affects also Archery range units)
+II) Arsony: infantry +2 atk vs building  75 F 25 G 30 sec
+IV) Combat drill: macahuitl,macana,maceman +2 atk 500 F 300 G 50 sec
+(combat drill is the upgrade for champion, saves 150 F 50 G 15 sec)
+
+Archery Range 3
+III)shooting practice: archers have 100% accuracy and have better accuracy
+against moving targets, moreover, they fire around 15% faster  550 W 250 G 100 sec
+(combine thumb ring with ballistics, +75 G -300 F, +5 sec)
+III) Atlat: Javelin warriors +1 range and attack 400 F 400 W 40 sec
+IV) Archery tradition: archers -20% creation time  150 F 150 G 40 sec
+
+Siege workshop 2
+IV) Drill: siege units +25% movement speed (except siege tower) 250 W 250 G 30 sec
+IV) siege engineers: siege +25% bonus damage, ranged siege +1 range 600 F 600 W 45 sec
+(cost +100 F, but does +5% bonus damage compared to standard siege engineers)
+
+Fortress 2
+IV) Combat school: military non siege units are trained 33% faster and get +10% HP  150 F 150 G 60 sec
+IV) Hoardings: Fortress +1000 HP  400 F 400 W 75 sec
+
+Blacksmith 9
+II)Forging: +1 atk to melee   150 F 50 sec
+III) Bronze Casting: +1 atk to melee  225 F 125 G 75 sec
+IV) Blast Furnace: +2 atk to melee 275 F 225 G 100 sec
+II) Leather armor: foot units +1/1 armor 200 F 80 sec
+III) Cotton armor: foot units +1/2 armor 350 F 250 G 110 sec
+IV) Quilted armor: foot units +2/2 armor 550 F 400 G 140 sec
+II) Fletching: ranged units +1 atk and range 100 F 50 G 25 sec
+III) Bodkin Arrow: ranged units +1 atk and range 200 F 100 G 35 sec
+IV) Bracer: ranged units +1 atk and range 300 F 150 G 45 sec
+(saves 100 F 100 G 25 sec thanks to lacking Gambesons)
+
+University 12
+III/IV)Guard tower/Keep:  100/500 F 250/350 W  30/70 sec
+III) Fortified wall: upgrade stone walls to fortified walls  200 F 100 W 50 sec
+IV)Fire arrow: ranged units +1 attack, +2 atk to buildings, all
+buildings do extra damage to ships 650 F 300 G 130 sec
+(Fire arrows are chemistry and heated shot combined)
+III) Machicolations: remove min range of defensive buildings 200 F 100 s 30 sec
+III) Arrowslits: fortifications +1/2/3 atk 250 F 250 W 30 sec
+III/IV) Buildings +10% HP, +1/1 armor and +4 building armor and -10% build time 200/300 F 250/300 W 60/80 sec
+(combines architecure and treadmill crane, cost +50 F -25 W -50 S)
+IV) Unlock ballista tower 800 F 400 W 60 sec
+III) Careening/Dry Dock: ships +0/1 armor  100/200 F 200/400 G 50/60 sec
+III) Clinker/Carvel Hull: shis +10% movement speed  150/350 F 100/200 W 50/60 sec
+IV) Shipwright: ships cost -20%, are built 60% faster  1000 F 300 G 60 sec
+(lacks siphons and incendiaries, saves 300 F 175 W 325 G 95 sec)
+
+Market 2
+III) Casqui: trade units move 20% faster 200 F 200 G 40 sec
+IV) Secure trade routes: remove tribute and trading fee 800 F 500 G 200 sec
+(combines coinage,banking and guild, +10 sec)
+
+Town Center 8
+II) Town Watch: Buildings +4 Los 75 F 25 sec
+III) Town Patrol: Buildings +4 los 150 F 50 G 35 sec
+IV) Town Guards: Buildings +2 los 150 F 50 G 35 sec
+Feudal/Castle/Imperial Age: 500/800/1000 F 0/200/800 G 130/160/190 sec
+II) Backpack: villager +3/7 carry capacity, +10% movement speed 175/300 F 50/200 W 55/75 sec
+
+BUILDINGS
+Town Center
+HP 2000 (2400)
+Garrison 25
+Atk 5 (9)
+Rof 2.0
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+ArmorM 3-5-6-8 (12)
+ArmorP 5-6-7-9 (13)
+building armor 2 (10)
+4x4 tiles
+Cost 300 W 100 S 150 sec
+
+Mill/Lumber/Mining camp
+HP 600-800-1000-1000 (1200)
+Los 6
+ArmorM 0-1-2-3 (7)
+ArmorP 7-8-9-10 (14)
+2x2 tiles
+Cost 100 W 25 sec
+
+Farm
+HP 480 armor 0/0 3x3 tiles yield 240 F
+Cost 60-48-36-24 W 15 sec
+
+Market
+HP 1500-1800-2100 (2520)
+Los 6
+ArmorM 1-2-3 (7)
+ArmorP 8-9-10 (14)
+4x4 tiles
+Cost 200 W 60 sec
+Produce 6 G/min while not making any research
+
+Shipyard
+HP 2000 (2400)
+Garrison 10 Los 6
+ArmorM 0-1-2-3 (7)
+ArmorP 7-8-9-10 (14)
+3x3 tiles
+Cost 150 W 40 sec
+
+Blacksmith
+HP 1500-1800-2100 (2520)
+ArmorM 1-2-3 (7)
+ArmorP 8-9-10 (14)
+3x3 tiles  los 6
+Cost 150 W 40 sec
+
+University
+HP 2100 (2520)
+Armor 3/10 (7/14)  los 6  4x4 tiles
+Cost 200 W 60 sec
+
+Barrack/Archery Range/Siege workshop
+HP 1200-1500-1800-2100 (2520)
+ArmorM 0-1-2-3 (7)
+ArmorP 7-8-9-10 (14)
+3x3 tiles  los 6  Garrison 10
+Cost 200 W 50 sec
+
+Fortress(Castle)
+HP 6000 (8200)
+Garrison 40
+Atk 11 [15]
+projectiles 5
+vs ships +12 [24]
+Rof 2.0
+Range 8 (13)
+Los 11 (16)
+Accuracy 100%
+Armor 8/11 (12/15)
+building armor 12 (20)
+5x4 tiles   +20 population
+Cost 750 S 240 sec
+
+House
+HP 600-750-900-1000 (1200)
+Garrison 5
+ArmorM 0-0-1-2 (6)
+ArmorP 7-8-9-10 (14)
+2x2 tiles Los 1   +5 population
+Cost 25 W 25 sec
+
+Temple
+HP 4000 (4800)
+Garrison 20
+Atk 11 (15)
+Rof 2.0
+Range 8 (11)
+Los 10 (13)
+Acuracy 100%
+Armor 8/11 (12/15)
+building armor 12 (20)
+4x4 tiles
+Cost 200 W 50 sec
+
+Tower
+HP 940-1650-2500 [3000]
+Garrison 5
+Atk 5-7-8 [15]
+vs ships +6-9-10 [20]
+Rof 2.0 
+Range 8 [11]
+Los 10 [13]
+ArmorM 1-2-3 [5]
+ArmorP 7-8-9 [11]
+1x1 tile
+Cost 50 W 125 S 80 sec
+Up cost 250 W 100 F 30 sec
+Up cost 350 W 400 F 70 sec
+
+Ballista Tower
+HP 2500 [3000]
+Garrison 5
+Atk 40
+vs ships 15 [30]
+Rof 2.0
+Range 8 [11]
+Los 10 [13]
+Armor 3/9 [5/11]
+1x1 tile
+Cost 100 G 125 S 80 sec
+Special: ignore 50% of target's pierce armor
+
+All florans share some silimarities.
+--Villager count as an infantry unit, as such, it benefits from
+armor upgrades and attack upgrades
+for this reason, they don't have loom
+--All florans regen 12 Hp/min when not fighting
+--Shaman replace the priest: it's a unit that can heal
+and fight in melee, but cannot convert.
+--Dark mage are the only floran units that can convert.
+--Start with -50 G, cannot research loom
+
+UNITS
+Villager
+HP 40
+Atk 2 [6]
+Rof 2.0
+Armor 0/1 (4/6)
+Speed 0.8 [0.96]
+Cost 50 F 25 sec
+
+INFANTRY
+
+Macana warrior-macahuitl warrior-elite macahuitl warrior
+Foot soldier who is strong s other infantry units and buildings
+HP 45-60-65 [72]
+Atk 6-9-12 [18]
+vs building +2-3-4 [6]
+vs shock +1-2-4
+vs infantry +1-2-4
+Rof 2.0
+Armor 0/1 [4/6]
+Speed 1.0 [1.1]
+Los 6
+Cost 50 F 25 G 24-18 sec
+Up cost 150 F 50 G 40 sec
+Up cost 250 F 100 G 50 sec
+
+Jungle spearman-Holcan-elite holcan
+Replace spear-line
+HP 50-60-70 [77]
+Atk 4-5-6 [10]
+vs cavalry +9-13-20
+vs camels +6-10-15
+vs elephants +9-13-20
+Rof 2.0
+Range 0.3
+Armor 0/0 [4/5]
+Speed 1.0 [1.1]
+Los 6
+Cost 35 W 35 F 24-18 sec
+Up cost 150 F 100 G 40 sec
+Up cost 350 F 550 G 80 sec
+
+Mace scout-Mace runner-Mace warrior-elite mace warrior
+Fast moving infantry with great resistence against arrows
+Replace starting scout and militia. Weak to infantry.
+HP 40-45-55-65 [72]
+Atk 3-5-7-7 [13]
+vs cavalry +1-2-3-5
+vs camels +1-2-3-4
+vs siege +0-1-3-5
+vs buildings +0-1-2-3 [5]
+vs monks +0-0-2-2
+Rof 2.0
+Armor 0/2-0/2-0/2-0/3 (4/8)
+Speed 1.1-1.1-1.15-1.3 (1.43)
+Los 8  (5 in Dark Age)
+Cost 45 F 30 G 50-40-36-27 sec
+Up cost 100 F 50 G 20 sec
+Up cost 200 F 200 G 50 sec
+Up cost 800 F 500 G 100 sec
+
+Maceman-elite Maceman
+Slow moving infantry unit with high attack and trample damage,
+effective vs infantry and buildings
+HP 80-100 [110]
+Atk 12-14 [20]
+vs building +10-12 [14]
+vs shock +2-4
+Rof 2.0
+Trample radius 0.5 damage 50%
+Armor 7/1-9/1 [13/6]
+Speed 0.8 [0.88]
+Cost 75 F 40 G 32-24 sec
+Up cost 900 F 500 G 100 sec
+
+Magnolian shield guard
+Slow moving infantry unit with excellent pierce armor
+HP 80-100 [110]
+Atk 10-12 [16]
+vs archers +6-10
+vs buildings +4-8 [10]
+vs shock +2-3
+Rof 2.0
+Armor 2/5 [6/10]
+Speed 0.8 [0.88]
+Los 6
+Cost 70 F 40 G 36-28 sec
+Up cost 1200 F 600 G 80 sec
+
+ARCHERS
+
+Jungle archer
+HP 30-35-40 [44]
+Atk 4-5-6 [10]
+Rof 2.0 [1.7]
+Range 4-5-5 [8]
+Los 6-7-8 [11]
+Accuracy 75-80-85% [100%]
+Armor 0/0 [4/5]
+Speed 1.0 [1.1]
+Cost 35 W 35 G 35-27-22-18 sec
+Up cost 175 F 100 G 40 sec
+Up cost 450 F 350 G 50 sec
+
+Jungle Javelin warrior
+HP 30-35 [39]
+Atk 2-3 [8]
+vs archers 3-4
+vs spear 3-4
+vs cav archer 0-2
+Rof 2.5 
+Range 4-5 [9]
+Los 6-7 (11)
+Accuracy 90% [100%]
+Armor 0/3 [4/8]
+Speed 1.05 [1.15]
+Cost 35 F 35 W 30-24 sec
+Up cost 250 W 150 G 60 sec
+
+Slinger
+HP 30-35-40 [44]
+Atk 4-5-6 [10]
+vs infantry +3-4-5
+vs spear +2-3-4
+vs monks +0-3-5
+Rof 2.0
+Range 4-5 [8]
+Los 6-7 [10]
+Accuracy 80% [100%]
+Armor 0/1 [4/6]
+Speed 1.05 [1.15]
+Cost 50 F 40 W 24-18 sec
+Special: attack ignores half of target's pierce armor
+(rounded down, ex. armor 7->4)
+Up cost 150 F 150 G 40 sec
+Up cost 450 F 300 G 60 sec
+
+Arrow Knight
+Replacement for Trebuchet/Bombard cannon
+HP 70 [77]
+Atk 8 [12]
+vs building +12
+vs ships +8
+vs siege +2
+Rof 3.0 (2.55)
+Range 12 [15]
+Los 14 [17]
+Accuracy 30-40% vs units 100% vs buildings
+Armor 2/2 [6/7]
+Speed 0.9 [0.99]
+Cost 100 W 100 G 80-60 sec
+Special: set buildings on fire, dealing 25 dmg over 5 seconds,
+can stack up to 10 times. (dmg is 300 hp/min)
+
+Blowpipe warrior
+Fast moving ranged unit which inflicts deadly poison on hit.
+Low damage, great for harassing
+HP 50-55 [60]
+Atk 3-4 [8]
+Rof 4.0 accuracy 50-65%
+Poison 120/150 Hp/min, last 30 seconds
+Range 3 [6]
+los 5 [8]
+Armor 0/1 [4/6]
+Speed 1.2-1.3 [1.43]
+Cost 60 W 40 G 36-27 sec
+Up cost 900 F 500 G 50 sec
+
+SIEGE
+
+Mantlet
+Ballista with high pierce armor, benefits from archery range
+and siege upgrades. Effective vs buildings, ranged units and siege
+HP 40-60
+Atk 9-11 [15]
+vs elelphant 7-9 [11]
+vs building 3-5 [6]
+Rof 4.0 [3.4]
+Range 4 [8]  minimum range 2
+Los 6 [10]
+Accuracy 75-80% [100%]
+Armor 0/8-2/10
+Speed 0.6 [0.75]
+Cost 75 W 75 G 30 sec
+Up cost 800 F 700 W 50 sec
+Special: pass trough damage with 50%
+power up to 3 foes
+
+Wari Siege Tower
+HP 400
+Arrow 6 [10]
+Rof 2.0
+Range 6 [10]
+Los 8 [12]
+Accuracy 90%
+Armor 0/100
+Speed 0.96
+Garrison 20   +1 extra arrow for every 2 soldiers garrisoned
+Cost 240 W 200 G 72 sec
+
+Jungle Catapult
+HP 50-60-70
+Atk 45-60-75 (+3/6/9 extra projectiles which deal 1 damage)
+vs heavy siege 32-40-48 [60]
+vs building 40-50-60 [75]
+vs siege 8-10-12 [15]
+Blast 1.0-1.25-1.5
+Rof 6.0
+Range 7-8-8 [9]
+Min range 4
+Armor 1/6-1/7-1/8
+Speed 0.6 [075]
+Cost 150 W 150 G 48 sec
+Up cost 800 F 500 G 75 sec
+Up cost 1500 F 1000 G 150 sec
+
+Jungle ram-Heavy Jungle ram
+HP 180-270
+Atk 3-4
+vs building 150-200 [250]
+vs siege 40-64 [80]
+Rof 5.0
+Armor 0/180
+Speed 0.5 [0.62] +0.05 for each garrisoned foot soldier
+Garrison 6
+Cost 160 W 80 G 36 sec
+Up cost 1200 F 120 sec
+
+Icistus Fire tree
+Kamikaze plant, leaves fire damage on death
+HP 60
+Atk 20
+vs buildings +600 (750)
+vs wall/gate +1200 (1500)
+vs siege +100
+Blast 1.0 tapering effect
+Armor 0/2
+Speed 1.0
+Los 6
+Cost 75 F 25 G 30 sec
+Special: leaves fire on the ground, dealing
+60 damage/min for 10 seconds, buildings set on fire
+will take 10 times more damage.
+Fire effect doesn't stack but can be prolonged
+with new explosions
+
+MONKS
+
+Shaman
+Priest that uses a lance to attack foes while not healing.
+Can also heal and carry relics but cannot convert.
+HP 75 [125]
+Atk 11 [15]
+Rof 2.0
+Healing 120 Hp/min [180]
+Healing Range 3 [6]
+Los 12
+Armor 0/0 [4/5]
+Speed 1.0 [1.1]
+Cost 80 G 40 sec
+
+Dark Mage
+Priest that can convert faster, but slow and with shorter range
+HP 50
+Range 9 [12]
+Los 9 [12]
+Armor 0/0
+Speed 0.85 (0.94)
+Cost 100 G 50 sec
+
+SHIPS
+All canoes can carry units inside
+
+CIVILIAN SHIPS 
+
+Fishing canoe
+A small canoe that gather fish and defend itself with a bow.
+Can be upgraded in Castle Age to strong fishing canoe.
+Battle/Boarding/Incendiary canoes can be changed
+into one another with a special command, change canoe.
+Command has a 60 seconds cooldown.
+HP 50
+Atk 4 [8]
+Rof 2.0 [1.7]
+Range 4 [7]
+Los 6 [9]
+accuracy 100%
+Armor 1/1 [1/3]
+Speed 1.2 [1.44]
+Cost 75[60] W 40[25] sec
+
+Ferry: exclusively carry units
+HP 70
+Carry 20 units
+Armor 0/2 [0/4]
+Speed 1.5 [1.8]
+Los 7
+Cost 125[100] W 44[27.5] sec
+
+Trade canoe
+HP 80
+Armor 0/6 [0/8]
+Speed 1.65 [1.96]
+los 6
+Cost 100[80] W 50 G 36[22.5] sec
+
+WARSHIPS
+
+Scout canoe
+Small scouting warship. Effective vs fire,boarding and demo ships.
+Weak to buildings and arrow ships. Occupies half population space.
+HP 80
+Atk 3-4-4 [8]
+vs long_range_warships +3
+vs fire ships +3
+vs buildings +2
+Rof 2.0
+Range 4-5-6 [9]
+Armor 0/6-1/6-2/8 [2/10]
+Speed 1.5 [1.8]
+Cost 60 W 20 G 27-20[12.5] sec
+
+Battle canoe
+Basic warship that shoot multiple arrows or shoot
+long range fire arrows, acting as a shorter range
+cannon galleon. 
+HP 100-110-140
+Atk 5-6-7 [11] [+2 extra projectiles]
+vs long_range_ships +3-4-5
+vs building +2
+Rof 2.0
+Range 5-6-7 [10]  +5 vs buildings
+Los 7-8-9 [12]
+Accuracy 100%
+Armor 0/4-0/4-0/6 [0/8]
+lon_range_ship armor +1-1-2
+Speed 1.4 [1.68]
+Cost 90 W 30 G 36-27[17] sec
+Up cost 150 W 100 G 50 sec (for all three canoes)
+Up cost 400 W 300 G 70 sec
+Special: gain a long range fire attack that is
+effective vs buildings in Imperial Age.
+Fire damage: 240 dmg/min for 5 seconds (20 dmg)
+can stack up to 10 times.
+
+Boarding canoe
+Warship with a melee attack, cannot attack buildings.
+Attack is improved with blacksmith melee upgrades.
+HP 100-125-150
+Atk 9-10-12 [16]
+Rof 1.0
+Range 1
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.4 [1.68]
+Cost 90 W 30 G 36-27[17] sec
+Up cost 150 W 100 G 50 sec (for all three canoes)
+Up cost 400 W 300 G 70 sec
+
+Fire canoe
+Warship who spew fire to ships. 
+HP 100-110-140
+Atk 4-6-8
+vs long_range_warships +2
+Rof 0.5
+Range 2
+Armor 1/4-2/4-4/7 [4/9]
+Speed 1.4 [1.68]
+Cost 90 W 30 G 36-27[17] sec
+Up cost 150 W 100 G 50 sec (for all three canoes)
+Up cost 400 W 300 G 70 sec
+
+Incendiary canoe
+Demo ship equivalent, leaves fire damage on targets
+HP 40-50-70
+Atk 60-75-100
+vs building +180-240-300 [375]
+Blast radius 2.5-3-3.5
+Armor 0/0 [0/2]
+ship armor 1-3-5
+Speed 1.5 [1.8]
+Cost 90 W 30 G 36-27[17] sec
+Up cost 150 W 100 G 50 sec (for all three canoes)
+Up cost 400 W 300 G 70 sec
+Special: set buildings and ships on fire, dealing
+30/40/50 dmg over 10 seconds. Doesn't stack.
+
+Palombaro
+A special military unit that can submerge underwater.
+It cannot attack ships directly nor it can be attacked
+by anyone else. He can plant mines that float above
+the water.
+HP 20
+Armor 0/5
+Speed 0.9
+Cost 100 G 50 sec
+Special: can plant mines.
+One mine cost 20 G, it deals 100 damage to the first
+ship that comes contact to it, no blast radius.
+Mines disappear after 10 minutes if nobody activates them.
+Recharge 30 sec.
+
+
+
+
+
+
+
+
+
+
+
+CIVILIZATIONS
+
+ASTERIDI
+archer and infantry civilization
+
+-Berry bushes last 40% longer
+-Blacksmith armor upgrades affect buildings
+-Can build Stellar Garden, Aroma Temple, Hall of Flowers
+UU Cynaras(infantry) Tanaceto (archer)
+CT-Stellar Knowledge: unlock 1 more Flower Tech 150 F 150 G 30 sec
+IT-Supreme Knowledge: unlock 1 more Flower Tech 250 F 250 F 40 sec
+TB-Unique Units are trained 20% faster at Castles
+
+Special techs:
+Eco techs [8]
+-Tea trade: trade units generate 1 W for each 5 G  200 F 200 G 30 sec
+-Corniolian woodworkers: woodcutter generate 1 G for each 10 W 300 F 300 W 40 sec
+-Radical symbiosis: farms provide +2 F for each floran building
+that has been constructed, up to +200   250 W 250 F 30 sec
+-Dianthus tincture: forager generates 1 G for each 5 F, forager
+can plant berry bushes for 30 W     250 W 250 F 30 sec
+-Amaranthus grain: farmer drop off 10% more F  400 W 400 G 40 sec
+-Gentiana liquor: Town centers generate 10 G/min for each 200 F stockpiled
+500 F 500 G 40 sec
+-Lavender Distillation: fallen units yield 10 F on death 500 G 30 sec
+-Ilex baskets: paesants +5 carry capacity  350 F 250 W 30 sec
+Military techs [7]
+-Capsicum grenate: Explosion +20% damage and blast radius 250 G 250 F 30 sec
+-Star Mantle: infantry units get a charge shield against ranged
+attacks, 1 charge every 20 seconds  200 G 200 W 30 sec
+-Garrya Archive: Temples work 30% faster   150 G 20 sec
+-Sunflower oil: fires last 50% longer 150 G 20 sec
+-Hedera armor: ranged units +0/1 armor  250 F 250 G 50 sec
+-Sleeping darts: poison effect also adds a slowing effect,
+reducing foe's speed by 15% for 10 seconds   200 G 200 F 20 sec
+-Thorned armor: infantry units return 25% of melee damage
+taken to the enemy 300 W 300 G 30 sec
+
+Missing techs
+S-infantry: nothing
+S-archers: nothings
+A-siege: siege engineers
+A-monks: nothing
+A-navy: nothing
+A-defenses: nothing
+S-economy: nothing
+
+RANUN
+infantry and monk civilization
+
+-Docks generate 6 F/min and grant +5 population
+-Infantry +1 atk for each relic garrisoned (max +4)
+-Infantry units gain W when fighting and killing enemies,
+0.6 W per second, 4 W per kill
+-Can build Poison Garden, Temple of Sleep and Hall of Blades
+UU Akon soldier, Hydrastes, Actea
+CT-Stellar Knowledge: unlock 1 more Flower Tech 150 F 150 G 30 sec
+IT-Supreme Knowledge: unlock 1 more Flower Tech 250 F 250 F 40 sec
+TB-Fishing ships are trained 33% faster
+
+Special techs:
+Eco techs: [3]
+-Vine Houses: Houses build and repair them selves, 150 Hp/min, 400 W 400 F 60 sec
+-Root Relic: Spawn a special relic that generates W in addition to G 250 W 250 G 50 sec
+-Euptela Luter: Obtain 20 W for each house built, max 800 W, 300 G 30 sec
+Military techs [3]
+-Opium medicine: Shaman attacks can apply a 30% slow down effect and poison 500 G 60 sec
+-Berberis Spine: Holcan +3 atk 350 G 250 W 60 sec
+-Akon toxin: Poison deal +100% damage 800 G 80 sec
+
+Missing techs:
+S-infantry: nothing
+S-archers: nothing
+A-siege: nothing
+A-monks: nothing
+A-navy: nothing
+A-defenses: ballista tower, architecture
+S-economy: farm 3, wood 3, mine 3
+
+ROSIDI AND MAGNOLIANS
+infantry civilization
+
+-TC work 1% faster for each military unit you have (max +20%)
+-Military buildings +10/20/30/40% HP
+-Villager and Barrack units +1 atk
+-Gain +50 F/G/W/S per Age up
+UU Rose swordman(infantry)
+CT-Stellar Knowledge: unlock 1 more Flower Tech 150 F 150 G 30 sec
+IT-Supreme Knowledge: unlock 1 more Flower Tech 250 F 250 F 40 sec
+TB-Infantry units cost -5%
+
+Special techs:
+Eco techs: [8]
+-Larrea essence: villager regen 6 Hp/min while working  50 F 50 G 10 sec
+-Crossomatalia: villager +3 damage vs mounted and ranged units 250 F 20 sec
+-Oak carpentry: woodcutter work 30% faster, trees regen 1 W every minute 300 F 300 W 60 sec
+-Pumpkin vases: Houses produce 5 F/min   400 W 30 sec
+-Euphorbia Resin: buildings +3 building armor 150 F 150 W 20 sec
+-Myrtus Distillation: trade units generate W and F (20%) 400 W 300 G 50 sec
+-Wine trade: Enable a special command at the market, sell 10 F for 3 G.
+This ratio will never change, 400 F 400 G 60 sec
+-Cinnamom trade: Fortresses generate 20 W/min   400 F 40 sec
+Military techs: [10]
+-Nodular lance: spearman,skirmisher cost -60% W  250 F 250 G 50 sec
+-Spice Alchemy: archers +2 damage vs buildings 250 F 250 G 40 sec
+-Eucaliptus shield: skirmishers +3/0 armor  150 F 100 G 20 sec
+-Plant Fiber Armor: All land foot units +1/1 armor 350 F 350 G 60 sec
+-Oxalis sword: Rose swordman attack destroy armor with each hit, 400 F 300 G 50 sec
+-Geranium guard: infantry units take -33% bonus damage 250 F 250 G 30 sec
+-Acer Mace: macana,maceman +2 atk  300 F 300 G 50 sec
+-Crimson Sword: Rose swordman +3 atk  400 F 300 G 40 sec
+-Flower shield: Macahutil, Magnolian guard +1/1 armor 300 F 100 W 50 sec
+-Myristican rituals: every fifht Magnolian guard's attack deal
+double damage, 400 F 30 sec
+-Resin mace: macana and Magnolian guard attack slow down
+foe's rate of fire by 20%, 300 F 200 W 30 sec
+
+Rose Swordman
+HP 80-100
+Atk 12-16 (23)
+vs building +6+10 (12)
+vs cavalry/shock +2-4
+Rof 2.0-1.8
+Armor 2/2 (6/7)
+Speed 1.0-1.1 (1.21)
+Cost 60 F 40 G 28-24 sec
+Unlock: Armor pierce: -1/1 armor on target each strike, effect
+disappear if target doesn't take damage for more than 10 seconds
+
+
+Missing techs:
+S-infantry: nothing
+S-archers: nothings
+A-siege: siege engineers
+A-monks: nothing
+A-navy: nothing
+A-defenses: nothing
+S-economy: nothing
+
+
+
+ELEUTHERA (ANGIO-BASALI + COMMELINIDI-MONOCOTILEDONI)
+infantry and monk civilization
+
+-Cannot build markets or make trade units
+-Buildings regen 30/60/90/120 hp/min
+-Devotion and Faith are free
+-Can build Aroma Temple
+UU Ascieta of Silence(monk) Floating Eye Warrior(infantry).
+Wind Swordman(infantry) Sagittaria(archer) Agavenger(infantry)
+CT-Stellar Knowledge: unlock 1 more Flower Tech 150 F 150 G 30 sec
+IT-Supreme Knowledge: unlock 1 more Flower Tech 250 F 250 F 40 sec
+TB-Town Watch and Town Patrol cost -60% F
+
+Special techs:
+Eco techs: [3]
+-Banana farm: enable banana farms, cost 100 W, produce 800 F   150 W 150 G 20 sec
+-Dioscoreas farm: enble dioscorea farms, cost 100 W, produce 400 W   150 F 150 G 20 sec
+-Tulip farm: enable tulip farms, cost 100 W, produce 200 G   150 F 150 W 20 sec
+Military techs: [10]
+-Inner Flame: Icistus has a 25% chance to survive his own explosion 200 F 50 G 20 sec
+-Swamp Ambush Tactics: foot units get stealthed in swamps  150 F 150 G 20 sec
+-Blue couriers: macana scout +10% movement speed  150 F 150 G 20 sec
+-Swamp Blade: Macahuitl +2 atk   200 F 100 G 20 sec
+-Pandan Shield: Macana scout +1/1 armor  250 F 150 G 30 sec
+-Wind Weaver: Warships +10% movement speed 300 F 200 G 30 sec
+-Rizomatic Armor: infantry, skirmishers +2/0 armor 300 F 100 G 40 sec
+-Lacustral Levy: siege units and monks regen 30 Hp/min  300 F 200 G 45 sec
+
+Missing Technologies
+A-infantry: blast furnace
+B-archers: bracer
+B-siege: siege enginers
+S-monks: nothing
+A-navy: nothing
+C-defenses: masonry, hoardings, guard tower
+D-economy: mining 1, wood 2, farm 3, market
+
+
+PINO and FERN
+defense civilization
+
+-Cannot build Markets or Blacksmiths
+-Cannot gather F. Anything that cost F
+cost W instead. Obtain W from foraging
+-Can Build Pine Temple and Spore Hall
+-Trees last 15% longer
+UU Bark guardian(infantry) Ephedra(archer) Spore thrower(siege)
+CT-Frondal Shield: Unique units +1/1 armor   250 W 250 G 30 sec
+IT-Cyclical Magic: all units +7 resistence  350 G 450 F 50 sec
+TB-Lumber camps +2 los
+
+
+Missing techs:
+infantry: war march, arson
+archers:
+siege:
+monks:
+navy:
+defenses:
+economy: farm 1, mining 3, market
+
+
+
+
+
+
+______________
+DISCARDED CIVS
+IGNORE THEM
+______________
+- - - - - -
+FABALES
+FAGALES
+ROSALES
+CUCURBITALES
+--------
+- - -
+COM
+MALVALES
+MYRTALES
+SAPINDALES
+______________
+- - -
+CARYOPHYLLALES
+ERICALES
+- - -
+GENTIANALES
+LAMIALES
+SOLANALES
+--------
+- - - - -
+APIALES
+ASTERALES
+_____________
+
+
+FABA
+archer and defense civilization
+
+-All buildings generate 3 F/min
+-Farmers carry +5 F
+-Temple reduce bonus damage taken by allies in Los by 25%
+-Can sacrifice villagers to stun foes for 3 seconds
+
+UU Acacia archer
+
+CTA-farmer work 25% faster for 10 minutes
+CTB-military units cost -30% G
+ITA-Fortress take -50% bonus damage
+ITB-Can sell villagers for G
+
+TB-For the first 5 minutes, all units +2 los
+
+APIA
+monk civilization
+
+-Train researchers at TC, they work as universities
+-Start with a researcher
+-Advancing to Feudal Age cost -50%
+
+UU antriscus(infantry)
+
+CTA-Antriscus boost allies in los with +2 atk
+CTB-Antriscus +1/1 armor
+ITA-Antriscus gain +1% movement speed for each tech researched
+ITB-Antriscus gain +1% attack speed for each tech researched
+
+TB-a random tech is researched for free, as long as it is available
+
+ARALIA
+infantry civilization
+
+-all military units cost -75% but disappear after the
+very first 5 minutes they were created
+-Non unique techs cost -75% but their effect last only
+for 10 minutes. Can be researched indefinetly
+
+UU aralian guard
+
+CTA-Remove first bonus
+CTB-discount goes to -50%,units are trained twice as fast
+ITA-discount goes to -50%, units gain +25% speed
+ITB-discount goes to -50%, but stay twice as long
+
+TB-Scout unit at the start of the game, +20% HP
+
+SOLANA
+monk and naval civilization
+
+-In Castle Age, villagers and monks cost -20%
+-Can sacrifice villagers to obtain essence.
+Essence is used to cast powerful spells
+-Dock and Temple techs cost -50%
+
+UU Blowpipe warrior
+
+CTA-Temple/Fortress cost -20%
+CTB-essence gain +20%
+ITA-Shamans generate 1 essence per second
+ITB-Gain access to one of all other floran unique techs
+
+TB-Blowpipe warrior available at allies barracks
+
+Each sacrificed villager provide +50 essence, this is used in temples to perform great spells.
+
+Wisdom 100: all units on the map gain +1 attack (stack up to +4)
+
+Celerity 100: all units gain +20% speed for 5 minutes
+
+Famine 200: reduce by half the amount of F of all players
+
+Vitality 300: all units regen 300 hp/min even when fighitng for 30 seconds
+
+Death Wish 500: kills all other shamans/monks/missionaries/war monks on the map
+
+Brutality 600: for 1 minute, all units have 0/0 armor
+
+Gold Shower 1000: give 500 Gold to all players
+
+Rebuttal 1200: for 3 minutes, all units cannot be converted
+
+Divine warriors 1200: summon 5 jaguar and 5 eagle warriors. this is the only spell that affects the player who casted it
+
+Revolt 3000: cut in half the number of paesants of all players
+
+LAMIA
+infantry and naval civilization
+
+-Sea trade yield 10% more G in Imperial Age
+-Docks improve work rate of villagers by 5% in los
+-Macana warrior +0/1 armor
+-When having more military units than villagers,
+all villagers work 15% faster
+
+UU Lamian archer, synandre guard, mentis herbalist, ocimeotl wariror
+
+CTA-enable Cynaras and Tanaceto
+CTB-enable blowpipe, it gets +0/2 armor
+ITA-Replace 50% G cost of UUS with W
+ITB-UUS +2/2 armor
+
+TB Docks can be used as drop off points
+
+MYRTALES
+siege and monk civilization
+
+-Onager fire 2-3 extra projectiles
+-10% of what forager produces is turned into G
+-Spawn 2 berry bushes for each TC built
+-Herbal Medicine is free
+-Masonry and Architecture affect siege and monks
+
+UU Poison catapult, Alzatea
+
+CTA-Villagers are created 50% faster
+CTB-Shaman +3 healing range, healing at max range is
+33% more effective
+ITA-Shamans resist conversion
+ITB-Fortress fire onager projectiles
+
+TB-Poison catapult is available at allies siege workshop
+
+MALVACE
+naval and siege civilization
+
+-Ayenia replace monk, it uses bugs to attack
+-Siege units, canoes and infantry units +1/1 armor
+
+UU Ayenia, Dombeya
+
+CTA-Sterculian grenades: spearman have a charged bomb attack
+CTB-Triplonchiton: spearman have a charged javelin attack
+ITA-Hibiscus: siege units and spearman regen 20 hp/min
+ITB-Helicteroi: battle canoe +1 range
+
+TB-Trade units also generate W equal to 20% of G generated
+
+SAPINDA
+infantry and siege civilization
+
+-Buildings work 5% faster per age
+-Farms cost -10%
+-Jaborandi replace petard
+
+UU Jaborandi, Aegle spirit walker
+
+CTA-Citrus spear: spearman destroy armor with each hit
+CTB-Ruta warriors: macahuitl destroy armor with each hit
+ITA-Feather leaf armor: infantry -1/+1 armor, +10% movement speed
+ITB-Citronel essence: siege resist conversion
+
+TB-Aegle spirit walker upgrade available to allies at Barracks
+
+GENTIANA, LILIA and LAURA
+monk and defensive civilization
+
+-Can garrison villagers to TC to produce G
+-Can research some universty techs two times
+-Foot soldiers can build fortifications
+-Faith adn Devotion are twice as effective with buildings
+-Can garrison villager to walls to repair them 25% faster
+-Obtain 100 W and 100 S when advancing to the next age
+-Universities and Temple cost -20%
+
+UU Apocina lancer, Acokantheran, Saffron, Cinnamon
+
+CTA-Saxafras axes: woodcutter drop off 10% more W
+CTB-Krokos treaders: TC generate a small tickle of W
+ITA-Alium: spearman have increased resistance and +5 atk vs monks
+ITB-Lilium: Monks have increased resistance and +1 range
+
+TB-Walls,gates and towers are available one age earlier
+
+ERICA
+infantry civilization
+
+-Forager work 33% faster in Dark Age
+-Camelia elite upgrade is free
+-Trees and Food sources last 30% longer
+-Blacksmith/Universities/Temple/Monastery/Markets are built 50% faster
+
+UU Camelia, Rhododendron
+
+CTA-Erica armor: infantry +3/1 armor
+CTB-Gaultheria: spearman +1 range, +0/3 armor
+ITA-Lecythida: mace units +5 atk
+ITB-Caradaci: infantry units return 50% of their G cost on death
+
+TB-Shaman/Monk can repair walls and fortifications
+
+Missing techs
+infantry:
+archers:
+siege:
+navy:
+monks:
+defense:
+economy:
+
+
+Hidden units
+Genietour
+HP 60-70 (90)
+Atk 4-5 (9)
+vs archers +2
+vs spear +2
+vs cav archers +2
+Rof 3.0
+Range 3-4 (7) los 5-6 (9) 90% accuracy
+Armor 0/1 (4/5)
+Speed 1.4 (1.54)
+Cost 35 F 35 W 28-21 sec
+Up cost 800 F 500 G 45 sec

@@ -1,0 +1,171 @@
+-The Monocotiledoni are florans who prefer to live in remote
+places in Florania. They live all over the place but rarely have
+ever formed a kingdom. Despite not having much contact with other tribes,
+most of them offer their services as mercenaries when money runs out.
+Their life style is richer than the ones of the Gymno or Basali,
+but still, they aren't the richest. Their upgrades cost less,
+in particular, unit upgrades cost -50% G. 
+They often live close to each other. So, all buildings provide +5
+population, and can be upgrade to house more.
+
+
+-Floran units and buildings regen over time while not in battle
+-Buildings change functionality according to the place
+they are built in
+-Unit upgrades cost -50% G
+-All buildings provide an additional +5 population.
+Buildings can be upgrade to house +10 population, cost 50 W 50 sec.
+Cannot build houses, universities, stables or gunpowder units.
+Petal Shrine doubles as a Monastery and a University
+-Settlements can produce floran villagers at 1/4 rate
+
+UNITS
+
+Acora
+fast skirmishers equipped with javelins
+Bonus: +0/1 armor in swmaps
+
+Araca
+fast anti cavalry spearman
+Bonus: +10% movement speed in forest
+
+Asparagus
+melee foot soldier whose damage increase over time
+Bonus: regen 12 hp/min in mountain, in/out battle
+
+Agavenger
+swordman with good armor
+Bonus: +1 atk in desert
+
+Astelia
+Foot archer with good range
+Bonus: +1 range in forest
+
+Dioscorea
+Siege unit that can burrow undergroung.
+Effective vs buildings and archers.
+Bonus: +20% fire rate in swamps
+
+Lilium warrior
+Balanced melee unit, can toggle between healing mode and ranged mode
+Bonus: +1/0 armor in plains or beaches
+
+Tulipan
+Trombettier, boost allies morale and attack power.
+Weak attack and expensive
+Bonus: +15% movement speed in desert
+
+Pandan spiral blade
+Swordman with area attack strikes
+Bonus: +20% trample area in beaches and plains
+
+Petrosavia
+Sneaky unit whose attacks aply an armor debuff
+Bonus: debuff last 20% longer in mountains
+
+Areca
+infantry with a charge are of effect attack
+Bonus: +2 charge damage in forest
+
+commelina blue runner
+Shock infantry, good for scouting and harassment.
+Has a multi shot ranged attack. Immune to snaring
+Bonus: +20% movement speed in swamps
+
+Wind blade
+Shock infantry with ranged wind attack
+Bonus: +10% fire rate in plains and beaches
+
+Cypera Sentinel
+Fast moving skirmisher with great armor
+Bonus: +2/0 armor in swamps
+
+Zea Mays
+Infantry that can  use ranged or melee attacks
+Bonus: +1 atk in desert and plains
+
+Bananas warrior
+Short ranged melee unit with good pierce armor
+Bonus: +1/1 armor in forest
+
+Ginger Mage
+Magic unit, cast fire spells
+Bonus: +1 atk in mountain
+
+Orchidantha
+Sneak assassin unit, with a powerful charge attack
+Bonus: always invisible in forest
+
+Curcuma
+Healer with low healing power but good pierce armor
+Bonus: +20% healing in desert
+
+BUILDINGS
+
+Root Hall
+train villagers, drop off point for resources.
+Provide a global bonus(doesn't stack) when built in the
+respective environment. Increase population by 10.
+-Forest: woodcutter +5% work rate
+-Swamp: farmer, forager +5% work rate
+-Desert: gold miner +5% work rate
+-Mountain: stone miner +5% work rate
+-Beach: fisherman +5% work rate
+Cost 300 W 100 S 200 sec
+
+Stilt Barrack
+Train melee units. Provide different units to train and
+different bonuses to units trained here according to the
+environment it is played. Train Acora, Araca, Areca.
+-Forest: infantry is trained 25% faster
+-Swamp: infantry get +5 HP
+train Lilium, Pandan
+-Desert: infantry gain +1 bonus dmg vs cavalry
+train Wind Blade, Cypera
+-Mountain: infantry +1/0 armor
+train Commelina, Tulipan
+-Beach: infantry +5% movement speed
+train Bananas
+Cost 200 W 50 sec
+
+Archery Garden
+Train Ranged units. Provide different units to train and
+different bonuses to units trained here according to the
+environment it is played. Can train Astelia.
+-Forest: archers +1 range
+train Zea Mays
+-Swamp: archers +10% fire rate
+-Desert: archers +1 atk
+train Dioscorea
+-Mountain: archers +1/1 armor
+-Beach: archers +10% movement speed
+Cost 200 W 50 sec
+
+Bloom tower
+Defensive building who changes shape and bonuses according
+to the environmenr it is built in
+-Forest: +1 range
+-Swamp: +20% fire rate
+-Desert: +1 atk
+-Mountain: +2/1 armor
+-Beach: 100% accuracy and +3 building armor
+Cost 100 S 75 W 90 sec
+
+Petal Shrine
+Monastery who changes shape and bonuses according
+to the environmenr it is built in. Can also research
+university technologies
+-Forest: monks +1 range
+train Curcuma
+-Swamp: enemies in 12 tiles get -15% movement speed
+train Petrosavia
+-Desert: monks +1/1 armor
+train Ginger Mage
+-Mountain: monks +20% healing rate
+train Orchidantha
+-Beach: monks +10% movement speed
+Cost 300 W 60 sec
+
+Common buildings
+-settlement, blacksmith, market, wonder
+-palisade/stone walls/gates, castle

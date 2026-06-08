@@ -1,0 +1,72 @@
+ROME
+12 olive for 6 marble or 3-4 gold or 8 stone
+1 gold for 3-4 fish or 2 clothes or 3 marble or 3 wood
+3 iron for 9-12 flour or 1 marble or 12 meat
+
+12 wine for 6 marble
+12 fish for 3 iron
+
+12 wood for 1-3 gold or 2 clothes or 4 iron
+12 marble for 6 gold or 3 iron
+6 clay for 2 marble
+
+
+FLORENTIA
+12 stone for 6 ion
+12 flour for 3 iron
+12 meat for 3 iron
+
+
+VERONA
+12 flour for 4 gold
+12 clothes for 4 gold
+
+
+MEDIOLANUM
+12 olive for 12 marble or 6 gold
+4 iron for 12 wine or 8 olive
+
+
+PROVINCES
+9 olive for 6 marble or 6 clay
+10 olive ofr 8 stone
+12 olive for 3 gold
+
+1 fish for 1 marble or clay
+
+
+BARBARIANS
+12 olive for 3-9 stone
+4 iron for 12 flour
+
+12 stone for 4 iron
+
+12 meat for 3 gold or 4 iron or 4 clay
+12 fish for 4 gold
+6 wine for 12 flour or 12 meat
+6 flour for 2 clothes
+
+WITHOUT olive oil,fish or iron
+olive oil->wine  
+iron->gold
+fish->meat
+marble->stone
+clay->wood
+RESOURCES
+flour-bread-meat-sausage-wine
+wood-stone
+gold-linen-cloth
+
+
+
+
+
+
+ROME
+6 wine for 2-3 gold or 6 stone or 12 flour or 12 meat or 5 wood
+1 gold for 2 clothes or 4 stone or 3 wood or 4 flour or 4 meat or 4 wine
+12 meat for 4 gold or 15 stone or 10 wood
+12 flour for 4 gold or 4 clothes
+12 wood for 3 gold or 2 clothes or 6 stone
+12 stone for 4 gold
+

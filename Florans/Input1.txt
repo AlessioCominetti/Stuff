@@ -1,0 +1,1522 @@
+🌲 Pine Guardian
+Atk: 24 HP: 200 Resistenze: Melee 35% Velocità: 4.25 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Pacifici guardiani della foresta, difendono il loro territorio fino alla morte. 
+Bonus: 1.25x vs fanteria pesante 
+Abilità speciali: Root up-when standing for more than 10 seconds, gain +35% ranged resistence as long as they don't move
+Costo: 100 F, 40 F, 2 pop Addestrato da: Pine Groove Tempo addestramento: 30 sec
+
+🌲 Auraucaria
+Atk: 24 HP: 240 Resistenze: Melee 40%, Trample 30% Velocità: 4 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 1 range 
+Descrizione: Portano arieti fatti con i corpi dei Floran caduti. Ottimi contro edifici. 
+Bonus: nessuno 
+Abilità speciali: Shield Up-switch Melee with Ranged resistence, CD 10s 
+Costo: 80 F, 40 W, 2 pop Addestrato da: Pine Groove Tempo addestramento: 24 sec
+
+🌲 Cipressus
+Atk: 24-8 HP: 150 Resistenze: Ranged 25% Velocità: 4.5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Pacifisti armati di arco di pino e lancia media. 
+Bonus: Arco 0.7x vs cavalleria/inf. d’urto, Lancia 1.25x vs cavalleria 
+Abilità speciali: Close Quarters: when attacking at 3-6 range, +50% damage
+Costo: 90 F, 10 G, 1 pop Addestrato da: Pine Groove Tempo addestramento: 32 sec
+
+🌴 Zamia
+Atk: 38-14 HP: 140 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Antichi Floran che usano giavellotti lignificati. 
+Bonus: 1.4x vs fanteria/cavalleria pesante, 
+Abilità speciali: ignora 50% resistenze 
+Costo: 80 F, 40 G, 1 pop Addestrato da: Palm Oasis Tempo addestramento: 32 sec
+
+🌿 Gnetu
+Atk: 36-18 HP: 125 Resistenze: Ranged 40% Velocità: 4.5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 18 Attacco siege: 12 dmg / 3 rof / 6 range 
+Descrizione: Fanteria leggera da tiro. 
+Bonus: 0.7x vs cavalleria 
+Abilità speciali: attacchi ignorano 50% dell'armatura del bersaglio
+Costo: 120 G, 1 pop Addestrato da: Gnetophyta Grove Tempo addestramento: 36 sec
+
+🌿 Welwi (Silent Root)
+Atk: 18 HP: 125 Resistenze: Ranged 10% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria silenziosa che guarisce con ogni uccisione. 
+Bonus:nessuno Abilità speciali: Invisibilità 8 sec, CD 32 sec 
+Costo: 100 G, 1 pop Addestrato da: Gnetophyta Grove Tempo addestramento: 30 sec
+
+🌿 Ephedra
+Atk: 30-10 HP: 120 Resistenze: Ranged 40% Velocità: 5.5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 18 Attacco siege: 15 dmg / 3 rof / 6 range 
+Descrizione: Arcieri fragili ma agili, capaci di schivare frecce. 
+Bonus: 1.25x vs cavalleria, 0.6x vs inf. d’urto 
+Abilità speciali: Poison-4 dmg/sec for 10 sec
+Costo: 90 F, 35 G, 1 pop Addestrato da: Gnetophyta Grove Tempo addestramento: 25 sec
+
+🌸 Amborella
+Atk: 10 HP: 90 Resistenze: Melee/Magic 40% Velocità: 4.25 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 8 dmg / 3 rof / 1 range 
+Descrizione: Asceti che vivono in isolamento, resistenti alla magia, pronti a combattere per la verità. 
+Bonus: nessuno 
+Abilità speciali: Magebane-mages take 10 damage everytime they hit the Amborella 
+Costo: 45 F, 25 G, 1 pop Addestrato da: Basal Shrine Tempo addestramento: 16 sec
+
+🌕 Floating Eye Warrior
+Atk: 20 HP: 150 Resistenze: +40% sotto la luna Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri rituali che combattono sotto la luna, simboli di potere e prosperità. 
+Bonus: 2x vs cavalry 1.5x vs shock infantry 
+Abilità speciali: +40% resistenza sotto la luna 
+Costo: 80 F, 20 W, 1 pop Addestrato da: Basal Shrine Tempo addestramento: 20 sec
+
+🌊 Austrobailey
+Atk: 25 HP: 110 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 3 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi rituali che interpretano fumo e profumi per comunicare con il divino. 
+Bonus: nessuno Abilità speciali: Cura 10/s, Nebbia: nemici in range rallentati del 15% 
+Costo: 85 F, 40 G, 1 pop Addestrato da: Basal Shrine Tempo addestramento: 30 sec
+
+🌿 Canella
+Atk: 20 HP: 135 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 20 dmg / 3rof / 1 range 
+Descrizione: Produttori di spezie e resine, addestrati solo in caso di emergenza. 
+Bonus: 2.5x vs cavalry 1.75x vs shock infantry 
+Abilità speciali: Spice trade-when garrisoned inside markets, generate 20 G/min 
+Costo: 65 F, 35 G, 1 pop Addestrato da: Canellales Grove Tempo addestramento: 20 sec
+
+❄️ Winter Drimys
+Atk: 20 HP: 160 Resistenze: Melee/Ranged 30% Velocità: 4.5 Velocità d’attacco: 2.4 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri artici che usano lance incantate di ghiaccio per rallentare i nemici. 
+Bonus: nessuno Abilità speciali: Brina: -15% atk speed, -35% mov speed per 5 sec 
+Costo: 100 F, 60 W, 2 pop Addestrato da: Canellales Grove Tempo addestramento: 32 sec
+
+🍃 Laura
+Atk: 20 HP: 135 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 20 dmg / 3rof / 1 range 
+Descrizione: Produttori di spezie e resine, addestrati solo in caso di emergenza. 
+Bonus: 2.5x vs cavalry 1.75x vs shock infantry 
+Abilità speciali: Laurum trade-when garrisoned inside markets, generate 20 F/min 
+Costo: 65 F, 35 G, 1 pop Addestrato da: Canellales Grove Tempo addestramento: 20 sec
+
+🛡️ Atheros
+Atk: 20 HP: 120 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Lancieri comuni dei Laurales, addestrati per contrastare la cavalleria. 
+Bonus: 1.5x vs cavalleria 
+Abilità speciali: nessuna 
+Costo: 80 F, 20 W, 1 pop Addestrato da: Laurales Grove Tempo addestramento: 24 sec
+
+🥑 Avocado
+Atk: 24 HP: 180 Resistenze: Melee 30% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri rituali che usano mazze fatte con semi di piantine non nate. 
+Bonus: 1.25x vs infantry 
+Abilità speciali: nessuna 
+Costo: 100 F, 40 G, 2 pop Addestrato da: Laurales Grove Tempo addestramento: 30 sec
+
+🌬️ Camphora shooter
+Atk: 30-10 HP: 135 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 14 Attacco siege: 10 dmg / 3 rof / 14 range 
+Descrizione: Sciamani che manipolano la magia del vento per rallentare i nemici. 
+Bonus: nessuno 
+Abilità speciali: Nebbia: nemici in 6 range rallentati del 18% 
+Costo: 80 F, 40 G, 1 pop Addestrato da: Laurales Grove Tempo addestramento: 30 sec
+
+🌸 Magnolia Guard
+Atk: 30 HP: 200 Resistenze: Melee 30% Velocità: 4.25 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Soldati nobili e brutali, forgiano equipaggiamento dai corpi dei caduti. 
+Bonus: 1.33x vs fanteria pesante, cavalleria, fanteria d’urto 
+Abilità speciali: nessuna
+Costo: 100 F, 20 W, 1 pop Addestrato da: Magnolia Order Tempo addestramento: 30 sec
+
+🌶️ Myristica
+Atk: 14 HP: 120 Resistenze: Melee/Ranged 15% Velocità: 5 Velocità d’attacco: 1 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanatici in trance, adorano il re Magnoliano con sacrifici e spezie. 
+Bonus: nessuno 
+Abilità speciali: Trance: +25% atk rate, -25% mov speed per 10 sec, CD 30 sec 
+Costo: 100 F, 60 G, 2 pop Addestrato da: Magnolia Order Tempo addestramento: 35 sec
+
+🌶️ Pipera
+Atk: 24-8 HP: 100 Resistenze: Ranged 20% Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Alchimisti che usano peperoncino per creare bombe e spray irritanti. 
+Bonus: 1.25x vs cavalleria, 0.75x vs fanteria pesante 
+Abilità Speciali: Blast 1.25 
+Costo: 90 F, 40 W, 1 pop Addestrato da: Magnolia Order Tempo addestramento: 28 sec
+
+🌺 Ascarina
+Atk: 21 HP: 160 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri tropicali in via d’estinzione, guidati da leader spirituali. 
+Bonus: nessuno 
+Abilità speciali: Veleno: 4 dmg/sec per 5 sec 
+Costo: 90 F, 50 G, 2 pop Addestrato da: Magnolia Order Tempo addestramento: 30 sec
+
+🌺 Sarcandra
+Atk: 15 HP: 150 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Floran tropicali che comunicano con profumi e pattern di foglie. 
+Bonus:nessuno 
+Abilità speciali: Risonanza: alleati in range guariscono 60 HP/min 
+Costo: 90 F, 50 G, 1 pop Addestrato da: Magnolia Order Tempo addestramento: 28 sec
+
+🌾 Acora Warrior
+Atk: 20 HP: 125 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria leggera e aerodinamica, guadagna velocità dopo ogni uccisione. 
+Bonus: nessuno 
+Abilità speciali: +20% velocità per 4 sec dopo una kill 
+Costo: 75 F, 25 W, 1 pop Addestrato da: Acorales Grove Tempo addestramento: 24 sec
+
+🌾 Araca Spearman
+Atk: 20 HP: 130 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Lancieri tropicali che usano veleno per indebolire i nemici. 
+Bonus: nessuno 
+Abilità speciali: Veleno: 4 dmg/sec per 5 sec 
+Costo: 85 F, 30 W, 1 pop Addestrato da: Alismatales Grove Tempo addestramento: 26 sec
+
+🌾 Alismata Leaf Shield
+Atk: 20 HP: 160 Resistenze: Melee 35% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria difensiva con scudi fogliari che riflettono danni. 
+Bonus: 1.5x vs cavalry 
+Abilità speciali: Thormail: riflette 50% dei danni subiti 
+Costo: 80 F, 40 W, 2 pop Addestrato da: Alismatales Grove Tempo addestramento: 30 sec
+
+🌊 Hydrocharita
+Atk: 10 (true) HP: 80 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi acquatici che combattono a distanza con incantesimi fluidi. 
+Bonus: nessuno 
+Abilità speciali: Heal 10 Hp/sec in 15 range
+Costo: 60 F, 40 G, 1 pop Addestrato da: Alismatales Grove Tempo addestramento: 20 sec
+
+🥬 Asparagus
+Atk: 24 HP: 125 Resistenze: Melee 20% Siege 10% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria leggera da mischia, efficace contro cavalleria. 
+Bonus: 1.25x vs cavalleria
+Abilità Speciali: Burrow-this unit can burrow underground
+Costo: 80 F, 20 G, 1 pop Addestrato da: Asparagales Grove Tempo addestramento: 20 sec
+
+🌵 Agavenger
+Atk: 20 HP: 120 Resistenze: Melee/Ranged 25% Velocità: 5 Velocità d’attacco: 1.2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri agili e letali che infliggono danni ampi, specialmente contro avversari pericolosi
+Bonus: 2x vs spy, mercenary, hero, explorer
+Abilità speciali: Snare 20% 
+Costo: 90 F, 35 G, 1 pop Addestrato da: Asparagales Grove Tempo addestramento: 25 sec
+
+🌼 Asphodelus Shaman
+Atk: 16 HP: 120 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Sciamani che curano gli alleati vicini con incantesimi floreali. 
+Bonus: nessuno 
+Abilità speciali: Cura 50 HP/min, range 16
+Costo: 80 F, 20 G, 1 pop Addestrato da: Asparagales Grove Tempo addestramento: 20 sec
+
+🌸 Astelia Ranger
+Atk: 20-8 HP: 120 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Archeri floran che combattono a distanza con precisione. 
+Bonus: 1.2x vs unità a distanza 
+Abilità speciali: nessuna
+Costo: 80 F, 40 G, 1 pop Addestrato da: Asparagales Grove Tempo addestramento: 24 sec
+
+🐍 Dioscorea Snake
+Atk: 25 HP: 100 Resistenze: Ranged 20% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 50 dmg / 3 rof / 3 range 
+Descrizione: Unità d’assedio che si muove sottoterra, invisibile e intoccabile. 
+Bonus: nessuno 
+Abilità speciali: Burrow: movimento sotterraneo, immunità ai danni 
+Costo: 80 F, 40 G, 1 pop Addestrato da: Dioscoreales Grove Tempo addestramento: 30 sec
+
+🌿 Corsia Fronde Guardian
+Atk: 20 HP: 110 Resistenze: Melee 35% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guardiani delle fronde, addestrati per proteggere le foreste tropicali. 
+Bonus: nessuno 
+Abilità speciali: Nessuna 
+Costo: 75 F, 25 G, 1 pop Addestrato da: Liliales Grove Tempo addestramento: 24 sec
+
+🌸 Lili Mystic
+Atk: 15 HP: 120 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Mistici floreali che curano gli alleati con magia luminosa. 
+Bonus: nessuno 
+Abilità speciali: Cura 50 HP/min agli alleati in range 14
+Costo: 90 F, 30 G, 1 pop Addestrato da: Liliales Grove Tempo addestramento: 24 sec
+
+🧄 Garlic Shooter (Alium)
+Atk: 30-15 HP: 110 Resistenze: Ranged 20% Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 16 Attacco siege: 15 dmg / 3 rof / 8 range 
+Descrizione: Tiratori che usano bulbi d’aglio per indebolire gli avversari. 
+Bonus: 1.2x vs ranged infantry 
+Abilità speciali: Nemici in 8 range perdono -30% atk (non cumulabile con altri bonus)
+Costo: 80 F, 40 G, 1 pop Addestrato da: Liliales Grove Tempo addestramento: 30 sec
+
+🌷 Tulip Warrior
+Atk: 20 HP: 100 Resistenze: Melee/Ranged 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 3 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri floreali versatili, capaci di combattere sia corpo a corpo che a distanza. 
+Bonus: nessuno 
+Abilità speciali: Tulip Trade: provide 12 G/min while idle
+Costo: 60 F, 40 G, 1 pop Addestrato da: Liliales Grove Tempo addestramento: 20 sec
+
+🌀 Pandan Spiral Blade
+Atk: 25 HP: 150 Resistenze: Melee 25% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria d’urto che usa lame rotanti per colpire in area. 
+Bonus: 1.4x vs ranged infantry 
+Abilità speciali: Whirlwind: splash ogni 9 sec, Switch Shield: scambia resistenze melee/ranged
+Charge: +15% movements speed and +10% ranged resistence for 10 seconds, CD 45 sec
+Costo: 95 F, 30 W, 1 pop Addestrato da: Wind Grove Tempo addestramento: 30 sec
+
+🪨 Petrosavia
+Atk: 21 HP: 150 Resistenze: Ranged 30% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri invisibili che colpiscono rapidamente e si nascondono. 
+Bonus: nessuno 
+Abilità speciali: Invisibilità 8 sec, CD 30 sec 
+Costo: 65 F, 35 G, 1 pop Addestrato da: Wind Grove Tempo addestramento: 20 sec
+
+🌴 Areca Striker
+Atk: 24 HP: 130 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria rapida che colpisce con bastoni di palma e si mimetizza tra le fronde. 
+Bonus: nessuno
+Abilità speciali: +20% mov speed in foresta 
+Costo: 80 F, 20 G, 1 pop Addestrato da: Commelinales Grove Tempo addestramento: 20 sec
+
+🌿 Commelina Scout
+Atk: 18 HP: 120 Resistenze: Ranged 20% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Esploratori leggeri che segnalano la posizione nemica con segnali luminosi. 
+Bonus: nessuno 
+Abilità speciali: Revealing Pulse: rivela unità invisibili in 6 range per 5 sec, CD 60sec
+Costo: 70 F, 30 G, 1 pop Addestrato da: Commelinales Grove Tempo addestramento: 25 sec
+
+🌿 Hanguana Slicer
+Atk: 20 HP: 100 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri silenziosi che usano lame vegetali affilate per colpire rapidamente. 
+Bonus: 1.25x vs fanteria leggera 
+Abilità Speciali: Slice-a special attack that deal triple damage, CD 12sec
+Costo: 70 F, 30 G, 1 pop Addestrato da: Commelinales Grove Tempo addestramento: 20 sec
+
+🌊 Pontederia Bloomcaster
+Atk: 16 HP: 120 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi acquatici che lanciano fiori esplosivi a distanza. 
+Bonus: nessuno 
+Abilità speciali: Bloom Burst-a special attack that deal area damage in 3 tiles, CD 24sec
+Costo: 90 F, 60 G, 2 pop Addestrato da: Commelinales Grove Tempo addestramento: 30 sec
+
+🌶️ Zingiber Flameblade
+Atk: 26 HP: 140 Resistenze: Melee 25% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria infuocata che usa lame aromatiche per bruciare i nemici. 
+Bonus: nessuno 
+Abilità speciali: Bruciatura: 5 dmg/sec per 4 sec 
+Costo: 90 F, 40 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 28 sec
+
+🍌 Musa Boulder
+Atk: 30 HP: 180 Resistenze: Melee/Ranged 40% Velocità: 4.5 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 50 dmg / 3 rof / 1 range 
+Descrizione: Unità d’urto che rotola contro le strutture nemiche usando il proprio corpo corazzato. 
+Bonus: nessuno 
+Abilità speciali: nessuna
+Costo: 120 F, 60 W, 2 pop Addestrato da: Zingiberales Grove Tempo addestramento: 36 sec
+
+🌺 Heliconia Archer
+Atk: 20 HP: 100 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Arcieri floreali che sparano petali taglienti con precisione. 
+Bonus: 1.25x vs cavalleria 
+Abilità Speciali: nessuna 
+Costo: 70 F, 30 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 20 sec
+
+🌿 Strelitzia Sentinel
+Atk: 24 HP: 150 Resistenze: Melee 40% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 24 dmg / 3 rof / 6 range 
+Descrizione: Guardiani tropicali che proteggono i confini con disciplina e grazia. 
+Bonus: 1.5x vs ranged infantry 
+Abilità speciali: Dash-gain +20% movement speed and +40% Ranged resistence for 10 seconds, CD 60sec
+Costo: 90 F, 30 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 30 sec
+
+🌾 Poa Blade
+Atk: 20 HP: 120 Resistenze: Melee 20% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria agile che combatte con lame di erba affilata, specializzata in imboscate. 
+Bonus: nessuno 
+Abilità speciali: +25% atk se in erba alta 
+Costo: 75 F, 25 G, 1 pop Addestrato da: Poales Grove Tempo addestramento: 24 sec
+
+🎋 Bambusa Crusher
+Atk: 28 HP: 140 Resistenze: Melee 30% Velocità: 4.5 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 44 dmg / 3 rof / 1 range 
+Descrizione: Unità pesante che usa canne di bambù per distruggere edifici e ostacoli. 
+Bonus: nessuno
+Abilità nessuno
+Costo: 80 F, 40 W, 1 pop Addestrato da: Poales Grove Tempo addestramento: 24 sec
+
+🌾 Typha Spear
+Atk: 20 HP: 120 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Lancieri palustri che si muovono agevolmente in zone acquatiche. 
+Bonus: 2x vs cavalry 1.5x vs shock infantry 
+Abilità speciali: +20% mov speed in acqua 
+Costo: 80 F, 20 G, 1 pop Addestrato da: Poales Grove Tempo addestramento: 24 sec
+
+🌾 Juncus Whisperer
+Atk: 16 HP: 120 Resistenze: Ranged 20% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi palustri che comunicano con le correnti d’aria e disturbano la precisione nemica. 
+Bonus: nessuno 
+Abilità speciali: -10% accuracy ai nemici in 6 range 
+Costo: 85 F, 40 G, 1 pop Addestrato da: Poales Grove Tempo addestramento: 25 sec
+
+🌸 Vanilla Duelist
+Atk: 26 HP: 130 Resistenze: Melee 25% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Spadaccini aromatici che combattono con grazia e precisione, spesso usati come guardie cerimoniali. 
+Bonus:nessuno 
+Abilità speciali: Vanilla Ceremony-provide 20 XP for each enemy fallen in range
+Costo: 85 F, 45 G, 1 pop Addestrato da: Orchidaceae Grove Tempo addestramento: 26 sec
+
+🌺 Phalaenopsis Bloomcaster
+Atk: 18 HP: 120 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi floreali che lanciano incantesimi profumati per confondere e rallentare i nemici. 
+Bonus: nessuno 
+Abilità speciali: Bloom Mist: -10% mov speed ai nemici in 6 range 
+Costo: 90 F, 50 G, 2 pop Addestrato da: Orchidaceae Grove Tempo addestramento: 30 sec
+
+🌿 Dendrobium Skirmisher
+Atk: 20 HP: 120 Resistenze: Melee 20% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria leggera che si muove tra le radici e colpisce con rapidità. 
+Bonus: nessuno 
+Abilità speciali: +20% atk se in prossimità di alberi 
+Costo: 80 F, 20 G, 1 pop Addestrato da: Orchidaceae Grove Tempo addestramento: 25 sec
+
+🌾 Cypera Warrior
+Atk: 20 HP: 120 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria palustre che combatte con lame di giunco, resistente e disciplinata. 
+Bonus: nessuno 
+Abilità speciali: Nessuna 
+Costo: 80 F, 20 G, 1 pop Addestrato da: Orchidace Grove Tempo addestramento: 25 sec
+
+🌽 Zea Warrior
+Atk: 24 HP: 150 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri del mais, robusti e disciplinati, eccellenti contro fanteria pesante. 
+Bonus: 1.5x vs heavy infantry 
+Abilità speciali: Return-unit yield 40 F when defeated 
+Costo: 80 F, 40 W, 1 pop Addestrato da: Poales Grove Tempo addestramento: 28 sec
+
+🧪 Acid Fiber
+Atk: 24 HP: 125 Resistenze: Melee 20% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Unità corrosiva che indebolisce la resistenza nemica con fibre vegetali acide. 
+Bonus: 1.33x vs cavalry 
+Abilità speciali: Acid strike: applica -10% resistenza per 10 sec (CD 60 sec) (can stack 4 times)
+Costo: 80 F, 20 G, 1 pop Addestrato da: Poales Grove Tempo addestramento: 20 sec
+
+🍌 Banana Warrior/Platano
+Atk: 20 HP: 120 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri d’assedio che stordiscono i nemici con attacchi improvvisi. 
+Bonus: Nessuno 
+Abilità speciali: Stun: stordisce un nemico per 3 sec (CD 7.5 sec) 
+Costo: 90 F, 30 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 24 sec
+
+🧙 Ginger Mage
+Atk: 24–8 HP: 120 Resistenze: Ranged 25% Velocità: 4.5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 10 Attacco siege: 12 dmg / 3 rof / 6 range 
+Descrizione: Maghi aromatici che irritano i nemici con magie pungenti. 
+Bonus: Nessuno 
+Abilità speciali: Blast 2.5, Irritation: -20% danno inflitto al nemico per 5 sec (stacks twice)
+Costo: 80 F, 20 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 30 sec
+
+🌺 Orchidantha
+Atk: 10 HP: 80 Resistenze: Ranged 30% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi floreali che si nascondono tra le ombre. 
+Bonus: Nessuno 
+Abilità speciali: Invisibility: 8 sec (CD 32 sec)  Heal 10 Hp/sec in range 12
+Costo: 60 F, 30 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 20 sec
+
+🌿 Golden Root (Curcuma)
+Atk: 30-15 HP: 110 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 14 Attacco siege: 10 dmg / 3 rof / 6 range 
+Descrizione: Monaci curativi che accelerano la rigenerazione degli alleati. 
+Bonus: Nessuno 
+Abilità speciali: Alleati rigenerano 20% più velocemente (stack 5 times) 
+Costo: 60 F, 40 G, 1 pop Addestrato da: Zingiberales Grove Tempo addestramento: 20 sec
+
+🌿 Buxa
+Atk: 20 HP: 200 Resistenze: Melee 20% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria leggera ma resistente, eccellente contro fanteria pesante. 
+Bonus: 1.25x vs heavy infantry, 2x vs cavalry, 1.5x vs shock infantry
+Abilità speciali: Leather Leaves – aumenta la resistenza Melee del 20% per 20 secondi, CD 30 sec 
+Costo: 90 F, 30 W, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 28 sec
+
+🌸 Bellendena
+Atk: 20-8 HP: 100 Resistenze: nessuna Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 14 Attacco siege: 10 dmg / 3 rof / 14 range 
+Descrizione: Arcieri rituali che usano frecce ematiche per indebolire la resistenza nemica. 
+Bonus: Nessuno 
+Abilità speciali: Ematic – il primo colpo riduce la resistenza del bersaglio del 15% per 10 sec (CD 60 sec) 
+Costo: 60 F, 30 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🌿 Hydrastes
+Atk: 10 HP: 110 Resistenze: non specificate Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 10 dmg / 3 rof / 6 range 
+Descrizione: Guerrieri silenziosi che favoriscono la rigenerazione degli alleati vicini. 
+Bonus: Nessuno 
+Abilità speciali: Alleati vicini rigenerano 60 HP/min 
+Costo: 60 F, 20 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🪵 Xanhorhiza – Purple Bark Warrior
+Atk: 18 HP: 150 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri della corteccia viola, esperti nel contrastare la cavalleria. 
+Bonus: 1.5x vs cavalry 
+Abilità speciali: Poison bark: enemies who damage this unit in melee get poisoned (4 dmg/sec last 9 seconds) 
+Costo: 80 F, 20 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 24 sec
+
+🌬️ Pulsatilla – Breath Warrior
+Atk: 15 HP: 125 Resistenze: Ranged 30% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri primaverili che infondono velocità agli alleati con il loro respiro. 
+Bonus: Nessuno 
+Abilità speciali: Spring Breath – alleati in 12 tiles si muovono 15% più velocemente 
+Costo: 80 F, 45 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 25 sec
+
+🧙 Actea – Monk
+Atk: 8 HP: 80 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Monaci silenziosi che usano veleni rituali per indebolire i nemici. 
+Bonus: Nessuno 
+Abilità speciali: Poison – 4 dmg/sec per 4 sec Heal 60 Hp/min in range 12
+Costo: 60 F, 40 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🏹 Talictro – Ranged Shock Infantry
+Atk: 30-10 HP: 125 Resistenze: non specificate Velocità: 5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Tiratori d’urto che colpiscono con precisione e rapidità. 
+Bonus: Nessuno 
+Abilità speciali: Nessuna 
+Costo: 85 F, 40 W, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 25 sec
+
+🗡️ Akon Spearman
+Atk: 22 HP: 200 Resistenze: Melee 20% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 6 range 
+Descrizione: Lancieri brutali delle montagne, eccellenti contro cavalleria e fanteria d’urto. 
+Bonus: 1.5x vs light shock melee infantry, 2x vs cavalry 
+Abilità speciali: Poison – 4 dmg/sec per 5 sec Switch weapon: può diventare Akon Swordman or Akon Archer
+Costo: 80 F, 40 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 36 sec 
+
+⚔️ Akon Swordman
+Atk: 20 HP: 200 Resistenze: Melee 20% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 6 range 
+Descrizione: Spadaccini feroci, addestrati per abbattere fanteria pesante e cavalleria. 
+Bonus: 2x vs heavy infantry, 1.5x vs cavalry 
+Abilità speciali: Poison – 4 dmg/sec per 5 sec Switch weapon: può diventare Akon Spearman or Akon Archer
+Costo: 80 F, 40 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 36 sec 
+
+🏹 Akon Archer
+Atk: 15–7 HP: 135 Resistenze: Ranged 20% Velocità: 4.8 Velocità d’attacco: 3–1.5 Raggio d’attacco: 22 Attacco siege: 15 dmg / 3 rof / 6 range 
+Descrizione: Arcieri rapidi e letali, specializzati nel colpire fanteria leggera e cavalleria. 
+Bonus: 2.25x vs light infantry, 1.5x vs cavalry 
+Abilità speciali: Poison – 4 dmg/sec per 5 sec Switch weapon: può diventare Akon Spearman or Akon Swordman
+Costo: 80 F, 40 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 36 sec
+
+🌿 Berberis Thornshield
+Atk: 25 HP: 150 Resistenze: Ranged 40% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 50 dmg / 3 rof / 6 range 
+Descrizione: Guerrieri spinosi, eccellenti contro unità a distanza. 
+Bonus: 2x vs ranged infantry 1.2x vs siege 
+Abilità speciali: Wild Aura- enemies in 6 tiles lose -3% accuracy (stack up to 10)
+Costo: 70 F, 30 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 15 sec
+
+🧤 Euptelea
+Atk: 20 HP: 130 Resistenze: Melee 15%, Ranged 15% Velocità: 5.5 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri rapidi che disarmano i nemici con colpi precisi. 
+Bonus: 2x vs melee infantry, 1.5x vs cavalry 
+Abilità speciali: Disarm – primo colpo applica -50% fire rate per 10 sec (CD 30 sec) 
+Costo: 75 F, 50 G, 1 pop Addestrato da: Ranunculales Grove Tempo addestramento: 15 sec
+
+🌺 Papaverum Maceman
+Atk: 36 HP: 300 Resistenze: Melee 25%, Ranged 25% Velocità: 3.5 Velocità d’attacco: 3 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 6 range 
+Descrizione: Fanteria pesante che combatte in trance, devastante contro unità corazzate e artiglieria. 
+Bonus: 2x vs heavy infantry, 1.5x vs artillery 
+Abilità speciali: Trance – +25% attacco e difesa, -20% velocità per 10 secs, CD 60sec
+Costo: 100 F, 60 G, 2 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🌿 Vinemancer
+Atk: 24 HP: 160 Resistenze: Melee 10%, Ranged 10%, Trample 50% Velocità: 6.25 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri d’urto che travolgono le retrovie nemiche con attacchi rapidi e letali. 
+Bonus: 2.25x vs ranged infantry, 1.5x vs monks 
+Abilità speciali: Nessuna 
+Costo: 90 F, 70 G, 2 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🌿 Circastera Leaf Mystic
+Atk: 28 (true damage) HP: 200 Resistenze: Ranged 30% Velocità: 4 Velocità d’attacco: 2 Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Monaci mistici che creano illusioni e infliggono danni puri. 
+Bonus: 2.5x vs heavy infantry, 2x vs cavalry 
+Abilità speciali: Illusion – crea 1 illusione ogni 20 sec (20% HP, attacca ma non infligge danni) 
+Costo: 120 F, 80 G, 2 pop Addestrato da: Ranunculales Grove Tempo addestramento: 20 sec
+
+🌳 Trochodendro
+Atk: 20 HP: 240 Resistenze: Melee 40% Velocità: 4 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 60 dmg / 3 rof / 0 range 
+Descrizione: Fanteria pesante che incarna la forza delle cortecce ancestrali, eccellente contro strutture. 
+Bonus: Nessuno 
+Abilità speciali: Nessuna 
+Costo: 80 F, 40 W, 2 pop Addestrato da: Trochodendrales Grove Tempo addestramento: 24 sec
+
+🌊 Gunnera
+Atk: 8 HP: 300 Resistenze: Melee 70% Velocità: 3 Velocità d’attacco: 3 Raggio d’attacco: 1 Attacco siege: 36 dmg / 4 rof / 0 range 
+Descrizione: Colossi vegetali che travolgono i nemici con il proprio corpo, infliggendo danni da impatto. 
+Bonus: Nessuno 
+Abilità speciali: Trample 50%, Knockback: ogni attacco respinge il bersaglio di 1 tile 
+Costo: 180 F, 200 W, 5 pop Addestrato da: Central Grove Tempo addestramento: 50 sec
+
+🎯 Dillenia
+Atk: 75 HP: 60 Resistenze: Ranged 70% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 18 Attacco siege: 75 dmg / 3 rof / 6 range 
+Descrizione: Tiratori fragili ma letali, capaci di ignorare le difese e muoversi con agilità. 
+Bonus: Nessuno Abilità speciali: Ogni 5° colpo ignora tutte le resistenze; +20% velocità per 6 sec dopo una kill 
+Costo: 100 F, 100 G, 2 pop Addestrato da: Central Grove Tempo addestramento: 36 sec
+
+🎯 Saxifraga Shooter
+Atk: 32–10 HP: 125 Resistenze: Ranged 10% Velocità: 5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 20 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Tiratori a lungo raggio che usano semi esplosivi per colpire fanteria leggera. 
+Bonus: 1.5x vs light infantry 
+Abilità speciali: Nessuna 
+Costo: 90 F, 40 W, 1 pop Addestrato da: Central Grove Tempo addestramento: 28 sec
+
+🍷 Wine Warrior (Vite)
+Atk: 24 HP: 160 Resistenze: Melee 20%, Ranged 20% Velocità: 4.8 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri ebbri di vino sacro, oscillano tra estasi e furia. 
+Bonus: 1.5x vs melee infantry, 0.5x vs cavalry 
+Abilità speciali: Ecstasi – +25% attacco per 16 sec (CD 40 sec) 
+Costo: 80 F, 40 G, 1 pop Addestrato da: Vitales Grove Tempo addestramento: 25 sec
+
+🍈 Cucurbitales Warrior
+Atk: 30 HP: 130 Resistenze: Ranged 25% Velocità: 5 Velocità d’attacco: 3 Raggio d’attacco: 20 Attacco siege: 60 dmg / 3 rof / 10 range 
+Descrizione: Tiratori che usano granate fruttate con effetti alchemici e aromatici. 
+Bonus: 2.25x vs light infantry, 0.5x vs cavalry 
+Abilità speciali: Blast 1, possono lanciare granate speciali (una per ogni pianta cucurbitacea) 
+Costo: 60 F, 40 G, 1 pop Addestrato da: Cucurbitales Grove Tempo addestramento: 26 sec
+
+🌿 Nodular Astragalus Spearman
+Atk: 26 HP: 200 Resistenze: Melee/Ranged 25% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 52 dmg / 3 rof / 6 range 
+Descrizione: Lancieri leguminosi con noduli simbiotici, eccellenti contro cavalleria e fanteria d’urto. 
+Bonus: 2x vs cavalry, 1.5x vs shock infantry 
+Abilità speciali: Nessuna 
+Costo: 85 F, 35 G, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 26 sec
+
+🧙 Galega – Monk
+Atk: 10 HP: 120 Resistenze: Ranged 10% Velocità: 4.5 Velocità d’attacco: 3 Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Monaci curativi che usano infusi leguminosi per rigenerare gli alleati. 
+Bonus: Nessuno 
+Abilità speciali: Heal 3 HP/sec 
+Costo: 90 G, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 18 sec
+
+🥊 Licorice
+Atk: 15 HP: 160 Resistenze: Melee 20% Velocità: 7 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 18 dmg / 3 rof / 1 range 
+Descrizione: Fanteria d’urto leggera che immobilizza i nemici con radici appiccicose. 
+Bonus: 1.3x vs ranged infantry 
+Abilità speciali: Snare – 30% rallentamento 
+Costo: 100 F, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 20 sec
+
+🌸 Glicine
+Atk: 5 HP: 90 Resistenze: non specificate Velocità: 4 Velocità d’attacco: 1.5 Raggio d’attacco: 6 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi aromatici che diffondono profumi snervanti in battaglia. 
+Bonus: Nessuno 
+Abilità speciali: Blast 3, Snare 15% (movimento e attacco) 
+Costo: 80 F, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 16 sec
+
+🌵 Ulex
+Atk: 12 HP: 140 Resistenze: Melee 15% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri spinosi che infliggono danni riflessi e contrastano la cavalleria. 
+Bonus: 3x vs cavalry 2x vs shock infantry 
+Abilità speciali: Thorns – riflette 20% dei danni 
+Costo: 60 F, 20 W, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 20 sec
+
+🏹 Cercis Red Leaf
+Atk: 16–6 HP: 100 Resistenze: Ranged 40% Velocità: 5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 24 Attacco siege: 24 dmg / 3 rof / 6 range 
+Descrizione: Arcieri leguminosi che bruciano i nemici con frecce infuocate. 
+Bonus: 1.25x vs cavalry 
+Abilità speciali: Burn – 4 dmg/sec per 10 sec 
+Costo: 70 G, 50 W, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 30 sec
+
+🔥 Tamarindus
+Atk: 12 HP: 300 Resistenze: Melee 25% Velocità: 3.5 Velocità d’attacco: 3 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 0 range 
+Descrizione: Unità d’assedio che brucia le strutture con frutti infuocati. 
+Bonus: Nessuno 
+Abilità speciali: Burn – 4 dmg/sec per 10 sec 
+Costo: 20 F, 100 W, 2 pop Addestrato da: Fabales Grove Tempo addestramento: 30 sec
+
+🌸 Saracas – Monk
+Atk: 3 HP: 110 Resistenze: non specificate Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: non specificato Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Monaci leguminosi che benedicono gli alleati con poteri rigenerativi e offensivi. 
+Bonus: Nessuno 
+Abilità speciali: Benediction – doppia rigenerazione floran (doesn't stack), alleati in 8 tiles +10% atk (doesn't stack) 
+Costo: 100 F, 50 G, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 30 sec
+
+🛡️ Labichea Sentinel
+Atk: 20 HP: 140 Resistenze: Melee 30% Velocità: 5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Sentinelle disciplinate che proteggono le linee con scudi robusti. 
+Bonus: 0.7 vs cavalry/shock infantry
+Abilità speciali: Nessuna 
+Costo: 60 F, 30 W, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 27 sec
+
+🌼 Cassia Golden Shower – Monk
+Atk: 20 (magic, splash) HP: 100 Resistenze: non specificate Velocità: 4.5 Velocità d’attacco: 3 Raggio d’attacco: 8 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Monaci alchemici che combattono con magie esplosive e producono oro in battaglia. 
+Bonus: Nessuno 
+Abilità speciali: Blast 2.5, Produce 40 G/min mentre combatte 
+Costo: 120 G, 60 F, 2 pop Addestrato da: Fabales Grove Tempo addestramento: 30 sec
+
+🍃 Carica Papaya
+Atk: 21–7 HP: 110 Resistenze: Ranged 10% Velocità: 5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Arcieri fruttati che colpiscono con precisione e rapidità, eccellenti contro cavalleria. 
+Bonus: 1.5x vs cavalry 
+Abilità speciali: Nessuna 
+Costo: 80 G, 40 F, 1 pop Addestrato da: Fabales Grove Tempo addestramento: 30 sec
+
+🌳 Oak / Fago / Kastanas Bark Guardian
+Atk: 32 HP: 240 Resistenze: Melee/Ranged 35%, Siege 15% Velocità: 4 Velocità d’attacco: 2 Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 1 range 
+Descrizione: Guardiani corazzati che proteggono le strutture con forza e tenacia. 
+Bonus: 2x vs cavalry 1.5x vs shock infantry 
+Abilità speciali: Protector – +10% M/R/S resistence vicino a edifici alleati 
+Costo: 100 F, 60 G, 2 pop Addestrato da: Fagales Grove Tempo addestramento: 30 sec
+
+🌹 Rose Swordman
+Atk: 24 HP: 150 Resistenze: Melee/Ranged 15% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Spadaccini agili che danzano tra i colpi, letali contro arcieri. 
+Bonus: 2.5x vs ranged infantry, 0.75x vs heavy infantry 
+Abilità speciali: Dodge Dance – schiva un attacco melee ogni 10 sec 
+Costo: 75 F, 35 G, 1 pop Addestrato da: Rosales Grove Tempo addestramento: 22 sec
+
+🌹 Rose Mage
+Atk: 22-8 HP: 200 Resistenze: Ranged 10% Velocità: 4.5 Velocità d’attacco: 3-1.5 Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi spirituali che convertono i nemici con incantesimi lunari. 
+Bonus: Nessuno 
+Abilità speciali: Conversion – converte un nemico in 10 sec (CD 60 sec) 
+Costo: 120 G, 60 F, 2 pop Addestrato da: Rosales Grove Tempo addestramento: 30 sec
+
+🔥 Pyrus Fire Mage
+Atk: 36–12 (fire, splash) HP: 150 Resistenze: non specificate Velocità: 4.2 Velocità d’attacco: 3–1.5 Raggio d’attacco: 14 Attacco siege: 60 dmg / 3 rof / 14 range 
+Descrizione: Maghi del fuoco che inceneriscono le retrovie nemiche con magie esplosive. 
+Bonus: Nessuno 
+Abilità speciali: Burn – 4 dmg/sec per 10 sec 
+Costo: 150 G, 90 F, 3 pop Addestrato da: Rosales Grove Tempo addestramento: 45 sec
+
+🪓 Hawthorn Halberdier
+Atk: 28 HP: 220 Resistenze: Melee 25% Velocità: 5 Velocità d’attacco: 2.2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Picchieri spinosi, eccellenti contro cavalleria e fanteria d’urto. 
+Bonus: 2x vs cavalry, 1.5x vs shock infantry 
+Abilità speciali: Thorns – riflette 20% dei danni 
+Costo: 100 F, 20 W, 1 pop Addestrato da: Rosales Grove Tempo addestramento: 30 sec
+
+🐛 Morus Alba – Support Ranged Infantry
+Atk: 10–5 HP: 150 Resistenze: non specificate Velocità: 4.5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Arcieri che evocano larve e proteggono gli alleati con scudi vitali. 
+Bonus: Nessuno 
+Abilità speciali:
+Swarm – evoca 3 larve per 20 sec (20 HP, 1 Atk, 1.5 rof, speed 3)
+Shield Up – conferisce +50 HP a un’unità per 15 sec (CD 60 sec) 
+Costo: 90 G, 50 F, 2 pop Addestrato da: Rosales Grove Tempo addestramento: 28 sec
+
+🍑 Eriobotrya
+Atk: 36–12 HP: 140 Resistenze: Ranged 20% Velocità: 5 Velocità d’attacco: 3–1.5 Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Tiratori fruttati che rallentano e colpiscono con precisione. 
+Bonus: Nessuno 
+Abilità speciali: Snare – 40%, Crit – 20% 
+Costo: 100 G, 40 F, 2 pop Addestrato da: Rosales Grove Tempo addestramento: 28 sec
+
+🍈 Cempedak – Siege
+Atk: 80 HP: 400 Resistenze: Melee 30% Velocità: 3.5 Velocità d’attacco: 6 Raggio d’attacco: 1 Attacco siege: 120 dmg / 6 rof / 1 range 
+Descrizione: Colossi d’assedio che distruggono le strutture con frutti esplosivi. 
+Bonus: Nessuno 
+Abilità speciali: Blast 2.5 
+Costo: 200 F, 100 W, 2 pop Addestrato da: Rosales Grove Tempo addestramento: 40 sec
+
+🛡️ Ulmus Rubra
+Atk: 30 HP: 260 Resistenze: Melee 35%, Ranged 20%, Siege 10% Velocità: 4.2 Velocità d’attacco: 3 Raggio d’attacco: 1 Attacco siege: 30 dmg / 3 rof / 1 range 
+Descrizione: Guardiani viventi che si radicano per aumentare la resistenza e proteggere gli alleati. 
+Bonus: 0.7x vs cavalry 
+Abilità speciali:
+Living Shield – al primo colpo subito: +100 HP per 10 sec (CD 30 sec)
+Rooting – se fermi per 5 sec: +50% M/R/S resistence 
+Costo: 120 F, 60 W, 3 pop Addestrato da: Rosales Grove Tempo addestramento: 18 sec
+
+🌿 Urtica
+Atk: 25 HP: 120 Resistenze: Melee 10% Velocità: 6 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Fanteria d’urto pungente, rapida e letale contro arcieri. 
+Bonus: 1.2x vs ranged infantry 
+Abilità speciali: Nessuna 
+Costo: 80 F, 30 G, 1 pop Addestrato da: Rosales Grove Tempo addestramento: 26 sec
+
+🏜️ Larrea Sand Warrior
+Atk: 24 HP: 180 Resistenze: Melee/Ranged 25%, Siege 10% Velocità: 4.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri desertici che proteggono le strutture e le unità dalle fiamme e dai colpi d’assedio. 
+Bonus: Nessuno 
+Abilità speciali: Fire Shield – unità/edifici vicini subiscono -50% danni da fuoco e assedio 
+Costo: 90 F, 50 G, 1 pop Addestrato da: Zygophyllales Grove Tempo addestramento: 28 sec
+
+🌩️ Guaiaco – Siege Hero Unit IV
+Atk: 50–25 HP: 1200 Resistenze: Melee/Ranged/Siege 40% Velocità: 3.2 Velocità d’attacco: 3–1.5 Raggio d’attacco: 14 Attacco siege: 100 dmg / 3 rof / 0 range 
+Descrizione: Eroe leggendario che protegge e rigenera le truppe, capace di scatenare tempeste tropicali. 
+Bonus: Nessuno 
+Abilità speciali:
+Regen – 5 HP/sec anche in battaglia
+Immortal Wood – florans in 12 range: +20% M/R/S resistence, +3 HP/sec (stackabile solo la cura)
+Tropical Thunder – infligge 200 danni in area su 3 tiles e stordisce per 3 sec (CD 60 sec) 
+Costo: 500 F, 500 G, 5 pop Addestrato da: Zygophyllales Grove Tempo addestramento: 50 sec
+
+⚡ Celastral Warrior
+Atk: 24 HP: 160 Resistenze: Melee 20% Velocità: 6.5 Velocità d’attacco: 1.5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri fulminei che stordiscono le unità d’artiglieria con colpi rapidi e precisi. 
+Bonus: 2.5x vs artillery, 0.75x vs heavy infantry 
+Abilità speciali: Stun Strike – stordisce per 1.5 sec (CD 15 sec) 
+Costo: 90 F, 90 G, 2 pop Addestrato da: Celastrales Grove Tempo addestramento: 30 sec
+
+🔥 Coca Alchemist
+Atk: 36 (fire) HP: 200 Resistenze: Ranged 25% Velocità: 4.25 Velocità d’attacco: 3 Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Alchimisti esplosivi che devastano la fanteria pesante con magie infuocate. 
+Bonus: 2.5x vs heavy infantry, 0.5x vs cavalry 
+Abilità speciali: Burn – esplosioni lasciano fuoco che infligge 4 dmg/sec per 30 sec 
+Costo: 100 F, 100 G, 2 pop Addestrato da: Malpighiales Grove Tempo addestramento: 32 sec
+
+💧 Ipericum Red Oil
+Atk: 20 HP: 160 Resistenze: Ranged 20% Velocità: 5 Velocità d’attacco: 3 Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi aromatici che usano oli rossi per indebolire e infiammare i nemici. 
+Bonus: Nessuno 
+Abilità speciali: Nessuna
+Costo: 180 G, 2 pop Addestrato da: Malpighiales Grove Tempo addestramento: 40 sec
+
+🌿 Salix Whisperer
+Atk: 20-25 HP: 200 Resistenze: Melee 25% Velocità: 5.5 Velocità d’attacco: 1.5 Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Maghi del salice che sussurrano incantesimi di rallentamento e protezione attraverso le fronde. 
+Bonus: 1.2x vs infantry  0.8x vs cavalry 
+Abilità speciali:
+Soothing Veil – alleati in 6 range ricevono -10% danni subiti
+Entangle – rallenta i nemici in 6 range del 50% per 2 sec (CD 20 sec) 
+Mobile: +20% move speed for 10 sec after kill
+Costo: 90 F, 50 G, 2 pop Addestrato da: Malpighiales Grove Tempo addestramento: 30 sec       
+
+🌸 Passiflora Paladin
+Atk: 24 HP: 320 Resistenze: Melee 35%, Ranged 25% Velocità: 4.4 Velocità d’attacco: 1.2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Descrizione: Guerrieri rituali che entrano in trance e alterano il ritmo della battaglia. 
+Bonus: 1.5x vs infantry 
+Abilità speciali: 
+Trance – +25% atk, -25% mov speed per 10 sec (CD 30 sec)
+Holy Order: allies in 10 tiles get +10% atk and +10% resistences(M/R/S) (doesn't affect other Passiflorans)
+Passion Shield: absorb 150 HP for 10 sec, CD 45s
+Costo: 150 F, 150 G, 3 pop Addestrato da: Malpighiales Grove Tempo addestramento: 45 sec           
+
+🍈 Garcinia Mangostana – Siege Infantry
+HP: 400 Atk: 36 Rof: 3 Velocità: 3.6 Resistenze: Melee 20% Attacco Siege: 75 dmg / 3 rof / 1 range 
+Bonus: Nessuno 
+Abilità speciali:
+🔥 Burn – infligge 4 dmg/sec per 4 sec
+🎯 Crit – 25% probabilità di colpo critico (i critici fanno danni tripli)
+Costo: 200 F, 100 W, 3 pop Tempo addestramento: 48 sec Addestrato da: Malpighiales Grove
+
+🧵 Linen – Light Ranged Infantry
+HP: 110 Atk: 30–10 Rof: 3–1.5 Range: 20 Velocità: 5 Resistenze: Ranged 15% Bonus:
+1.4x vs cavalry 1.2x vs ranged infantry Abilità speciali:
+🕸️ Snare – rallenta bersaglio del 50%
+⚡ Rapid Reload – +50% fire rate per 6 sec dopo una kill 
+Costo: 80 F, 30 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Malpighiales Grove
+         
+🥦 Brassica – Light Shock Melee Infantry
+HP: 140 Atk: 25 Rof: 1.5 Velocità: 5.5 Resistenze: Melee/Ranged 15% Bonus: Nessuno Abilità speciali:
+Irritation – ogni colpo infligge irritazione: il bersaglio subisce -30% velocità di movimento e cadenza d’attacco per 10 secondi (non cumulabile) 
+Costo: 70 F, 30 G, 1 pop Tempo addestramento: 22 sec Addestrato da: Brassicales Grove
+
+✨ Crossomata – Magic Unit
+HP: 300 Atk: 40 (magico) Rof: 2 Velocità: 4 Resistenze: Melee/Ranged/Siege 30% Bonus: 3x vs infantry, 2x vs cavalry Abilità speciali:
+Conversione – può convertire unità nemiche o neutrali (range 12, ricarica 60 sec) 
+Costo: 200 F, 150 G, 3 pop Tempo addestramento: 45 sec Addestrato da: Crossomatales Grove
+
+🌺 Geranio Guardian – Light Melee Infantry
+HP: 150 Atk: 20 Rof: 2 Velocità: 4.5 Resistenze: Ranged 25% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 2x vs light infantry, 1.2x vs cavalry 
+Abilità speciali: Nessuna 
+Costo: 70 F, 30 G, 1 pop Tempo addestramento: 24 sec Addestrato da: Geraniales Grove
+
+🧱 Tapiscia Huertala – Siege Infantry
+HP: 280 Atk: 12 Rof: 3 Velocità: 3.2 Resistenze: Melee 60%, Siege 50% Raggio d’attacco: 1 Attacco siege: 108 dmg / 3 rof / 0 range 
+Bonus: Nessuno 
+Abilità speciali: Nessuna 
+Costo: 150 F, 150 W, 4 pop Tempo addestramento: 40 sec Addestrato da: Huerteales Grove
+
+🍫 Cacao Chief – Explorer Unit
+HP: 400 Atk: 24 Rof: 1.5 Velocità: 6 Resistenze: Melee 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.5x vs animals, 1.5x vs guardians 
+Abilità speciali:
+Fruit Rituals – cura 50 HP ogni volta che viene sconfitto un guardiano o raccolto un tesoro/reliquia
+Respawn – max 1, rinasce ogni 60 sec Costo: 0 G, 0 F (unità unica) Addestrato da: Malvales Grove
+
+🌿 Grewia – Light Melee Infantry
+HP: 160 Atk: 24 Rof: 1.5 Velocità: 5.5 Resistenze: Ranged 20% Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 6 range 
+Bonus: 1.5x vs cavalry 
+Abilità speciali:
+Snare – rallenta il bersaglio del 50%
+Rapid Reload – +50% fire rate per 5 sec dopo una kill 
+Costo: 80 F, 40 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Malvales Grove
+
+🔮 Sterculia – Magic Infantry
+HP: 360 Atk: 36–12 Rof: 3–1.5 Range: 18 Velocità: 4 Resistenze: Ranged 25% Raggio d’attacco: 18 Attacco siege: 36 dmg / 3 rof / 6 range 
+Bonus: 1.5x vs infantry, 0.75x vs cavalry 
+Abilità speciali: Poison – 4 dmg/sec per 3 sec 
+Costo: 100 F, 100 W, 100 G, 3 pop Tempo addestramento: 48 sec Addestrato da: Malvales Grove
+
+🌸 Dombeya – Magic Infantry
+HP: 140 Atk: 18–6 Rof: 3–1.5 Range: 12 Velocità: 4.5 Resistenze: Ranged 15% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: Nessuno 
+Abilità speciali:
+Rally Cry – alleati ottengono +10% atk e +10% velocità per 15 sec (CD 60s)
+Petal Protection – 3 alleati casuali ricevono uno scudo da 50 HP per 10 sec 
+Costo: 60 F, 100 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Malvales Grove
+
+🌳 Triplonchiton – Heavy Melee Infantry
+HP: 260 Atk: 24 Rof: 1.5 Velocità: 4.5 Resistenze: Melee 30%, Trample 25% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.5x vs infantry 
+Abilità speciali: Steel Roots – al primo colpo subito: +50% melee armor per 10 sec, CD 30sec
+Costo: 100 F, 60 W, 2 pop Tempo addestramento: 45 sec Addestrato da: Malvales Grove
+
+🧘 Altea – Monk
+HP: 145 Atk: 15 Rof: 3 Range: 14 Velocità: 4.5 Resistenze: non specificate Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: Nessuno 
+Abilità speciali:
+Heal – cura 5 HP/sec in range 12
+Snare – rallenta il bersaglio del 40% 
+Costo: 50 F, 90 G, 2 pop Tempo addestramento: 35 sec Addestrato da: Malvales Grove
+
+🌺 Hibiscus – Light Ranged Infantry
+HP: 120 Atk: 33–11 Rof: 3–1.5 Range: 20 Velocità: 5 Resistenze: Ranged 15% Attacco siege: 30 dmg / 3 rof / 12 range 
+Bonus: 1.33x vs cavalry, 1.22x vs ranged infantry 
+Abilità speciali:
+Pierce – 50% penetrazione armatura
+Hisbican Shot – +25% range per 10 sec (CD 60s) 
+Costo: 80 F, 40 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Malvales Grove
+
+🌼 Malva – Magic Infantry
+HP: 150 Atk: 30 Rof: 3 Range: 16 Velocità: 5 Resistenze: Ranged 15% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 0.7x vs cavalry 
+Abilità speciali:
+Drain – assorbe 50% dei danni inflitti come HP
+Thorns – riflette 10% dei danni
+Debuff – nemici in range subiscono -15% atk 
+Costo: 60 F, 110 G, 2 pop Tempo addestramento: 35 sec Addestrato da: Malvales Grove
+
+🥭 Durion / Jackfruit – Heavy Melee Infantry
+HP: 420 Atk: 60 Rof: 3 Velocità: 4 Resistenze: Melee 30%, Siege 40% Attacco siege: 108 dmg / 3 rof / 0 range 
+Bonus: 3x vs cavalry, 2.25x vs shock infantry 
+Abilità speciali: Blast – area 3, Repulsion – nemici in 6 tiles subiscono -10% atk e velocità 
+Costo: 225 F, 150 W, 3 pop Tempo addestramento: 60 sec Addestrato da: Malvales Grove
+
+🌿 Eucalyptus – Magic Monk
+HP: 100 Velocità: 4.5 Resistenze: Ranged 25% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: Nessuno 
+Abilità speciali: Heal – cura 10 HP/sec in range 12 
+Costo: 50 F, 30 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Myrtal Grove
+
+🌕 Oenothera – Magic Infantry
+HP: 180 Atk: 30–10 Rof: 3–1.5 Range: 16 Velocità: 5 Resistenze: Ranged 20% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.3x vs ranged infantry 
+Abilità speciali: Moon Caller – tutti i Malvidi ottengono +10% atk durante la notte 
+Costo: 70 F, 130 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Myrtal Grove
+
+🌿 Mirto – Light Melee Infantry
+HP: 100 Atk: 15 Rof: 1.5 Velocità: 5 Resistenze: Melee 20% Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.4x vs infantry, 0.6x vs cavalry 
+Abilità speciali: Nessuna 
+Costo: 45 F, 35 W, 1 pop Tempo addestramento: 18 sec Addestrato da: Myrtal Grove
+
+🌸 Alzatea – Magic Infantry
+HP: 165 Atk: 20–10 Rof: 3–1.5 Range: 18 Velocità: 4.5 Resistenze: non specificate Attacco siege: 10 dmg / 3 rof / 6 range 
+Bonus: Nessuno 
+Abilità speciali: Poison – 5 dmg/sec per 2 sec, Cursed Flower – il bersaglio perde permanentemente -20% atk e velocità (non cumulabile) 
+Costo: 60 F, 140 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Myrtal Grove
+
+🌪️ Combreta Cyclone – Light Shock Infantry
+HP: 240 Atk: 24 Rof: 1.5 Velocità: 5 Resistenze: Melee/Ranged 20% Raggio d’attacco: 1 Attacco siege: 24 dmg / 3 rof / 6 range 
+Bonus: 1.5x vs infantry Abilità speciali: Trample 50%, Sprint – +40% velocità, -20% armatura per 8 sec (CD 20 sec) 
+Costo: 100 F, 100 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Myrtal Grove
+
+🍷 Melograno – Heavy Ranged Infantry
+HP: 160 Atk: 32–16 Rof: 3–1.5 Range: 20 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 20 Attacco siege: 32 dmg / 3 rof / 6 range 
+Bonus: Melee: 1.5x vs cavalry, Ranged: 1.25x vs infantry 
+Abilità speciali: Blast 2.5,  Bleed – 5 HP/sec per 10 sec 
+Costo: 90 F, 70 W, 2 pop Tempo addestramento: 35 sec Addestrato da: Myrtal Grove
+
+🌹 Rose Apple – Heavy Melee Infantry
+HP: 320 Atk: 45 Rof: 3 Velocità: 4.2 Resistenze: Melee 30%, Ranged 20% Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 0 range 
+Bonus: 1.4x vs infantry Abilità speciali: Rose Vows – alleati in 8 tiles ottengono +10% atk 
+Costo: 150 F, 150 G, 3 pop Tempo addestramento: 60 sec Addestrato da: Myrtal Grove
+
+🌳 Jabutica – Heavy Melee Infantry
+HP: 400 Atk: 48 Rof: 3 Velocità: 4 Resistenze: Melee/Ranged/Siege 40% Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 0 range 
+Bonus: Nessuno 
+Abilità speciali:
+Crescendo – +4 atk ogni 10 sec sotto attacco (max +120)
+Living Bark – rigenera 4 HP/sec da fermo 
+Costo: 200 F, 200 W, 4 pop Tempo addestramento: 60 sec Addestrato da: Myrtal Grove
+
+🎯 Picramnia – Light Ranged Infantry
+HP: 100 Atk: 36–12 Rof: 3–1.5 Range: 14 Velocità: 5 Resistenze: Ranged 40% Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.5x vs cavalry, 0.5x vs ranged infantry 
+Abilità speciali: Deprecation – inverte i bonus del bersaglio per 12 sec (CD 60 sec) 
+Costo: 100 F, 70 G, 2 pop Tempo addestramento: 34 sec Addestrato da: Picramnia Grove
+
+🍁 Maple Guardian – Heavy Melee Infantry
+HP: 200 Atk: 24 Rof: 1.6 Velocità: 4.2 Resistenze: Melee/Ranged 30%, Siege 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 1.5x vs cavalry 
+Abilità speciali: Thornmail – riflette il 20% dei danni subiti 
+Costo: 85 F, 45 G, 1 pop Tempo addestramento: 26 sec Addestrato da: Sapindal Grove
+
+🌿 Ruta Warrior – Light Melee Infantry
+HP: 165 Atk: 25 Rof: 1.5 Velocità: 5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 2x vs light infantry Abilità speciali: Corrosion – ogni colpo riduce del 5% tutte le resistenze del bersaglio 
+Costo: 70 F, 30 G, 1 pop Tempo addestramento: 25 sec Addestrato da: Sapindal Grove
+
+🧠 Jaborandi – Magic Infantry
+HP: 200 Atk: 26 Rof: 3 Range: 16 Velocità: 5 Resistenze: Nessuna specificata Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range 
+Bonus: 0.7x vs cavalry 
+Abilità speciali:
+Mental Strife – veleno: 4 dmg/sec per 20 sec; bersaglio perde 10% atk sotto veleno
+Gland Stimulation – +30% atk ai florani in 10 tiles per 8 sec (CD 40 sec) 
+Costo: 70 F, 130 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Sapindal Grove
+
+🍊 Aurantio – Light Ranged Infantry
+HP: 140 Atk: 40 Rof: 3 Range: 20 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 20 Attacco siege: 40 dmg / 3 rof / 6 range 
+Bonus: 1.5x vs cavalry 
+Abilità speciali: Acid – infligge 10 dmg/sec per 5 sec 
+Costo: 90 F, 70 G, 2 pop Tempo addestramento: 35 sec Addestrato da: Sapindal Grove
+
+👻 Aegle Spirit Walker – Light Shock Ranged Infantry
+HP: 180 Atk: 30 (true) Rof: 3 Range: 14 Velocità: 5 Resistenze: Melee/Ranged 20% Raggio d’attacco: 14 Attacco siege: 10 dmg / 3 rof / 6 range Bonus: 2x vs mages Abilità speciali:
+Spirit Walker – può attraversare ostacoli solidi; immune a snare
+Soul Fruit – alleati in 4 tiles rigenerano 5 HP/sec per 15 sec (CD 60 sec) 
+Costo: 80 F, 140 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Sapindal Grove
+
+⚡ Guarana – Light Shock Melee Infantry
+HP: 110 Atk: 20 Rof: 1.2 Velocità: 6 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.6x vs infantry Abilità speciali:
+Fury – +50% velocità d’attacco e movimento per 10 sec (CD 60 sec)
+Self Destruct – esplode alla morte, infliggendo 30 danni in area (2 tiles) 
+Costo: 80 F, 20 G, 1 pop Tempo addestramento: 25 sec Addestrato da: Sapindal Grove
+
+🍇 Rambutan – Light Shock Melee Infantry
+HP: 120 Atk: 18 Rof: 1.5 Velocità: 7 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 27 dmg / 3 rof / 6 range Bonus: 1.5x vs ranged infantry Abilità speciali:
+Bleed – 4 dmg/sec per 5 sec 
+Costo: 50 F, 30 G, 1 pop Tempo addestramento: 18 sec Addestrato da: Sapindal Grove
+
+🥭 Mango – Heavy Melee Infantry
+HP: 300 Atk: 28 Rof: 1.5 Velocità: 4.5 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs infantry Abilità speciali:
+Pierce – 20% penetrazione armatura
+Best Buddy – rigenera 3 HP/sec se vicino a un altro Malvidi 
+Costo: 120 F, 120 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Sapindal Grove
+
+🫒 Jungle Olive – Saboteur
+HP: 180 Velocità: 4 Resistenze: Siege 25% Raggio d’attacco: 1 Attacco siege: 80 dmg / 3 rof / 1 range Bonus: Nessuno Abilità speciali:
+Mimetism – diventa invisibile se inattivo per più di 10 sec 
+Costo: 100 F, 2 pop Tempo addestramento: 50 sec Addestrato da: Sapindal Grove
+
+🧡 Maprang – Light Melee Infantry
+HP: 200 Atk: 24 Rof: 1.5 Velocità: 5.5 Resistenze: Melee 10% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs ranged infantry Abilità speciali:
+Triumph – +33% atk dopo la prima kill (una sola volta) 
+Costo: 75 F, 45 W, 1 pop Tempo addestramento: 25 sec Addestrato da: Sapindal Grove
+
+🙌 Buddha’s Hands – Magic Infantry
+HP: 150 Atk: 26 (true) Rof: 3 Range: 16 Velocità: 4.5 Resistenze: Melee 15% Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 0.5x vs cavalry Abilità speciali:
+Stun – stordisce 3 bersagli per 2 sec (CD 10 sec) 
+Costo: 200 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Sapindal Grove
+
+🍳 Akee – Light Melee Infantry
+HP: 200 Atk: 30 Rof: 1.5 Velocità: 5 Resistenze: Melee 10% Raggio d’attacco: 1 Attacco siege: 60 dmg / 3 rof / 6 range Bonus: 1.6x vs infantry Abilità speciali:
+Poison – 10 dmg/sec per 3 sec
+Self Destruct – esplode alla morte, infliggendo 60 danni in area 
+Costo: 100 F, 100 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Sapindal Grove
+
+🏹 Longan – Light Ranged Infantry
+HP: 140 Atk: 22–8 Rof: 3–1.5 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 22 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 0.7x vs cavalry, 0.7x vs shock infantry Abilità speciali: Nessuna 
+Costo: 70 F, 30 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Sapindal Grove
+
+💨 Mirra – Monk
+HP: 160 Velocità: 4.5 Resistenze: Melee 20% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Heal – 75 HP/min a tutti gli alleati in range
+Mirra Smoke – nemici in 10 tiles subiscono -10% fire rate, atk e velocità per 15 sec (CD 60 sec) 
+Costo: 200 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Sapindal Grove
+
+🌿 Berberidopsis – Light Ranged Infantry
+HP: 100 Atk: 20 (10×2) Rof: 1.5 Range: 16 Velocità: 3 Resistenze: Ranged 50% Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Colpisce 2 bersagli diversi contemporaneamente
++33% velocità se non ci sono alleati vicini
+Chaotic Resonance – +20% atk per 12 sec per ogni unità alleata caduta 
+Costo: 120 F, 80 G, 2 pop Tempo addestramento: 26 sec Addestrato da: Super Grove
+
+🌳 Aextoxicon – Light Melee Infantry
+HP: 300 Atk: 5 Rof: 2 Velocità: 3.5 Resistenze: Melee 50% Raggio d’attacco: 1 Attacco siege: 30 dmg / 4 rof / 6 range Bonus: Nessuno Abilità speciali:
+Aura – nemici vicini perdono 20% velocità di movimento 
+Costo: 75 F, 75 W, 2 pop Tempo addestramento: 20 sec Addestrato da: Super Grove
+
+🗡️ Rabarbarum Crimson Swordman – Light Melee Infantry
+HP: 160 Atk: 28 Rof: 1.5 Velocità: 5.5 Resistenze: Ranged 20% Raggio d’attacco: 1 Attacco siege: 24 dmg / 3 rof / 6 range Bonus: 2.5x vs ranged infantry, 0.75x vs heavy infantry Abilità speciali:
+Dodge Dance – schiva un attacco melee ogni 10 sec 
+Costo: 70 F, 30 G, 1 pop Tempo addestramento: 22 sec Addestrato da: Caryo Grove
+
+🌾 Amaranthus – Light Melee Infantry
+HP: 135 Atk: 12–9 Rof: 3–1.5 Range: 16 Velocità: 5 Resistenze: Melee 20% Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.3x vs cavalry, 0.7x vs infantry Abilità speciali:
+Drain – assorbe 3 HP per colpo
+Bloodlust – alleati feriti in 8 tiles ottengono +10% atk 
+Costo: 35 F, 35 G, 1 pop Tempo addestramento: 14 sec Addestrato da: Caryo Grove
+
+🐉 Dragon Fruit – Magic Infantry
+HP: 160 Atk: 42-14 Rof: 3-1.5 Range: 18 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Burn – 9 dmg/sec per 3 sec
+Dracofury – +50% atk per 10 sec dopo una kill (stackabile 2 volte) Blast – area 3 
+Costo: 90 F, 90 G, 2 pop Tempo addestramento: 36 sec Addestrato da: Caryo Grove
+
+🌵 Cactus – Light Shock Ranged Infantry
+HP: 140 Atk: 32-12 Rof: 3-1.5 Range: 20 Velocità: 6 Resistenze: Ranged 15% Raggio d’attacco: 20 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 0.5x vs heavy cavalry Abilità speciali: Nessuna 
+Costo: 120 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Caryo Grove
+
+🌺 Bougainville – Heavy Melee Infantry
+HP: 240 Atk: 26 Rof: 1.5 Velocità: 4.5 Resistenze: Melee 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs infantry Abilità speciali:
+Thorns – riflette 25% dei danni subiti 
+Costo: 100 F, 100 W, 2 pop Tempo addestramento: 40 sec Addestrato da: Caryo Grove
+
+❄️ Plumbago – Magic Infantry
+HP: 200 Atk: 32 (magic) Rof: 2.8 Range: 18 Velocità: 4.5 Resistenze: Melee 10% Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Snare – rallenta del 60%
+Freeze – congela unità in area 4 per 2 sec (CD 60 sec) 
+Costo: 70 F, 150 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Caryo Grove
+
+🌿 Santal Drainer – Support Magic
+HP: 160 Atk: 20 (magic) Rof: 2 Range: 18 Velocità: 4.25 Resistenze: Ranged 30% Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2.5x vs heavy infantry, 0.5x vs cavalry Abilità speciali:
+Life Drain – cura il 50% dei danni inflitti
+Slow – rallenta il bersaglio del 30% mentre è sotto attacco 
+Costo: 120 F, 100 G, 2 pop Tempo addestramento: 35 sec Addestrato da: Santal Grove
+
+🌲 Nyssa Poison Bark – Light Melee Infantry
+HP: 220 Atk: 16 Rof: 2 Velocità: 4 Resistenze: Melee/Ranged 30%, Siege 15% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs light infantry Abilità speciali:
+Protector – +10% M/R/S resistence vicino a edifici alleati
+Poison Bark – chi attacca questa unità viene avvelenato: 7 dmg/sec per 4 sec 
+Costo: 90 F, 50 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Cornal Grove
+
+🛡️ Myrtal Guardian – Light Melee Infantry
+HP: 180 Atk: 24 Rof: 1.5 Velocità: 4.8 Resistenze: Melee/Ranged 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs melee infantry, 0.5x vs cavalry/shock infantry Abilità speciali: Nessuna 
+Costo: 80 F, 40 G, 1 pop Tempo addestramento: 25 sec Addestrato da: Cornal Grove
+
+🌸 Camelia – Magic Infantry
+HP: 110 Atk: 30 Rof: 1.5 Velocità: 5 Resistenze: Melee 25% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 0.8x vs cavalry, 1.3x vs heavy infantry Abilità speciali:
+Veil – raddoppia l’armatura per 6 sec (CD 30 sec) 
+Costo: 100 F, 1 pop Tempo addestramento: 20 sec Addestrato da: Cornal Grove
+
+🔥 Erica – Magic Infantry
+HP: 200 Atk: 30 Rof: 3 Range: 16 Velocità: 4.5 Resistenze: Ranged 25% Raggio d’attacco: 16 Attacco siege: 56 dmg / 3 rof / 16 range Bonus: Nessuno Abilità speciali:
+Burn – 6 dmg/sec per 8 sec
+Burning Fury – +50 atk per 10 sec dopo una kill (stackabile 2 volte) Blast – area 2.5 
+Costo: 80 F, 140 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Cornal Grove
+
+👑 Rhododendron – Hero Explorer
+HP: 300 Atk: 45–24 Rof: 3–1.5 Range: 14 Velocità: 4.5 Resistenze: Melee 30% Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Botanic Command – florans in 10 tiles ottengono +10% atk, +15% velocità, +50 HP/min
+Respawn – max 1, rinasce ogni 60 sec Costo: 300 G o F Tempo addestramento: 60 sec Addestrato da: Cornal Grove
+
+❄️ Gaultheria – Magic Infantry
+HP: 200 Atk: 35 Rof: 3 Range: 18 Velocità: 5 Resistenze: Melee/Ranged 20% Raggio d’attacco: 18 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Freeze Blast – congela nemici in area per 8 sec (CD 60 sec) Blast – area 3 
+Costo: 250 G, 2 pop Tempo addestramento: 50 sec Addestrato da: Cornal Grove
+
+🌩️ Bertolletia – Siege Hero Unit
+HP: 720 Atk: 120 Rof: 4 Velocità: 3.2 Resistenze: Melee/Ranged/Siege 40% Raggio d’attacco: 1 Attacco siege: 240 dmg / 4 rof / 0 range Bonus: Nessuno Abilità speciali:
+Tropical Tempest – infligge 100 danni e stordisce per 7 sec (CD 60 sec)
+Thunder Shell – quando subisce danni: +100% M/R/S resistence per 8 sec (CD 30 sec)
+Blast – area 2.5 
+Costo: 250 F, 250 G, 5 pop Tempo addestramento: 75 sec Addestrato da: Cornal Grove
+
+🧙 Lucuma – Magic Infantry
+HP: 200 Atk: 24 (magic) Rof: 3 Range: 16 Velocità: 4.5 Resistenze: non specificate Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Illusion – evoca 2 illusioni (HP 20, DPS 5) per 20 sec (CD 60 sec)
+Mental Distortion – un nemico impazzisce e attacca chiunque per 3 sec (CD 30 sec) 
+Costo: 240 G, 2 pop Tempo addestramento: 48 sec Addestrato da: Cornal Grove
+
+🪻 Borago Spearman – Light Melee Infantry
+HP: 120 Atk: 20 Rof: 1.5 Velocità: 5.5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Aura – alleati vicini ottengono +15% velocità e +10% atk 
+Costo: 70 F, 20 W, 1 pop Tempo addestramento: 22 sec Addestrato da: BIG Grove
+
+🌿 Garrya – Light Melee Infantry
+HP: 160 Atk: 20 Rof: 1.5 Velocità: 4.8 Resistenze: Melee/Ranged 20% Raggio d’attacco: 1 Attacco siege: 40 dmg / 3 rof / 6 range Bonus: 2x vs light infantry, 0.75x vs heavy infantry Abilità speciali:
+Teamwork – +5% atk per ogni Garrya vicina (max +100%) Immune a snare 
+Costo: 80 F, 50 G, 1 pop Tempo addestramento: 24 sec Addestrato da: BIG Grove
+
+🔮 Astromagus Icacina – Magic Infantry
+HP: 200 Atk: 30 (magic) Rof: 2.5 Range: 22 Velocità: 4 Resistenze: Ranged 30% Raggio d’attacco: 22 Attacco siege: 36 dmg / 3 rof / 6 range Bonus: 2.5x vs heavy infantry Abilità speciali: Blast – area 4 
+Costo: 125 F, 125 G, 2 pop Tempo addestramento: 40 sec Addestrato da: BIG Grove
+
+🌼 Gentiana – Light Ranged Infantry
+HP: 110 Atk: 18 Rof: 2 Range: 20 Velocità: 4.8 Resistenze: Ranged 20% Raggio d’attacco: 20 Attacco siege: 8 dmg / 3 rof / 6 range Bonus: 2.25x vs light infantry, 0.5x vs cavalry Abilità speciali:
+Sticky – le pozioni rallentano del 50% per 5 sec 
+Costo: 60 F, 40 G, 1 pop Tempo addestramento: 26 sec Addestrato da: Gentianales Grove
+
+🗡️ Apocina Spearman – Light Melee Infantry
+HP: 120 Atk: 18 Rof: 1.5 Velocità: 4.5 Resistenze: Ranged 20% Raggio d’attacco: 1 Attacco siege: 36 dmg / 3 rof / 6 range Bonus: 3x vs cavalry, 2x vs shock infantry Abilità speciali:
+Poison – 3 dmg/sec per 5 sec 
+Costo: 50 F, 50 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Gentianales Grove
+
+🧙 Apocina Sage – Magic Monk
+HP: 100 Velocità: 4 Resistenze: Ranged 30% Range: 12 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Conversion – converte un nemico in alleato per 20 sec (CD 90 sec) 
+Costo: 80 G, 40 W, 1 pop Tempo addestramento: 40 sec Addestrato da: Gentianales Grove
+
+🐎 Acokantheran – Heavy Melee Cavalry
+HP: 280 Atk: 26 Rof: 1.5 Velocità: 6.5 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs infantry Abilità speciali:
+Charge – +40 atk al primo colpo (CD 30 sec) 
+Costo: 120 F, 60 G, 2 pop Tempo addestramento: 30 sec Addestrato da: Gentianales Grove
+
+💨 Noni – Siege Unit
+HP: 80 Velocità: 5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 200 dmg / 1 rof / 0 range Bonus: Nessuno Abilità speciali:
+Explosion – rilascia gas che cura 10 HP/sec per 5 sec 
+Costo: 100 F, 100 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Gentianales Grove
+
+🧠 Yohimbe – Light Ranged Shock Infantry
+HP: 100 Atk: 16 Rof: 1.5 Range: 10 Velocità: 5.5 Resistenze: Ranged 20% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs ranged infantry Abilità speciali:
+Frenzy – +20% velocità e +25% atk per 10 sec (CD 60 sec)
+Sinergia – +25% atk se vicino a un Apocina Sage 
+Costo: 60 F, 40 G, 1 pop Tempo addestramento: 27 sec Addestrato da: Gentianales Grove
+
+🧘 Vinca – Magic Summoner
+HP: 160 Velocità: 4.2 Resistenze: Melee 10%, Magic 25% Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Summon – evoca 1 Petal Crow ogni 15 sec (dura 60 sec, HP 20, DPS 10) 
+Costo: 150 G, 90 W, 2 pop Tempo addestramento: 40 sec Addestrato da: Lamiales Grove
+
+🏹 Prostanthera – Siege Unit
+HP: 600 Velocità: 2.5 Resistenze: Melee 25%, Ranged 50% Raggio d’attacco: 1 Attacco siege: 80 dmg / 3 rof / 0 range Bonus: Nessuno Abilità speciali: Nessuna 
+Costo: 300 W, 150 G, 3 pop Tempo addestramento: 45 sec Addestrato da: Lamiales Grove
+
+🧪 Nepeta – Saboteur
+HP: 60 Velocità: 6 Resistenze: Ranged 60% Raggio d’attacco: 0 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Distraction – provoca tutti i nemici a colpire questa unità per 5 sec 
+Costo: 50 F, 1 pop Tempo addestramento: non specificato Addestrato da: Lamiales Grove
+
+🧙 Dracocephalum – Magic Infantry
+HP: 140 Atk: 22 Rof: 3 Range: 10 Velocità: 5 Resistenze: Magic/Ranged 30% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs fliers Abilità speciali: Blast – area 3 
+Costo: 100 G, 50 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Lamiales Grove
+
+🛡️ Pedalia – Light Shock Melee Infantry
+HP: 220 Atk: 24 Rof: 1.5 Velocità: 5 Resistenze: Melee 15% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs infantry Abilità speciali: Immune a snare e ensnare 
+Costo: 80 F, 60 G, 2 pop Tempo addestramento: 30 sec Addestrato da: Lamiales Grove
+
+👨‍🌾 Sesamus – Villager
+HP: 90 Atk: 10 Rof: 1.5 Velocità: 4.2 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Gather – raccoglie da fattorie, cespugli e alberi il 20% più velocemente
+Squeeze – converte 50 W in 30 G/min 
+Costo: 40 F, 1 pop Tempo addestramento: 20 sec Addestrato da: Lamiales Grove
+
+🛡️ Coleus Spearman – Light Melee Infantry
+HP: 130 Atk: 10 Rof: 1.5 Velocità: 5 Resistenze: Melee 25% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 3x vs cavalry Abilità speciali: +10% HP per ogni spearman alleato (max +100%)
+Leaf Shield – al primo colpo subito: -50% danni per 5 sec (CD 30 sec) 
+Costo: 50 F, 40 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Lamiales Grove
+
+🧙 Verbena – Magic Infantry
+HP: 100 Atk: 28 Rof: 3 Range: 10 Velocità: 4 Resistenze: Magic 30% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Disable – disattiva le abilità del bersaglio 
+Costo: 120 W, 60 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Lamiales Grove
+
+🧪 Digitalis Purpurea – Light Melee Infantry
+HP: 110 Atk: 20 Rof: 1.5 Velocità: 4.5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali: Blast – area 1
+Poison – 5 dmg/sec per 4 sec 
+Costo: 100 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Lamiales Grove
+
+🕊️ Sinandra – Explorer (Flier)
+HP: 90 Atk: 12 Rof: 1.5 Velocità: 7 Resistenze: Ranged 10% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Pollen Dance – +20% velocità per 5 sec (CD 30 sec) 
+Costo: 80 G, 1 pop Tempo addestramento: 12 sec (max 5 unità) Addestrato da: Lamiales Grove
+
+🌸 Jasminus – Monk
+HP: 120 Velocità: 4.5 Range: 6 Resistenze: non specificate Raggio d’attacco: 6 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Heal – cura 5 HP/sec 
+Costo: 50 G, 1 pop Tempo addestramento: 10 sec Addestrato da: Lamiales Grove
+
+🌳 Ligustro – Heavy Melee Infantry
+HP: 400 Atk: 22 Rof: 1.5 Velocità: 4 Resistenze: Melee 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Rooting – resta fermo per 10 sec, guadagna +50% M/R/S armor (CD 60 sec) 
+Costo: 150 F, 80 W, 2 pop Tempo addestramento: 33 sec Addestrato da: Lamiales Grove
+
+🌳 Tebebuia – Monk Summoner
+HP: 180 Velocità: 4 Resistenze: Magic 60% Raggio d’attacco: 0 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Summon – evoca 2 Oak Spirits (HP 100, DPS 30), CD 60 sec
+Passive – ogni floran caduto genera un Oak Spirit che dura 60 sec 
+Costo: 200 G, 100 W, 3 pop Tempo addestramento: 45 sec Addestrato da: Lamiales Grove
+
+🌶️ Incendiary Pepper – Light Ranged Infantry
+HP: 150 Atk: 26 (fire) Rof: 1.5 Range: 6 Velocità: 5 Resistenze: Melee 20% Raggio d’attacco: 6 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2.5x vs buildings, 1.5x vs infantry, 0.5x vs cavalry Abilità speciali:
+Blast – area 2.5 
+Costo: 90 F, 60 G, 1 pop Tempo addestramento: 36 sec Addestrato da: Solanales Grove
+
+🌼 Cestrum – Light Ranged Infantry
+HP: 100 Atk: 18 Rof: 3 Range: 30 Velocità: 5 Resistenze: Ranged 10% Raggio d’attacco: 30 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs ranged infantry Abilità speciali:
+Night Boost – +50% atk durante la notte
+Snare – rallenta del 20% 
+Costo: 60 F, 40 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Solanales Grove
+
+🚬 Nicotia – Light Melee Infantry
+HP: 110 Atk: 20 Rof: 1.5 Velocità: 4.5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Poison – 4 dmg/sec per 3 sec 
+Costo: 80 G, 40 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Solanales Grove
+
+🌸 Petunia – Explorer
+HP: 80 Velocità: 7 Resistenze: Ranged 20% Range: 4 Raggio d’attacco: 4 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Heal – cura 5 HP/sec 
+Costo: 90 G, 1 pop Tempo addestramento: 10 sec (max 3 unità) Addestrato da: Solanales Grove
+
+☠️ Atropa Belladonna – Spy
+HP: 100 Atk: 30 Rof: 1.5 Velocità: 4.2 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 3x vs heroes, 3x vs mercenaries Abilità speciali:
+Mortal Strike – uccide il bersaglio con un solo colpo se esso ha meno del 40% della salute massima
+Costo: 180 G, 2 pop Tempo addestramento: 30 sec Addestrato da: Solanales Grove
+
+🧟 Mandragora – Magic Infantry
+HP: 120 Atk: 22 Rof: 3 Range: 14 Velocità: 4.5 Resistenze: non specificate Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Screech – stordisce tutti i nemici in 6 tiles per 3 sec (CD 30 sec)
+Rooted Terror – alla morte, rilascia nebbia che rallenta i nemici in 6 tiles del 20% per 5 sec 
+Costo: 120 G, 80 F, 2 pop Tempo addestramento: 40 sec Addestrato da: Solanales Grove
+
+🌿 Ashwagandha – Monk Aura Unit
+HP: 180 Velocità: 4 Resistenze: Magic 75%, Melee 40%, Ranged 15% Raggio d’attacco: 4 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Infusion – florans in 4 tiles rigenerano 2 HP/sec e subiscono -15% danni (non cumulabile, non si applica ad altri Ashwagandha)
+Meditation – produce 100 XP/min se non in combattimento 
+Costo: 200 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Solanales Grove
+
+🍅 Solanum Icopersicum – Artillery Crew
+HP: 100 Atk: 1 Rof: 6 Range: 24 Velocità: 3.2 Resistenze: Ranged 10% Raggio d’attacco: 24 Attacco siege: 30 dmg / 6 rof / 16 range Bonus: triplo danno contro navi Abilità speciali:
+Burn – 10 dmg/sec per 6 sec 
+Costo: 150 G, 100 F, 2 pop Tempo addestramento: 22 sec Addestrato da: Solanales Grove
+
+🍏 Solanum Linneum – Light Melee Infantry
+HP: 160 Atk: 18 Rof: 1.5 Velocità: 4 Resistenze: Melee 40% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs cavalry Abilità speciali:
+Morph – si trasforma in cavallo: +50% velocità, +10 atk, -20% melee armor per 10 sec (CD 30 sec) 
+Costo: 130 G, 90 F, 2 pop Tempo addestramento: 45 sec Addestrato da: Solanales Grove
+
+🥬 Antriscus Veilcaster – Magic Infantry
+HP: 80 Velocità: 4.2 Resistenze: Ranged 30%, Magic 50% Range: 12 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Mist – crea nebbia per 8 sec in 12 tiles: florans dentro si muovono +20% e subiscono -50% danni da attacchi a distanza (CD 20 sec) 
+Costo: 100 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Apiales Grove
+
+🥕 Daucus Spearman – Light Melee Infantry
+HP: 140 Atk: 24 Rof: 1.5 Velocità: 4 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs cavalry, 1.5x vs shock infantry Abilità speciali:
+Burrow – può sotterrarsi (CD 25 sec) 
+Costo: 90 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Apiales Grove
+
+🧘 Angelica – Monk
+HP: 100 Velocità: 3.5 Resistenze: Magic 60% Range: 10 Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Pulse – nemici in 10 tiles subiscono 50 danni in 10 sec e -20% atk (CD 30 sec)
+Fortify – florans in 10 tiles rigenerano +0.5% HP/sec 
+Costo: 120 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Apiales Grove
+
+🧠 Centella – Magic Infantry
+HP: 90 Atk: 16 (true) Rof: 1.5 Range: 10 Velocità: 4 Resistenze: Magic 80% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Bind – converte un nemico per 9 sec (CD 60 sec)
+Synaptic Echo – duplica l’ultima abilità usata da un floran alleato
+Costo: 200 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Apiales Grove
+
+🧭 Petroselium – Explorer
+HP: 70 Atk: 8 Rof: 1.5 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali: Nessuna 
+Costo: 70 F, 1 pop Tempo addestramento: 7 sec (max 3 unità) Addestrato da: Apiales Grove
+
+🥬 Sedano – Heavy Melee Infantry
+HP: 220 Atk: 28 Rof: 3 Velocità: 3 Resistenze: Melee/Ranged/Siege 50% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Fiber Shield – quando colpito, ottiene +25% M/R/S armor per 3 sec (CD 30 sec) 
+Costo: 150 G, 120 F, 3 pop Tempo addestramento: 60 sec Addestrato da: Apiales Grove
+
+🧅 Fenkel – Light Shock Melee Infantry
+HP: 100 Atk: 20 Rof: 1 Velocità: 5 Resistenze: Melee 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Fury – raddoppia il danno per 3 sec (CD 15 sec) 
+Costo: 90 G, 1 pop Tempo addestramento: 22 sec Addestrato da: Apiales Grove
+
+🪨 Azorella – Heavy Melee Infantry
+HP: 250 Atk: 24 Rof: 1.5 Velocità: 3 Resistenze: Melee/Ranged 50% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Winter Armor – +15% armor in inverno 
+Costo: 160 G, 120 F, 3 pop Tempo addestramento: 45 sec Addestrato da: Apiales Grove
+
+⛏️ Drusa – Villager
+HP: 100 Velocità: 4 Resistenze: non specificate Raggio d’attacco: 0 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Gifted Miner – genera 120 G/min
+Self Destruct – esplode alla morte, infliggendo 70 danni in area 
+Costo: 120 G, 80 W, 2 pop Tempo addestramento: 40 sec Addestrato da: Apiales Grove
+
+🌸 Astrantia – Monk
+HP: 90 Velocità: 4 Resistenze: Magic 70% Range: 12 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Heal – cura 10 HP/sec
+Fortify – florans in 10 tiles rigenerano 450 HP/min
+Shield Aura – florans in 10 tiles ottengono +10% armor 
+Costo: 100 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Apiales Grove
+
+🛡️ Aralia – Light Melee Shock Infantry
+HP: 150 Atk: 26 Rof: 1.5 Velocità: 5 Resistenze: non specificate Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali: Nessuna 
+Costo: 100 G, 100 F, 2 pop Tempo addestramento: 30 sec Addestrato da: Apiales Grove
+
+⚡ Eleutherococcus – Shock Infantry
+HP: 100 Atk: 18 Rof: 1 Velocità: 5 Resistenze: Melee 10% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Adrenal Surge – +100% atk rate per 2 sec (CD 20 sec)
+Stim Feedback – ogni kill riduce il cooldown di Adrenal Surge di 5 sec 
+Costo: 90 G, 70 F, 1 pop Tempo addestramento: 32 sec Addestrato da: Apiales Grove
+
+🛡️ Agrifolium Swordman – Light Melee Infantry
+HP: 200 Atk: 24 Rof: 1.6 Velocità: 4.25 Resistenze: Melee/Ranged/Siege 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs cavalry Abilità speciali:
+Thornmail – riflette il 30% dei danni subiti 
+Costo: 85 F, 45 G, 1 pop Tempo addestramento: 27 sec Addestrato da: Apiales Grove
+
+🌻 Sunflower Priest – Monk
+HP: 130 Atk: 24 (magic) Rof: 2 Range: 20 Velocità: 5 Resistenze: Ranged 25% Raggio d’attacco: 20 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2.25x vs light infantry Abilità speciali:
+Heal – cura 10 HP/sec in range 12
+Blast – area 1.25 
+Costo: 75 F, 50 G, 1 pop Tempo addestramento: 26 sec Addestrato da: Asterales Grove
+
+🌿 Chuquiraga Emberthorn – Light Melee Infantry
+HP: 120 Atk: 26 Rof: 1.5 Velocità: 4.5 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs infantry Abilità speciali:
+Explosion – 20 dmg + 4 fire dmg/sec per 5 sec (CD 25 sec)
+Thorn Armor – riflette 5 dmg per ogni colpo melee subito 
+Costo: 100 G, 1 pop Tempo addestramento: 24 sec Addestrato da: Asterales Grove
+
+🔊 Famatina Ridgehowler – Saboteur
+HP: 100 Atk: 18 Rof: 3 Range: 10 Velocità: 4 Resistenze: Ranged 20% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Echo Pulse – nemici in 6 tiles hanno 25% di miss chance per 12 sec (CD 30 sec) 
+Costo: 100 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🪨 Achnopogon Stonebark – Heavy Melee Infantry
+HP: 220 Atk: 30 Rof: 1.5 Velocità: 3 Resistenze: Melee/Ranged 50% Raggio d’attacco: 1 Attacco siege: 60 dmg / 3 rof / 6 range Bonus: nessuno Abilità speciali:
+Armor Steal – dopo 3 uccisioni, guadagna +10% armor permanente 
+Costo: 150 G, 150 F, 3 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+💥 Chaetanthera – Siege Unit
+HP: 300 Atk: 90 Rof: 3 Range: 18 Velocità: 2.5 Resistenze: Ranged 60% Raggio d’attacco: 18 Attacco siege: 270 dmg / 3 rof / 18 range Bonus: nessuno Abilità speciali: Immune a knockback e stun
+Barrage – spara 5 proiettili in 6 sec (CD 40 sec) 
+Costo: 300 G, 200 W, 4 pop Tempo addestramento: 60 sec Addestrato da: Asterales Grove
+
+🍄 Adenocaulina – Magic Infantry
+HP: 100 Atk: 14 Rof: 1.5 Range: 12 Velocità: 4 Resistenze: Magic 60%, Ranged 10% Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+More Spore – evoca 3 spore che infliggono 15 dmg in area (CD 20 sec)
+Echo – i florani alleati riattivano la loro ultima abilità usata (entro 6 sec)
+Mycellium Link – spore alleate rigenerano 10 HP/sec
+Mutagenic Field – florani in area ottengono +10% atk ma perdono 5 HP/sec 
+Costo: 140 G, 100 F, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🌸 Gerbera – Light Melee Infantry
+HP: 120 Atk: 22 Rof: 1 Velocità: 4.5 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Flurry – i prossimi 2 colpi infliggono triplo danno (CD 18 sec)
+Chromatic Pulse – cambia colore ogni 10 sec:
+Rosso: +30% atk
+Blu: +20% melee armor
+Giallo: +33% velocità 
+Costo: 100 G, 80 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🌬️ Tehuasca Windroot – Flier Ranged Unit
+HP: 90 Atk: 20-8 Rof: 3-1.5 Range: 14 Velocità: 6 Resistenze: Ranged/Magic 40% Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: nessuno Abilità speciali: Nessuna 
+Costo: 150 G, 100 F, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🪨 Hecastus – Heavy Melee Infantry
+HP: 300 Atk: 20 Rof: 2 Velocità: 2.8 Resistenze: Melee/Ranged/Siege/Magic 50% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Bulwark Mode – modalità difensiva: -50% velocità, +30% armor
+Anchor – se fermo per 10 sec, subisce metà danno finché non si muove 
+Costo: 180 G, 120 F, 3 pop Tempo addestramento: 60 sec Addestrato da: Asterales Grove
+
+🧠 Ainsliaea Mindbloom – Monk
+HP: 100 Atk: 16 (true) Rof: 1.5 Range: 12 Velocità: 3.5 Resistenze: Magic 80%, Ranged 10% Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Mind Control – controlla un nemico per 12 sec (CD 60 sec)
+Neural Feedback – se colpito da magia, il nemico perde 10 HP per colpo
+Synaptic Pulse – stordisce in area 5 tiles per 2 sec (CD 20 sec) 
+Costo: 200 G, 2 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🌪️ Tarconantho Blastroot – Saboteur
+HP: 110 Atk: 21 Rof: 1.5 Velocità: 4.2 Resistenze: Ranged 10% Blast: 1 Raggio d’attacco: 6 Attacco siege: 42 dmg / 3 rof / 6 range Abilità speciali:
+Self Destruct – esplode alla morte, infliggendo 30 danni in area
+Charge – il primo colpo infligge danno quadruplo (CD 20 sec) 
+Costo: 100 G, 100 F, 2 pop Tempo addestramento: 40 sec Addestrato da: Asterales Grove
+
+🩸 Erythrocephalum – Light Melee Infantry
+HP: 130 Atk: 24 Rof: 1.5 Velocità: 4 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Drain – cura il 20% dei danni inflitti
+Hemorrhage – infligge sanguinamento: 30 danni in 6 sec (CD 25 sec)
+Blood Flower – ogni uccisione cura un alleato casuale di 50 HP
+Frenzy – sotto il 20% HP: +50% velocità d’attacco 
+Costo: 120 G, 80 F, 2 pop Tempo addestramento: 40 sec Addestrato da: Asterales Grove
+
+🛡️ Cardus – Heavy Melee Infantry
+HP: 260 Atk: 20 Rof: 2 Velocità: 2.8 Resistenze: Melee/Ranged/Siege/Magic 50% Thorns: 15% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Iron Bloom – ogni colpo subito aumenta l’armatura del 3% (max +30%) 
+Costo: 160 G, 130 F, 3 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🧠 Gymnarrena – Magic Infantry
+HP: 100 Atk: 16 Rof: 1.5 Range: 12 Velocità: 3.5 Resistenze: Magic 80% Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Mind Shatter – nemici in 3 tiles si attaccano tra loro per 4 sec (CD 30 sec)
+Neural Collapse – dopo 3 attacchi consecutivi, stordisce il bersaglio per 2 sec 
+Costo: 200 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Asterales Grove
+
+❄️ Arctoti – Magic Heavy Ranged Infantry
+HP: 180 Atk: 12×3 Rof: 3 Range: 16 Velocità: 4.5 Resistenze: Ranged 20% Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Snare – rallenta il bersaglio del 30%
+Winter Bloom – crea un campo di ghiaccio 10×10 che congela i nemici per 3 sec (CD 60 sec) 
+Costo: 80 G, 40 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🪓 Cicoria Rootspear – Light Melee Infantry
+HP: 120 Atk: 8 Rof: 1.5 Velocità: 6 Resistenze: Melee 30% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 5x vs cavalry, 3.5x vs shock infantry Abilità speciali:
+Sour – nemici in 6 tiles subiscono -10% atk 
+Costo: 50 W, 50 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🌿 Tanaceto – Heavy Melee Infantry
+HP: 160 Atk: 10 Rof: 1.5 Velocità: 4.2 Resistenze: Melee 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Persistence – nemici in 12 tiles perdono 1 atk ogni 5 sec (minimo 1); rimuove anche i debuff dagli alleati 
+Costo: 60 G, 40 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🌼 Calendula – Monk
+HP: 100 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 10 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Heal – cura 80 HP/min in range 10 
+Costo: 80 G, 20 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+💨 Enula Wind Rider – Light Shock Melee Infantry
+HP: 140 Atk: 18 Rof: 1.5 Velocità: 7.5 Resistenze: Melee 10% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs ranged infantry Abilità speciali:
+Eolus Charge – +50% velocità per 5 sec, ignora collisioni (CD 40 sec) 
+Costo: 100 F, 40 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🌺 Vernonia – Heavy Melee Infantry
+HP: 220 Atk: 28 Rof: 1.5 Velocità: 4 Resistenze: Melee 40% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs cavalry, 1.5x vs shock infantry Abilità speciali:
+Fury – +25% atk per 10 sec (CD 60 sec) 
+Costo: 100 W, 60 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🌼 Arnica – Monk
+HP: 130 Atk: 6 Rof: 1.5 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Shield – alleati in 8 tiles ottengono +15% armatura 
+Costo: 100 G, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🏹 Artemisia – Heavy Ranged Infantry
+HP: 150 Atk: 32–20 Rof: 3–1.5 Range: 18 Velocità: 5 Resistenze: Melee 20% Raggio d’attacco: 18 Attacco siege: 80 dmg / 3 rof / 6 range Bonus:
+Bow: 1.5x vs ranged infantry Axe: 1.5x vs cavalry Abilità speciali:
+Seaport – teletrasporto da una costa all’altra via mare (CD 60 sec) 
+Costo: 90 G, 40 W, 1 pop Tempo addestramento: 26 sec Addestrato da: Asterales Grove
+
+🔥 Aspilla – Siege Ranged Infantry
+HP: 100 Atk: 32 Rof: 3 Range: 14 Velocità: 5 Resistenze: Ranged 10% Raggio d’attacco: 14 Attacco siege: 80 dmg / 3 rof / 6 range Abilità speciali:
+Burn – infligge 5 dmg/sec per 5 sec 
+Costo: 80 G, 60 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+😴 Camomilla – Monk
+HP: 90 Velocità: 4.5 Resistenze: non specificate Raggio d’attacco: non specificato Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Sleep – addormenta fino a 4 nemici per 6 sec (CD 60 sec) 
+Costo: 100 G, 1 pop Tempo addestramento: 20 sec Addestrato da: Asterales Grove
+
+🛡️ Teratogos – Siege Unit
+HP: 400 Velocità: 2.5 Resistenze: Melee/Ranged 60% Raggio d’attacco: 1 Attacco siege: 48 dmg / 3 rof / 1 range Abilità speciali:
+Provoke – attira l’attenzione dei nemici in 8 tiles per 5 sec (CD 30 sec) 
+Costo: 150 W, 100 G, 3 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🌫️ Farfaraccio – Light Melee Infantry
+HP: 120 Atk: 6 Rof: 1.5 Velocità: 4 Blast: 5 Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Poison Fog – nemici in 8 tiles perdono 25% atk e velocità per 8 sec (CD 40 sec)
+Poison Leaves – chi lo colpisce in melee subisce 5 dmg/sec per 3 sec 
+Costo: 70 G, 50 W, 1 pop Tempo addestramento: 30 sec Addestrato da: Asterales Grove
+
+🦁 Taraxacus Lion Warrior – Heavy Melee Infantry
+HP: 180 Atk: 22 Rof: 1.5 Velocità: 7 Resistenze: Melee 15% Raggio d’attacco: 1 Attacco siege: 44 dmg / 3 rof / 6 range Abilità speciali:
+Lion’s Roar – nemici in 10 tiles perdono 30% atk per 10 sec (CD 60 sec)
+Wind Leap – salta su nemici in range 12, stordisce per 2 sec e infligge 20 danni in area (CD 60 sec)
+Flying Mane – ogni 10 sec rilascia 2 semi che stordiscono casualmente per 1 sec 
+Costo: 90 G, 50 F, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+👻 Lobelia – Magic Infantry
+HP: 130 Atk: 20 Rof: 3 Range: 12 Velocità: 4.5 Resistenze: Magic 20% Blast: 2.5 Raggio d’attacco: 12 Attacco siege: 0 dmg / 0 rof / 0 range Abilità speciali:
+Fear Wraith – costringe un nemico a fuggire per 5 sec (CD 60 sec) 
+Costo: 90 G, 70 W, 2 pop Tempo addestramento: 45 sec Addestrato da: Asterales Grove
+
+🌿 Brunia Siege Thorns – Siege Unit
+HP: 240 Atk: 40 Rof: 3 Velocità: 4 Resistenze: Melee/Ranged 40% Raggio d’attacco: 1 Attacco siege: 60 dmg / 3 rof / 0 range Bonus: 3x vs cavalry, 3x vs artillery Abilità speciali: Nessuna 
+Costo: 100 W, 60 G, 2 pop Tempo addestramento: 32 sec Addestrato da: BDEP Grove
+
+🌿 Dipsacal – Light Melee Infantry
+HP: 150 Atk: 15 Rof: 1.5 Velocità: 4.25 Resistenze: Melee/Ranged 20% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs light infantry, 0.75x vs cavalry Abilità speciali:
+Sleeping Strike – addormenta un nemico per 10 sec (interrotto se subisce danni, CD 10 sec) 
+Costo: 70 F, 30 G, 1 pop Tempo addestramento: 24 sec Addestrato da: BDEP Grove
+
+🛡️ Anopterus Sentinel – Light shock Ranged Infantry
+HP: 150 Atk: 48-24 Rof: 3-1.5 Velocità: 5.5  Resistenze Ranged 40% Raggio d’attacco: 10 Attacco siege: 24 dmg / 3 rof / 6 range Bonus: 2.25x vs ranged infantry, 0.75x vs heavy infantry Abilità speciali: Nessuna 
+Costo: 65 F, 35 G, 1 pop Tempo addestramento: 22 sec Addestrato da: BDEP Grove
+
+🧙 Paracrifus – Magic Infantry
+HP: 300 Atk: 40 (magic) Rof: 2 Velocità: 4 Resistenze: Melee/Ranged/Siege 30% Blast: 2 Raggio d’attacco: 1 Attacco siege: 60 dmg / 3 rof / 6 range Bonus: 3x vs infantry, 2x vs cavalry Abilità speciali: Nessuna 
+Costo: 200 F, 150 G, 3 pop Tempo addestramento: 45 sec Addestrato da: BDEP Grove
+
+🧠 Antoceroto Mindspore – Magic Infantry
+HP: 140 Atk: 26 (magic) Rof: 2.5 Range: 14 Velocità: 4.2 Resistenze: Magic 40%, Ranged 20% Raggio d’attacco: 14 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 2x vs monks Abilità speciali:
+Spore Pulse – nemici in 6 tiles subiscono -20% atk per 6 sec (CD 30 sec)
+Mind Echo – copia l’ultima abilità usata da un alleato floran entro 6 sec 
+Costo: 120 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Foreign Grove
+
+🌊 Algae Tideblade – Light Melee Infantry
+HP: 100 Atk: 18 Rof: 1.5 Velocità: 5.5 Resistenze: Melee 20%, Siege 10% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs shock infantry Abilità speciali:
+Slippery – 30% chance di schivare attacchi melee
+Tidal Dash – +50% velocità per 3 sec, ignora collisioni (CD 20 sec) 
+Costo: 60 F, 40 G, 1 pop Tempo addestramento: 28 sec Addestrato da: Foreign Grove
+
+🌿 Mossstone – Heavy Melee Infantry
+HP: 280 Atk: 22 Rof: 1.5 Velocità: 3.5 Resistenze: Melee/Ranged/Siege 40% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Regrowth – rigenera 3 HP/sec se fermo
+Spongy Hide – riflette 10% dei danni subiti 
+Costo: 140 F, 100 G, 2 pop Tempo addestramento: 45 sec Addestrato da: Foreign Grove
+
+🧪 Lycopodio Sporeflinger – Ranged Infantry
+HP: 120 Atk: 20 Rof: 2 Range: 16 Velocità: 5 Resistenze: Ranged 20% Raggio d’attacco: 16 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: 1.5x vs monks Abilità speciali:
+Spore Bomb – infligge 5 dmg/sec per 5 sec in area 3 (CD 30 sec)
+Disorient – bersaglio ha 25% miss chance per 4 sec 
+Costo: 80 G, 60 F, 1 pop Tempo addestramento: 30 sec Addestrato da: Foreign Grove
+
+🌿 Felce Shieldroot – Defensive Infantry
+HP: 200 Atk: 16 Rof: 1.5 Velocità: 3.8 Resistenze: Melee/Ranged/Siege 50% Raggio d’attacco: 1 Attacco siege: 0 dmg / 0 rof / 0 range Bonus: Nessuno Abilità speciali:
+Frond Wall – alleati in 6 tiles ottengono +10% armor per 10 sec (CD 40 sec)
+Rooted – se fermo per 6 sec, ottiene +20% resistenza e +5 HP/sec 
+Costo: 100 F, 80 G, 2 pop Tempo addestramento: 40 sec Addestrato da: Foreign Grove

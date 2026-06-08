@@ -1,0 +1,363 @@
+
+GYMNOSPERMAE
+infantry and siege civilization
+
+-Foot units regen 15/30/45/60 Hp/min while not in combat
+-Infantry and buildings take -20/25/33% bonus damage
+-Replace 20% G cost of siege units with additional W
+-All units and techs cost no F, gather W from berries and animals
+UU: Pine guard(infantry) Ephedra(archer) Zamia javeliner(skirmisher)
+UB: Pinery(barrack)
+CT-Aruacarian Wars: infantry deal +50% more bonus damage,
++8 damage to buildings  600 W
+IT-Cypressus Resilience: buildings and foot units +1/1 armor,
+Pine guard +20 Hp  1000 W
+TB Lumber and mining camps +2 los
+
+Pine guard: heavy infantry, replace militia-line
+HP 55-70-95 [115]
+Atk 6-9-13 [17]
+vs buildings +1+2+4 [14]
+vs cavalry +4+3+3 [15]
+Rof 2.0
+Armor 1/2-2/3-3/5 [6/8]
+Speed 0.96
+Cost 100 W 30 sec
+
+Ephedra: replace archer, poison damage
+HP 45-60 [80]
+Atk 7 [10]
+vs spear +4
+Rof 2.0
+Range 5-7 [9]
+Armor 0/0 [3/3]
+Speed 0.96
+Cost 70 W 24 sec
+Poison 60 Hp/sec, last 5 sec
+
+Zamia Javeliner: skirmisher with low armor but piercing attacks
+HP 40-45 [65]
+Atk 5-6 [9]
+Rof 3.0
+Range 4 [6]
+Armor 0/3 [3/6]
+Speed 0.96
+Cost 70 W 24 sec
+Attack ingores pierce armor (not siege/ships/buildings)
+
+Pinery: military building which replace the Barracks and Archery Range.
+Train all unique units. Cost 200 W 40 sec, same stats as barracks.
+
+Missing techs:
+A-infantry: spearman*, infantry armor III*, squires*, gambeson*, arson*
+B-archers: archer armor III*, thumb ring*, bracer*
+B-siege: heavy scorpio, siege enginers
+B-monks: BP, heresy
+C-navy: shipwright, FFS, HDS
+A-defenses: nothing
+A-economy: farms*, guilds, 2-h-saw
+
+ANGIOSPERMAE
+Skirmisher and infantry civilization
+
+-Foot units regen 15/30/45/60 Hp/min while not in combat
+-Forging,Iron Casting and Blast Furnace provide +1 atk
+-Foot units move 5% faster for each garrisone relic (max +15%)
+-Can build Sacred Grove from Feudal Age
+UU: Nymphae Warrior(infantry), Dyrm(archer), Atheros(skirmisher),
+Magnolian Guard(infantry), Ascarina(infantry), Sarcandra(infantry),
+Cannella(infantry)
+UB: Sacred Grove(monastery)
+CT-Ancient Oils: infantry deal poison damage 60 dmg/sec for 5 sec,
+Grove heal 100% faster
+IT-Radiant Flowers: All foot units +1/1 armor
+TB-Unique units +1 los
+
+Nymphaea Warrior: infantry
+HP 40-55
+Atk 3 [10]
+Rof 2.0
+Armor 0/0 [4/5]
+Speed 1.0 [1.15]
+Cost 70 W 12 sec
+
+Dyrm: archer
+HP 55-70
+Atk 7-10 [13]
+Rof 2.0
+Range 5-6 [8]
+Armor 0/1-1/2 [4/5]
+Speed 1.2 [1.38]
+Cost 80 W 15 sec
+
+Atheros: skirmisher
+HP 30-35
+Atk 6-7 [10]
+Rof 3.0
+Range 4-5 [7]
+Armor 0/4-0/5 [3/8]
+Speed 1.2 [1.38]
+Cost 80 W 15 sec
+
+Magnolian Guard
+HP 80-110
+Atk 8-11 [18]
+Rof 2.0
+Armor 2/3-3/5 [7/10]
+Speed 0.9 [1.14]
+Cost 100 W
+
+Ascarina
+HP 45-60
+Atk 5-7 [14]
+Rof 1.8
+Armor 0/1-1/2 [5/7]
+Speed 1.2 [1.38]
+Cost 65 W
+
+Sarcandra
+HP 55-75
+Atk 6-9 [16]
+Rof 2.0
+Armor 1/1-1/2 [5/7]
+Speed 1.1 [1.25]
+Cost 80 W
+
+Canella
+HP 40-55
+Atk 5-7 [14]
+Rof 2.4
+Range 6-7
+Armor 0/1-1/2 [5/7]
+Speed 1.0 [1.15]
+Cost 70 W
+
+Sacred Grove: replace monastery, cost 25 W, same stats.
+Allies in 6 tiles heal by 60 hp/sec
+
+Missing techs:
+A-infantry: halberdier, arson, gambeson, squires*
+A-archers: thumb ring*, bracer*, archer armor III*
+B-siege: siege onager
+B-navy: Galleon, FFS
+A-monks: BP, heresy
+C-defenses: masonry, arrowslits, Keep, treamdill, heated shot
+B-economy: 2-man-saw, both shfat mining, guilds
+
+MONOCOTILEDON
+Alismata
+Asparagus
+Agavenger
+Astelia
+Dioscorea
+Lily
+Tulipan
+Pandan
+Petrosavia
+Areca
+Commelina
+Cypera
+Zea
+Musa
+Ginger
+Orchidantha
+
+infantry and monks civilization
+
+-Foot units and buildings regen 15/30/45/60 Hp/min while not in combat
+-Infantry cost -10% F
+-Forging, Iron Casting, Blast furnace are available one age eralier
+-Rizoma Ranta replace Blacksmith and University from Dark Age
+UU: Acora(infantry), Curcuma(infantry/monk), Pandan Spiral Blade(infantry)
+UB: Rizoma Ranta(Blacksmith/University)
+CT-Fiber Armor: Infantry units +1/2 armor 300 F 300 W
+IT-Monocot: Infantry +2 atk 600 F 400 W
+TB Unique units move 4% faster
+
+Acora
+HP 45-60
+Atk 7-10 [16]
+Rof 1.8
+Armor 0/0-0/0 [4/6]
+Speed 1.3 [1.48]
+Cost 40[36] F 20 W 20 sec
+
+Curcuma
+HP 55-75
+Atk 6-8 [14]
+Rof 2.0
+Armor 0/0-0/0 [4/6]
+Speed 1.0 [1.14]
+Cost 45[40] F 30 W
+
+Pandan Spiral Blade
+HP 80-110
+Atk 10-14 [20]
+Rof 2.0
+Armor 2/2-3/3 [7/9]
+Speed 1.0 [1.14]
+Cost 60[54] F 40 W 30 sec
+
+RizomaRanta: same stats as a university, but also research blacksmith upgrades
+
+Missing techs:
+A-infantry: gambeson*
+B-archers: bracer, archer armor III, thumb ring
+B-siege: siege onager
+A-monks: nothing
+B-navy: shipwright, galleon
+B-defense: Keep, treadmill
+A-economy: nothing
+
+EUCOTILEDONI
+Bellendena
+Akons
+Papaverum
+Euptelea
+Hydrastes
+Xanhorhiza
+Pulsatilla
+Actea
+Talictro
+
+infantry civilization
+
+-Foot units and buildings regen 15/30/45/60 Hp/min while not in combat
+-Buildings cost -10% and are built 10% faster
+-Infantry units attack 10/15/20/25% faster
+-Buildings are affected by Infantry armor upgrades
+UU: Buxa(infantry)
+CT-Basal Lineage: Infantry +0/1 armor 600 W
+UT-Eudicot Core: Buxa +20 Hp 1000 W
+TB-Spearman +25% bonus damage
+
+Buxa
+Hp 60-90
+Atk 7-10 [14]
+Rof 2.0-1.6
+Armor 1/2-2/3 [5/7]
+Speed 1.2 [1.32]
+Cost 80 W
+
+
+
+ROSIDI
+Saxifraga
+Vite
+FABIDI
+Cucurbital
+Alfalfa
+Astragalus
+Galega
+Licorice
+Glicine
+Ulex
+Acacia
+Cercis
+Tamarindus
+Labichea
+Cassia
+Carica
+Oak
+Rose sword
+Pyrus
+Hawthorn
+Cempedak
+Ulmus
+Larrea
+Guaiaco
+COM
+Celastral
+Ipericum
+Salix
+Passiflora
+Linen
+Carambola
+MALVIDI
+Brassica
+Geranio
+Huerta/Tapiscia
+Cacao
+Ayeania
+Grewia
+Altea
+Hibiscus
+Oenothera
+Mirto
+Alzatea
+Combreta
+Eucalyptus
+Melograno
+Tea Tree
+Ruta
+Aegle
+Guarana
+Litchi
+Mango
+Akee
+Longan
+Mirra
+
+ASTERIDI
+Aextoxicon
+Rabarbarum
+Amaranthus
+Cactus
+Plumbago
+Bouganville
+Santal
+Nyssa
+Camelia
+Erica
+Rododendron
+gaultheria
+Mirtillus
+Sapote
+LAMIDI
+Borago
+Garrya
+Icacina
+Gentiana
+Apocina
+Noni
+Yohimbe
+Vinca
+Incensus
+Herbal Healer
+Nepeta
+Lamian Warrior
+Coleus
+Sinandra
+Ligustro
+Tebebuia
+Cestrum
+Petunia
+Atropa
+Ashwagandha
+Solanum
+CAMPANULIDI
+Apia soldier
+Centella
+Aralia
+Agrifolium
+Sunflower
+Famatina
+Achnopogon
+Chaetanthera
+Adenocaulina
+Gerbera
+Anastraphia
+Hecastus
+Ainslea
+Tarconantho
+Cardus
+Gymnarrena
+Aster Spearman
+Artemisia
+Taraxacus
+Brunia
+Sambuca
+Sambuca
+Valeriana
+Anopterus
+Paracrifus

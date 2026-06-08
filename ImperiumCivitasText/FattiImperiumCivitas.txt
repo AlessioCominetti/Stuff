@@ -1,0 +1,129 @@
+Citta Imperium Civitas I e II dove è stabilito
+il numero massimo di case che puoi costruire
+II
+--
+300??? Tessalonica 
+1000??? Tolosa
+500 Venezia (Usually crashes around 250 houses, cannot make more progress)
+300 Antiochia
+500??? Augusta Raurica 
+300 Burdigala
+150 Memphis
+200 Odessa
+500??? Secunda
+200 Singidunum
+300 Sparta
+--
+200 Caralis
+200??? Tarraco 
+150 Magonza
+200 Las Medulas
+250 Verulanium 
+200 Sarmizegetus
+150 Genova
+150 Capua
+150 Tangeri
+150 Verona
+300 Iol Cesarea
+200 Alexandria
+500??? Orleans
+300 Pompei
+350 roma
+--
+500??? Londra
+400??? Hadrian's wall
+500??? Eboracum
+200 Acquae sulis
+--
+300??? Augusta Treverorum
+500??? Augusta Vindelicorum
+150 Augusta Claudia
+300??? BorbetoMagus
+--
+300??? LeptisMagna
+600??? Lambaesis
+150 Tipaza
+250??? Hippo Regius
+--
+500??? Massalia
+600 Dirrachium
+500??? Zela
+400 Munda
+
+I
+STANDARD 12 olive for 3 gold/6 marble/8 stone
+500 Siracusa  spend 12 olive for 6 marble/3 gold:12 wine for 6 marble (STANDARD IN CHALLENGE)
+500 Tarraco   spend 6 iron for 18 flour/2 marble:4 olive for 1 gold: 3 gold for 9 fish/6 cloth
+              (only iron->flour in CHALLENGE)
+300 Cartagena STANDARD
+460 Lione     12 stone/flour/meat for 6/3/3 iron (STANDARD in CHALLENGE)
+500 Florentia 12 flour/cloth/olive for 4 gold
+500 Pompei    12 wood for 4 iron/3 gold:2 iron for 6 flour (STANDARD IN CHALLENGE)
+500 Londinium 12 olive for 3 gold: BARBS 12 olive/fish for 4 gold
+              In mission, obtain every minute: 25 flour, 22 meat, 28 wood, 
+              2 fish, 10 marble/iron/stone 20 linen
+              20/3 clay/olive/wine
+380 Toledo    3 iron for 12 flour/meat: 12 marble for 6 gold: BARBS 6 wine for 12 flour/meat
+               Obtain every minute: 5 flour/meat
+360 Lutetia   12 olive for 3 gold: BARBS 12 meat for 3 gold
+500 Mediolanum 4 marble for 1 iron: 4 olive for 1 gold: 3 gold for 9 marble:
+              BARBS: 3 iron for 9 flour: 6 meat for 2 iron/meat:
+              BARBS 6 flour for 2 cloth: 8 olive for 2 stone
+              Obtain every minute: 4 flour/meat, 1 fish, 3 wood, 1 stone/marble 6 clay
+300 Caralis   STANDARD
+250 Cartagine NOPE
+500 Tangeri   6 clay for 2 marble: 4 olive for 1 gold: BARBS 6 flour for 2 cloth: 6 meat for 2 iron
+500 Bordeaux  STANDARD
+100 Zagabria  STANDARD (12 olive for 6 marble, 12 fish for 3 iron in CHALLENGE)
+200 Colonia   6 iron for 2 marble: 12 olive for 3 gold: 4 gold for 8 marble/12 wood/16 fish
+              In city, obtan every minute: 20 wood/flour/meat 10 stone/clay
+200 Assuan    4 olive for 1 gold: 6 iron for 2 marble: 4 gold for 8 marble/12 fish
+              BARBS: 6 stone for 2 iron: 6 meat for 2 clay
+              BARBS: 6 flour for 2 cloth: 4 olive for 3 stone
+              obtain every minute: 2 flour/meat 4/3 wood/stone
+500 Roma      9 olive for 6 marble/clay: 10 olive for 8 stone: 12 olive for 3 gold
+              10 fish for 10 marble/clay
+              in city, obtain every minute: 40/3 flour/meat
+200 Geneva    NOPE
+100 Venetia   3 iron for 9 wine/6 olive
+              Obtain every minute: 8 wood
+170 Salamantica STANDARD
+              Obtain every minute: 40 wood/stone
+1065 Meridia  NOPE
+              Obtain every minute: 4 flour/meat 2 wood/stone/clay/marble
+500 Lubiana   SAME AS ROME
+400 Anzio     12 olive for 12 marble/6 gold
+710 Damietta  NOPE
+Local resources 
+Stone Iron Marble Gold Fish Barbarians
+2     1    2      1    3    2 Siracusa  (-1 iron,-2 marble,- 2barb in Mission)
+2     1    2      1    1    2 Tarraco   (+2 stone,+1 gold,-2 barb in mission)
+2     2    1      2    2    2 Cartagena (-1 iron,+3marble,-1barb in mission)
+2     1    3      2    2    x Lione     (-1 marble,-2 gold in mission)
+1     x    x      x    2    x Florentia
+1     1    1      1    2    x Pompei    (-1iron,marble,gold in mission)
+2     2    2      1    7    2 Londinium 2 gipsy caravan (-2stone,iron,marble,+7 fish in mission)
+3     3    2      x    x    2 Toledo  3 gipsy caravan
+2     1    1      2    3    3 Lutetia  (-1 gold in mission)
+2     1    2      1    2    2 Mediolanum 3 gipsy caravan (+5 stone,+1 iron,+2marble in mission)
+1     1    2      1    x    3 Caralis
+2     1    2      1    x    2 Cartagine
+2     2    1      1    2    2 Tangeri
+2     2    2      2    1    2 Bordeaux (+1 gold in city)
+2     1    1      1    3    2 Zagabria (+1 iron,+1 marblen in city)
+4     3    2      1    1    x Colonia (+4 barbs in city)
+3     1    2      2    x    3 Assuan
+2     1    2      1    2    x Roma (no minerals in city)
+2     2    2      2    3    2 Geneva
+2     2    2      2    6    x Venetia
+2     1    1      1    2    1 Salamantica
+4     1    5      1    x    x Meridia
+2     1    2      1    x    2 Lubiana
+2     1    x      x    3    2 Anzio
+2     x    2      1    x    x Damietta
+
+MISSION 1-ROME
+start with 4300 G, 70 settler 20 wood/stone/clay10 flour/meat/fish
+Goal: build baker,butcher,tailor,blacksmith,barrack, 2 towers
+defeat invasor: 36 axeman 
+

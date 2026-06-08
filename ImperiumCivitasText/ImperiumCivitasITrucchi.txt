@@ -1,0 +1,31 @@
+___TRUCCHI___
+
+Imperium I-II
+
+AlmsForThePoor     +50 Gold
+ResourcesNeeded    +50 of all resources (even weapons)
+HardWork           double resource production
+MakeLove           All citizens become happy
+HeroMode           make soldiers invincible
+MagicBuild         buildings are built instantly and for free
+FireFigther        disable fires
+NoGraveDiggers     disable plagues
+Peacemaker         disable revolts
+Unbreakable        disable building upkeep
+
+FireItOut          set on fire ALL buildings
+HereKittyKitty     all tribes become peaceful
+YouAreSissy        all tribes become hostile
+DeadManWalking     instant plague
+ShowMeTheMoney     unlimited Gold
+HornOfPlenty       unlimited resources
+
+Imperium III
+
+buildall     build buildings for free and instantly
+giveall      +100.0000 resources and culture
+playall      enable all missions
+knowall      enable all upgrades
+levelup      +20 personal points
+winall       insta win the current mission
+talented     enable all personal abilities

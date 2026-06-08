@@ -1,0 +1,530 @@
+Floran units and buildings are trained/constructed for free but 5 times slower.
+Training/Construction can be speed up with resources.
+Floran villagers +50% resistence vs archers, but -30% resistence vs melee attacks.
+All floran units and buildings regen over time and when not in battle.
+Floran gather resources and repair 30% slower than normal villagers.
+
+Floran buildings change based on terrain, weather and environment.
+This makes the buildings work in different ways.
+It makes them train different units, develop different technologies and
+obtain special abilities.
+
+
+Salve, continuo a ricevere notifiche di pagamento per le rate universitarie. Io ho già pagato tutte e 4 le rate in anticipo il giorno 25 ottobre 2025 con PagoPa, ho pure la ricevuta. Vorrei quindi sapere perché continuo a ricevere notifiche di scadenza per il pagamento delle rate universitarie. Ditemi se tutto è apposto.
+Grazie mille.
+
+
+
+--Bellendena--light ranged infantry
+      HP 120 speed 5 los 18 Melee 25%
+      Ranged: 18 Atk 3 rof 14 range
+      Melee: 14 atk 1.5 rof   x2 vs infantry
+      Cost: 60 F 30 W 1 pop 15 sec
+
+--Pulsatilla--light melee shock infantry
+      HP 100 Atk 12 rof 1.5  range 12 speed 5.5 Ranged 30%
+      Cost: 65 F 35 G 1 pop 20 sec
+      Spring Breath: allies in range move 15% faster
+
+--Arctoti--magic heavy ranged infantry
+          HP 180 Atk 18 rof 1.5 range 16 speed 4.5 Ranged 20%
+          Cost: 80 G 40 F 1 pop 30 sec   Snare: 30%
+         
+--Paracrifus--heavy melee infantry
+          HP 260 Atk 9 rof 1.5 speed 4 los 12
+          x3 vs infantry x2 vs cavalry 
+          Cost: 90 F 1 pop 18 sec
+
+--Galega--monk
+         HP 120 Atk 10 rof 3 range 18 speed 4.5 Ranged 10%
+         Cost: 90 G 1 pop 18 sec   Heal 3Hp/sec
+         --Licorice--light shock melee infantry 
+         HP 160 Atk 15 rof 2 speed 7  Melee 20%   1.3x vs ranged infantry
+         Siege: 18 damage 3 rof
+         Cost: 100 F 1 pop 20 sec  Snare: 30%
+         
+
+Units: Picramnia
+         --Picramnia--light ranged infantry
+         HP 100 Atk 36-12 rof 3-1.5 range 14 speed 5  Ranged 40%
+         1.5x vs cavalry  0.5x vs ranged infantry
+         Cost: 100 F 70 G 2 pop 34 sec
+         Deprecation: Reverse target bonus for 12 seconds, recharge 60s
+         CARD "Bitterstrike": Picramnia +10% atk, poison 4 dmg/sec per 3 sec
+
+
+--Combreta Cyclone--light shock infantry
+         HP 300 speed 5 Ranged 10% 
+         Club: 24 atk 1.5 rof x1.5 vs infantry Trample 50%  Snare 25%
+         Dart: 24 atk 3 rof 14 range x1.25 vs infantry x0.75 vs cavalry
+         Siege: 24 damage 6 range 3 rof
+         Cost: 100 F 100 G 2 pop 40 sec
+         Sprint: +40% move speed for 8 sec, CD 20s
+         Cyclone: do 20 aoe dmg in 3 tiles, CD 20 sec
+         Windborne Form: when hp<50%, +10% atk and move
+
+
+--Ayenia--magic
+         HP 120 Atk 18 rof 1.5 range 12 speed 6
+         cost: 60 F 20 G 1 pop 20 sec
+         Chaotic Frequence: every 12 seconds, switch damage type (M/R/S/T)
+
+ --Grewia--light melee infantry
+         HP 200 speed 5 los 14 Ranged/Melee 15%
+         Club: 24 atk 1.5 rof x1.5 vs cavalry Snare 50%
+         Dart: 32 atk 3 rof 12 range x0.75 vs cavalry  Snare 50%
+         Cost: 80 F 40 W 1 pop 30 sec
+         Rapid Reload: +100% fire rate for 3 sec after kill
+
+ --Malva--magic
+         HP 150 Atk 30 rof 3 range 16 speed 5  Ranged 15%  0.7x vs cavalry
+         Cost: 60 F 110 G 2 pop 35 sec  Drain 50%
+         Thorns: 10%       Debuff: -15% enemy atk in range
+
+--Adenocaulina--magic
+          HP 100 Atk 14 rof 1.5 range 12 speed 4 Magic 60% Ranged 10%
+          Cost: 140 G 100 F 2 pop 45 sec
+          More Spore: summon 3 spores, each dealing 15 damage in are, CD 20s
+          Echo: allied florans activated their most recentely used
+          ability (6 sec) one more time
+          Mycellium Link: spore allied units regen 10 Hp/s
+          Mutagenic Field: allied floran units in range get +10% atk but
+          lose 5 Hp/s
+
+--Achnopogon Stonebark--heavy melee infantry
+          HP 220 Atk 30 rof 1.5 speed 3 Melee/Ranged 50%  2x vs buildings
+          Cost: 150 G 150 F 3 pop 45 sec
+          Armor steal: after 3 kills, gain permanentely +10% armor
+
+--Tarconantho Blastroot--saboteur
+          HP 110 Atk 21 rof 1.5 Speed 4.2 Ranged 10% blast 1
+          Cost: 100 G 100 F 2 pop 40sec
+          Self Destruct: 30 explosion damage on death
+          Charge: first strike deal triple damage, CD 20s
+          --Erythrocephalum--light melee infantry
+          HP 130 Atk 24 rof 1.5 Speed 4 Melee 30%
+          Cost: 120 G 80 F 2 pop 40sec
+          Drain: heal by 20% damage inflicted
+          Hemorrage: deal a strike which inflict bleeding, 30/6 sec, CD 25s
+          Blood flower: for each kill, heal a random allied floran for 50 HP
+          Frenzy: when HP below 20%, +50% fire rate
+
+ --Anopterus Sentinel--light ranged infantry
+          HP 120 speed 5 los 18  Ranged 20%
+          Mace: 20 atk 1.5 rof  x3 vs cavalry x2 vs shock infantry
+          Javelin: 12 atk 1.5 rof 16 range 
+          Siege: 18 damage 3 rof 6 range
+          65 F 55 G 1 pop 24 sec
+
+ --Mangosteen Duelist--heavy melee infantry
+         HP 250 Atk 30 rof 1.5 speed 5 los 14 Ranged 10%
+         Cost: 120 F 60 W 1 pop 30 sec
+         Regen: 2 hp/sec outside combat, 1 hp/sec inside combat
+
+--Linen--light ranged infantry
+         HP 100 speed 5  Ranged 15%
+         Bow: 30 atk 3 rof 20 range    1.25x vs cavalry
+         Knife: 10 atk 1.5 rof         Snare 50%
+         Cost: 80 F 20 W 1 pop 30 sec
+         Rapid Reload: +50% fire rate for 4 sec after kill
+
+--Oenothera--magic
+         HP 180 Atk 30-10 rof 3-1.5 range 16 speed 5 Ranged 20%  1.3x vs ranged infantry
+         Cost: 70 F 130 G 2 pop 40 sec    -50% atk during the day
+         Moon Caller: Malvidi's +10% Atk during the night
+
+         --Alzatea--magic
+         HP 80 Atk 9 rof 1.5 range 18 speed 4.5
+         Siege: 5 damage 6 range 3 rof
+         Cost: 30 F 70 G 1 pop 45 sec  
+
+ --Rose Apple--heavy melee infantry
+         HP 320 Atk 45 rof 3 speed 4.2  Melee 30% Ranged 20%  1.4x vs infantry
+         Siege: 48 damage 3 rof
+         Cost: 150 F 150 G 3 pop 60 sec
+         Rose Vows: allies in 8 tiles get +10% atk
+
+         --Jabutica--heavy melee infantry
+         HP 400 Atk 48 rof 3 speed 4 Melee/Ranged/Siege 40%
+         Siege: 48 damage 3 rof
+         Cost: 200 F 200 W 4 pop 60 sec
+         Crescendo: +4 atk for every 10 seconds taking damage, cap +120 (5 min)
+         Living Bark: unit regen 4 Hp/s while idle
+
+ --Jaborandi--magic
+         HP 200 Atk 26 rof 3 range 16 speed 5   0.7x vs cavalry
+         Cost: 70 F 130 G 2 pop 40 sec
+         Mental Strife: target gets inflicted with poison (4 dmg/sec for 20 sec)
+         Poisoned targets lose 10% atk while under the poison effect
+         Gland Stimulation: +30% atk to florans in 10 tiles for 8 sec, CD 40s
+
+         --Aurantio--light ranged infantry
+         HP 140 Atk 40 rof 3 range 20 speed 5 Ranged 20%  1.5x vs cavalry
+         Siege: 40 damage 6 range 3 rof
+         Cost: 90 F 70 G 2 pop 35 sec
+         Acid: target loses 10 dmg/sec for 5 sec
+
+--Rambutan--light shock melee infantry
+         HP 120 Atk 18 rof 1.5 speed 7    1.5x vs ranged infantry
+         Siege: 27 damage 6 range 3 rof
+         Cost: 50 F 30 G 1 pop 18 sec   Bleed: 4 dmg/sec for 5 sec
+
+      
+         --Jungle olive--saboteur
+         HP 180 speed 4 Siege 25%
+         Siege: 80 damage 3 rof
+         Cost: 200 F 2 pop 50 sec
+         Mimetism: become invisible if idle for more than 10s
+
+         --Maprang--light melee infantry
+         HP 200 Atk 24 rof 1.5 speed 5.5 Melee 10%  1.5x vs ranged infantry
+         Cost: 90 F 60 W 1 pop 30 sec
+         Triumph: gain +33% atk after first kill, only once
+
+         --Buddha's hands--magic
+         HP 150 Atk 26(true) rof 3 range 16 speed 4.5 Melee 15%  0.5x vs cavalry
+         Cost: 200 G 2 pop 45 sec   Stun: stun 3 targets for 2 sec, CD 10s
+
+         --Akee--light melee infantry
+         HP 200 Atk 30 rof 1.5 speed 5 Melee 10%   1.6x vs infantry
+         Siege: 60 damage 6 range 3 rof
+         Cost: 100 F 100 G 2 pop 40 sec    Poison: 10 dmg/sec for 3 sec
+         Self Destruct: eplxode on death, dealing 60 explosion damage
+
+         --Longan--light ranged infantry
+         Hp 140 Atk 22-8 rof 3-1.5 range 22 los 28 speed 5 Ranged 20%   
+         Bow:0.7x vs cavalry/shock
+         Cost: 70 F 30 W 1 pop 30 sec
+         CARD "Spiritfruit": All Rutace units +10% Hp, regen 2 Hp/sec outside combat
+
+ --Lucuma--magic
+         HP 200 Atk 24(magic) rof 3 range 16 speed 4.5
+         Cost: 240 G 2 pop 48 sec
+         Illusion: create 2 illusions(HP 20 DPS 5) who will fight for 20 sec, CD 60s
+         Mental Distorsion: an enemy goes rogue for 3 sec, CD 30s
+
+         --Lucuma Warden--heavy infantry
+         HP 360 Atk 18 rof 1.5 speed 4 los 12  Ranged 10% Snare 10%
+         Cost: 165 W 1 pop 33 sec
+         Aura: allies in 3 tiles regen 2 hp/sec, and attack 1% faster (stack ten times)
+
+--Rabarbarum Crimson Swordman--light melee infantry
+         HP 165 Atk 28 rof 1.5 Speed 5.5 Melee 15%
+         2.5x vs ranged infantry 0.75x vs heavy infantry
+         Siege: 24 damage 6 range 3 rof
+         Cost: 70 F 30 G 1 pop 22 sec
+
+         --Rabarbarum Maceman--heavy melee infantry
+         HP 200 atk 16 rof 1.5 speed 5 los 12 Trample 25%
+         Cost: 100 F 1 pop 20 sec
+         Acid strike: target loses 20% of all armor while in combat
+
+ -Garryales    2 families
+         Units: Garrya
+         --Garrya--light melee infantry
+         HP 200 Atk 20 rof 1.5 speed 5
+         2x vs light infantry
+         Siege: 40 damage 6 range 3 rof
+         Cost: 80 F 40 G 1 pop 24 sec
+         Teamwork: +5% Atk for each Garrya nearby, max +100%
+         Cannot be snared
+         CARD "Garrya's Team Strategy": Garrya ability work with all other 
+         floran units, caps at +200%
+
+        -Icacinales   2 families
+         Units: Icacina
+         --Astromagus Icacina--magic
+         HP 200 Atk 30(magic) rof 2.5 range 22 Speed 4  Ranged 30%  Blast 4
+         2.5x vs heavy infantry
+         Siege: 36 damage 6 range 3 rof
+         Cost: 125 F 125 G 2 pop 40 sec
+
+
+Holdan
+Mounted huskarl
+HP 60-80 [100]
+Atk 8-12 [16]
+vs stone +12
+vs castle/archers +10
+vs buildings/gates +8
+Rof 2.0
+Armor 4/5-7/6 [10/10]
+Speed 1.2 [1.32]
+Cost 60 F 60 G 24-20 sec
+Up cost 1000 F 500 G 50 sec
+
+Brigantine
+Fast firing long_range_warship
+HP 100-110-140
+Atk 4-5-6 [10]
+vs long_range_warships +5-6-7
+vs buildings +4
+Rof 2.0
+Range 5-6-7 [10]
+Armor 1/5-1/5-1/7 [1/9]
+Speed 1.4 [1.68]
+Cost 90 W 30 G 36-27 sec
+
+Boarding ship
+Fast Melee ship
+HP 80-90-120
+Atk 4 [8]
+Rof 0.5
+Armor 4/2-5/2-6/3 [6/5]
+Speed 1.5 [1.8]
+Cost 80 W 40 G 42-27 sec
+
+Fire Ship
+Short ranged ship with fast fire rate
+HP 75-90-105
+Atk 3-4-6 [8]
+vs long_range_warships +2
+Rof 0.5
+Range 3
+Armor 0/5-1/5-2/8 [2/10]
+Speed 1.5 [1.8]
+Cost 75 W 45 G 48-27 sec
+
+Incendiary Ship
+Explosive ship that self destruct on contact
+HP 45-55-75
+Atk 65-80-100
+vs buildings +150-180-250 [350]
+Blast radius 2.5-3.0-3.5
+Armor 2/0 [2/2]
+Speed 1.5 [1.8]
+Cost 45 W 75 G 45-30 sec
+Special: explosion set ships and buildings on fire,
+dealin 10/15/20 dmg over 5 seconds to ships and
+30/40/50 dmg over 5 seconds to buildings
+
+Siege Galley
+Long range warship with very long range, effective
+vs both buildings and hulks, but weak to Galleys
+and fire ships. Slow movement.
+HP 120-150
+Atk 15-18
+vs buildings +70-90 [108]
+vs siege +6-8 [9]
+Rof 3.0
+Range 12-13 [14]
+Armor 0/5-0/6 [0/8]
+Speed 1.1 [1.32]
+Cost 175 W 175 G 45 sec
+Up cost 400 W 400 G 50 sec
+
+Axe cavalry
+Knight-like cavalry that is stronger in melee but weaker to archers.
+HP 100-130 [150]
+Atk 14-19 [23]
+Rof 2.0
+Armor 1/1-3/1 [6/5]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 30 sec
+Up cost 1200 F 800 G 150 sec
+
+Lancer
+European version of the Steppe lancer. Stronger and more expensive.
+Availability: Burgundians, Byzantines, Celts, Franks, Lithuanians,
+Magyars, Spanish, Teutons, Armenians, Berbers, Bohemians,
+Britons, Bulgarians, Georgians, Italians, Poles, Portuguese,
+Saracens, Sicilians, Slavs.
+HP 80-105 [125]
+Atk 11-13 [17]
+Rof 2.0
+Range 1
+Armor 1/1-2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 85 F 50 G 30-25 sec
+Up cost 700 F 700 G 70 sec
+Franks: +16/21 HP, with bloodlines adjusted -4/+1 HP
+Lithuanians: +4 atk with relics, +2 atk on average
+Poles: -30 G cost
+Teutons: +2/0 armor
+Berbers: -20% cost
+Georgians: influence Monaspa's ability, regen 8/14 hp/min
+Sicilians: +1/2 armor
+Burgundians: upgrades available one age earlier, cost -50%
+Magyars: -13 F cost
+Bulgarians: +33% fire rate
+Portuguese: -10 G cost
+
+Mace cavalry
+European cavalry that is good against other mounted units.
+Availability: Burgundians, Franks, Lithuanians, Magyars, Spanish, Teutons,
+Armenians, Bohemians, Britons, Bulgarians, Georgians, Italians, Poles,
+Portuguese, Sicilians, Slavs.
+HP 100-130 [150]
+Atk 10-12 [16]
+vs cavalry +8-16
+vs elephants +8-12
+vs camels +4-8
+Rof 1.8
+Armor 2/0-3/1 [6/5]
+Speed 1.35 [1.48]
+Cost 85 F 60 G 30-25 sec
+Up cost 950 F 400 G 45 sec
+Franks: +20/30 HP, with bloodlines adjusted +0/10 HP
+Lithuanians: +4 atk with relics, +2 atk on average
+Teutons: +2/0 armor
+Georgians: influence Monaspa's ability, regen 8/14 hp/min
+Sicilians: +1/2 armor
+Burgundians: upgrades available one age earlier, cost -50%
+Bulgarians: +33% fire rate
+Portuguese: -12 G cost
+
+Javelin Runner
+Mesomarican ranged unit that replaces the cavalry archer.
+Effective vs infantry, weak vs archers and skirmishers.
+HP 40-50
+Atk 5-6 [10]
+vs spear +4-6
+vs archers +1
+vs horse archers +1
+Rof 2.0
+Range 4 [7]
+Armor 1/2-2/3 [5/7]
+Speed 1.3
+Cost 35 W 45 G 32-28 sec
+Up cost 700 F 400 G 80 sec
+Comparison with archer:
++5/10 HP
++1/3 dmg vs spear
++1 dmg vs archers
++1 dmg vs horse archers
+-1 range
++2/3 armor
++33% speed
++10 W cost
+
+Malva soldier
+infantry that can either use javelins from distance or axes in close combat
+Can switch weapon with a command
+HP 50-60
+Axe 9-12 [14]
+Rof 2.0
+Javelin 4-5 [9]
+vs archers +2
+vs cavalry +2
+Rof 3.0
+Range 4 [7]
+Armor 2/3-3/4 [6/8]
+Speed 1.0 [1.1]
+Cost 45 F 45 W 30 sec
+Up cost 500 F 500 G 50 sec
+
+Linace warrior
+Infantry with a bid shield. Take attacks from allies in 2 tiles.
+HP 70-90
+Atk 8-10 [14]
+vs buildings +6-8 [10]
+Rof 2.0
+Armor 2/6 [5/10]
+Speed 0.9 [0.99]
+Cost 50 W 25 G 16-12 sec
+Up cost 600 F 600 W 50 sec
+
+Guarana
+Versatile infatnry unit with good armor
+HP 50-60
+Atk 8-12 [16]
+vs shock +2
+vs buildings +2 [4]
+Rof 2.0
+Armor 3/3-4/3 [7/7]
+Speed 1.1 [1.21]
+Cost 50 F 25 G 25-20 sec
+Up cost 800 F 450 G 40 sec
+
+2-h-maceman
+Heavy infantry for the mesoamerican. Slow moving, with great attack and melee armor,
+Strong vs infantry, cavalry and buildings, weak to archers, siege and monks.
+HP 80-100
+Atk 28-36 [40]
+vs buildings +8-11 [13]
+Rof 3.0
+Armor 4/1-6/1 [9/5]
+Speed 0.8 [0.88]
+Cost 80 F 30 G 30-25 sec
+Up cost 800 F 600 G 50 sec
+
+Cataphract
+Heavy cavalry available for some civilizations. Cavalry with great armor.
+Versatile but expensive.
+HP 100-130 [150]
+Atk 12-16 [20]
+vs infantry +4-6
+Rof 2.0
+Armor 5/3-7/4 [10/8]
+cavalry armor +8-10
+Speed 1.25 [1.38]
+Cost 75 F 75 G 40-32 sec
+Up cost 1600 F 1000 G 120 sec
+
+Kern-elite kern
+Replace elite skirmisher and Imperial skirmisher (with Viet ally) for the Scots
+Has greater attack but lower bonus damage.
+HP 35-40
+Atk 4-5 [9]
+vs archers +3
+vs spear +3
+vs horse archer +2
+Rof 3.0
+Range 5 [8]
+Armor 0/4 [3/8]
+Speed 1.1
+Up cost 300 W 200 G 40 sec
+Up cost 500 W 400 G 60 sec
+
+IMPORTANT FAMILIES
+Ranunculales, Cucurbitales, Fabales, Fagales, Rosales, Celastros, Malvales, Myrtales
+Sapindales, Caryophillales, Ericales, Gentianales, Lamiales, Solanales, Apiales, Asterales
+
+GYMNO
+pine warrior, araucaria, cipressus, ginkgo, cycada, zamia, gnetu, welwi, ephedra
+BASALI
+nymphaea
+MAGNOLIDI
+canella, winter drymis, laura, atheros, avocado, canfora, magnolia, pipera, ascarina, sarcandra
+MONOCOTILEDONI
+acora, araca, asparagus, agavenger, astelia, dioscorea, lilium, tulipan, pandan, petrosavia
+COMMELINIDI
+areca, commelina, wind blade, cypera, zea mays, musa, ginger, orchidantha, curcuma
+
+RANUN
+-Buxa
+Ranunculales: Akon archer/spearman/swordman, euptelea, papaverum, actea, talictro
+
+SUPEROSIDI
+Saxifraga, Hamamelida, Vite
+FABIDI
+-Larrea,Guaiaco,Ziziphus
+Cucurbitales: kiwano, pumpkin, cucumber, watermelon, gak fruit
+Fabales: astragalus, ulex, glicine, acacia archer, cercis red leaf, tamarindus, labichea, cassia, papaya
+Fagales: quercus, fago, kastanas
+Rosales: rose sword/mage, hawthorn, ulmus, cherry,almons,peach,plum,pear,apple
+COM
+-Celastros, Ipericum, Salix, Passiflora, Linen, Carambola
+MALVIDI
+-Brassica, Geranio
+Malvales: cacao, malva
+Myrtales: myrto-eucalyptus, melograno, melaleuca
+Sapindales: ruta, jaborandi, aegle, guarana, tropical, akee, mirra, maple
+
+SUPERASTERIDI
+-Aextoxicon, Nyssa
+Caryophyllales: rabarbarum, amaranthus, dragon fruit, cactus, plumbago, bouganville
+Ericales: camelia, myrtillus, sapote
+LAMIDI
+-Borago
+Gentianales: apocina, acokantheran, gentiana, noni, yohimbe, vinca
+Lamiales: prostanthera, salvia, rosmarinus, nepeta, origanum, thimus, mentis, lavandula, 
+  prunella, melissa, pedalia, lamia, sesamus, coleus, verbena, digitalis,
+  sinandra, jasminus, ligustro, tebebuia, olfo, plantago
+Solanales: cestrum, petunia, belladonna, mandragora, withania, solanum
+CAMPANULIDI
+-Mate, Brunia, Sambuca, Valeriana, Anopterus
+Apiales: antriscus, daucus, angelica, centella, petroselium, sedano, fenkel, azorella, 
+    astrantia, aralis, eleutherococcus
+Asterales: chuquiraga, famatina, chaetanthera, gerbera, tehuasca, hecastus, ainsliaea,
+    cardus, cicoria, artemisia, camomilla, farfaraccio, taraxacus, lobelia, sunflower

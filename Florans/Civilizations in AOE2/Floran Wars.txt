@@ -1,0 +1,218 @@
+THE FLORANS ARE DIVIDED IN 2 GROUPS. THE ROSA AND THE ASTER.
+(The Ranun now belong to Aster).
+CHOOSE EACH ORDER TO PROVIDE WITH UNIQUE UNITS, UNIQUE TECHS AND BONUSES.
+THEN, LET THEM 2 FACTIONS FIGHT EACH OTHER. AT MOX YOU CAN PICK 3 BONUSES
+FROM EACH EMPIRE.
+
+ROSA
+Sapindales, Cucurbitales, Fabales, Fagales,
+Rosales, Celastros, Malvales, Myrtales
+
+SAPINDALES
+-Woodcutter generate 1 G for each 20 W gathered
+-Military buildings cost -30%
+-Infantry +1/1 armor from Castle Age
+-Trade carts move 30% faster
+CT-Sacred Oils: melee units apply 5 poison dmg over 5 seconds COST 500 F 300 G
+Resin Knight: HP 120 Atk 12 Armor 2/2 Speed 0.96  Slow 20%
+Incense Thrower: HP 45 Atk 7 Range 4 Speed 0.96  Apply -1/1 armor for 3 seconds
+Maple Guardian: HP 80 Atk 10 +5 vs cavalry Thorns 50% COST 65 F 35 G 20 sec
+Ruta Warrior: HP 55 Atk 8 +8 vs spearman/archers  COST 70 F 30 G 20 sec
+Aegle Spirit Walker: HP 60 Atk 5 Range 7 Speed 1.25 COST 30 F 45 G 25 sec
+Guarana: HP 40 Atk 8 +4 spearman/archers Speed 1.5 COST 80 F 20 G 25 sec
+
+CUCURBITALES
+-Farms occupy 2x2 tiles and cost -50%
+-infantry +5/10/15 hp
+-Town Centers and Docks work 10% faster
+CT-Tendril Tactics: spearman +0.5 range  COST 150 F 150 G
+Vine spearman: HP 60 Atk 6 Armor 0/1 +18 vs cavalry
+Gourd slinger: HP 40 Atk 9 Range 5 Speed 0.96   blast 0.2
+
+FABALES
+-infantry attack 15% faster
+-farm pgrades provide +100% F
+-Advancing to the next age cost -25% F
+CT-Symbiotis Growth: every building provide +5 population  COST 200 W 300 G
+Astragalus spearman: HP 70 Atk 9 armor 1/1 Speed 1.1 +26 vs cavalry
+Glicine: HP 40 Atk 7 Range 6 +2 vs infantry
+Ulex: HP 50 Atk 9 +9 vs shock Speed 1.1 Thorns 50% COST 35 F 25 W 16 sec
+Acacia Archer: HP 40 Atk 5 Range 9 Speed 1.0  +5 vs spearman/archers COST 40 F 40 W 16 sec
+Cercis Red leaf: HP 40 Atk 4 Armor 0/4 Speed 1.05 +4 vs spearman/archers COST 20 G 30 W 8 sec
+Labichea Sentinel:  HP 60 Atk 5 Armor 6/0 Speed 1.0  +10 vs cavalry  COST 40 F 25 W 9 sec
+
+FAGALES
+-Infantry move 5/10/15/20% faster
+-Walls +50% hp
+-woodcutter work 15% faster
+CT-Ancient Bark: infantry regen 20 hp/min  COST 300 W 300 G
+Oak Guardian: HP 120 Atk 12 Armor 6/4  +4 vs siege +9 vs cavalry Speed 0.8 COST 50 F 30 G 15 sec
+
+ROSALES
+-infantry return 20% of melee damage
+-Markets cost -100 W
+-Archers +1 atk
+-Rose Swordman becomes Chosen Rose Swordman after 4 kills
+CT-Crimson Sword: sword units +3 atk  COST 500 F 200 G
+Rose Swordman: HP 50 Atk 9 Armor 2/2 Speed 1.1 +12 vs archers COST 40 F 20 G 11 sec
+Chosen Rose Swordman:  HP 120 Atk 13 Armor 2/2 Speed 1.1
+Hawthron Halberdier: HP 80 Atk 10 Armor 4/2 Speed 1.0 +10 vs cavalry +5 vs shock COST 50 F 10 W 15 sec
+Ulmus Rubra: HP 110 Atk 4 Armor 3/1 Speed 0.9 COST 40 W 20 W 6 sec
+
+CELASTROS
+-infantry apply poison with each hit (3 dmg for 3 sec)
+-Berries +50% F
+-infantry cause -50% los for the enemy
+CT-Curaro: archers and towers apply poison damage COST 700 F 300 G
+Celastral Warrior: HP 50 Atk 8 Armor 0/1 Speed 1.2 COST 45 F 45 G 15 sec Stun strike: 3/60
+Salix: HP 70 Atk 10 Armor 4/1 Speed 1.1  COST 50 F 20 W 12 sec
+Passiflora Crusader: HP 80 Atk 10 Armor 5/2 Speed 0.9  +5 vs infantry COST 60 F 50 G 20 sec
+Linace Warrior: HP 50 Atk 7 +7 vs cavalry Armor 0/3 Speed 0.9 COST 30 F 30 G 15 sec 
+
+MALVALES
+-infantry +0/1 armor from Feudal Age
+-Barracks and Archery Ranges work 20% faster
+-Caravan is free and provide double boost
+-Siege units cost -20% W
+CT-Silk Armor: infantry and archers +1/2 armor  COST 400 F 300 G
+Cotton Archer: HP 45 Atk 7 Range 7 Armor 1/1 Speed 1.0 COST 45 W 45 G 15 sec
+Malvales Soldier: HP 80 Atk 8 +8 vs infantry Armor 3/1 Speed 0.9 COST 80 F 20 W 15 sec
+Geranio Guardian: HP 55 Atk 10 +10 vs spearman/archers Armor 2/2 Speed 0.9 COST 70 F 30 G 24 sec
+
+MYRTALES
+-infantry +1/2/3 atk
+-Towers and castles +1/2 range
+CT-Blue Oil: archers +3 dmg to buildings COST 300 F 300 G
+Myrtal Guardian: HP 100 Atk 10 +5 vs cavalry +5 vs buildings Armor 3/2 Speed 1.0 
+COST 45 F 35 W 18 sec
+Pomegranedier: HP 55 Atk 10 +5 vs cavalry Range 10 Armor 0/2 Speed 1.0 Blast 2.5
+COST 45 F 35 W 18 sec
+
+ASTER
+Ranunculales, Caryophillales, Ericales, Gentianales,
+Lamiales, Solanales, Apiales, Asterales
+
+RANUNCULALES
+-Farms contain +25% F
+-Monks +1 range
+CT-Alkaloids: enable poison for all units and defensive buildings,
+poison also applies a slow down effect (-15%) COST 1200 F 800 G
+Akon Archer:  HP 35 Atk 5 Range 11 Armor 0/2 Speed 0.96 COST 30 F 30 G 12 sec
+Akon Sperman: HP 60 Atk 11 +5 vs cavalry/shock Armor 3/1 Speed 0.9 COST 40 F 20 G 18 sec
+Akon Swordman: HP 65 Atk 10 +10 vs infantry Armor 3/1 Speed 0.9 COST 40 F 20 G 18 sec
+Papaverum Maceman: HP 100 Atk 16 Armor 3/3 Speed 1.0 COST 70 F 30 G 16 sec
+Talictro: HP 55 Atk 10 +10 vs cavalry Armor 0/1 Speed 1.2 COST 40 F 20 W 11 sec
+
+
+CARYOPHYLLALES
+-Villagers +3 hp for each eco tech researched (max +30)
+-Trade units generate +25% G
+-Armor upgrades are available one age earlier
+CT-Chroma War: archers +1 atk and range COST 400 F 300 G
+Salt Guardian: HP 110 Atk 11 Armor 3/3  -25% dmg from mounted units
+Amaranthus: HP 50 Atk 8 Range 8 Armor 3/1 Speed 1.0 COST 35 F 35 G 14 sec
+Cactus rogue: HP 50 Atk 8 +8 vs infantry/archers Range 10 Armor 0/2 Speed 1.0 COST 60 G 15 sec
+Bouganville: HP 50 Atk 10 +3 vs infantry Armor 0/2 Speed 1.1 Thorns 25% COST 50 F 50 W 20 sec
+
+ERICALES
+-Farmers work 10% faster
+-Shock infantry +10 hp
+-Foragers work 25% faster
+-Buildings +10/20/30/40%
+CT-Honour Guards: shock infantry regen 30 hp/min COST 400 F 300 G
+Heather warrior: HP 120 Atk 11 Armor 2/2  +2 vs archers
+Myrtal Guardian: HP 60 Atk 12 +6 vs infantry Armor 3/2 Speed 0.96 COST 80 F 40 G 20 sec
+Zapota: HP 65 Atk 7 +5 archers/spearman Range 6 Armor 0/2 COST 80 W 15 sec
+
+GENTIANALES
+-Monks heal 50% faster
+-All foot units regen 12 hp/min, starting from Feudal Age
+-Trade units cost -20%
+CT-Tonics: infantry +10 hp and +2 atk  COST 500 F 200 G
+Gentiana Warrior: HP 55 Atk 9 +9 vs archers/spearman Range 10 Armor 1/2 Speed 0.96 COST 60 F 40 G 25 sec
+Apocina Spearman: HP 40 Atk 6 +12 vs cavalry Armor 0/2 Speed 0.9 COST 30 F 30 W 18 sec
+Acokantheran: HP 95 Atk 7 +7 vs infantry/archers Armor 4/2 Speed 1.5 COST 60 F 30 G 15 sec
+Yohimbe: HP 35 Atk 8 +4 vs archers Range 5 Armor 0/2 Speed 1.15 COST 60 F 40 G 27 sec
+
+LAMIALES
+-archers +1/2/3 atk
+-Blacksmiths cost -100 W
+-Free squires and arson
+CT-Lamian Herbalism: monks +1 range and +3/3 armor  COST 300 F 300 G
+Lavender Defender: HP 100 Atk 10 Armor 2/2  +4 vs infantry
+Rosemary Skirmisher: HP 45 Atk 7 Range 7  apply -15% slow
+Prostanthera: HP 200 Atk 1 +80 vs buildings Armor 4/200 Speed 0.6 COST 100 W 50 G 15 sec
+Lamian Warrior: HP 50 Atk 8 Range 7 Armor 0/2 Speed 1.0  COST 50 F 12 sec
+Coleus Spearman: HP 45 Atk 5 +10 vs cavalry Armor 3/0 Speed 1.0 Cost 25 F 20 W 15 sec
+
+SOLANALES
+-Shock infantry +1/1 armor
+-Squires affect trade units
+-Farmer drop off 10% more F
+-Arson provide double boost
+CT-Pepper bombs: grenadiers deal extra explosions COST 500 F 300 G
+Nightshades: HP 130 Atk 12 Armro 2/2 +3 vs archers
+Cestrum Archer: HP 50 Atk 6 +6 vs archers Range 10 Armor 0/1 Speed 1.0 COST 60 F 40 G 30 sec
+
+APIALES
+-all units +2 los
+-Free farm upgrades
+-villagers cost -10%
+CT-Umbrella Formation: archers +0/1 armor COST 300 F 300 G
+Apia Soldier: HP 50 Atk 5 Armor 0/2 Speed 1.0 COST 50 W 10 sec
+Sedano: HP 75 Atk 7 Armor 6/5 Speed 0.8 COST 40 F 50 G 20 sec
+Agrifolium Swordman: HP 65 Atk 15 +7 vs cavalry Armor 3/3 Speed 0.9 COST 45 F 30 G 18 sec
+
+ASTERALES
+-Attack upgrades are available one age earlier
+-Gambeson provide +1/1 armor
+-buildings cost -10%
+CT-Sun Rituals: all units attack 10% faster COST 500 F 300 G
+Sun Knight: HP 120 Atk 12 Armor 2/2  +3 vs infantry
+Tehuasca: HP 60 Atk 10 +10 vs spearman/cavalry Armor 3/1 Speed 1.05 
+COST 40 F 20 W 15 sec
+Aster Spearman: HP 50 Atk 5 +25 vs cavalry +15 vs shock Armor 0/3 Speed 1.0 
+COST 50 W 10 sec
+Cicoria Rootspear: HP 40 Atk 4 +16 vs cavalry +10 vs shock Armor 4/0 Speed 1.2 
+COST 25 W 25 G 15 sec
+Artemisia Warrior: HP 50 Bow 8 +4 vs archers Range 9 Axe 11 +5 vs cavalry Armor 3/0 Speed 1.0 
+COST 35 G 30 W 13 sec
+Taraxacus Lion Warrior: HP 85 Atk 10 +10 vs cavalry Armor 3/2 Speed 1.2
+COST 25 F 65 G 20 sec
+
+STANDALONE UNITS, CAN BE RECRUITED AS MERCENARIES
+Borago Warrior:  HP 50 Atk 10 +10 vs spearman/archers/cavalry Armor 0/3 Speed 1.1
+COST 30 F 20 W 15 sec
+Nyssa Camptoteca: HP 100 Atk 6 +6 vs spearman/archers Armor 0/0 Speed 0.8
+COST 45 F 25 G 15 sec
+Aextoxicon: HP 30 Atk 6 +3 vs infantry Range 10 Armor 0/2 Speed 0.9
+COST 40 F 40 W 20 sec
+Brassica: HP 130 Atk 8 Speed 1.0 COST 100 F 20 sec
+Guaiaco: HP 160 Atk 5 Armor 3/0 Speed 0.8 COST 60 F 40 W 20 sec
+Saxifraga: HP 100 Atk 6 Range 10 Armor 0/3 Speed 0.9 COST 45 F 20 W 14 sec
+Pine Guardian:
+Araucaria:
+Cipressus Sentinel:
+Zamia Javelineer:
+Gnetu:
+Ephedra Archer:
+Nymphea Warrior:
+Winter Drimys:
+Laura soldier:
+Avocado Guardian:
+Camphora:
+Magnolian Guard:
+Ascarina:
+Sarcandra:
+Acora/Araca/Areca Mercenary:
+Agavenger:
+Dioscorea:
+Lilium Warrior:
+Pandan Spiral Blade:
+Petrosavia:
+Commelina Blue Runner:
+Poales Wind Blade:
+Cypera Sentinel: HP 35 Atk 8 +8 vs archers/spearman Range 8 Armor 3/3 Speed 1.0
+COST 60 F 40 W 20 sec
+Bananas Warrior:
+Orchidantha:

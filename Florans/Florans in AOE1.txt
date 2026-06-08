@@ -1,0 +1,90 @@
+FLORANS
+archers and priests
+
+-Cannot build Stables, Accademies and Siege Workshops
+-Train unique units at the Barrack and Archery Range
+-Priests +50 HP
+-Infantry armor techs apply to Archery Range units
+-Free Towers upgrades
+
+Missing units: all cavalry, siege, hoplites
+Missing techs: aristocracy, nobility, engineering, leather armor cavalry/archer, fire galley
+
+UNITS
+Barrack
+I-Mace scout-Mace runner-Mace warrior-elite Mace warrior
+HP 35-45-75-100
+Atk 4-5-7-9 [16]
+vs archers +0-1-2-4
+Rof 1.5
+Armor 0/2 [6/5]
+Speed 1.5
+Cost 50 F 20 sec 0.5 population
+Up cost 100 F
+Up cost 150 F 50 G
+Up cost 1500 F 700 G
+
+II-spearman-pikeman-halberdier
+HP 45-75-120
+Atk 5-8-11 [18]
+vs cavalry +2-4-6
+Rof 1.5
+Armor 1/1-2/1-3/1 [9/4]
+Speed 1.0
+Cost 40 F 10 W 20 sec 0.5 population
+Up cost 250 F 100 G
+Up cost 1000 F 750 G
+
+III-Heavy infantry-Elite heavy infantry
+HP 90-120
+Atk 17-27 [34]
+Rof 1.5
+Armor 6/1-10/1 [16/4]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 2000 F 800 G
+
+Archery Range
+II-Jungle Archer-Plumed Archer-elite Plumed Archer
+HP 45-55-65
+Atk 4-5-6 [7]
+Rof 1.5
+Range 4-5-6 [9]
+Armor 1/0 [7/3]
+Speed 1.2
+Cost 50 F 30 W 32 sec
+Up cost 200 W 100 F
+Up cost 800 W 400 F
+
+II-Slinger-elite slinger
+HP 25-35
+Atk 2-3 [6]
+vs archers +3-6
+vs buildings +3-6
+Rof 1.5
+Range 4-5 [7]
+Armor 0/2-0/4 [6/7]
+Speed 1.0
+Cost 40 F 10 W 20 sec 0.5 population
+Up cost 200 W 100 G
+
+IV-Arrow Knight-elite Arrow Knight
+HP 50-60
+Atk 27-34 [35]
+Rof 1.5
+Range 10-12 [15]
+Armor 1/0 [7/3]
+Speed 0.8
+Cost 100 W 80 G
+Up cost 1200 F 900 W
+
+if it is impossible to mod unique units, then this is the second version.
+FLORANS
+-Cannot build Stables or Accademies, hoplites are trained at the Barracks
+-Free Tower upgrades
+-Priest +50 HP
+-Infantry armor upgrades benefit Archery Range units
+
+Missing units: scout cav, cavalry, battle elephant, elephant archer,
+chariot, chariot archer, camel rider, horse archer
+Missing techs: aristocracy, nobility, leather armor cavalry/archer, fire galley

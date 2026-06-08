@@ -1,0 +1,928 @@
+SUPERDIVISIONE: Spermatophyta
+DIVISIONE: Pinophyta
+CLASSE: Pinopsida
+ORDINE: Pinales
+FAMIGLIA: Pinaceae
+
+(Classificazione APG IV)
+SPERMATOPHYTA
+**************
+---GYMNOSPERMAE---
+   -PINOPHYTA
+    -PINOPSIDA
+     -PINALES
+     --Pine Warrior--heavy melee infantry
+     HP 200 Atk 24 rof 1.5 speed 4.25 Melee 35%
+     1.25x vs heavy infantry
+     Cost: 100 F 40 F 2 pop 30 sec
+     CARD "Pine Resin": All Pynophita units +10% atk speed, snare +15% effect
+     CARD "Thick Bark": All Pynophita units +20% Hp, +15% Ranged resistence
+     --Araucaria Warrior--heavy melee infantry
+     HP 240 Atk 48 rof 3 speed 4 Melee/Ranged 40% Trample 30%
+     Siege: 48 damage 3 rof
+     Cost: 120 F 60 W 3 pop 36 sec
+     --Cipressus Sentinel--light ranged infantry
+     HP 130 speed 4.5 Ranged 25%
+      Bow: 24 atk 3 rof 12 range 0.7x vs cavalry/shock infantry
+      Spear: 8 atk 1.5 rof 1 range 1.25x vs cavalry
+      Cost: 90 F 10 G 2 pop 32 sec
+   -CYCADOPHYTA
+    -CYCADACAE
+     Cicada Warrior
+    -ZAMIACE
+     --Zamia Warrior--light ranged infantry
+      HP 140 speed 5 Ranged 25%
+      Javelin: 38 atk 3 rof 16 range 1.4x vs heavy infantry/cavalry
+      Spear: 10 atk 1.5 rof 1 range 1.4x vs heavy infantry/cavalry
+      cost: 100 F 60 G 2 pop 32 sec
+      Ranged attack ignores 50% of targets resistences
+   -GNETOPHYTA
+     --Gnetu--light ranged infantry
+      HP 125 Atk 18 rof 1.5 range 18 speed 4.5  Ranged 40%
+      0.7x vs cavalry
+      Cost 120 G 2 pop 35 sec 5 max   Every 3rd strike ignores armor
+      --Ephedra--light ranged infantry
+      HP 110 speed 5.5 Ranged 30%
+      Bow: 30 atk 3 rof 18 range 1.25x vs cavalry 0.6x vs shock infantry
+      Knife: 10 atk 1.5 rof 1 range  0.6x vs shock infantry
+      Siege: 15 damage 6 range 3 rof
+      Cost: 90 F 35 G 1 pop 26 sec
+      Ephedric infusion: +10% speed for 5 seconds and heal for 5 hp per kill
+
+
+ANGIOSPERMAE
+************
+    --BASALI
+      --AMBORELLALES
+        --Amborella--light magic infantry
+        HP 150 Atk 20 rof 2 speed 4.25 Melee/Magic 40%
+        Cost: 90 F 50 G 2 pop 32 sec
+        CARD "Basal tactics": All Basal units apply -10% armor and atk to enemy for 3 sec
+        CARD "Basal Aromatics": All Basal units regen 1 Hp/sec even in combat
+        CARD "Ancient Lineage": All Basal units cost -15%, recover 3% max hp per kill
+      --NYMPHAELALES
+        --Nymphae Warrior--light melee infantry
+        HP 150 Atk 20 rof 1.5 speed 5   +40% resistence while under moonlight
+        Cost: 80 F 30 W 1 pop 26 sec
+**********
+    --MAGNOLIDI
+      --CANELLALES
+        --Canella Lancer--light melee infantry
+         HP 105 Atk 20 rof 1.5 speed 5 Melee 20%
+         Cost: 65 F 35 G 1 pop 20 sec
+        --Winter Dyrms--ligth ranged infantry
+         HP 160 Atk 20 rof 2.4 range 12 speed 4.5 Melee/Ranged 30%
+         Cost: 100 F 60 W 2 pop 32 sec
+         Brina: target get -15% attack speed, -35% movement speed for 5 seconds
+       --LAURALES
+         --Laura soldier--light melee infantry
+          HP 120 Atk 18 rof 1.5 speed 5 Melee 20%   1.5x vs cavalry
+          Cost: 65 F 35 G 1 pop 20 sec
+         --Avocado Guardian--heavy melee infantry
+          HP 180 Atk 24 rof 1.5 speed 4.5 Melee 30%   1.25x vs heavy infantry
+          Cost: 100 F 40 G 2 pop 30 sec
+          CARD "Avocado offering": All Magnolidi units +10% Hp, regen 2 Hp/sec outside combat
+         --Camphora--light magic infantry
+          HP 130 Atk 30 rof 3 range 14 speed 5 Ranged 25%
+          Cost: 90 F 50 G 2 pop 32 sec   
+          Fog: enemies in 7 range move/atk 15% slower
+       --MAGNOLIALES
+          --Magnolia Guard--heavy melee infantry
+          HP 200 Atk 24 rof 1.5 speed 4.25 Melee 30%
+          1.5x vs heavy infantry/cavalry/shock infantry
+          Cost: 100 F 20 W 1 pop 30 sec
+          CARD "Myristica Fragrans": All Magnolidi units +15% Snare effect, +20% damage vs infantry
+          CARD "Pipera bombs": All ranged units deal 20% of their base attack as explosions
+       --CHLORANTHALES
+          --Ascarina--light melee infantry
+          HP 160 Atk 21 rof 1.5 speed 5 Melee 30%
+          Cost 90 F 50 G 2 pop 30 sec    
+          Poison: 4 dmg/sec for 5 sec
+          --Sarcandra--light ranged infantry
+          HP 150 Atk 15 rof 1.5 range 14 speed 5  Regen 90 hp/min
+          Cost 90 F 50 G 1 pop 28 sec   
+          Resonance: allies in range heal 60 HP/min
+***************
+      --MONOCOTILEDONI
+        --ACORALES
+          --Acora Warrior--light melee infantry
+      HP 125 Atk 20 rof 1.5 speed 5 Melee 25%
+      Cost: 75 F 25 W 1 pop 24 sec
+      Aerodinamic: +20% movement speed for 4 seconds after a kill
+        --ALISMATALES
+          --Araca Spearman--light melee infantry
+      HP 140 Atk 20 rof 1.5 speed 5  Melee 25%
+      Cost: 85 F 35 W 1 pop 28 sec   Poison: 4 dmg/sec for 5 sec
+      CARD "Alismata Leaf Guards": Araca +10% atk, +20% Ranged resistence
+        --ASPARAGALES
+          --Asparagus--light melee infantry
+      HP 125 Atk 24 rof 1.5 speed 5 Melee 20%  1.25x vs cavalry
+      Cost: 80 F 30 G 1 pop 24 sec
+          --Agavenger--light melee infantry
+      HP 130 Atk 20 rof 1.2 speed 5 Melee/Ranged 15%
+      1.4x vs ranged infantry
+      Cost: 90 F 50 G 1 pop 28 sec
+      Slow: apply -20% slow movement for 3 sec for each hit
+      Resurrection: unit has a 25% to return to the battlefield with 50% max hp left
+          --Astelia--magic infantry
+      HP 135 Atk 17 rof 1.5 range 12 speed 5  x1.4 vs heavy infantry
+      Cost: 80 F 20 G 1 pop 30 sec
+      Aura: allies in 10 tiles regen 1.5 hp/sec, doesn't stack
+      Dash: charge towards the enemy in 12 tiles, dealing 12 splash damage
+      and ignoring attacks for 3 seconds, CD 60 sec
+         --DIOSCOREALES
+           --Dioscorea Snake--siege unit
+      HP 200 Atk 25 rof 1.5 speed 6 Ranged 20%  blast 1.5
+      Siege: 50 damage 3 rof
+      Cost: 80 F 40 G 1 pop 30 sec
+      Burrow: unit can move underground, while underground,
+      cannot be targeted or damaged
+      CARD "Hard Roots": Dioscorea +20% atk, +25% move while burrowing
+         --LILIALES
+           --Lilium Warrior-- light ranged infantry
+      HP 120 Speed 5 Ranged 25%
+      Javelin: Atk 30 rof 3 range 16
+      Sword: Atk 20 rof 1.5
+      Costo: 90 F 40 G 1 pop 30 sec
+      Light's Resolve: Allies recover 50 Hp/min, enemies in 2 tiles get -20% atk,
+      reveal the position of all hidden enemies
+      Petal Shield: when toggled, gain +50% melee and Ranged resistence,
+      but cannot move or attack
+      CARD "Lily Guards": Lily warrios +10% atk, move and Melee/Ranged resistence
+      --Tulipan-- light infantry
+      HP 240 Atk 24 rof 1.5 Ranged 20% los 20 Speed 5 
+      x2 vs heavy infantry
+      Cost: 100 F 60 G 1 pop 30 sec
+          --PANDANALES
+            --Pandan Spiral Blade--light melee shock infantry
+      HP 150 Atk 25 rof 1.5 speed 6 Melee 25% los 14
+      Cost: 95 F 30 W 1 pop 30 sec
+      Whirlwind: every 9 seconds, deal splash damage in area 2
+      Switch Shield: switch melee resistence with ranged resistence and viceversa
+          --PETROSAVIALES
+            --Petrosavia--light melee infantry
+      HP 100 Atk 20 rof 1.5 speed 6 Ranged 30% los 14
+      Cost: 65 F 35 G 1 pop 20 sec
+      Invisibility: unit becomes invisible for 8 seconds, recharge 30s
+      Stealth: when this unit doesn't fight for 5 seconds, become invisible
+      CARD "Petrian Shadowline": Petrosavia +15% atk, move, ranged resistence, recover 10% hp per kill
+**********
+      --COMMELINIDI
+        --ARECALES
+            --Areca Warrior--heavy melee infantry
+      HP 180 Atk 24 rof 1.5 speed 4.5  Melee 30%
+      1.25x vs cavalry
+      Cost: 100 F 20 W 1 pop 30 sec
+      Rally Guard: allies nearby +10% resistence(M/R/S)
+        --COMMELINALES
+            --Blue Runner--light melee shock infantry
+      HP 120 Atk 18 rof 1.5 speed 7.5 los 26 Range d 20%  Snare 20%
+      x2 vs ranged x0.5 vs heavy infantry/siege
+      Cost: 60 F 30 G 1 pop 20 sec
+      Dash: gain +100% speed for 1.5 sec, CD 30 sec
+         --POALES
+            --Wind Blade--light melee shock infantry
+      HP 120 Atk 20 rof 1.5 Speed 5 Melee 20%
+      Cost: 80 F 20 G 1 pop 25 sec
+      Aerodinamic: +40% movement speed for 3 seconds after a kill
+      Farmer: this unit can harvest food from farms and regen 2 Hp/sec while farming
+      Final Harvest: when this unit dies, return all his F cost
+             --Cypera Sentinel--light ranged infantry
+      HP 100 Speed 5 Ranged 30% Los 24 Snare 30%
+      Javelin: Atk 20 rof 3 range 16 B: 1.5x vs ranged cavalry 2x vs light infantry
+      Sword: Atk 12 rof 1.5 B: 1.5x vs light infantry
+      Cost: 60 F 40 W 1 pop 20 sec
+      Reveal: reveal all hidden enemies in range
+      Sudden Barrier: when hp<50, take -40% dmg from all sources but cannot move
+      CARD "Legendary Cypera Sentinels": Cypera Sentinels +25% Hp, +20% Melee resistence,
+      allies in 12 tiles +20% Ranged resistence, Sudden Barrier get -50% dmg taken instead
+             --Zea--light melee shock infantry
+      HP 150 Atk 24 rof 1.5 speed 5 Melee 25% Snare 30%   
+      1.5x vs heavy infantry
+      Cost: 100 F 40 W 2 pop 28 sec
+      Harvest Moon: when initiating battle, +25% Atk, +25% melee resistence 
+      and +10% speed for 8 seconds, CD 90 sec
+      CARD "Leggendary Zeas": Zea +50% atk, +15% move, +50% bonus damage,
+      Upgrade Harvest Moon: florans in 10 tiles also get +25% atk for 8 sec
+         --ZINGIBERALES
+            --Bananas warrior--siege melee infantry
+      HP 150 Atk 20 rof 1.5 speed 5    1.5x vs cavalry
+      Cost: 90 F 30 G 1 pop 30 sec
+      Corrosion: First strike applies -20% resistence for 5 sec, CD 60 sec
+      --Ginger Mage--magic
+      HP 120 Speed 4.5 Ranged 25% 
+      Fire: Atk 30 Rof 3 range 12 Blast 2.5
+      Knife: Atk 10 Rof 1.5
+      Cost: 80 F 45 G 2 pop 35 sec
+      Irritation: attack applies -20% damage reduction for target for 5 sec
+      Shade Away: when hp<50%, unit disappear for 8 seconds
+      CARD "Ginger's Fury": All Zingiberals units +15% atk, +10% move,
+      apply -10% armor for 4 sec
+      ----Orchidantha--light shock melee infantry
+      HP 100 Atk 22 Rof 1.5 Speed 5.5 Melee 20%
+      B: 2x vs light infantry 0.75x vs heavy infantry/heavy cavalry
+      Cost: 80 F 40 W 1 pop 25 sec
+      Stealth: unit can stealth, at 4.5 speed, -50% enemy los
+      Labello: launch an attack that ignore's half of target's melee resistence
+      and deal 30 dmg, CD 15 sec
+      CARD "Nightcall": Orchidantha +10% move, Ranged resistence, remove stealth penalty,
+      unlock Night Mark(target takes +50% dmg for the next strike, CD 60sec)
+      unlock ShadowStep(Orchidantha becomes invisible for 4 sec, reapper with
+      +40% speed for 3 sec, CD 90 sec)
+      --Curcuma Golden root--monk
+      HP 165 Heal 15 rof 1.5 range 14 speed 5
+      Cost: 90 F 60 G 2 pop 30 sec    Allies heal/regen 20% faster, doesn't stack
+************
+    --EUCOTILEDONI
+       --BUXALES
+          --Buxa leaf witch--light magic infantry
+      HP 110 Atk 12 rof 1.5 range 18 los 20 speed 4.5 Ranged 10%
+      x1.5 vs heavy infantry
+      Cost: 80 F 60 G 1 pop 30 sec
+      Hex: target struck get -14% atk and speed and cannot be healed for 4 seconds.
+      doesn't stack but effects gets reapplied at every hit
+      --RANUNCULALES
+        ARD "Venom Convenant":  All Ranun units +20% atk, +15% move, add poison 6 dmg/sec for 4 sec,
+      apply -20% armor for 6 sec, CD 60 sec
+      CARD "Ranun Frostpetals": All Ranun +15% Snare, +10% Ranged resistence
+      CARD "Ranun Meadow Training":  All Ranun +10% move, +5% Hp
+      --Akon spearman--light melee infantry
+      HP 180 Atk 22 rof 1.5  Speed 4.5  Melee 20%
+      Siege: 48 damage 6 range 3 rof
+      1.5x vs light shock melee infantry/cavalry
+      Poison 4 dmg/sec for 5 seconds
+      Cost: 80 F 40 G 1 pop 36 sec
+      Switch weapon: turn this unit into an akon swordman
+      CARD: Berberi's Thorn spear: add +50% dmg to ranged units
+      --Akon Swordman--light melee infantry
+      HP 200 Atk 20 rof 1.5 speed 4.5  Melee 20%
+      Siege: 48 damage 6 range 3 rof
+      2x vs heavy infantry 1.5x vs cavalry
+      Poison 4 dmg/sec for 5 seconds
+      Cost: 80 F 40 G 1 pop 36 sec
+      Switch weapon: turn this unit into an akon spearman
+      CARD: Yellow root sword: +10% melee damage, +10% movement speed
+      CARD: Trochodendron leaf shield: +10% Melee resistence
+      --Akon archer--light ranged infantry
+      HP 110 los 24 Speed 4.8  Ranged 20%
+      Bow: 12 atk 22 range 3 rof
+      Knife: 6 atk 1.5 rof
+      Siege: 12 damage 6 range 3 rof
+      2.25x vs light infantry 1.5x vs cavalry
+      Poison 4 dmg/sec for 5 seconds
+      Cost: 60 F 40 G 1 pop 12 sec
+      CARD: Xanhorhiza Bows (yellow root bows): +15% ranged damage and +20% poison duration
+      --Papaverum Maceman--heavy melee infantry
+      HP 300 Atk 32 rof 1.5  Speed 4.0  Melee 30% Ranged 30%
+      3x vs light infantry
+      Siege: 48 damage 6 range 3 rof  Snare 25%
+      Cost: 140 F 60 G 2 pop 32 sec
+      Trance: +25% attack, +20% armor, -30% movement speed, for 10 sec, CD 60 sec
+      --Euptelea Vinemancer--light magic infantry
+      HP 160 los 20 speed 4 Ranged 15% Snare 15%
+      Melee: 15 atk 1.5 rof           x1.5 vs heavy infantry/cavalry x0.5 vs siege
+      Vine: 14 atk 1.5 rof 18 range   x1.5 vs heavy infantry/cavalry x0.5 vs siege
+      Cost: 90 F 70 W 2 pop 32 sec
+      Tangle Trap: apply slow 40% to a zone of 8 tiles, dealing 8 dmg per
+      second for 8 seconds, CD 60 sec
+      Infusion: Allies nearby regen 60 Hp/min, double while in combat
+      --Actea--monk
+      HP 120 Atk 15 rof 1.5 range 16 speed 5  Range 25%
+      Cost: 90 F 60 G 2 pop 32 sec   Poison: 4 dmg/sec for 6 sec
+      --Talictro--ranged shock infantry
+      HP 160 Atk 15-10 rof 1.5 range 18 los 20 speed 6.0 Ranged 10%
+      x2 vs light cavalry
+      Cost: 80 F 40 W 1 pop 22 sec
+      Regen 60 Hp/min while outside of combat
+      Mountain rush: +25% speed while in mountains
+***************
+   --SUPEROSIDI
+     --SAXIFRAGALES
+     --Saxifraga warrior--light ranged infantry
+         HP 300 speed 4.5 los 24 Ranged 30%
+         Mace: Atk 18 rof 1.5
+         Bow: Atk 16 rof 1.5 range 20
+         Siege: Atk 80 rof 3 range 0.5
+         Cost: 90 F 40 W 1 pop 28 sec
+      --VITALES
+        --Wine Warrior--light ranged infantry
+         HP 200 Atk 24 rof 1.5 speed 5 los 18
+         Vine:  24 atk 1.5 rof       x1.5 vs infantry  x0.5 vs cavalry
+         Javelin: 16 atk 1.5 rof 16 range   Snare 25%
+         Cost: 80 F 40 G 1 pop 25 sec
+         Ecstasi: unit gain +25% attack for 16 seconds, recharge 40 seconds
+         Vine Escape: unit gein +60% speed for 3 sec, CD 30 sec
+***************
+     --FABIDI
+       --CUCURBITALES
+         --Cucurbitales warrior--light ranged infantry
+         HP 130 Atk 30 rof 3 range 20 speed 5 Ranged 25% Blast 1
+         2.25x vs light infantry 0.5x vs cavalry
+         Cost: 60 F 40 G 1 pop 26 sec
+         They can throw special grenades, one for each cucurbital plant.
+         Kiwano: bleed 4 dmg/sec for 3 sec
+         Pumpkin: blast +50%, Snare 10%
+         Cucumber: enemies -15% atk for 4 sec, allies heal 3 Hp
+         Zucchini: +10 atk
+         Watermelon: blast +50%, Snare 25%, -10 atk
+         Melon: enemies -10% atk/armor for 5 sec
+         Gak Fruit: burn 5 dmg/sec for 4 sec
+         CARD "Cucurbital Vineguards": Cucurbital warrior +15% Hp
+         CARD "Kiwano's Thornburst": Kiwano's grenades +25% atk
+       --FABALES
+         --Nodular Astragalus Spearman--light melee infantry
+         HP 200 Atk 26 rof 1.5 speed 4.5  Melee/Ranged 25%
+         2x vs cavalry 1.5x vs shock infantry 1.3x vs light infantry
+         Cost: 85 F 35 G 1 pop 26 sec
+         CARD "nitrogen Surge": All Fabales units +10% Hp
+         CARD Alfalfa remedies: All Fabales units recover 120 hp/min outside combat
+         CARD Licorice potion: All Fabales units move 10% faster
+         --Glicine--light magic infantry
+         HP 120 speed 5 los 18 
+         Perfume: 6 atk 1.5 rof 6 range blast 3 (tapering effect) x1.5 vs light infantry  [Snare 20%]
+         Knife: 10 atk 1.5 rof  x0.5 vs heavy infantry/cavalry
+         Cost: 80 F 1 pop 16 sec
+         Haze: stun enemies in 4 tiles for 1 second, CD 40 sec
+         --Ulex--light melee infantry
+         HP 150 Atk 18 rof 1.5 speed 5.5 los 18  
+         x2 vs shock infantry
+         Cost: 70 F 50 W 1 pop 16 sec  
+         Thorns: return 40% of melee damage back to the enemy
+         --Acacia Archer-- heavy ranged infantry
+         HP 250 Atk 30-12 Rof 3-1.5 range 18 speed 5.0 los 22
+         x2 vs light infantry x2.5 vs ranged cavalry/shock infantry
+         Siege: 16 damage 6 range 3 rof
+         Cost: 80 F 80 W 2 pop 32 sec
+         Flying Thorn: shoot a spiked arrow, which deal normal damage and apply bleeding
+         for 5 seconds, dealing 8 dmg/sec, CD 40 sec
+         --Cercis Red Leaf--light melee infantry
+         HP 120 Atk 13 rof 1.5 speed 5.25 los 20 Ranged 40%  
+         2x vs light infantry
+         Siege: 26 damage 6 range 3 rof
+         Cost: 40 G 60 W 1 pop 15 sec
+         Mirage: Cercis cannot be targeted for 3 seconds , CD 60 sec
+         --Tamarindus--siege
+         HP 300 Atk 12 rof 3 speed 3.5 Melee 25%
+         Siege 48 damage 3 rof
+         Cost: 20 F 100 W 2 pop 30 sec  Burn: deal 4 dmg/sec for 10 sec
+         --Labichea Sentinel-- heavy melee infantry
+         HP 180 Atk 10 rof 1.5 speed 5    Melee 40%    3x vs heavy cavalry
+         Cost: 75 F 50 W 1 pop 18 sec
+         Rooting: take half damage for 15 sec, cannot move while effect is active, CD 60 sec
+         --Cassia fistula--light melee infantry
+         HP 160 Atk 18 rof 1.0 speed 6 los 18
+         x1.5 vs light infantry x0.75 vs heavy infantry/cavalry
+         Cost: 60 F 40 W 1 pop 20 sec
+         Cascade: +30% speed for 8 seconds, CD 70 sec
+         --Carica Papaya--light ranged infantry
+         HP 110 Atk 21-7 rof 3-1.5 range 16 speed 5 Ranged 10%  1.5x vs cavalry
+         Cost: 80 G 40 F 1 pop 30 sec
+       --FAGALES
+         --Oak/Fago/Kastanas Bark Guardian--heavy infantry
+         HP 320 Atk 24 rof 1.5 Speed 4 los 18 Melee 35% Snare 20%
+         1.75x vs cavalry
+         Cost: 100 F 60 G 2 pop 30 sec
+         Protector: +10% melee/ranged/siege resistence when nearby allied buildings
+       --ROSALES
+         --Rose Swordman--light melee infantry
+         HP 150 Atk 24 rof 1.5 speed 5.5 Melee/Ranged 15%
+         2.5x vs ranged infantry 0.75x vs heavy infantry
+         Cost: 75 F 35 G 1 pop 22 sec
+         Dodge dance: dodge one melee attack every 10 seconds
+         CARD "Rose Thornwalls": All Rosales units +15% Ranged resistence,
+         All buildings +10% Hp
+         --Rose Mage--magic
+         HP 200 Atk 22 rof 3 range 16 speed 4.5  Ranged 10%
+         Fire: 24 atk 3 rof 14 range 2.5 blast   2x vs buildings    Burn: 3 dmg/sec for 8 sec
+         Knife: 8 atk 1.5 rof 
+         Cost: 100 G 60 F 2 pop 30 sec
+         CARD: Gelsae Silksong: Pyrus mages spawn one silkworm every 20 seconds
+         (20 HP 1 atk 1 rof 3 speed)
+         --Hawthorn Halberdier--heavy melee infantry
+         HP 240 Atk 30 rof 1.5 range 1 los 18 speed 5 Melee 25% Snare 20%
+         2x vs cavalry 1.5x vs shock infantry
+         Cost: 100 F 20 W 1 pop 30 sec  Thorns: 20%
+         CARD: Durion Shield: +10% Melee resistence
+         CARD: Urtica thorn armor: +10% Thorns, +5% HP, +20% dmg vs ranged units
+         --Ulmus Rubra--heavy melee infantry
+         HP 1000 Atk 24 rof 1.5 speed 4.25 los 18 Melee 15%
+         Siege: 24 damage 3 rof
+         Cost: 120 F 60 W 3 pop 18 sec
+         Fortify: becomes invulnerable for 4 seconds, CD 60 sec
+       --ZYGOPHYLLALES
+         --Larrea Sand Warrior--light melee infantry
+         HP 360 Atk 15 rof 1.5 speed 4.5  los 12
+         x2 vs infantry
+         Cost: 90 F 50 G 1 pop 28 sec
+         Fire shield: units/buildings nearby take -50% fire/siege damage
+         Regeneration: 1.5 hp/sec outside combat, 1 hp/sec inside combat
+         --Guaiaco--heavy melee infantry
+         HP 480 Atk 15 rof 1.5 speed 4 los 12 Melee 20%
+         Cost: 120 F 80 W 1 pop 40 sec
+         Lignum Vitae: allies in 6 tiles regen 2 hp/sec
+       --RAHMNALES
+         --Ziziphus--heavy melee infantry
+         HP 360 Atk 20 rof 1.5 speed 4 los 12  Melee 10%
+         Cost: 100 F 50 W 1 pop 30 sec
+         Spikes: melee attacker take 6 dmg per hit
+       --CELASTRALES
+          --Celastral Warrior--light shock melee infantry
+         HP 280 Atk 30 rof 1.5 speed 6 los 18 Ranged 10% Snare 30%
+         x1.5 vs light infantry x0.75 vs heavy infantry/cavalry x2 vs siege
+         Cost: 90 F 90 G 2 pop 30 sec
+         Stun strike: stun a foe for 3 seconds, CD 30 sec
+       --MAPIGHIALES
+         CARD: Linen Armor: Mapighiales units +25% HP
+         --Ipericum Red Oil--suicide unit
+         HP 160 Atk 10 rof 1.5 speed 5 Ranged 20%
+         Cost: 200 G 2 pop 40 sec
+         Explode: this unit explodes in 2.5 tiles, dealing 100 damage
+         and setting units on fire, 10 dmg/sec for 10 sec
+         CARD: Alcaloid alchemy: +40% explosion radius, +20% fire damage, +50% dmg vs infantry
+         --Salix--light melee infantry
+         HP 200 Atk 25 rof 1.5 speed 5.5  Melee 25%   
+         1.2x vs infantry  0.8x vs cavalry
+         Cost: 100 F 40 W 2 pop 35 sec
+         Mobile: +20% move speed for 10 sec after kill
+         --Passiflora--heavy melee infantry
+         HP 320 Atk 20 rof 1.5 speed 4.2  Melee 35% Ranged 20%  1.5x vs infantry
+         Cost: 180 F 150 G 3 pop 60 sec
+         Holy Order: allies in 10 tiles get +10% atk and +10% resistences(M/R/S)
+         Passion Shield: absorb 150 HP for 10 sec, CD 45s
+         --Linace warrior--heavy melee infantry
+         HP 300 speed 4.5 Ranged 30%
+         Lance: 26 atk 1.5 rof  2x vs cavalry
+         Siege: 40 atk 3 rof
+         Cost: 120 F 120 G 2 pop 45 sec  
+         Protector: this unit take attacks of enemies directed at allies in 4 tiles
+       --OXALIDALES
+         --Carambola--light magic infantry
+         HP 150 speed 4.5 los 22 Ranged 10%
+         Thunder: 16 atk rof 1.5 range 20   x1.5 vs light infantry
+         Knife: 8 atk rof 1.5
+         Cost: 150 G 1 pop 30 sec
+         Star Mark: enemies struck get marked, taking 25% more damage from
+         all sources until target dies
+       --MALVIDI
+         --BRASSICALES
+           --Brassicalcine--heavy melee infantry
+           HP 390 Atk 24 rof 1.5 speed 5.0 los 18
+           Cost: 100 F 50 W 30 sec
+         --GERANIALES
+           --Geranio Guardian--light melee infantry
+         HP 160 Atk 15 rof 1.5 speed 4.5 los 12 Ranged 20%
+         2x vs light infantry 1.2x vs cavalry
+         Cost: 70 F 30 G 1 pop 24 sec
+         CARD: Tapiscia Wood armor: +25% HP, +20% Melee armor
+         --MALVALES
+           CARD "Sterculia Shields": All Malvales units +25% Hp
+         CARD "Malvalian blades": All Malvales unit +40% melee atk
+         CARD "Malva reinforcements": Send 3/5 Malvales Soldier
+         CARD "Dombeya' remedies": All Malvales units regen 2 Hp/sec outside combat
+         CARD "Triplonchiton Leaf Armor": Malvales melee units +20% Hp
+         --Cacao Aromancer--support infantry
+         HP 150 Atk 12 rof 1.5 range 16 speed 5 los 18 Ranged 20%
+         Cost: 80 F 70 W 1 pop 30 sec
+         Aroma: allies in 6 tiles attack 10% faster and move 5% faster 
+         --Malvales Soldier--heavy melee infantry
+         HP 240 speed 4.5 los 14 Melee 20% 
+         Axe: 11 atk 1.5 rof   2x vs infantry
+         Javelin: 33 atk 3 rof 16 range   1.3x vs cavalry  1.2x vs ranged infantry
+         Siege: 30 atk 3 rof 12 range
+         Cost: 80 F 40 W 1 pop 30 sec
+         CARD Hibiscan shot: first hit deal +10% dmg and get +50% range for 10 sec, CD 60 sec
+         CARD Actea's Leaf: regen 4 hp/sec while outside combat
+          --MYRTALES
+             --Eucalipt Healer--magic monk
+         HP 100 Speed 4.5  Heal 10/s range 12  Ranged 25%
+         Cost: 50 F 30 G  1 pop 20 sec
+         CARD "Aromaward": Healer's aura regen +1 Hp/sec, +10% Melee resistence
+         --Eucalipt Warrior--heavy melee infantry
+         HP 200 Atk 13 rof 1.5 speed 4 los 12 Ranged 15%
+         Cost: 60 F 30 W 1 pop 20 sec
+         CARD: Oenothera magic amulet: provide an aura that halves magic damage to
+         CARD  Alzatea's shield: target loses 20% speed and attack after first strike
+         --Mirto warrior--light melee infantry
+         HP 100 Atk 15 rof 1.5 speed 5 Melee 20%   1.4x vs infantry 0.7x vs cavalry
+         Cost: 45 F 35 W 1 pop 18 sec
+         --Melograno--heavy ranged infantry
+         HP 160 Atk 32-16 rof 3-1.5 range 20 speed 5 Ranged 20%   blast 2.5
+         Melee: 1.5x vs cavalry  Ranged: 1.25x vs infantry
+         Siege: 32 damage 6 range 3 rof
+         Cost: 90 F 70 W 2 pop 35 sec    Bleed 5 Hp/sec for 10 sec
+         --SAPINDALES
+           --Maple Guardian--heavy melee infantry
+         HP 240 Atk 20 rof 1.5 speed 4.0  1.5x vs cavalry
+         Cost: 65 F 35 G 1 pop 20 sec Thormail: reflect 50% damage
+         --Ruta Warrior--light melee infantry
+         HP 165 Atk 25 rof 1.5 speed 5 
+         2x vs light infantry
+         Cost: 70 F 30 G 1 pop 25 sec 
+         Corrosion: each hit destroy 5% of target's resistences(all 3)
+         --Aegle Spirit Walker--light shock ranged infantry
+         HP 180  Atk 30(true) rof 3 range 14 speed 5 Melee/Ranged 20%  2x vs mages
+         Siege: 10 damage 6 range 3 rof
+         Cost: 80 F 140 G 2 pop 50 sec
+         Spirit walker: unit can cross trough solid matter, cannot snare or be ensnared
+         Soul fruit: allies in 4 tiles regen 5 Hp/s for 15 sec, CD 60s
+         --Guarana--light shock melee infantry
+         HP 110 Atk 20 rof 1.2 speed 6   1.6x vs infantry
+         Cost: 80 F 20 G 1 pop 25 sec
+         Fury: +50% fire rate and move speed for 10s, CD 60s
+         Self Destruct: when unit dies, explode, dealing 30 area damage (2 tiles)
+         --Mirra--monk
+         HP 160 speed 4.5 Melee 20%    Heal 75 Hp/min range 10  target all
+         Cost: 200 G 2 pop 40 sec
+         Mirra Smoke: enemies in 10 tiles get -10% fire rate, move speed
+         and attack for 15 sec, CD 60s
+         --Ailanthus--heavy melee infantry
+         HP 600 Atk 20 rof 1.5 speed 3.6 los 14 Snare 30% Trample 20%
+         Cost: 220 W 2 pop 50 sec
+         Allelopathic Aura: enemies in 4 tiles get -20% atk and lose 10% armor
+**************
+     --SUPERASTERIDI
+       --BERBERIDOPSIDACE
+         --Berberidopsida--light ranged infantry
+         HP 80 speed 6.5 los 20 Ranged 10% Snare 15%
+         Dart: 20 atk 3 rof range 16
+         Knife: 16 atk 1.5 rof   x2 vs light infantry x0.5 vs heavy infantry/cavalry
+         Cost: 40 F 30 G 1 pop 13 sec
+         Chaotic Resonance: +20% atk for 12 sec for each fallen unit, stack +5
+         --Aextoxicon--light melee infantry
+         HP 88 Atk 12-6 rof 1.5 range 20 los 22 speed 4.5  Ranged 20%
+         x1.5 vs heavy infantry x0.75 vs siege
+         Poison 2 dmg every second for 10 seconds, also provide slow 15%
+         Siege: 6 damage 3 rof 6 range
+         Cost: 40 F 40 W 1 pop 20 sec  
+         CARD "Ironshade Pact": Aextoxicon +25% Hp, +20% Melee resistence
+         apply -15% atk, -30% move for 5 sec, CD 60 sec
+       --CARYOPHYLLALES
+         --CARYOPHYLLACE
+           --Amaranthus--light melee infantry
+         HP 150 speed 5 los 20 Melee 20%
+         Lance: 9 atk 1.5 rof     drain 33%
+         Javelin: 12 atk 1.5 rof 16 range
+         Siege: 12 atk 3 rof 6 range
+         Cost: 35 F 35 G 1 pop 14 sec    
+         Bloodlust: allies in 8 tiles get +10% atk to all wounded florans
+         --Dragon Fruit--magic
+         HP 240 speed 5 los 20   Ranged 20%
+         Melee: 22 atk 1.5 rof
+         Ranged: 44 atk 3 rof 18 range   blast 3   burn 9 dmg/sec for 3 sec
+         Cost: 90 F 90 G 2 pop 36 sec
+         Dracofury: +50% atk for 10 sec per kill, stack twice
+         --Cactus--light shock ranged infantry
+         HP 140 speed 6 Ranged 15%
+         Gun: 32 atk 1.5 rof 20 range   0.5x vs heavy cavalry
+         Knife: 16 atk 1.5 rof 1 range
+         Cost: 120 G 1 pop 30 sec     
+         Spike: 4 dmg
+         --Bouganville--heavy melee infantry
+         HP 300 Atk 30 rof 1.5 speed 5.5 Ranged 20%  
+         1.3x vs infantry
+         Cost: 100 F 100 W 2 pop 40 sec  Thorns: 25%
+         Thorn Print: mark an enemy, it take +10 dmg from all sources for 4 sec, CD 30 sec
+         --Plumbago--magic
+         HP 220 Atk 38(magic) rof 3 range 20 speed 4.5 Ranged 20%
+         Cost: 60 F 140 G 2 pop 40 sec   Snare: 60%
+         Freeze: freeze units in area 4 for 2 sec, CD 60s
+         Shatter: apply -20% armor for 8 sec, CD 50 sec
+       --CORNALES
+          --Nyssa poison bark--light melee infantry
+         HP 300 Atk 12 rof 1.5 Speed 4   Snare 30%
+         B: 2x vs light infantry 
+         Cost: 90 F 50 G 1 pop 30 sec
+         Protector: +25% melee/ranged/siege resistence when nearby allied buildings
+         Poison bark: enemies who attack this unit get poisoned, 10 dmg/sec for 4 sec
+         CARD: Santal Tree drain amulet: drain 3 hp per hit
+       --ERICALES
+         --Myrtal Guardian--light melee infantry
+         HP 180 Atk 24 rof 1.5 Speed 4.8  Melee/Ranged 20%
+         1.5x vs melee infantry 0.5x vs cavalry/shock infantry
+         Cost: 80 F 40 G 1 pop 25 sec
+         CARD "Emberbloom": All Ericales units +25% atk, +15% move, burn 5 dmg/sec for 4 sec
+         --Camelia--magic
+         HP 110 Atk 30 rof 1.5 speed 5 Melee 25% 0.8x vs cavalry 1.3x vs heavy infantry
+         Cost: 100 F 1 pop 20 sec   Veil: double armor for 6 sec, CD 30s
+         --Erica--magic
+         HP 200 Atk 30(magic) rof 3 range 16 speed 4.5  blast 2.5
+         Siege: 56 damage 16 range 3 rof
+         Cost: 80 F 140 G 2 pop 45 sec   Burn: 6 dmg/sec for 8 sec
+         Burning Fury: +50 atk for 10 sec after kill, stack twice
+         CARD "Bertolletia's Armor": All Ericales units +20% Hp
+         --Zapota Zapoteca--magic infantry
+         HP 190 speed 5 ranged 10% 
+         Club: 20 atk 1.5 rof  x1.5 vs light infantry
+         Javelin: 14 atk 1.5 rof 12 range x1.5 vs light infantry
+         Cost: 160 W 1 pop 30 sec
+         Echo: enemies in 8 tiles get -30% atk/move for 3 sec, CD 30 sec
+         Regen 1.5 Hp/sec outside combat
+         CARD "Rhododendron Mistveil": Zapota's Echo's last for 5 more seconds
+         CARD "Gaultheria's WinterArmor": Zapote, Plumbaco +10% Ranged resistence
+*************
+       --LAMIDI
+         --BORAGINALES
+           --Borago spearman--light melee infantry
+         HP 150 Atk 14 rof 1.5  speed 4.5   Ranged 25%
+         2x vs light infantry/cavalry
+         Cost: 60 F 40 W 1 pop 15 sec
+         Rally Cry: for 10 seconds, all allies in 18 tiles get +20% movement speed 
+         and +10% attack, CD 60 sec
+         Vigor Roots: first strike paralyze a foe for 3 seconds, CD 30 sec
+         CARD "Moonveil Rituals": All Lamidi units +15% Ranged resistence,
+         Melee units get Moonveil(first attack apply:
+         -15% atk, -10% speed, -40% armor for 6 sec, CD 60 sec)
+         CARD "Silverpetal Discipline": All Lamidi units +10% Hp, move
+         --GENTIANALES
+           --Gentiana--light ranged infantry
+         HP 110 Atk 18 rof 2 range 20 Speed 4.8 Ranged 20% 
+         2.25x vs light infantry 0.5x vs cavalry
+         Siege: 8 damage 6 range 3 rof
+         Cost: 60 F 40 G 1 pop 26 sec
+         Sticky: potions apply slow down by 50% for 5 seconds
+         ----Apocina spearman--light melee infantry
+         HP 120 Atk 18 rof 1.5 speed 4.5 Ranged 20% 3x vs cavalry 2x vs shock
+         Siege: 36 damage 6 range 3 rof
+         Cost: 50 F 50 W 1 pop 30 sec   Poison: 3 dmg/sec per 5 sec
+         --Apocina sage--magic
+         HP 100 Speed 4 Ranged 30% range 12
+         Cost: 80 G 40 W 1 pop
+         Conversion: turn an enemy into an ally for 20 sec, CD 90s
+         --Acokantheran--heavy melee cavalry
+         HP 280 Atk 26 rof 1.5 speed 6.5 Melee 30%   2x vs infantry
+         Cost: 120 F 60 G 2 pop 30 sec   Charge: +40 atk on first strike, CD 30s
+         --Noni--siege
+         HP 80 speed 5 Explosion 200 Cost: 100 F 100 G 2 pop 40 sec
+         Explosion release gas which heal 10 HP/sec for 5 sec
+         --Yohimbe--light ranged shock infantry
+         HP 100 Atk 16 rof 1.5 range 10 speed 5.5 Ranged 20%  1.5x vs ranged infantry
+         Cost: 60 F 40 G 1 pop 27 sec      +25% atk when near Apocina Sage
+         Frenzy: +20% movement speed and +25% atk for 10 sec , CD 60s
+         --Vinca--magic
+         HP 160 speed 4.2 Melee 10% Magic 25%  Cost: 150 G 90 W 2 pop 40 sec
+         Summon 1 petal crow every 15sec, last 60sec, HP 20 DPS 10
+         --LAMIALES
+           CARD "Incense": healers heal 50% faster and have 25% healing range
+         --Prostanthera--siege
+         HP 600 Siege 80 rof 3 Speed 2.5 Melee 25% Ranged 50%
+         Cost: 300 W 150 G 3 pop 45 sec
+           --Nepeta--saboteur
+         HP 60 Speed 6 Ranged 60% Cost 50 F  
+         Distraction: provoke all foes to target this unit for 5 sec
+         --Dracocephalum--magic
+         HP 140 Atk 22 rof 3 range 10 speed 5  Magic/Ranged 30% blast 3 2x vs fliers
+         Cost: 100 G 50 W 1 pop 30 sec
+         --Pedalia--light shock melee infantry
+         HP 110 Atk 12 rof 1.5 speed 5 Melee 15%   1.5x vs infantry
+         Cost: 40 F 30 G 1 pop 15 sec  Cannot snare or be ensnared
+         --Lamian Warrior--light melee infantry
+         HP 100 los 18 speed 5 Ranged 15%
+         Lance: 12 atk 1.5 rof
+         Dart: 16 atk 3 rof 14 range
+         Cost: 100 F 1 pop 25 sec
+         Can only have one of these abilities active at any time
+         Sesame Burst: +100% speed for 1 sec, CD 45 sec
+         Verbena Soothe: enemy loses 10% atk while in combat
+         Digitalis Venom: poison 3 dmg/sec for 3 sec
+         Ligustrum Blindseed: dart +1 atk, enemy loses 10% atk with ranged attacks for 3 sec
+         Tabebuia Talisman: allies in 3 tiles take -20% damage for 4 sec, CD 60 sec
+         --Coleus spearman--light melee infantry
+         HP 130 Atk 10 rof 1.5 speed 5 Melee 25%  3x vs cavalry
+         Cost: 50 F 40 W 30 sec
+         +10% HP for each allied spearman(max +100%)
+         Leaf shield: when first struck, take -50% damage for 5 sec , CD 30s
+         --digitalis purpurea--light melee infantry
+         HP 110 Atk 20 rof 1.5 speed 4.5   blast 1
+         Cost: 100 G 1 pop 20 sec   Poison: 5 dmg/s for 4 sec
+         --Sinandra--explorer
+         HP 90 Atk 12 rof 1.5 Speed 7 Ranged 10%  Flier
+         Cost: 80 G 12 sec 5 max     Pollen Dance: +20% move speed for 5 sec, CD 30s
+         --Jasminus--monk
+         HP 120 Speed 4.5 range 6 Heal 5 Hp/s   Cost 50 G 1 pop 10 sec
+         --Ligustro--heavy melee infantry
+         HP 400 Atl 22 rof 1.5 speed 4 Melee 20%
+         Cost: 150 F 80 W 2 pop 33 sec  
+         Rooting: unit cannot move for 10 sec, gain 50% M/R/S armor for that time, CD 60s
+         --Tebebuia--monk
+         HP 180 Speed 4 Magic 60%  Cost: 200 G 100 W 3 pop 45sec
+         Summon 2 oak spirits, HP 100 DPS 30, CD 60s, disappear when caster dies
+         every fallen floran unit spawn an oak spirit that will last for 60s
+         --SOLANALES
+           --Incendiary Pepper--light ranged infantry
+         HP 150 Atk 26(fire) rof 1.5 range 6 Speed 5 Melee 20%  Blast 2.5
+         2.5x vs buildings 1.5 vs infantry 0.5x vs cavalry
+         Cost: 90 F 60 G 1 pop 36 sec
+         --Cestrum--light ranged infantry
+         HP 100 Atk 18 rof 3 range 30 speed 5 Ranged 10% 2x vs ranged infantry
+         Cost: 60 F 40 G 1 pop 30 sec     +50% during night  Snare 20%
+         --Petunia--Explorer
+         HP 80 Speed 7 Ranged 20% Heal 5/s range 4  Cost 90 G 3 max 10 sec
+         --Atropa Belladonna--Spy
+         HP 100 Atk 30 rof 1.5 speed 5  3x vs heores,mercs
+         Cost: 180 G 2 pop 30 sec     Mortal strike: 40%  Stealth penalty -20%
+         --mandragora--magic
+         HP 120 Atk 22 rof 3 range 14 Speed 4.5
+         Cost: 120 G 80 F 2 pop 40 sec
+         Screech: stun all enemies in 6 tiles for 3 sec, CD 30s
+         Rooted Terror: when killed, relseas a fog that slow down
+         foes in 6 tiles by 20% for 5 sec
+         --Ashwagandha--monk
+         HP 180 Speed 4 Magic 75% Melee 40% Ranged 15%
+         Infusion: florasn in 4 tiles regen 2 Hp/sec and take -15% damage
+         Cannot be stacked with other auras, doesn't affect other Ashwagandha
+         Meditation: produce 100 XP/min while not in combat
+         --Solanum icopersicum artillery crew--artillery
+         HP 100 Atk 1 rof 6 range 24 speed 3.2 Ranged 10%
+         Siege: 30 damage 16 range 6 rof
+         Cost: 150 G 100 F 2 pop 22 sec
+         Burn: 10 dmg/sec for 6 sec, triple dmg for ships
+         --Solanum linneum--light melee infantry
+         HP 160 Atk 18 rof 1.5 speed 4 Melee 40%  2x vs cavalry
+         Cost: 130 G 90 F 2 pop 45 sec
+         Morph: turn this unit into a horse, gain +50% speed, +10 atk
+         but lose 20% melee for 10 sec, CD 30s
+      --CAMPANULIDI
+        --APIALES
+          --Vine Warrior--light melee infantry
+          HP 170 Atk 20 rof 1.5 speed 4.5  2x vs melee infantry
+          Cost: 80 F 40 G 1 pop 25 sec
+          Vines: summon vines that ensnare up to 5 enemies for 10 seconds.
+          Can immobilize any unit, including artillery, buildings and ships.
+          Cannot ensanre enemies otherwise. Recharge, 60 seconds.
+          CARD "Echoheart": All Campanulidi units +10% Melee resistence
+          CARD "Skybloom Surge": All Campanulidi units +20% move, atk
+          CARD "Bellguard": All Campanulidi units +15% ranged resistence
+          --Apia Soldier--light melee infantry
+          HP 100 Atk 10 rof 1.5 speed 5 los 20 Ranged 20%
+          Cost: 100 W 1 pop 20 sec
+          Only one of the trinkets can be active at any moment
+          Daucus Talisman: +10% atk
+          Angelica Ward: +5% Ranged resistence
+          Centella Pendant: regen 1 hp/sec outside combat, +10% move
+          Petroselium Chain: +20% atk, -10% move
+          Fennel Ring: +5% Ranged and Melee resistence, -10% move
+          --Antriscus Veilcaster--magic
+          HP 80 speed 4.2 range 12 Ranged 30% Magic 50%
+          Cost: 100 G 1 pop 20 sec
+          Mist: create fog for 8 seconds in 12 tiles, florans
+          inside the fog move 20% faster and take 50% less damage
+          from ranged attacks. CD 20s
+          --Daucus spearman--light melee infantry
+          HP 140 Atk 24 rof 1.5 speed 4 Melee 30%  2x vs cavalry 1.5x vs shock
+          Cost: 90 F 1 pop 30 sec
+          Burrow: submerge underground, CD 25s
+          --Angelica--monk
+          HP 100 Speed 3.5 Magic 60%
+          Cost: 120 G 1 pop 30 sec
+          Pulse: enemies in 10 tiles lose 20%, 50 dmg over 10 seconds, CD 30s
+          Fortify: floran allies in 10 tiles recover 0.5HP%/sec extra
+          CARD "Camomilla infusion": healers +25% healing
+          --Centella--magic
+          HP 90 Atk 16(true) rof 1.5 range 10 speed 4 Magic 80%
+          Cost: 200 G 2 pop 45 sec
+          Bind: convert an enemy unit for 9 seconds, CD 60s
+          Synaptic Echo: duplicate another floran's most recentely used ability
+          --Petroselium--Explorer
+          HP 70 Atk 8 rof 1.5 speed 5 Ranged 20%
+          Cost: 70 F 1 pop 3 max 7 sec
+          --Sedano--heavy melee infantry
+          HP 220 Atk 28 rof 3 speed 3 Melee/Ranged/Siege 50%
+          Cost: 150 G 120 F 3 pop 60 sec
+          Fiber Shield: when struck, increase M/R/S armor by 25% for 3 sec, CD 30s
+          --Fenkel--light shock melee infantry
+          HP 100 Atk 20 rof 1 speed 5 Melee 20%
+          Cost: 90 G 1 pop 22 sec     Fury: double damage for 3 sec, CD 15s
+          --Azorella--heavy melee infantry
+          HP 250 Atk 24 rof 1.5 Speed 3 Melee/Ranged 50%
+          Cost: 160 G 120 F 3 pop 45 sec    +15% armor in Winter
+          --Astrantia--monk
+          HP 90 Speed 4 Magic 70% Cost: 100 G 1 pop 20 sec
+          Heal 10 Hp/sec range 12
+          Fortify: florans in 10 tiles regen 450 Hp/min
+          Shield aura: florans in 10 tiles get +10% armor
+          --Aralia--light melee shock infantry
+          HP 150 Atk 26 rof 1.5 speed 5  Cost: 100 G 100 F 2 pop 30 sec
+          --Eleutherococcus--shock infantry
+          HP 100 Atk 18 rof 1 Speed 5 Melee 10%
+          Cost: 90 G 70 F 1 pop 32 sec
+          Adrenal Surge: +100% attack rate for 2 sec, CD 20s
+          Stim Feedback: each kill reduce Adrenal surge cooldown by 5s
+        --AQUIFOLIACE
+          --Mate/Agrifolium Swordman--light melee infantry
+          HP 200 Atk 24 rof 1.6 Speed 4.25 Melee/Ranged/Siege 30%
+          1.5x vs cavalry
+          Cost: 85 F 45 G 1 pop 27 sec
+          Thornmail: return 30% of damage taken back to the enemy
+        --ASTERALES
+          --Sunflower Priest--monk
+          HP 130 Atk 24(magic) rof 2 Range 20 speed 5  Ranged 25% Blast 1.25
+          2.25x vs light infantry  Heal 10/s range 12
+          Cost: 75 F 50 G 1 pop 26 sec
+          --Chuquiraga Emberthorn--magic infantry
+          HP 120 Atk 26 rof 1.5 Speed 4.5  Melee 30%   1.5x vs infantry
+          Cost: 100 G 1 pop 24 sec
+          Explosion: 20 dmg explosion, 4 fire dmg/sec for 5 sec, CD 25s
+          Thorn armor: foe take 5 damage every time he strike this unit in melee
+          --Famatina Ridgehowler--saboteur
+          HP 100 Atk 18 rof 3 range 10 speed 4 Ranged 20%
+          Cost: 100 G 1 pop 30 sec      
+          Echo Pulse: enemies in 6 tiles have 25% chance to miss their attacks
+          for 12 sec, CD 30s
+          --Chaetanthera--siege
+          HP 300 Atk 90 rof 3 range 18 speed 2.5 Ranged 60%  3x vs buildings
+          Cost: 300 G 200 W 4 pop 60 sec Immune to knockback and stun
+          Barrage: fire 5 projectiles in 6 seconds, CD 40s
+          --Gerbera--light melee infantry
+          HP 120 Atk 22 rof 1 speed 4.5 Melee 30%
+          Cost: 100 G 80 F 1 pop 30 sec
+          Flurry: next two strikes will deal triple damage, CD 18s
+          Chormatic Pulse: change color every 10s, with different bonuses:
+          red: +30% atk, blu: +20% melee armor, yellow: +33% move speed
+          --Anastraphia/Tehuasca warrior--heavy melee infantry
+          HP 180 Atk 30 rof 1.5 speed 5.25 los 16 Melee 20%  Snare 10%
+          x2 vs light infantry/cavalry   
+          Cost: 80 F 40 W 1 pop 30 sec
+          --Hecastus (Agno Casto)--heavy melee infantry
+          HP 300 Atk 20 rof 2 speed 2.8 M/R/S/M 50%
+          Cost: 180 G 120 F 3 pop 60 sec
+          ulwark mode: switch mode: -50% speed, +30% armor
+          Thorns: 10%  Anchor: if not moving for 10s, take half damage until moving
+          --Ainsliaea Mindbloom--monk
+          HP 100 Atk 16(true) rof 1.5 range 12 speed 3.5 Magic 80% ranged 10%
+          Cost: 200 G 2 pop 30 sec
+          Mind Control: control an enemy unit for 12 sec, CD 60s
+          Neural Feebacl: if taking magic damage, attacker loses 10 HP per hit
+          Synpatic pulse: are stun in 5 tiles for 2s, CD 20s 
+          --Cardus--heavy melee infantry
+          HP 260 Atk 20 rof 2 speed 2.8 M/R/S/M 50%  Thorn 15%
+          Cost: 160 G 130 F 3 pop 45sec
+          Iron Bloom: every strikes taken, +10% armor, caps at +30%
+          --Aster Spearman--light melee infantry
+          HP 75 Atk 7 rof 1.5 speed 5 los 20 Ranged 25% Snare 25%
+          x6 vs cavalry x4 vs shock infantry
+          Cost: 75 W 1 pop 15 sec
+          Can only have one of these abilities active at any moment:
+          Arnica Shock: basic attack deal 20% Trample damage
+          Vernonia Painseed: each attack apply poison 1 dmg/sec for 2 sec
+          Enularia: each attack ignore 10% of enemy armor
+          Calenda: drain 1 hp with each basic attack
+          Tanacetos: enemy loses 10% atk while in battle
+          Cicoria Roots: Snare lasts for 2 more seconds, snare effect +10%
+          Aspilia: basic attack deal 1 pass-through damage
+          --Cicoria rootspear--light melee infantry
+          HP 120 Atk 8 rof 1.5 speed 6 Melee 30% 
+          5x vs cavalry 3.5x vs shock
+          Cost: 50 W 50 G 1 pop 30 sec
+          Sour: enemies in 6 tiles have -10% atk
+          --Artemisia--heavy ranged infantry
+          HP 150 speed 5 los 20 Melee 20%
+          Bow: 32 atk 3 rof 18 range  x1.5 vs ranged infantry
+          Axe: 22 atk 1.5    rof x1.5 vs cavalry   Snare: 20%
+          Siege: 80 damage 6 range 3 rof
+          Cost: 70 G 60 W 1 pop 26 sec
+          Seaport: teleport in the sea, from one coast to another, CD 60s
+          --Camomilla--monk
+          HP 90 Speed 4.5 Cost: 100 G 1 pop 20sec 
+          Sleep: put up to four enemy units to sleep for 6s, CD 60s
+          --Farfaraccio--light melee infantry
+          HP 120 Atk 6 rof 1.5 speed 4 blast 5
+          Cost: 70 G 50 W 1 pop 30sec
+          Poison Fog: enemies in 8 tiles lose 25%  atk and move speed for 8sec, CD 40s
+          Poison Leaves: enemies who attack this unit in melee lose 5Hp/sec for 3 sec
+          --Taraxacus Lion Warrior--heavy melee infantry
+          HP 260 Atk 30 rof 1.5 speed 6 los 21 Melee 20%
+          x2 vs cavalry   Snare 30%
+          Cost: 130 G 50 F 2 pop 40 sec    Siege: 60 damage 6 range 3 rof
+          Lion's Roar: enemies in 10 tiles lose 30% atk for 10 sec, CD 60s
+          Wind Leap: leap upon enemies in range 12+, stun for 3 sec and
+          dealing 30 area damage, CD 60s
+          --Lobelia--magic
+          HP 130 Atk 20 rof 3 range 12 speed 4.5 Magic 20%   blast 2.5
+          Cost: 90 G 70 W 2 pop 45sec
+          Fear Wraith: forces an enemy unit to walk away for 5 sec, CD 60s
+        --BRUNIALES
+          --Brunia Orbweaver--heavy melee infantry
+          HP 360 Atk 15 rof 1.5 speed 4 los 14 Ranged 10%
+          x4 vs cavalry/siege x2 vs buildings
+          Cost: 160 W 1 pop 32 sec
+          Shield: block an attack, CD 30 sec
+        --DIPSACALES
+          --Sambuca--light melee infantry
+          HP 200 Atk 16 rof 1.5 speed 4.25
+          2x light infantry 0.75x vs cavalry
+          Cost: 70 F 30 G 1 pop 24 sec
+          Sleeping strike:put an enemy to sleep for 10 seconds.
+          Sleep gets interrupted when target takes damage. Recharge 10 seconds
+          --Valeriana--light magic infantry
+          HP 180 Atk 18-12 Rof 1.5 Range 20 Speed 5.5  Ranged 15%
+          3x vs magic
+          Cost 100 F 60 G 1 pop 25 sec
+          Fog: enemies get -20% atk for 10 seconds, CD 60 sec
+          Soothing perfume: ranged attacks inflict snare 20% for 5 seconds
+          
+          
+           
+          
+         
+         
+         

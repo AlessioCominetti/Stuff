@@ -1,0 +1,130 @@
+FLORANS
+
+Akon warrior
+HP 200
+Atk 16
+Def 12
+Speed 80
+Cost 90 G 1 pop 8 sec
+Akon toxin
+
+Akon archer
+HP 180
+Atk 14
+Def 0
+Range 500
+Speed 80
+Cost 80 G 1 pop 12 sec
+Akon toxin
+
+Magnolian guard
+HP 400
+Atk 30
+Def 22
+Speed 60
+Cost 200 G 1 pop 16 sec
+Defensive tactics
+Reanimation
+
+Slinger
+HP 240
+Atk 40
+Def 0
+Range 500
+Speed 80
+Cost 250 G 1 pop 20 sec
+Pierce
+
+Caradaci spearman
+HP 300
+Atk 20
+Def 18
+Speed 80
+Cost 160 G 1 pop 16 sec
+Deflection
+
+Macamba warrior
+HP 200
+Atk 28
+Def 12
+Speed 100
+Cost 200 G 1 pop 20 sec
+Charge
+Defensive tactics
+
+Stalkers
+HP 240
+Atk 20
+Def 0
+Range 300
+Speed 80
+Cost 250 G 1 pop 20 sec
+Expert strike
+mimetism
+
+Arrow Knight
+HP 600
+Atk 50
+Def 18
+Range 500
+Speed 80
+Cost 1000 G 30 sec max 10
+Akon toxin
+Mimetism
+freedom
+
+Hero
+HP 1000
+Atk 50
+Def 20
+Speed 80
+Cost 1200 G 30 sec
+Abilities:
+forced march
+dodge
+call defense
+healing
+majestry
+
+Shaman
+HP 300
+Def 0
+Speed 50
+Cost 300 G 30 sec
+Healing
+Invisibility
+
+Upgrades:
+Tournament: 3000 G  new units start at lvl 5
+Training: 2000 G enable training to lvl 10
+Advanced training: 3000 G enable training to lvl 15
+-Fierce medal: 3000 G give a medal to units who defeat the first enemy, gain +5 attack
+-Disciplined medal: 3000 G , gain +4 defense
+-Health medal: 3000 G, gain +100 Hp
+Danzantes: 3000 G dead units return 20% of their G cost to hero who led them
+Ferocity: 3000 G soldiers regain 3 mp on kill, and 50% max hp when close to dying
+
+Altar: 2000 G shaman double hp and mp regen to allies in range
+Superior sacrifice: 3000 G when a shamn does, restore hp and mp to 5 random allies
+Vidal's statue: 3000 G double hp and mp
+Self sustainment: 2000 G all units don't starve if they have no F, bu walk 20% slower
+
+Buy 800 F for 500 G
+Buy 500 G fro 1000 F
+Buy 10 villagers for 400 F
+Buy 20 villagers for 500 G
+Celebrate spring festival: 2000 G allies in fortress regen 5 extra hp/sec, explore large are
+around the fortress
+Increase taxes: 3000 G fortress produce F equal to pop/5, increase G production by 20%
+Tributes: 2000 G, obtain 500G per 10 min (max 2000G) for each fort under your control
+Call militia: 2000 G 50 pop, summon 50 akon swordmen in your town hall
+
+Produce bows: 200 G unlock archers
+Produce maces: 1000 G unlock magnolian guards
+Produce slings: 1500 G unlock slinger
+Produce lances: 12000 G unlock caradaci
+produce macana staves: 600 G unlock macana warriors
+Produce javelins: 1200 G unlock stalkers
+Improve bow manifacturing: 1000 G Archers +20% range
+Improve Hero's armor: 2000 G hero +10 defense
+Improve wall's sentinels: 1000/2000 G sentinels to lvl 15/30

@@ -1,0 +1,103 @@
+-The Ranun are savage florans who love war and raiding.
+Their aggresive ways have cause scorn among all other florans.
+Their tactics are about "victory at all cost". They often struggle
+to keep a relevant economy, so their villagers work slower.
+To compensate for their abismal living condition, they often
+steal, plunder and kill nearby floran villages. They became
+raiders due to the fact that the Ranun lived in mountains,
+which don't have a lot of food or fertile dirt. So, they
+became expanding inwards, towards the plains and lush forests.
+They lived in harsh environments, so they have fewer structures
+and many bonuses in environments. The Ranun used tactics
+considered barbaric even amongst barbarians, such as
+sacrifices, cannibalism and dark magic.
+
+-Floran units and buildings regenerate hp when out of battle
+-Floran buildings change shape and functionality in the place where
+they are built in
+-Villager work 35% slower
+-All military units gain W by fighting and killing enemy units
+-Docks provide +10 population
+-Units return 25% of their W and F cost upon death
+-Settlements can be upgraded to Venom Convenant or Venom Shrine.
+They'll still work as settlement when upgraded
+-Buildings and units cna be constructed/trained automatically and for free,
+but 5 times slower. Process can be speed up with resources
+-Blacksmith upgrades cost -40% F
+
+
+UNITS
+
+Buxa
+magic caster who applies curses which either decrease
+target's attack, armor or speed. Slow movement but great armor
+Bonus: +20% effect duration in forest, +0/1 armor and +1 atk in mountain
+
+Akon Archer
+Archer with low hp and poison tipped arrows
+Bonus: +1 range in mountain, +15% fire rate in swamps, +4 dmg to cavalry in forest
+
+Akon Swordman
+swordman good vs infantry
+Bonus: +1 atk in forest, +10% movement speed in beaches and mountains
+
+Akon Spearman
+spearman good vs cavalry
+Bonus: +1/1 armor in mountain, +4 dmg vs cavalry in desert
+
+Actea
+healer who can stealth and apply poison to enemies
+Bonus: +50% poison duration in swamp and forest
+
+Talictro
+Archer whose arrows apply an armor and attack debuff
+Bonus: +20% debuff duration in mountains, +10% movement speed in desert
+
+Euptelea
+Magic caster who entangle enemies with vines and poison them
+Bonus: +2/2 armor in forest and swamps, +10% fire rate in beach and desert
+
+Papaverum maceman
+Heavy infantry with a periodic stun attack
+Bonus: +20% stun chance in swamp, +1 atk and +1/1 armor in mountains
+
+BUILDINGS
+
+Root Circle
+Town center who provide a global boost(non stacking) to all floran villagers
+-Forest: +5% wood
+-Swamp: +5% forager, farmer
+-Desert: +5% gold
+-Mountain: +5% stone
+-Beach: +5% fish
+Cost 300 W 100 S 200 sec
+
+Venom Covenant
+Train Ranun units. Change bonuses and units according to place
+it is built in. Always train Akon archer/swordman/spearman
+-Forest: +5 HP, +1 range to ranged, Euptelea
+-Swamp: +10% fire rate and movement speed, Buxa
+-Desert: +20% dmg vs cavalry, +1 atk to ranged, Talictro
+-Mountain: +1/0 armor, Papaverum
+Cost 200 W 50 sec
+
+Venom Shrine
+Train monks and mages. Change bonuses and units according to place
+it is built in. Train Actea
+-Forest/Swamp: +1 range, attacks add slow effect (-15%)
+-Desert/Beach: +1/1 armor, +10% movement speed
+-Mountain: +20% resistence
+Cost 200 W 50 sec
+
+Venom Tower
+Defensive building with poisoned attacks. Change bonuses and units according
+to place it is built in.
+-Forest/Mountain: +1 atk and range
+-Desert/Swamp: +2/1 armor and +25% fire rate
+Cost 100 S 70 W 90 sec
+
+SUMMARY
+-economy-
+houses, settlement, farm, dock, blacksmith, market, Venom Shrine, university, wonder
+-military-
+Venom Covenant, Root Circle, Castle, walls/gates, Venom Tower

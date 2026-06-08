@@ -1,0 +1,166 @@
+KR1 61 KR2 62 KR3 45 KR4 110 KR5 75
+
+KR1
+Goblin HP 20 Atk 2.5 Speed 12 G 3
+Orc HP 80 Atk 6 Speed 8 G 9  Armor 30%
+Shaman HP 100 Atk 4 Speed 10 G 10 Res 90% Heal 5/sec
+Ogre HP 800 Atk 50 Speed 7G 50 Lives 3
+Goblin sapper HP 140 Atk 15/30 Speed 12 G 10 Combustion 100
+Ord champion HP 400 Atk 30 Speed 8 G 30 Armor 80%
+Worg Rider HP 400 Atk 20 Speed 14 G 25 Lives 2 Res 80%
+--Drop an Ord champion on death
+Forest Troll HP 4000 AtkS 40 Speed 6 G 200 Lives 5 Regen 30 Hp/sec
+
+Bandit HP 70 Atk 25 Speed 12 G 8 Dodge 50%
+Brigand HP 160 Atk 8 Speed 8 G 15 Armor 40%
+Marauder HP 600 Atk 20 Speed 8 G 45 Armor 60% Lives 3
+Raider HP 1000 AtkT 20/50 Speed 8 G 50 Armor 95%
+Pillager HP 3000 AtkT 75 Speed 7 G 100 Lives 5 Res 90%
+
+Giant Spider HP 60 Atk 14 Speed 15 G 6 Res 65%
+Spider Matriarch HP 250 Atk 20 Speed 10 G 20 Res 80% Lives 2
+--spawn hatchlings
+Spider Hatchling HP 10 Atk 3 Speed 20 G 1 Res 50%
+Titan Spider HP 1250 Atk 75 Speed 8 G 80 Armor 70% Res 70%
+Poison Matriarch HP 1000 Atk 30 Speed 6 G 40 Lives 3 Res 60%
+--Spawn poison hatchlings
+Poison hatchlings HP 80 Atk 15 Speed 12 G 1 Res 30%
+Gargoyle HP 90 Speed 12 G 12 Flying
+Wulf HP 35 Atk 2 Speed 25 G 5 Dodge 25%
+Worg HP 120 Atk 10 Speed 20 G 12 Res 50% Dodge 30%
+Winter Wolf HP 350 Atk 20 Speed 20 G 35 Res 50% Dodge 30%
+Giant Rat HP 100 Atk 10 Speed 14 G 10 Poison 90/2 seconds
+Wererat HP 450 Atk 30 Speed 17 G 25 Armor 30% Poison 130/2 seconds
+Werewolf HP 700 Atk 50 Speed 14 G 25 Res 30% Regen 8 Hp/sec
+Lycan HP 400-1200 Atk 15-60 Speed 10-15 G 65 Res 30-60% Regen 16 Hp/Sec
+--Turns defeated soldiers into werewolves, 20% chance
+--Transform into a powerful werewolf when below 25% HP
+
+Shadow Archer HP 180 Atk 15/16 Speed 12 G 16 Res 30% Range 240
+Dark Knight HP 300 Atk 20 Speed 7 G 25 Armor 80%
+Golem HP 2500 AtkS 40 Speed 5 G 120 Lives 5
+Rocket Rider HP 340 Speed 12 G 30 Flying, turbo
+Dark Slayer HP 1200 Atk 50 Speed 7 G 100 Lives 3 Armor 95%
+Black Hag HP 600 AtkT 16 Speed 15 G 80 Lives 2 Res 90% Flying
+--Instakill
+
+Troll HP 280 Atk 30 Speed 9 G 25 Regen 5 Hp/sec
+Troll champion HP 600 AtkT 40/42 Speed 8 G 50 Lives 3 Regen 10 Hp/sec
+Troll chieftain HP 1200 Atk 20 Speed 6 G 70 Lives 6 Regen 20 Hp/sec
+--Zeal-- for 6 seconds, +20 atk +50% armor +100% speed, recharge 12 seconds
+Troll pathfinder HP 350 Atk 50 Speed 12 G 30 Regen 8 Hp/sec
+Troll Breaker HP 2800 Atk 65 Speed 6 G 150 Lives 3 Armor 60% Regen 30 Hp/sec
+
+Demon Spawn HP 250 Atk 20 Speed 8 G 20 Res 60% Combustion 75
+Demon Lord HP 1000 Atk 45 Speed 6 G 60 Lives 5 Res 60% Combustion 300
+--Shield-- every 7 seconds, summon a shield that negates 4 attacks
+Demon Hounds HP 350 Atk 30 Speed 15 G 25 Res 60% Dodge 30% Combustion 100
+Demon Legion HP 7000 Atk 20 Speed 6 G 60 Armor 80% Combustion 75
+--Generate a copy of itself every 10 seconds
+Demon Flareon HP 250 AtkT 20/5 Speed 12 G 20 Res 80% Combustion 70
+--Ranged attack set target on fire, dealing 160 damage over 4 seconds
+Gulaemon HP 25000 Atk 30 Speed 6 G 80 Lives 2 Res 60% Combustion 300
+--Limitd flying capabilities
+Cerberus HP 6000 Atk 80 Speed 13 G 350 Lives 5 Armor 80% Combutsion 600
+
+Skeleton HP 120 Atk 15 Speed 6 G 2
+Skeleton Knight HP 400 Atk 30 Speed 6 G 10 Armor 30%
+Necromancer HP 700 AtkT 30 Speed 6 G 50 Lives 3
+--Summon 12 skeletons every 10 seconds, with 5% of summoning a Knight
+Husk HP 250 Atk 10 Speed 5 G 10 Armor 40%
+Zombies HP 300 Atk 10 Speed 5 G 7
+Fallen Knight HP 1000 Atk 50 Speed 4 G 40 Res 90%
+--Return as spectralknight
+Spectral Knight HP 400 Atk 50 Speed 8 G 40 ImmunePhys
+--Boost fallen knights attack by 20%
+Abomination HP 2500 Atk 20 Speed 7 G 50 Lives 3 Armor 30% Combustion 250
+
+Treant HP 1000 Atk 30 Speed 6 G 60 Armor 80%
+Swamp Thing HP 3000 AtkS 28/35 Speed 6 G 200 Lives 5 Regen 15 Hp/sec
+Rootshroom HP 500 Atk 15 Speed 10 G 20 Poison 75/5 seconds
+
+KR2 Exclusive
+Immortal HP 300 Atk 20 Speed 10 G 24 Lives 2 Armor 60%
+-Spawn a fallen when defeated
+Fallen HP 100 Atk 20 Speed 10 G 1
+Executioner HP 1600 Atk 30 Speed 7 G 130 Lives 2 Instakill non heroes
+Giant Scorpion HP 400 Atk 20 Speed 7 G 28 Lives 2 Armor 85% Poison 150/5 seconds
+Dune Terror HP 100 Atk 6 Speed 10 G 10 Burrows underground
+Sand Wraith HP 800 Atk 45/25 Speed 6 G 100 Heal 12/sec
+--Spawn 7 fallen every 12 seconds
+Small efreeti HP 200 Atk 45 Speed 6 G 20 Lives 2
+
+
+My DLC
+
+FLORANS
+floran militia
+floran mace scout
+acacia archer
+akon soldier
+akon archer
+blowpipe warrior
+floran slinger
+bolas rider
+arrow knight
+jaguar warrior
+eagle warrior
+owl warrior
+macaw warrior
+xolotl warrior
+skull knight
+floran sage
+arcanist
+quetzacoatl rider
+naga warrior
+naga sorcerer
+lizard warrior
+lizard shaman
+lion warrior
+shark warrior
+passiflora crusader
+magnolian guard
+
+SHIPERIANS
+shiperian soldier
+shiperian commander
+fire mage
+wind mage
+ice mage
+thunder mage
+water mage
+earth mage
+light mage
+dark mage
+mage figther
+polydynastus
+pegasus knight
+mage knight
+stratiot
+priestess
+shiperian bandit
+
+DRAGONS
+dragon swordman
+dragon spearman
+dragon halberdier
+dragon warrior
+dragon archer
+dargon overlord
+dragon crystal mancer
+dragon baron
+dragon ascender
+draco sage
+double dragon rider
+kobold recruit
+great dragon
+fire shon
+ice shon
+wind shon
+earth shon
+ater shon
+thunder shon
+light shon
+dark shon
+
+

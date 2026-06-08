@@ -1,0 +1,1899 @@
+Idee mie
+
+MODALITA COSTRUISCI UNA CITTA
+
+Scegli tra 36 città da costruire dalle fondamenta. Trasforma
+piccoli villaggi di frontiera in metropoli magnifiche.
+
+1) Bordeaux  4/5 difficoltà
+
+La città è afflitta da attacchi barbari, epidemie, incendi e rivolte.
+Riuscirai a trasformare questa terra flagellata in una fiorente città?
+Inizi con poche risorse
+
+due giacimenti di pietra vicino il centro
+due giacimenti di oro vicino il centro
+due cave di marmo vicino le montange
+due cave di ferro dall'altra parte del fiume
+due moli su fiume
+
+due villaggi barbari ostili
+1) 44 pop 22 attaccanti
+2) 50 pop 37 attaccanti
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 40 legno, tre capanne, una segheria ed un campo di grano e 40 schiavi
+
+2) Colonia Agrippina 1/5
+
+La città di colonia è situata su magnifiche montagne. 
+Non ci sono incendi, epidemie e rivolte.
+Il posto più adatto per costruire una grande  città. 
+
+quattro giacimenti di pietra, due vicino il magazzino ad ovest, 
+uno vicino il lago ad est ed uno vicino
+il villaggio barbaro ad ovest.
+tre giacimenti di ferro, uno vicino al lago, uno al magazzino ovest ed uno al villaggio ovest.
+due giacimenti di marmo, uno vicino il magazzino ovest ed uno al lago
+un giacimento d'oro al magazzino ovest
+Ci sono due acquedotti
+
+due moli sul lago
+
+quattro villaggi barbari, neutrali
+due hanno 32 pop 8 attaccanti e si trovano a sud est
+due hanno 38 pop 16 attaccanti e si trovano a sud ovest
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Toledo scambia 6 ferro per 2 marmo
+Mediolanum scambia 4 oro per 8 marmo
+Mediolanum scambia 4 oro per 12 legname
+Mediolanum scambia 3 oro per 12 pesce
+
+Inizi con due magazzini, uno ad ovest ed uno sotto la montagna a nord e 50 schiavi
+hai a disposizione 20 legno, 10 pietra, 10 mattoni 20 farina e 20 carne 
+che vengono dati ogni 2 minuti
+
+3) Assuan 2/5
+
+Il deserto nasconde molti segreti. Il terreno è povero ma la regione è ricca di minerali.
+Le tribù barbare sono amichevoli e disposte a scambiare risorse.
+Sarai in grado di trasformare questo piccolo villaggio in una
+grande metropoli, come una rose nel deserto?
+
+Due giacimenti di pietra, uno vicino il centro e uno vicino l'oasi al centro
+un giacimento di ferro vicino il magazzino
+tre giacimenti di marmo, un a nord uno all'oasi e un altro al magazzino
+due giacimenti d'oro, uno a nord ed un altro al magazzino ad est
+quattro acquedotti
+
+ci sono tre villaggi barbari, amichevoli
+1) 32 pop 16 att  scambia 6 pietra per 2 ferro    scambia 6 carne per 2 mattone
+2) 32 pop 16 att  scambia 6 carne per 2 mattone   scambia 6 farina per 2 indumenti
+3) 22 pop 22 att  scambia 4 oro per 8 marmo       scambia 4 oro per 12 pesce
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 9 pietra
+Alexandira scambia 6 ferro per 2 marmo
+
+Inizi con due magazzini, uno vicino all'oasi ed un vicino una zona ricca di minerali
+hai 40 legno, +20 carne e farina che arrivano ogni 4 minuti
+
+4) Zagabria  3/5
+
+Molti hanno messo gli sguardi su queste montagne vergini, ma pochi
+sono riusciti a costruire una città. Dimostra agli altri prefettori
+che tu non sei da meno, ma fai attenzione ai barbari assetati
+di sangue che vivono da queste parti.
+
+Due giacimenti di pietra a sud
+Due giacimenti di ferro a sud
+Due giacimenti di marmo a sud
+un giacimento d'oro a sud
+un acquedotto che si estende verso il centro
+tre moli nel lago a sud
+
+Due villaggi barbari ostili a nord-est
+1) 50 pop 37 att
+2) 32 pop 16 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Florentia scambia 3 ferro per 12 farina
+
+Inizi con 50 schiavi e due magazzini, uno a nord ed uno a sud vicino il lago
+Inizi con 60 legno, 40 pietra, 20 mattoni, 40 farina e 40 carne
+
+5) Roma 3/5
+
+Vuoi fondare la mitica città leggendaria, cuore dell'impero romano?
+Ti è stata data l'opportunità. Non ci sono giacimenti di risorse.
+Dovrai ottenere tutto tramite le rotte commerciali
+
+Due moli, uno sul tevere e uno sul lago ad est
+5 acquedotti, uno per quartiere
+
+Rotte commerciali
+Caralis scambia 12 olio per 3 oro
+Mediolanum scambia 12 olio per 8 marmo
+Florentia scambia 12 olio per 8 mattone
+Antium scambia 10 olio per 8 pietra
+Pompei scambia 10 pesce per 8 mattone
+Siracusa scambia 6 pesce per 10 pietra
+
+Inizi con tre magazzini, e tre quartieri e 70 schiavi
+1) 2 uliveti, 1 baracca, 1 forno, 1 macelleria, 2 stazioni commerciali 7 abitazioni
+2) un magazzino e sud est dove arrivano 40 farina 40 carne ogni 5 minuti
+3) 4 abitazioni 2 segherie
+4) il centro, dove è situato un arco di trionfo
+
+6) Geneva  3/5
+
+I cittadini di Geneva pensano di non avere bisogno di nulla, quindi hanno
+cessato ogni contatto con le altre città. Non si possono costruire
+stazioni commerciali.
+
+due giaciementi di pietra, due di oro vicino il centro, due di marmo vicino
+il villaggio barbaro a nord e due di ferro dall'altra parte del ponte
+un acquedotto che si estende per il centro della mappa.
+Tre moli vicino il villaggio barbaro a nord
+
+villaggi barbari, di cui uno ostile a nord
+1) 50 pop 33 att
+villaggio neutrale
+2) 38 pop 22 att
+
+Inizi con 4 abitazioni, una segheria, un campo di grano ed un allevamento
+
+7) Anzio 3/5
+
+Mancano oro e marmo. Distruggendo i villaggi barbari, otterrai nuove rotte commerciali
+
+due giacimenti di pietra e uno di ferro vicino il magazzino a est
+due acquedotti a est, cinque moli ad ovest
+
+due villaggi barbari neutrali
+1-2) 32 pop 16 att
+
+Rotte commerciali
+Roma scambia 12 olio per 6 oro
+Mediolanum scambia 12 olio per 12 marmo
+
+8) Venetia 4/5
+
+Costruire una città sulla morfologia di Venetia è complicato. 
+Ricorda: ogni metro di terra è importante! Hai a disposizione
+una quantità illimitata di legno. Non puoi costruire fattorie.
+
+due giacimenti di pietra, marmo, oro, ferro.
+Sei moli.
+
+Rotte commerciali
+Roma scambia 4 ferro per 12 vino
+Roma scambia 4 ferro per 8 olio
+Milano scambia 3 ferro per 12 farina
+Milano scambia 3 ferro per 12 lino
+Brindisi scambia 3 oro per 6 ferro
+
+Inizi con un magazzino a est e due abitazioni nel centro.
+Ottieni 40 legno, 20 farina e 20 lino ogni 4 minuti da Roma
+
+9) Lubiana 4/5
+
+Costruire sull'orografia di Lubiana è un impresa dedicata solo ai prefettori
+più dotati. Stai attento ai barbari. Sono possenti, ma custodiscono
+i giacimenti di marmo.
+
+due giacimenti di pietra, uno vicino il centro e un altro e nord-ovest
+due giacimenti di marmo, nei pressi dei villaggi dei barbari
+un giacimento d'oro nei pressi del centro
+un giacimento di ferro vicino quello d'oro
+due acquedotti nei plateu
+Due moli al lago a est
+
+vilaggi barbari, neutrali
+1-2) 32 pop 16 att
+
+Rotte commerciali
+Caralis scambia 12 olio per 3 oro
+Mediolanum scambia 12 olio per 8 marmo
+Florentia scambia 12 olio per 8 mattone
+Antium scambia 10 olio per 8 pietra
+Pompei scambia 10 pesce per 8 mattone
+Siracusa scambia 6 pesce per 10 pietra
+
+Inizi con 40 schiavi, 4 abitazioni e due segherie e 40 legname
+
+10) Salamantica 2/5
+
+Non puoi costruire segherie, ma hai a disposizione una quantità illimitata di legno e pietra.
+Il centro è situato su una isoletta al largo dalla terraferma, ma c'è anche un piccolo
+quartiere situato sulla colonia mineraria a sud. Un giacimento di marmo è
+occupato da una tribù barbara a ovest.
+
+Due giacimenti di pietra, uno di ferro, uno di marmo vicino il villaggio barbaro, un d'oro
+vicino il magazzino a sud.
+Tre moli nell'isola, due acquedotti.
+
+Un villaggio barbaro neutrale
+1) 32 pop 16 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Caralis scambia 4 ferro per 12 farina
+Caralis scambia 4 ferro per 12 olio
+Tarraco scambia 12 pietra per 6 oro
+
+Ottieni +40 legno e pietra ogni 2 minuti
+Inizi con un magazzino a sud e tre abitazioni, una fornace e una cava di pietra, 
+e un campo di grano.
+
+11) Damietta 3/5
+
+Un posto isolato con tante risorse. Ideale per costruire una metropoli.
+Non puoi costruire stazioni commerciali, prefetture o erboriste.
+
+due giacimenti di pietra dietro la basilica, 2 di marmo
+verso l'acquedotto a sud-est, e un giacimento d'oro verso il fiume a nord.
+due acquedotti.
+
+Inizi con 30 schiavi, 4 abitazioni, due segherie e un campo di grano.
+Inizi con 20 legname, 10 farina e 10 carne.
+
+12) Merida 2/5
+
+La città è situata su una vasta distesa con un enorme acquedotto. Hai a disposizione
+una quantità illimitata di risorse. Non ci sono rotte commerciali.
+
+3 pietra, 1 ferro, 7 marmo, 1 oro, 1 acquedotto
+
+Inizi con un magazzino a nord e 6 abitazioni, una segheria, una fornace, una
+cava di pietra, un campo di grano, un allevamento 50 schiavi.
+Ogni 5 minuti otterrai, 10 legname,pietra,mattoni,marmo e 20 farina,carne.
+
+13)  Tangeri 3/5
+
+La città sorge ai confini dell'Impero. La palude vicina aumenta il rischio di
+epidemie. Il porto di Tangeri offre vaste opportunità commerciali.
+
+4 pietra, 2 ferro, 4 marmo, 1 oro, 4 moli, 3 acquedotti
+
+due villaggi barbari neutrali
+1-2) 32 pop 16 att    scambia 12 farina per 4 indumento, scambia 4 ferro per 12 carne
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Siracusa scmabia 12 mattoni per 4 marmo
+
+Inizi con 4 abitazioni, una segheria e una cava di pietra, 40 schiavi, 20 legname,pietra
+
+14)  Cartagena 3/5
+
+Un magazzino è stato costruito vicino l'unico giacimento di marmo.
+Puoi ottenerne altro tramite il commercio. Non puoi costruire campi
+di grano, di lino o vigneti, ma hai a disposizione farina, lino e vino
+illimitati.
+
+2 pietra, 1 marmo, 2 ferro, 2 oro, due acquedotti
+
+due villaggi barbari, un neutrale, uno ostile
+1) 50 pop 17 att  ostile
+2) 50 pop 33 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+
+Inizi con 2 abitazioni, 1 segheria, 1 magazzino a est, 50 schiavi, 40 legname.
+Ogni 3 minuti, otterrai 40 farina,lino e vino.
+
+
+15) Tarraco 2/5
+
+La città di Tarraco è un centro culturale importante. I cittadini
+hanno gia iniziato a costuire una piccola città. Cerca di
+non vanificare i loro sforzi. Non puoi costruire uliveti, ma
+Roma di darà un rifornimento di olio.
+
+4 pietra, 1 ferro, 2 marmo, 2 oro, 3 moli, 4 acquedotti
+
+2 villaggi barbari neutrali
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Florentia scambia 3 ferro per 12 farina
+Mediolanum scambia 12 ferro per 4 marmo
+Roma scambia 6 oro per 8 indumenti
+Pompei scambia 4 oro per 12 pesce
+
+Inizi con 11 abitazioni, una fornace, una cava di pietra, una segheria
+un campo di grano, un allevamento, un forno, una macelleria, un campo di lino
+una sartoria, 50 schiavi.
+
+Ogni 2 minuti, otterrai 40 olio
+
+16) Toledo 3/5
+
+la città di Toledo è situata tra le montange iberiche e il fiume Tago.
+Ci sono molti minerali ma non si possono costruire fattorie o allevamenti.
+Bisogna ottenere le risorse tramite il commercio di minerali.
+
+3 pietra, 3 ferro, 4 marmo, 1 acquedotto, 3 carovane
+
+due villaggi barbari neutrali
+1) 50 pop 37 att   scambia 6 vino per 12 farina
+2) 38 pop 10 att   scambia 6 vino per 12 carne
+
+Rotte commerciali
+Florentia scambia 3 ferro per 12 farina
+Florentia scambia 3 ferro per 12 carne
+Mediolanum scambia 3 ferro per 12 lino
+Tarraco scambia 3 ferro per 12 vino
+Cartagena scambia 3 ferro per 12 olio
+Tarraco scambia 12 marmo per 6 oro
+
+Inizi con due magazzini situati in depositi minerari ad est ed ovest
+ci sono 12 abitazioni, 2 segherie, 1 cava pietra, 1 macelleria, 1 forno, 
+1 taverna, 1 sartoria, 1 fornace, 1 mercato, 4 stazioni commerciali,
+50 schiavi e 40 legname.
+non si possono costruire erboristerie, allevamenti o campi di grano.
+
+Ogni 5 minuti otterrai 40 farina e carne.
+
+
+17) Lione 2/5
+
+La città ricca di risorse ed e situata tra due fiumi. 
+Due magazzini sono già stati costruiti nelle altre sponde.
+
+due pietra, tre marmo, un ferro, due oro, due moli, tre acquedotti
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 6 abitazioni, 1 segheria, 1 cava di pietra, 1 fornace,
+1 campo di grano, 1 allevamento, 50 schiavi, 40 legname.
+due magazzini, uno a nord-est ed un a nord-ovest.
+
+18) Lutetia 3/5
+
+la città è circondata da villaggi barbari. Cerca di non disturbarli.
+
+due pietra, due oro, un ferro, un marmo, 3 moli, 2 acquedotti
+
+tre villaggi barbari neutrali
+1) 68 pop 51 att
+2) 74 pop 37 att
+3) 44 pop 11 att   scambia 12 carne per 3 oro
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 2 abitazioni e 1 segheria, 40 schiavi, 20 legname, 10 pietra e mattoni
+
+19) Londinium 3/5
+
+Ci sono molti minerali dall'altra parte del Tamigi.
+La palude però, aumenta il rischio di epidemie.
+
+2 pietre, 1 oro, 2 ferro, 2 marmo, 14 moli, 1 acquedotto, 2 carovane
+
+due villaggi barbari neutrali
+1) 68 pop 51 att
+2) 32 pop 16 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con due abitazioni e 1 segheria, 40 schiavi e 40 legname
+
+20) Mediolanum 2/5
+
+Il punto di forza della città consiste nelle innumerevoli fattorie ed allevamenti.
+Le tribù barbare sono amichevoli e pronte a commerciare.
+
+7 pietra, 2 ferro, 4 marmo, 1 oro, tre moli, 2 acquedotti, 3 carovane
+
+due villaggi barbari pacifici
+1) 32 pop 8 att scambia 12 carne per 4 ferro oppure 4 mattoni
+2) 44 pop 22 att scambia 4 ferro per 12 farina, scambia 12 farina per 4 indumenti, 
+scambia 12 olio per 3 pietra
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 4 oro per 12 marmo
+Roma scambia 4 ferro per 1 marmo
+
+Inizi con 8 abitazioni, 1 campo di grano, 1 allevamento, 1 campo di lino
+2 segheria, 1 cava di pietra, 1 fornace, 1 altare, 50 schiavi, 1 magazzino al centro,
+40 legname,pietra,farina e carne.
+
+21) Pompei 2/5
+
+Grazie al Vesuvio, tutte le fattorie producono il doppio. Il rischio di incendi,
+però, è aumentato considerevolmente.
+
+1 pietra, 1 marmo, 1 ferro, 1 oro, 5 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 8 abitazioni, 1 segheria, 1 cava di pietra, 1 pescaia, 1 fornace
+1 campo di grano, 1 allevamento, 40 schiavi, 40 legname, 20 farina e carne.
+
+22)  Siracusa 3/5
+
+La città subisce il flagello della peste. è consigliabile non provocare i villaggi barbari
+finchè non si è pronti ad affrontarli...o ad ottenere le loro risorse.
+
+4 pietra, 1 ferro, 2 marmo, 2 oro, 5 moli, 2 acquedotti
+
+2 villaggi barbari neutrali
+1-2) 32 pop 8 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 6 pietra
+Caralis scambia 12 vino per 6 marmo
+Caralis scambia 12 olio per 6 marmo
+Pompei scambia 12 legno per 3 oro
+Pompei scambia 10 legno per 5 indumenti
+
+Inizi con 5 abitazioni, 1 campo di grano, 1 allevamento, 1 segheria, 
+1 cava di pietra, 50 schiavi, un magazzino verso la parte storica,
+40 legname, 10 mattoni,pietra,farina,carne.
+
+23) Caralis 4/5
+
+Un grande acquedotto si impone sulla zona. Usalo per sviluppare la città.
+I villaggi barbari potrebbero dare fastidio, ma non sono molto potenti. 
+
+1 pietra, 1 ferro, 1 oro, due marmo, 2 moli, 1 acquedotto
+
+3 villaggi barbari neutrali
+1-3) 44 pop 22 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 3 abitazioni 1 segheria 40 schiavi e 40 legname.
+
+24) Cartagine 3/5
+
+In città è presente un erboristeria ed una prefettura. Non vanificare i loro sforzi.
+Non si possono costruire stazioni commerciali.
+
+2 pietra, 2 marmo, 1 ferro, 1 oro, 2 acquedotti
+
+2 villaggi neutrali
+1-2) 32 pop 16 att
+
+Inizi con 8 abitazioni, 1 erboristeria, 1 prefettura, 1 segheria, 1 fornace, 
+1 campo di grano, 40 schiavi e 40 legname.
+
+25) Florentia 2/5
+
+Durante l'estate, ci sono maggiori probabilità che a Florentia scoppino incendi.
+D'altra parte, le fattorie di Florentia producono più grano.
+Non ci sono depositi di marmo od oro. Bisogna usare le rotte commerciali.
+
+2 pietra, 3 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Mediolanum scambia 12 farina per 3 oro
+Mediolanum scambia 12 indumento per 3 oro
+Madiolanum scambia 12 vino per 3 oro
+
+Inizi con 6 abitazioni, 1 campo di grano, 1 allevamento, 1 segheria, 
+1 cava di pietra, 1 fornace, 40 schiavi.
+Ogni 2 minuti otterrai 20 legname, 10 farina e pesci.
+
+26) Singidunum 5/5
+
+L'imperatore di ha dato l'incarico di proteggere questo avamposto
+dai barbari assetati di sangue. Gli attacchi si susseguono ogni minuto.
+Hai a disposizione rifornimenti di farina e pesce.
+Non è possibile costruire campi di grano o allevamenti
+
+3 pietra, 5 ferro, 2 marmo, 2 acquedotti
+
+Rotte commerciali
+Toledo scambia 6 ferro per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Zagabria scambia 6 ferro per 12 pesce
+Florentia scambia 3 ferro per 12 farina
+
+Inizi con 6 abitazioni, 1 caserma, 1 segheria, 1 cava di pietra, 1 uliveto, 1 taverna, 
+1 forno, 40 schiavi, 40 farina, 40 pesce, 40 legno, 20 mattoni, 
+12 indumenti 12 armi di legno (nella caserma)
+
+Ogni 5 minuti, un gruppo di 30 barbari arriverà ad attaccare la città, verso il centro.
+Ogni 5 minuti otterrai 40 farina e pesce.
+
+27) Brundisium 2/5
+
+In città non ci sono giacimenti di pietra, quindi bisogna usare le rotte commerciali.
+Usa i moli di Brundisium per costruire porti.
+
+1 marmo, 1 oro, 8 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Roma scambia 12 farina per 8 pietra
+Roma scambia 12 carne per 8 pietra
+Roma scambia 12 vino per 8 pietra
+Roma scambia 6 indumenti per 8 pietra
+
+Inizi con 12 abitazioni, 3 pescaie, 1 segheria, 1 fornace, 1 forno, 
+2 campo di grano, 1 campo di lino, 1 sartoria, 1 stazione commerciale, 50 schiavi,
+1 magazzino a ovest, 60 legname, 20 pietra, 20 mattoni e 20 farina.
+
+28) Genoa 3/5
+
+Le molte rotte commerciali garantiranno che la città fiorisca come una rosa.
+Stai attento ai barbari dell'est.
+
+3 pietra, 1 ferro, 1 marmo, 2 oro, 7 moli, 4 acquedotti, 2 carovane
+
+1 villaggio barbaro ostile
+1) 68 pop 51 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 8 abitazioni, 2 pescaie, 1 forno, 1 fornace, 1 mercato, 
+1 sartoria, 2 porti, 50 schiavi 2 magazzini. 40 farina, 40 legno, 20 pietra, 20 mattoni.
+
+29) Ravenna 4/5
+
+In città mancano pietra e marmo. Inoltre la palude aumenta le possibilità
+che scoppi un epidemia. I villaggi barbari possono dare fastidio.
+Inizi con due squadre di hastati.
+
+1 ferro, 1 oro, 2 moli
+
+4 villaggi barbari neutrali
+1-4) 68 pop 51 att
+
+Rotte commerciali
+Roma scambia 3 oro per 12 pietra
+Roma scambia 8 mattone per 10 marmo
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 2 caserme, 24 indumenti, 24 armi di legno, 8 abitazioni, due segherie, 1 cava d'oro
+1 fornace, 1 campo di grano, 1 allevamento, 2 stazioni commerciali, 50 schiavi.
+40 legno,pietra,farina e carne.
+
+30)  Sybaris 2/5
+
+Colonia greca passata in mano romana, il territorio e montagnoso ma povero
+di minerali.  Come se non bastasse, i depositi sono sotto controllo dei barbari.
+Le rotte commerciali saranno disponibili quando i barbari saranno sconfitti.
+
+1 ferro, 4 marmo, 3 moli, 3 acquedotti
+
+3 villaggi barbari neutrali
+1-3) 56 pop 34 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Antium scambia 9 mattoni per 4 oro
+Antium scambia 8 mattoni per 4 ferro
+Pompei scambia 6 ferro per 12 pietra
+Pompei scambia 12 legno per 3 oro
+
+Inizi con 8 abitazioni, due segherie, 1 forno, 1 fornace, 1 campo di grano, 
+1 allevamento, 2 stazioni commerciali, 50 schiavi, 40 legname,farina e carne.
+
+31)  Aquileia 4/5
+
+In città mancano oro e marmo. Il clima umido garantisce che non scoppino incendi.
+
+2 pietra, 1 ferro
+
+due villaggi neutrali
+1-2) 68 pop 51 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 2 abitazioni, 1 segheria, 1 campo di grano, 3 torri di guardia, 30 schiavi
+40 legno, 40 pietra, 20 farina, 20 carne, 20 mattoni, 20 lino
+
+32)  Narni  3/5
+
+I barbari hanno accumulato grandi quantità di ricchezze. Tocca a te
+il compito di reucperarle.
+
+2 pietra, 2 marmo, 1 acquedotto, tre carovane
+
+3 villaggi neutrali
+1-3) 68 pop 51 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 4 abitazioni, 2 segherie, 50 schiavi, 2 magazzini.
+40 legno, 40 farina, 40 carne, 40 pietra.
+Ogni villaggio distrutto ti fara guadagnare 10 in ogni risorsa.
+
+33) Torino 4/5
+
+Di recente i barbari si sono insediati nei pressi di Torino.
+Si consiglia al prefetto di sbarazzarsene prima che le cose si complicano.
+
+5 pietra, 5 marmo, 1 ferro, tre acquedotti 4 carovane
+
+4 villaggi barbari, di cui 3 ostili
+1-3) (ostili) 68 pop 51 att
+4) 74 pop 37 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Toledo scambia 3 ferro per 12 farina
+Toledo scambia 3 ferro per 12 carne
+
+Inizi con 8 abitazioni, 2 segherie, 1 cava di pietra, 1 fornace.
+1 campo di grano, 1 allevamento, 50 schiavi e 40 legname.
+
+34) Alexandria 3/5
+
+Ci sono molte risorse a disposizione per te, prefetto. Inoltre,
+Roma ti fornira oro a volontà, affinche tu posso fornire la manodopera
+necessaria per espandere la città.
+
+2 pietra, 2 marmo, 5 moli, 5 acquedotti, 1 carovana
+
+Rotte commerciali
+Roma scambia 6 oro per 12 marmo
+Roma scambia 4 oro per 12 pietra
+
+Inizi con 50 schiavi nel centro, un magazzino ad est.
+Ogni 2 minuti, otterrai 40 oro da Roma.
+
+
+35) Berolinium 3/5
+
+Il clima freddo proibisce la comparsa di incendi ed epidemie. Non
+ci sono villaggi barbari e ci sono molti giacimenti minerari.
+I cittadini consumano due volta la quantità di cibo necessaria.
+
+1 pietra, 2 oro, 2 marmo, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 4 abitazioni, 1 segheria, 1 cava di pietra, 1 campo di grano, 40 schiavi.
+80 legno,pietra,mattoni,farina,carne.
+
+36) Tessalonica 2/5
+
+Il terreno è troppo povero per costruire fattorie ed allevamenti.
+D'altro canto, puoi costuire uliveti, e l'olio di Tessalonica
+è molto richiesto nel mercato.
+
+2 pietra, 3 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 10 olio per 10 oro
+Roma scambia 6 olio per 12 marmo
+Roma scambia 3 olio per 12 pietra
+Brundisium scambia 2 oro per 10 farina
+Brundisium scambia 2 oro per 10 carne
+Brundisium scambia 2 oro per 10 lino
+Pompei scambia 2 oro per 10 vino
+POmpei scambia 5 olio per 10 mattone
+
+Inizi con 8 abitazioni, 2 uliveti, 2 segherie, 1 fornace, 1 cava di pietra, 
+1 campo di grano, 50 schiavi, 40 legname, 20 farina e carne.
+
+
+Modalità Missione
+
+Completa le missioni del Cesare
+
+Missioni A
+
+FLORENTIA
+1) L'imperatore ti affida il piccolo villaggio di Florentia.
+Fallo sviluppare affinchè diventi una città fiorente.
+-Costruisci una cava di pietra
+-Costruisci una fornace
+-Costruisci un altare
+-Raggiungi lo status di paese
+
+1 giacimento di pietra, 3 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 farina per 3 oro
+Roma scambia 12 indumenti per 3 oro
+Roma scambia 12 vino per 3 oro
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 pesci per 3 oro
+
+Inizi con 4 abitazioni, 1 segheria, 1 campo di grano, 1 allevamento,
+2 fontane, 30 schiavi, 20 legname, 10 farina e carne.
+
+2) Sviluppa la città.
+-Ottieni 12 case
+-Costuisci una taverna
+-Non avere più di 14 abitazioni
+-Soddisfa le necessità di tutti i cittadini
+
+Puoi costruire taverne
+
+3) Incendi
+-Costruisci una prefettura
+-Estingui un edificio dalle fiamme
+-Costruisci un arco di Trionfo
+-fai in modo di avere meno di 10 cittadini insoddisfatti
+
+All'inizio della missione, otterrai 30 oro
+
+SIRACUSA
+1) La peste si abbatte su Siracusa. Cura tutti i cittadini malati.
+-Costruisci una erboristeria
+-cura tutti i cittadini malati
+
+2 giacimenti di pietra e uno d'oro, 3 moli, 2 acquedotti
+
+Rotte commerciali
+Pompei scambia 12 legno per 3 oro
+Roma scambia 12 olio per 6 marmo
+Caralis scambia 12 vino per 6 marmo
+
+Inizi con 14 abitazioni, 2 segherie, 1 cava di pietra, 1 miniera d'oro, 1 fornace, 1 forno
+1 macelleria, 1 campo di grano, 1 allevamento, 1 campo di lino, 1 sartoria, 
+1 taverna, 3 fontane, 1 altare, 40 schiavi, 20 legname, 10 pietra e mattoni.
+
+2) Cesare ti ordina ti costruire templi affinchè la città possa prosperare
+-Raggiungi lo status di città
+
+Puoi costruire Templi
+
+3) Fai diventare la città una metropoli
+-Raggiungi lo status di Metropoli
+
+Puoi costruire Teatri, Terme e monumenti
+
+TANGERI
+1) Situata nel bacino del Mediterraneo, Cesare vuole far diventare questa città
+un punto nevralgico per lo sviluppo della cultura.
+-Ottieni 20 case
+-Costruisci una miniera d'oro, cava di pietra e cava di marmo e fai in modo
+che ci sia almeno un lavoratore in ognuna
+-Ottieni 70 schiavi
+
+2 giacimenti di pietra, 1 oro, 1 ferro, 4 marmo, 3 moli, 3 acquedotti
+
+C'è una tribù barbarica neutrale 
+1) 32 pop 16 att scambia 6 farina per 2 indumento, scambia 6 carne per 2 ferro
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 mattone per 4 marmo
+Tarraco scambia 12 farina per 3 ferro
+Caralis scambia 8 ferro per 4 oro
+
+Inizi con un magazzino a nord ovest, 6 abitazioni, 2 segherie, 1 fornace, 1 campo di grano,
+1 allevamento, 1 fontana e 40 schiavi.
+
+2) I cittadini vogliono un teatro
+-Costruisci un teatro e assicurati che 4 cittadini vi lavorino
+
+3) Costruisci un anfiteatro
+-Costruisci un anfiteatro
+-fai in modo che ci siano 6 ville nei dintorni dell'anfiteatro
+-Organizza giochi di gladiatori
+
+TARRACO
+1) Centro culturale dell'iberia, Tarraco aspira a diventare più importante
+-Costruisci un Tempio
+-Costruisci un Accademia
+-Assicurati che tutti e due gli edifici abbiano 4 filosofi e 2 sacerdoti
+
+4 pietra, 1 ferro, 2 oro, 2 marmo, 2 moli, 3 acquedotti
+
+Rotte commerciali
+Florentia scambia 3 ferro per 12 farina
+Toledo scambia 12 ferro per 4 marmo
+Cartagena scambia 6 oro per 8 indumento
+Roma scambia 12 olio per 3 oro
+Siracusa scambia 4 oro per 12 pesce
+
+Inizi con 16 abitazioni, due magazzini, 1 campi di grano, 1 campo di lino, 2 allevamenti,
+2 segherie, 1 forno, 1 macelleria, 1 fornace, 1 cava di pietra, 1 sartoria, 1 taverna,
+4 fontane, 2 altari, 50 schiavi.
+
+LIONE
+1) piccola città, Lione aspira a diventare un meta per i mercanti 
+e un fulcro di rotte commerciali
+-Costruisci un accademia
+-Ottieni 70 schiavi
+
+2 pietra, 1 ferro, 2 marmo, 2 moli, 4 acquedotti
+
+Rotte commerciali
+Florentia scambia 12 carne per 3 ferro
+Florentia scambia 12 farina per 3 ferro
+Florentia scambia 6 marmo per 3 ferro
+Toledo scambia 12 pietra per 6 ferro
+
+Inizi con 20 abitazioni, 2 magazzino, uno a nord-est ed uno a nord-ovest,
+2 segherie, 1 fornace, 1 forno, 1 macelleria, 2 taverne, 1 sartoria, 1 erboristeria,
+1 baracca degli schiavi, 2 campi di grano, 2 allevamenti, 1 campo di lino, 1 vigneto,
+1 pescaia, 4 fontane, 60 schiavi.
+Inizi con 50 legno, 20 pietra, 10 ferro, 10 marmo, 10 mattoni, 20 farina, 20 pesce, 20 lino
+L'unico modo per ottenere oro,  quello di costruire un'accademia o un tempio della fortuna
+
+2) I barbari galli hanno posto i loro sguardi sulla fiorente città di Lione.
+L'incarico del Cesare è chiaro. Difendere la città a tutti i costi.
+-Addestra 40 soldati
+-Ottieni lo status di città
+-Sopravvivi all'attacco dei galli
+
+Puoi costruire caserme. I barbari arriveranno dopo 40 minuti
+
+FLORENTIA
+1) Come prima missione, ti è stato incaricato di provvedere alla città di Florentia.
+Cerca di non deludere il Cesare.
+-Costruisci una fornace ed una cava di pietra
+-Costruisci un altare
+-Raggiungi lo status di paese
+
+1 pietra, 2 moli, 1 acquedotto
+
+Inizi con 6 abitazioni, 1 campo di grano, 1 allevamento, 1 segheria, 2 fontane, 40 schiavi
+In questà regione, tutti i campi di grano producono il doppio
+
+2) Migliora la qualità di vita dei cittadini
+-Costruisci una taverna
+-Ottieni 10 case
+-Fai in modo di avere al più 14 case
+-soddisfa tute le esigenze dei cittadini
+
+3) Con l'estate arriva la siccità. Incendi scoppiano ogni giorno.
+Prefettore, fai qualcosa!
+-Costruisci una prefettura
+-Estingui almeno un incendio
+
+Da questo momento in poi, ogni 5 minuti un edificio a caso (tranne la basilica) verrà messo a fuoco
+
+4) Trasforma la città in un centro commerciale, e sarai ricompensato, il tuo nome
+verrà scritto sui libri di storia.
+-Costruisci un arco di trionfo
+-fai in modo che ci siano al più 10 cittadini insoddisfatti
+
+Nuove rotte commerciali
+Roma scambia 12 farina per 3 oro
+Roma scambia 12 vino per 3 oro
+Roma scambia 12 indumento per 3 oro
+
+All'inizio, Roma ti darà 30 oro
+
+Missioni B
+
+POMPEI
+1) Alle falde del Vesuvio, la città di Pompei è piccola. Il governatore ti ordina
+di trasformarla in un rifugio per le persone che ne hanno bisogno.
+-Scambia ferro con farina
+-Soddisfa tutte le esigenze alimentari dei cittadini
+-ottieni 10 case
+
+1 pietra, 2 moli, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 legno per 4 ferro
+Florentia scambia 4 ferro per 12 farina
+Roma scambia 12 legno per 3 oro
+
+Inizi con 8 case, 1 altare, 2 fontane, 1 pescaia, 1 cava di pietra, 1 segheria, 1 fornace
+1 campo di lino, 1 sartoria, 2 stazioni commerciali, 20 schiavi.
+Inizi con 40 legno, 40 farina. Non si possono costruire campi di grano, vigneti, uliveti.
+
+2) Dopo le ultime eruzioni, il terreno è diventato più fertile.
+è giunto il momento di trasformare questo piccolo villaggio in una metropoli.
+-Costruisci un arco di trionfo
+-Ottieni 70 schiavi
+-Ottieni 10 domus
+-Ottieni lo status di città
+
+Nuove rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Roma scambia 12 olio per 9 mattone
+Le rotte commerciali precedenti sono state annullate
+
+Da adesso in poi, puoi costruire tutte le fattorie che vuoi, inoltre, tutte le fattorie
+producono il doppio. Tutti i panettieri, macellai, sarti producono il doppio.
+La probabilità di incendi è aumentata. Ogni 2 minuti, un edificio a caso (tranne la basilica)
+verrà messo a fuoco. Roma ti da 30 oro all'inizio.
+
+3) Seppure il Vesuvio possa danneggiare le tue strutture, il governatore
+è adamante. Bisogna che tu continua nella ristrutturazione della città.
+-Raggiungi lo status di metropoli
+-Pompei non può perdere lo status di Città
+-Fai in modo di avere meno di 20 cittadini insoddisfatti
+-Aumenta la popolazione a 200
+
+Nuove rotte commerciali
+Siracusa scambia 12 olio per 9 pesce
+Caralis scambia 8 indumento per 4 oro
+Antium scambia 12 vino per 6 marmo
+Genoa scambia 8 indumento per 8 pesce
+
+Da adesso in poi, tutti i cittadini consumano il doppio del cibo.
+La probabilità di epidemie è aumentata
+
+LONDINIUM
+1) la città di londinium sembra insignificante rispetto alle altre.
+L'incarico del Cesare è incontestabile. Con una quantità di risorse illimitata,
+ti tocca aumentare le dimensioni dell'insediamento considerevolmente.
+-Porta la popolazione a 70 abitanti
+-fai in modo che non ci siano più di 4 malati
+
+1 giacimento d'oro e 14 moli, 2 carovane degli zingari e 2 villaggi barbari
+1) 68 abitanti 51 attaccanti
+2) 32 abitanti 16 attaccanti
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+I villaggi barbari hanno le seguenti rotte commerciali
+1) scambia 12 olio per 4 oro
+2) scambia 12 pesce per 4 oro
+
+Hai a disposizione risorse illimitate in legno, pietra, ferro, marmo, carne, 
+farina, lino, vino, olio e mattone,
+ma ti conviene costruire uliveti e vigneti lo stesso. Inizi con 50 schiavi e tre magazzini.
+Inizi con 4 abitazioni e una segheria. C'è un acquedotto in fondo la mappa.
+
+2) La città è cresciuta notevolmente. Ciò, ha attratto l'attenzione dei barbari. 
+Continua a far
+prosperare la città. 
+-Porta la popolazione a 150 abitanti
+-Fai in modo che i malati non raggiungano i 10 cittadini
+
+I villagi barbari diventano ostili, cessando le rotte commerciali.
+Le case possono raggiungere lo status di domus
+
+3)Boadicea, regina ribelle, sta pianificando un attacco alla capitale.
+Difendali dai ribelli.
+-Resisti all'attacco dei ribelli
+
+L'attacco arriverà tra 40 minuti da sud.
+Le case possono raggiungere lo status di villa
+
+TOLEDO
+
+LUTETIA
+
+MEDIOLANUM
+
+Missioni C
+
+BORDEAUX
+1) la città di Bordeaux è situata sulle sponde di un fiume. I barbari possono
+minacciare l'insediamento, ma conosciamo che un governatore del tuo calibro riuscirà
+a tenerli a bada. Il tuo incarico consiste nel soddisfare le esigenze dei cittadini
+e nel rifornire la città di viveri.
+-Costruisci un campo di grano e un allevamento
+-Costruisci un forno ed una macelleria
+-Ottieni 10 unità di pane e 10 insaccati
+-Soddisfa tutte le esigenze alimentari dei cittadini
+-Non avere più di 12 abitazioni
+
+2 pietra, 2 oro, 2 ferro, 2 marmo, 2 moli
+
+Ci sono due villaggi barbari ostili
+1) 44 pop 22 att
+2) 50 pop 37 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+
+Inizi con 4 abitazioni, 1 segheria, 1 cava di pietra, 2 fontane, 40 schiavi.
+
+Il terreno è povero, quindi tutte le fattorie producono 1 unità in meno.
+Non puoi costruire Templi e domus per ora.
+
+2) I barbari non mollano la loro presa. Ma la città ha problemi più gravi.
+Il governatore ti da l'incarico preciso: Fai in modo di garantire la sicurezza
+dei cittadini.
+-Costruisci un vigneto e un uliveto
+-Costruisci una stazioni commerciale e scambia olio per marmo
+-Fai in modo di soddisfare tutte le esigenze dei cittadini
+-Raggiungi una popolazione di 30 abitanti
+-Non avere più di 20 abitazioni
+
+Puoi costruire templi e taverne.
+I villaggi barbari contengono i minerali di marmo, quindi devi usare la stazioni commerciale.
+La probabiltà di epidemie e incendi è aumentata.
+
+3) Dopo molti attacchi, è giunto il momento di dare una lezione ai barbari.
+Il governatore ti dà l'incarico di sconfiggerli per l'ultima volta.
+-Distruggi tutti i villaggi barbari
+-Fai in modo di non avere meno di 30 cittadini
+
+I villaggi barbari adesso attaccano due volte di seguito
+
+LUBIANA
+1) La città era una colonia romana fiorente, ma degli eventi catastrofici l'hanno
+ridotta in macerie. Spetta a te il compito di ricostruirla.
+-Costruisci una piantagione di lino ed un sartoria
+-Ottieni 20 unità di indumenti
+-Costruisci un magazzino nel punto indicato
+-Costruisci una statua d'oro
+
+2 pietra, 2 marmo, 1 molo, 4 acquedotti
+
+Ci sono due villaggi barbari neutrali, essi conservano i giacimenti di marmo
+1-2) 32 pop 16 att
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 4 marmo
+Roma scambia 12 olio per 6 pietra
+Roma scambia 12 olio per 9 mattone
+
+Inizi con 12 abitazioni, 2 segherie, 1 cava di pietra, 1 fornace, 1 forno, 1 macelleria
+1 campo di grano, 1 allevamento, 1 uliveto, 1 taverna, 1 stazione commerciale, 4 fontane
+2 altari, 50 schiavi. La probabilità di epidemie è aumentata.
+
+2) Le possibilità di commerciare con i barbari sono nulle. Ti conviene distruggerli
+cosicchè possa prendere possesso dei giacimenti di marmo.
+-Distruggi i villaggi barbari
+-Ottieni 20 unità di marmo
+-Costruisci un arco di trionfo
+
+I villaggi barbari sono ostili adesso
+
+3) grazie ai tuoi sforzi, la città sta prosperando. Porta a termine la missione con successo.
+-Costruisci un tempio della fortuna, un tempio di bacco, un tempio di vulcano e 
+una fontana di nettuno
+-Costruisci un anfiteatro
+-Organizza giochi di anfiteatro
+
+Roma ti invierà 40 unità di marmo ogni 5 minuti per aiutarti con la manutenzione delle ville
+
+DAMIETTA
+1) il piccolo villaggio di Damietta è stato fondato di recente.
+Cerca di aiutare la popolazione a prosperare.
+-Ottieni 40 unità di farina e 40 unità di carne
+-Costruisci un mercato
+-Ottieni 10 case
+
+2 pietra, 2 marmo, 1 oro, 2 acquedotti
+Non ci sono rotte commerciali
+
+Inizi con 8 abitazioni, 2 segherie, 1 cava di pietra, 1 fornace, 1 campo di grano, 
+1 allevamento, 2 fontane, 20 schiavi.
+C'è un magazzino vicino il giacimento d'oro verso est.
+Non possono scoppiare epidemie, incendi o rivolte.
+
+2) Abbiamo ricevuto notizie che dei barbari cercano di attaccare il villaggio.
+Tocca a te proteggerlo.
+-Ottieni 20 unità di ferro e 20 di olio
+-Costruisci una falegnameria e una fucina
+-Scambia olio per ferro
+
+Nuova rotta commerciale
+Zagabria scambia 12 olio per 6 ferro
+
+3) I barbari si apprestano ad attaccare la città. Preparati.
+-Addestra 100 soldati veterani (4 caserme)
+-Sopravvivi all'attaco dei barbari.
+
+La rotta commerciale sparirà alla fine dell'attacco.
+I barbari arriveranno tra 20 minuti
+
+VENETIA
+1) Il piccolo villaggio di Venetia ha chiesto il tuo aiuto. Trasforma il piccolo
+villaggio in una città portuale.
+-Costruisci 6 pescaie
+-Ottieni 50 unità di pesce
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 6 marmo
+Roma scambia 10 olio per 9 pietra
+
+Inizi con 8 abitazioni, 1 forno, 2 mercati, 1 prefettura, 1 fornace, 4 fontane, 
+1 magazzino a est, 40 schiavi.
+Ottieni da Roma 20 legno, 20 pietra, 20 marmo, 20 olio ogni 2 minuti e 
+30 vino, 30 farina, 30 lino ogni 2 minuti.
+In poche parole, ti mancano carne, insaccati, pesce, mattoni, indumenti, ferro.
+Non è possibile costruire fattorie.
+La probabilità di epidemie è aumentata.
+Otterrai dai Roma 40 oro ogni 4 minuti
+
+2) Roma pensa che il villaggio di Venetia sia cresciuto abbastanza. Ti viene dato
+l'incarico di far prosperare la città senza l'aiuto dei rifornimenti.
+-Costruisci un arco di trionfo
+-Raggiungi lo status di città
+
+I rifornimenti di farina, vino, lino, legno e olio sono terminati.
+Hai a disposizione nuove rotte commerciali
+Antium scambia 3 oro per 12 olio
+Antium scambia 2 oro per 12 vino
+Brundisium scambia 2 oro per 12 farina
+Brundisium scambia 2 oro per 12 lino
+Pompei scambia 3 oro per 12 legno
+le rotte commerciali precedenti sono terminate
+
+3) Costruisci un anfiteatro
+-Costruisci un anfiteatro
+-Fai in modo di non avere meno di 20 abitazioni
+
+I rifornimenti di pietra e marmo sono terminati.
+Nuove rotte commerciali
+Mediolanum scambia 3 oro per 8 marmo
+Mediolanum scambia 2 oro per 10 pietra
+
+Missioni D
+
+MERIDIA
+1) La città sorge su una vasta pianura. Ti è stato affidato il compito
+di sfruttare le foreste iberiche per ottenere legname a sufficenza.
+-Costruisci 4 segherie
+-Ottieni 80 unità di legname
+
+4 pietra, 2 acquedotti, 1 carovana
+
+Non ci sono rotte commerciali
+
+Inizi con 8 abitazioni, 1 cava di pietra, 1 fornace, 1 macelleria, 1 forno, 
+1 campo di grano, 1 allevamento, 1 sartoria, 2 fontane, 1 altare, 40 schiavi.
+Inizi con 40 legno e 40 lino.
+Non puoi costruire piantagioni di lino. Roma ti fornirà 40 lino ogni 2 minuti.
+
+2) Ti è stato affidato il compito di trasformare questo piccolo 
+insediamento in una città fiorente.
+-Costruisci delle Terme
+-Ottieni lo status di città
+-Ottieni 40 unità di vino
+
+Roma ti invierà 40 marmo ogni 2 minuti
+Nuova rotta commerciale
+Tarraco scambia 12 olio per 3 oro
+
+CARTAGENA
+1) la città di Cartagena è stata liberata dalle armate dei fratelli Scipioni.
+Appena presa di mano dai cartaginesi, la città ha bisogno di un prefetto
+esperto come te per farla rifiorire di nuovo
+-Costruisci 7 stazioni commerciali
+-Ottieni 40 unità di marmo e 40 di olio
+-Raggiungi la poplazione di 100 abitanti
+
+ci sono 2 giacimenti di pietra, 2 di oro e 2 di ferro e uno di marmo. 
+4 moli a sud-est, ed una carovana degli zingari
+nel magazzino a nord-ovest. Ci sono due villaggi barbari ostili.
+
+1) 68 abitanti 51 attaccanti
+2) 74 abitanti 51 attaccanti
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 6 marmo
+Roma scambia 12 olio per 12 pietra
+Roma scambia 12 olio per 12 legno
+Tangeri scambia 8 mattoni per 6 pesce
+Siracusa scambia 8 mattoni per 12 vino
+Caralis scambia 8 mattoni per 8 pietra
+Tarraco scambia 8 mattoni per 12 olio
+
+Inizi con 20 abitazioni, 12 sono nel centro verso la basilica, con 2 segherie,
+1 cava di pietra, 1 miniera d'oro, 1 forno, 1 macelleria, 1 taverna, 1 sartoria, 
+1 erboristeria, 1 allevamento, 3 fontane, 2 altari.
+Ci sono 4 abitazioni in un magazzino a sud-ovest, dove c'è un giacimento d'oro. 
+Lì ci sono una miniera d'oro e una fornace, 1 mercato, 1 fontana, 1 altare.
+Ci sono 4 abitazioni nel magazzino a nord-est, dove c'è una cava di marmo, 1 fornace,
+1 mercato, 1 fontana, 1 altare.
+Inizi con 60 schiavi, 40 legno, 20 carne, 20 pietra. 
+Siccome non puoi costruire campi di grano, vigneti e campi
+di lino, Roma ti invierà 40 farina, 40 lino, 40 vino ogni minuto.
+I barbari sono ostili e attaccheranno più o meno tra 40 minuti. 
+Hai a disposizione molte miniere a edifici pronti all'uso.
+
+2) I barbari sono fastidiosi. Liberatene e migliora l'insediamento
+-Sconfiggi tutti gli insediamenti barbari
+-Raggiungi la popolazione di 200 abitanti
+-Costruisci un anfiteatro
+
+Per aiutarti nell'impresa, Roma ti iniverà 40 unità d'oro ogni 5 minuti.
+Nuove rotte commerciali
+Anzio scambia 3 oro per 12 olio
+Anzio scambia 3 oro per 6 marmo
+
+CARALIS
+1) Ti viene assegnato l'incarico di trasformare questo insediamento
+in una colonia militare. I barbari di certo non apprezzeranno
+la tua presenza
+-Costruisci 10 abitazioni
+-Ottieni 10 unità di ferro
+-Soddisfa le necessità di vestiti dei tuoi cittadini
+
+1 giacimento di pietra, 1 ferro, 1 oro, 2 marmo vicino il magazzino a nord-est, 2 moli
+verso il magazzino a sud e 1 carovana degli zingari verso la pianura a nord.
+1 grande acuqedotto si estende per tutta la città.
+I tuoi falegnami, fabbri e taglialegna lavorano il doppio
+
+Ci sono 3 villaggi barbari neutrali
+1-3) 44 abitanti 22 attaccanti
+
+Inizi con 6 abitazioni, 1 segheria, 1 fornace, 1 cava di pietra, 
+1 campo di grano, 1 allevamento, 1 fontana.
+Hai a disposizione 50 schiavi, 40 legno, 20 carne, 20 farina.
+Al momento non ci sono rotte commerciali
+
+2) Ti viene assegnato l'incarico di sconfiggere dfinitivamente i barbari.
+-Distruggi tutti i villaggi barbari.
+-Ottieni 100 schiavi
+
+Nuove rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 6 marmo
+Roma scambia 12 olio per 12 pietra
+
+CARTAGINE
+1) la città di Cartagine è stata ricostruita. Migliora il suo status.
+-Costruisci un anfiteatro
+-Costruisci un tempio di Vulcano
+-Costruisci un tempio di Fortuna
+
+1 marmo, 1 oro, 3 acquedotti. Non ci sono rotte commerciali.
+Tutti i minatori producono il doppio. Non ci sono villaggi barbari.
+
+Inizi con 20 abitazioni situate sul plateau in mezzo la mappa.
+Ci sono 1 forno, 1 fornace, 1 cava di pietra, 1 macelleria, 1 prefettura,
+1 teatro, 1 tempio, 1 miniera d'oro, 1 sartoria, 1 taverna, 1 erboristeria,
+1 campo di grano, 1 vigneto, 1 campo di lino, 1 terme, 2 altari, 4 fontane,
+1 allevamento e una statua d'oro.
+Otterrai 40 legno e pietra ogni minuto.
+
+SALAMANTICA
+1) la città viene rifornita di legno e pietra, quindi pianificare la costruzione
+non sarà un problema. I cittadini di Salamantica sono molto viziati
+e consumano il doppio del cibo. Il tuo incarico consiste nell'ottenere
+una rifornitura di marmo e mattoni.
+-Ottieni 80 marmo e mattoni
+-Costruisci un arco di trionfo
+-Costruisci una statua d'oro
+-Costruisci un anfiteatro
+
+1 ferro, 1 marmo, 1 oro nell'avvallamento a sud, dove c'è un magazzino.
+3 moli e due acquedotti. Un villaggio barbaro è situato vicino il
+giacimento di marmo.
+1) 32 abitanti 16 attaccanti
+
+Rotte commerciali
+Roma scambia 12 olio per 6 marmo
+Tarraco scambia 12 olio per 12 vino
+Toledo scambia 12 olio per 6 ferro
+Florentia scambia 3 ferro per 12 farina
+Florentia scambia 3 ferro per 12 carne
+
+ASSUAN
+1) la celebre città conosciuta anche come la rosa nel deserto. Ti è stato concesso
+l'onore di ricostruirla dopo il recente attacco. Non deludere le aspettative.
+-Costruisci un tempio
+-Costruisci un arco di trionfo
+-Costruisci un Teatro
+-Costruisci delle Terme
+
+2 pietra, 3 marmo, 1 ferro, 2 oro. 4 acquedotti.
+
+ci sono tre villaggi barbari, amichevoli
+1) 32 pop 16 att  scambia 6 pietra per 3 ferro    scambia 4 oro per 12 indumenti
+2) 32 pop 16 att  scambia 4 mattone per 12 farina scambia 4 mattone per 12 carne
+3) 22 pop 22 att  scambia 4 oro per 8 marmo       scambia 4 oro per 12 pesce
+
+Rotte commerciali
+Alexandria scambia 4 mattone per 12 legno
+Alexandira scambia 3 ferro per 3 marmo
+Siracusa scambia 3 oro per 12 vino
+
+Non puoi costruire fattorie,allevamenti o segherie, siccome il terreno è troppo povero.
+I lavoratori della fornace producono il doppio.
+Viene fortemente consigliato di non distruggere i villaggi barbari, altrimenti si perdono
+delle risorse non rinnovabili.
+
+Inizi con 70 schiavi e tre magazzini, uno vicino l'oasi, uno vicino un giacimento d'oro a est
+e uno a nord dove c'è un altro giacimento d'oro.
+Inizi con 10 abitazioni, 1 cava di pietra, 2 fornaci, 1 forno, 1 macelleria,
+1 mercato, 1 taverna, 4 stazioni commerciali e 40 legname.
+Ottieni da Roma 20 carne, 20 farina, 20 lino, 20 vino ogni 4 minuti.
+
+TESSALONICA
+1) La città do Tessalonica è famosa per il suo olio. La tua missione
+consiste nel favorire il suo commercio.
+-Ottieni 100 unità di olio e 100 di oro
+
+4 pietra, 1 ferro, 2 marmo, 2 oro, 6 moli, 4 acquedotti.
+
+Rotte commerciali
+Roma scambia 10 olio per 10 oro
+Roma scambia 2 olio per 10 farina
+Roma scambia 2 olio per 10 carne
+Roma scambia 2 olio per 10 lino
+Roma scambia 2 olio per 10 vino
+Roma scambia 10 olio per 5 marmo
+Roma scambia 10 olio per 10 pietra
+
+Inizi con 14 abitazioni, 2 segherie, 1 pescaia, 1 fornace, 1 forno, 2 uliveti, 1 mercato,
+1 campo di grano, 1 sartoria, 1 cava di pietra, 50 schiavi, 1 magazzino a est, poco
+distante dalla basilica, 4 fontane, 1 altare, 40 legno, 20 farina, 20 carne, 20 lino, 20 pesce.
+
+ALEXANDRIA
+1) Riporta la città di Alexandria alla sua antica gloria.
+-Raggiungi la pooplazione di 200 abitanti
+-Costruisci un anfiteatro
+
+4 pietra, 4 marmo, 2 oro, 2 moli, 3 acquedotti.
+Non ci sono barbari o rotte commerciali.
+
+Inizi con 70 schiavi, di cui 20 in un magazzino+baracca degli schiavi nella zona mmineraria
+a nord-est. Un tempio di Vulcano è stato gia costruito vicino la basilica.
+Questo ti consentirà di far crescere la città molto velocemente.
+Non puoi costurire campi di lino o vigneti.
+Inizi con un tempio di Vulcano, 2 altari, 4 fontane, 1 fontana di Nettuno vicino
+il magazzino. Hai a disposizione 40 legno, 20 pietra, 20 mattoni, 20 farina, 20 carne.
+Roma ti darà a disposizione 20 lino e 20 vino ogni minuto.
+
+Missioni E
+
+ZAGABRIA
+1) la montagne verdi di Zagabria sono afflitte dai barbari
+sanguinari. Costruisci una città nonostante ciò.
+-Costruisci un Tempio di Vulcano nel punto indicato
+-Distruggi i villagi barbari
+
+2 pietra, 2 marmo, 2 ferro, 2 oro, 3 moli, 3 acquedotti.
+Ci sono due villaggi barbari ostili.
+1) 32 abitanti 16 attaccanti
+2) 50 abitanti 37 attaccanti
+
+Rotte commerciali
+Roma scambia 3 ferro per 12 farina
+Roma scambia 6 indumenti per 3 oro
+
+Non puoi costruire campi di grano, allevamenti o uliveti.
+I pescatori producono il doppio. I giacimenti di marmo sotto
+dentro i villaggi barbari, quindi devo distruggerli per
+ottenere i loro depositi.
+
+Inizi con 70 schiavi, due magazzini, uno a nord-ovest e uno
+a sud, vicino i moli con due baracche.
+Inizi con 12 abitazioni, 2 segherie, 1 cava di pietra, 1 fornace, 2 pescherie,
+5 fontane, 1 mercato, 1 stazione commerciale, 1 sartoria, 1 campo di lino.
+
+2)Ti viene commissionata la costruzione di un anfiteatro
+-costruisci un anfiteatro
+-Costruisci Terme
+-Costruisci Teatro
+
+COLONIA
+1) la città di Colonia non soffre di epidemie, mal contento o incendi.
+Trasforma l'insediamento in una metropoli.
+-Costruisci uno di ogni monumento
+-Costruisci 2 terme e 2 teatri
+-Raggiungi la popolazione di 120 abitanti
+
+4 pietra, 3 ferro, 2 marmo, 1 oro, 2 moli, 4 acquedotti.
+Non ci sono barbari.
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Toledo scambia 6 ferro per 3 marmo
+Mediolanum scambia 4 oro per 8 marmo
+Mediolanum scambia 4 oro per 12 legname
+Mediolanum scambia 3 oro per 12 pesce
+Zagabria scambia 12 olio per 6 indumenti
+Zagabria scambia 3 oro per 6 ferro
+Brundisium scambia 4 oro per 8 mattoni
+Brundisium scmabia 4 ferro per 12 legno
+
+Inizi con 50 schiavi, di cui 20 in due magazzini.
+Ottieni 20 legno, 10 pietra, 10 mattoni, 20 carne, 20 farina ogni minuto da Roma.
+
+GENEVA
+1) gli abitanti di Geneva sono orgogliosi e quindi non vogliono commerciare con
+le altre città. Spetta a te il compito di trasformare la città in un insediamento.
+-Ottieni 80 unità di pietra, marmo, ferro e oro
+-Ottieni lo status di metropoli
+-Non avere meno di 10 abitazioni
+
+1 pietra, 1 ferro, 1 oro, 1 marmo, 3 moli, 2 acquedotti.
+Ci sono due villaggi barbari agli angoli opposti della mappa, entrambi ostili,
+Uno occupa un giacimento di marmo e i moli, mentra l'altro occupa il giacimento d'oro.
+Non ci sono rotte commerciali, tutti i minatori, taglialegna e fornaci producono il doppio.
+
+Inizi con 40 schiavi, 12 abitazioni, 2 segherie, 1 cava di pietra, 1 fornace, 
+1 forno, 1 macelleria, 1 campo di grano, 1 allevamento, 1 campo di lino, 
+1 sartoria, 1 altare, 3 fontane.
+Hai 40 legno, 20 farina, 20 carne.
+
+SINGIDUNUM
+1) In città mancano ferro e oro. Ferma gli attcchi barbari.
+-Ottieni 50 schiavi
+
+7 pietra, 1 marmo, 1 acquedotto, 3 villaggi barbari ostili.
+1) 68 abitanti 51 attaccanti
+2) 51 abitanti 37 attaccanti
+3) 44 abitanti 33 attaccanti
+
+Rotte commerciali
+Zagabria scambia 12 pietra con 6 ferro
+Zagabria scambia 12 pietra con 3 oro
+Florentia scambia 12 legno per 12 carne
+
+Inizi con 8 abitazioni, 2 segherie, 1 fornace, 1 cava di pietra, 1 campo di grano,
+1 campo di lino, 2 stazioni commerciali, 1 altare, 3 fontane, 
+30 schiavi, 40 legno, 20 carne, 20 farina.
+Non puoi costruire allevamenti o vigneti.
+
+2)Passa all'attacco e sconfiggi i barbari.
+-Distruggi tutti i villaggi barbari.
+
+Nuove rotte commerciali
+1)Mediolanum scambia 4 indumenti per 6 marmo
+1)Mediolanum scambia 4 pietra per 2 marmo
+2)Venetia scambia 8 legno per 4 marmo
+2)Venetia scambia 4 marmo per 4 ferro
+3)Genoa scambia 4 pietra per 3 pesce
+3)Genoa scambia 4 legno per 3 pesce
+
+Hai a disposizione un rifornimento di 40 farina ogni 2 minuti da Roma.
+Ogni volta che sconfiggi un villaggio barbaro, due rotte commerciali saranno reso disponibili.
+
+BEROLINIUM
+1) la piccola città di Berolinium non ha abbastanza legna per affronteggiare l'inverno.
+Aiutala nell'impresa.
+-Ottieni 100 unità di legno
+-Ottieni 10 domus
+-Assicurati che tutte le esigenze spirituali e igeniche dei cittadini vengano soddisfatte
+
+2 pietra, 2 oro, 1 acquedotto.
+
+Rotte commerciali
+Roma scambia 12 farina per 12 legno
+Roma scambia 12 carne per 12 legno
+Roma scambia 12 vino per 12 legno
+Roma scambia 12 farina per 6 marmo
+Roma scambia 12 carne per 6 marmo
+
+Non puoi costruire uliveti. Non ci sono depositi di marmo, 
+quindi devi usare le rotte commerciali.
+Le segherie producono il doppio.
+Inizi con 80 schiavi, 16 abitazioni, 2 segherie, 1 forno, 1 macelleria, 
+1 cava di pietra, 1 fornace, 1 prefettura, 1 campo di grano, 1 allevamento, 
+1 campo di lino, 1 vigneto, 1 sartoria, 1 taverna,
+3 altari, 5 fontane, 20 legno, 10 farina, 10 carne.
+
+2) Preparati per l'inverno
+-Ottieni 100 unità di pane, 100 di insaccati, 100 di vino e 100 indumenti.
+-Non avere più di 20 abitazioni alla fine della missione
+
+Le rotte commerciali di prima sono state disabilitate
+
+3) Sopravvivi all'inverno
+-Resisti per 40 minuti
+
+Durante la missione, tutte le fattorie e allevamenti non producono.
+Le segherie, fornaci e miniere producono 1 unità in meno.
+
+Missioni F
+
+ANTIUM
+1) In città mancano marmo e oro. Distruggi i barbari per ottenere nuove rotte commerciali.
+-Costruisci un tempio
+-Ottieni 50 schiavi.
+
+2 pietra, 1 ferro, 6 moli, 2 acquedotti. 2 villaggi barbari.
+1-2) 32 abitanti 16 attaccanti, neutrali
+
+Rotte commerciali
+Roma scambia 12 olio per 6 oro
+Mediolanum scambia 12 olio per 12 marmo
+
+Inizi con 40 schiavi, 1 magazzino a est, 10 abitazioni, 1 cava di pietra, 
+1 segheria, 1 miniera di ferro, 1 fornace, 1 forno, 1 campo di grano, 
+1 campo di lino, 1 mercato, 2 altari, 4 fontane.
+Hai 40 legno, 20 farina, 20 pesce, 20 lino, 10 pietra, 10 mattoni.
+
+ROMA
+1) ci sono dei problemi con i criminali a Roma. Inoltre, ti viene affidato l'incarico
+di ponteziare la grandezza della città. 
+-Costruisci un anfiteatro nel punto indicato
+-Costruisci 8 prefetture
+-Raggiungi la popolazione di 300 abitanti
+
+Non ci sono giacimenti o rotte commerciali. 4 moli e 7 acquedotti. Non ci sono barbari.
+
+Ottieni da altre città un rifornimento di 20 pietra, 20 marmo ogni minuto.
+Hai anche un rifornimento di 20 farina e 20 carne ogni 2 minuti.
+Inizi con 42 abitazioni, 3 forni, 3 macellerie, 3 sartorie, 3 prefetture,
+2 segherie, 1 campo di grano, 1 allevamento, 2 campi di lino, 2 vigneti, 2 mercati,
+un tempio di Vulcano, un tempio di Fortuna, un tempio di Bacco, 1 teatro, 1 terme, 
+1 accademia, 2 taverne, 2 erboristerie, 5 altari, 7 fontane
+100 schiavi, di cui 30 in nord-ovest, 30 in sud-ovest, 20 in sud-est.
+Hai 40 legno, 20 mattoni, 20 lino.
+
+Ogni 2 minuti otterrai 40 farina,carne,lino,marmo,pietra,legname.
+
+GENOA
+1) Stabilisci importanti rotte commerciali.
+-Costruisci 30 case
+-Fai in modo di avere meno di 15 cittadini insoddisfatti
+-Costruisci una fucina e produci 20 armi di ferro
+
+3 pietra, 2 oro, 8 moli, 4 acquedotti.
+
+Rotte commerciali
+Antium scambia 8 pesce per 5 marmo
+Antium scambia 6 pesce per 3 oro
+Pompei scambia 4 pesce per 8 olio
+Pompei scambia 4 pesce per 4 ferro
+Siracusa scambia 8 olio per 4 marmo
+Siracusa scambia 12 vino per 8 mattone
+Caralis scambia 4 indumenti per 12 olio
+Caralis scambia 4 indumenti per 4 ferro
+Roma scambia 6 mattone per 4 indumenti
+Roma scambia 6 vino per 4 ferro
+Tarraco scambia 12 farina per 12 vino
+Tarraco scambia 12 farina per 12 olio
+
+Inizi con 14 abitazioni, 2 segherie, 2 cave di pietra, 1 forno, 2 pescherie, 1 mercato,
+2 campi di lino, 1 sartoria, 1 taverna, 2 altari, 4 fontane, 70 schiavi, un magazzino
+a nord-ovest con due baracche.  Hai 40 legno, 20 pietra, 20 mattoni, 40 lino.
+Ottieni 40 farina da Roma ogni minuto. Non puoi costruire campi di grano,
+allevamenti, uliveti e vigneti.
+
+RAVENNA
+1) Costruisci un centro abitativo avanzato.
+-Raggiungi una popolazione di 40 abitanti
+
+Non ci sono giacimenti, acquedotti, moli o barbari.
+
+Rotte commerciali
+Roma scambia 12 carne per 12 farina
+Roma scambia 12 farina per 12 carne
+Roma scambia 12 legno per 12 pietra
+Roma scambia 6 carne per 2 indumento
+Roma scambia 6 carne per 6 olio
+Roma scambia 6 olio per 2 pesce
+
+Non puoi costruire uliveti o vigneti. Di tanto in tanto, un campo di grano o un
+allevamento viene messo a fuoco. Roma ti darà oro in base alle scorte di farina,
+pane,carne e insaccati che hai nei magazzini. Non si possono ottenere domus.
+
+Inizi con 14 abitazioni, 2 segherie, 1 fornace, 1 forno, 1 macelleria, 2 campi di grano,
+2 allevamenti, 1 sartoria, 1 campo di lino, 1 altare, 4 fontane, 40 schiavi,
+ 40 legno, 20 carne, 20 farina.
+
+SYBARIS
+1) Sviluppa l'insediamento di Sybaris.
+-Ottieni 40 schiavi
+-Espandi l'acquedotto fino alla basilica
+-Costruisci un tempio
+
+1 marmo, 3 acquedotti.
+
+Rotte commerciali
+Toledo scambia 8 vino per 7 pietra
+Roma scambia 12 legno per 3 oro
+Roma scambia 2 oro per 10 farina
+Roma scambia 5 pesce per 10 legno
+Caralis scambia 5 pesce per 10 lino
+Roma scambia 4 pesce per 10 farina
+Roma scambia 4 legno per 4 farina
+Colonia scambia 4 legno per 4 vino
+Roma scambia 4 legno per 3 mattone
+Pompei scambia 3 indumenti per 9 farina
+Pompei scambia 3 indumenti per 9 vino
+Lione scambia 7 pietra per 10 farina
+
+Roma ti da 40 pesce ogni minuto.
+Non puoi costruire allevamenti, macellerie, uliveti o campi di grano.
+
+Devi usare le rotte commerciali per ottenere risorse. In particolare, per far
+funzionare le fontane vicino la basilica, devi espandere l'acquedotto, ma non
+hai pietra. Il forno non funzionarà a meno che non scambi legno per oro e
+oro per farina.
+
+Inizi con 8 abitazioni, 2 segherie, 1 forno, 1 fornace, 1 sartoria, 1 campo di lino,
+1 taverna, 1 stazione commerciale, 2 fontane, 30 schiavi. 40 legno. 
+
+2) La siccità comporta contromisure. Fai in modo che i cittadini
+di Sybaris non risentano del clima avverso.
+-Soddisfa tutte le necessità di vino dei cittadini
+-Ottieni lo status di città
+-Costruisci un arco di trionfo
+
+A causa della siccità, le piantagioni di lino e i vigneti non producono più.
+Le rotte di Toledo, Pompei e Lione non ci sono più.
+Si consiglia di usare le rotte di Colonia e Caralis per ottenere vino e lino.
+
+BRUNDISIUM
+1) Commercia risorse per far prosperare la città
+-Raggiungi la popolazione di 60 abitanti
+
+10 moli.
+
+Rotte commerciali
+Venetia scambia 10 vino per 5 indumenti
+Venetia scambia 10 vino per 10 olio
+Roma scambia 10 legno per 10 olio
+Roma scambia 12 olio per 4 oro
+Siracusa scambia 12 farina per 8 mattone
+Siracusa scambia 12 olio per 6 marmo
+Caralis scambia 12 olio per 10 pietra
+Caralis scambia 4 indumenti per 12 carne
+Mediolanum scambia 4 indumenti per 12 legno
+Mediolanum scambia 4 indumenti per 8 mattone
+
+Inizi con 16 abitazioni, 2 pescherie, 1 forno, 2 segherie, 1 fornace, 1 prefettura,
+1 campo di grano, 1 campo di lino, 1 mercato, 1 taverna, 2 sartorie, 
+2 altari, 5 fontane, 50 schiavi. 
+Hai 40 legno, 20 farina, 20 pesce, 20 lino, 20 pietra.
+
+AQUILEIA
+1) Risolvi la crisi alimentare
+-Soddisfa tutte le necessità dei cittadini
+
+1 ferro, 3 moli, 1 acquedotto.
+
+Rotte commerciali
+Venetia scambia 3 ferro per 6 indumenti
+Venetia scambia 3 ferro per 4 mattoni
+Pompei scambia 8 carne per 8 vino
+Pompei scambia 8 pesce per 8 vino
+Brundisium scambia 8 farina per 8 pesce
+
+Roma ti da 20 pietra e 20 marmo ogni 3 minuti.
+Non puoi costruire vingeti o uliveti. Le abitazioni non
+possono superare lo status domus.
+Inizi con 20 abitazioni, e non puoi costruirne altre.
+Inizi con 2 pescherie, 2 forni, 2 sartorie, 1 campo di grano, 1 campo di lino,
+2 segherie, 1 fornace, 1 tempio, 1 prefettura, 1 erboristeria, 1 taverna, 1 allevamento,
+2 stazioni commerciali, 60 schiavi, 2 altari, 3 fontane. Hai 40 legno, 20 farina, 20 pesce.
+
+NARNI
+1) Sconfiggi i barbari ribelli
+-Distruggi tutti gli insediamenti barbari
+-Addestra 150 soldati
+
+8 pietra 7 marmo, 3 acquedotti, 7 villaggi barbari ostili, 2 carovane degli zingari.
+1-3) 74 abitanti 54 attaccanti
+4-5) 68 abitanti 50 attaccanti
+6-7) 54 abitanti 42 attaccanti
+
+Rotte commerciali
+Roma scambia 4 pietra per 10 carne
+Roma scambia 4 pietra per 10 vino
+Roma scambia 8 pietra per 10 legno
+Roma scambia 6 pietra per 8 mattone
+Antium scambia 7 pietra per 5 indumenti
+Antium scambia 6 pietra per 12 olio
+Pompei scambia 4 marmo per 12 farina
+Pompei scambia 4 marmo per 12 carne
+Pompei scambia 4 marmo per 12 vino
+Pompei scambia 4 marmo per 12 lino
+Florentia scambia 4 marmo per 12 legno
+Florentia scambia 4 marmo per 8 mattone
+Toledo scambia 12 marmo per 6 oro
+Toledo scambia 10 marmo per 12 ferro
+Siracusa scambia 10 vino per 8 pesce
+Caralis scambia 4 marmo per 6 pesce
+
+Non puoi costuire uliveti, vigneti o campi di lino. Non ci sono depositi di ferro od oro.
+Ti conviene usare le rotte commerciali, visto che ci sono tanti giacimenti di pietra e marmo.
+Ci sono moltissimi villaggi barbari ostili, ma almeno hai delle strutture militari già costruite.
+
+Inizi con 2 caserme, 8 torri di guardia, 28 abitazioni, 3 segherie, 2 cave di pietra, 
+2 cave di marmo, 1 falegnameria, 1 fucina, 2 forni, 2 macellerie, 1 fornace,
+2 campi di grano, 2 allevamenti, 2 sartorie, 1 taverna, 2 mercati, 2 stazioni commerciali, 
+80 schiavi, 2 magazzino con una baracca ciascuno, 5 fontane, 2 altari, 1 statua d'oro.
+40 legno, 20 armi di legno, 20 armi di ferro, 40 indumenti, 20 lino, 
+20 farina, 20 carne, 20 pietra.
+Roma ti darà 20 lino 20 vino ogni 5 minuti.
+
+TORINUM
+1) Trasforma questo piccolo villaggio in una metropoli
+-Ottieni lo status di metropoli
+
+3 marmo, 1 acquedotto
+
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 8 pietra
+Roma scambia 12 olio per 6 marmo
+
+Iniz con 30 schiavi, 1 fontana, 60 legno, 20 pietra, 20 farina, 20 carne.
+
+Sfide di ROMA
+
+Londinium
+Bordeaux
+Lione
+Lutetia
+Colonia
+Zagabria
+Damietta
+Lubiana
+-Singidunum-
+La città è un presidio militare costruito per combattere i barbari,
+i quali attaccano continuamente. Una caserma è già stata
+costruita per proteggere la città dai barbari.
+
+2 pietra, 1 ferro, 2 marmo, 1 oro, 1 acquedotto
+
+Rotte commerciali
+Zagabria scambia 3 oro per 8 mattoni
+Zagabria scambia 3 oro per 6 ferro
+Toledo scambia 6 ferro per 3 oro
+
+
+Mediolanum
+Roma
+-Antium-
+In città manca oro, devi usare le rotte commerciali
+dopo aver distrutto i villaggi barbari
+
+2 pietra, 1 ferro, 1 marmo, 5 moli, 2 villaggi barbari neutrali 32 pop 16 att
+
+Rotte commarciali
+Roma scambia 12 olio per 8 marmo
+Pompei scambia 12 olio per 4 oro
+
+Inizi con 40 schiavi, 4 abitazioni, 1 segheria, 1 campo grano, 1 allevamento, 2 fontane
+1 magazzino a est vicino i giacimenti.
+
+Pompei
+Caralis
+Siracusa
+Torinum
+-Venetia-
+
+Brundisium
+Tarraco
+Toledo
+Cartagena
+Salamantica
+Tangeri
+Cartagine
+-Assuan-
+Ottieni un rifornimento illimitato di mattoni e ferro, ma non
+puoi costruire fattorie. Devi usare il commercio
+
+3 pietra, 3 marmo, 2 oro, 3 villaggi barbari pacifici 38 pop 22 att
+5 acquedotti
+
+Rotte commerciali
+Barbari 1  scambia 4 mattoni per 12 farina
+Barbari 2  scambia 4 mattoni per 12 carne
+Barbari 3  scambia 6 mattoni per 6 indumenti
+Roma scambia 4 marmo per 12 olio
+Roma scambia 12 olio per 12 farina
+Roma scambia 12 olio per 12 carne
+Roma scambia 12 olio per 12 vino
+Alexandria scambia 4 ferro per 8 pietra
+Alexandria scambia 3 oro per 12 olio
+
+Alexandria
+Tessalonica
+Geneva
+Meridia
+Florentia
+Genoa
+Ravenna
+Sybaris
+Aquileia
+Narni
+Berolinium
+
+GOALS 8
+-Reach 50 population
+-Build 2 arch of triumph
+-Reach city status
+-Train 24 princeps
+-Obtain 100 gold
+-Obtain 100 slaves
+-Organize two games in the anfiteater
+-Obtain 80 of each: wood,stone,clay,marble
+
+BONUSES 13
+-Increase production of building materials by 1. -5000 Points
+-Increase production of farmers by 1. -5000 Points
+-Increase production of farmers by 1. -5000 Points
+-Increase production of bread,sausages,clothes, wood and iron weapons by 1. -5000 Points
+-Disable fires. -4.000 Points
+-houses cost only 1 unit of wood. -3000 Points
+-Start with +20 slaves in the basilica. -1000 Points
+-First ten buildings are built instantly and for free. -5000 Points
+-unlimited wood and stone. -5000 Points
+-unlimited clay and marble. -5000 Points
+-unlimited flour and bread. -5000 Points
+-unlimited meat and sausages. -5000 Points
+-unlimited clothes and wine. -5000 Points
+
+MALUSES 11
+-barbarians will attempt to raze your town (20 foes, start after 10 minutes,
+return every 5 minutes, aim straigth at the town center). +16.000 Points
+-Increase random fires. +18.000 Points
+-Double food consumption (bread,sausages,wine) +16.000 Points
+-Buildings cost +50%.  +18.000 Points
+-Max 50 buildings. +10.000 Points
+-Max 25 houses. +10.000 Points
+-Decrease production of miners by 1. +12.000 Points
+-Decreased production of building materials by 1. +12.000 Points
+-Decrease production of farmers by 1. +12.000 Points
+-Decrease production of bread,sausages,clothes, wood and iron weapons by 1. +12.000 Points
+-Sometimes, a random citizen will be struck by ligthing. +16.000 Points
+
+
+MAX resources per minute in scenarios
+24 meat, 25 flour, 20 linen, 7 wine, 7 olive oil
+40 wood, 40 stone, 10 marble, 10 iron, 10 clay
+
+
+CABRERA
+Isola pacifica nel mediterraneo. Hai a disposizione
+risorse illimitate per sviluppare questa città.
+
+10 moli, 1 acquedotto
+Rotte commerciali
+Roma scambia 12 olio per 3 oro
+Roma scambia 12 olio per 6 marmo
+
+Inizi con 4 abitazioni, 1 forno, 1 macelleria, 1 sartoria, 1 altare, 2 fontane, 40 schiavi.
+Ogni 1 minuto otterrai 40 legno/pietra, 20 marmo/mattone/carne/farina/lino/vino.
+Non puoi costruire stazioni commerciali (costruisci i porti invece), campi di grano,
+allevamenti, vigneti o campi di lino, ma puoi costruire uliveti per commerciare. 
+Non ci sono depositi minerari, quindi non puoi costruire miniere.
+Non puoi costruire fornaci,segherie,fucine,falegnamerie,caserme e torri di guardia.

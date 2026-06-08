@@ -1,0 +1,107 @@
+The Basal florans live a simple life. Usually they find 
+inspiration and guidance through nature, and often uses
+their monks to find the secrets that reside in the
+forests, lakes, deserts, plains and all kinds of environment.
+As such, they have developed a strong connection with nature.
+Basal florans can all work as villagers, albeit 50% as effective.
+Since floran buildings and units are created automatically
+and for free, floran villagers work less over time.
+Since they live a simple life, they have fewer buildings
+and technologies available them. As such, they lack
+all economy technologies. Since they never developed
+any kind of metal working, they don't have blacksmiths, but
+instead they have developed a strong religion. Many florans
+learn anything they can through their shamans, who also
+act as judges and teachers. As such, the Basal Lounge
+act as both a University and a Monastery. Their navy
+is lackluster, but can research upgrades for free.
+
+-Floran units and buildings regen when not in battle
+-Barrack can changes functionality according to terrain
+-Cannot build markets, blacksmiths, mills, lumber/mining camps, stables, gunpowder units
+-Villagers work -30/20/15/10% faster
+-The Basal Lounge replace Monastery and University
+
+
+Amborella
+Bonus: while in water, allies in 8 tiles regen 2 hp/min and attack 5% faster
+Cost 80 W 40 sec or 200 sec
+
+Nymphae
+Bonus: +30% movement speed in water
+Cost 70 W 35 sec or 175 sec
+
+Austrobailey
+Bonus: +1 range in water
+Cost 100 W 40 sec or 200 sec
+
+Canella
+Bonus: attack applies 30% slow down in water
+Cost 90 W 36 sec or 180 sec
+
+Winter Drimys
+Bonus: +3/2 armor in tundra, and attack applies -20% slow down
+Cost 70 W 35 sec or 175 sec
+
+Laura
+First strike while invisible deal triple damage
+Bonus: invisible in forest
+Cost 60 W 30 sec or 150 sec
+
+Canfora
+Bonus: target loses 1 atk while in water
+Cost 90 W 45 sec or 225 sec
+
+Magnolia
+Bonus: +2/2 armor while on open plains
+Cost 120 W 60 sec or 300 sec
+
+Pipera
+Bonus: +3 dmg vs archers and spearman while in forest
+Cost 80 W 32 sec or 160 sec
+
+Ascarina
+Bonus: +10% movement speed and +0/1 armor to allies in open plains (don't stack)
+Cost 70 W 35 sec or 175 sec
+
+Sarcandra
+Bonus: regen 4 hp/sec while in forest
+Cost 100 W 40 sec or 200 sec
+
+BUILDINGS
+
+Basal Grove
+train villagers and eco upgrades. Act as a drop off point for all resources
+and provide +10 population. Allies in 12 tiles regen 1 hp/min.
+Can build mini grove by extending a vine from this building.
+This vine will act as a drop off point.
+Cost 250 W 100 sec or 500 sec
+
+Shapeshifting barrack
+Changes shape and functionality based on environment
+Forest: train Laura, Ascarina and Sarcandra
+Plains: train Magnolia and Pipera
+Water: train Nymphaea, Amborella, Austrobailey, Canfora
+Desert: train Canella and Pipera
+Tundra: train Drymis
+
+SUMMARY
+--Economy--
+house
+farm
+Dock
+Basal Grove
+Basal Lounge
+Wonder
+--Military-
+Shapeshifting Barrack
+Watch tower
+outpost
+palisade/stone wall/gate
+Castle
+
+TECHS
+town watch, town patrol
+all monk techs
+ballistics, murder holes, chemistry
+carening, dry dock

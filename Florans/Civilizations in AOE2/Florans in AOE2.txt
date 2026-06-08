@@ -1,0 +1,1200 @@
+*******
+*SET 1*
+*******
+Pine Warrior
+Strong infantry with slow movement but good armor
+HP 50-60-70
+Atk 5-8-10 [14]
+Rof 2.0
+Armor 2/2-4/3-6/4 [9/8]
+Speed 0.8 [0.88]
+Cost 75 W 30-24-20 sec
+Up cost 150 F 100 W 40 sec
+Up cost 750 F 350 W 100 sec
+
+Araucaria warrior
+Slow infantry with good armor and anti building attack
+HP 70-90
+Atk 4-5 [9]
+vs buildings +20-28
+Rof 2.0
+Armor 2/8-4/10 [7/14]
+Speed 0.8 [0.88]
+Cost 50 W 25 G 20 sec
+Up cost 500 F 100 sec
+
+Cipressus Centaur
+Cavalry with great armor
+HP 60-80
+Atk 9-11 [15]
+Rof 1.8
+Armor 5/4-6/5 [9/9]
+Cavalry armor 12-18
+Speed 1.5
+Cost 75 W 75 G 30 sec
+Up cost 1300 W 700 G 200 sec
+
+Cycada Skirmisher
+Ranged unit that can ignore enemy armor
+HP 40-45
+Atk 4 [8]
+Rof 3.0
+Range 4 [7]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 80 W 20 sec
+Up cost 400 F 400 W 100 sec
+
+Ephedra Archer
+Ranged shooter with poison damage and great pierce armor
+HP 40-45
+Atk 4-5 [9]
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 0/5-1/6 [4/10]
+Speed 1.2 [1.32]
+Cost 45 W 45 G 24 sec
+Up cost 900 W 500 G 100 sec
+Poison: 2 dmg/sec for 5 seconds, stack 10 times
+
+Nymphae Warrior
+Anphibious infantry that can drag units underwater
+HP 30
+Atk 3 [7]
+Rof 1.6
+Armor 0/4 [3/8]
+Speed 1.3 [1.43]
+Cost 50 W 50 G 24 sec
+Special: instakill 60 sec
+
+Canella
+Light infantry armed with lances
+HP 40-50-55
+Atk 3-4-5 [9]
+vs cavalry +5-8-11
+vs camels +4-6-9
+vs elephants +5-8-11
+Rof 2.0
+Armor 0/1 [3/5]
+Speed 1.0 [1.1]
+Cost 30 F 20 W 20 sec 
+
+Winter Drymis
+Artic hunters who uses ice infused arrows to attack
+HP 45-50
+Atk 6-7 [11]
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 1/1 [4/5]
+Speed 0.9 [0.99]
+Cost 35 W 50 G 30 sec
+Up cost 450 W 350 G 50 sec
+Special: on hit, apply -25% speed for 8 seconds
+
+Laura
+Soldiers who improve their armor with other Laura soldiers nearby
+HP 50-60
+Atk 5-6 [10]
+Rof 2.0
+Armor 1/0 [9/9]
+Speed 0.9 [0.99]
+Cost 40 F 20 G 20 sec
+Up cost 600 F 400 G 50 sec
+Special: +1/1 armor for each 3 Laura soldiers in 3 tiles, max +5/5
+
+Avocado Guardian
+Infantry with slow movement but good armor.
+Allies who have less than 40 hp get +2/1 armor, doesn't stack
+HP 100 [130]
+Atk 4 [8]
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 0.8 [0.88]
+Cost 100 W 100 G 50 sec
+
+Magnolian Guard
+Infantry with good armor, but slow
+HP 90-120
+Atk 8-10 [14]
+vs buildings +10-13 [15]
+Rof 2.0
+Armor 5/4-7/6 [10/10]
+Speed 0.8 [0.88]
+Cost 80 W 40 G 30 sec
+Up cost 1000 W 800 G 100 sec
+
+Ascarina Scout
+Fast infantry good at scouting, perfect for distrupting the
+enemy economy or dealing with monks, archers and siege.
+HP 25-30-35
+Atk 5*-7-8 [12]
+vs monks +0-6-11
+vs archers +1-2-3
+vs siege +0-3-5
+Rof 1.8
+Armor 0/3-0/4-0/5 [3/9]
+los 4
+Speed 1.2-1.25-1.3 [1.43]
+Cost 45 W 25 G 50-40-32-28 sec
+Up cost 200 W 100 G 40 sec
+Up cost 600 W 400 G 120 sec
+*4 in dark age 
+
+Sarcandra Sage
+Support unit who can drain enemy health, and use it to heal allies
+HP 50
+Drain 150 hp/min
+Range 7
+Gauge 150
+Armor 0/1
+Speed 0.9
+Cost 100 G 50 sec
+
+Acora/Araca/Areca spearman
+Common mercenary spearman. Quick to train but frail
+HP 30-40
+Atk 2-3 [7]
+vs cavalry +8-10
+vs camels +6-8
+vs elephants +8-10
+Rof 2.0
+Armor 0/1 [3/5]
+Speed 1.1 [1.21]
+Cost 10 G 5 sec  0.5 population
+Up cost 500 F 400 W 50 sec
+Special: unit cannot be healed, disappear
+30 seconds, after taking damage
+
+Asparagus
+Common spearman that can burrow underground
+HP 40-50
+Atk 2-3 [7]
+vs cavalry +14-18
+vs camels +8-10
+Rof 1.8
+Armor 0/1 [3/5]
+Speed 1.0 [1.1]
+Cost 60 W 24 sec
+Up cost 300 F 300 W 50 sec
+
+Agavenger
+Strong swordman that can be resurrected with a fee
+HP 60-75
+Atk 10-13 [17]
+Rof 2.0-1.8
+Armor 2/3-3/3 [6/7]
+Speed 1.0 [1.1]
+Cost 50 F 30 G 30 sec
+Up cost 650 F 550 G 100 sec
+Special: can be resurrected with 100% HP for 40 G
+
+Dioscorea Tunneler
+Siege unit that can burrow underground
+HP 80-120
+Atk 8-12 [16]
+vs buildings +30-40
+Rof 2.0
+Armor 4/8-6/10
+Speed 0.8 [1.2 underground]
+Cost 80 W 40 G 30 sec
+Up cost 750 W 100 sec
+
+Lilium Warrior
+Infantry/monk hybrid, can attack and heal (same rate as a monk). 
+HP 55-65 [80]
+Atk 8-12 [16]
+vs cavalry +10-14
+vs camels +6-8
+vs elephants +10-14
+Rof 1.8
+Armor 2/2 [5/6]
+Speed 0.8 [1.0]
+Cost 50 F 35 G 40 sec
+Up cost 700 F 500 G 100 sec
+
+Pandan Spiral Blade
+Shock infantry with a charged pass-through attack
+HP 50-65
+Atk 8-10 [14]
+Rof 1.8-1.7
+Armor 3/3-4/3 [7/7]
+Speed 1.1 [1.21]
+Cost 50 F 35 G 30 sec
+Up cost 700 F 500 G 100 sec
+Special: sprint to a group of enemies, at least 3, within 3 tiles,
+dealing 4-5 damage to all of them in a straight line, CD 30 sec
+
+Petrosavia Scout
+Shock infantry good for scouting, can become invisible when standing still for 10 sec
+HP 25
+Atk 3 [7]
+Rof 2.0
+Armor 0/4 [3/8]
+los 4
+Speed 1.3 [1.43]
+Cost 45 F 25 W 20 sec
+
+Commelina blue runner
+Shock infantry with ranged multi hit projectile
+HP 60-75
+Atk 3-4 [8]
+Rof 2.0
+Range 6
+Armor 1/1 [4/5]
+Speed 1.3 [1.43]
+Cost 50 F 50 G 30 sec
+Up cost 800 F 600 G 100 sec
+Special: each hit deal full pass-through damage to 4-6 enemies behind target
+
+Wind Blade
+Swordman with fast attack rate, strong vs trash units and units
+with low melee armor, like siege units
+HP 45-60
+Atk 8-10 [14]
+vs siege +3
+vs archers +3
+Rof 1.5
+Armor 2/3-3/3 [6/7]
+Speed 1.2 [1.32]
+Cost 40 F 35 G 30 sec
+Up cost 700 F 500 G 100 sec
+
+Cypera Sentinel
+Strong skirmisher, particularly effective
+against horse archers
+HP 60-70
+Atk 3-4 [8]
+vs spear +5-6
+vs archers +7-10
+vs horse archers +3-4
+Rof 3.0
+Range 4 [7]
+Armor 0/4-1/4 [4/8]
+Speed 1.05 [1.15]
+Cost 50 F 70 W 40 sec
+Up cost 750 W 450 G 80 sec
+
+Zea warrior
+Infantry with an aura that boost the regen of florans
+in 10 tiles, granting +15 hp/min regen, doesn't stack
+HP 50-60
+Atk 7-9 [13]
+Rof 1.8
+Armor 2/2-3/3 [6/7]
+Speed 1.1 [1.21]
+Cost 50 F 50 G 20 sec
+
+Ginger Mage
+Fire mage with an impressive hurting effect
+
+Buxa
+Defensive spell caster
+
+Orchidantha
+Shadow assassin, has a powerful charge attack that ignores armor,
+but it is weak in prolonged battles
+
+Akon Archer
+Akon spearman
+Akon swordman
+Floran soldiers that can switch between weapons
+
+Euptelea
+Vine mancer, uses plants to slow down and poison the enemies
+
+Papaverum maceman
+Slow and tanky infantry, with a snare attack
+HP 60-70
+Atk 8-10 [14]
+Rof 2.0
+Armor 6/3-8/3 [11/7]
+Speed 0.8 [0.88]
+Cost 70 F 30 G 40 sec
+Up cost 1200 F 800 G 50 sec
+
+Actea
+Strong infantry, with good armor and attack
+HP 70-90
+Atk 12-18 [22]
+vs shock +2
+vs buildings +2-3 [5]
+Rof 2.0
+Armor 3/3-5/3 [8/7]
+Speed 1.0 [1.1]
+Cost 50 F 50 G 30 sec
+Up cost 800 F 500 G 50 sec
+
+Talictro Archer
+Foot archer that is good vs cavalry and archers, weak vs infantry
+HP 30-35
+Atk 4-5 [9]
+vs archers +3-4
+vs cavalry +2-3
+Rof 2.2 [1.9]
+Range 4 [7]
+Armor 0/1 [3/5]
+Speed 1.0 [1.1]
+Cost 50 W 40 G 30 sec
+
+*******
+*SET 2*
+*******
+Saxifraga
+Light infantry
+HP 45
+Atk 6 [10]
+vs archers +4
+Rof 2.0
+Armor 0/1
+Speed 1.15
+Cost 40 F 10 sec
+Up cost 150 F 75 G
+Regen 12 hp/min
+
+Hamamelida
+Shock infantry
+HP 70
+Atk 9
+Trample 0.5 tiles 50% damage
+Rof 2.2
+Armor 1/1
+Speed 1.1
+Cost 50 F 20 G 40 sec
+Up cost 200 F 100 G
+
+Vite
+Ranged infantry
+HP 55
+Atk 7
+vs cavalry +2
+Range 1.5
+Rof 1.8
+Armor 0/1
+Speed 1.2
+Cost 45 W 25 W
+Up cost 150 F 150 W
+
+Larrea
+Skirmisher from the desert, strong vs archers
+HP 35
+Atk 4 [8]
+vs archers +4
+vs horse archers +2
+Rof 3.0
+Range 5 [8]
+Armor 0/4 [3/8]
+Speed 1.3
+Cost 25 F 35 W 30 sec
+Up cost 100 F 100 W
+
+Guaiaco
+Heavy infantry
+HP 90
+Atk 10
+Rof 2.0
+Armor 2/3 [5/7]
+Speed 0.96
+Cost 60 F 40 G
+Up cost 250 F 150 G
+
+Ziziphus
+Infantry with thorns
+HP60
+Atk 7
+Rof 2.0
+Armor 1/1
+Speed 1.1
+Cost 45 F 20 G
+Up cost 150 F 75 G
+Thorns: 1 damage
+
+Cucurbitales grenadier
+HP 40
+Atk 20
+Blast 1.5
+Range 6
+Rof 3.5
+Armor 0/0
+Speed 0.9
+Cost 60 F 40 G
+Up cost 300 F 200 G
+
+Astragalus Spearman
+HP 55-60
+Atk 5-6 [10]
+vs cavalry +15-20
+vs elephants +15-20
+vs camels +12-18
+vs monks +10
+Rof 3.0
+Armor 0/1
+Speed 1.0
+Cost 35 F 25 W
+Up cost 150 F 100 W
+
+Ulex raider
+HP 80-100
+Atk 8-10 [14]
+Rof 1.9
+Armor 1/1
+Speed 1.3
+Cost 80 F
+Up cost 300 F 150 G
+
+Glicine healer
+HP 50
+Heal 150 hp/min
+Range 3 Armor 0/0 Speed 1.0
+Cost 50 F 30 G 40 sec
+
+Acacia Archer
+HP 50-60
+Atk 6-7 [11]
+Rof 2.0 [1.7]
+Range 4 [7]
+Armor 2/2 [5/6]
+Speed 0.9
+Cost 60 W 35 G 16 sec
+Up cost 900 W 700 G 40 sec
+Thorns: 3/4 damage
+
+Cercis red leaf shield
+HP 100-120
+Atk 6-8 [12]
+Rof 2.0
+Armor 3/4-4/5 [7/9]
+Speed 0.9 [0.99]
+Cost 60 F 40 G
+Up cost 300 F 200 G
+
+Tamarindus axe scout
+HP 60
+Atk 7
+vs buildings +4-5 [7]
+Rof 2.0
+Armor 0/2
+Speed 1.3
+Cost 60 F
+Up cost 150 F 75 G
+
+Labichea Sentinel
+HP 120-150
+Atk 12-14 [18]
+vs cavalry +5-7
+Rof 2.0
+Armor 2/3-3/3 [6/7]
+Speed 1.0 [1.1]
+Cost 70 F 50 G 30 sec
+Up cost 400 F 300 G
+
+Forest Guardian
+HP 150-180
+Atk 14-18 [22]
+vs buildings +10 [12]
+vs siege +5
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 1.0
+Cost 80 F 60 G 40 sec
+Up cost 600 F 400 G 40 sec
+
+Rose Swordman
+HP 60-70
+Atk 9-12 [16]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.15 [1.26]
+Cost 50 F 20 G 24 sec
+Up cost 400 F 20 G 40 sec
+Bleed: 1 hp/sec for 3 sec
+
+Hawthorn halberdier (halberdier replacement)
+HP 60
+Atk 6 [10]
+vs cavalry +26
+vs camels +22
+vs elephants +26
+vs buildings +10 [12]
+Rof 2.5
+Armor 0/1 [3/5]
+Speed 1.0 [1.1]
+
+Ulmus Guard
+HP 130
+Atk 10 [14]
+Rof 2.0
+Armor 3/4 [6/8]
+Speed 0.9 [0.99]
+Cost 70 F 40 G
+Up cost 350 F 250 G
+Can eat trees to recover HP, 30 W/min -> 60 HP/min
+
+Cielastral
+HP 55
+Atk 8  pierce
+Rof 2.5
+Range 7
+Armor 0/1
+Speed 1.0
+Cost 50 W 60 G 30 sec
+Up cost 300 F 300 G
+
+Ipericum Alchemist
+HP 45
+Atk 10
+Blast 1.5
+Rof 3.0
+Range 5
+Armor 0/0
+Speed 1.0
+Cost 40 F 50 G
+Up cost 250 F 200 G
+Attack inflict -1/1 armor for 10 sec
+
+Salix Guardian
+HP 100-120
+Atk 8-12 [16]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 55 F 25 G
+Up cost 200 F 150 G
+
+Passiflora Crusader
+HP 110-140
+Atk 12-15 [19]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.2 [1.32]
+Cost 70 F 50 G 30 sec
+Up cost 550 F 450 G 50 sec
+When hp<50%, gain +5 atk
+
+Carambola Stargazer
+HP 45
+Atk 7 (+5 projectiles, one damage each)
+Rof 2.0
+Range 7
+Armor 0/1
+Speed 1.1
+Cost 40 W 50 G
+Up cost 250 F 200 G
+
+Brassica
+HP 90-100
+Atk 8-10 [14]
+Rof 2.0
+Armor 2/1-4/2 [7/6]
+Speed 0.96 [1.05]
+Cost 60 F
+Up cost 200 F 100 G 40 sec
+
+Geranio Guard
+HP 75-90
+Atk 8-12 [16]
+Rof 2.0
+Armor 1/2 [7/9]
+Speed 1.1 [1.21]
+Cost 50 F 20 G
+Up cost 200 F 150 G
++1/1 armor for each 3 geranio in 5 tiles, max +3/3
+
+Malva soldier
+HP 55
+Atk 7
+Rof 2.0
+Armor 0/1
+Speed 1.3
+Cost 40 F
+
+Myrto soldier
+HP 60
+Atk 8
+vs spear +3
+vs archers +3
+Rof 2.0
+Armor 1/1
+Speed 1.15
+Cost 45 F 25 G
+Up cost 200 F 100 G
+
+Ruta Warrior
+HP 70
+Atk 9
+Rof 2.0
+Armor 1/1
+Speed 1.2
+Cost 50 F 20 G
+Up cost 200 F 150 G
+
+Aegle Spirit Walker
+HP 65
+Atk 10 (pierce)
+Rof 2.0
+Armor 0/2
+Speed 1.25
+Cost 40 F 40 G
+Up cost 500 F 300 G
+
+Guarana
+HP 80
+Atk 8
+Rof 1.8
+Armor 1/0
+Speed 1.3
+Cost 60 F
++25% speed and rof when hp<50%
+*******
+*SET 3*
+*******
+Aextoxicon Archer
+HP 40
+Atk 5
+Rof 2.5
+Range 6
+Armor 0/1
+Speed 1.1
+Cost 30 W 45 G
+Poison: 1 hp/sec for 3 sec, apply -15% slow for 3 sec
+
+Nyssa Camptoteca
+HP 100
+Atk 11 [15]
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 0.96 [1.05]
+Cost 60 F 30 G
+
+Rabarbarum
+HP 55
+Atk 6
+vs cavalry +8
+Rof 2.0
+Armor 0/1
+Speed 1.25
+Cost 35 F 25 W
+
+Amaranthus
+HP 80
+Atk 8
+Rof 2.0
+Armor 1/2
+Speed 1.1
+Cost 50 F 20 G
+Regen 15 hp/min
+
+Dragon fruit master
+HP 110
+Atk 13
+Rof 1.2
+Armor 2/1
+Speed 1.25
+Cost 70 F 60 G
+Up cost 500 F 300 G
+
+Cactus Rogue
+HP 55-70
+Atk 11-16 [20]
+Rof 2.0
+Armor 1/0 [4/4]
+Speed 1.3 [1.43]
+Cost 40 F 30 G
+Up cost 250 F 150 G
+Charge: +10 dmg, CD 30 sec
+
+Plumbago gladiator
+HP 90
+Atk 10
+vs infantry +3
+Rof 2.0
+Armor 2/2
+Speed 1.05
+Cost 60 F 40 G
+Up cost 400 F 200 G
+
+Bouganville Chief
+HP 120
+Atk 12
+Rof 2.0
+Armor 2/3
+Speed 1.1
+Cost 70 F 60 G
+allies in 8 tiles get +10% atk
+
+Camelia
+HP 65
+Atk 9
+Rof 1.8
+Armor 1/2
+Speed 1.25
+Cost 45 F 25 G
+
+Zapotec Zapota
+HP 50
+Atk 8
+Rof 2.5
+Range 5
+Armor 0/1
+Speed 1.05
+Cost 40 W 30 G
+
+Borago Warrior
+HP 75
+Atk 8
+vs archers +2
+Rof 2.0
+Armor 1/1
+Speed 1.15
+Cost 50 F
+
+Apocina soldier
+HP 60
+Atk 7
+Rof 2.0
+Armor 0/1
+Speed 1.2
+Cost 40 F
++10% speed for each kill, max +30%
+
+Apocina sage
+HP 50
+Atk 6
+Blast 2.5
+Rof 2.5
+Range 6
+Armor 1/2
+Speed 1.0
+Cost 50 F 50 G
+
+Acokantheran (replace Battering ram)
+HP 180-270
+Atk 2-3 [7]
+vs buildings +100-150 [180]
+Rof 3.0
+Armor 0/180
+Speed 0.6 
+Garrison 6 (+0.05 speed for each garrison)
+Up cost 1200 W 200 sec
+
+Gentiana Archer
+HP 40
+Atk 6 (+15% slow for 2 sec)
+Rof 2.0
+Range 6
+Armor 0/1
+Speed 1.1
+Cost 30 W 45 G
+
+Vinca
+HP 55
+Atk 8
+Rof 2.0
+Armor 0/1
+Speed 1.2
+Cost 40 F 20 G
+Poison: 1 hp/sec for 3 sec
+
+Salvia
+HP 70
+Atk 8
+Rof 2.0
+Armor 2/2
+Speed 1.15
+Cost 50 F
+
+Rosmarinus
+HP 60
+Atk 6
+vs cavalry +14
+Rof 3.0
+Armor 0/1
+Speed 1.1
+Cost 35 F 25 W
+
+Nepeta
+Hp 50
+Atk 7
+Rof 1.8
+Armor 2/0
+Speed 1.3
+Cost 40 F
+
+Origanum
+HP 65
+Atk 7
+vs cavalry +10
+vs spear +2
+vs archers +2
+Rof 3.0
+Armor 1/1
+Speed 1.1
+Cost 40 F 20 W
+
+Thimus
+HP 70
+Atk 8
+Rof 2.0
+Armor 1/1
+Speed 1.15
+Cost 45 F
+heal 5 hp per kill
+
+mentis
+HP 50
+Atk 6
+Rof 2.0
+Armor 0/0
+Speed 1.3
+Cost 35 F
+
+Lavender Defender
+HP 110
+Atk 6
+Rof 2.0
+Armor 3/3
+Speed 0.9
+Cost 60 F 40 G
+enemies in 5 tiles deal -10% damage
+
+Prunella
+HP 55
+Atk 5
+Rof 2.0
+Armor 0/1
+Speed 1.1
+Cost 40 F 30 G
+Heal 200 hp/min in 4 tiles
+
+Melissa
+HP 65
+Atk 9
+Rof 1.8
+Armor 1/1
+Speed 1.2
+Cost 45 F 20 G
+
+Lamia soldier
+HP 75
+Atk 13
+Rof 2.0
+Armor 1/1
+Speed 1.15
+Cost 50 F 20 G
+
+Coleus soldier
+HP 60
+Atk 8
+Rof 2.0
+Armor 1/1
+Speed 1.2
+Cost 40 F
+
+Verbena mage
+HP 45
+Atk 9 (pierce)
+Rof 2.5
+Range 6
+Armor 0/1
+Speed 1.0
+Cost 40 F 60 G
+
+Digitalis Spy
+Hp 45
+Atk 11
+Rof 2.0
+Armor 0/0
+Speed 1.3
+Cost 40 F 50 G
+Charge: +15 dmg, CD 30 sec
+
+Sinandra
+HP 70
+Atk 9
+vs archers +2
+Rof 2.0
+Armor 1/1
+Speed 1.2
+Cost 50 F
+
+Jasmine
+Hp 50
+Atk 5
+Rof 2.0
+Armor 0/1
+Speed 1.1
+Cost 40 F 30 G
+
+Ligustro hunter
+HP 55
+Atk 7
+Rof 2.0
+Range 5
+Armor 0/1
+Speed 1.2
+Cost 35 W 40 G
+
+Tebebuia
+HP 90
+Atk 10
+Rof 2.0
+Armor 2/3
+Speed 1.0
+Cost 60 F 40 G
+
+Olfo
+HP 95
+Atk 9
+Rof 2.0
+Armor 1/1
+Speed 1.3
+Cost 80 F
+Charge: +8 dmg, CD 30 sec
+
+Petunia
+HP 60
+Atk 8
+Rof 2.0
+Armor 0/1
+Speed 1.2
+Cost 40 F
+
+Belladonna
+Hp 45
+Atk 5
+Rof 2.0
+Range 6
+Armor 0/1
+Speed 1.0
+Cost 40 F 60 G
+Poison: 2 dmg/sec for 2 sec, apply -15% slow for 2 sec
+
+Mandragora
+HP 80
+Atk 10
+Rof 2.0
+Armor 1/1
+Speed 1.1
+Cost 50 F 30 G
+Stun enemies in 5 tiles for 4 sec, CD 20 sec, doesn't stack
+
+Withania
+HP 85
+Atk 11
+Rof 2.0
+Armor 1/2
+Speed 1.15
+Cost 60 F 40 G
+
+Solania priest
+HP 40 [55]
+Heal 450 hp/min
+Range 3
+Armor 0/0
+Speed 1.0
+Cost 50 F 50 G 50 sec
+
+Solania soldier
+HP 75
+Atk 12
+Rof 2.0
+Armor 1/1
+Speed 1.2
+Cost 50 F 20 G
+
+Sambuca skirmisher
+HP 30
+Atk 3
+vs cavalry +2
+Rof 2.0
+Range 4
+Armor 0/1
+Speed 1.15
+Cost 25 F 35 W
+
+Valeriana Healer
+HP 35
+Heal 30 hp/min Range 1
+Armor 0/0
+Speed 0.9
+Cost 40 F 25 G
+
+Anopterus spearman
+HP 60
+Atk 6
+vs cavalry +15
+Rof 3.0
+Armor 3/0
+Speed 0.9
+Cost 35 F 25 W
+
+Antriscus slinger
+HP 35
+Atk 4
+Rof 2.0
+Range 5
+Armor 0/0
+Speed 1.1
+Cost 30 F 40 W
+Poison: 3 dmg/sec for 3 sec
+
+Daucus Scout
+HP 45
+Atk 5
+Rof 2.0
+Armor 0/1
+los 8
+Speed 1.3
+Cost 60 F
+
+Angelica Archer
+HP 40
+Atk 5
+Rof 2.0
+Range 6
+Armor 0/0
+Speed 0.96
+Cost 40 W 40 G
+
+Petroselium soldier
+HP 55
+Atk 7
+Rof 2.0
+Armor 1/0
+Speed 1.0
+Cost 50 F 20 W
+Regen 30 hp/min
+
+Sedano Shielder
+HP 70
+Atk 5
+Rof 2.0
+Armor 2/2
+Speed 0.9
+Cost 50 F 40 W
+
+Fenkel skirmisher
+HP 40
+Atk 7
+vs archers +4
+vs spearman +4
+Rof 2.4
+Range 5
+Armor 0/0
+Speed 1.1
+Cost 40 F 35 W
+
+Azorella Guardian
+HP 90
+Atk 8
+Rof 2.0
+Armor 3/3
+Speed 0.9
+Cost 60 F 40 W
+
+Aralias Archer
+HP 45
+Atk 6
+vs cavalry +2
+Rof 2.0
+Range 6
+Armor 0/0
+Speed 0.96
+Cost 45 W 45 G
+Slow: -15%
+
+Chaetanthera Mage
+HP 35
+Atk 8  blast 0.5
+Rof 3.0
+Range 5
+Armor 0/0
+Speed 0.9
+Cost 50 W 60 G
+
+Gerbera Swordman
+HP 60
+Atk 8
+vs infantry +2
+Rof 2.0
+Armor 1/1
+Speed 1.0
+Cost 60 F 20 W
+
+Tehuasca
+HP 100
+Atk 10
+Rof 2.0
+Armor 1/1
+Speed 1.3
+Cost 80 F 40 G
+
+Hecastus Archer
+HP 55
+Atk 8
+vs buildings +4
+Rof 2.0
+Range 5
+Armor 0/0
+Speed 1.0
+Cost 50 F 40 W
+
+Cardus spearman
+HP 65
+Atk 9
+Rof 2.0
+Armor 1/1
+Speed 1.0
+Cost 55 F 25 W
+Thorns: 1 dmg
+
+Cicoria Skirmisher
+HP 40
+Atk 5
+Rof 2.0
+Range 5
+Armor 0/0
+Speed 1.2
+Cost 40 W 30 G
+
+Artemisia Warrior
+HP 50
+Atk 7
+Rof 2
+Range 6
+Armor 0/0
+Speed 0.96
+Cost 50 W 50 G
+
+Camomilla Monk
+HP 30
+Range 3 Armor 0/0
+Speed 0.9
+Cost 100 G
+
+Taraxacus Lion Warrior
+HP 100-150
+Atk 12-14 [18]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.09 [1.2]
+Cost 60 F 40 G
++5-6 atk when unit hp<50%
+
+Lobelia Lobber
+HP 35
+Atk 6
+Rof 2.0
+Range 5
+Armor 0/0
+Speed 0.9
+Cost 50 W 60 G
+Poison: 1 dmg/sec for 5 sec
+
+Sunflower Shaman
+HP 50
+Atk 7
+Rof 2.0
+Range 7
+Armor 0/0
+Speed 0.96
+Cost 50 W 50 G

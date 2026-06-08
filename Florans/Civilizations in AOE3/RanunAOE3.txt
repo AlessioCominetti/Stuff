@@ -1,0 +1,98 @@
+RANUN
+Aggresion, guerriglia, adaptability
+-Units gain XP when nearby allied buildings
+-Units can evolve with XP
+-Every three military units put together will generate
+a small illusion, (HP=total Hp of all three units/5, no atk)
+the illusion disappearonly when 20 tiles away from the group
+-Buildings change shape,size and functionality based on time,
+weather and environment they are placed.
+-Every time a Ranun unit dies, there's a 10% chance to spawn
+an illusion(HP 20%, no atk) which last for 5 sec
+
+Techs:
+Alkaloid infusion: melee units inflict poison
+Radial Bloom: buildings heal allies nearby
+Symbiotic Growth: units gain XP when nearby allied buildings
+Toxic Rebirth: defeated allies release a toxic cloud
+Alcaloids: Poison inflict +2 dmg/sec and lowers enemy's armor by 10%
+Lake's Mirror: illusions last 10 sec more
+Evolved Trance: Papaverum and Circastera gain +10% Atk and HP
+Tricolpato: groups of at least 3 soldiers gain +10% speed and +5% atk
+Trochus's Bark: Trochodendro +20% armor
+
+Buildings:
+Embassy: Train Trochodendro, Buxa and Bellendena
+Petal Grove: Market, research unique techs and upgrades
+Symbiosis Circle: Temple
+Toxic Garden: Train Hydrastes, Xanhorhiza, Berberis Thorn, Euptelea
+Poison Den: Train Akon units
+Sleep Temple: Train Actea, Circastera, Pulsatilla, Talictro,Papaverum maceman,Vinemancer
+
+City Cards:
+Akon Surge: ship 2 akon archers, 2 akon spearman, 2 akon swordman
+Gaia's Blessing: heal all units by 25% instantly
+Rooted defense: enable rooting for buildings, rooted buildings
+work 30% slower but have 20% more HP
+Symbiotic Expansion: Building are constructed 25% faster
+Euptela's Charge: summon 3 Euptelas
+Spring Bloom: +100% train speed for 10 sec to all light infantry units
+Deep Root: Akon units +20% HP
+Spirit Consolidation: turn 3 illusions in real warriors (with 50% HP)
+Living Bark: Trochodendro +10% armor
+Ematic Leaf: Belledena apply armor corrsion by 25% for 10 sec
+Weapon Switch: Spear,Bow,Sword Akon can switch weapons to turn into each other unit
+
+Units:
+Town Center/Poison Den
+--Akon spearman--light melee infantry
+HP 180 Atk 22 rof 1.5  Speed 4.5  Melee 20%
+Siege: 48 damage 6 range 3 rof
+1.5x vs light shock melee infantry/cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 80 F 40 G 1 pop 36 sec
+Switch weapon: turn this unit into an akon swordman
+--Akon Swordman--light melee infantry
+HP 200 Atk 20 rof 1.5 speed 4.5  Melee 20%
+Siege: 48 damage 6 range 3 rof
+2x vs heavy infantry 1.5x vs cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 80 F 40 G 1 pop 36 sec
+Switch weapon: turn this unit into an akon spearman
+--Akon archer--light ranged infantry
+HP 110 Atk 12-6 rof 3-1.5 Range 22 Speed 4.8  Ranged 20%
+Siege: 12 damage 6 range 3 rof
+2.25x vs light infantry 1.5x vs cavalry
+Poison 4 dmg/sec for 5 seconds
+Cost: 60 F 40 G 1 pop 12 sec
+
+Toxic Garden
+--Berberis's Thorn--light melee infantry
+HP 140 Atk 20 rof 1.2 Speed 5  Melee 10% Ranged 10%
+1.5x vs ranged infantry
+Cost: 70 F 30 G 1 pop 15 sec
+--Euptelea--light melee infantry
+HP 130 Atk 20 rof 2 Speed 5.5  Melee 15% Ranged 15%
+2x vs melee infantry 1.5x vs cavalry
+Cost: 75 F 50 G 1 pop 15 sec
+Disarm: first strike apply -50% fire rate to target
+for 10 seconds, recharge 30 seconds
+
+Sleep Temple
+--Papaverum Maceman--heavy melee infantry
+HP 250 Atk 36 rof 3  Speed 3.5  Melee 30% Ranged 30%
+2x vs heavy infantry 1.5x vs artillery
+Siege: 48 damage 6 range 3 rof
+Cost: 100 F 60 G 2 pop 20 sec
+Trance: +25% defense and attack, -20% movement speed
+--Vine mancer--light shock infantry
+HP 160 Atk 24 rof 1.5 speed 6.25  Trample 50% Melee 10% Ranged 10%
+2.25x vs ranged infantry 1.5x vs monks 
+Cost: 90 F 80 G 2 pop 20 sec
+--Circastera Leaf Mystic--light monk infantry
+HP 200 Atk 28(true) rof 2 range 18 speed 4  Ranged 30%
+2.5x vs heavy infantry 2x vs cavalry
+Cost: 120 F 100 G 2 pop 24 sec
+Illusion: make 1 illusion every 20 seconds.
+Illusions have 20% of the selected unit's max HP,
+can attack but deal no damage

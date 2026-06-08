@@ -1,0 +1,205 @@
+Bonuses:
+The floran of Gymno are so in touch with nature that
+refuse to consume human food. So, they don't gather
+from food. They don't farm, hunt, fish. They can gather
+W from berry bushes. Animals who die in los of Gymno
+buildings become fertilizer, who is then used to
+grow trees back into shape. All Gymno units and
+buildings recover their hp over time. Gymno
+palisades can grow into trees over 300 seconds.
+(gain +1 W every 3 seconds). Since they don't
+need F, all upgrades and units cost W instead of F.
+No need to build farms, mills or fishing ships.
+Due to their isolationism, they didn't develop
+any sort of trading, since they get most resources
+for themselves, essentially, they have become
+an autarchy. So, markets and trading units are
+unavailable for this civ. They also don't need
+houses, since they were nomadic people and
+they often clump up together to generate enough
+heat to survive the winter. Moreover, florans
+aren't so needy for houses in generals as they
+are seen as an emblem or fortune. So, they start
+with no houses but with -150 W.
+
+-All units and buildings recover hp when not in battle. 12 hp/min for units, 150 hp/min for buildings
+-Doesn't need houses, start with -200 F
+-Doesn't gather F at all. Gather W from berries. All units and upgrades cost W instead of F.
+-Cannot build farms, mills, fishing ships, trade units, markets, stables, gunpowder units
+-buildings and units are created automatically for free, but creation time can be speed up with resources.
+-Palisades grow stronger overtime, eventually become trees
+-Settlement replace lumber and mining camps
+
+UNITS
+Gymno villager
+HP 30
+Atk 2
+Rof 2.0
+Armor 0/3 [3/7]
+Speed 0.8
+Bonus: +10% movement speed in a forest
+Cost 50 W 25 sec or 100 sec
+
+Pine centaur:
+mobile floran unit, effective vs archers
+HP 100-120
+Atk 9-11 [15]
+vs archers +3-5
+Trampe radius 0.5 damage 50%
+Rof 2.0
+Armor 4/4 [7/8]
+Speed 1.25 [1.5]
+Bonus: +20% speed in forest
+Cost 120 W 30 sec or 150 sec
+
+Pine warrior:
+sturdy spearman, effective vs archers and cavalry
+HP 60-70
+Atk 3-4 [8]
+vs cavalry +20-30
+vs elephants +18-28
+vs camels +16-22
+Rof 3.0
+Armor 2/2 [6/7]
+Speed 0.9
+Bonus: +1/1 armor in forest
+Cost 60 W 20 sec or 100 sec
+
+Araucaria warrior:
+infantry with portable siege ram.
+Effective vs buildings and archers.
+HP 90-120
+Atk 5-6 [10]
+vs buildings +60-80
+Rof 2.0
+Armor 0/30
+Speed 0.8
+Bonus: +2/0 armor and +20% HP in forest
+Cost 120 W 30 sec or 180 sec
+
+Cupressus:
+Slow moving durable infantry
+HP 45-60
+Atk 4-5 [9]
+Rof 2.4
+Armor 3/4 [9/11]
+Speed 0.8
+Bonus: +3/3 armor in forest
+Cost 60 W 30 sec or 150 sec
+
+Gingko Swordmaster:
+expensive blademaster who can cut multiple
+foes at the same time.
+HP 50-60
+Atk 14-18 [22]
+Rof 1.5
+Armor 0/1 [3/5]
+Speed 1.3
+Bonus: poison damage when in forest and +10% movement speed
+Cost 100 W 40 sec or 200 sec
+
+Cycada javeliner:
+skirmisher who fires armor piercing javelins
+but has low range and armor
+HP 35-40
+Atk 5-6 [10]
+Rof 3.0
+Range 3 [6]
+Armor 0/2 [3/6]
+Speed 1.0
+Bonus: +3-4 dmg to cavalry when in forest
+Cost 80 W 32 sec or 160 sec
+
+Zamia spearman:
+fast anti cavalry infantry
+HP 50-55
+Atk 2-3 [7]
+vs cavalry +18-24
+vs elephants +16-22
+vs camels 12-15
+Rof 2.5
+Armor 1/2 [4/6]
+Speed 1.1
+Bonus: +10-15 dmg vs cavalry in forest
+Cost 60 W 30 sec or 150 sec
+
+Gnetu Sailor:
+boost ship movement speed by 5% for each
+Gnetu sailor garrisoned(max +20%)
+Also can repair ships for free, but
+not when in battle, by 30 hp/min (max +120 hp/min)
+HP 30
+Armor 0/2
+Speed 1.1
+Cost 50 W 20 sec or 100 sec
+
+Welwi assassin:
+invislbe while stading still
+HP 30
+Atk 22 [26]
+Rof 1.8
+Armor 0/2 [3/6]
+Speed 0.6
+Cost 60 W 30 sec or 150 sec
+
+Ephedra archer:
+archer who uses poison tipped arrows
+HP 35-40
+Atk 4-5 [9]
+Rof 2.0 [1.7]
+Range 4 [7]
+Armor 1/2 [4/6]
+Speed 1.3
+Bonus: +15% attack speed in forest
+Cost 80 W 32 sec or 160 sec
+
+BUILDINGS
+
+GymnoSpyre:
+act as a town center, spawning 1 villager for free
+every 100 seconds, or one for 50 W and 25 seconds
+Allies in 12 tiles regen 1 hp/min, can stack
+Cost 400 W 200 sec or 1000 sec
+
+Resin Barrack
+Train Pine warriors, Pine centaur,  Cupressus ,Zamia spearman, Araucaria warrior
+When built in a forest: units trained here get +1/1 armor
+
+Root Barrack
+Train Ephedra archer, Cycada skirmisher, Gnetu, Welvi, Ginkgo
+When built in a forest: allies in 12 tiles get +1 range
+for ranged attacks
+
+Root Forge
+develop blacksmith upgrades for free, can be sped up with resources.
+Can sell W to obtain G at a steady rate.
+
+Cone Temple
+Replace both Monastery and University
+
+SUMMARY
+--Civilians--
+Settlement
+Dock
+Root Forge
+Cone Temple
+Wonder
+GymnoSpyre
+--Military--
+Watch tower
+outpost
+palisade wall/gate
+stone wall/gate
+Castle
+Resin Barrack
+Root Barrack
+
+TECHS
+town watch, town patrol, masonry, architecture, hoardings
+wheelbarrow, hand cart
+wood I-II-III, stone I-II, gold I-II
+all monk techs
+forging, iron casting, blast furnace
+cotton armor, linen armor, wood armor
+fletching, bodkin arrow, bracer, ballistics, murder holes, chemistry
+carening, dry dock, clinker, carvel hull

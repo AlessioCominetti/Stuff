@@ -1,0 +1,707 @@
+GALLIC WAR
+-Gauls
+Swordman
+HP 300 AtkT 6-16 (20) Def 2/12 (6/16) Speed 80 Cost 60 G 1 pop 4 seconds
+Archer 
+HP 200 AtkP 4-16 (20) Def 0/0 (4/4) Speed 80 Range 500 Cost 40 G 1 pop 4 seconds
+Axeman:  endless assault
+HP 300 AtkT 8-44 (48) Def 26/6 (30/10) Speed 60 Cost 160 G 1 pop 6 seconds
+Spearman:  defensive stance
+HP 300 AtkP 14-28 (32) Def 6/26 (10/30) Speed 80 Cost 120 G 1 pop 6 seconds
+Horseman:  charge
+HP 480 (600) AtkT 8-28 (32) Def 8/0 (12/4) Speed 160 Cost 180 G 1 pop 10 seconds
+Woman warrior:  mortal strike 30%
+HP 360 AtkT 10-44 (48) Def 16/12 (20/16) Speed 80 Cost 240 G 1 pop 10 seconds
+Norman chief:  drain 50%
+HP 1000 AtkT 30-120 Def 6/16 Speed 80 Cost 1000 G 30 seconds  max 4
++5 HP per lvl
+Druid
+HP 200 Atk no Def 0/0 Speed 50 cost 200 G 30 seconds
+Hero
+HP 1000 AtkT 10-40 Def 20/20 Speed 120 cost 800 G 30 seconds
++20 HP per lvl
+DLC units
+Skirmisher: defensive stance
+HP 300 AtkP 8-28 (32) Def 6/26 (10/30) Speed 80 Range 300 Cost 180 G 1 pop 10 seconds
+Mounted skirmisher: charge
+HP 240 (300) AtkP 6-26 (30) Def 8/12 (12/16) Speed 180 Range 300 Cost 240 G 1 pop 12 seconds
+Gaesotas: charge
+HP 600 AtkT 20-50 Def 0/8 (4/12) Speed 80 Cost 400 G 1 pop 12 seconds
+Slinger
+HP 240 AtkP 50-50 (54) Def 2/12 (6/16) Speed 80 Range 500 Cost 250 G 1 pop 12 seconds
+Spear miltia: defensive stance
+HP 240 AtkP 8-16 (20) Def 12/4 (16/8) Speed 80 Cost 60 G 1 pop 4 seconds
+Dimacaereus: charge
+HP 160 Atk 8-28 (32) Def 14/0 (18/4) Speed 80 Cost 80 G 1 pop 8 seconds
+Valkyre: charge
+HP 400 AtkT 8-28 (32) Def 12/12 (16/16) Speed 160 Cost 200 G 3 seconds max 10
++5 HP per lvl
+
+Upgrades
+BARRACK 7+6
+Fast equipment I,II 500-1000 G 60 seconds:
+double creation speed of units
+
+ARENA 6+1
+Gladiator games 2000 G: enable norman chief and valkyres
+training I,II,III 1000-1500-2000 G:enable training of units to lvl 4-8-12
+Battle tactics 2000 G: double xp gained
+Thor's altar 2000 G: train stronger norman chieves and valkyres
+
+BLACKSMITH 4+2
+Produce axes 1200 G: enable axeman
+Produce spears 1200 G: enable spearman and gaesotas
+Produce horseshoe 1200 G: enable horseman
+Produce woman armor 3000 G: enable woman warriors
+DLC
+Produce javelins 1000 G: enable skirmisher and mounted skirmshers
+Produce slings 1500 G: enable slingers
+
+TEMPLE 6
+Druid chamber 1000 G: enable druids to learn from more experienced soldiers
+Sacrifice 1500 G:
+invisibility 250 G:
+Animal control 250 G:
+vampire spirit 1600 G:
+
+TAVERN 6+1
+Buy 10 pop 400 F:
+trade ruotes 3000 G: give an amulet to all barrack units, +4 max atk, +4/4 Def
+lend 4000 G with 10% interest
+Summon 5 paesants
+food tax 2000 G:
++25% horseman HP 1000 G:
+DLC
+build new houses 1000 G: +20 max population 
+
+Money saved from previous version 750 G (DLC -2750 G)
+
+-Romans
+Hastatus:  defensive stance
+HP 250 AtkP 8-20 Def 12/12 Speed 80 (112) Cost 100 G 1 pop 5 seconds
+Can upgrade to princep and then triario, by leveling up to lvl 15.
+Gain +50 max HP, +(6-8) atk, +8/8 Def, Upgrading reset lvl
+Can optionally train Princeps and Triarii at Barracks for 150/200 G each
+Archer
+HP 225 AtkP 12-30 Def 8/0 Speed 80 (112) Range 500 (600) Cost 100 G 1 pop 5 seconds
+Gladiator
+HP 360 AtkP 30-30 Def 0/18 Speed 80 (112) Cost 200 G 1 pop 8 seconds
+Equite: charge
+HP 400 AtkT 6-18 Def 0/8 Speed 180 Cost 120 G 1 pop 10 seconds
+Pretorian: thorns 100%
+HP 600 AtkP 20-40 Def 12/12 Speed 60 (84) Cost 400 G 1 pop 16 seconds
+Liberatus: dispersed damage 50%
+HP 500 AtkT 20-50 Def 0/10 Speed 80 (112) cost 200 G 3 seconds max 20
++5 HP per lvl
+Priest
+HP 200 Atk no Def 0/0 Speed 50 (70) cost 200 G 30 seconds
+Hero
+HP 1000 AtkT 10-40 Def 20/20 Speed 120 cost 800 G 30 seconds
++20 HP per lvl
+DLC
+velite: defensive stance
+HP 250 AtkP 6-28 Def 12/12 Speed 80 (112) Range 300 Cost 150 G 1 pop 10 seconds
+Secutor: defensive stance
+HP 800 AtkT 20-50 Def 20/20 Speed 60 (84) Cost 400 G 3 seconds max 20
++5 HP per lvl
+Slinger
+HP 240 AtkP 50-50 Def 2/12 Speed 80 (112) Range 500 Cost 250 G 1 pop 12 seconds
+Tribune
+HP 600 AtkT 20-40 Def 20/20 Speed 60 (84) Cost 300 G 1 pop 12 seconds
+Mercenaries
+Celtic spear militia: 70 G
+Dimacaereus: 100 G
+Celtic Horseman: 180 G
+Celtic Axeman: 140 G
+
+Upgrades
+BARRACK 8+2
+Fast equipment I,II 500-1000 G 60 seconds:
+double creation speed of units
+
+ARENA 5+2
+Gladiator games 2000 G: unlock gladiators at the barracks ad liberati/secutori at arena
+training I,II,III 1000-1500-2000 G:enable training of units to lvl 4-8-12
+liberati corporation 1600 G: train stronger liberati
+DLC
+Auxilia officiers 2000 G: enable training of mercenaries at Auxilia barracks
+forced march 2000 G: infantry units move 40% faster
+
+BLACKSMITH 4+3
+Produce archer equipment 400 G: unlock archers
+Produce horseshoes 1200 G: unlock qeuites
+Produce elite armor 3000 G: unlock pretorians and tribune
+Produce lances 1000 G: unlock principes and triari
+DLC
+Produce javelins 600 G: unlock velites
+Produce slings 1500 G: enable slingers
+Produce quality bows 2000 G: archers +20% range
+
+TEMPLE 3+1
+Jupiter altar 2000 G: unlock thunder
+Poison cloud 2000 G: unlock plague could
+DLC
+God's gift 1800 G: new units get a god's gift, which heal
+holder fully after defeating a foe, then the object dissipates
+
+TAVERN 5+4
+Buy 10 pop: 800 F
+Buy 800 F for 500 G
+Invest 4000 G, with a return of 6000 G in 5 minutes
+summon 5 paesants
+Buy map for 200 G
+DLC
+explore 1000 G: permanently remove fog of war from a specified area
+Buy 10 pop: 400 G
+Sell 50 pop: 2000 G
+Rations 2000 G: all units consume food twice as less
+
+Money saved from previous version 10300 G (DLC -2600 G)
+
+Other units
+Teuton rider
+HP 400 AtkT 10-40 Def 10/10 Speed 160 Cost 250 G
+Teuton Archer
+HP 400 AtkP 5-20 Def 10/10 Speed 160 Range 500 Cost 250 G
+Ghoul
+HP 600 Atk no Def 0/0 Speed 60
+Paesant
+HP 100 Atk no Def 0/0 Speed 50
+DLC
+Teuton Horseman: charge
+HP 400 AtkT 10-40 Def 10/10 Speed 160 Cost 300 G
+Teuton Shaman
+HP 200 Atk no Def 10/10 Speed 160 Cost 300 G
+
+GRANDI BATTAGLIE DI ROMA
+-BRITONS-
+Swordman
+HP 180 Atk 14 (18) Def 6 (10) Speed 80 Cost 60 G 1 pop 4 seconds Special attack
+Archer
+HP 180 Atk 10 (14) Def 0 (4) Speed 80 Range 500 Cost 60 G 1 pop 2 seconds Triple strike
+Caledonian warrior
+HP 320 Atk 22 (26) Def 18 (22) Speed 80 Cost 160 G 1 pop 8 seconds Special defense, reanimation
+Spearman
+HP 200 Atk 22 (26) Def 16 (20) Speed 80 Cost 160 G 1 pop 8 seconds Deflection, pierce
+Javelin warrior
+HP 240 Atk 24 (28) Def 0 (4) Speed 80 Range 300 Cost 160 G 1 pop 10 seconds Mortal strike
+Highlander
+HP 500 Atk 50 (54) Def 6 (10) Speed 80 Cost 400 G 1 pop 12 seconds Deflection
+Viking lord
+HP 1200 Atk 120 (124) Def 6 (10) Speed 80 Cost 1000 G 30 seconds max 4 Vampire strike, Fury, Freedom
+Druid
+HP 120 Atk no Def 0 Speed 60 Cost 200 G 20 seconds  Healing, Invisibility
+Hero
+HP 1200 Atk 50 Def 18 Speed 120 Range 500 Cost 1000 G 30 seconds
+Gestas, Charisma, Dodge, Majestry, Recover
+
+Upgrades
+Produce caledonian shields 1200 G:
+Produce spears 1200 G:
+Produce javelins 1200 G:
+Produce swords 2000 G:
+Improve defenses 1000-2000 G:
+
+Gladiator games 3000 G: new units start at lvl 4
+Nobility emblem 3000 G: units who reach lvl 12 get +4 atk/def
+Nobility 3000 G: units who reach lvl 8 become lvl 12
+Thor's altar 2000 G: train better viking lords (max lvl 30)
+
+Buy 10 pop for 600 F
+Divine luck 2000 G: 20% to resurrect
+Divine Dexterity 2000 G: 4% to instakill if unit's lvl is greater than foe
+Divine Blessing 2000 G: 50% to reach targets lvl upon kill
+Tributes
+
+Druid's chamber 1000 G: enable druids to gather xp from more expert allies
+Sacrifice 1500 G:
+Vampire spirit 1500 G:
+Animal control 800 G:
+
+-GAULS-
+Swordman
+HP 200 Atk 12 (16) Def 6 (10) Speed 80 Cost 60 G 1 pop 4 seconds pierce
+Archer
+HP 180 Atk 14 (18) Def 0 (4) Speed 80 Range 500 Cost 60 G 1 pop 4 seconds special attack
+Axeman
+HP 300 Atk 40 (44) Def 12 (16) Speed 60 Cost 180 G 1 pop 8 seconds expert attack, fury
+Spearman
+HP 300 Atk 20 (24) Def 16 (20) Speed 80 Cost 160 G 1 pop 8 seconds Deflection
+Horseman
+HP 400 Atk 28 (32) Def 8 (12) Speed 160 Cost 160 G 1 pop 10 seconds Charge
+Woman Warrior
+HP 320 Atk 46 (50) Def 16 (20) Speed 80 Cost 300 G 1 pop 16 seconds Mortal Strike, Revenge
+Fand warrior
+HP 1200 Atk 80 (84) Def 16 (20) Speed 80 Cost 1000 G 30 seconds max 4 Triumph, Freedom
+Druid
+HP 120 Atk no Def 0 Speed 60 Cost 200 G 20 seconds  Healing, Invisibility
+Hero
+HP 1000 Atk 50 Def 12 Speed 120 Cost 1000 G 30 seconds
+Hero atk, Hero hp, prodigy, majestry, call defense
+
+Upgrades
+Produce axes 1200 G
+Produce spears 1200 G
+produce horseshoes 1200 G
+Produce woman armor 3000 G
+
+Gladiator games 3000 G: new units start at lvl 4
+Training I,II,III 1000-1500-2000 G:train units to lvl 4-8-12
+Veteran fands I,II,III 800-1000-12000 G: new fand warriors have lvl 12-18-24
+Battle tactics 3000 G: double xp gained
+Epic poems 2500 G: when an ally dies, give 1 xp to closest ally, and restore his mp fully
+
+Buy 10 pop for 600 F
+Food tribute 2000 G
+lend 4000 G with 10% interest
+Trade routes 3000 G: new warriors have amulet, +4 atk/def
+Tributes
+
+Druid's chamber 1000 G: enable druids to gather xp from more expert allies
+Sacrifice 1500 G:
+Vampire spirit 1500 G:
+Animal control 800 G:
+
+-GERMANS-
+Swordman
+HP 200 Atk 18 Def 4 Speed 80 Cost 80 F 1 pop 4 seconds Special Attack, vitality
+Archer
+HP 200 Atk 12 Def 0 Speed 80 Range 500 Cost 120 F 1 pop 4 seconds Special Attack, vitality
+Axeman
+HP 300 Atk 30 Def 0 Speed 60 Cost 240 F 1 pop 8 seconds Triple strike, exhaustion
+Huntress
+HP 240 Atk 40 Def 0 Speed 60 Range 300 Cost 400 F 1 pop 10 seconds Pierce, mimetism
+Teuton rider
+HP 400 Atk 30 Def 10 Speed 160 Cost 400 F 1 pop 12 seconds Special attack, vitality
+Teuton Archer
+HP 400 Atk 12 Def 10 Speed 160 Range 520 Cost 400 F 1 pop 12 seconds Special attack, vitality
+Maceman
+HP 600 Atk 50 Def 0 Speed 80 Cost 500 F 1 pop 12 seconds Execution
+Valkyre
+HP 400 Atk 30 Def 12 Speed 160 cost 200 G 3 seconds max 10 Resileince, Lethal strike
+Enchantress
+HP 120 Atk no Def 8 Speed 50 Cost 200 G 10 seconds  Malediction
+Hero
+HP 1300 Atk 70 Def 10 Speed 120 Cost 1000 G 30 seconds
+Gesta, Call defense, forced march, dodge, eufory
+
+Upgrades
+produce axes 400 G
+produce javelins 600 G
+produce horseshoes 600 G
+produce maces 600 G
+
+instruction 2000 G
+focus strike 2000 G
+valkyre legends 1200 G
+teuton master 100 G
+
+buy 10 pop for 600 F
+buy 800 F for 500 G
+food tribute 2000 G
+benediction 1600 G
+tribute
+
+Druid's chamber 1000 G: enable druids to gather xp from more expert allies
+Sacrifice 1500 G:
+Animal control 800 G:
+
+-IBERIANS-
+Militian
+HP 180 Atk 14 (20) Def 6 Speed 80 cost 50 G 1 pop 2 seconds Special defense
+Archer
+HP 180 Atk 18 (24) Def 0 Speed 80 Range 500 cost 60 G 1 pop 4 seconds sfinimento
+Slinger
+HP 200 Atk 40 (46) Def 0 Speed 80 Range 500 Cost 200 G 1 pop 10 seconds Execution, resilience
+Spearman
+HP 200 Atk 18 (24) Def 22 Speed 80 Cost 140 G 1 pop 8 seconds Deflection, resilience
+Horseman
+HP 240 Atk 34 (40) Def 4 Speed 160 Cost 140 G 1 pop 10 seconds Charge
+Elite guard
+HP 420 Atk 30 (36) Def 12 Speed 80 Cost 300 G 1 pop 12 seconds Obstination
+Guerrigliero
+HP 400 Atk 50 (56) Def 14 Speed 80 Cost 200 G 30 seconds max 20 Expert strike, mimetism, freedom
+Priestess
+HP 120 Atk no Def 4 Speed 50 cost 200 G 10 seconds  Teach, vitality
+Hero
+HP 1000 Atk 40 Def 12 Speed 120 cost 800 G 30 seconds
+Hero hp, superior def, peace, healing, eufory
+
+Upgrades
+Produce slings 1500 G
+Produce spears 1200 G
+Produce horseshoe 1200 G
+produce battle axes 3000 G
+
+Galdiator games 2000 G:
+wisdom I,II 2000 G:
+nobility 3000 G:
+clan of the brigands 1000 G:
+
+buy 10 population for 600 F
+Sell 1000 F for 500 G
+increase pop cap by 20  1000 G:
+call 50 militians for 1000 G:
+tribute
+
+Ainee rituals 2000 G: priestess can teach to lvl 8
+sacrifice 1500 G:
+mantle of mercy 2000 G:
+
+-ROMANS-
+Antica
+Hastatus
+HP 200 (240) Atk 16 (19-22) Def 12 (14) Speed 80 Cost 90 G 1 pop 4 seconds Special Defense, vitality
+Princep
+HP 300 (360) Atk 22 (26-28) Def 18 (22) Speed 80 Cost 200 G 1 pop 8 seconds Special Attack, vitality
+Triario
+HP 360 (432) Atk 24 (29-30) Def 18 (22) Speed 80 Cost 240 G 1 pop 10 seconds Triple strike, deflection
+Archer
+HP 150 (180) Atk 20 (24-26) Def 0 Speed 80 Range 500 Cost 80 G 1 pop 4 seconds Special Defense
+Velite
+HP 200 (240) Atk 18 (21-24) Def 10 (12) Speed 80 Range 300 Cost 120 G 1 pop 6 seconds Expert attack
+Equite
+HP 250 (300) Atk 20 (24-26) Def 12 (14) Speed 180 Cost 140 G 1 pop 10 seconds Fury, Special defense
+Extraordinari
+HP 400 Atk 30 (36) Def 18 Speed 80 Cost 200 G 3 seconds max 20 Triple strike, Deflection, Freedom
+Hero
+HP 1200 Atk 40 Def 12 Speed 120 cost 1000 G 30 seconds
+Superior atk, superior def, forced march, prestigie, charisma
+Priest
+HP 120 Atk no def 0 speed 50 cost 200 G 10 seconds  Healing, vitality
+
+Repubblican
+Hastatus,princep,triario,velites,archer,equites,priest
+Tribune
+HP 600 (720) Atk 40 (48) Def 16 (19) Speed 60 cost 300 G 1 pop 12 seconds pierce, containment
+War chariot
+HP 500 (600) Atk 30 (36) Def 10 (12) Speed 120 Range 500 Cost 400 G 1 pop 10 seconds, max 10
+triple strike, fury, freedom
+Hero 
+HP 1000 Atk 40 Def 16 Speed 120 cost 1200 G 30 seconds
+Superior atk, superior def, forced march, prestigie, hero hp
+
+Imperial
+priest
+Legionaire
+HP 240 Atk 20 Def 12 Speed 60 cost 120 G 1 pop 4 seconds Deflection
+Composite archer
+HP 180 Atk 24 Def 0 Speed 80 Range 500 Cost 100 G 1 pop 5 seconds Special Defense
+Gladiator
+HP 300 Atk 30 Def 12 Speed 80 Cost 200 G 1 pop 6 seconds Execution
+Cataphract
+HP 400 Atk 20 Def 12 Speed 140 Cost 200 G 1 pop 10 seconds Expert attack
+Pretorian
+HP 600 Atk 40 Def 16 Speed 60 Cost 400 G 1 pop 12 seconds, thorns, reanimation
+Liberatus
+HP 500 Atk 40 Def 12 Speed 80 Cost 200 G 3 seconds max 20 regeneration, instruction, freedom
+Hero 
+HP 1300 Atk 30 Def 12 Speed 120 cost 600 G 30 seconds
+Superior atk, superior def, forced march, prestigie, erudition
+
+Upgrades
+Produce bows 400 G:
+produce javelins 600 G:
+produce lances 1000 G:
+produce horseshoes 600 G:
+produce elegant armor 3000 G:
+produce heavy armor 3000 G:
+improve defenses 1000-2000 G:
+
+Gladiator games 2000 G: unlocks gladiators
+training I,II,III 1000-1500-2000 G:
+-Ancient-
+extraordinari corporation 1600 G:
+veteran corporation 3000 G:
+-Repubblican-
+Health emblem 2000 G:
+Defense emblem 2000 G:
+offensive emblem 2000 G:
+-Imperial-
+liberati corporation 1600 G:
+
+Buy 10 pop for 800 F
+Buy 800 F for 500 G
+invest 4000 G with 50% return over 5 minutes
+Buy map for 200 G
+tributes
+
+Jupiter altar 1000 G:
+Jupiter wrath 2000 G:
+Plague 2000 G:
+God's gift 2000 G:
+
+-GREEKS-
+Peltast
+HP 200 (320) Atk 20 (25) Def 6 Speed 80 Range 300 Cost 100 G 1 pop 4 seconds pierce
+Toxotes
+HP 160 (276) Atk 20 (25) Def 0 Speed 80 Range 500 Cost 60 G 1 pop 4 seconds sfinimento
+Hoplite
+HP 300 (430) Atk 20 (25) Def 18 Speed 70 Cost 160 G 1 pop 8 seconds deflection
+Hetairoi
+HP 300 (430) Atk 20 (25) Def 14 Speed 160 Cost 180 G 1 pop 10 seconds Expert attack
+Hipapist
+HP 400 (540) Atk 40 (45) Def 18 Speed 80 Cost 300 G 1 pop 12 seconds Special defense, reanimation
+War Chariot
+HP 800 (980) Atk 80 (85) Def 30 Speed 120 Cost 500 G 2 pop 12 seconds thorns, trample, freedom
+Mirmidon
+HP 330 (463) Atk 30 (35) Def 8 Speed 70 Range 400 Cost 330 G 1 pop 30 seconds max 50 lethal attack, Expert defense
+Priest
+HP 150 Atk no def 0 speed 50 cost 200 G 10 seconds  Healing, vitality
+Hero
+HP 1200 Atk 40 Def 12 Speed 120 Cost 1000 G 30 seconds
+superior defense, hero def, aggresion, wisdom, prodigy
+
+Upgrades
+produce bows 200 G:
+produce spears 1200 G:
+produce horseshoe 1800 G:
+produce swords 2500 G:
+produce wheel 3000 G:
+improve defenses 1000-2000 G:
+improve door's durability 1000 G:
+
+Olimpics 3000 G: new warriors start at lvl 5
+Training 3000 G: enable training to lvl 10
+Democracy/Oligarchy 1000 G: give +100 HP or +5 atk
+Atena amulet 2000 G: +40% speed
+Aegle amulet 2000 G: +10% HP
+produce mirmidon weapons 1000 G: +10 mirmidon cap
+
+buy 10 pop with 800 F or 200 G
+trade routes 2000 G: +1000 F for each village under your control
+reserves 2000 G: halves food consumption
+store food 200 G: strt storing 20 F per second
+tributes
+
+Zeus altar 1000 G:
+sacrifice 1500 G:
+apollo protection 500 G:
+zeus statue 2000 G:
+
+-CARTAGINIANS-
+numidian infantry
+HP 200 Atk 16 Def 12 speed 80 cost 100 G 2 seconds  revenge
+libian lancer
+HP 180 Atk 30 Def 0 Speed 80 range 300 cost 120 G 2 seconds pierce
+mauritanian figther
+HP 400 Atk 30 Def 12 Speed 80 cost 200 G 4 seconds fury, containment
+maceman
+HP 400 Atk 34 Def 10 Speed 60 cost 200 G 4 seconds obstination
+Tuareg
+HP 400 Atk 32 Def 10 Speed 120 cost 180 G 6 seconds regeneration
+numidian cavalry
+HP 240 Atk 18 Def 6 Speed 190 range 300 cost 220 G 8 seconds triple strike
+Noble
+HP 400 Atk 50 Def 20 Speed 60 Cost 400 G 1 pop 10 seconds  vampire strike, determination
+shaman
+HP 120 Atk no def 0 speed 50 cost 200 G 10 seconds  malediction
+War elephant
+HP 3000 Atk 60 Def 40 Speed 60 Cost 1000 F 30 seconds regeneration, trample, freedom
+Hero
+HP 1200 Atk 50 Def 18 Speed 120 Cost 1000 G 30 seconds
+vigor, wisdom, audacia, presitigie, dodge
+
+Upgrades
+produce lances 500 G
+produce javelins 600 G
+produce swords 800 G
+produce maces 1000 G
+produce horseshoe 1200 G
+produce lashes 1400 G
+improve defenses 1000-2000 G
+
+assembly 2000 G: new units start at lvl 4
+shared force I,II 1000 G: for each 12/24 units, new ones start at lvl 6/12
+War loot 3000 G:
+mahout school 1000 G: +1 max war elephant
+mahout mastery 2000 G: new elephants have lvl 12
+
+buy 10 pop for 400 G
+sell 50 pop for 2000 G
+buy 800 F for 500 G
+sell 1000 F for 500 G
+mercenary pact 2000 G:mercenaries cost -40 G
+exploration 1000 G
+tributes
+
+sacrifices 2000 G: shamans can provide F for 5 allies
+resurrection 2000 G:
+noble legion 3000 G: unlock nobles
+Fury 2000 G: grant fury skill to all units
+
+-EGYPTIANS-
+Swordman
+HP 400 Atk 16 Def 4 Speed 80 Cost 80 G 1 pop 4 seconds Exhaustion
+Archer
+HP 140 Atk 20 Def 0 Speed 80 Range 500 Cost 60 G 1 pop 2 seconds  Sfinimento
+Axe thrower
+HP 260 Atk 20 Def 12 Speed 60 Range 300 Cost 180 G 1 pop 6 seconds Triple strike
+Horus/Anubis/Guardian
+HP 360 Atk 36 Def 8 Speed 80 Cost 260 G 1 pop 8 seconds
+Obstination/Mortal strike/Deflection,fury
+Osiris chariot
+HP 600 Atk 50 Def 16 Speed 120 Range 500 Cost 400 G 10 seconds max 10 poison strike, freedom
+Priest
+HP 300 Atk no Def 8 Speed 50 Cost 300 G 10 seconds Exhaustion, healing
+Hero
+HP 1200 Atk 40 Def 20 Speed 120 Cost 800 G 30 seconds
+healing, recover, vigor, survival, forced march
+
+Upgrades
+Seth/Ra/Toth/Isis/Bastet/Gheb talisman 600 G: give to 50 random allies in the fortress
++4 atk/lvl/def/ 40 HP/ 40% speed/Range. Talisman disappear after killing an enemy
+
+Anubis/Horus offer 2000 G: enable anubis/horus warriors
+Statue 2000 G: enable vitality, regen, resilience skill to all units
+Path to the dead 3000 G: warriors reach lvl 12 after killing an enemy
+Horus light 3000 G: new warriors start at lvl 6
+
+Set fortress population to max 1000 G
+Sell 1000 F for 500 G
+Buy map for 200 G
+tributes
+benediction 500 G
+
+Osiris offer 3000 G: unlock osiris chariot
+Mummification 3000 G: new heroes have the 2/3 lvl of the best one you had
+Plague 2000 G:
+Resurrection 2000 G:
+
+-MESO-AMERICANS-
+Militia
+HP 180 Atk 12 (18) Def 6 (10) Speed 80 Cost 60 G 1 pop 2 seconds Pierce
+Archer
+HP 180 Atk 18 (24) Def 0 (4) Speed 80 Range 500 (550) Cost 60 G 1 pop 2 seconds Sfinimento
+Slinger
+HP 180 Atk 40 (46) Def 0 (4) Speed 80 Range 500 Cost 200 G 1 pop 8 seconds Resilience
+Jaguar warrior
+HP 360 Atk 36 (42) Def 8 (12) Speed 80 Cost 280 G 1 pop 8 seconds Charge
+Eagle warrior
+HP 360 Atk 30 (36) Def 8 (12) Speed 80 Range 400 Cost 280 G 1 pop 8 seconds Pierce
+Maceman
+HP 300 Atk 24 (30) Def 8 (12) Speed 80 Cost 150 G 1 pop 5 seconds  Exhaustion,reanimation
+Skull warrior
+HP 800 Atk 50 Def 18 Speed 80 Cost 1000 G 30 seconds, max 4  Execution,Mortal strike,freedom
+Shaman
+HP 300 Atk no Def 8 Speed 50 Cost 300 G 10 seconds  Healing,curse
+Hero
+HP 1000 Atk 50 Def 12 Speed 120 Cost 1000 G 30 seconds
+Hero Hp,call for defense,forced march,eufory,dodge
+
+Upgrades
+produce slings 1500 G:
+produce maces 2500 G:
+improve defenses 1000-2000 G:
+Produce quality shields 2000 G: all barrack units gain +4 def
+Produce quality bows 1000 G: archers +10% range
+
+Jaguar/Eagle/Xolotl offer 2000 G: unlcok jaguar/eagle/Skull warriors
+Path of the warrior 3000 G: when a unit kill an enemy, reach lvl 12
+Warrior emblem 3000 G: gain thie amulet when reaching lvl 12, gain +6 atk
+Terrain tactics 2000 G: all barrack units gain the Ability terrain tactics
+
+Tlaloc altar 1000 G: enable shamans to learn from more experienced units
+ritual of chacomoc 3000 G: units recover mp and hp twice as fast
+Sacrifice 1500 G:
+call animals 800 G:
+plague 2000 G:
+statue of Xolotl 3000 G: units recover all hp if they have less than 25% HP
+
+buy 10 pop for 400 F
+eat 10 pop for 300 F
+buy 10 pop for 200 G
+sell 10 pop for 400 G
+buy 800 F for 500 G
+sell 1000 F for 500 G
+tribute
+food tribute 2000 G:
+build new houses 2000 G: add +30 max pop to fortress
+
+SKILLS 37
+-Offense- 17
+special attack,triple strike,pierce,mortal strike, vampire strike,expert attack,charge,
+triumph,exhaustion,lethal attack,execution,sfinimento,obstination,fury,instruction, poison strike
+-Defense- 6
+special defense,deflection,containment,regeneration,thorn,expert defense
+-passive- 10
+reanimation,fury,vitality,resilience,determination
+freedom,revenge,mimetism, lynx eyes, trample
+-Support- 4
+Healing, invisibility, curse, teach
+
+New skills 27 
+-Offense- 10
+.Armor break 4 mp: for 5 seconds, the enemy has 0 defense and cannot use defensive skills
+.Amplification 4 mp: for 5 seconds, the enemy take double damage from all sources
+.colossal blow 1 mp: double this unit attack power for next hit
+.master tactics 10 mp: when activated, add this unit lvl to atk and def for 5 seconds
+.assassinate 10 mp: instantly kill the target
+.akon-toxin 4 mp: target gets poisoned and loses all mp
+.Vampiric touch 2 mp: in addition to damage, drain 10% of target max hp to unit
+.impact 10 mp: add this unit current hp to next hit
+.excellent attack 2 mp: add mp*4 to attack
+.bleeding strike 4 mp: target loses 20 hp per second for 10 seconds, cannot stack
+-Defense- 4
+.defensive stance 4 mp: when not under attack for 10 seconds, at first attack
+becomes invulnerable for 2 seconds
+.excellent defense 2 mp: add mp*4 to defense
+.Mirror shield 1 mp: nullify 1 magic attack
+.Cursed shield 2 mp: nullify 1 hit, and steal 5% hp from enemy who struck this unit
+-passive- 10
+.vampiric aura: steal 1% of max HP from all nearby foes and add them to this unit HP
+.terror aura: foes neaby take +4 damage
+.languish: when this unit dies, killer loses all his mp
+.dispersed attack: when this unit is under attack in melee range, attacker
+take damage equal to half the damage taken if the aggressor would be under attack
+by the unit with the ability in question
+.super vitality: double mp and hp regeneration
+.super regeneration: recover 12 hp per second
+.total triumph: unit recover all Hp and Mp upon killing a foe
+.veterancy: unit gain +1 atk for each 10 lvl it has
+.avenging spirit: unit gain +3 mp for each fallen ally nearby
+.protecting spirit: unit heal for 100 hp for each fallen ally nearby
+-Support- 3
+.Divine shield 3 mp: grant a shield to an ally, protecting him from 3 attacks,
+shield vanishes after 30 seconds
+.Red curse 10 mp: curse an enemy for 1 minute, it will deal 20% damage
+.fortify 4 mp: heal up to 5 allied units at once
+
+HERO SKILLS
+ superior offense
+ superior defense
+ hero hp,atk,def
+ forced march
+ prestigie
+ erudition
+ majestry
+ A_prodigy
+ A_gestas
+ A_call for defense
+ dodge
+ eufory
+ recover
+ vigor
+ A_charisma
+ A_aggresion
+ A_audacia
+ A_peace
+ A_healing
+ wisdom
+ fidelty
+ exploration
+ survival
+
+New hero Skills
+Superior might: for each point, +1 atk/def to all attached units and hero
+Scholarship: for each point, +1 lvl to attached units, also hero will give +2% more exp
+Hospitalier: for each point, units have a 10% to recover hp and mp twice
+Swift march: for each point, units have +5% movement speed and +2% dodge chance
+Hero's equipment: for each point, hero get +1 def, +2 atk and +50 HP
+Scout: for each point, 10% to not consume F and +10% vision in fog of war
+Treachery: for each point, hero has a 5% to gain 1 xp, 1 mp and 5 Hp from fallen attached units
+Battle fury: for each point, attached units and hero have 10% chance to recover 3 Mp and 100 Hp
+A_Miracle 10 mp: for each point, all attached units recover 10 Hp and 1 Mp
+A_Assault 10 mp: for each point, all attached units double atk power for 1 second
+A_War stance 10 mp: for each point, all attached units gan 20 def and pierce for 1 second
+A_Charge 10 mp: for each point, all attached units get +2 atk and +5% movement speed for 10 seconds

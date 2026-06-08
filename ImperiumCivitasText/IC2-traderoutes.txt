@@ -1,0 +1,354 @@
+Trade routes
+
+BYZANTIUM
+BUY FROM
+stone for 6    land, sea
+marble for 8   land, sea
+flour for 8/5    land, sea
+olive oil for 8 land, sea
+SELL TO
+gold for 12    land, sea
+iron for 8     land, sea
+wine for 7     sea
+line for 2    land
+
+Byzantium is a city with plentiful quarries. Their fields are abbundant
+in wheat and olives. They lack iron and gold deposits. They can also buy
+some wine and linen, but at dirty prices.
+
+LAS MEDULAS  land only
+BUY FROM
+gold for 8(+3 in city mode)   land
+wine for 8   land
+iron for 7   land
+SELL TO
+stone for 8/5(7 in city mode)  land
+line for 2/3   land
+flour for 2(not in city mode) land
+meat for 3(not in city mode) land
+
+Las Medulas is a city famous for their rich mineral deposits, in
+particular, gold is abundant. You can also sell them some food, but
+they would accept stone more eagerly.
+
+FLORENCE
+BUY FROM
+flour for 2  land,sea
+line for 2   land,sea
+marble for 10  land,sea
+olive oil for 10 land,sea
+SELL TO
+meat for 8/3 land,sea
+stone for 5(+2 Lambaesis,Dirrachio,Augusta Raurica)  land,sea
+iron for 5  sea
+gold for 8(+2 Zela)  land,sea
+
+Located in the Estruscan vallyes, the fertile soil of Florence house
+plenty of farms. You can buy wheat, linen, olives for a discount.
+Yuo can also buy marble at an affordable price.
+They lack mineral deposits and can also accept foreign meat.
+
+GENOA
+BUY FROM
+olive oil for 5   land,sea
+stone for 10   sea
+gold for 10   land,sea
+iron for 5  land
+line for 5  land,sea
+SELL TO
+marble for 9(+2 Lambaesis,Dirrachio,Augusta Raurica)   land,sea
+flour for 6   land,sea
+wine for 10  land,sea
+meat for 2  land,sea
+
+Genoa is the internationla trading hub for the Roman Empire, in particular,
+for her maritime trading network. You can find all sorts of goods here.
+In particular, due to the surrounding mountains, it is very hard
+to grow crops in that region. They would accept wheat, wine and meat
+as payment. You can buy linen, minerals and olive oil.
+
+ALEXANDRIA
+BUY FROM
+stone for 6  land,sea
+marble for 14(-6 in Antiochia)   land,sea
+flour for 3-8   land,sea
+meat for 3   land,sea
+line for 8   land,sea
+olive oil for 8 (Antiochia) land,sea
+SELL TO
+gold for 8(+4 Antiochia)    land,sea
+wine for 5(+2 Antiochia)   land,sea
+iron for 10-8   land,sea
+olive oil for 5  land,sea
+line for 2 (Antiochia) sea
+
+Alexandria, founded by its namesake conqueror, it's one of the biggest
+cities of the Empire. You can find all sorts of goods here.
+You can sell them precious goods for quite a profit. In particular,
+they provide great trades to Antiochia, to which they sell most
+of their products with a discount. If you are not Antiochia,
+you can buy stone, marble, flour, meat and linen from Alexandria.
+You can sell to them gold, wine, iron and olive oil.
+
+TOLDEO   land only
+BUY FROM
+stone for 5   land
+marble for 11  land
+iron for 5  land
+SELL TO
+flour for 3 land
+meat for 7 land
+wine for 8 land
+line for 4  land
+
+A fotified wotn located in the middle of Iberia. They make profit by selling
+minerals. They have poor farms, so they would appreciate some food in return.
+
+CARTAGENA
+BUY FROM
+gold for 14   land,sea
+flour for 4  land,sea
+wine for 10  land
+olive oil for 7  land,sea
+iron for 6-10   land,sea
+SELL TO
+stone for 10/7/5  land,sea
+marble for 12/11/9  land,sea
+line for 8-3  land,sea
+meat for 2  sea
+
+The city who challenged the Roman Empire. Wait, no, it's Cartagena, also known
+as Cartago Nova. Founded by Hannibal Barca and captured by Scipio Africanus, this
+city is now under Roman's rule. They have plenty of farms and rich gold mines.
+They will buy stones, marbles, linen and meat.
+
+BURDIGALA
+BUY FROM
+stone for 7 land,sea
+flour for 5(-3 Tessalonica)  land,sea
+meat for 8/5  land
+wine for 5(+1 Tessalonica)  land,sea
+SELL TO
+marble for 8  land,sea
+iron for 8(-2 Las Medulas,Albanum,Marsiglia) land,sea
+olive oil for 7/8 land
+line for 7/3 land,sea
+
+Located in Southern Gaul, this city has plenty of farms and stone deposits.
+They will buy marble, iron, olive oil and linen.
+
+LONDINIUM
+BUY FROM
+meat for 2  sea,land
+wine for 10  sea
+iron for 10 sea,land
+line for 3(+2 Tangeri) sea,land
+SELL TO
+marble for 14   sea,land
+gold for 10  sea,land
+olive oil for 10 sea,land
+
+The dangerously long trade routes with Londinium can be proven
+proficious, as they have some interesting prices.
+They will sell agricultural products and iron. They will buy minerals and olive oil.
+
+ROME
+BUY FROM
+meat for 5  land,sea
+wine for 6  land,sea
+iron for 10 land,sea
+gold for 10(+1 sea) land,sea
+line for 8 land,sea
+SELL TO
+stone for 7  land,sea
+marble for 12/11  land,sea
+olive oil for 8(-5 for Mogontiacum)(+12 Hippo Regius)  land,sea
+line for 3(+4 Albanum)  land,sea
+
+The city of Rome is always ready to trade with your city.
+They will buy stone, marble, olive oil and linen.
+ 
+BARBARIANS   land only
+BUY FROM
+flour for 5 land
+meat for 2  land
+SELL TO
+wine for 8 land
+iron for 9  land
+line for 4 land
+olive oil for 7 land
+
+This puny barbarians are peacuful and will gladly trade with you.
+They sell flour and meat and will buy wine, iron, linen and olive oil.
+
+BUY TO
+       Media, Std Dev, Min, Max
+Flour  4.92     1.92     2   8
+Meat   4.00     2.28     2   8
+Line   5.17     2.32     2   8
+Wine   7.80     2.17     5   10
+Olive  7.60     1.67     5   10
+Stone  6.80     1.72     5   10
+Marble 10.20    2.17     8   14
+Gold   10.60    2.06     8   14
+Iron   7.57     2.12     5   10
+SELL TO
+       Media, Std Dev, Min, Max
+Flour  3.67     1.70     2   6
+Meat   4.17     2.32     2   8
+Line   4.27     2.00     2   8
+Wine   7.50     1.71     5   10
+Olive  8.50     4.47     3   20
+Stone  7.00     1.63     5   10
+Marble 10.78    1.78     8   14
+Gold   10.50    1.80     8   12
+Iron   7.50     1.60     5   10
+
+
+NOTE: olive oil, gold and iron ore, are the least useful resources. Without trading,
+gold and oilve oil are completeyl useless.
+
+__________________STOP HERE___________-
+
+REWROTE TRADE ROUTES. Removed olive oil, gold and iron are fused together to metal.
+Flour and Meat are fused together to wheat.
+
+
+BYZANTIUM
+BUY FROM
+stone for 6    land, sea
+marble for 8   land, sea
+flour for 8/5    land, sea
+SELL TO
+metal for 10  land,sea
+wine for 7     sea
+line for 2    land
+
+LAS MEDULAS   land only
+BUY FROM
+metal for 8(+3 in city mode)   land
+wine for 8   land
+SELL TO
+stone for 8(-1 in city mode)  land
+line for 2   land
+wheat for 2(not in city mode) land
+
+FLORENCE
+BUY FROM
+flour for 2  land,sea
+line for 2   land,sea
+marble for 10  land,sea
+SELL TO
+wheat for 8 land,sea
+stone for 5(+2 Lambaesis,Dirrachio,Augusta Raurica)  land,sea
+metal 8(+2 Zela)  land,sea
+
+GENOA
+BUY FROM
+stone for 10   sea
+metal for 10   land,sea
+line for 5  land,sea
+SELL TO
+marble for 9(+2 Lambaesis,Dirrachio,Augusta Raurica)   land,sea
+wheat for 4   land,sea
+wine for 10  land,sea
+
+ALEXANDRIA
+BUY FROM
+stone for 6  land,sea
+marble for 14(-6 in Antiochia)   land,sea
+wheat for 3   land,sea
+line for 8   land,sea
+SELL TO
+metal for 10    land,sea
+wine for 5(+2 Antiochia)   land,sea
+line for 2 (Antiochia) sea
+
+TOLDEO   land only
+BUY FROM
+stone for 5   land
+marble for 11  land
+metal for 5  land
+SELL TO
+wheat for 5 land
+wine for 8 land
+line for 4  land
+
+CARTAGENA
+BUY FROM
+metal for 10/12   land,sea
+wheat for 4  land,sea
+wine for 10  land
+SELL TO
+stone for 10  land,sea
+marble for 12  land,sea
+line for 8  land,sea
+
+BURDIGALA
+BUY FROM
+stone for 7 land,sea
+wheat for 5(-3 Tessalonica)  land,sea
+meat for 8  land
+wine for 5(+1 Tessalonica)  land,sea
+SELL TO
+marble for 8  land,sea
+metal for 8(-2 Las Medulas,Albanum,Marsiglia) land,sea
+line for 7/3 land,sea
+
+LONDINIUM
+BUY FROM
+wine for 10  sea
+metal for 10 sea,land
+line for 3(+2 Tangeri) sea,land
+SELL TO
+marble for 14   sea,land
+metal for 10  sea,land
+
+ROME
+BUY FROM
+wheat for 5  land,sea
+wine for 6  land,sea
+metal for 10 land,sea
+line for 8 land,sea
+SELL TO
+stone for 7  land,sea
+marble for 11  land,sea
+wheat for 8(-5 for Mogontiacum)(+12 Hippo Regius)  land,sea
+line for 3(+4 Albanum)  land,sea
+
+BARBARIANS  land only
+BUY FROM
+wheat for 4 land
+SELL TO
+wine for 8 land
+metal for 9  land
+line for 4 land
+
+BUY TO
+       Media, Std Dev, Min, Max
+Wheat  3.83    1.07    2    5
+Line   5.17    2.32    2    8
+Wine   7.80    2.17    5   10
+Stone  6.80    1.72    5   10
+Marble 10.20   2.17    8   14
+Metal  9.00    1.79    5   11
+SELL TO
+       Media, Std Dev, Min, Max
+Wheat   6.71   4.47    2   17
+Line    4.44   2.10    2    8
+Wine    7.40   1.85    5   10
+Stone   7.33   1.60    5   10
+Marble  10.83  2.04    8   14
+Metal   8.56   1.55    6   10
+
+ROUTES
+Rom-Flo: 4
+Rom-Gen: 5
+Rom-Byz: 10
+Rom-Alx: 12
+Rom-Car: 8
+Rom-Tol: 10
+Rom-Las: 12
+Rom-Bur: 10
+Rom-Lon: 14
+Bar-Everywhere but Lon: 1

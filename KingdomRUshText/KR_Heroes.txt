@@ -1,0 +1,1028 @@
+Common abilities
+Atk, HP,Armor, Range,Speed  Upgrade
+Thorns
+Sand warriors
+Powerful attack
+Instakill
+Mirages
+Bleed
+Stun
+Slow
+True damage spell
+Slow down enemy attack rate
+Aoe explosion
+loot gold
+Heal
+Revive
+Teleportation
+Kamikaze explosion
+Destory resistence/armor of a selected target
+Silence enemy
+Boost attack  of unit/allies/towers
+Teleport foe
+Make enemies take x% extra damage
+Dragon breath
+Devour enemy
+Scorch tiles
+Dot damage
+Summon unit
+Dodge melee attacks
+Dodge and counter
+Consecutive hits
+
+Uncommon abilities
+BRUXA
+Flying skulls
+Skull sacrifice
+Skull cap
+GRAWL
+Bastion: gain bonus damage when holding ground
+CARCINOS
+When under 40% HP, become invulnerable for 3 seconds
+DANTE
+Inspiring presence: when dead, allies nearby get +50% damage
+BONEHART
+Plague carrier: infected enemies take Dot and
+explode in Aoe, dealing damage and infecting other units
+
+ARCHETYPES
+Tough melee hero
+Quick ranged hero
+Damage dealer hero
+Magic ranged hero
+Melee support hero
+Healer armored
+Sneaky melee hero
+quick damage dealer hero
+Versatile melee and ranged hero
+Support ranged hero
+Flier hero
+Flier support hero
+
+
+My heroes
+GAL ULHAN FIRE DRAGON
+-Melee magic hero-
+HP 250-500 regen 25-50
+Melee attack 20-40 (1.0s)
+Armor 30-50% Speed 90 Respawn 20
+-Passive-
+Fiery blood: enemies who attack her take 10/20 true damage
+Blasting destiny: when defeated, explode, dealing 100/200
+true damage in an area of 150
+Migthy Axe: basic melee attack ignores half of
+the target physical armor
+-Active-
+Molten Magma Axe(30s)
+Throw an axe on the ground, bursting a small
+eruption, dealing 70/140/210 true damage in area 100,
+and having a 10/20/30% to instakill enemies caught
+in the blast
+Meteor(30s)
+Cast down a meteor to hit a random foe, dealing
+160/320/480 true damage, leaving hot embers which
+deal 10/20/30 true damage per second in area 50
+to foes who step over it. Embers last for 10 seconds.
+Temper Tantrum(30s)
+Boost herself, allies and towers in area 300
+to get +50% extra damage for 4/8/12 seconds
+Magma Golem(30s)
+Summon a magma golem for 30 seconds
+HP 200/400/600 Attak(physical) 20/40/60 Armor 50%
+Fire Pillars(Hero spell, 60s)
+Summon 8 pillars of fire, dealing 80/160/240
+true damage over 4 seconds to enemies involved
+in the blast. Surviving foes are caught
+on fire, taking 80/160/240 true damage over 4 seconds
+
+KUIHTEN ICE DRAGON
+-Melee magic hero-
+HP 350-750 regen 35-75
+Melee attack 18-36 (1.0s)
+Armor 15-25% Speed 90 Respawn 20
+-Passive-
+Cold bood: regen 15-30 HP per second even while fighting
+Ice port: teleport over long distances
+-Active-
+Frostbite(passive)
+Damage inflicted with ice magic cause a status
+that deal 2/4/6 true damage.Status cannot be
+removed. Also, enemies afflicted by frostbite
+status are permanently slowed down by 5/10/15%
+both in movement speed and attack speed
+Isolated armor(passive)
+Kuihten get +5% armor for each enemy around her,
+area 240. Caps at +15/25/35
+Ice path(20 s)
+Create a path of ice down a lane, freezing all
+enemies inside it for 3/6/9 seconds. Apply
+also frostbite effect
+Ice slash(25s)
+A special attack wich can target up to 3/6/9
+enemies, removing off 50% of their max hp.
+Fimbulvetr(Hero spell, 60s)
+Deal 20/40/60 true damage to all foes on screen,
+and freezes them for 6/12/18 seconds.
+
+WIND DRAGON
+-Ranged flying hero-
+HP 200-400 regen 20-40
+Wind attack 13-26 (1.0s)
+Range 320
+Armor 0% Speed 120 Respawn 20
+-Passive-
+Second Wind: guaranteed to survive a lethal hit once per life
+Wings: can fly
+-Active-
+Wind cutter(passive)
+basic wind attack can pierce trought the enemies,
+dealing 11/22/33% of base damage up to 10 enemies in a row
+Wind Shield(passive)
+When hp goes below 40%, he cast a special shield that
+protects himself from any 3 attacks. The shields is recharge
+after dealing 450/375/300 damage (both with sword and magic)
+Wind Lass(20s)
+Summon a wind spirit, which deals a total of 140/280/420 true
+damage over 7 seconds
+Blow Away(passive)
+Each ranged attack inflict 1/2/3 nodes knockback to the target
+Cyclon's Eye(Hero spell, 60s)
+Cast a powerful cyclone which drags all foes to the
+center of it, dealing 500/100/1500/2000 true damage over
+5 seconds, immobilizing foes caught in the storm
+
+THUNDER DRAGON
+-Ranged support hero-
+HP 300-600 regen 24-48
+Magic attack 50-100 (4.0s)
+Range 400 Armor 0% Speed 80 Respawn 20
+-Passive-
+Thunderstruck: each ligthing attack stun
+foes for 0.5/1.0/1.5 seconds
+Chain lighting: overkill damage is distrubuted
+to the nearest enemy, with an extra 1/2/3 true damage
+-Active-
+Arc thunder(passive)
+Increase attack range by 100/200/300
+Also increase stun duration by 30/50/70%
+Divine Light(passive)
+Allies nearby her regen 4/8/12 hp per second
+Overcharge(passive)
+When not attacking, build up shots, gaining +1
+for every 4 second. Can stack up to 3/4/5 shots
+Static Field(passive)
+After each thunder strike, electricize the area
+down on the ground (area 300) for 1/2/3 seconds,
+dealing 5 true damage and stunning foes for
+1/2/3 seconds
+Lighting Lance(Hero spell, 60s)
+Shoot a powerful laser, dealing 1500/3000/4500
+magical damage to all foes down a lane
+
+WATER DRAGON
+-Versatile support hero-
+HP 300-600 regen 30-60
+Spear attack 20-40 (1.0s)
+Spear range 360
+Armor 0% Speed 90 Respawn 20
+-Passive-
+WaterWalk: she can traverse water swiftly
+WaterEdge: +50% damage to foes with less
+than 50% HP
+-Active-
+Tidal Wave(24s)
+Create a Strong Wave that pushes foes by
+200 spaces, stun them for 1/2/3 seconds
+and deal 40/80/120 physical damage
+Sacred Fountain(24s)
+She sacrifices 200 Hp to create a fountain,
+healing allies for 200/400/600 over 8 seconds.
+Enemies nearby fountain take damage instead(same numbers).
+Cannot activate ability if she has less than 300 HP
+Riptide(10s)
+Throw a long range spear(480 range) to the furtest
+enemy, stunning it for 1/2/3 seconds and silencening him
+permanently
+Geyser(60s)
+Summon a geyser, who stun enemies for 2/3/4 seconds,
+and deal them 50 magic damage per second and 3/6/9
+splash magic damage to foes nearby (area 150)
+The Great Flood(Hero spell, 180/150/130/120s)
+Summon a flood, which drown all land enemies.
+
+EARTH DRAGON
+-Strong melee hero-
+HP 400-800 regen 20-40
+Axe attack 25-50 (2.0s)
+Armor 30-40% Speed 40 Respawn 30
+-Passive-
+Bastion: when standing still for 3 seconds,
+gain +10/20/30 bonus damage and +10/15/20% armor.
+Bonus goes away when moving too far away
+Power strike: Each basic attack deal splash
+damage of 20% base attck over area 50
+-Active-
+Boulder Throw(12s)
+Throw a boulder, dealing 30/60/90 physical splash damage
+and stunning enemies for 2/3/4 seconds
+Obsidian Axe(passive)
+He gains +20/40/60 base attack power
+Hard Leader(passive)
+Enemies nearby are slowed down by 10/15/20%,
+allies nearby deal 5/10/15% extra damage
+Stalagmites(passive)
+Each foe defeated nearby him (area 200) spawn
+a stalagmite, which deal magic damage.
+Magic damage is dealt overtime of 30 seconds.
+Damage is equal to 20/40/60% of foe max hp.
+There can be at most 10 stalagmites present
+on the field.
+Earthquake(Hero spell, 60s)
+Deal 400/800/1200/1600 true damage over a small
+area of 150, and 100/200/300/400 true damage to
+all foes on screen. All foes are also stunned for 1/2/3/4 seconds
+
+DARK DRAGON
+-Crow control magic hero-
+HP 400-800 regen 20-40
+Axe attack 24-48 (2.5s)
+Magic attack 54-108 (3.0s)
+Range 480
+Armor 0% Speed 40 Respawn 20
+-Passsive-
+Vampiric aura: drain 3/6/9 Hp per second to enemies in range(240)
+shadowport: teleport over long distances
+-Active-
+Aggregation(passive)
+Automatically disintegrates enemies with less than 40/80/120 Hp in range(240).
+Heal by 10/20/30 Hp for each enemy disintegrated
+Gravity Manipulation(passive)
+Enemies nearby(240)are slowed down by 10/20/30% and take 3/6/9
+true damage per second
+Overwhelm(passive)
+Each defeated foe nearby her will increase her attack power by 100%
+for 3 seconds, the boost can last up to 12/18/24 seconds
+Gravisurge(15s)
+Stuns an emeny for 3/6/9 seconds. If said enemy has
+less than 100/200/300 Hp, make him explode, dealing
+50/100/150 magic damage over an area of 150
+Fear to Phatom(Hero spell, 60s)
+Possess all foes on screen, forcing them to fight
+each other for 2/4/6/8 second, they also take 25
+magic damage per second 
+
+
+LIGHT DRAGON
+-Versatile flyong dragon-
+HP 200-400 regen 20-40
+light attack 14-28 (1.0s)
+Range 320
+Armor 30-60% Speed 100 Respawn 15
+-Passive-
+Healing Light: heal allies in range for 5/10/15 Hp per second
+Wings: can fly
+-Active-
+Judgement(20s)
+Perform an attack with a 30% instakill chance.
+Some units dies automatically:
+level 1: units with less than 100 HP
+level 2: monsters, units with less than 200 HP
+level 3: monsters, units that cost no G, fliers, units with lass than 300 HP
+Expurgation(passive)
+Enemies with less than 50/100/150 Hp remianing, explode
+near her, causing an explosion that deals 20/40/60 true damage
+over an area of 50
+Resurrection(passive/active)
+Reduce her respawn time by 5/10/15 seconds.
+On the last level, she cannot die and she'll respawn immediatly.
+Also, grant the ability to resurrect fallen allies every 12/8/6 seconds
+Puryfing Light(passive)
+Increase her base attack by 7/14/21
+Divine Lighting(Hero spell, 60s)
+Cast a powerful ligthing, dealing 200/400/600/800 true damage
+to one foe and 100/200/300/400 to all enemies nearby(150).
+If her HP reaches 0 at any moment, this ability doesn't get
+interrupted, and the next cooldown is reduced by 6/12/18/24 seconds
+
+SOUND DRAGON
+-Strong support hero-
+HP 150-300 regen 15-30
+Guitar attack 8-16 (1.0s)
+Armor 30-50% Speed 75 Respawn 15
+-Passive-
+Charming tune: each attack stun foes for 0.1/0.2/0.3 seconds
+Inspiring tune: towers in range 300 deal +5/10/15% damage
+-Active-
+Healing tune(passive)
+Allies nearby him regen 3/6/9 Hp per second
+Hard Bass(passive)
+Increase his melee attack by 8/16/24
+Charming tune(10s)
+Stun a foe for 1/2/3 seconds, and silences him and slow him
+down by 30% for 4/8/12 seconds
+Shockwave(15s)
+Unleash a shockwave, dealing 100/200/300 physical damage
+over an area of 150
+Death Metal Concert(Hero spell, 60s)
+Deal 160/320/480/640 damage to all foes on screen and
+stun them for 4/8/12/16 seconds
+
+RADIOACTIVE DRAGON
+-Crowd control support hero-
+HP 300-600 regen 15-30
+Acid attack 23-46 (2.0s) (true damage)
+Range 300
+Armor 0% speed 40 Respawn 30
+-Passive-
+Toxicurse: each attack inflict plague on the target,
+dealing 2/4/6 true damage per second.
+Enemies who die while afflicted by the curse, explode,
+dealing 30/60/90 true damage explosion and infecting
+others with the curse
+Acid Armor: enemies who attack him in melee, are
+afflicted by the curse and lose 5% of both armors per hit
+-Active-
+Tainted Risen(passive)
+For each enemy defeated by him, there's a
+35/70/100% chance to turn him into an allied
+risen. Risen lose 5 Hp per second. Up
+to 3/6/9 risen at the same time
+HP 200 Atk(physical) 6 Armor 0%
+Acid Aura(passive)
+Enemies nearby (area 200) lose 10/20/30% physical and
+magical armor, also move 5/10/15% slower and take
+3/6/9 magic damage per second
+Man Melter(passive)
+Each successful basic melee attack heal him by 25/50/75% of damage dealt
+Slime Form(60s)
+When his Hp goes below 20%, become a slime, making him
+unable to be targeted by most attacks, but being able
+to move freely across the map. After 3/6/9 seconds,
+goes back to normal and restore 10/20/30% HP
+Blue Light(Hero spell, 90/80/70/60s)
+Cast a blue light down a path, casting the doom status to
+all foes on that lane. The doom status last 10 seconds.
+Once the timer is over, the unit affected by the status dies
+
+METAL DRAGON
+-Strong melee hero-
+HP 200-400 regen 20-40
+Sword attack 24-48 (1.0s)
+Armor 30-40% speed 60 respawn 18
+-Passive-
+metal thorns: enemies who attack him take 12/24/36 true damage
+Magnetic armor: enemies who attack him lose 20/40/60% of
+their attack power for 10 seconds
+-Active-
+Midas Curse(100/70/50s)
+Turn an enemy into a gold statue, instakilling
+him and generating 50 G
+Daring Duelist(passive)
+While in combat, gain +15% attack bonus for
+each consecutive hit on the same foe, capping
+at +120%. Max is raeched after 8 consecutive
+hits, so, in 8 seconds of constant fighting
+Metal Golem(40s)
+Summon a metal golem that last for 20 seconds
+HP 70/140/210 Attack(physical) 20/40/60 Armor 50%
+Legendary Blacksmith(passive)
+Improve his base attack by 6/12/18 points
+and his armor by 10/15/20%. Base attack
+also ignore half of target physical armor
+Hall of Blades(Hero spell, 60s)
+Sumon 40 steel blades down a lane, dealing 13/26/39/52
+true damage and 8 physical damage per each blade.
+Damage is assigned to the first enemy who comes into
+contact with the blade. Blade disappear after dealing
+damage once.
+
+MOD NAR-PLANT DRAGON
+-Versatile support hero-
+HP 300-600 regen 15-30
+Melee attack 30-60 (1.0s)
+Ranged attack 30-60 (1.0s)
+Armor 20-40% Speed 75 Respawn 30
+Bow Range 500 Sword Range 100
+-Passive-
+Phosyntesis: regen an extra 100% when standing still for
+more than 10 seconds
+-Abilities-
+Rootpath(30s)
+spiked roots sprout from the ground,
+dealing 40/80/120 physical damage
+Triumph(60/50/40 s)
+Instakill an enemy in melee range, healing Mod for
+30% of her Max Hp and granting anattack boost of
++50% for 10/15/20 seconds
+Parasitic pollen(passive)
+For each defeated foe, there's a 10/20/30% to
+spawn a carnivorous plant from it
+HP 150 Atk(physical) 30 Armor 0%
+Wine net(30 s)
+Throw a net to a group of at most 4/8/12 enemies,
+slowing them down by 50% for 12 seconds
+Nature's Wrath(Hero spell, 60s)
+Deal 30/60/90 true damage to all enemies on screen
+
+VERT
+-Ranged support hero-
+HP 125-250 regen 12-25
+Melee attack 8-16 (1.0s)
+Ranged attack 12-24 (1.0s)
+Armor 0-20% Speed 75 Respawn 15
+Bow Range 500 Sword Range 100
+-Passive-
+Shadowport: teleport when traveling to long distances (200 spaces)
+Poison lynf: each melee attack deal 2/4/6 poison damage per second.
+Poison last for 10 seconds
+-Abilities-
+Green Curse(20s)
+Cast a charm on enemies in an area, reducing their
+damage by 15/30/45%. The charm last 20 seconds.
+Also applies poison damage to enemies near the charm (250 spaces)
+Guardians of the Forest(30s)
+Summon 1/2/3 plant guardians. They last 15 seconds.
+HP 100 Atk(physical) 5-7 Armor 50%
+Ancestrike(30s)
+Shoot a powerful homing arrow, dealing 120/240/360 true damage
+to the strongest enemy near the exit
+Tree of the World(40s)
+Summon a giant tree, which heal all allies in 100 spaces
+for 50/100/150 and dealing 90/180/270 damage over 15 seconds
+Gaia's Nova(Hero spell, 60s)
+Deal 60/120/180 true damage to all enemies down
+a path, stun them for 3 seconds and inflict poison.
+
+LUCIUS
+-Melee support hero-
+HP 300-600 regen 40-80
+Melee attack 20-40 (1.0s)
+Armor 40-70% Speed 60 Respawn 20
+-Passive-
+Thornmail: return 20/40/60% of damage taken back to the enemy in melee
+-Abilities-
+Pilum(4s)
+enable a ranged attack that deals 10/20/30 damage and slow
+down target by 60% for 1/2/3 seconds
+Standard(30s)
+Plant a standard, boosting melee units armor and attack
+for 20 seconds in area of 300 spaces. Boost is +3/6/9 atk
+and +5/10/15% armor
+Golden Eagle(30s)
+Summon a golden eagle, which deals 170/140/210 magic damage
+to the foe with highest hp
+Last Stand(60s)
+If Lucius hp goes below 20/35/50%, becomes a werewolf,
+doubling current hp, but losing -20% armor and attacking
+twice as fast for 10/20/30 seconds, then return back to normal.
+Boost also applies to ranged attacks
+Auxilia(Hero spell, 60 s)
+Summon 2/3/4 auxilia legionaries who last 40 seconds.
+Auxilia legionary
+HP 200 Atkmelee 14-20 (1.0s) Armor 70%
+
+DAKUWAQA
+-Melee high damage hero
+HP 400-800 regen 40-80
+Melee attack 30-60 (2.0s)  becomes 120 with upgrades
+Armor 0-20% Speed 60 Respawn 20
+-Passive-
+Shark instinct: instakill foes with less than 20/30/40% of their max HP
+-Abilities-
+Artisian axe(6s)
+Throw a powerful axe at a foe, distance 320-360-400
+Damage 40/60/80
+Berserk(passive)
+When Dakuwaqa HP goes belowe 20%, he takes -20% damage
+and attack 10/20/30% faster
+Shark bite(20s)
+Instakill a foe with less than 500/1000/1500 HP
+and heal for half of foe remaining hp
+Sharp Axe(passive)
+Increase Dakuwaqa melee attack by 20/40/60
+Water Spiral(Hero spell, 60 s)
+Summon a giant water spiral, stunning foes
+for 2/4/6/8 seconds and dealing 150/300/450/600
+true damage over 8 seconds. Area 150 spaces
+
+MUCEN
+-Melee defensive hero
+HP 200-400 regen 12-24
+Melee attack 18-42 (1.5s) becomes 69 with upgrades
+Armor 50-70% Speed 60 Respawn 20
+-Passive-
+Layered armor: reduce all damage taken by 1/2/3/4.
+Can reduce damage to 0.
+-Abilities-
+Terror of the battle(passive)
+Albe regen 1 HP per second for each enemy around(250 spaces)
+up to 3/6/9 enemies. All enemies around are also
+slowed down by 10/20/30%.
+Legendary Trident(passive)
+Upgrade Mucen trident to deal true damage.
+Also increase melee damage by 9/18/27.
+Nesting Blow(20/15/12s)
+Instakill a foe with less than 200 HP, then
+said foes spawn a legionary ant.
+Legionary ant
+HP 200 Atkmelee 10 Armor 50% last 20 seconds
+Armor Consumer(passive)
+For each foe killed, gain +20% armor for 5/10/15 seconds
+Shield of Honour(Hero spell, 60 s)
+Conjure a shield to all allies in are of 300 spaces.
+Shield absorb 100/200/300/400 damage and explodes upon
+destruction, dealing 50/100/150/200 true damage
+in a small area (80 spaces). Can apply up to 8 shields.
+Shields also return 50% of damage taken back to sender.
+
+SKADRENIA-SHADOW ASSASSIN
+-high damage melee hero-
+HP 200-400 regen 20-40
+sword attack 20-40 (1.0s)
+Armor 0% Speed 100 Respawn 15
+-Passive-
+Cloacked: unit cannot be damage as long as she's not in combat
+(can still be damaged by explosions)
+Bounty hunter: obtain +1/2/3 G per kill
+-Active-
+Damascus steel(passive)
+Increase her attack by 10/20/30 damage.
+Also attacks deal true damage
+Last Mission(passive)
+When she dies, explode, dealing 100/200/300 true damage
+Lethal Strike(100/80/60s)
+Instakill an enemy. If said enemy had less than 50%
+of its max HP, cooldown time is halved
+Counter(passive)
+Have a 20/40/60% to dodge melee attacks, and counter
+with 70 true damage attack
+Smoke Bomb(Hero spell,20s)
+Throw smoke bombs along a path.
+Enemies are slowed down by 50% for 2/4/6/8 seconds.
+Enemies inside the fog cannot use any ability
+for same time and have 30% chance to miss their attacks
+
+TARA-DESERT ROGUE
+-Versatile support hero-
+HP 100-200 regen 10-20
+Sword attack 30-60 (1.0s)
+Gun attack 30-60 (1.5s)
+Range 320
+Armor 40-60% Speed 100 Respawn 15
+-Passive-
+Deadeye: 5/10/15% to deal triple damage
+Shatter: each gun hit decrease target physical armor by 2/4/6%
+(caps at 20/40/60%)
+-Active-
+Silencing shot(15s)
+Shoot a bullet that silences the target for 5/10/15 seconds
+and make it lose 30/60/100% magic resistence
+Double gun(passive)
+Increase her fire rate by 40/70/100%
+Cloud burst(15s)
+Shot a bullet that causes smoke that lingers for 5 seconds.
+Enemies caught in the smoke are slowed down for 20/40/60%
+and have a 20/40/60% to miss their attack
+Sand Weaver(passive)
+Each fallen enemy turns into dust, releasing
+a cloud of smoke that lingers for 1/2/3 seconds.
+Smoke acts as the Cloud burst effect
+Desert Raid(Hero spell, 30s)
+Summon 1/2/3/4 rogue cactus, who will engage the enemies
+HP 200 Atkmelee 10 Armor 50% Thorns 50% Lifespan 20 sec
+
+DANIARIS-WARCHIEF
+HP 300-600 regen 30-60
+Sword attack 12-24 (1.0s)
+Bow attack 30-60 (2.0s)
+Range 320
+Armor 30-50% speed 240 Respawn 20
+-Passive-
+Lunge: briefly dash towards enemies in less than 100 range
+Pierce: all physical attacks ignore half of enemy armor
+-Active-
+Vibrissian sword(passive)
+Increase basic melee attack power by 10/20/30
+War Leader(passive)
+Allied units nearby deal +15/30/45% damage
+Sick Slice(10s)
+Deal 200/400/600 true damage to one target
+Call the Horde(15/12/9s)
+Summon a nomadic rider that fights for 10 seconds
+HP 200 Atkmelee 20 Armor 50%
+Crimson Horde(Hero spell, 60s)
+Call down powerful nomadics warrios, rushing down
+the path and dealing 240/480/720/960 physical damage
+and stunning foes for 5/10/15/20 seconds
+
+SAVIRI-SHADOW ASSASSIN
+HP 100-200 regen 10-20
+Sword attack 10-20 (0.8s)
+Bow attack 14-28 (1.0s)
+Bow range 400 Sword range 100
+Armor 30-40% speed 120 Respawn 15
+-Passive-
+Poison strike: each hit applies 1/2/3 poison damage that last indefinetely
+Shadowport: teleport over long distances
+-Active-
+Dark arrow(5s)
+Each fifth arrow deal magic damage and apply +50 extra damage
+Mirage(30/25/20s)
+Before taking a lethal blow, teleport away and stun the
+foe for 1/2/3 seconds
+Dark Swarm(50s)
+Create a fog that last 10 seconds, dealing 10/20/30 true damage
+per second. Enemies inside the fog take twice the damage
+from all other attacks
+Execution(50/40/32s)
+Instakill the strongest enemy nearby
+Snake Strike(Hero spell, 24s)
+Apply a strong poison to a unit, dealing 20/40/60/80 true
+damage per second, and lasting indefinetely. Ability recharges
+three times faster if target is killed after only seconds
+of applied poison
+
+EDGE-SWORDMASTER
+-Strong melee hero-
+HP 200-400 regen 20-40
+Sword attack 10-20 (1.0s)
+Armor 0% Speed 75 Respawn 15
+-Passive-
+Counter: 60/70/80% to dodge and counter for 20 physical damage
+ShadowDash: speeds up when targeting foes (double speed)
+-Active-
+Sharp Edge(passive)
+Sword basic attack deal +5/10/15 damage.
+Also deal +1/2/3 damage when attacking the same target.
+Caps at +5/10/15
+Sword Blitz(20s)
+Deal 250/500/750 true damage up to 5 targets
+Runic Curse(20s)
+Drain up to 50/100/150 HP from enemies nearby
+Double Team(30s)
+Summon 1/2/3 copies of itself, that fights with the same attack power
+but with 20 HP, copy last for 10 seconds
+Tainted Ground(Hero spell, 50s)
+Create a withered zone that last for 10 seconds.
+Here, enemies take 8/16/24/32 true damage per seconds and
+are slowed down for 10/20/30/40% by the same amount
+
+AGAVANEGER
+-Strong melee hero-
+HP 200-400 regen 20-40
+Sword attack 12-24 (1.0s)
+Armor 60-80% Speed 75 Respawn 30
+-Passive-
+Sun blessing: enemies nearby take 3/6/9 true damage
+and are slowed down by 15/20/25%
+Lone wolf: +20/40/60% extra damage when away from allies(300)
+-Active-
+Mortal strike(20/16/12s)
+Instakill a foe with less than 30/40/50% of its max Hp
+Aloe sprout(10/9/8s)
+Plant an aloe sprout, after 8 seconds, it blooms
+and will charge towards the nearest enemy, dealing 80/120/160 explosive damage
+Justice Blade(20s)
+Deal 300/600/900 physical damage to one enemy.
+If enemy dies, refresh all other abilities instantly
+Avenging Spirit(passive)
+While dead, allies and towers deal +30/60/90% damage
+Scorpion King(Hero spell, 60s)
+Transform Agavenger into his scorpion form, getting
+these stats. Mortal strike, justice blade and
+Aloe sprout are still active, lone wolf also applies.
+Trasformation last for 20 seconds and restore all Hp
+before and after transformation.
+Scorpion stats.
+HP 200/400/600/800 Armor 80% Speed 120
+Sword attack 30/60/90/120 (1.0s) true damage
+Every fifht strike, uses a scorpion stinger,
+dealing an extra 300 true damage
+
+NERIA-FIRE FLOWER
+-Crowd controlmagic hero-
+HP 200-400 regen 20-40
+Fire attack 20-40 (2.0s)
+Sword attack 12-24 (1.0s)
+Fire range 400 sword range 100
+Armor 0% Speed 75 Respawn 15
+-Passive-
+Ember Pact: when Neria dies, release embers that can be moved
+and deal 5/10/15/20 true damage per second to units who
+step on them
+Imbue: when Neria dies, all towers gain 5/10/15/20% extra damage
+until she reappears
+Ablaze: all magic attacks inflict burn status, which deal 1/2/3
+fire damage over time, last about 20 seconds
+-Active-
+Distant Flare(10s)
+Shoot a fireball, dealing 40/60/80 fire damage
+Sacred Fire(passive)
+Increase all spell damage by 8/16/25%
+Immolation(passive)
+When Neria dies, explodes, dealing 100/200/300 true damage
+around 150 space
+Fire Bush(20s)
+Cast a fire bush that moves along the path,
+dealing 10/20/30 damage per seconds for 10 seconds 
+Blazing Flowers(Hero spell, 60s)
+Summon a storm of 10 flowers, each dealing 30/60/90/120 true damage
+on contact. Foes who dies by the flowers will summon an extra flower
+
+COYOTL
+-Ranged support hero-
+HP 120-240 regen 10-20
+Magic attack 12-24 (1.0s)
+Sword attack 10-20 (1.0s)
+Magic range 320 Sword range 80
+Armor 0% Speed 90 Respawn 25
+-Passive-
+Leap: jump when moving to long distances, stunning foes for 1 seconds on landing
+Scout: towers in 320 range get +5% attack range
+-Active-
+Magic Ricochet(passive)
+Every magic projectile has a 30/70/100% to bounce off an enemy
+dealing 6/12/18 extra damage and stunning them for 0.2 seconds
+Wind Shield(6s)
+Create a shield to himself or another ally.
+Shield has 50/100/150 Hp and explodes when broken,
+dealing 30/60/90 magic damage over an area of 50
+Deep cast(35s)
+Teleport 1/2/3 enemies back to their spawning point
+Ancient Howls(24s)
+Summon 1/2/3 coyote warriors who will fight for 20 seconds
+HP 100 Atk 12 Armor 50% Stun 0.3s
+
+NOBLE
+-Strong melee hero-
+HP 180-360 regen 15-30
+Sword attack 32-64 (1.2s)
+Armor 40-60% Speed 32 Respawn 40
+-Passive-
+Defensive stance: ignores the first hit of any enemy he's facing
+Layered armor: reduce all damage taken by 2/4/6/8, can reduce
+damage to 0, applies after armor
+-Active-
+Golden Shield of the Order(passive)
+When hp is below 20%, becomes invulnerable for 4/8/12 seconds.
+Skill activate again only after being healed.
+He can still take damage, but HP will never go below 1
+Triumph(passive)
+After killing an enemy, heal himself by 100/200/300 HP
+Determination(passive)
+Reduce Hero spell cooldown by 1/2/3 seconds for each hit taken
+Great Blade(passive)
+Increase his sword attack power by 10/20/30
+Brotherhood of the Noble City(Hero spell, 120s)
+Summon 1/2/3/4 copies of itself that will fight for 10 seconds.
+Copies have all Noble abilities except determination and Great Blade
+
+AGAPE-GHOST
+-Versatile magic support hero-
+HP none regen none
+Spirit attack 30-60 (1.0s) true damage
+Range 320
+Cannot be hit or defeated speed 40
+-Passive-
+Spiritport: this unit teleports over long distances
+Etereal presence: this unit cannot be removed, but
+cannot block enemies
+Channeling: When not attacking, charge up his
+shots, can hold up to 2/3/4/5 shots
+-Active-
+Spectral Armor(passive)
+Allies nearby get +5/10/15% armor and reflect 10/20/30%
+of enemy damage in melee
+Taunting Facade(passive)
+Enemies who pass trought him take 15/30/45 true damage
+and are slowed down for 25% in area 150
+Mind Control(30s)
+Possess an enemy for 4/8/12 seconds, forcing him to
+fight against his comrades, then, it takes 100/200/300
+damage and get permanently slowed down by 50%
+Ghastly Weapon(15s)
+Shoot a powerful lance, which deal 120/240/360 true damage
+to the most powerful enemies on screen
+Grave Mistake(Hero spell, 30s)
+Empower Ghost basic attack for 25/50/75/100% for 6 seconds.
+While empowered, each attack has a 10% to instakill
+
+ACYRA-MIND SWEEPER
+-Magic support hero-
+HP 100-200 regen 10-20
+Tongue attack 20-40 (2.0s)
+Armor 0% Speed 60 Respawn 30
+-Passive-
+Shade: enemies with more than 300 HP won't attack her
+Sticky tongue: melee attack inflict 0.2/0.4/0.6/0.8 seconds stun
+-Active-
+Mind Read(30s)
+Control 1/2/3 enemies. They'll be under the player
+control for 20 seconds
+Seductive eyes(passive)
+She gain a 20/40/60% dodge chance against melee attacks
+Thorns of Agony(passive)
+When someone lands a melee hit on her, she'll inflict
+a curse on the foe. Curse forces the enemy to run backwards
+with +50% speed and taking 10 true damage per second.
+Curse last for 4/8/12 seconds
+Spiked Path(30s)
+Place down a path of spikeweeds, slowing down
+enemies by 80% for 10/15/20 seconds. Enemies slowed
+down also take 10/20/30 true damage per second
+Black Rain(Hero spell, 120s)
+Deal 20 true damage per second to all enemies for
+10/20/30/40 seconds, for a total of 200/400/600/800 damage.
+Enemies in the rain will also have no armor or resistence
+
+SHALLA-LIZARD SHAMAN
+-versatile magic support hero-
+HP 400-800 regen 50-100
+Spear attack 30-60 (1.2s)
+Range 350
+Armor 0% Speed 54 Respawn 20
+-Passive-
+Cold Blood: regen 5/10/15/20 Hp per second while in combat
+Ank: avoid one fatal blow per life and recover 50% of her max hp
+-Active-
+Spring of Life(12s)
+Cast a storm of leaf, healing allies in area 120 to
+regen 24 Hp per second for 4/8/12 seconds. Doesn't affect Shalla
+Ice Path(20s)
+Freezes foes down a path for 1/2/3/4 seconds and apply
+slow down of 50% for 1/2/3/4 seconds
+Flame Breath(20s)
+Deal 80/160/240 true damage over an area of 120 in front of her
+Stone Rain(20s)
+Deal 120/240/360 physical damage to foes down a path
+Natural Balance(Hero spell, 60s)
+Deal 100/200/300/400 true damage to all enemies on screen
+and heal all allies by 50/100/150/200 HP
+
+KAYROM-SWORD SAINT
+-Strong melee hero-
+HP 400-800 regen 40-80
+Sword attack 20-40 (2.0s)
+Armor 40-60% Speed 60 Respawn 30
+-Passive-
+Dragon Scales: take -50% damage from melee attacks
+Cold Blood: regen 5/10/15/20 Hp per second while in combat
+-Active-
+Brutal Slash(30s)
+Deal a powerful strike, dealing 200/400/600 true damage
+Imbue(30s)
+Choose a tower, it will deal an extra 20/40/60% damage for 5 seconds
+Vampire strike(30s)
+Do a special strike, dealing 80/160/240 physical damage and
+healing back Kayrom for 50% of damage dealt
+Sword Mastery(passive)
+Increase his base sword attack by 20/40/60
+Draconic Blessing(Hero spell, 60s)
+Summon a pair of Holy dragons, they'll fight for 20 seconds
+HP 400 Atk(true) 50 Armor 50% Range 320
+
+FABIA-SYMBIOTIC HOPLITE
+-Strong melee hero-
+HP 640-1280 regen 64-128
+Lance attack 18-36 (1.0s melee, 1.2s ranged)
+Range 300/100
+Armor 0% Speed 75 Respawn 20
+-Passive-
+Ultra regeneration: recover 15/30/45/60 Hp per second
+Floran shield: take -60% damage from ranged attacks
+-Active-
+Power trust(10s)
+Deal a piercing attack, doing 60/120/180 true damage
+to one target and slowing it down by 10/20/30% for 5 seconds
+Resilience(passive)
+Increase her armor by 10/20/30% and hp by 40/80/120
+Crescent spear(passive)
+Increase base attack by 8/16/24, gain a bonus of +2/+4/+6...
+when attacking the same target, bonues caps at +60 after 10 attacks
+Vampirism(passive)
+Each attack heal herself by 40/80/120% of damage dealt
+Engulf(Hero spell, 50s)
+Teleport to a specified foe, instakilling it and healing
+by an amount equal to foe's max hp
+
+THORIC-VIKING LORD
+-strong melee hero-
+HP 300-600 regen 20-40
+Hammer attack 30-60 (1.8s)
+Armor 20-40% Speed 80 Respawn 20
+-Passive-
+Vampire strike: thoric heals by 25/50/75/100% of damage dealt
+Call to Vahalla: when Thoric dies, generate a battlefield,
+allies inside the battlefield will deal +10/20/30% damage
+and enemies are slowed down by 20/30/40% for 20 seconds
+-Active-
+Migthy Hammer(passive)
+Increase Thoric basic attack damage by 20/40/60,
+and on tier 3, attack ignores half the physical armor
+War cry(30s)
+Stun enemies in a wide area(300) for 2/4/6 seconds
+and deal 100/200/300 physical damage to the nearest ones(area 200)
+Colossal blow(passive)
+Each attack deal splash damage(area 120) to enemies nearby, dealing
+splash damage equal to 20/35/50% of his base damage
+Fjallahorn(30s)
+Play the horn, stunning all foes for 3/6/9 seconds, it also
+deal 60/120/180 true damage to the enemies in the zone(360)
+Thor's Fury(Hero spell, 60s)
+Cause a powerful thunderstorm, dealin 150/300/450/600 true damage
+to all foes on screen, and stunning them for 2/3/4/6 seconds
+
+Support Powers
+Viking reinforcements
+Numbers 2 HP 100 Atk 10 Life 10s Respawn 15
+Velite reiforcements
+Numbers 2 HP 180 Atk 35 Life 10s Respawn 40 Range 240
+
+VITA-BEACON OF HOPE
+-versatile melee and ranged hero-
+HP 120-240 regen 20-40
+Knife attack 10-20 (1.0s)
+Magic attack 18-36 (1.2s)
+range 320/80
+Armor 0% Speed 100 Respawn 30
+-Passive-
+Elemental shape-shifting: Vita can change forms and abilities at the player's will
+
+FIRE version
+-Passive-
+Burn: every fire attack deal 2/4/6/8 dmg per second as fire damage, last 5 seconds
+-Active-
+Fireball(30s)
+Shoot a fireball at a group of at least 3 enemies, dealing 180/300/400 over an area of 100/120/150 range
+Immolation(passive)
+when he gets destroyed, explode, in area 120, dealing 100/200/300 explosive damage, also,
+for each enemy destroyed, reduce respawn time by 4 seconds, up to -32 seconds
+Armor Melter(passive)
+Fire attack reduce foe's armor and magic resistence by 1/2/3% each
+Ember(20s)
+Relseas a tray of burning coals, in ares 50x200, enemies who step on it
+will take 5/10/15 fire damage per seconds. Tray last for 10 seconds.
+Cataclysm(Hero spell, 80s)
+Show meteors all over the map.Each meteor deal 200 fire damage, up to 10/20/30/40 meteors.
+Each impact leaves tray of coals for 10 seconds.
+
+ICE version
+-Passive-
+Freeze: every ice attack apply -10/20/30/40% slow down for 5 seconds
+-Active-
+Ice Shard(20s)
+Thor an ice lance at the target with the most hp, dealing 100/200/300 true damage
+Frostbite(passive)
+When hitting enemies who have been slowed down, each hit has a 10/20/30% to freeze it
+for 2/3/4 seconds. Also, it will take 10 true damage for as long as the enemy is slowed or frozen.
+Hybernation(passive)
+When it's hp goes below 30%, become invulnerable for 1/2/3 seconds, and regain 50/100/150 hp over time.
+Ice Ray(20s)
+Freezes all enemies in front of him for 2/4/6 seconds.
+Sub Zero(Hero spell, 80s)
+Freezes all enemies on screen for 5/10/15/20 seconds, also apply frosbite.
+
+WIND version
+-Passive-
+Wind push: each wind attack will push the foe by 2/4/6/8 spaces
+-Active-
+Celerity(passive)
+Increase movement speed of allies and itself by 20/40/60%
+Wind Blade(passive)
+Each hit will strike and additional 2/3/4 enemies
+Tornado(30s)
+Knockback a group of 5/7/9 enemies down a path of 300 spaces, dealing 80/90/100 magic damage to each one
+Wind Shield(30s)
+Can windshields on allies. Each shield will protect the target from 2/3/4 ranged attacks.
+Each shield last 30 seconds.
+Cyclone's Eyes(Hero spell, 60s)
+Pushes all enemies on screen by 100/200/30/400 spaces. After that, enemies will stop moving for 3/6/9/12 seconds.
+
+THUNDER version
+-Passive-
+Stun: each thunder hit has a 5/10/15/20% chance of stunning the foe for 2 seconds
+-Active-
+Chain Lighting(30s)
+Shoot a lighting beam, dealing 180/360/540 magic damage. Overkill damage is stransfered
+to the nearest foe.
+Static field(passive)
+Each thunder attack will leave a static field zone. Foes who cross the zone will take
+9/12/15 magic damage. Zone is 200 tiles wide, and last for 3/4/5 seconds
+Overpower(passive)
+For each hit, increase magic attack by 4/8/12 points, but take 1/2/3 damage.
+This ability can kill the hero. Ability resets when hero stops attacking.
+Thunder Mine(20s)
+Place a thunder mine on the path. The first foe who step on it, will take 100/200/300 magic damage
+and gets stunned for 5 seconds. Mines last for 80 seconds.
+Lighting Storm(Hero spell, 80s)
+Deal 1000/2000/3000/4000 magic damage to random enemies on screen. Surviving enemies get
+stunned for 2/4/6/8 seconds.
+
+LIGHT
+DARK
+EARTH
+WATER
+TOXIC
+METAL
+SOUND
+PLANT

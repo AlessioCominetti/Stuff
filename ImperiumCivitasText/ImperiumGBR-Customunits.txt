@@ -1,0 +1,898 @@
+ROMA REPUBBLICANA
+Legionario
+HP 200
+Atk 20
+Def 12
+Speed 60
+Cost 90 G 1 pop 4 sec
+Abilities: Deflection
+
+Hastatus
+HP 200
+Atk 16
+Def 12
+Speed 80
+Cost 90 G 1 pop 4 sec
+Abilities: special defense, vitality
+
+Archer
+HP 150
+Atk 20
+Range 500
+Def 0
+Speed 80
+Cost 80 G 1 pop 6 sec
+Abilities: special defense
+
+Velite
+HP 200
+Atk 18
+Range 300
+Def 8
+Speed 80
+Cost 120 G 1 pop 8 sec
+Abilities: Expert attack, instruction
+
+Princep
+HP 300
+Atk 24
+Def 18
+Speed 80
+Cost 200 G 1 pop 12 sec
+Abilities: special attack, vitality
+
+Triarius
+HP 300
+Atk 18
+Def 18
+Speed 80
+Cost 200 G 1 pop 12 sec
+Abilities: triple strike, deflection
+
+Equite
+HP 250
+Atk 20
+Def 12
+Speed 180 
+Cost 140 G 1 pop 20 sec
+Abilities: fury, special defense
+
+Legatus
+HP 600
+Atk 40
+Def 16
+Speed 60
+Cost 280 G 1 pop 24 sec
+Abilities: pierce, containment
+
+War chariot
+HP 500
+Atk 30
+Range 500
+Def 10
+Speed 160
+Cost 400 G 2 pop 40 sec
+Abilities: triple strike, ferocity,freedom
+
+Hero
+HP 1000
+Atk 40
+Def 12
+Speed 160
+Cost 1200 G 40 sec
+Abilities: superior attack, superior defense, forced march, prestige, hero hp
+
+Priest
+HP 120
+Atk no
+Range 100
+Def 0
+Speed 50
+Cost 200 G 20 sec
+Abilities: healing
+
+ROMA ANTICA
+Militian
+HP 180
+Atk 18
+Def 12
+Speed 80
+Cost 90 G 1 pop 4 sec
+Abilities: special defense, resilience
+
+Velite
+Archer
+
+Clipeata
+HP 260
+Atk 20
+Def 12
+Speed 180
+Cost 140 G 1 pop 20 sec
+Abilities: speciald defense, regeneration
+
+Hastatus
+Princep
+Triario
+Legatus
+
+Extraordinari
+HP 400
+Atk 40
+Def 18
+Speed 80
+Cost 200 G 3 sec
+Abilities: Deflection, freedom
+
+Hero
+HP 1200
+Atk 40
+Def 12
+Speed 160
+Cost 1200 G 40 sec
+Abilities: superior attack, superior defense, forced march, prestige, charisma
+
+Priest
+
+ROMA IMPERIALE
+Legionarius
+HP 240
+Atk 20
+Def 16
+Speed 60
+Cost 100 G 1 pop 4 sec
+Abilities: Deflection
+
+Archer
+
+Gladiator
+HP 300
+Atk 30
+Def 10 
+Speed 80
+Cost 200 G 1 pop 16 sec
+Abilities: Expert Strike, Instruction
+
+Cataphract
+HP 400
+Atk 40
+Def 18
+Speed 160
+Cost 220 G 1 pop 20 sec
+Abilities: Pierce, resilience
+
+Pretorian
+HP 600
+Atk 40
+Def 16
+Speed 60
+Cost 400 G 1 pop 24 sec
+Abilities: Thorns, reanimation
+
+Liberatus
+HP 440
+Atk 40
+Def 12
+Speed 80
+Cost 200 G 3 sec
+Abilities: regeneration, instruction, freedom
+
+Secutor
+HP 600
+Atk 50
+Def 20
+Speed 60
+Cost 400 G 8 sec
+Abilities: Deflection, reanimation, freedom
+
+Hero
+HP 1300
+Atk 30
+Def 12
+Speed 160
+Cost 800 G 40 sec
+Abilities: superior attack, superior defense, forced march, prestige, erudition
+
+Priest
+
+GAULS
+Swordman
+HP 200
+Atk 12
+Def 6
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: pierce
+
+Archer 
+HP 180
+Atk 14
+Range 500
+Def 0
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: special attack
+
+Axeman
+HP 300
+Atk 40
+Def 8
+Speed 60
+Cost 180 G 1 pop 16 sec
+Abilities: expet attack, ferocity
+
+Spearman
+HP 300
+Atk 24
+Def 16
+Speed 80
+Cost 160 G 1 pop 16 sec
+Abilities: Deflection
+
+Horseman
+HP 400
+Atk 26
+Def 8
+Speed 160
+Cost 160 G 1 pop 20 sec
+Abilities: Charge
+
+Female warrior
+HP 300
+Atk 40
+Def 16
+Speed 80
+Cost 300 G 1 pop 24 sec
+Abilities: mortal strike, revenge
+
+Light cavalry
+HP 240
+Atk 18
+Range 300
+Def 6
+Speed 180
+Cost 200 G 1 pop 20 sec
+Abilities: triple strike
+
+Fand warrior
+HP 1200
+Atk 80
+Def 14
+Speed 80
+Cost 1000 G 30 sec
+Abilities: triumph, freedom
+
+Hero
+HP 1000
+Atk 50
+Def 12
+Speed 160
+Cost 1000 G 40 sec
+Abilities: hero atk, hero hp, call defense, prodigy, majestry
+
+Druid
+HP 120
+Atk no
+Range 100
+Def 0
+Speed 50
+Cost 200 G 20 sec
+Abilities: healing, invisibility
+
+GERMANS
+Swordman
+HP 200
+Atk 18
+Def 4
+Speed 80
+Cost 80 F 1 pop 4 sec
+Abilities: special attack, vitality
+
+Archer
+HP 200
+Atk 12
+Range 500
+Def 0
+Speed 80
+Cost 120 F 1 pop 6 sec
+Abilities: special attack, vitality
+
+Axeman
+HP 300
+Atk 30
+Def 0
+Speed 60
+Cost 240 F 1 pop 12 sec
+Abilities: Triple strike, exhaustion
+
+Spearman
+HP 300
+Atk 18
+Def 12
+Speed 80
+Cost 240 F 1 pop 12 sec
+Abilities: Deflection, exhaustion
+
+Hunter
+HP 240
+Atk 40
+Range 300
+Def 0
+Speed 60
+Cost 400 F 1 pop 20 sec
+Abilities: pierce, mimetism
+
+Teutonic raider
+HP 360
+Atk 32
+Def 10
+Speed 160
+Cost 400 F 1 pop 24 sec
+Abilities: special attack
+
+Teutonic archer
+HP 360
+Atk 12
+Range 500
+Def 10
+Speed 160
+Cost 400 F 1 pop 24 sec
+Abilities: special attack
+
+Teutonic incursor
+HP 360
+Atk 32
+Def 10
+Speed 160
+Cost 500 F 1 pop 24 sec
+Abilities: Charge
+
+Maceman
+HP 600
+Atk 50
+Def 4
+Speed 80
+Cost 500 F 1 pop 24 sec
+Abilities: expert strike
+
+Valkyre
+HP 400
+Atk 30
+Def 12
+Speed 160
+Cost 200 G 3 sec
+Abilities: lethal attack, resilience
+
+Hero
+HP 1300
+Atk 70
+Def 10
+Speed 160
+Cost 1000 G 40 sec
+Abilities: dodge, forced march, eufory, gesta, call defense
+
+Enchantress
+HP 200
+Atk no
+Range 100
+Def 8
+Speed 50
+Cost 200 G 20 sec
+Abilities: curse
+
+BRITONS
+Swordman
+HP 200
+Atk 16
+Def 6
+Speed 80
+Cost 60 G 1 pop 6 sec
+Abilities: special attack
+
+Archer
+HP 180
+Atk 10
+Range 500
+Def 0
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: triple strike
+
+Spearman
+HP 240
+Atk 22
+Def 16
+Speed 80
+Cost 160 G 1 pop 12 sec
+Abilities: Deflection, pierce
+
+Caledonian figther
+HP 320
+Atk 24
+Def 18
+Speed 80
+Cost 160 G 1 pop 12 sec
+Abilities: special defense, reanimation
+
+Javelin warrior
+HP 240
+Atk 24
+Range 300
+Def 0
+Speed 80
+Cost 160 G 1 pop 12 sec
+Abilities: mortal strike
+
+Slinger
+HP 200
+Atk 40
+Range 500
+Def 0
+Speed 80
+Cost 200 G 1 pop 16 sec
+Abilities: Expert Strike, resilience
+
+Horseman
+
+Highlander
+HP 500
+Atk 50
+Def 6
+Speed 80
+Cost 400 G 1 pop 20 sec
+Abilities: Deflection
+
+War chariot
+HP 600
+Atk 30
+Range 500
+Def 10
+Speed 160
+Cost 400 G 1 pop 20 sec
+Abilities: Triple strike, Ferocity, freedom
+
+Norman chief
+HP 1200
+Atk 120
+Def 6
+Speed 80
+Cost 1000 G 30 sec
+Abilities: vampire strike, ferocity, freedom
+
+Hero
+HP 1200
+Atk 50
+Range 500
+Def 12
+Speed 160
+Cost 1000 G 40 sec
+Abilities: charisma, gestas, recover, dodge, prestige
+
+Druid
+
+IBERIANS
+Militia
+HP 180
+Atk 18 
+Def 6
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: special defense
+
+Archer
+HP 180
+Atk 20
+Range 500
+Def 0
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: sfinimento
+
+Slinger
+
+Defender
+HP 200
+Atk 20 
+Def 22
+Speed 80
+Cost 150 G 1 pop 12 sec
+Abilities: Deflection, resilience
+
+Horseman
+HP 240
+Atk 34
+Def 4
+Speed 160
+Cost 140 G 1 pop 20 sec
+Abilities: Charge
+
+Light cavalry
+
+Elite guard
+HP 420
+Atk 30
+Def 12
+Speed 80
+Cost 300 G 1 pop 24 sec
+Abilities: obstination
+
+Skirmisher
+HP 180
+Atk 18
+Range 300
+Def 6
+Speed 80
+Cost 90 G 1 pop 6 sec
+Abilities: pierce
+
+Guerrigliero
+HP 500
+Atk 50
+Def 14
+Speed 80
+Cost 200 G 20 sec
+Abilities: Expert attack, mimetism, freedom
+
+Hero
+HP 1000
+Atk 40
+Def 16
+Speed 160
+Cost 800 G 40 sec
+Abilities: hero hp, superior defense, healing, peace, eufory
+
+Priestess
+HP 180
+Atk no
+Range 100
+Def 12
+Speed 50
+Cost 200 G 20 sec
+Abilities: teach, vitality
+
+GREEKS
+Skirmisher
+
+Archer
+HP 160
+Atk 20
+Range 500
+Def 0
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: sfinimento
+
+Hoplite
+HP 300
+Atk 20
+Def 18
+Speed 70
+Cost 160 G 1 pop 12 sec
+Abilities: Deflection
+
+Hipapist
+HP 400
+Atk 40
+Def 18
+Speed 80
+Cost 280 G 1 pop 20 sec 
+Abilities: special defense, reanimation
+
+Heitaroi
+HP 320
+Atk 30
+Def 14
+Speed 150
+Cost 200 G 1 pop 20 sec
+Abilities: expert attack
+
+War chariot
+HP 1000
+Atk 80
+Def 30
+Speed 160
+Cost 500 G 2 pop 20 sec
+Abilities: Trample, thorns, freedom
+
+Mirmidon
+HP 330
+Atk 30
+Range 400
+Def 8
+Speed 70
+Cost 330 G 1 pop 30 sec
+Abilities: Lethal attack, Expert defense
+
+Slinger
+Horseman
+Light cavalry
+
+Hero
+HP 1200
+Atk 40
+Def 12
+Speed 160
+Cost 800 G 40 sec
+Abilities: superior defense, hero def, wisdom, aggression, prodigy
+
+Priest
+
+CARTAGINIANS
+Numidian infantry
+HP 200
+Atk 16
+Def 12
+Speed 80
+Cost 100 G 4 sec
+Abilities: revenge, special attack
+
+Libian javelin warrior
+HP 180
+Atk 30
+Range 300
+Def 0
+Speed 80
+Cost 120 G 6 sec
+Abilities: pierce
+
+Mauritanian figther
+HP 300
+Atk 30
+Def 10
+Speed 80
+Cost 150 G 8 sec
+Abilities: fury, containment
+
+Maceman
+HP 400
+Atk 34
+Def 8
+Speed 60
+Cost 260 G 12 sec
+Abilities: obstination
+
+Tuareg
+HP 400
+Atk 30
+Def 10
+Speed 160
+Cost 180 G 16 sec
+Abilities: regeneration, lynx eyes
+
+light cavalry
+slinger
+gallic spearman
+
+Noble
+HP 400
+Atk 50
+Def 20
+Speed 60
+Cost 400 G 1 pop 24 sec
+Abilities: vampire strike, determination
+
+War elephant
+HP 3000
+Atk 60
+Def 40
+Speed 60
+Cost 1000 F 40 sec
+Abilities: trample, regeneration, freedom
+
+Archer elephant
+HP 3000
+Atk 50
+Range 500
+Def 40
+Speed 60
+Cost 1000 F 40 sec
+Abilities: Poison strike, regeneration, freedom
+
+Imperial Elephant
+HP 4000
+Atk 80
+Def 40
+Speed 80
+Cost 1000 G 60 sec
+Abilities: Deflection, Trample, freedom
+
+Lybian spearman
+HP 300
+Atk 20
+Def 16
+Speed 80
+Cost 180 G 16 sec
+Abilities: Deflection
+
+Hero
+HP 1200
+Atk 50
+Def 18
+Speed 160
+Cost 1000 G 40 sec
+Abilities: dodge, vigor, prestige, wisdom, brave
+
+Shaman
+HP 120
+Atk no
+Range 100
+Def 0
+Speed 50
+Cost 200 G 20 sec
+Abilities: curse
+
+EGYPTIANS
+swordman
+HP 400
+Atk 20
+Def 4
+Speed 80
+Cost 90 G 1 pop 8 sec
+Abilities: Exhaustion
+
+Archer
+HP 140
+Atk 20
+Range 500
+Def 0
+Speed 80
+Cost 60 G 1 pop 4 sec
+Abilities: Sfinimento
+
+Axe thrower
+HP 260
+Atk 20
+Range 300
+Def 12
+Speed 60
+Cost 180 G 1 pop 12 sec
+Abilities: triple strike
+
+Nile spearman
+HP 260
+Atk 20
+Def 12
+Speed 80
+Cost 180 G 1 pop 12 sec
+Abilities: Deflection, poison strike
+
+Horus,Anubis,Guardian, warrior
+HP 360
+Atk 36
+Def 8
+Speed 80
+Cost 260 G 1 pop 20 sec
+Abilities: Mortal Strike/Obstination/Deflection, ferocity
+
+Osiris chariot
+HP 600
+Atk 50
+Range 500
+Def 16
+Speed 160
+Cost 400 G 2 pop 40 sec
+Abilities: poison strike, freedom
+
+War elephant
+Archer elephant
+Imperial elephant
+Slinger
+Light cavalry
+Tuareg
+
+Hero
+HP 1200
+Atk 40
+Def 20
+Speed 160
+Cost 800 G 40 sec
+Abilities: recover, vigor, forced march, survival, healing
+
+Priest
+HP 300
+Atk no
+Range 100
+Def 8
+Speed 50
+Cost 300 G 20 sec
+Abilities: exhaustion, healing
+
+-------------
+CUSTOMS
+-------------
+OLMECS
+Spearman
+HP 200
+Atk 16
+Def 12
+Speed 80
+Cost 100 G 1 pop 6 sec
+Abilities: special attack, poison strike
+
+Archer
+HP 150
+Atk 12
+Range 500
+Def 0
+Speed 80
+Cost 80 G 1 pop 8 sec
+Abilities: sfinimento, poison strike
+
+Slinger
+Skirmisher
+
+Blowpipe warrior
+HP 200
+Atk 10
+Range 300
+Def 0
+Speed 80
+Cost 100 G 1 pop 10 sec
+Abilities: poison strike, expert strike
+
+Maceman
+HP 500
+Atk 50
+Def 8
+Speed 60
+Cost 280 G 1 pop 16 sec
+Abilities: pierce, regeneration
+
+Jaguar warrior
+HP 400
+Atk 40
+Def 16
+Speed 80
+Cost 320 G 1 pop 24 sec
+Abilities: obstination, expert defense, mimetism
+
+Eagle warrior
+HP 300
+Atk 30
+Range 400
+Def 12
+Speed 80
+Cost 320 G 1 pop 24 sec
+Abilities: expert defense, resilience
+
+Mace scout
+HP 160
+Atk 20
+Def 8
+Speed 100
+Cost 100 G 1 pop 8 sec
+Abilities: charge,  expert defense
+
+Halberdier
+HP 300
+Atk 24
+Def 18
+Speed 70
+Cost 200 G 1 pop 20 sec
+Abilities: Deflection, Expert strike
+
+Hero
+HP 1000
+Atk 50 
+Range 500
+Def 20
+Speed 80
+Cost 1000 G 40 sec
+Abilities: forced march, call defense, charisma, recover, survival
+
+Shaman
+HP 180
+Atk no
+Range 100
+Def 0
+Speed 50
+Cost 200 G 20 sec
+Abilities: healing, resilience, invisibility
+
+HP
+Atk
+Range
+Def
+Speed
+Cost
+Abilities:
