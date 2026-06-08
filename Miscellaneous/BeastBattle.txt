@@ -1,0 +1,233 @@
+ORIGINAL GAME
+Turtle
+HP 16 Atk 4 Def 6
+Damage 2  Move 3
+Cost 60 Pop 166  total cost 9960
+total hp 2656  total dmg 332
+
+Bull
+HP 10 Atk 6 Def 3
+Damage 3  Ammo 10 Move 4
+Cost 90 Pop 250  total cost 22500
+total hp 2500 total dmg 750
+
+Tree
+HP 25 Atk 10 Def 7
+Damage 9  Ammo 5 Move 5
+Cost 180 Pop 100  toal cost 18000
+total hp 2500 total dmg 900
+
+Parrot
+HP 50 Atk 8 Def 8
+Damage 12.5  Move 8
+Cost 300 Pop 50  total cost 15000
+total hp 2500 total dmg 625
+
+Elephant
+HP 100 Atk 15 Def 15
+Damage 27.5  Move 15
+Cost 500 Pop 25  total cost 12500
+total hp 2500 total dmg 687.5
+----
+Gorilla
+HP 8 Atk 6 Def 2
+Damage 2.5 Move 4
+Cost 50 Pop 312  total cost 15600
+total hp 2496 total dmg 780
+
+Bat
+HP 16 Atk 3 Def 3
+Damage 2.5  Move 6
+Cost 100 Pop 156  total cost 15600
+total hp 2496 total dmg 390
+
+Lizard
+HP 20 Atk 9 Def 5
+Damage 12 Ammo 12 Move 5
+Cost 200 Pop 125  total cost 25000
+total hp 2500 total dmg 1500
+
+Snake
+HP 30 Atk 12 Def 9
+Damage 17.5 ammo 7 Move 3
+Cost 350 Pop 83  total cost 29050
+total hp 2490 total dmg 1452.5
+
+Lion
+HP 90 Atk 16 Def 12 
+Damage 20 Move 9
+Cost 430 Pop 27 total cost 11610
+total hp 2430 total dmg 540
+----
+Overlord
+HP 2000 Atk 20 Def 20
+Damage 135  Move 4    Pop 1
+
+Onhanger
+HP 70 Atk 10 Def 10
+Damage 17.5 Ammo 15 Move 8
+Cost 400 Pop 36  total cost 14400
+total hp 2520 total dmg 630
+
+VERSION 2.0
+Turtle
+HP 20  Atk 5  Def 8
+Damage 3.5  Move 3
+Cost 60 Pop 68-89   total cost 5360
+total hp 1780 total dmg 311.5
+
+Bull
+HP 26 Atk 8  Def 5
+Damage 6  Ammo 10 Move 4
+Cost 90 Pop 52-68  total cost 6120
+total hp 1768 total dmg 408
+
+Tree: 2 tiles area damage
+HP 40 Atk 11 Def 8
+Damage 13 Ammo 5 Move 5
+Cost 180 Pop 32-44  total cost 7920
+total hp 1760 total dmg 572
+
+Cat: heal and resurrect allies
+HP 65 Atk 2  Def 20
+Damage 22 Ammo 10 Move 7
+Cost 320 Pop 21-27  total cost 8640
+total hp 1755 total dmg 594
+
+Parrot: always counter
+HP 70  Atk 14  Def 9
+Damage 18  Move 10
+Cost 300 Pop 19-25  total cost 7500
+total hp 1750  total dmg 450
+
+Elephant: teleport
+HP 100  Atk 15 Def 15
+Damage 27.5 Move 15
+Cost 500 Pop 13-17  total cost 8500
+total hp 1700 total dmg 467.5
+----
+Gorilla
+HP 14  Atk 6  Def 2
+Damage 4  Move 4
+Cost 50  Pop 87-113   total cost 5650
+total hp 1582  total dmg 452 
+
+Bat: drain hp from enemies while damaging them
+HP 25  Atk 5  Def 5
+Damage 8.5  Move 6
+Cost 100 Pop 48-63  total cost 6300
+total hp 1575  total dmg 535.5
+
+Lizard
+HP 35  Atk 14  Def 7
+Damage 17  ammo 12 Move 5
+Cost 200 Pop 35-45  total cost 9000 
+total hp 1575  total dmg 765
+
+Pumpkin: damages all enemies on screen
+HP 55  Atk 8  Def 13
+Damage 11  ammo 10 Move 4
+Cost 300 Pop 22-28  total cost 8400
+total hp 1540  total dmg 308
+
+Snake: 2 tiles area damage
+HP 80  Atk 14  Def 10
+Damage 20.5  ammo 7  move 3
+Cost 350 Pop 15-19  total cost 6650
+total hp 1720  total dmg 389.5
+
+Lion: enemies cannot counter 
+HP 90  Atk 16  Def 12
+Damage 24.5  Move 9
+Cost 430 Pop 13-17  total cost 7310
+total hp 1530  total dmg 416.5
+----
+Overlord
+HP 5000 Atk 20 Def 20
+Damage 135 Move 4  Pop 1
+
+Onhanger/Minion
+HP 70 Atk 10 Def 10
+Damage 17.5 Ammo 15 Move 8
+Cost 400  Pop 22  total cost 8800
+total hp 1540  total dmg 385
+
+
+COMPARISON FROM ORIGINAL TO VERSION 2.0
+Turtle: +4 hp, +1 atk, +2 def, +1.5 dmg, -77 units, -4600 total cost
+Bull: +16 hp, +2 atk, +2 def, +3 dmg,  -182 units, -16380 total cost
+Tree: +15 hp, +1 atk, +1 def, +4 dmg, -56 units, -10080 total cost
+Parrot: +20 hp, +6 atk, +1 def, +5.5 dmg, -25 units, -7500 total cost
+Elephant: -8 units, -4000 total cost
+Gorilla: +6 hp, +1.5 dmg, -199 units, -9950 total cost
+Bat: +9 hp, +2 atk, +2 def, +6 dmg, -93 units, -9300 total cost
+Lizard: +15 hp, +5 atk, +2 def, +5 dmg, -80 units, -16000 total cost
+Snake: +50 hp, +2 atk, +1 def, +3 dmg, -64 units, -22400 total cost
+Lion: +4.5 dmg, -10 units, -4300 total cost
+
+
+
+
+
+
+
+NEW UNITS
+Crab: steal foe's armor (foe loses 1 def, this unit gain 1 def for 2 turns)
+HP 32 Atk 5 Def 7
+Damage 5  Move 4
+Cost 130 Pop 80  total cost 10400
+total hp 2560  total dmg 400
+
+Cobra: apply poison on hit (6 dmg over 3 turns)
+HP 25 Atk 9 Def 5
+Damage 12 Ammo 12 Move 5
+Cost 250 Pop 100  total cost 25000
+total hp 2500 total dmg 1200
+
+Weasel: 2 tiles area damage which apply an armor debuff (-3 def for 3 turns)
+HP 40 Atk 9 Def 9
+Damage 18 ammo 7 Move 4
+Cost 340 Pop 62  total cost 21080
+total hp 2480 total dmg 1116
+
+Tiger: apply bleeding on hit (6 dmg over 3 turns), can move after attacking
+HP 120 Atk 16 Def 14 
+Damage 30 Move 9
+Cost 600 Pop 21 total cost 12600
+total hp 2540 total dmg 630
+
+Eagle: first strike deal double damage
+HP 60 Atk 10 Def 10
+Damage 15  Move 10
+Cost 370 Pop 42  total cost 15540
+total hp 2520 total dmg 630
+
+Ant: gain +1 atk for every other ally squad on the field (max +4 atk)
+HP 10 Atk 2 Def 2
+Damage 3 Move 4
+Cost 60 Pop 250  total cost 15000
+total hp 2500 total dmg 750
+
+Centipede: gain +1 def for every other ally squad on the field (max +4 def)
+HP 140 Atk 16 Def 12
+Damage 40  Move 7
+Cost 800 Pop 18  total cost 14400
+total hp 2520 total dmg 720
+
+Panda: apply a curse to reduce foe's attack (-3 atk for 3 turns)
+HP 90 Atk 12 Def 9
+Damage 22.5 Ammo 15 Move 4
+Cost 500 Pop 28  total cost 14000
+total hp 2520 total dmg 630
+
+Hippo: damages all foes adiacent with every attack
+HP 170 Atk 20 Def 20
+Damage 50  Move 5
+Cost 900 Pop 15  total cost 13500
+total hp 2550 total dmg 750
+
+Dragon: has a cone are of attack, inflict burn (15 damage for 3 turns)
+HP 500 Atk 25 Def 25
+Dmg 75 Ammo 5 Move 7
+Cost 5000 Pop 5 total cost 25000
+total hp 2500 total dmg 375

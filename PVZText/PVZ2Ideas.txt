@@ -1,0 +1,941 @@
+Some plants canbe equipped with gems.
+There are 8 gems.
+Fire-add fire damage
+Ice-add freeze effect
+Wind-add knockback
+Earth-add stun
+Thunder-add ligthing damage
+Poison-add poison damage
+Water-add regen and healing effect
+Dark-Add various effects
+
+PLANTS
+TOTAL: 73 plants
+
+Sun flower
+Produces Sun. +50 every 12 seconds
+Sun cost 50 Recharge 4 sec
+HP 250  Can stack 2 times
+P: +300 Sun
+Lvl 2: +20% sun production
+Lvl 3: +40% sun production
+
+Peashooter
+Shoot peas in a straigth line
+Sun cost 100 Recharge 1.5
+HP 200 Atk 20 Rof 1.5 Range:straight
+Can stack 5 times
+P: shoot 100 peas
+Lvl 2: +25% damage
+Lvl 3: +50% damage
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Stonewall
+Block zombies
+Sun cost 50 Recharge 8
+HP 7500 Can stack 3 times
+P: gain a special armor that halves damage taken
+Lvl 2: regen 250 Hp/sec while not attacked
+Lvl 3: regen Hp even while under attack
+GEMS:
+Fire: add fire damage in 3x3 tiles for 500*stack dmg when it dies, -50% HP
+Ice: add ice explosion, freezing foes in 3 x3 tiles for 5 second*stack, -50% HP
+In addition, zombies who attack the stone wall are chilled
+Wind: Every 10 seconds, knocback zombies by 1 tile, -20% HP
+Earth: Add spikes, dealing 20 dmg/sec to zombies who attack it, +4 recharge time
+Thunder: Pull zombies from adiacent lanes, create a plasma field in 3x3 tiles,-40% HP
+Poison: poison zombies on contact, -20% HP
+Water: Add 50 Hp/sec regen even in combat, -60% HP
+Dark: can be empowered by Moonflower(-50% damage taken), in addition,
+zombies who attck this plant will be slowed down by 50%, -80% HP.
+Also, it drains zombies HP around him in 3x3 tile areas, by draining up to
+200 HP every 20 seconds, it cannot overheal
+
+Potato Mine
+Explodes on contact, requires time to arm
+Sun cost 25 Recharge 14
+HP 600 Damage 2000 AoE 1 tile
+Arming time 15
+P: generate 4 instant armed mines
+Lvl 2: reduce arming time by 5 seconds, +25% damage
+Lvl 3: Increase Explosion radius by 50%, reduce arming time by 5 seconds
+
+Cabbage Pult
+Shoot cabbages
+Sun cost 100 Recharge 1.5
+HP 600 Atk 40 Rof 3 Range: lobbed
+Can stack 5 times
+P: shoot cabbages at all foes, 200 damage each
+Lvl 2: add splash damage equal to 25% of base damage
+Lvl 3: increase spalsh damage by another 25%
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Iceberg lettuce
+Freezes foes on contact
+Sun cost 0 Recharge 18
+Freeze 8 Touch
+P: freezes all zombie on screen
+Lvl 2: +50% freezing time
+Lvl 3: +100% freezing time, have 3x3 tile effect
+
+Lavender Defender
+Close ranged plant, use sword to slash
+zombies and can witstand damage with a shield
+Sun cost 150 Recharge 4
+HP 1200 Atk 30 Rof 1 Range: Nearby
+P: do 1800 damage all around, gain 50% armor
+Lvl 2: +50% damage
+Lvl 3: +100% damage
+
+Block Buster
+Destroy obstacles,like graves, ice blocks, arcade machines, marble and stone molds
+Sun cost 0 Recharge 10 Busting time 4
+Lvl 2: -20% recharge time
+Lvl 3: -40% recharge time, cut in half busting time
+
+Snap Dragon
+Fire breaths on the 6 adiacent tiles
+Sun cost 200 Recharge 6
+HP 600 Atk 60 Range 2x3 tiles
+P: do 2400 damage on 3x3 tiles
+Lvl 2: +15% area
+Lvl 3: +30% area
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Power Lily
+Conjure a Plant Food
+Sun cost 200 Recharge 60
+
+Spikeweed
+damages foes zwho step on it.
+Can damage rolling objects.
+Can stack 5 times
+Sun cost 75 Recharge 1.5
+HP 450 Atk 20 Rof 0.5 Aoe 1 tile
+P: do 750 damage to all foes here and drag them on the tile
+of the spikeweed
+Lvl 2: +10% to ignore armor
+Lvl 3: +20% to ignore armor
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and regen his missing thorns
+
+CocoCannon
+Shoot a powerful cannon ball
+Touch to use
+Sun cost 400 Recharge 5
+HP 500 Atk 1200 Rof 15 Aoe 3x3 tiles
+P: shoot three cannon balls
+Lvl 2: fire recharge 20% faster
+Lvl 3: Can store two balls
+
+Cherry Bomb
+Explodes in a 3x3 area
+Sun cost 150 Recharge 32
+Damage 2000 Aoe 3x3 tiles
+Lvl 2: shoot 8 balls in all directions who
+bounce and roll for 200 damage
+Lvl 3: leave small potato mines in 3x3 tiles (200 damage each)
+GEMS
+
+Skull flower
+Destroys all zombies on one tile
+Sun cost 50 Recharge 16
+P: summon 8 copies of itself
+Lvl 2: 25% to not consume plant
+Lvl 3: 50% to not consume plant
+
+Split pea
+
+Chili Bean
+Zombie who eat this dies, then release toxic fumes behind him
+Sun cost 50 Recharge 18
+HP 300 Stun 8
+P: summon 4 copies of himself
+Lvl 2: +25% stun duration
+Lvl 3: +50% stun duration
+
+Torchwood
+Set on fire peas that pass over him
+Sun cost 150 Recharge 5
+HP 2400 Up-atk +20 Fire damage 30
+P: empower plant, increase damage boost by 100%
+Lvl 2: increase Hp by 25%
+Lvl 3: increase fire boost by 25%
+
+Akon Archer
+Plant that can shoot in the lane above or below, 
+in a straight or lobbed line. Can stack 3 times
+Sun cost 200 Recharge 3
+HP 1200 Atk 100 Rof 3
+P: shoot 4 piercing arrows in different lanes,
+each dealing 500 damage. Prioritizes lanes with the
+most zombies
+Lvl 2: attacks inflict poison 10 dmg/sec
+Lvl 3: can attack in all five lanes, even backwards
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Jalapeno
+Explode, dealing damage to all zombies on the lane
+Sun cost 125 Recharge 32
+Damage 2000 Range lane
+Lvl 2: add burning lasting flames, dealign 50 damage/sec for 10 seconds
+Lvl 3: double fire lasting effect
+GEMS
+
+Laser Bean
+Deal damage across all zombies on the lane
+Sun cost 175 Recharge 4
+HP 400 atk 40 Rof 3
+P: shoot a laser, dealing 2000 damage across the lane
+Lvl 2: +25% damage
+Lvl 3: +25% damage
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Citron
+Charges plasma balls, dealing high single target damage
+Sun cost 300 Recharge 4.5
+HP 600 Atk 1000 Rof 12
+P: shoot a big plasma balls, removing all but the biggest
+zombies down the lane
+Lvl 2: +20% charge speed
+Lvl 3: can perform plant food effect if it can
+hold the plasma ball for over 50 seconds
+
+Starfruit
+Shoot starts in 5 directions
+Sun cost 125 Recharge 5
+HP 300 Atk 20 Range 5 directions
+P: shoot 10 starts in all directions, 200 damage each
+Lvl 2: can shoot in 6 directions
+Lvl 3: can shoot in 7 directions
+GEMS
+Fire: add fire damage, plus 20 damage/sec over 20 seconds, -20% fire rate
+Ice: add chill effect, last 8 seconds, with 25% chance to freeze for 1 seconds, -40% fire rate
+Wind: each hit inflict 0.25 tile knocback, -25% fire rate
+Earth: each hit inflict 0.25 stun, -20% fire rate, double this plant HP
+Thunder: add splash damage, equal to 50% of this plant base damage, -50% fire rate
+Poison: add poison damage, equal to 50% base damage per second over 30 seconds, -50% fire rate
+Water: this plant heal by 20 Hp per second, make zombies wet with each strike, -10% fire rate
+Dark: can be empowered by moonflower(+50% damage) and projectiles slow down
+zombies by 50%, with a 5% to shrink them, -50% fire rate
+
+Magnifying grass
+Can turn sun into projectiles
+Sun cost 50 Recharge 5
+HP 500 Atk 750
+Attack instantly, cost 50 sun to attack
+P: shoot a laser beam, dealing 200 damage per second,
+lasting 3 seconds, +0.5 second for each sunflower on the field
+Lvl 2: Magnifying grass also generate sun, but at 1/4 rate of a sunflower
+Lvl 3: Plant food last 20% longer
+
+Hypno Shroom
+Turn the zombie who bites it into an ally
+Sun cost 100 Recharge 18
+P: turn zombie who chomp it, into a gargantuar
+Lvl 2: 50% to survive consumption once
+Lvl 3: can be used twice
+
+Puff-shroom
+Short ranged attacker with limited lifespan
+Sun cost 0 Recharge 4
+HP 400 Atk 20 Range 3 tiles Life span 40 seconds
+P: all puffshroom shoot 20 spores, restore life span
+Lvl 2: +25% life span and damage
+Lvl 3: +50% life span and damage
+
+Sun bean
+Zombies who ate it, are infected with sun sickness.
+They generate sun when taking damage. Gain 1 sun for each 1 Hp lost.
+Sun cost 100 Recharge 18
+P: zombie who ate this plant, dies and generate +100 extra sun
+Lvl 2: zombies take 20 dmg/sec when infected
+Lvl 3: 1% per sec to infect other zombies
+
+Magnet shroom
+Remove metallic objects from other zombies
+Sun cost 100 Recharge 12
+HP 600 Destroy 1 metal object every 10 seconds Range 5x5 tiles
+P: grab all metal objects, then throw them at the zombies in lane,
+dealin 200 damage each
+Lvl 2: +20% range
+Lvl 3: +25% metal destruction
+
+Chomper
+Devours zombies close by. Vulnerable while eating
+Sun cost 200 Recharge 5
+HP 600 Chomp time 12 Range nearby
+P: grab 5 random zombies, empty stomach, push back
+all zombies in lane
+Lvl 2: can hide while chomping, preventing plant
+from being under attack
+Lvl 3: spit head after lunch, dealing 200 damage.
+Also, extend range by 3 tiles
+GEMS
+Fire: spit lava on 3x3 tiles
+Ice: while not eating, shoot an ice projectile
+Wind: increase biting range by 3 tiles
+Earth: double plant HP, zombies take 20 dmg/sec while attempting to eat this plant
+Thunder: create plasma field around it
+Poison: while chewing, spit poison forward and behind, zombies attempting to eat it gets poisoned
+Water: fully heal after each zombie eaten
+Dark: can be empowered by moonflower(+50% damage/biting speed) and can
+eat big zombies
+
+Tangle Kelp
+Drown zombies nearby. Acquatic plant
+Sun cost 25 Recharge 18
+HP 500 Atk 500 Range touch
+P: drag 5 random zombies
+Lvl 2: 50% to survive use once
+Lvl 3: can be used twice
+
+Bowling bulbs
+Shoot bulbs that roll over the lane and strike between
+different zombies
+Sun cost 200 Recharge 4
+HP 500 Atk 50 Rof 5
+P: shoot three bulbs, dealing 900 damage each with splash
+Lvl 2: +25% fire rate
+Lvl 3: +50% fire rate
+GEMS
+
+Homing Thistle
+Shoot thorns to the nearest zombie
+Sun cost 250 Recharge 12
+HP 500 Atk 50 Rof 3 Range total
+P: shoot 10 neddles, dealing 200 damage each
+Lvl 2: +20% damage
+Lvl 3: +40% damage
+GEMS
+
+Guacodile
+Shoot seeds, anfibious, when a zombie is nearby,
+rushes off the lawn, biting all zombies down the lane.
+Sun cost 125 Recharge 4
+HP 400 Atk 40 Rof 3 Range straight
+Crocodile attack 200 damage
+P: shoot 2 mini version of himself
+Lvl 2: +20% damage
+Lvl 3: +40% damage
+
+Entropical Mage
+Can shoot magic bolts at zombies.
+Drastically change powers with gems
+Sun cost 500 Recharge 5
+HP 500 Range total
+Special: can be manually toggled between
+auto aim and manual aim
+Lvl 2: -25 sun cost
+Lvl 3: -50 sun cost
+GEMS
+Fire: every 15 seconds, shoot a fire ball, dealing
+1500 damage over 3x3 tile, with -50% on nearby tiles
+P: shoot three fire balls
+Ice: Shoot an ice ball every 18 seconds, dealing 1200 damage over 3x3 tiles
+and chilling zombies for 12 seconds
+P: shoot three ice balls
+Wind: Inflict 3 tile knockback to a zombie every 4 seconds,
+with a 20% to wipe him off the lawn
+P: yeet 10 random zombies
+Earth: gain +9500 HP, shoot stalagmite who deal 200 damage over a tile,
+and act as a barrier, with 4000 HP, dealing 20 thorn damage.
+Can launch a stalagmite every 5 seconds
+P: shoot 5 stalagmites
+Thunder: electrocute a zombie every 5 seconds
+P: electrocute 3 zombies
+Poison: shoot poison balls every 15 seconds, exploding in a 3x3 area,
+dealing 500 are damage with 30 seconds of poison, poison deal 20 damage per second
+Water: Every 20 seconds, revive a fallen plant(most expensive)
+and heal most damaged plant by 2000 Hp every 5 seconds,
+Also, shoot a projectile  100 atk 3 Rof
+P: revive 3 plants with full HP, heal 5 random plants to full
+Dark: transform a zombie into either a puff-shroom, toadstool,
+cabbage zombie or mini zombie
+P: transform 4 random zombies
+
+Ghost pepper
+Haunts zombies in 1x4 tiles, then explode
+Sun cost 75 Recharge 12
+HP 400 atk 40 Rof 0.5 life span 20
+P: haunt zombies in 3x4 tiles, dealing 200 dmg/second for 8 seconds
+Lvl 2: +25% life span
+Lvl 3: +50% life span
+
+Hurricale
+Knock back zombies and push them to the right
+Sun cost 100 Recharge 12
+Chill 8 seconds Knockback 4 tiles
+Lvl 2: -25 sun cost
+Lvl 3: +50% knockback distance
+
+Chad guard
+Knock back zombies
+Sun cost 75 Recharge 12
+HP 1800 Leaves 3 Knocback 3 tiles
+P: Regrow all leaves, knockback all zombies in 3x3 tiles
+Lvl 2: regrow one leaf every 20 seconds
+Lvl 3: regrow one leaf every 15 seconds
+GEMS
+
+Lava Guava
+Erupt, creating a lava puddle
+Sun cost 75 Recharge 15
+HP 100 Eruption 200 Lava damage 50/sec Lava duration 10 seconds
+P: create a fissure, dealing 2000 over 10 seconds down the lane
+Lvl 2: +20% lava duration
+Lvl 3: +50% eruption damage
+
+Red Stinger
+Shoot seeds, becomes more resilient the more is planted on the right
+Sun cost 150 Recharge 4.5
+HP 150-600-1200 Atk 60-30-0 Rof 3 Range straight
+P: shoot a laser that does 700 damage and paralyze zombies for 7 seconds
+Lvl 2: regen 20 Hp/sec while not under attack
+Lvl 3: +50% damage when planted on the middle lanes
+
+Akee
+Shoot projectiles that bounce off zombies
+Sun cost 200 Recharge 4
+HP 500 Atk 90-45 Rof 3 Range lobbed
+Special: 3 bounces
+P: shoot 5 seeds, dealing 400 damage each
+Lvl 2: +1 extra bounce
+Lvl 3: +50% bouncing distance
+
+Durian
+Defensive plant with thorns that damage zombies in proximity
+Sun cost 100 Recharge 12
+HP 4000 Atk 40 Rof 0.5 Can stack 3 times
+P: gain armor, -50% damage taken, double thorn damage
+Lvl 2: slow down zombies in proximity by 30%
+Lvl 3: thorns +20% range
+
+Toadstool
+Eat zombies and produce sun
+Sun cost 200 Recharge 5
+HP 400 Chomp time 30 Range 3
+Special: +50 sun for each zombie eaten
+P: eat 4 random zombies instantly, produce +200 sun
+Lvl 2: +33% range
+Lvl 3: +20% chomp speed
+
+Stallia
+Slow down zombies in 3x3 tikes
+Sun cost 0 Recharge 18
+HP 100 Range 3x3 tiles  Duration 12 seconds Slow down -40%
+P: slow down all zombies on screen
+Lvl 2: slow down effect goes to -50%
+Lvl 3: increase duration by 25%
+
+Gold Leaf
+Create a Gold tile
+Sun cost 75 Recharge 50
+
+Cactus sniper
+Shoot piercing spikes, and hides underground from nearby zombies
+Sun cost 200 Recharge 4
+HP 400 Atk 40 Rof 3 targets pierced 3
+Thorn damage 20 Rof 0.5 Range striaght
+P: empower cactus, dealing double damage
+
+Strawburst
+
+Sound beet
+Deal damage all around itself
+Sun cost 150 Recharge 4.5
+HP 400 Atk 30 Rof 1.0 Range 3x3 tile, can stack 4 times
+P: deal 800 damage around itself, with tapering effect
+Lvl 2: have 5% chance to stun zombies for 0.5 seconds
+Lvl 3: have 10% chance to stun zombies for 0.5 seconds
+GEMS
+Fire
+Ice
+Wind
+Earth: double HP, become stronge the more this plant is hurt
+Thunder
+Poison
+Water
+Dark
+
+Celery Stalker
+Deal damage to zombies one tile behind.
+Hides whennot attacking
+Sun cost 50 Recharge 15
+HP 1500 Atk 125 Rof 0.5 Range behind
+P: heal itself and make 3 copies of itself
+Lvl 2: +20% damage
+Lvl 3: every 5 seconds, stun target for 1 second
+
+Thyme Warp
+Rewind time and make all zombies return to the rightmost column
+Sun cost 100 Recharge 90 Range total
+
+Garlic
+Zombies who eat this plant, are induced to change lane
+Sun cost 50 Recharge 15
+HP 800
+P: changes all zombies here, and stun them for 8 seconds
+Lvl 2: +25% HP
+Lvl 3: zombies are stunned for 0.5 seconds after eating the garlic
+
+Shrinking violet
+Shrinks zombies in 3x3 tiles
+Sun cost 50 Recharge 15 HP 100
+P: shrink all zombies on screen
+Lvl 2: -20% recharge time
+Lvl 3: +20% are of effect
+
+Moon flower
+Produce sun for each dark plant in 3x3 tiles
+Provide an aura that boost dark plants in 3x3 tiles
+Sun cost 50 Recharge 8
+HP 500 Produce 25 for each dark plant in 3x3 tiles, max 100
+P: produce +50 for each dark plant in 3x3 tiles (max +300)
+Generate a shield of 2000 HP around itself
+Lvl 2: increase sun production to 125
+Lvl 3: increase sun production to 150
+
+Nightshade
+Slap zombies with his leaves, when empowered, do ranged attacks
+Sun cost 100 Recharge 6
+HP 600 Atk 200 Rof 5 Range 1-9 tiles
+P: regrow his leaves, a shoot 3 leaves, 600 damage each
+Lvl 2: regrow a leaf every 10 seconds when not powered
+Lvl 3: can perform ranged attacks at range 5, even when not powered
+
+Amanita muscaria
+Poison zombies who ate this. When powered, poison spread to zombies nearby
+Sun cost 50 Recharge 8
+Hp 100 Damage/sec 20 duration 20 sec
+P: poison all zombies on screen
+Lvl 2: +25% poison damage
+Lvl 3: poison last 50% longer
+
+Bleeding heart
+Deal increased damage with each hit
+Sun cost 150 Recharge 5
+HP 300 Atk 40 Rof 3 Range lobbed
+Special: +20 atk for each consecutive hit
+P: Shoot 10 projectiles to random zombies, 200 damage each
+Lvl 2: +50% atk increment
+Lvl 3: zombies damaged by this plant will take +50% from all other sources
+
+Dusk lobber
+Shoots lobbed cactus buds. When empowered, shoot down three lanes
+Sun cost 150 Recharge 9
+HP 450 Atk 40 Rof 3 Range lobbed
+P: Shoot 5 explosive buds, dealing 400 damage over 3x3 tiles areas
+Lvl 2: +25% damage
+Lvl 3: +50% damage
+
+Grimrose
+Kill zombies down his lane. When empowered, last three times
+Sun cost 75 Recharge 18
+HP 300 Atk 900 Range lane
+P: pull down three random zombies, regrow his stems
+Lvl 2: +1 uses
+Lvl 3: +2 uses
+
+Gold Bloom
+Produces a burst of 375 Sun. Recharge 70
+
+Electric currant
+Create electrics fences with copies of each other
+Sun cost 150 Recharge 10
+HP 250 Atk 50 Rof 0.5 Range rows and columns
+P: double this plant atk power
+Lvl 2: when under attack, inflict knockback of 0.2 tiles
+Lvl 3: +20% damage when there are zombies nearby
+GEMS
+
+Aloe
+Heal plants nearby
+Sun cost 100 Recharge 24
+HP 600 Heal 500/10 seconds
+P: Heal all plants on screen by 500
+Lvl 2: can heal plants in 3x3 tile
+Lvl 3: double this plant HP and grant 20 HP/sec regen
+
+Sun Tomato
+Explode, stuning zombies and gain 50 sun from each stunned zombie
+Sun cost 200 Recharge 24
+Stun 8 Area 3x3 tiles
+Lvl 2: +25% stun duration
+Lvl 3: -50 sun cost
+
+Soy summoner
+Summon cabbage zombies who will fight for you
+Sun cost 200 Recharge 20
+HP 400 Spawn time 18-9. Can stack 2 times.
+P: summon a soy gargantuar
+Lvl 2: +50% cabbage zombie HP
+Lvl 3: +100% cabbage zombie HP
+
+Impera
+Turn zombies who bite it into imps, and imps into dust
+Sun cost 0 Recharge 5
+HP 300 Range touch
+P: make 5 copies of itself
+Lvl 2: -20% recharge time
+Lvl 3: 10% of instakill chance for not imps
+
+Pumpkin spice
+Grant +1200 HP to a selected plant (except defenses)
+Sun cost 50 Recharge 4
+
+Ultomato cannon
+Slow charging glass cannon, who shoots a devastating ray.
+Becomes more expensive the more it's planted
+Sun cost 250 Recharge 6
+HP 500 Atk 1600 Rof 10 Range total
+Special: +50 sun cost for each tomato on the lawn
+P: explode, dealing 2000 damage to all zombies on screen
+Lvl 2: -50 initial sun cost
+Lvl 3: -20% sun increment
+
+Gumnut
+Uses gum to stall zombies.
+Gum increases based on zombie's HP.
+Sun cost 125 Recharge 12
+HP 9000 increment 300
+P: create gum for zombies in 3x3 tiles
+Lvl 2: +20% HP increment
+Lvl 3: -2 second recharge
+
+Tumble weed
+Roll down the lane, bouncing off zombies
+Sun cost 0 Recharge 5
+Atk 20 Stun 0.5 Range lane
+Lvl 2: 10% to instakill for each strike
+Lvl 3: +20% damage and stun duration
+
+Olive pit
+Create a pit to entrap zombies, the produce oil
+to slow down zombies around it
+Sun cost 200 Recharge 8
+Capacity 3 Oil slow down 50%
+P: Create a copy of itself, empty this plant capacity
+
+Boingsetta
+Every once in a while, attack all zombies on the screen,
+dealing effective damage vs obstacles
+Sun cost 150 Recharge 30
+HP 300 Atk 100-1000 Rof 25 Range total
+P: do 200 damage bonus to everything
+Lvl 2: +50% bonus damage to obstacles
+Lvl 3: +100% bonus damage to obstacles
+GEMS
+
+Orchid mage
+Uses magic to destory zombies. Effects vary drastically
+with gems
+Sun cost 200 Recharge 20
+HP 300 Range multi-lane
+GEMS
+
+Mine layer
+Create flying mines, who float until a zombie comes near, then explodes
+Sun cost 350 Recharge 5
+HP 300 Atk 600 Rof 12 Range total
+P: create a big explosion, which deal 2000 damage with tapering effect
+Lvl 2: -20% fire rate time
+Lvl 3: -50 sun cost
+GEMS
+
+Chestnut
+Defensive plant who spawn mini chestnuts.
+They then plant on the ground to generate more chestnuts
+Sun cost 150 Recharge 10
+HP 4000 Thorns 20 Spawn 1 chestnut every 10 seconds
+Mini chestnut HP 400, grow in 10 seconds into a chestnut
+P: spawn 3 copies of itself
+Lvl 2: +25% HP and atk
+Lvl 3: -20% spawn time
+
+Spartan
+Melee plant. Each attack deal increased damage until enough
+charge is accumulated. When charge meter is full, unleash charge
+to deal a great knockback. When shield is broken, double
+attack and charge rate.
+Sun cost 200 Recharge 12
+HP 200 Shield 2000 Atk 50-400 Rof 1 Range nearby
+P: Unleash the charge attack three times
+Lvl 2: +20% Atk
+Lvl 3: +50% Shield HP
+
+Sharpshooter
+Long range shooter plant. Stop attacking when
+there are zombies nearby.
+Sun cost 100 Recharge 20
+HP 4000 Atk 80 Rof 1.5 Range straight
+P: each Sharpshooter shoot 5 projectiles 
+and inflict 0.5 tile knockback each
+Lvl 2: 10% for projectiles to pierce all zombies in the lane
+Lvl 3: projectile inflict 2 poison damage/sec for 10 seconds
+
+ZOMBIES
+
+20 AGES
+
+BASICS
+.basic zombie: HP 200 Speed 0.3
+.Conehead: HP 500 Speed 0.3
+.Buckethead: HP 1200 Speed 0.3  Metal armor
+.Flag zombie: HP 200 Speed 0.4
+.Brickhead: HP 2200 Speed 0.3
+.Imp: HP 160 Speed 0.4
+.Gargantuar: HP 3600 Speed 0.4 Throw imp at HP<50% in column 3, smash attack
+.Ranged zombie: HP 200 Speed 0.3, shoot a projectile every 10 seconds, dealing 200 damage to a plant
+.Melee zombie: HP 200 Speed 0.3, deal x4 times the damage of a basic zombie Metal tool
+.Explorer: HP 240 Speed 0.3, instat kill, torch can be frozen
+EGYPT
+.Ra zombie: HP 240 Speed 0.3
+Can steal sun (max 500) to heal zombies and increase speed
+50 sun: heal 50, +25% speed for 10 seconds
+.Camel zombie: HP 200+400 Speed 0.2-0.3 comes in 3-7 units
+.Anubis zombie: HP 400 Speed 0.3, summon 2 gravestone every 10 seconds
+.Horus zombie: HP 400 Speed 0.3 while not attacking, all your
+plants take 20% longer to recharge, for each horus zombie, caps at +100% longer
+.Pharaoh zombie: HP 400 Speed 0.3, summon other egyptian unique zombies 
+.Block pusher: HP 1100 Speed 0.25, pushes stone blocks down the lane
+.Dancer zombie: HP 400 Speed 0.3
+summon sandstorms containing zombies every 20 seconds
+.Osiris zombie: HP 600 Speed 0.3, generate quicksands, who extend
+from right to the 6-th column, destroying any plant and making
+zombies slide faster (x3 speed). Quicksands disappear after 30 seconds
+PIRATE SEAS
+.Raider zombie: HP 200 Speed 0.4, swing to the 5-th column, does x4 times melee damage Metal tool
+.Seagull zombie: HP 200 Speed 1, flier
+.Barrell roller: HP 200-1200 Speed 0.3, barrel destroy plants,
+spawn 2 imps when destroyed
+.Captain zombie: HP 400-200 Speed 0.25, uses parrot to steal plants
+every 20 seconds
+.Anchor Swayer zombie: HP 1100 Speed 0.25, uses anchor to spinplants in
+counter-clockwise direction Metal tool
+WILD WEST
+.Prospector HP 200 Speed 0.3 at a certain point, his dynamite explodes,
+and he goes to the left side of the lawn, moving backwards. Dynamite
+can be extinguished with a frost attack
+.Pianist HP 1000 Speed 0.3 crushes plants, move cowboy zombies to different lanes
+.Barrell roller
+.Chicken wrangler HP 200 Speed 0.3 summon 20 chicken zombies
+.chicken zombie HP 10 Speed 3, 1/4 attack of a normal zombie
+.Rodeo HP 1200 Speed 0.3-1 yeet an imp after crushing to a plant
+.Rain Shaman HP 240 Speed 0.4 summon rain, which slow down fire plants from
+time to time
+FAR FUTURE
+.Jetpack HP 240 Speed 1 Can fly
+.Shield bot HP 500 Speed 0.3 generate a shield that extend over all rows,
+shield has 2000 HP and regen over 40 seconds
+.Medic bot HP 400 Speed 0.3 periodically heal zombie allies for 200 HP every 5 seconds
+.Tank HP 2000 Speed 0.3 crushes plants, shoot explosive shells
+.Astronaut HP 1200 Speed 0.3 immune to various statuses, shoots goo
+.Interstellar bounty hunter HP 400 Speed 0.7 shoot with her pistol, can jump
+to dodge explosions, can teleport to random lanes
+.Portal gun bot HP 400 Speed 0.3 uses a portal gun to create 2 portals.
+Cannot create more than one pair of portals. Zombies and projectiles
+can use the portals  Metal tool
+DARK AGES
+.Jester HP 180 Speed 0.4-0.7 Reflect some plants projectiles, speeding up
+.Wizard HP 800 Speed 0.25 every 10 seconds, turn a random plant into a sheep.
+Effect is reversed if wizard dies
+.King HP 1000 Promote random zombies every 12 seconds
+.Blacksmith HP 400 Give metal tools to zombies every 12 seconds Metal tool
+.Shield HP 200-1000 Speed 0.25 block some ranged projectiles
+.Siege ladder HP 200-400 Speed 0.5 Uses a ladder to climb over defensive plants Metal tool
+.Dragon kin HP 2000 Speed 0.3 breath fires in 2 tiles, can fly, hard to kill, immune to fire
+Mace knight HP 200-2000 Speed 0.25 uses a mace to spin, dealing damage
+to all plants and zombies in 3x3 tiles Metal tool
+.Cleric HP 400 Speed 0.3 Heal a zombie for 400 HP every 10 seconds
+.Ballista HP 800 Shoot a ballista bolt that damages all plants on the 
+lane for 200 damage every 10 seconds
+.Horse rider HP 800 Speed 0.3-1.5 Charges towards a plant, then yeet the rider to the 3rd column
+.Rogue HP 200 Speed 0.4 Can become invisible, then steal a plant
+BIG WAVE BEACH
+.surfer HP 250-1200 Speed 0.3-1 Surf over the water, uses the surf board to crush a plant
+.snorkel HP 200 Speed 0.5 can submerge underwater
+.octo zombie HP 800 Speed 0.25 throw an octopus every 12 seconds
+the octopus disable the plant until it is destroyed (400 HP)
+.fisherman HP 800 Pull down a plant to himself
+.Harpoon boat HP 1200 Shoot an harpoon, which knockback a plant one tile
+FROSTBITE CAVES
+.frost chief HP 1000 Speed 0.25 freezes all plants down the lane every 12 seconds
+.ice block pusher HP 800 Speed 0.25 push ice blocks
+.ice weasel hoarder HP 200 Speed 0.3 spawn 10 weasels (HP 40 Speed 1 dmg/2)
+.dodo rider HP 400 Speed 0.4 can fly for short bursts
+.walrus skii diver HP 200 Speed 0.3-3 can use walruses to ski over plants (walrus HP 1000)
+LOST CITY
+.parasol HP 360 Speed 0.4 uses her parasol to block lobbed shots
+.lost pilot HP 360 Speed 0.3
+.shovel HP 360 Speed 0.4 uses his shovel to block lobbed shots
+Can shove plants backwards Metal tool
+.back pack HP 200-600 Speed 0.3 after a while, drops backpack to form a tent,
+from which zombies will spawn indefinetly
+.mosquito HP 80 Speed 0.6 fly, drop a zombies on death
+.turcoise skull HP 120 Speed 0.3 uses his skull to cast a powerful destructive ray,
+can steal player sun, reducing cooldowntime by 1 second
+.relic hunter HP 380 Speed 0.3 swings past player defenses
+.medic HP 120 Speed 0.3 Heal 400 HP over 5 seconds
+.axe scout HP 400 Speed 0.3 can hide, ranged attack
+NEON DISCOMIX TOUR
+Punk HP 100 Speed 0.3-0.6 during punk music, knocks back plants Metal armor
+Glitter HP 200 Speed 0.3-0.2 during pop music, provide shield, destroy plant
+Rapper HP 100 Speed 0.3-0.5 during rap music, destroy plants in 3x3 tiles
+Breakdancer HP 100 Speed 0.3-0.6 during rap music, push forward by 1 tile up to 3 zombies
+Guitarist HP 100 Speed 0.3-0.6 during punk music, produce shockwaves
+Arcade pusher HP 300 Speed 0.25 during 8-bit music, pushes arcades who spawn zombies
+Boombox HP 100 Speed 0.3 uses his boombow to stun all plants for 4 seconds Metal tool
+JURASSIC MARSH
+.Stone breaker HP 1600 Speed 0.25 immune to knockback, uses his stone to destroy and
+scorch a tile
+.Mimetic HP 400 Speed 0.25 invisible, unaffected by dinosaurs
+.Stone bowler HP 400 Speed 0.25 shoot a rolling stone that damages and bounces off plants
+.Ostrich rider HP 200 Speed 1 very fast, can jump
+MODERN DAYS
+.Rugby player HP 200-1000 Speed 0.4-1.2 Can charge plants, destroying the first one Metal armor
+.Newspaper zombie HP 200-40 Speed 0.3-1 Speeds up once newspaper is destroyed
+.Balloon zombie HP 200-100 Speed 0.4-1.2 canf fly
+.fan imp HP 100 Speed 0.4 explodes after a while, flame can be extinguished
+.Catapult HP 400 Speed 0.3 shoot boulders to the last plant
+.Zomboni HP 1000 Speed 0.3 crushes plants, generate an ice sheet
+.Zombie bobsled team HP 200 Speed 0.3-1 appears in group of 4 on ice sheets
+.Digger HP 200-200 Speed 0.25 dig his way trough all the lawn, then
+appears on the leftmost tiles and start fighting to the right Metal tool
+.Riot police zombie HP 200-1200 Speed 0.25 throw smoke bombs at the plants
+.Solar car HP 1200 Speed 0.25 steal sun to unleash a powerful sun ray zombie
+ANCIENT ROME
+.phisician HP 400 Speed 0.3 heal 400 HP per 5 seconds
+.Cat lady HP 800 Speed 0.25 throw cats at plants, who stun a plant until
+the cat is defeated (200 HP), when defeated, spawn 10 cats (100 HP speed 1 dmg/2)
+.Vestal priest HP 240 Speed 0.4 burn plants with her lanter, reignite the flame
+is it was extinguished by frost attacks
+.Legionaire HP 200-1000-1000 Speed 0.25 slow but sturdy, comes
+with iron shield and iron sword Metal armor,tool
+.Velite HP 400 Speed 0.4 fast ranged attacker, pila act as an obstacle
+.Vigile HP 800 Speed 0.3-1 uses water buckets to extinguish plant's flames Metal tool
+.Architect HP 200 Speed 0.3-1 rushes to build towers
+.Wooden tower HP 1000 can attack plants in range
+.Catapult 
+.Marble pusher
+.Ballista
+.Secutor HP 400-1200 Speed 0.25 pushes plants to the left Metal armor
+.pretorian guard HP 400-1600 Speed 0.3 spear provide +1 tile range Metal armor
+.chariot racer HP 200-1000 Speed 0.3-1.5 charges to the first plant, then yeets itself
+to the last column to face backwards
+ANCIENT GREECE
+.hoplite HP 200-1000 Speed 0.3 can swing to the middle columns Metal armor
+.sheep herder HP 200 Speed 0.3 spawn an imp sheeo every 5 seconds
+.medusa archer HP 240 Speed 0.3 ranged attackers that encase plants in stone blocks
+.sun mirror HP 400 Ranged attack which scales over time when attacking the same plant
+.Trojan horse HP 2000 Speed 0.2 when destroyed, spawn up to 20 zombies
+.medic
+ANCIENT CHINA
+.Hammer zombie HP 400 Speed 0.3 uses hammer to deflect projectiles Metal tool
+.Gong zombie HP 200 Speed 0.3 summon a random zombie every 10 seconds Metal tool
+.Bomb zombie HP 200 Speed 0.3 explode in a 3x3 tiles
+.Rocket rider HP 100 Speed 3 fly
+.Qi zombie HP 240 Speed 0.3 can pull plants towards itself
+STEAM AGES
+.gentleman zombie HP 240 Speed 0.3 occasionally fly
+.actor zombie HP 240 Speed 0.3 when he dies, remain on the field for 12 seconds, blocking
+all projectile in the death animation
+.blast furnace zombie HP 400 Speed 0.3 if temperature reaches max, explodes in 3x3 tiles
+.parasol zombie 
+.medic zombie
+.coal miner zombie HP 200-1200 Speed 0.25 drop hot coals to a tile
+HEIAN AGE
+.fire work Hp 240 Speed 0.3 spew fire over 3x3 tiles
+.sushi chef HP 800 Speed 0.25 throw sushi, which speeds up zombies
+.onmyoji HP 400 Speed 0.3 heal 400/5 seconds, and spawn tornadoes which
+push back plants down a lane every 12 seconds
+.Plant food thief HP 240 Speed 0.3 blocks lobbed projectiles, steal plant food
+ARABIAN NIGHTS
+.flying carpet HP 240 Speed 1 fly
+.camel rider HP 200-600 Speed 0.5 deal bonus damage to cactuses
+.scorpion herder HP 240 Speed 0.3 summon scorpions every once
+in a while and when he dies
+.evil genie HP 800 randomly appear and turn plants into random plants
+.shaman HP 240 Speed 0.3 curses plants, making them have halved attack power for 30 seconds
+VIKING LAND
+.ghoul HP 600 Speed 0.3 drain 20 Hp/sec to plants in 3x3 tiles
+.druid HP 240 Speed 0.3 heal 400 Hp/5 sec and make zombies invisible
+.Juggernaught HP 200*2 +2000 Speed 0.2 crushes plants, when pushers are fallen,
+drops down the 2 tiles in front, acting as an obstacle
+.Spearman HP 200-1000 Speed 0.3 well equipped with shield and spear Metal armor
+.axe hunter Metal tool
+.wyvern rider HP 400 Speed 0.4 fly
+.blacksmith Metal tool
+.huskarl HP 200-1000 Speed 0.2 immune to lobbed and straight attacks
+.berserker HP 800 Speed 0.2-1 when under 50% HP, becomes enraged, multiplyng
+attack rate and movement speed by 5
+.valkyre HP 800 Speed 0.4 resurrect fallen zombies every 4 seconds
+RENAISSANCE
+.Ballerina dancer HP 200 Speed 1 comes in group of 3-7, can switch lanes
+.imp sculptor HP 200 Speed 0.4 turns marble mounds into sculptures
+.Flying machine HP 200-200 Speed 0.7 fly, when defeated, crashes on the ground
+.perfume zombie HP 240 Speed 0.4 spray perfume to stun plants in 3x3 tiles for 8 seconds
+.parasol
+.sun mirror
+.marble pusher
+.cannon
+SPECIAL
+.pogo zombie HP 200 Speed 1 can jump over plants Metal tool
+.pole vaulter HP 200 Speed 1 can jump over the first plant
+.disco zombie HP 360 Speed 0.3 summon 4 backup dancers every 12 seconds
+.bungee zombie HP 360 appear to steal plants or drop down zombies
+.boomerang zombie HP 200 Speed 0.3 shoot boomerang, which hits 3 plants twice
+
+

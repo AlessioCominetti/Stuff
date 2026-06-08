@@ -1,0 +1,210 @@
+Militia Range 32
+Humans
+HP 120 Atk 20 Armor 4 Speed 55
+Cost: 20 G 4 F 2 seconds
+Elves
+-15 HP -8 Atk +2 armor +5 speed
+Note: Awful units, poor attack, much slightly more faster
+Orcs
++4 Atk +2 armor -5 speed
+Note: Good stats but a little bit slower
+Dragons
++30 HP +4 Atk +2 armor -5 speed  +1.7 G cost per unit
+Note: quality over quantity
+Undeads
+-20 HP +4 armor -0.9 G cost per unit
+Note: quantity over quality
+
+Archers  Range 160
+Humans
+HP 60 Atk 21 Armor 0 Speed 35
+Cost: 30 G 3 F 3 seconds
+Elves
++3 Atk +5 speed
+Note: slightly faster and hit harder
+Orcs
++15 HP +6 Atk
+Note: the best ones
+Dragons
++40 HP +3 Atk +2 armor  +1 F +5 G cost per unit
+Note: stronger but more expensive
+Undeads
+-15 HP -3 Atk -1.7 G cost per unit
+Note: weaker and cheaper
+
+Swordman Range 32
+Humans
+HP 210 Atk 24 armor 4 speed 35
+Cost: 30 G 3 F 3 seconds
+Elves
+-30 HP -6 atk -4 armor +5 speed
+Notes: garbage units
+Orcs
++10 HP +16 Atk -2 armor  +0.5 F +7.5 G cost per unit
+Note: stronger variant, but have less armor
+Dragons
++30 HP +16 Atk +2 armor +5 speed  +1 F +5 G cost per unit
+Note: stronger and more expensive variant
+Undeads
+-30 HP -3 Atk -1 armor -1.7 G cost per unit
+Note: weaker but also cheaper
+
+Spearman Range 32
+Humans
+HP 240 Atk 36 armor 4 speed 40
+Cost: 45 G 3 F 4 seconds
+Elves
+-15 HP -9 Atk -4 armor +5 speed
+Note: garbage
+Orcs
++30 HP +24 Atk +5 G cost
+Note: hard hitter but more expensive
+Undeads
+-30 HP -6 Atk -1 armor -1.7 G cost per unit
+Note: cheaper and weaker
+
+Knights Range 32
+Humans
+HP 450 Atk 40 armor 6 speed 35
+Cost: 70 G 4 F 5 seconds
+Elves
+-120 HP +2 atk -2 armor +5 speed -0.5 F cost per unit
+Note: garbage
+Orcs
+-30 HP +44 Atk +5 G cost per unit
+Note: more expensive and hard hitting
+Dragons
++150 HP +5 G +1.5 seconds cost per unit
+Note: bulkier version
+Undeads
+-120 HP +8 Atk +5 speed -1 F -15 G cost per unit
+Note: cheaper more has less hp
+
+Rifleman Range 128
+Humans
+HP 60 Atk 36 armor 3 Speed 35
+Cost: 50 G 3 F 4 seconds
+Elves
++4 Atk +1 armor +5 speed +1 F +13 G +1.2 seconds cost per unit
+Note: has higher attack and speed but cost more
+Orcs
++15 HP +6 Atk
+Note: better version, more Hp and atk and no downside compared to human counterpart
+Dragons
++60 HP +1 armor +5 speed +1 F +8 G +1.7 seconds cost per unit
+Note: more hp and speed but cost more
+Undeads
+-3 atk -4 G cost per unit
+Note: slightly less attack but cost -20%
+
+Mages Range 128, chain attack
+Humans
+HP 120 Atk 36 armor 0 speed 40
+Cost: 75 G 3 F 5 seconds
+Elves
+-15 HP -3 Atk +5 G cost per unit
+Note: crap garbage
+Orcs
+Heal 75, cannot attack
+Note: situational, no chain attack
+Dragons
++24 Atk +8 armor +15 G +1 F +2 seconds cost per unit
+Note: stronger version
+Undeads
+-20 HP +34 Atk +1 F +25 G +1 seconds cost per unit
+Note: most powerful mage
+
+Grenadiers Range 96, explosive attack
+Humans
+HP 120 Atk 40 armor 2 Speed 40
+Cost: 80 G 4 F 5 seconds
+Elves
++4 armor +5 speed +5 G -0.25 F cost per unit
+Note: cost less population but more gold
+Orcs
++10 HP +10 Atk 
+Note: better than human
+Dragons
+-20 HP +2 armor +1.5 seconds cost per unit
+Note: mostly similar
+Undeads
++5 Atk +4 armor -2.5 G cost per unit
+Note: best version
+
+Cavalry Range 32
+Humans
+HP 300 Atk 24 armor 2 speed 65
+Cost: 50 G 4 F 4 seconds
+Elves
+-40 HP -8 Atk +5 speed
+Note: trash
+Orcs
++40 HP +16 Atk -5 speed +5 G cost per unit
+Note: higher attack, bust a bit slower and more expensive
+Dragons
++60 HP +16 Atk -5 speed
+Note: best version
+Undeads
+-40 HP -4 Atk +5 speed -5 G cost per unit
+Note: cheaper and faster, but have less atk and hp
+
+Paladins Range 32
+Humans
+HP 600 Atk 40 armor 6 speed 65
+Cost: 80 G 6 F 6 seconds
+Elves
+-50 HP -8 Atk -2 armor +5 speed
+Note: trash crap garbage
+Orcs
++80 HP +32 Atk -2 armor -5 speed +10 G cost per unit
+Note: more hp and atk, but slower and have less armor
+Dragons
++40 HP -2 armor -5 speed +1 seconds cost per unit
+Note: similar
+Undeads
+-50 HP -2 armor
+Note: crap, not as much as elves though
+
+Horse archers Range 160
+Humans
+HP 140 Atk 21 armor 0 speed 65
+Cost: 50 G 4 F 4 seconds
+Elves
++10 HP +6 Atk +5 speed -5 G cost per unit
+Note: best horse archers
+Orcs
++20 HP +6 Atk -5 speed
+Note: a bit slower but have more atk
+Dragons
++60 HP +3 Atk +2 armor -5 speed +1 F +1 seconds cost per unit
+Note: occupy more space, but otherwise have better stats
+Undeads
+-20 HP -3 Atk -7.5 G cost per unit
+Note: cheaper and weaker
+
+Special
+Skeletons
+HP 90 Atk 21 armor 1 speed 40 Cost: 30 G 2 F 2 seconds (4 units) Range 32
+
+SPECIAL FACTIONS
+Florans
+Militia
+HP 100 Atk 18 Armor 7 Speed 60    G 20 F 4 Sec 2
+Archers ( R 160)
+HP 50 Atk 24 Armor 0 Speed 45     G 30 F 3 Sec 3
+Swordman
+HP 200 Atk 24 Armor 5 Speed 40    G 30 F 3 Sec 3
+Halberdiers
+HP 320 Atk 36 Armor 5 Speed 40   G 60 F 3 Sec 4
+Champions
+HP 420 Atk 48 Armor 7 Speed 45   G 80 F 4 Sec 5 (2 units)
+Slingers ( R 160)
+HP 60 Atk 36 Armor 4 Speed 45     G 60 F 3 Sec 4
+Shamans ( R 128)
+HP 120 Heal 75 Armor 4 Speed 30   G 75 F 3 Sec 6
+Grenadiers ( R 96)
+HP 120 Atk 40 Armor 6 Speed 45    G 80 F 4 Sec 6 (2 units)
+Archer Champions ( R 224)
+HP 160 Atk 30 Armor 0 Speed 45    G 60 F 4 Sec 4 (2 units)
+Chief
+HP 1800 Atk 120 Armor 10 Speed 40  G 300 F 6 Sec 20 (1 unit)

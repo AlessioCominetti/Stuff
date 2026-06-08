@@ -1,0 +1,642 @@
+Classes
+Offensive
+Defensive
+Support
+Stealth
+
+Traits
+Anti hero: do x more damage if there are no enemy units in this lane
+Armored: reduce damage taken by x, up to 0
+Deadly: destroy any unit it damages
+Double Strike: does a bonus attack after combat
+Frenzy: does a bonus attak after destroying a unit
+Hunt: follow any new enemy unit that is played in a different lane
+Overshoot: does x damage to enemy hero before combat
+Splash: attack also damages nearby enemies
+Striketrough: hit all enemy units in lane and opposing hero
+
+Effects
+Bounce
+Conjure
+Roar
+freeze
+Heal
+Health-Strenght: attack using this unit health
+shield
+
+Heroes
+Vert: Support Stealth
+SP: ghost arrow: attack for 4 damage strike through
+Icarus: Support Offensive
+SP: Cataclysm: do 3 damage to all units on field
+FC: Offensive Defensive
+SP: Duplication: summon two 2/2 D 1 robots in two random lanes
+Omen: Support Defensive
+SP: great shield: hero and all allies cannot be hurt for this turn
+Ninjask: Offensive Stealth
+SP: an ally get +2 strenght, does a bonus attack
+Ekiora: Stealth Defensive
+SP: Obliterate: destroy one unit
+
+Tribes
+Plant   radice 27 fiore 42 foglie 29 ->  -----41
+Fruit   noce 21 fagiolo 22 sparasemi 22 bacca 19 mais 7 zucca 9 frutto 35 -> -----50
+Mushroom 21  -> -----7
+Food 23 ->  ----10
+Music 25 ->  -----14
+Criminal 21 ->  ----10  
+Science 45 ->  ----16
+Ogre 23 -> ----8  -> dragon
+Hystory 27 Sports 24 -> -----19 -> Roman
+Imp 31 barrel 14-> ------18
+Professional 34 ->  ----23
+Animal  19+47+18->  -----31
+Mustache   35  -> ------16
+ 
+Fruits+plant=> Plant 91 -------39
+mushroom+food=> Food 17 -------17
+Science+Prof=> Science 39------47
+Ogre=>Dragon 8  ---------------14
+Animal+Imp=> Animal 49 --------40
+Roman  19      ----------------30
+Criminal=>Barbarian 10 --------14
+Music=> Artist 14  ------------14
+Mustache=> Egyptian 16 --------14
+
+Total cards 99 47 43 23
+
+
+Cards
+OFFENSIVE
+Lava ground: environment: before combat, units here take 1 damage
+Double station: environment: units here get double strike
+Alien base: environment: units here get +1/1 hunt and frenzy
+Bonus station: environment: units that enter here do a bonus attack
+
+3 Berserker: 1/8 when hurt, gain +4 str
+barbarian evolution: gain +2/2         barbarian
+
+0 cheese slice: 1/1    food
+
+1 fireball: do 2 damage       Science
+
+2 meteor: do 3 damage         Science
+
+1 potter: 1/2 roar:+1 str     plant animal
+
+1 bleeding heart seeker: 2/2 when this does damage, gain +1 str
+plant evolution: gain striketrough   plant
+fusion: inherit ability to gain str after each hit
+
+1 cheese ninja: 2/1  anti-hero 2   food animal
+
+1 eceltric currant: 1/1 when any plant does damage, gain +1 str
+when played: conjure a plant
+fusion: do 1 damage      plant
+
+2 buff chef: 1/1 when played, mush get +1/1    food
+
+2 gift box: 0/2  end of turn, transform this into a unit that cost 3 or 4  
+
+2 invasive: 1/3 when in an environment, gain +2 str plant
+
+4 pear conductor: 1/2 when played, all allies get +2 str  artist plant
+art evolution: allies get +1 str
+
+3 peach poacher: 4/2 plant
+evolution: gain +1 str for each unit on the field
+
+2 Floran cultist: 2/2 when any plant is played, do 1 damage to a random unit
+when any plant does damage, do 1 more damage (doesn't stack)
+plant evolution: conjure a plant card    plant
+
+2 punisher of the kitchen: 2/2 when any food card is destroyed,
+do 1 damage to a random unit      food
+ 
+3 starfall: do 5 damage       science
+
+4 sonic bloom: 4/1 when played, do 1 damage to the enemy hero for each unit on field   artist
+
+2 evolution: turn a unit into a random unit that cost 1 more, draw a card
+
+4 molekale: 3/1 when payed, turn all allies into units that cost 1 more   plant
+
+4 grapeshot rifleman: 3/3  when played, do 1 damage to all foes
+evolution: do 2 instead   
+plant evolution: do 3 instead   plant
+
+5 bombegranate: 5/2 when destroyed, span seedling here and next door   plant
+
+6 meteor shower: do 3 damage to all foes   science
+
+4 chickens: do 2 damage to all foes   animal
+
+6 Fire acolyte: 6/3 when played, do 3 damage to all foes     science
+science evolution: do 4 damage instead
+
+1 astronaut: 2/2 when any unit is played, do 1 damage to enemy hero    science
+when any environment is played, gain +1/1
+
+4 pineclone: 3/3 when played, turn all allies into pinecone   plant
+
+1 amaranto: 1/2 start of turn, gain +1/1   plant
+
+1 argyllas: 1/1 when played, gain +3 str this turn   plant artist
+Art evolution: gain +6 this turn instead
+
+1 rally bot: 2/2 when any unit does a bonus attack, draw a card   science
+science evolution: does a bonus attack
+
+2 banana warrior: 2/2 when destroyed, plants in your hand get +1/1   plants
+fusion: unit gets +2/2
+
+1 sprout: 1/1 when any unit is played, this gets +1/1   plant artist
+
+3 kakapo karaoke: 2/1 when played, a unit gets +2/2  animal artist
+
+3 holcan: 3/3 when played next to a plant, draw a card    plant 
+evolution: draw a card
+
+3 akon archer: 2/2 double strike    plant
+plant evolution: conjure a plant, it gets double strike
+
+4 banana split: 4/4 when destroyed, summon bananas next door   plant
+
+2 coockie: a unit does a bonus attak    food
+
+2 savage warrior: 2/3  
+barbarian evolution: all allies and cards in hand gets +1 str   barbarian
+
+4 coniugator: 2/3 when a trick is played, this does a bonus attack    science
+
+4 electric powerhouse: 1/1 
+when anything gets hp,str or def, this gets +1/1 in your hand  science
+
+5 gatling: 5/4 double strike
+science evolution: this does a bonus attack    science
+
+3 DJ: 2/2 this gets +1/1 for each unit on field, up to 9/9    artist
+artist evolution: this gets +1 armor
+
+4 Red Dragon: 3/3 double strike   roar: get +1/1   dragon
+
+3 Libitina: 3/3 when played, all cards in both players become 3/3   roman
+
+5 trigget knight: 3/3 D 1  when any unit is played here or next door, do a bonus attack  roman
+
+5 star mage: 2/2 attack in all lanes   science
+
+1 aggressor: 4/2  when played, opposing player conjures a random card    science
+
+2 BBQ chef: 2/2  striketrough      artist food
+food evolution: conjure a food card, it will cost 1 less
+fusion: get striketrough
+
+3 glass cannoner: 0/3  when played, gain +1 str for each money made this turn  plant animal
+evolution: gain +3 hp
+
+5 Phoenix: 5/3 striketrough when destroyed, obatin phoenix egg   animal
+
+1 phoenix egg: 0/2 end of turn, become a Phoenix   animal
+
+3 Cross fire: a unit gain striketrough and +3 hp
+
+1 dog: 2/2 hunt   animal
+
+1 cat lady: 0/2  thie gets +3 str this turn and +1 hp for every animal that is played     animal
+
+2 zookepper: 1/3  when any animal is played, all animals get +1 str    animal
+
+2 drinker: 1/1 frenzy start of turn, change lane and gets +1/1    food
+
+4 vampire: 3/4  frenzy, when any unit with frenzy destroy a unit, it gest +2/2   animal
+
+2 yeti: 2/2 when played, conjure a snack, end of turn, bounce itself    animal
+
+4 bounty hunter: 4/4 frenzy hunt, when this destroys a unit, draw a card   science
+
+4 cyborg: 4/5 hunt  science
+evolution: destroy a unit
+  
+5 Blue Dragon: 5/6 all dragons get frenzy    dragon
+when a dragon destroy a unit, conjure a dragon
+
+3 Z-steroid: a unit get +2/2 and frenzy  food
+
+6 Plant Dragon: 6/6 when a dragon does damage, heal hero by that much    dragon plant
+dragon evolution: obtain roar: heal all allies and hero by 2
+
+4 octopet: 4/4 frenzy, when destroyed, conjure itself   animal
+
+2 drone engineer: 1/4 when any science card does damage, it gets +1 str   science
+
+3 electrician: 2/3 when played, a unit does a bonus attack  science
+
+2 Egyptologist: 2/2 when this does damage, conjure an egyptian card
+egypt evolution: this gets +2/2   egypt  animal
+
+4 Piramid: 2/4 D 1    
+fusion: gain +1/1 and do a bonus attack   egypt
+
+5 gadget: 3/3 when played, all science cards do a bonus attack   science
+
+6 wizard dragon: 6/6 when played, turn another ally into a random ally that cost 1 more  dragon egypt
+
+7 Bad moon: transform all allis into units that cost 5   
+
+7 Jurassic dragon: 7/7  roar: summon a dragon unit in a random lane   dragon
+
+10 trickster: 6/6 cost -1 for each trick you play
+when played, do a bonus attack
+
+1 mangoose cannon: 1/1  overshoot 2     animal  artist
+fusion: get overshoot 2
+
+1 conman antman: 1/3 when enemy hero draw a card, do 1 damage   animal
+
+2 barrel of anubis: when destroyed, do 1 damage to everything, spawn anubian  
+
+3 anubian: 2/4 egyptian units get striketrough    egypt animal
+
+2 sour candy: a unit get +3 str    food
+
+2 aerobic: 2/3 artist unit at start of turn get +2 str    artist
+
+1 final mission: destroy one of your unit, do 4 damage    science
+
+2 conga: 2/2 when played, do 1 damage   artist
+when this damages the enemy hero, do 2 damage to a random foe
+art evolution: do 3 damage instead
+
+2 jester: 1/5 when this take damage, do 1 damage to enemy hero    art
+
+3 bettle bomber: 6/1    animal
+animal evolution: gain +3 hp
+
+3 swarm ant: 2/2 when played, make a copy of itself    animal
+
+2 skunk: 2/1 when played, a unit has 0 str for this turn    animal
+
+4 special soldier: 3/2 when played in an environment, do 3 damage
+when this does damage in an environment, do 1 damage to all foes    roman
+
+4 valkyre: 0/8  while in your hand, gain +1 str for each destroyed unit  barbarian
+
+5 holiday dragon: 6/5 when hurt, summon a gift box     dragon
+
+2 insular: 2/2 when a barbarian hurts any hero, that barbarian gets +1/1  barbarian
+
+12 dragon call: summon 3 dragons in random lanes     dragon food
+
+2 cheesecake: do 7 damage, foe conjure a food card     food
+
+4 train walker: 2/6 roar: do 1 damage to all foes     animal
+
+3 viral: all allies get +1/1 and frenzy, shuffle two copies of this card in deck
+
+1 chicken: 2/2 run away     animal
+
+2 toxin: a unit obtain deadly, draw a card    plant
+
+2 fire rooster: 3/1 run away, when this enter a lane, do 1 damage
+toall foes here    animal
+
+2 ant colony: 1/3 when hurt, summon an ant 1/1    animal
+
+1 ant: 1/1  if you made at least 6 money this turn, get +1/1   animal
+
+2 toxic ant: 2/2 all animals get deadly    animal
+
+3 anterras: 2/4 when an animal damages the enemy hero, draw a card   animal egypt
+animal evolution: conjue an animal card, it gets deadly
+
+
+
+DEFENSIVE
+Forest: environment: units here get +1 armor
+Rocky mountains: end of turn, move units here to any random lane
+Dry desert: units lose 1 str every turn they remain here
+Roma barrack: any hero can spend 2 money to summon an hastatus here, once per turn
+
+1 Stone wall: 0/6   roman
+roman units behind get +2 str
+
+1 Defiler: 2/2 hunt all tricks cost 1 more   barbarian plant
+
+1 mine: 0/2  destruct 3   roman
+
+1 sweet candy: +3 hp to one unit   food
+
+2 hunter: 3/2  hunt      barbarian
+
+2 hastatus: 2/2 D 1    roman
+
+3 bear cub: 1/1  when destroyed, summon a 5/5    animal 
+
+3 magnolia: 2/2 when played, allies here and next door get +2 hp
+evolution: allies also get +2 str  plant
+
+3 rocket: destroy a unit with at least 4 str science
+
+3 za hando: destroy a unit with at most 3 str  science
+
+3 ananas guard: 3/3 when played, allies with no str get +2 str    plant
+evolution: when played, allies with no str get +3 str
+fusion: all cards in your hand have their str become 3   plant
+
+4 crocodile: 4/4 destruct 4  animal
+
+4 star lord: 2/4 plant get +1/1 when played
+start of turn, conjure a plant     plant
+
+4 calliopea: 3/3  when played, conjure a plant, it has its str become 3   plant
+
+4 Obliterate: destroy one unit  science
+
+6 nuke: destroy all units on field   science
+
+1 barrier: all allies get +2 hp   science
+
+5 Monolith: 7 all units attack using their hp   science
+evolution: conjure a 5 cost card
+
+6 void tree: 7/7 D 1  when an enemy enters the field, move it here   plant
+
+6 shepherd: 4/4 when played, make a poppy here and next door  roman animal
+
+0 sheep: 0/1 when played, heal for 2    animal
+
+1 guardian: 1/3 D 1 when your hero gets hurt, this unit take the damage instead  roman
+roman evolution: gain +1/1
+
+4 witch: 0/3 end of turn: turn a random foe into a mush 1/1    barbarian science
+
+2 medipack: heal for 4, draw a card         food science
+
+3 nurse: 2/4 start of turn, heal all allies and hero for 2   roman science
+
+3 flytrap: 3/2 when this does damage, heal hero for that much    plant
+plant evolution: gain deadly and +2 hp
+
+5 toad: 4/4 when played, destroy a unit with 4 str or less    animal
+
+4 medic: 3/3 when played, heal for 5     roman
+
+5 withc doctor: 3/5 striketrough      barbarian
+start of turn, heal hero for 1 for each barbarian on the field
+barbarian evolution: also heal all flowers for 2  
+   
+5 Agavenger: 3/5 when any of your plants gets hurt by an enemy unit,
+destroy that unit    plant
+
+9 blast dragon: 9/9 when played and at the end of turn, destroy all enemies
+here and next door          dragon
+
+10 General: 5/5  when played, make a unit in each lane     roman
+evolution: destroy one unit
+
+4 Coordinator: 4/4 D 1 all units cannot do bonus attacks   art science
+
+4 roman chef: 4/3 D 1 frenzy     roman food
+when this destroy a unit, heal itself fully
+food evolution: gain +3 hp and +2 anti hero
+
+2 shield: apply shield for one turn, draw card  science
+
+2 dracologist: 2/3 dragons cost -2    science
+
+2 acquilifer: 1/3 your units cost -1   roman
+roman evolution: conjure a roman card, it costs -2
+
+3 princep: 3/3 when played, shield    roman
+
+4 triari: 4/4 D 1   roman
+
+5 centurion: 4/5 D 1  start of turn, turn an ally into a triario   roman
+
+5 extraordinari: 5/5 D 1   roman
+roman evolution: all units get +1 armor
+
+4 buccinarius: 3/3 when played, all romans are shielded   roman
+oman evolution: all units are shielded
+
+3 gladiator: 2/3 D 1 frenzy   roman
+fusion: unit obtain +2/3 and frenzy
+
+6 Vestalian dragon: 6/5 D 1  opponent tricks cost 2 more    dragon roman
+
+6 pretorian: 5/6 D 1  your hero hp cannot go lower than 5   roman
+evolution: all allies get +2/2
+
+5 cool scientist: 3/5  all your science cards cost -1,
+when played: conjure a science card, if it is a unit card,
+it will get striketrough              
+science evolution: conjure two cards instead      science
+
+1 arm wrestler: 1/2 when any unit enters this lane, get +1/1      artist
+   
+
+SUPPORT
+Farming field: when any unit enters this lane, hero's unit get +1 money
+Transformation station: start of turn, transform units here in random units that cost 1 more
+Bank alley: end of turn, if there are any units here, hero's units draw one card each
+Construction site: end of turn, transform this into a random environment
+
+1 snack: a unit get +1/1     food
+
+2 Reinforcements: draw 2 cards   
+
+3 steroids: a unit gets +3/3
+
+1 civiles: 1/1  fusion: +1/1      roman
+
+1 ice mage: 2/2 gain +1/1 when anything is frozen    egyptian 
+
+1 freeze: freeze one unit     science
+
+1 admiral: 1/1 when any roman is played, do 1 damage to enemy hero    roman
+
+1 primal maceman: 2/2 when this damages a unit, bounce that    barbarian
+
+3 thunder mage: 2/2  splash    egyptian
+
+3 captain cucumber: 1/4 conjured cards cost -1, 
+when this does damage, conjure a legendary card  plant
+
+2 ice wizard: 2/2 when this damages a unit, freeze it   egyptian science
+evolution: freeze one unit
+
+2 wind gust: bounce a unit     science
+
+3 explorer: 1/4 when this does damage, draw a card
+when this damages the enemy hero, conjure a card instead
+it will cost 1 less        roman
+
+3 wind mage: 2/1 when played, bounce a unit    science egypt
+
+3 sportacus: 3/3 when any trick is played, do 1 damage to enemy hero    food plant
+
+4 standard dragon: 3/3 splash  dragon
+
+2 snake grass: 2/1  end of turn, make a copy of itself on random lane   animal plant
+
+4 wind wizard: 4/4 gain +1/1 when anything is bounced
+egypt evolution: bounce a unit        egypt
+
+4 ice renegade: 4/4 when anything is frozen, destroy that unit   barbarian egypt
+
+3 leafan: 2/3 when played in an environment, bounce a unit  plant
+
+2 Weaken: a unit gets -2 str
+
+5 interferer: 3/3 when played, enemy player cannot use tricks for this turn   science
+
+6 ice dragon: 4/4 D 1 splah, when this does damage, freeze a unit
+when played, freeze a unit      dragon
+evolution: gain +2 str
+
+8 dark matter dragon: 6/6 splash   enemy tricks cost 6 more   dragon
+
+9 magician: 7/7 when played, turn all opposing enemies into 1/1 units      egypt science 
+
+1 barbarian catapult: 1/1 when played, a unit get -1/1     barbarian
+get +1/1 anytime an environemnt is played or something is healed
+
+1 worker: 1/1 make 1 money at start of turn     egypt
+
+2 ooze: a unit gets -2/2, if you made a tleast 5 money this turn, it does -3/3 science
+
+2 saucer: 3/2  if you made at least 6 money this turn, it gets striketrough   science
+
+2 extinction: a unit and all the same copies get -2/2
+
+2 pied piper: 2/1 when played, all units in a lane get -1/1    art animal
+
+1 neutron plankton: 2/2 when any environment is played, this does a bonus attack  science animal
+
+2 investement: obtain +1 money for the rest of the match     science
+
+2 portalist: 1/4 conjured cards cost -1, start of turn, both players conjure a random card  science
+
+3 super evocation: conjure a superpower  science
+
+4 chemist: 3/5  every first trick executed, conjure a trick   science
+
+3 gardener: 2/3 a unit get -2 str    art
+
+3 mascot: 1/4 start of turn, all sports get +1/1    animal
+
+1 teacher: 2/2 your tricks cost 1 less   science roman
+
+4 ice serker: 4/4 when played, freeze all foes here
+barbarian evolution: freeze all foes and it gets +1/1     barbarian
+
+3 feast: all allies get +2/2     food barbarian
+
+4 beer master: 3/5 when played: one barbarian get frenzy
+barbarian evolution: all barbarians get +2/2 and frenzy       food barbarian
+
+4 allergy: 2/4 when played, all foes get -1/1
+all units and heroes cannot be healed 
+
+STEALTH
+Laser station: environment: units here get deadly and striketrough
+Black hole: automatically destroy unit with 3 str or less who enter this lane
+units with 4 str or more get -3 str
+bouncy castle: end of turn, bounce all units here
+Torture chamber: end of turn, inflict either 1 to 3 damage to any random unit in the field
+
+
+2 move up: move one unit to any other lane, draw one card
+
+1 secret intervention: bounce an ally, it will get +2/2, draw a card      science
+
+1 cheese master: 2/2 when this damages the enemy hero, conjure a food card,
+it will cost 1 less     food 
+
+4 sun thief: 2/6 start of turn, opponent lose 1 money, this gets 1 str   roman
+
+7 banner lord: 2/2 when played, all your units get +1/1 for the rest of the match
+all foe's units get -1/1        barbarian egypt
+
+3 sun mage: 2/3 when played, opponent lose 1 money   roman
+if you made at least 6 money this turn, it gets +2 hp and frenzy
+
+1 smoke bomb: move a unit, it gets +1 str
+
+4 space snake: 3/5  striketrough   when this does damage, move it to a random lane  animal
+evolution: bounce a unit
+
+2 assassin: 2/1 deadly   roman
+fusion: destory a unit here
+
+5 crypt dragon: 5/5 end of turn, restore the stats of all dragons    dragon
+
+6 shark dragon: 6/6 all your units get deadly, when anything is destroyed, it gets +1 str  dragon science
+
+3 raptor: 2/4 when this damages the hero, conjure a 2 cost card
+roar: get +2 str   animal 
+
+9 cyber chief: 6/6 striketrough  when played, summon 3 barbarians     barbarians science
+
+4 gondolier: 4/4 when this damages the hero, summon a random unit here and move
+to another random lane
+evolution: two random units get striketrough        science
+
+6 dragon's breath chili pepper: 5/5 roar: get +1/1 and doa bonus attack
+plant evolution: draw a card         dragon plant
+
+1 eldritch dragon: 2/2  roar: +1/1  
+it costs +1 and get +1/1 for every passed turn
+if this unit has at least 12 str and 12 hp, becomes a Nova eldritch dragon
+evolution: get double strike
+dragon evolution: becomes Nova eldtrich dragon       science dragon
+
+12 Nova eldritch dragon: 2/2 roar: double str/hp   double strike
+when played: draw a card      science dragon
+
+1 sumo wrestler: 2/3  when played, move any unit      barbarian
+
+1 trickster mage: 1/1 when any trick is played, this gets +1/1   plant roman
+
+2 kangaroo: 2/3 when hurt, bounce itself    animal
+
+4 cosmci yeti: 3/3 when played, conjure an animal
+end of turn, bounce itself    animal science
+
+1 gift box: start of turn, turn this into a unit that cost 2     artist
+
+
+SPECIAL UNITS
+8 Final creation: 5/5 striketrough   while in your hand,
+gain +1/1 for each destroyed unit    science  monster animal
+5 Akon archer: 5/3 striketrough      when played, conjure a trick
+leaf evolution: do a bonus attack     leaf monster
+6 Archsage: 5/4  when played, conjure a magic trick
+your tricks cost 1 less and foe's cost 1 more     prof
+7 Imperial General: 6/6 D 2    all units who cost 6 or more get 1 armor
+science evolution: science allies get striketrough     animal science
+4 Shinobi: 4/4 anti hero 1            prof 
+while in your hand, gain +1 anti hero for each unit destroyed, frozen or bounced
+9 Eldritch Guardian: 3/3 when played: turn all lanes into a black hole environment
+this unit is immune from the effect of all environments    monster science animal
+
+
+IDEAS
+Anti hero: do x more damage if there are no enemy units in this lane
+Armored: reduce damage taken by x, up to 0
+Deadly: destroy any unit it damages
+Double Strike: does a bonus attack after combat
+Frenzy: does a bonus attak after destroying a unit
+Hunt: follow any new enemy unit that is played in a different lane
+Overshoot: does x damage to enemy hero before combat
+Splash: attack also damages nearby enemies
+Striketrough: hit all enemy units in lane and opposing hero
+Bounce
+Conjure
+Roar
+freeze
+Heal
+Health-Strenght: attack using this unit health
+shield
+

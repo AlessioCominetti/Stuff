@@ -1,0 +1,165 @@
+ANCIENTS
+Buildings
+--Slave Chambers-- Free
+Slavery: convert one population to 500 Gold
+--Tomb-- 200 G
+Train Risen: 180 G 13 Atk 60 HP normal
+--Snake Pit-- 310 G
+Train Viper: 210 G 6 Atk 12 HP slow 130 meters
+*Focus: improve Viper's range by 10 meters, max 1, 1000 G
+--Piramid-- 390 G
+Train Warrior: 312 G 14 Atk 140 HP slow
+*Granite Armor: Warriors +8 HP, max 5, 780 G
+*Improve Shrines: Shrines +1 Atk +15 HP, max 2, 1150 G
+Build Shrine: 220 G 3 Atk 100 HP 80 meters
+--Blade Hall-- 400 G
+Train Assassin: 390 G 39 Atk 1 HP fast
+*Endurance: Vipers +8 HP, assassins +6 HP, 3 max, 1213 G
+*Deadly Blades: assassins +6 Atk, 3 max, 1121 G
+--Royal Throne-- 350 G
+Train Pharaoh: 482 G 1 pop 23 Atk 100 HP slow 20 meters
+Meteors: deal 20 damage to all foes on screen, 120 G
+*Eclipse: Pharaohs, meteros +3 atk, 5 max, 723 G
+*Ancient resilience: Pharaohs, Warriors, +8% HP, 3 max, 1487 G
+*Ancient Devastation: Pharaosh, Warriors, +8% Atk, 3 max 1452 G
+
+Units after upgrades
+HP    60 36 19 215 124 130
+Atk   13  6 57  18  44   5
+Range  1 14  1   1   2   8
+
+HUMANS
+Buildings
+--Farm Land-- 1 pop
+Food Production: convert 1 pop to 50 G
+Expansion: convert 100 G to 1 pop
+--Barracks-- 100 G
+Train Knight: 54 G 1 pop 17 Atk 50 HP normal
+Train Hunter: 32 G 1 po 6 Atk 35 HP fast 80 meters
+*Infantry Tactics: Hunters, Knights +2 Atk, +3 HP, 3 max, 3 pop 250 G
+--Catedral-- 155 G
+Train Priest: 40 G 1 pop 12 Atk 30 HP normal 60 meters
+Heal spell: heal allallies to full, 35 G
+*Spiritual Mastery: Priest +1 Atk, +5 HP, heal 20% of all allies on death, 5 max, 1 pop 150 G
+*Focus: Hunters, Priest +3 Atk, +10 meters, 1 max, 2 pop 400 G
+*Overload: Priest +4 Atk, -1Hp/sec, 3 max, 1 pop 240 G
+--Fortress-- 150 G 1 pop
+Build Tower: 250 G 7 Atk 270 HP 90 meters
+*Cold Steel: Melee units, towers +10% Atk, 3 max, 3 pop 300 G
+*Weaponry: all units but priest +10% Atk, 3 max, 3 pop 200 G
+--Royal Keep-- 190 G 1 pop
+Train Royal Guard: 121 G 1 pop 15 Atk 120 HP slow
+*Vitality: Royal guards, Crusaders +5 HP, 3 max, 2 pop 40 G
+--Crusader Camp-- 190 G 1 pop
+Train Crusader: 89 G 1 pop 20 Atk 82 HP very fast
+*Determination: Royal Guards,Crusaders +3 Atk +3 HP, 3 max, 2 pop 400 G
+
+Units after upgrades
+HP   59 44 55 144 106 270
+Atk  33 17 32  33  41  11
+Range 1  9  8   1   1  10
+
+AOE2 CIVS
+ANCIENTS
+siege and monk civilization
+
+-Units and tech doesn't require F, cannot gather F
+-Risen substituts the villager, act as an infantry military unit
+-Piramid trains all units, and substitute the Castle and Town Center
+-Units are immune to conversion
+-Advancing to the Next Age cost -20%
+UU Risen(villager/infantry), Assassin(infantry), Granite warrior(infantry)
+Pharaoh(infantry/monk)
+CT Granite Armor: granite warriors +40 HP
+IT Ancient powers: granite warriors, pharaohs +25% HP and Atk
+TB First Monastery built comes with a free relic
+
+Risen
+HP 40-45-60-75
+Atk 4-6-7-8
+Rof 2.0
+Armor 1/2
+Speed 1.0
+Cost 50 G 25 sec
+
+Assassin
+HP 25
+Atk 25-30
+vs archers +10+10 (20)
+vs monks +10+10 (20)
+Rof 2.0
+Armor 0/0
+Speed 1.3
+Cost 100 G 30 sec
+Stealth: invisible util at melee range of other units
+
+Granite Warrior
+HP 140 (215)
+Atk 8 (10)
+Rof 2
+Armor 0/0
+Speed 0.8
+Cost 80 G 24 sec
+
+Pharaoh
+HP 100 (125)
+Atk 18 (22)
+Rof 2
+Range 2
+Armor 0/0
+Speed 0.8
+Doubles as a monk, can convert and heal
+Cost 120 G 36 sec
+
+Missing techs:
+X-infantry: NOPE
+X-archers: NOPE
+X-cavalry: NOPE
+B-siege: BC, siege ram
+A-monks: devotion*, BP, heresy*
+C-navy: FFS, HDS, CG, shipwright
+B-defenses: BT, heated shot, arrowslits
+A-economy: field*
+
+Granite warriors
+
+HUMANS OF TERRADAR
+cavalry and monk civilization
+
+-Farms provide +1 population
+-Builder work 10% faster per Age, starting in Feudal Age(+30% max)
+-Archers cost -20% G, crossbowman upgrade is available in Feudal Age for free
+-Sanctity,Fervor,Devotion and Faith are 80% more effective
+-Cannot build Universities, Castle act as Univeristies
+UU Royal guard(infantry), Crusader(cavalry)
+CT Overload: priest can attack enemies (16 Atk), but lose 150 Hp/min
+IT Determination: Royal guards +20% HP, Crusaders +4 atk and -75% F cost
+TB Priest +1 range
+
+Royal guard IV
+HP 120 (144)
+Atk 12 (16)
+Rof 2.0
+Armor 2/2 (5/6)
+Speed 0.8 (0.88)
+Cost 120 G 20-17 sec
+
+Crusader(kinght upgrade)
+HP 120
+Atk 12 (20)
+Rof 2.0
+Armor 2/2 (5/6)
+Speed 1.5 (1.65)
+resistence +8
+Up cost: 200 F 100 G 40 sec
+
+Missing techs:
+A-infantry: halberdier
+B-archers: HC, HA, parthian tactics, archer armor III
+B-cavalry: hussar, bloodlines
+C-siege: onager,heavy scorpio, siege ram, siege engineers, BC
+A-monks: heresy, BP
+C-navy: FS, DS, CG
+A-defenses: treadmill*, heated shot, BT
+A-economy: crop rotation, guilds
+

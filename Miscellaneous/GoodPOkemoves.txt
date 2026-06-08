@@ -1,0 +1,846 @@
+Absorb
+Power 20
+Accuracy 100
+Uses 25-40
+Heal user equal to half damage dealt
+
+Acid
+Power 40
+Accuracy 100
+Uses 30-48
+Reduce foe's Defense by 2 stages
+
+Armor Up
+Uses 20-32
+Raises use Def/Sp. Def by 2 stages
+
+Acrobatic
+Power 55
+Accuracy 100
+Uses 15-24
+Does double damage is user doesn't wield any item
+
+Acupressure
+Uses 30
+Raises by 2 stages a random ally's stat
+
+Aerial Assault
+Power 60
+Accuracy always hit
+Uses 20-32
+
+Aeroblast
+Power 100
+Accuracy 95
+Uses 5-8
+50% crit
+
+Agility
+Uses 30-48
+raises user's speed by 2 stages
+
+Air cutter
+Power 60
+Accuracy 100
+Uses 25-40
+50% crit
+
+Air Slash
+Power 75
+Accuracy 100
+Uses 15-24
+30% crit
+
+Aqua Jet
+Power 40
+Accuracy 100
+Uses 20-32
+
+Aqua Ring
+Uses 20-32
+Regen 1/16 Hp every turn after the move has been cast
+
+Aqua Tail
+Power 90
+Accuracy 100
+Uses 9
+
+Arm Barrage
+Power 15
+Accuracy 100
+Uses 20-32
+35% to do double damage
+35% to do triple damage
+15% to do quadruple damage
+15% to do quintiple damage
+
+Aromaterapy
+Uses 5-8
+heal all allies bad statuses
+
+Assurance
+Power 60
+Accuracy 100
+Uses 10-16
+does double damage when attacking the same unit
+
+Bug Swarm
+Power 90
+Accuracy 100
+Uses 15-24
+30% crit
+
+Attract
+Uses 15-24
+Decreases foe's chance to attack this unit
+
+Aura
+Power 80
+Accuracy always hit
+Uses 20-32
+
+Aurora Beam
+Power 65
+Accuracy 100
+Uses 20-32
+has 25% to lower foe's Atk/Sp Atk by 1 stage
+
+Avalanche
+Power 60
+Accuracy 100
+Uses 10-16
+Double Power if the foe has previously hurt the user
+
+Beat Up
+Power 10
+Accuracy 100
+Uses 10-16
+Hit once for each party member not fainted
+
+Fury
+Uses 10-16
+User uses all HP above 50% to deal damage
+
+Bite
+Power 60
+Accuracy 100
+Uses 25-40
+
+Blast Burn
+Power 150
+Accuracy 100
+Uses 5-7
+
+Blaze Kick
+Power 85
+Accuracy 100
+Uses 10-15
+20% to inflict burn
+
+Blizzard
+Power 110
+Accuracy 100
+Uses 5
+10% to inflict freeze
+target all foes
+
+Blue Flare
+Power 130
+Accuracy 100
+Uses 7
+20% to inflict burn
+
+Body Slam
+Power 85
+Accuracy 100
+Uses 15-24
+
+Bolt Strike
+Power 130
+Accuracy 100
+Uses 7
+20% to inflict paralyze
+
+Bone Club
+Power 65
+Accuracy 100
+Uses 27
+
+Bone Rush
+Power 25
+Accuracy 100
+Uses 14
+Attack 2-5 times
+
+Boomerang
+Power 50
+Accuracy 10
+Uses 15
+Strike twice
+
+Explosion
+Power 140
+Accuracy 100
+Uses 16
+Deal Area Damage
+
+Bounce
+Power 45
+Accuracy 100
+Uses 7
+30% to inflict stun
+
+Brave Bird
+Power 120
+Accuracy 100
+Uses 24
+Take 1/3 recoil damage
+
+Barrier Break
+Power 75
+Accuracy 100
+Uses 24
+Destroy foe's defensive skills and barriers
+
+Brine
+Power 65
+Accuracy 100
+Uses 16
+Does double damage if foe's hp is below 50%
+
+Bubble I,II
+Power 40-65
+Accuracy 100
+Uses 48-32
+Reduce foe's spd by 1 stage
+
+Bite
+Power 60
+Accuracy 100
+Uses 32
+
+Buzz
+Power 90
+Accuracy 100
+Uses 10
+Reduce foe's Sp. Def by 1 stage
+
+Bulk Up
+Uses 16
+Boost user atk and Def by 1 stage
+last 4 turns
+
+Bullet Punch
+Power 40
+Accuracy 100
+Uses 48
+Always strike first
+
+Bullet seed
+Power 25
+Accuracy 100
+Uses 48
+Strike 2-5 times
+
+Calm Mind
+Uses 16
+Boost user Spd Atk and Sp Def by 1 stage
+last 4 turns
+
+Charm
+Uses 16
+Decreases a foe's Atk and Sp Atk by 2 stages for 4 turns
+
+Chatter
+Power 70
+Accuracy 100
+Uses 32
+30% to inflict confusion
+
+Clamp
+Power 35
+Accuracy 100
+Uses 14
+Traps foe for 3 turns
+
+Close Combat
+Power 120
+Accuracy 100
+Uses 8
+reduces user Def and Sp Def by 1 stages after attack
+
+Comet Punch
+Power 18
+Accuracy 100
+Uses 20
+Strike 2-5times
+
+Confuse Ray
+Uses 16
+Confuse a foe for 5 turns
+
+Confusion
+Power 50
+Accuracy 100
+Uses 40
+10% to inflict confusion
+
+Conversion
+Uses 50
+Change user type to any other type
+
+Cosmic Power
+Uses 16
+Raise user Def and Sp Def by 1 stage
+last 4 turns
+
+Counter
+Uses 32
+Return an attack back to opponent with double damage
+
+Hammer
+Power 90
+Accuracy 100
+Uses 9
++30% crit
+
+Cross Chop
+Power 100
+Accuracy 100
+Uses 4
++30% crit
+
+Cross Poison
+Power 70
+Accuracy 100
+Uses 32
+10% to inflict poison, +30% crit
+
+Crunch
+Power 80
+Accuracy 100
+Uses 24
+20% to lower foe Def and Sp Def by 1 stage
+
+Black Curse
+Uses 16
+Foe's loses 1/4 hp every turn. If used on
+a Ghost type, it loses 1 stage of Spd
+
+Cut
+Power 50
+Accuracy 100
+Uses 50
+
+Dark Pulse
+Power 80
+Accuracy 100
+Uses 15
+
+Dark Void
+Power --
+Accuracy 100
+Uses 5
+Put all foes to sleep
+
+Darkest Lariat
+Power 85
+Accuracy 100
+Uses 10
+Ignores foe's stat changes
+
+Dazzling Gleam
+Power 80
+Accuracy 100
+Uses 10
+Hit all foes
+
+Decorate
+Uses 15
+Raise unit Atk and Spec Atk by 2 stages
+
+Defend Order
+Uses 10
+Raises unit Def and Spec Def by 2 stages
+
+Destiny Bond
+uses 5
+If user faints, the opponent also faints
+
+Diamond Storm
+Power 100
+Accuracy 100
+Uses 5
+Raise user Def after strike
+
+Dig
+Power 80
+Accuracy 100
+Uses 10
+Hides underground, then strike on the second turn.
+Can escape from caves
+
+Dire Claw
+Power 80
+Accuracy 100
+Uses 15
+Inflict random status effect on foe
+
+Disarming Voice
+Power 40
+Accuracy always hit
+Uses 15
+
+Discharge
+Power 80
+Accuracy 100
+Uses 15
+30% to stun
+
+Double Hit/Kick
+Power 35/30-60 (with steel effect)
+Accuracy 100
+Uses 10/30
+Strike twice
+
+Double Shock
+Power 120
+Accuracy 100
+Uses 5
+Unit loses electric type after strike
+
+Double Slap
+Power 15
+Accuracy 80
+Uses 10
+hit 2-5 times
+
+Double Team
+Uses 8
+Raises use evasion by 2 stages
+
+Double Edge
+Power 120
+Accuracy 100
+Uses 15
+Recoil damage
+
+Dragon Breath
+Power 120
+Accuracy 100
+Uses 10
+60% stun
+
+Dragon Claw
+Power 80
+Accuracy 100
+Uses 15
+
+Dragon Rage
+Always inflict 40 damage, uses 10
+
+Dragon Energy
+Power 150
+Accuracy 100
+Uses 5
+The higher the hp, the higher the damage
+
+Drill peck
+Power 80
+Accuracy 100
+Uses 20
+
+Eathquake
+Power 100
+Accuracy 100
+Uses 10
+Double damage to covered foes.
+Lowers foe Def, Spec Def and Speed by 1 stage
+
+Eerie Spell
+Power 80
+Accuracy 100
+Uses 5
+Reduces foe's PP
+
+Electro Surge
+Power 100
+Accuracy 100
+Uses 5
+Lowers foe's speed by 1 stage
+
+Ember
+Power 50
+Accuracy 100
+Uses 20
+20% burn
+
+Encore
+Forces the foe to use his last move for 3 turns, 5 uses
+
+Endeavor
+Reduces foe's Hp to same as user, 5 uses
+
+Energy Ball
+Eruption
+EsperWing
+Expanding Force
+Explosion
+Extrasensory
+False Swipe
+Feint attack
+Fell stinger
+Fiery Dance
+Fire Blast
+Fire Punch
+Flail
+Flame Burst
+FlameThrower
+Flash Cannon
+Fly
+Focus Blast
+Focus Energy
+Focus Punch
+Force Palm
+Foul Play
+Freeze Shock
+Freeze Glare
+Frost Breath
+Fury attack/cutter
+Geomancy
+Giga Drain
+Glacial Lance
+High Gravity
+Growl
+Growth
+Grudge
+Gunk Shot
+Hail
+Hammer Arm
+Harden
+Head Smash
+Heal Bell
+Heal Block
+Heal Pulse
+Heat Wave
+Hex
+Hidden Power
+Horn Attack
+Howl
+Hurricane
+Hydro Pump
+Hyper Drill
+Sleep
+uses 12
+Ice Ball
+Ice Beam
+
+
+
+Glitchy Pokemons
+MISSINGNO
+Type Normal/Glitch
+HP 33
+Atk 136
+Def 98
+Spd Atk 6
+Spd Def 6
+Speed 29
+
+C
+Type Glitch
+HP 21
+Atk 33
+Def 176
+Spd Atk 19
+Spd Def 19
+Speed 0
+
+F5
+Type Glitch
+HP 55
+Atk 143
+Def 55
+Spd Atk 0
+Spd Def 0
+Speed 13
+
+E3
+Type Glitch
+HP 19
+Atk 114
+Def 114
+Spd Atk 20
+Spd Def 20
+Speed 0
+
+4H
+Type Normal
+HP 37
+Atk 0
+Def 40
+Spd Atk 19
+Spd Def 19
+Speed 178
+
+P4$
+Type Figthing/Glitch
+HP 30
+Atk 182
+Def 32
+Spd Atk 54
+Spd Def 54
+Speed 2
+
+'V
+Type Glitch
+HP 58
+Atk 80
+Def 47
+Spd Atk 82
+Spd Def 82
+Speed 42
+
+F4
+Type Glitch
+HP 34
+Atk 0
+Def 19
+Spd Atk 106
+Spd Def 106
+Speed 169
+
+.g
+Type Bug/Glitch
+HP 14
+Atk 0
+Def 12
+Spd Atk 254
+Spd Def 254
+Speed 121
+
+'M
+Type Glitch
+HP 33
+Atk 129
+Def 218
+Spd Atk 3
+Spd Def 3
+Speed 24
+
+A
+Type Glitch
+HP 179
+Atk 96
+Def 209
+Spd Atk 21
+Spd Def 21
+Speed 96
+
+EC
+Type Normal/Glitch
+HP 80
+Atk 143
+Def 145
+Spd Atk 133
+Spd Def 133
+Speed 142
+
+M p'u
+Type Glitch
+HP 187
+Atk 105
+Def 217
+Spd Atk 29
+Spd Def 29
+Speed 104
+
+F2
+Type Flying/Glitch
+HP 146
+Atk 152
+Def 130
+Spd Atk 136
+Spd Def 136
+Speed 135
+
+94
+Type Normal/Ghost
+HP 142
+Atk 142
+Def 139
+Spd Atk 145
+Spd Def 145
+Speed 147
+
+C1
+Type Normal/Ground
+HP 232
+Atk 147
+Def 145
+Spd Atk 128
+Spd Def 128
+Speed 136
+
+P
+Type Normal/Ground
+HP 232
+Atk 147
+Def 145
+Spd Atk 136
+Spd Def 136
+Speed 128
+
+P Yellow
+pPKMnp''
+Type  Poison/Glitch
+HP  2
+Atk 2
+Def 104
+Spd Atk 1
+Spd Def 1
+Speed 3
+
+r'r'4
+Type Water/Glitch  
+HP 2
+Atk 94
+Def 0
+Spd Atk 1 
+Spd Def 1 
+Speed 47
+
+CA
+Type  Poison
+HP  53
+Atk 3
+Def 2
+Spd Atk 3 
+Spd Def 3
+Speed 126
+
+9
+Type  Glitch
+HP 4
+Atk 40
+Def 6
+Spd Atk 78 
+Spd Def 78
+Speed 62
+
+8P
+Type  Normal
+HP 24
+Atk 92
+Def 58
+Spd Atk 20 
+Spd Def 20
+Speed 0
+
+MissingNO_Yellow
+Type  Normal
+HP 178
+Atk 19
+Def 11
+Spd Atk 23 
+Spd Def 23
+Speed 0
+
+Triangle
+Type  Normal
+HP  0
+Atk 48
+Def 0
+Spd Atk 98 
+Spd Def 98
+Speed 88
+
+44
+Type  Normal/Glitch
+HP 14
+Atk 116
+Def 108
+Spd Atk 18 
+Spd Def 18
+Speed 0
+
+D9
+Type  Glitch
+HP 77
+Atk 185
+Def 38
+Spd Atk 19 
+Spd Def 19
+Speed 0
+
+4h4
+Type  Normal
+HP 192
+Atk 0
+Def 123
+Spd Atk 0 
+Spd Def 0
+Speed 16
+
+DE
+Type  Fire/Glitch
+HP 16
+Atk 112
+Def 123
+Spd Atk 0 
+Spd Def 0
+Speed 112
+
+Venus
+Type  Normal
+HP  134
+Atk 139
+Def 132
+Spd Atk 80
+Spd Def 80
+Speed 145
+
+HI
+Type  Normal/Glitch
+HP 132
+Atk 145
+Def 140
+Spd Atk 141
+Spd Def 141
+Speed 121
+
+XX (Better HI)
+Type  
+HP 
+Atk 
+Def 
+Spd Atk 
+Spd Def 
+Speed +7
+
+4894
+Type  Ghost/Normal
+HP 130
+Atk 136
+Def 132
+Spd Atk 147 
+Spd Def 147
+Speed 141
+
+DC
+Type  Normal/Glitch
+HP 148
+Atk 145
+Def 134
+Spd Atk 128
+Spd Def 128
+Speed 141
+
+3Trainer$
+Type  Normal/Glitch
+HP 33
+Atk 233
+Def 206
+Spd Atk 236
+Spd Def 236
+Speed 17

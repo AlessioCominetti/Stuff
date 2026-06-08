@@ -1,0 +1,908 @@
+WESTARIA
+
+Guards
+HP 26 (234)
+Atk 2-3 (18-27)
+Units 9
+Cost 100
+Swordman   ShieldWall
+HP 36 (324)
+Atk 3-4 (27-36)
+Units 9
+Legionaires ShieldWall, Discipline
+HP 40->52 (360->468)
+Atk 4-5 (36-45)
+Units 9
+
+Archers
+HP 16 (144)
+Atk 2-4 (18-36)
+Units 9
+Cost 120
+Crossbowmen
+HP 22 (198)
+Atk 4-5->5-6 (36-45->45-54)
+Units 9
+****Arbalester
+HP 24 (216)
+Atk 5-6->6-7 (45-54->54-63)
+Units 9
+
+Knights   Chargex2
+HP 58 (290)
+Atk 5-8 (25-40)
+Units 5
+Cost 180
+Champions Chargex2->x3
+HP 72 (360)
+Atk 6-9 (30-45)
+Units 5
+****Crusaders  Chargex2->x3, Discipline
+HP 80 (400)
+Atk 7-10 (35-50)
+Units 5
+
+Monks   Inspire
+HP 65 (390)
+Atk 5-6 (30-36)
+Units 6
+Cost 150
+Zealots  Inspire
+HP 75 (450)
+Atk 6-9 (36-54)
+Units 6
+
+CRIMSON HORDE
+
+Warriors 
+HP 18 (162)
+Atk 3-4 (27-36)
+Units 9
+Cost 100 (85)
+Immortals  Undead
+HP 25 (225->275)
+Atk 4-6 (36-54->44-66)
+Units 9+2
+****Sworn Ones   Undead, Intimidation
+HP 28 (252->308)
+Atk 5-7 (45-63->55-77)
+Units 9+2
+
+Hunters   poison
+HP 15 (135)
+Atk 3-4 (27-36)
+Units 9
+Cost 120
+Serpent archers   poison+2
+HP 18 (162)
+Atk 4-7 (36-63)
+Units 9
+****Serpent snipers   poison+2, poison immunity
+HP 25 (175)
+Atk 7-9 (49-63)
+Units 7
+
+Nomads  Chargex2
+HP 40 (280)
+Atk 4-7 (28-49)
+Units 7
+Cost 180 (153)
+Raiders  Chargex2, Intimidate
+HP 48 (336)
+Atk 5-8 (35-56)
+Units 7
+Undead raiders  Chargex2, Intimidate, undead
+HP 75 (375)
+Atk 7-12 (35-60)
+Units 5
+
+Assassins   Discipline, Dash, poison immunity
+HP 120 (360)
+Atk 8-16 (24-48)
+Units 3
+Cost 150
+***Elite Assassins   Discipline, Dash, poison immunity, intimidation
+HP 135 (405)
+Atk 12-20 (36-60)
+Units 3
+
+ICEDALES 
+
+Rebels   long spear
+HP 22 (198)
+Atk 1-5 (9-45)
+Units 9
+Cost 100
+Mirmidons  long spear
+HP 28 (252)
+Atk 2-7 (18-63) 
+Units 9
+15% to freeze for 2 seconds
+****Ice Mirmidons   long spear, discipline
+HP 32 (298)
+Atk 3-8 (27-72)
+Units 9
+15% to freeze for 2 seconds
+
+Gunsmiths
+HP 14 (126)
+Atk 1-4 (9-36)
+Units 9
+Cost 100
+Gunbots   Mechanism
+HP 27 (162)
+Atk 4-7 (24-42) 10% crit
+Units 6
+Giantbot   Mechanism, martial artist
+HP 200  regen 8 HP per second
+Atk 30-50 10% crit
+Units 1
+
+Lancers   Chargex2
+HP 54 (270)
+Atk 6-8 (30-40)
+Units 5
+Cost 180
+Dragon Lancers  Chargex2
+HP 67->80 (335->400)
+Atk 7-10 (35-50)
+Units 5
+****Dragon knights  Chargex2, poison immunity
+HP 75->90 (375->450)
+Atk 8-11 (40-55)
+Units 5
+
+Acolytes     freeze
+HP 55 (330)
+Atk 4-6 (24-36)
+Units 6
+Cost 150
+Wizards     freeze
+HP 65 (390)
+Atk 6-9 (36-54)
+Units 6
+
+RIVADIS
+
+Undead warriors   undead
+HP 18 (162)
+Atk 2-4 (18-36)
+Units 9
+Cost 100
+Zombie warriors  undead
+HP 25 (225)
+Atk 3-5 (27-45)
+Units 9
+****Revenants    undead, intimidation
+HP 28 (252)
+Atk 4-6 (36-54)
+Units 9
+
+Undead archers   undead
+HP 12 (108)
+Atk 2-4 (18-36)
+Units 9
+Cost 120
+Skeleton archers  undead
+HP 16 (144)
+Atk 4-5 (36-45)
+Units 9
+****Skeleton snipers    undead
+HP 18 (162)
+Atk 5-6 (45-54)
+Units 9
+
+Undead knights  Chargex2, undead
+HP 54 (270)
+Atk 5-8 (25-40)
+Units 5
+Cost 180
+Dark Knights  Chargex2, undead
+HP 67 (335)
+Atk 7-9 (35-45)
+Units 5
+****Death Knights   Chargex2, undead, intimidation
+HP 75 (375)
+Atk 8-10 (40-50)
+Units 5
+
+Undead assassins   dash, intimidate, undead
+HP 120 (360)
+Atk 6-12 (18-36)
+Units 3
+Cost 150
+Shades    dash, intimidate, undead
+HP 135 (405)
+Atk 12-20 (36-60)
+Units 3
+
+TREBUCHET
+
+Trebuchet  Mechanism,  besieger, splash
+HP 400
+Atk 15-25/4
+Units 1
+Cost 200, 2 population
+Poison catapult  Mechanism, besieger, splash, poison
+HP 600
+Atk 20-35/4
+Units 1
+
+WESTARIA: +20% damage
+CRIMSON: +120% movements speed, +50% damage to strongholds, poison catapult
+ICEDALES: +10% crit chance
+RIVADIS: poison catapult
+
+RANKINGS:
+INFANTRY   westaria(legion), crimson(immortal), icedales(mirms), rivadis(zombie)
+ARCHERS    icedales, crimson, west, rivadis
+CAVALRY  crimson, icedales, west, rivadis
+MAGICS  icedales, rivadis, west, crimson
+SIEGE  crimson, rivadis, west,icedals
+
+Edicts
+WESTARIA
+start with +150 G
++50% banner duration
++30% stronghold HP (unlock swordman)
++30% thunder damage (unlock thunder)
++20% archers, siege damage (unlock crossbowman)
+-20% ultimate cooldown (unlock zealots)
+champion chargex3 (unlock champion)
+troops +15% morale (unlock epic)
+infantry +30% HP (unlock legion)
+
+Banner of consacration
+Heal allies in range
+MP 50 last 12-18 seconds
+
+Thunder
+Deal damage to foes in range
+MP 150  damage 100-130
+
+Banner of Heroism
+Grant heroic state to allies in range
+MP 70 Last 12-18 seconds
+
+CRIMSON
++50% damage to strongholds
++20% troops movement
++150G when capturing a stronghold (unlock raiders)
++20% stone worms duration (unlock stone worms)
++2 units in immortal squad (unlock immortals)
++2 poison damage (unlock serpent archers)
+-6% ultimate when any of your squad dies (unlock summon)
++100% siege movement speed (unlock poison catapult)
+-15% cost for undead units (unlock ancient raiders)
+
+Banner of Bloodlust
+Allies do +50% damage in range
+MP 50 last 12 seconds
+
+Stoneworms
+Do damage to structures and foes, pushing them back
+MP 100 last 10-12 seconds
+
+Summon
+Summon immortal squad
+MP 250
+
+ICEDALES
++2 freeze duration
+-30% cost for farms, mines, obelisk
++10% crit chance for archers, siege (unlock gunbots)
++15% freeze chance for infantry (unlock mirmidons)
+-20% spell cost (unlock frost enchantment)
++30% xp gained (unlock freedom)
+magic towers +2 supply,mana,gold (unlock wizards)
++20% HP cavalry (unlock dragon lancers)
+giantbot +8HP/sec regen (unlock giantbot)
+
+Freeze blast
+freezes all foes in range
+MP 100-80  Last 5-7 seconds
+
+Frost enchantment
+Allies in range take -25% damage and do max damage 
+MP 150-120 Last 10 seconds
+
+Banner of Liberation
+Allies in range cannot be targeted by enemy magic
+MP 50-40  Last 12 seconds
+
+RIVADIS
+start with +100 mana
+Mines +2 gold per second 
+All troops cost -10% (unlock zombie warriors)
++2 units in skeleton squad (unlock skeleton archers)
++20% range for archers and siege (unlock poison catapult)
+Frightened units take +50% damage (unlock fright)
++20% to resurrect fallen units (unlock summon)
+Dark knights +30% damage (unlock dark knights)
++6% ultimate charge for each squad summoned (unlock shades)
+
+Banner of desecration
+Heal units in range
+MP 75 Last 12 seconds
+
+Terror
+Frigthens units in range
+MP 100 last 12 seconds
+
+Raise the dead
+Summon either undead warriors or undead archers
+MP 250
+
+All skills
+Shieldwall: unit take -35% damage from ranged attacks
+Discipline: unit cannot be frigthened
+Chargex2: unit deal double damage on first strike and charge
+Mechanism: cannot be healed, unaffected by morale or poison
+Besieger: x5 damage to buildings
+Splash: unit attacks deal Aoe effect
+Inspiration: unit improves nearby allies morale
+Martial master: no melee penalty
+Undead: unaffected by morale or poison
+Poisonous: unit deal 1/2/3 poison damage for 3 seconds
+Intimidation: unit greatly demoralize the enemy
+Poison immunity: unit cannot be poisoned
+Dash: teleports to the enemy
+Long spear: +50% damage to cavalry
+Freeze: unit freezes enemy briefly for 5 seconds
+
+CUSTOM SKILLS
+floran: cannot be frigthened or poisoned, regen Hp slowly off battle (about 5% each unit per second), take -50% damage from ranged attacks
+Heal: each unit heal an ally equal to this unit max attack stat/2 every second when not in combat
+pierce: attack can strike enemies behind the target
+last stand: unit is guaranteed to survive lethal hit if hp is above 1
+Flying: unit ignores terrain, cannot be hit by melee attacks
+Entangle: stun enemies in a large radius
+
+CUSTOM CIVS
+
+AZTECS
+
+Spearmen    long spear
+HP 20 (160)
+Atk 3-4 (24-32)
+Units 8
+Cost 100
+Puma spearman   long spear, discipline
+HP 28 (224)
+Atk 5-6 (40-48)
+Units 8
+
+Archers        poison
+HP 18 (144)
+Atk 3-4 (24-32)
+Units 8
+Cost 120
+Arrow Knights    poison, poison immunity
+HP 30 (180)
+Atk 6-10 (36-60)
+Units 6
+
+Jaguar warriors   chargex2, shield wall, discipline
+HP 40 (280)
+Atk 5-6 (35-42)
+Units 7
+Cost 180
+Jaguar knights   chargex2, shield wall, discipline, intimidate
+HP 60 (360)
+Atk 7-8 (42-48)
+Units 6
+Sworn Knights    chargex2, shield wall, discipline, intimidate, last stand
+HP 65 (390)
+Atk 8-9 (48-54)
+Units 6
+
+Eagle scouts     chargex2, long spear
+HP 32 (224)
+Atk 4-5 (28-35)
+Units 7
+Cost 150
+Eagle Knights    chargex2, long spear, discipline
+HP 55 (275)
+Atk 7-9 (35-45)
+Units 5
+
+Healers            Inspire, Discipline, Heal
+HP 75 (375)
+Atk 6-7 (30-35)
+Units 5
+Cost 150
+Shamans            Inspire, Discipline, Heal, poison immunity
+HP 90 (450)
+Atk 8-10 (40-50)
+Units 5
+
+FLORANS
+
+Spear militia     floran, long spear
+HP 27 (216)
+Atk 2-4 (16-32)
+Units 8
+Cost 100
+Holcans           floran, long spear
+HP 36 (288)
+Atk 4-5 (32-40)
+Units 8
+
+Akon archers      floran, poison
+HP 14 (112)
+Atk 3-5 (24-40)
+Units 8
+Cost 120
+Plumed archers    floran, poison
+HP 24 (144)
+Atk 7-9 (42-54)
+Units 6
+Elite archers     floran, poison
+HP 30 (180)
+Atk 8-10 (48-60)
+Units 6
+
+Mace scout       floran, chargex2
+HP 30 (180)
+Atk 3-4 (18-24)
+Units 6
+Cost 120
+Mace Knights     floran, chargex2
+HP 40 (240)
+Atk 4-6 (24-36)
+Units 6
+
+Ballistae            mechanism, besieger, pierce
+HP 100 (400)
+Atk 4-6 (16-24)  fires 4 times slower
+Units 4
+Cost 200 Supplies 2
+Scorpio              mechanism, besieger, pierce, poison
+HP 150 (600)
+Atk 6-8  (24-32)   fires 4 times slower
+Units 4
+
+Herbal healers      floran, heal
+HP 65 (390)
+Atk 5-6 (30-36)
+Units 6
+Cost 150
+Tree shamans        floran, heal, martial artist
+HP 150 (450)
+Atk 12-18 (36-54)
+Units 3
+
+ROMANS
+
+Hastati     shield wall
+HP 30 (240)
+Atk 2-4 (16-32)
+Units 8
+Cost 100
+Princeps    shield wall, long spear
+HP 40 (320)
+Atk 3-5 (24-40)
+Units 8
+Triari      shield wall, long spear, discipline
+HP 45 (360)
+Atk 4-6 (32-48)
+Units 8
+
+Sagittari
+HP 18 (144)
+Atk 3-4 (24-32)
+Units 8
+Cost 120
+Composite bowmen
+HP 25 (200)
+Atk 4-6 (32-48)
+Units 8
+
+Equites     chargex2
+HP 60 (300)
+Atk 6-7 (30-35)
+Units 5
+Cost 180 
+Cataphracts   chargex2,  shieldwall
+HP 72 (360)
+Atk 7-8 (35-40)
+Units 5
+
+Ballistae            mechanism, besieger, pierce
+HP 100 (400)
+Atk 4-6 (16-24)  fires 4 times slower
+Units 4
+Cost 200 Supplies 2
+Scorpio              mechanism, besieger, pierce, poison
+HP 150 (600)
+Atk 6-8  (24-32)   fires 4 times slower
+Units 4
+
+Arcani    dash, discipline, poison immunity, poison
+HP 90 (360)
+Atk 6-12 (24-48)
+Units 4
+Cost 160
+
+DRAGONS
+
+Dragon warriors
+HP 27 (162)
+Atk 4-6 (24-36)
+Units 6
+Cost 100
+Dragon axemen     intimidate
+HP 45 (225)
+Atk 8-10 (40-50)
+Units 5
+
+Dragon archers
+HP 24 (144)
+Atk 3-6 (18-36)
+Units 6
+Cost 120
+Dragon longbowmen
+HP 32 (192)
+Atk 6-9 (36-54)
+Units 6
+
+Dragon horsemen    chargex2
+HP 70 (280)
+Atk 9-10 (36-40)
+Units 4
+Cost 180
+Dragon lancers     chargex2, intimidate
+HP 90 (360)
+Atk 11-12 (44-48)
+Units 4
+
+Fire wyvern     flying, besieger, splash
+HP 400
+Atk 5-7
+Units 1
+Cost 150 
+Fire dragon     flying, besieger, splash, intimidate
+HP 500
+Atk 7-9
+Units 1
+Undead dragon   flying, besieger, splash, intimidate, undead
+HP 600
+Atk 8-12
+Units 1
+
+Fire mages       splash, besieger
+HP 100 (300)
+Atk 8-12 (24-36) fires 4 times slower
+Units 3
+Cost 150
+Fire sages      splash, besieger
+HP 120 (360)
+Atk 12-18 (36-54) fires 4 times slower
+Units 3
+
+NORSE
+
+Norse warriors
+HP 22 (198)
+Atk 2-4 (18-36)
+Units 9
+Cost 100
+Viking warriors
+HP 32 (288)
+Atk 3-5 (27-45)
+Units 9
+
+Norse archers
+HP 16 (144)
+Atk 2-4 (18-36)
+Units 9
+Cost 120
+Norse longbowmen
+HP 20 (180)
+Atk 4-6 (36-54)
+Units 9
+
+Horsemen     chargex2
+HP 50 (300)
+Atk 5-6 (30-36)
+Units 6
+Cost 180
+Jarls       chargex2
+HP 60 (360)
+Atk 6-7 (36-42)
+Units 6
+
+Scorpio
+
+Shield maiden   chargex2, shield wall
+HP 50 (300)
+Atk 4-6 (24-36)
+Units 6
+Cost 150
+Valkyres       chargex2, shield wall, inspire
+HP 75 (375)
+Atk 8-10 (40-50)
+Units 5
+
+INSECTA
+
+Ant soldiers       discipline
+HP 16 (160)
+Atk 2-3 (20-30)
+Units 10
+Cost 100
+Ant warriors    discipline, shield wall
+HP 28 (224)
+Atk 3-5 (24-40)
+Units 8
+Ant legionaires  discipline, shield wall, intimidate
+HP 32 (256)
+Atk 4-6 (32-48)
+Units 8
+
+Mantis archers
+HP 20 (160)
+Atk 3-4 (24-32)
+Units 8
+Cost 120
+
+Wasp lancers    chargex2, discipline
+HP 60 (300)
+Atk 6-8 (30-40)
+Units 5
+Cost 180
+Wasp raiders    chargex2, discipline, intimidate
+HP 72 (360)
+Atk 7-9 (35-45)
+Units 5
+Wasp destroyers  chargex2, discipline, intimidate, flying
+HP 80 (400)
+Atk 8-10 (40-50)
+Units 5
+
+Bombardier bettle   discipline, besieger, splash
+HP 400
+Atk 4-6
+Units 1
+Cost 200 population 2
+Toxic bettle           discipline, besieger, splash, poison
+HP 500
+Atk 6-8
+Units 1
+
+Nest Queen            entangle, splash
+HP 250
+Atk 6-8
+Units 1
+Cost 150
+Royal Queen           entangle, splash, poison
+HP 300
+Atk 8-10
+Units 1
+
+ATLANTEANS
+
+Militia
+HP 18 (162)
+Atk 2-3 (18-27)
+Units 9
+Cost 90    long spear
+Hoplites
+HP 25 (225)
+Atk 3-4 (27-36)
+Units 9    long spear, shield wall
+
+Archers
+HP 16 (144)
+Atk 2-4 (18-36)
+Units 9
+Cost 120
+Crossbowmen
+HP 22 (198)
+Atk 4-5 (36-45)
+Units 9
+
+Horsemen
+HP 50 (250)
+Atk 4-6 (20-30)
+Units 5
+Cost 150  chargex2
+Sea Knights
+HP 60 (300)
+Atk 5-7 (25-35)
+Units 5  chargex2, shieldwall
+
+Trebuchet
+
+Healers
+HP 60 (180)
+Atk 1-2 (3-6)
+Units 3
+Cost 150    Heal 10 per second to an ally in range
+Priestess
+HP 75 (225)
+Atk 2-3 (6-9)
+Units 3    Heal 12
+
+Guardians
+HP 60 (360)
+Atk 5-6 (30-36)  range: medium
+Units 6
+Cost 150   discipline
+Undying Guardians
+HP 75 (450)
+Atk 7-8 (42-48)   range: medium
+Units 6    discipline, unyielding: when defeated, this unit keeps on fighting for 5 seconds
+
+FLORANS.2
+
+Floran militia
+HP 16 (160)
+Atk 1-3 (10-30)
+Units 10
+Cost 80    floran
+Floran spearmen
+HP 20 (200)
+Atk 2-3 (20-30)
+Units 10    floran, long spear
+
+Floran hunters
+HP 12 (120)
+Atk 2-3  (20-30)
+Units 10
+Cost 110  floran
+Floran archers
+HP 15 (150)
+Atk 2-4 (20-40)
+Units 10   floran, poison
+
+Panter riders
+HP 32 (224)
+Atk 3-5 (21-35)
+Units 7
+Cost 160  floran, chargex2
+Acopaterans
+HP 48 (288)
+Atk 4-6 (24-36)
+Units 5   floran, chargex2
+
+Trebuchet
+
+Floran shamans
+HP 40 (240)
+Atk 3-5 (18-30)
+Units 6
+Cost 100  floran, heal 4
+Tree shamans
+HP 50 (300)
+Atk 4-6 (24-36)
+Units 6   floran, heal 5
+
+ANIMA
+
+Spearmen   long spear
+HP 25 (200) 
+Atk 3-4 (24-32)
+Units 8
+Cost 100  
+Halberdiers  long spear, discipline
+HP 30 (240)
+Atk 4-6 (32-48)
+Units 8   
+
+Hunters
+HP 18 (144)
+Atk 3-4 (24-32)
+Units 8
+Cost 120
+Trackers
+HP 25 (200)
+Atk 4-6 (32-48)
+Units 8
+Cost 120
+
+Horsemen  chargex2
+HP 50 (300)
+Atk 5-6 (30-36)
+Units 6
+Cost 180 
+Paladins  discipline, chargex2
+HP 65 (390)
+Atk 6-8 (36-48)
+Units 6
+
+Fire mages   splash, besieger
+HP 100 (300)
+Atk 4-6/2 (12-18)  range: average
+Units 3
+Cost 150
+Fore sages  splash, besieger
+HP 125 (375)
+Atk 6-9/2 (18-27)  range: average
+Units 3
+
+Ice mages    freeze
+HP 55 (330)
+Atk 4-6 (24-36) range: average
+Units 6
+Cost 150
+Ice sages    freeze
+HP 65 (390)
+Atk 6-9 (36-54)
+Units 6
+
+Thunder mages
+HP 100 (300)
+Atk 20/2 (60) range: very long
+Units 3
+Cost 150
+Thunder sages
+HP 150 (450)
+Atk 30/2 (90) range: very long
+Units 3
+
+Wind mages
+HP 50 (300)
+Atk 4-6 (24-36)  range: long
+Units 6
+Cost 150
+Wind sages
+HP 60 (360)
+Atk 6-9 (36-54)  range: long
+Units 6
+
+Water mages    heal 5
+HP 65 (390)
+Atk 4-5 (24-30)
+Units 6
+Cost 150
+Water sages   long spear  heal 6
+HP 75 (450)
+Atk 5-6 (30-36)
+Units 6
+
+Earth mages    floran
+HP 120 (360)
+Atk 10-12 (30-36)
+Units 3
+Cost 150
+Earth sages    floran
+HP 135 (405)
+Atk 14-18 (42-54)
+Units 3
+
+ABYSSALS
+
+Warriors    discipline
+HP 27 (162)
+Atk 4-6 (24-36)
+Units 6
+Cost 100
+Earls      discipline
+HP 38 (228)
+Atk 7-8  (42-48)
+Units 6
+
+Shooters
+HP 23 (138)
+Atk 4-7 (24-42)
+Units 6
+Cost 120
+Snipers
+HP 27 (162)
+Atk 7-10 (42-60)
+Units 6
+
+Raiders  chargex2
+HP 70 (280)
+Atk 7-9 (28-36)
+Units 4
+Cost 180
+Maulers  chargex2
+HP 90 (360)
+Atk 10-14 (40-56)
+Units 4
+
+Trebuchet
+
+Assassins

@@ -1,0 +1,649 @@
+Militia
+HP 50 [65]
+Atk 10 [15]  +6 vs cavalry
+Armor 1 [2]
+Speed 4
+M 8 G 10
+
+Skirmisher
+HP 40
+Atk 8 [10] +2 vs infantry
+Armor 0 [1]
+Range 4 [5]
+Speed 4
+M 8 G 10
+
+Scout cavalry
+HP 80 [120]
+Atk 12 [19]  +8 on first strike
+Armor 1 [2]  50% dodge
+Speed 10
+M 12 G 20   2 population
+
+Spearman
+HP 60 [75]
+Atk 10 [15]  +6 vs cavalry
+Armor 3/4 [4/5]
+Speed 4
+M 9 G 16
+
+Archer
+HP 35
+Atk 6 [8] +1 vs infantry
+Armor 0 [1]
+Range 7 [8]
+Speed 4
+M 9 G 14
+
+Swordman
+HP 60 [75]
+Atk 14 [19] +2 vs infantry
+Armor 2 [3]
+Speed 4
+M 9 G 14
+
+Crossbowman
+HP 45
+Atk 5 [7]   +1 vs infantry
+Armor 3 [4]
+Range 6 [7]
+Speed 4
+M 10 G 24  
+Attack ignores all armor
+
+Pikeman
+HP 70 [95]
+Atk 12 [18]  +12 vs cavalry
+Armor 3 [4]
+Speed 4
+M 10 G 26
+
+Lancer
+HP 100 [140]
+Atk 14  [21] +16 on first strike
+Armor 3 [4]
+Speed 10
+M 14 G 42   2 population
+
+Man at arms
+HP 85 [100]
+Atk 16 [21]   +2 vs infantry
+Armor 5/4 [7/6]
+Speed 4
+M 12 G 40
+
+Knight
+HP 130 [170]
+Atk 16 [21]  +16 on first strike
+Armor 6/5 [8/7]
+Speed 8
+M 18 G 70   3 population
+
+General
+HP 140 [220]
+Atk 16 [23]
+Armor 5 [9]
+Speed 8
+M 26 G 80
+Has various special abilities
+
+Militia->Spearman->Pikeman [1*]
+Skirmisher[2*]->Archer[1*]->Crossbowman [1*]
+Swordman[4*]->Man-at-arms[3*]
+Horseman[1*]->Lancer[1*]->Knight[3*]
+
+UNIQUE UNITS
+Longbowman (crossbowman)
++5 HP +1 atk -2 armor +4 range
++1 M +6 G
+
+Paladin (knight)
++10 HP +2 atk  +chivalry +30 G
+
+Teutonic knight (knight)
++30 HP -8 charge attack +1 armor
+-1 speed +2 M +30 G
+
+Santiago knight (knight)
++10 HP +10 G  +devotion
+
+Berber archer (archer)
++10 HP +2 range +50% dodge +4 G
+
+____
+
+Varangian Guard (man-at-arms)
++4 atk -5 HP -1 armor +2 dmg to infantry -6 G
+
+Horse archer
+HP 60
+Atk 6   +1 vs infantry
+Armor 0    50% dodge
+Range 7
+Speed 12
+M 10 G 24   2 population
+attack 25% faster
+
+Mameluke (lancer)
++10 HP +2 armor +devotion +2 M +8 G
+
+Cossack
+HP 75
+Atk 7   +1 vs cavalry
+Armor 0
+Range 8
+Speed 10
+M 12 G 28   2 population
+Attack ignores all armor
+
+Viking raider (man-at-arms)
++2 atk -5 HP -3 armor  +2 dmg to infantry
+2 atk on kill   -2 M -16 G
+
+____
+
+Gallowglass (swordman)
++20 HP +2 atk +2 dmg vs infantry
++8 atk on first strike +3 M +18 G
+
+____
+
+Highlander mercenary (swordman)
++10 HP +2/1 armor +1 M +12 G
+
+Viking Mercenary (swordman)
+10 HP +2 atk on kill +1M +6 G
+
+Kern (skirmisher)
++1 atk +1 armor +1 speed +2 M +4 G +50% dodge
+
+____
+
+Jinete (scout cavalry)
+-10 HP +1 atk +2 speed +1/0 armor +4 G
+
+Almogavar (skirmisher)
++20 HP +2 M +8 G  +pierce
+
+____
+
+
+Swiss pikeman (pikeman)
++1 atk +15 HP +1/0 armor +devotion +2 M +14 G
+
+____
+MERCENARIES
+
+Druzhina (man-at-arms)
++10 HP -1/0 armor +0/1 armor +pierce +18 G
+
+Nizari Assassin (swordman)
++10 HP +1 atk -2 atk vs infantry -0/1 armor +1/0 armor +2 speed
++50% dodge +50% attack rate +2 M +24 G
+
+******
+
+Jarl (knight)
+-10 HP +1 atk -8 first strike +0/1 armor -6 G
+
+Huskarl (man-at-arms)
+-10 HP +1 atk -2 atk vs infantry +0/1 armor
+
+
+Unit abilities:
+dodge,  first strike,  pierce
+devotion,  berserk,  fast fire
+
+CIVILIZATIONS
+Britons
+Franks
+Teutons
+Spaniards
+Berbers
+Byzantines
+Turks
+Arabians
+Saracens
+Danes
+Scots
+Irish
+Portugal
+Romans
+
+TECHS
+unlock archer: 200 G
+unlock spearman: 200 G
+unlock swordman: 300 G
+unlock crossbowman: 450 G
+unlock lancer: 600 G
+unlock knight: 1400 G
+unlock pikeman: 400 G
+unlock man-at-arms: 800 G
+
++50 supplies: 800 G
++25%/50% income: 900/3500 G
+research cost -25%: 1000 G
+
+melee +1 atk: 400 G
+cavalry +15 HP: 300 G
+bows +1 atk and range: 450 G
+all units +1 armor: 700 G
+cavalry +10 HP +2 atk: 1000 G
+crossbow +1 atk and range: 750 G
+all melee +2 atk I/II: 1400/2000 G
+all ranged +1 atk, all melee +15 HP: 2000 G
+pikeman +1 atk +10 HP: 1200 G
+generals +2 armor +40 HP: 1800 G
+knights, generals, man-at-arms, UU, mercenaries +1 armor: 2400 G
+
+GENERAL BONUSES
+Cautios advance: all units +1/2/3 armor, -1/2/3 atk
+Cavalry tactics: cavalry +25/50% dodge
+Weapon training: all units +1/2 armor for melee
+Logistics: all units cost -1/2 Morale
+Inspiring presence: all units +1/2/3 atk
+Feel no Pain: all units take -10/20% damage
+Discipline: all units +10/20/30% HP
+Charge: this unit deal double attack for 2/4/6 next attacks
+Forced March: all units +1/2 movement speed
+Leadership: +1/2/3 Morale generated
+Brutal Strenght: reduce foe's armor by 1/2 for each hit
+Iron Will: units regen 3/6/9 Hp while not under attack
+Warlord: +1/2/3 Morale per kill
+Archer tactics: archers +1/2 damage vs infantry
+Royal Blood: all units +1/2 atk, but lose 2/4 atk when general dies
+Battle cry: every unit deal 50/100% extra damage on first hit
+Great warrior: general +4/8 attack
+Gruesome assault: all sword units +2/4 bonus damage
+Spear wall: all spear units +2/4 bonus damage
+Shield wall: all melee units +1/2 armor vs ranged
+Fury: all units +20/40% more damage dealt bu 10/20% more damage taken
+
+MAPS
+
+*********
+EUROPE  20/34 VP
+*********
+Germany
+BAVARIA 38 G 22 pop
+LOMBARDY 42 G 19 pop
+LORRAINE 42 G 19 pop
+SAXONY 42 G 22 pop
+France
+BURGUNDY  48 G 27 pop
+AQUITANIE 46 G 25 pop
+TOULOUSE 40 G 18 pop
+Britons
+ENGLAND 50 G 25 pop
+WALES 36 G 19 pop
+Spanish
+CASTILLE 50 G 24 pop
+LEON 48 G 22 pop
+Berbers
+ANDALUSIA 68 G 29 pop
+ALGERIA 38 G 17 pop
+Neutral
+NAVARRE 42 G 15 pop
+PORTUGAL 40 G 14 pop
+ARAGON 44 G 18 pop
+TUNISIA 32 G 16 pop
+SICILY 38 G 15 pop
+APULIA 44 G 16 pop
+LATIUM 40 G 12 pop
+CARINTHIA 32 G 16 pop
+CROATIA 28 G 15 pop
+HUNGARY 48 G 17 pop
+BOHEMIA 30 G 17 pop
+POMERANIA 32 G 18 pop
+POLAND 38 G 19 pop
+DENMARK 38 G 16 pop
+SWEDEN 32 G 14 pop
+NORWAY 24 G 12 pop
+SCOTLAND 38 G 16 pop
+IRELAND 32 G 15 pop
+FRISIA 34 G 16 pop
+NORMANDY 38 G 14 pop
+BRITTANY 30 G 14 pop
+*****
+GRAND EUROPE 36/67 VP
+*****
+
+****
+BRITAIN 24/33 VP
+****
+
+****
+IRELAND 20/26 VP
+****
+
+****
+SPAIN 22/30 VP
+****
+
+****
+ITALY 18/25 VP
+****
+Lombards
+LOMBARDY 90 G 27 pop
+GENOA 60 G 16 pop
+Normans
+BENEVENTO 60 G 16 pop
+CAPUA 62 G 16 pop
+Papal States
+ROMAGNA 60 G 21 pop
+LATIUM 50 G 20 pop
+ROME 60 G 18 pop
+Arabs
+MESSINA 46 G 14 pop
+SYRACUSE 52 G 16 pop
+PALERMO 50 G 16 pop
+Byzantines
+CALABRIA 50 G 19 pop
+LUCANIA 44 G 18 pop
+APULIA 50 G 18 pop
+Neutral
+TUNISIA 80 G 18 pop
+SARDINIA 50 G 16 pop
+CORSICA 40 G 14 pop
+SALERNO 50 G 17 pop
+NAPLES 60 G 14 pop
+ABRUZZO 60 G 19 pop
+SPOLETO 60 G 18 pop
+TUSCANY 70 G 24 pop
+FLORENCE 54 G 15 pop
+VENICE 70 G 18 pop
+CROATIA 120 G 40 pop
+CARINTHIA 100 G 34 pop
+
+****
+EAST 38/54 VP
+****
+
+
+EXPANSION FOR AMERICA
+Mace scout (replace scout cavalry and lancer)
+HP 40 [70]
+Atk 8 [14]
+Armor 0/2 [2/4]  50% dodge
+Speed 6
+M 8 G 10
+
+Slinger (replace crossbowman)
+HP 35
+Atk 5 [7]   +1 vs infantry
+Armor 2 [4]
+Range 7 [8]
+Speed 4
+M 9 G 20  
+Attack ignores all armor
+Unlock cost 900 G
+
+Eagle warrior (replace knight)
+HP 50 [80]
+Atk 8  [14] +8 on first strike
+Armor 5 [7]  50% dodge
+Speed 6
+M 9 G 24
+Unlock cost 1050 G
+
+Jaguar warrior (replace man-at-arms)
+HP 75 [90]
+Atk 16 [22]   +4 vs infantry
+Armor 5 [7]
+Speed 4
+M 12 G 40
+Heal 10 hp per kill
++2 atk per kill
+Unlock cost 600 G
+
+Macahuitl warrior (replace swordman)
+HP 60 [75]
+Atk 12 [18] +4 vs infantry
+Armor 2 [4]
+Speed 4
+M 9 G 14
+Unlock cost 300 G
+
+Holcan (replace spearman and pikeman)
+HP 75 [90]
+Atk 12 [18]  +12 vs cavalry
+Armor 3 [5]
+Speed 4
+M 10 G 28
+Unlock cost 1250 G
+
+Chieftain
+HP 140 [200]
+Atk 16 [22]
+Armor 5 [9]
+Speed 4
+M 26 G 80
+Has various special abilities
+
+TECHS
++50 supplies: 600 G
++25/50% income: 800/2500 G
+
+mace scout, eagle warrior +15 HP: 1050 G
+bows +1 atk and range: 300 G
+all units +1 armor I/II: 600/1800 G
+all melee +2 atk I/II/III: 400/1050/1500 G
+all ranged +1 atk, all melee +15 HP: 1500 G
+generals +2 armor +45 HP: 1350 G
+
+CHIEFTAIN BONUSES
+Armor mastery: all units +1/2/3 armor
+Logistics: all units cost -1/2 Morale
+Inspiring presence: all units +1/2/3 atk
+Feel no Pain: all units take -10/20/30% damage
+Forced March: all units +1/2 movement speed
+Leadership: +1/2/3 Morale generated
+Iron Will: units regen 3/6/9 Hp while not under attack
+Warlord: +1/2/3 Morale per kill
+Weapon Tactics: all units +50/100% bonus damage
+Battle cry: every unit deal 50/100% extra damage on first hit
+Great warrior: chieftain +5/10 attack
+Fury: all units +20/40% more damage dealt but 10/20% more damage taken
+
+MERCENARIES
+
+Maceman
+HP 60 [75]
+Atk 14 [20]
+Armor 2 [4]
+Speed 4
+M 9 G 16
+
+Halberdier
+HP 85 [100]
+Atk 20 [24] +6 vs cavalry
+Armor 4 [6]
+Speed 4
+M 12 G 48
+
+Arrow knight
+HP 60
+Atk 7 [9]  +1 vs infantry
+Armor 0 [2]
+Range 12 [13]
+Speed 4
+M 12 G 40
+ignore all armor
+
+CIVILIZATIONS
+Aztecs-Skull Knight
+Mayans-Plumed Archer
+Taino-Gusabara
+Zapotechs-Macaw Warrior
+Mixtecs-Ichi Yutun
+Purepecha-Guancariecha
+Tlaxacala-Coyote Warrior
+Incas-Kamayuk
+Mapuche-Bolas Warrior
+Tupi-Ibirapema Warrior
+Muisca-Guecha Warrior
+
+UNIQUE UNITS
+Skull knight
+HP 70 [85]
+Atk 10 [16]
+Armor 7 [9]
+Speed 4
+M 12 G 36
+Drain hp equal to 50% of damage dealt
+
+Plumed Archer (archer)
++10 HP +1 speed +1 atk +50% dodge +4 G
+
+Gusabara (spearman)
++1 atk -5 HP +1 armor +50% dodge +4 G
+
+Macaw Warrior (man-at-arms)
++1/2 armor -2 atk -2 dmg vs infantry -4 G
+
+Ichi Yutun (halberdier)
+-10 HP +6 dmg vs cavalry -1 armor  -4 G
+
+Guancariecha (archer)
++40 HP +2 atk +2 range +6 G
+
+Coyote Warrior (swordman)
+-5 HP +1 atk -2 dmg vs infantry -1 armor +2 speed +1 M +2 G
+
+Kamayuk (pikeman)
+-5 HP +1 armor +2 atk +devotion +4 G
+
+Bolas Warrior (archer)
++50% dodge +apply slowdown 50%  +4 G
+
+Ibirapema Warrior (swordman)
++15 HP +2 atk +2 dmg vs infantry +1 M +6 G
+
+Guecha Warrior (skirmisher)
++2 atk +10 HP +2/4 armor +3 M +6 G
+
+MAPS
+
+*********
+CENTRAL AMERICA 16/27 VP
+*********
+Aztecs
+TENOCHTITLAN 44 G 20 pop
+AZATLAN 40 G 20 pop
+MEXICO 40 G 20 pop
+SAAAAA 40 G 22 pop
+Mayans
+DOS PILAS 60 G 30 pop
+TIKAL 40 G 20 pop
+YUCA 34 G 20 pop
+Tlaxacalans
+E 40 G 20 pop
+W 46 G 24 pop
+Zapotecs
+C 50 G 24 pop
+L 50 G 24 pop
+Mixtecs
+A 54 G 24 pop
+A 52 G 24 pop
+Purepecha
+N 50 G 22 pop
+P 50 G 22 pop
+A 50 G 20 pop
+Neutral
+S 78 G 30 pop
+L 48 G 10 pop
+C 60 G 30 pop
+H 78 G 28 pop
+P 32 G 18 pop
+P 38 G 20 pop
+D 50 G 22 pop
+S 44 G 20 pop
+S 39 G 20 pop
+I 65 G 30 pop
+N 68 G 28 pop
+
+*****
+SOUTH AMERICA 14/20 VP
+*****
+Incas
+T 44 G 30 pop
+A 60 G 30 pop
+S 60 G 22 pop
+Mapuche
+D 60 G 30 pop
+T 60 G 30 pop
+A 68 G 34 pop
+Tupi
+W 62 G 30 pop
+C 62 G 30 pop
+L 62 G 30 pop
+Muisca
+A 52 G 24 pop
+N 50 G 24 pop
+P 50 G 22 pop
+A 50 G 20 pop
+Neutral
+S 88 G 30 pop
+C 80 G 30 pop
+H 88 G 38 pop
+D 88 G 40 pop
+S 80 G 40 pop
+I 88 G 38 pop
+N 88 G 40 pop
+
+*****
+CARIBBS   15/20 VP
+*****
+Mayans
+L 90 G 27 pop
+G 90 G 24 pop
+B 90 G 24 pop
+Muisca
+R 72 G 21 pop
+L 60 G 20 pop
+R 70 G 18 pop
+Tupi
+M 58 G 14 pop
+S 60 G 16 pop
+P 60 G 16 pop
+Taino
+C 60 G 19 pop
+L 54 G 23 pop
+A 60 G 23 pop
+Neutral
+T 80 G 25 pop
+C 90 G 30 pop
+N 80 G 29 pop
+A 80 G 26 pop
+S 84 G 27 pop
+T 90 G 24 pop
+C 120 G 40 pop
+C 100 G 34 pop
+
+
+EXPANSION FOR ASIA
+
+Halberdier (replace man-at-arms)
+HP 95 [120]
+Atk 16 [21]  +12 vs cavalry
+Armor 5 [7]
+Speed 4
+M 12 G 40
+
+Cataphract (replace knight)
+-10 HP +1 atk +1/2 armor -1 speed +5 G
+
+CIVILIZATIONS
+Chinese
+Japanese
+Koreans
+Mongols
+Tibetans
+Malay
+Burmese
+Vietnamese
+Khmer
+Gurjara
+Bengalese
+Cholans
+Delhi's Sultanate

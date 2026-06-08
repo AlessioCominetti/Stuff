@@ -1,0 +1,346 @@
+ALGORITMO DI SHOR
+Ideato da Peter Shor nel 1994
+-Fattorizza i numeri interi grandi
+-calcola logaritmi discreti
+-tutto in tempo polinomiale
+
+Algoritmo:
+Dato un numero N, si devono trovare
+i suo fattori 'p' e 'q'
+1) Scegli un numero casuale a<N che
+calcola il massimo comun divisore
+        gcd(a,N)
+se >1, hai già trovato un fattore(caso fortunato)
+se no, prosegui
+2) trova il periodo r della funzione:
+f(x)=a(alla x) modN
+cioè il valore più piccolo di  𝑟 r tale che:
+a (alla x) =1 mod N
+Questo r è la chiave nascosta del problema
+Ex. se N=15 e a=2 allora il periodo è 4
+3) trova i fattori usando r
+se r è pari a a(elevato a r/2) diverso da -1 mod N
+allora: p=gcd(a (elevato r/2) -1,N) 
+e q=gcd(a (elevato r/2) +1,N)
+sono due fattori di N
+
+Esempio numerico
+-N=15 a=2 --> r=4
+Quindi:
+--2 (elevato a r/2) -1 =3
+--2 (elevato a r/2) +1 = 5
+gcd(3,15)=3 gcd(5,15)=5
+
+
+
+Algoritmi Post Quantici
+LATTICE BASED
+-Algoritmi basati su reticoli(lattice).
+Un reticolo in matematica è una griglia multidimensionale
+di punti nello spazio. Formalmente è l'insieme di
+tutti i combinatori lineari di interi di
+alcuni vettori di base.
+La sicurezza di questi algoritmi si basa su
+problemi come: SVP(shortest Vector Problem):
+trovare il vettore più corto di un reticolo
+CVP(Closet Vector Problem): dato un punto,
+trovare il vettore più vicino nel reticolo
+I sistemi lattice-based codificano messaggi o chiavi in 
+vettori all’interno di un reticolo.
+Le operazioni di cifratura aggiungono un po’ di “rumore” (noise) 
+al vettore, che rende impossibile risalire alla chiave senza 
+conoscere la base giusta.
+La difficoltà del problema deriva dal fatto che:
+ci sono moltissimi vettori possibili,
+e il rumore “nasconde” la struttura del reticolo.
+Solo chi conosce la base segreta può decifrare correttamente il messaggio.
+Quasi tutti gli algoritmi lattice-based derivano da una delle 
+seguenti formulazioni:
+
+Sigla	Nome	Descrizione
+LWE	Learning With Errors	Dato un sistema di equazioni lineari “sporche” da rumore, ricava il vettore segreto
+RLWE / MLWE	(Ring / Module Learning With Errors)	Versioni più efficienti di LWE che lavorano in strutture modulari o ad anello
+NTRU	Nth Truncated Polynomial Ring Unit	Usa polinomi in anelli modulari; uno dei primi schemi lattice pratici
+SIS	Short Integer Solution	Dato un insieme di vettori, trova una combinazione intera che li sommi a zero con coeff. piccoli
+
+Tutti questi problemi sono difficili anche con un computer quantistico: non esiste (ad oggi) 
+un equivalente dell’algoritmo di Shor per risolverli in modo efficiente.
+🔐 5. Esempi concreti di algoritmi lattice-based (standard e candidati NIST)
+Algoritmo	Tipo	Uso	Basato su	Note
+CRYSTALS-Kyber	KEM (Key Encapsulation)	Scambio chiavi	Module-LWE	Veloce, efficiente, scelto dal NIST nel 2022
+CRYSTALS-Dilithium	Firma digitale	Autenticazione	Module-SIS	Robusto, semplice da implementare
+FALCON	Firma digitale	Autenticazione	NTRU / Lattice Gaussiani	Firma compatta e ad alte prestazioni
+NTRUEncrypt	Cifratura diretta	Scambio chiavi	NTRU	Uno dei più antichi (1998), molto testato
+⚙️ 6. Come funziona (esempio intuitivo: Kyber)
+
+Kyber usa un approccio Module-LWE:
+Genera una chiave pubblica 
+𝐴
+A (una matrice di numeri casuali modulo 
+𝑞
+q).
+
+La chiave privata è un piccolo vettore 𝑠 s.
+La chiave pubblica è 𝐴×𝑠+𝑒A×s+e, dove 𝑒 e è rumore casuale.
+
+Cifratura = inviare un messaggio codificato con un vettore “noisy” che solo chi conosce 𝑠s può decodificare.
+
+💬 Il rumore “nasconde” 𝑠 s in modo che, senza di esso, recuperarlo equivale a risolvere LWE → impossibile.
+
+⚖️ 7. Pro e contro
+✅ Vantaggi
+
+Sicurezza anche contro computer quantistici.
+Basati su problemi matematici molto generali (difficili da ottimizzare).
+Implementazioni efficienti e relativamente veloci (soprattutto Kyber e Dilithium).
+Molta flessibilità: possono fare cifratura, firme, scambio chiavi, ecc.
+
+⚠️ Svantaggi
+
+Chiavi pubbliche più grandi (1–2 KB contro 256 bit di ECC).
+Firme digitali più pesanti (fino a decine di KB per SPHINCS+, anche se FALCON è compatto).
+Maggiore complessità di implementazione corretta (error handling, timing attacks).
+
+🧮 8. Schema visivo (semplificato)
+Chiave privata: s
+Chiave pubblica: A·s + e
+Messaggio cifrato: (A·r + e1, (A·s + e)·r + e2 + m)
+Decifrazione: usa s per eliminare il rumore e recuperare m
+💡 Tutta la sicurezza dipende dal fatto che, dato solo A e (A·s + e),
+sia impossibile risalire a s → problema LWE.
+
+CODE BASED
+📜 1. Origine e idea generale
+
+Nel 1978, Robert McEliece propose un sistema di cifratura basato su codici 
+di correzione d’errore (gli stessi usati nelle telecomunicazioni e nei dischi ottici).
+Lo scopo era:
+
+“nascondere” la struttura di un codice lineare che consente la 
+decodifica efficiente solo a chi conosce la chiave privata.
+In pratica, McEliece ebbe un’intuizione geniale:
+se i codici servono a correggere errori, allora si 
+possono usare anche per nascondere informazioni.
+
+🧩 2. Cosa sono i codici di correzione d’errore
+
+Un codice lineare è un modo di rappresentare un messaggio 
+come un vettore di bit più lungo, in modo che, se alcuni bit 
+vengono alterati, si possa recuperare il messaggio originale.
+
+Esempio:
+Messaggio: 1011 Codice: 1011100
+Se si corrompono 1 o 2 bit, il decoder può ancora ricostruire 1011.
+💡 In crittografia, l’idea è invertita:
+aggiungiamo errori artificiali in modo che solo chi conosce la 
+struttura del codice possa “correggerli” → cioè decifrare il messaggio.
+
+⚙️ 3. Struttura generale di un algoritmo code-based
+1️⃣ Generazione chiavi
+Si sceglie un codice lineare segreto con una matrice generatrice  𝐺
+G che permette una decodifica efficiente. Si “mescola” 𝐺 G con due matrici segrete casuali:
+𝑆 S: matrice invertibile (serve per confondere la base)
+𝑃 P: matrice di permutazione (serve per mescolare le posizioni dei bit)
+La chiave pubblica diventa:𝐺′=𝑆⋅𝐺⋅𝑃 G′=S⋅G⋅P  Solo chi conosce 𝑆 S e 𝑃 P può “tornare indietro”.
+
+2️⃣ Cifratura
+Il messaggio 𝑚 m viene moltiplicato per la matrice pubblica 
+𝐺′G′:𝑐=𝑚⋅𝐺′+𝑒c=m⋅G′+e dove 𝑒 e è un vettore di errori casuali (bit invertiti).
+
+3️⃣ Decifratura
+Il legittimo destinatario usa le chiavi segrete 
+𝑆
+−
+1
+S
+−1
+ e 
+𝑃
+−
+1
+P
+−1
+ per riportare 
+𝑐
+c al codice originale e poi decodifica gli errori con il suo 
+algoritmo di correzione (che solo lui conosce).
+
+🧠 4. Perché è sicuro
+
+Il problema matematico alla base è il Syndrome Decoding Problem (SDP):
+Dato un vettore codificato con errori casuali, trova quali 
+bit sono stati invertiti.
+Questo è un problema NP-hard, difficilissimo anche con un 
+computer quantistico, perché non esiste un equivalente 
+dell’algoritmo di Shor per risolverlo in modo efficiente.
+
+👉 In pratica, la sicurezza dei sistemi code-based è basata 
+su un problema combinatorio “brutale”, non su struttura algebrica 
+→ difficilissimo da attaccare.
+
+🔐 5. Principali algoritmi code-based
+Algoritmo	Tipo	Anno	Stato NIST	Caratteristiche
+Classic McEliece	Cifratura (KEM)	1978	Finalista (standard in arrivo)	Altamente sicuro, chiavi enormi
+BIKE (Bit Flipping Key Encapsulation)	KEM	2017	Finalista NIST Round 3	Basato su codici ciclici quasi-densi
+HQC (Hamming Quasi-Cyclic)	KEM	2017	Finalista NIST Round 3	Compromesso tra efficienza e dimensioni
+📦 Classic McEliece
+
+Basato su codici Goppa (tipo di codice correttore molto robusto).
+Sicuro da oltre 40 anni di analisi — nessun attacco quantistico efficace noto
+Chiave pubblica molto grande (da 250 KB a 1 MB).
+Estremamente veloce in cifratura e decifratura.
+Usato come “gold standard” di sicurezza, ma non pratico per dispositivi piccoli.
+
+⚙️ BIKE e HQC
+
+Alternative moderne con chiavi più piccole (fino a 10 KB).
+Basate su codici ciclici quasi-densi (QC-LDPC e QC-MDPC).
+Ottime prestazioni in hardware e rete, candidati per implementazioni pratiche.
+
+⚖️ 6. Pro e contro
+✅ Vantaggi
+
+Sicurezza altissima e ben studiata (nessun attacco riuscito in 45 anni).
+Resistente ai quanti — nessun algoritmo noto può risolvere SDP in tempo polinomiale.
+Decifrazione rapidissima (specialmente McEliece).
+Ottimo per applicazioni dove la velocità conta più dello spazio (es. server, infrastrutture militari).
+
+⚠️ Svantaggi
+
+Chiavi pubbliche enormi:
+McEliece → 200 KB – 1 MB
+BIKE/HQC → 5–20 KB
+Cifratura “una tantum”: non facilmente adattabile a firme digitali.
+
+Struttura meno flessibile rispetto ai lattice-based.
+🔭 8. Esempio intuitivo: Classic McEliece
+
+Immagina che il tuo messaggio sia una stringa di luci accese/spente (bit).
+Tu la invii dopo aver mescolato le posizioni (matrice 
+𝑃
+P) e inserito qualche errore casuale.
+
+Solo chi sa come è stato costruito il codice 
+(cioè conosce la base e l’algoritmo di correzione) può “ripulire il rumore” 
+e ricostruire il messaggio.
+Chiunque altro, vedendo solo la versione distorta, 
+si trova davanti a un problema combinatorio esponenziale.
+
+
+HASH BASED
+🔐 1. Idea di base
+
+Gli algoritmi hash-based usano solo una cosa:
+👉 funzioni hash crittografiche (come SHA-256, SHA-3, BLAKE2, ecc.).
+Tutto il sistema di firma o autenticazione si costruisce applicando 
+hash in modo ricorsivo e strutturato, per ottenere: firme digitali,
+o identificatori sicuri,
+senza bisogno di aritmetica modulare, vettori o matrici.
+
+💡 La sicurezza si basa su un principio semplice ma solidissimo:
+
+“Se la funzione hash è resistente alle collisioni e preimage attacks, 
+l’intero schema è sicuro — anche contro computer quantistici.”
+
+⚙️ 2. A cosa servono
+
+Gli algoritmi hash-based si usano principalmente per firme digitali 
+(non per cifratura o scambio chiavi).
+Niente RSA, niente curve ellittiche — solo hash.
+Questo li rende: molto sicuri,
+ma un po’ più lenti e “pesanti” in termini di dimensione della firma.
+
+🧱 3. Il progenitore: One-Time Signature (OTS)
+
+Tutto nasce dal concetto di firme monouso.
+🔹 Idea:
+
+Per firmare un messaggio, si generano molte coppie (privata/pubblica) 
+di valori casuali, e si pubblicano solo gli hash delle chiavi pubbliche.
+Ogni messaggio viene firmato una sola volta (da qui one-time).
+
+Il primo schema famoso è Lamport OTS (1979):
+Per ogni bit del messaggio (0 o 1) generi due chiavi casuali.
+Pubblicamente si pubblicano gli hash di tutte queste chiavi.
+Per firmare, riveli una chiave privata per ogni bit del messaggio.
+Il verificatore controlla gli hash.
+
+✅ Sicuro — ma solo per un messaggio.
+❌ Poco pratico per uso ripetuto.
+
+🌳 4. Dalle OTS alle firme “riutilizzabili”: Merkle Tree
+
+Per superare il limite monouso, Ralph Merkle (altro genio) 
+propose nel 1979 di organizzare molte chiavi OTS in una struttura 
+ad albero (Merkle tree).
+Ogni foglia = chiave pubblica OTS (hashata).
+I nodi intermedi sono ottenuti facendo hash dei figli.
+La radice dell’albero diventa la chiave pubblica globale.
+
+🔁 Così puoi firmare molti messaggi (una OTS per volta), 
+ma tutti validati dalla stessa radice.
+
+💡 Il verificatore deve solo conoscere:
+la radice (pubblica), e
+il percorso hash dalla foglia alla radice.
+
+⚙️ 5. Evoluzioni moderne: XMSS, LMS, SPHINCS+
+
+Le implementazioni moderne ottimizzano questa idea per 
+renderla scalabile e standardizzabile.
+
+Algoritmo	Tipo	Uso	Stato NIST	Note
+XMSS (eXtended Merkle Signature Scheme)	Stateful	Firme digitali	Standard IETF RFC 8391	Veloce ma serve tenere traccia dello stato
+LMS (Leighton–Micali Signature)	Stateful	Firme digitali	Standard NIST SP 800-208	Più semplice di XMSS
+SPHINCS+	Stateless	Firme digitali	Scelto dal NIST nel 2022	Nessuno stato da gestire, ma firme più grandi
+🧩 6. Stateful vs Stateless
+🔸 Stateful (XMSS, LMS)
+
+Devi tenere traccia di quante chiavi OTS hai usato.
+Se riusi la stessa chiave → firma compromessa.
+Molto efficienti, ma serve una gestione accurata.
+
+🔹 Stateless (SPHINCS+)
+
+Nessuna memoria o contatore: la chiave è derivata ogni volta da un seme.
+Completamente sicuro anche se firmi milioni di messaggi.
+Più sicuro, ma firme grandi (15–50 KB).
+
+🔬 7. Come funziona (esempio intuitivo)
+
+Immagina di avere una funzione hash 
+𝐻
+H e un seme segreto 
+𝑠
+s.
+
+Generi un set di chiavi OTS dal seme (usando 
+𝐻
+H).
+
+Le disponi in un albero hash (Merkle tree).
+La radice dell’albero è la tua chiave pubblica.
+Quando firmi un messaggio:
+scegli una OTS libera,
+firmi il messaggio,
+includi nel messaggio il “cammino hash” fino alla radice.
+Il verificatore:
+calcola gli hash del messaggio,
+ricostruisce il percorso fino alla radice,
+e se combacia → firma valida ✅.
+
+⚖️ 8. Pro e contro
+✅ Vantaggi
+
+Sicurezza molto alta — basata solo su funzioni hash standard.
+Resistente ai computer quantistici 
+(l’attacco di Grover riduce la sicurezza solo da n a n/2 bit, facilmente compensabile).
+Matematica semplice e trasparente.
+Facili da implementare e verificare formalmente.
+
+⚠️ Svantaggi
+
+Solo firme digitali, non cifratura o scambio chiavi.
+Firme grandi (da 10 KB a 50 KB).
+Generazione relativamente lenta (soprattutto SPHINCS+).
+I sistemi stateful devono evitare errori di riuso.

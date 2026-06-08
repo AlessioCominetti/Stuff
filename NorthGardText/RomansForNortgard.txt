@@ -1,0 +1,457 @@
+ROMANS
+-zones have no building limit: player can build as many buildings
+as space allows. Can build multiple type of the same building
+in the same zone, but only 1 defense tower per zone.
+-Start with no settlers but with +200 W. Houses
+can be upgraded using prestige. Houses provide citizens who
+will automatically work to collect resources from buildings.
+-Need storehouses to colonize. Each storehouse can host
+2 captivus, 3 when upgraded and store 400 resources, 800 when upgraded
+-Citizens don't build. Captivus are the only units who can
+build. They don't count towards population space and consume -60% F.
+Slaves can be ordered to build individual buildings
+or to work together to speed up the construction of one.
+-Increasing a house status also increase work rate but 
+also increase citizens demands. Each citizen needs resources and
+services to be happy. Unhappy citizens will revolt and start
+burning down buildings. Make sure to have at least more than 50% happy
+citizens.
+-Houses gain status with prestige. Prestige can be increased by
+special buildings. Each building increase prestigie of
+a zone, but some are more powerful.
+-Doesn't have access to lore and techs.
+-New resources: clothes and wine. 2 F <> 1 cloth     2 F <> 1 wine
+-Miners work slower but deposits last 3 times more
+-Always available a trade route with Rome to buy 1 S for 10 F
+-Citizen classes:
+plebean: 40% work rate, need F,W and water   (-1.2F -0.1W)
+low class: 60% work rate, need F,W,water and clothes (+  -0.2 clothes)
+middle class: 80% work rate, need F,W,water,clothes and wine in taverns (+ -0.2 wine)
+upper class: 100% work rate, need previous +teather and baths
+-Can train legatus(warchief) at basilica(town hall)
+-Basilica upgrades automatically for every 10 new houses you have
+Upgraded basilica bring new benefits
+-Vigiles are the only units that can extinguish fires
+-Citizens and slaves respawn when killed over a period of 6/3 months
+-Soldiers are trained from barracks and don't count towards
+civilian unit count
+
+---Buildings---
+
+Basilica Doubles as a storehouse, can train hero
+Upgrades automatically for every 10 casas,domuses,villas
+Doesn't produce G,start with 3 slaves inside it.
+Level 1: nothing
+Level 2: +1 max golden statue, enable temple
+Level 3: +1 max golden statue, enable theather, baths, accademy
+Level 4: +1 max golden statue
+
+Forum doubles as a storehouse, can train hero
+Can be upgraded with G, start with 3 slaves
+Every time a forum is upgraded, it can tax
+all citizens for 20% of their G
+Level 1: nothing
+Level 2: require 10 magalias, +2 slaves +1 level of prestigie
+for this zone, cost 50 G
+Level 3: require 10 casas, all citizens +10 G, enable temple here
++1 level of prestige, cost 200 G
+Level 4: require 10 domuses, +30% settler growth, cost 200 G
+Level 5: requre 10 villas, Vulcan's blessing, halves cost
+of all buildings, each villa bring 1 slave to forum/storehouse
+cost 400 G
+
+House: provide 2 citizens
+Cost 40 W 10 G, 6-9 upkeep
+upgrades automatically when in zones with prestige
+
+Storehouse: needed to colonize new zones
+provide 2 slaves
+Cost 100 W 80 G, 20-30 upkeep
+Upgrade: 50 W 40 G, +1 slave
+
+Water fountain: satisfy water need for civilians
+Cost 2 S
+
+Aqueduct: transport water to inland zones
+Cost 4 S
+
+altar: provide 1 level of prestigie
+Cost 20 W 2 S 10 G, 8 upkeep
+
+Temple: provide 1 level of prestige, train 2 priests
+Can unlock god's favours:
+JULII
+Saturn: farmer work 20% faster 100 W 10 S 400 G
+-require at least 3 wheat farms/wineyards/flax farms
+Vulcan: halves construcion cost of all buildings 300 W 30 S
+-require at least 1 arch of triumph being built
+Fortuna: +2 G income 20 S 400 G
+-require at least 6 altars or 3 temples
+Neptune: summon a lake in a zone 15 S 400 G
+-require at least 1 golden statue
+AUGUSTI
+-require level 3 forum, can only choose one of them
+Mercurius: slaves work 30% faster, increase G income by 50%  350 G
+Mars: Military buildings cost -50%, +1 max warband each 350 G
+Vulcan: vigiles extinguish fires 50% faster, +50% production of W/S  350 G
+Saturn: farms/hunters/fisherman cost -50%, +20% production  350 G
+Jupiter: +4 happyness, obtain 25% effect of all other gods  350 G
+TIBERI
+Saturn: farmers work 20% faster 10 S 30 G
+Vesta: fires are extinguished 100% faster  15 S 50 G
+-require Vesta priest technology
+Mars: +2 happyness, military units +30% atk  15 S 80 G
+-require Mars priest tech
+Jupiter: +5 lore +2 happyness 20 S 60 G
+-require Jupiter priest tech
+Cost 20 S 200 G, 40 upkeep
+TIBERI Pantheon upgrade: 200 W 30 S 400 G
+require pantheon tech: unlock all god's favours
+
+Tavern: serve wine to this zone and adiacent, hire bartenders
+who produce happyness, 2 workers
+Cost 100 W 50 G, 32-48 upkeep
+Up cost 50 W 50 G 5 S: +1 worker, bartenders +50% happyness
+
+Theather: 4 workers, 1 level of prestige to this zone
+and adiacent ones
+Cost 24 S 120 W 40 G, 72 upkeep
+
+Baths: improve hygiene of whole settlement, 1 level of
+prestigie to this zone and nearby, satisify water need
+Cost 10 S 40 G, 24 upkeep
+
+Trading post/dock: trade with other factions and buy stuff
+2 workers
+Income: 3 G (unaffected by prestige)
+Cost 80 W, 36 upkeep
+
+Prefecture: specialized building that hires vigiles.
+They defend the territory and extinguish fires and revolts
+4 workers
+Cost 80 W 100 G, 12 upkeep
+
+Barrack/Archery Range/Stable: train soldiers, +4 warband units
+Cost 100 W 5 S, 48 upkeep
+
+Defensive tower: shoot arrows at enemies in zone
+Summon 1 hastatus when tower hp is below 40%,
+they cannot leave this zone and disappear when there
+are no foes in zone
+HP 125 Atk 10+5 Armor 10+5
+Cost 60 W 6 S, upkeep 36-72 G
+Up cost 40 W 4 S
+
+Farmland: produce F, clothes or wine, can be placed
+anywhere, but get +10% bonus production on fertile ground.
+Farms don't produce during winter.
+Wheat farm: +9 F  (40-100%)
+Cloth farm: +4.5 cloth
+Wine farm: +4.5 wine
+3 workers
+Cost 120 W, 24-48 upkeep
+
+Fisherman/Hunters lodge: produce F, 2 workers
+Fisher: +6.7 F (40-100%)
+Hunter: +7.2-4.8 F
+Cost 80 W, 24 upkeep
+
+Lumberjack/Mine: produce W/S/I, 2 workers
+Woodcutter: +6 W  (40-100%)
+Miner: +0.5 S/I  (40-100%)
+Cost 50 W, 24 upkeep
+
+Blacksmith: produce iron tools to improve soldiers, 2 workers
+produce 2-5 weapons each at the same time needed to improve tools
+Cost 60 W 4 S 10 G, 32 upkeep
+
+Arch of triumph: for every 25 houses built, you can
+build and arch of triumph, who will increase damage dealt
+by all soldiers by 20% (4 arces at max)
+Cost 12 S 100 G
+TIBERI: for every decolonized territory, you
+can build an arch of triumph. All units will get
++30% atk. Cost 30 S 150 G
+
+Golden statue: for basilica upgrade, you can build
+a golden statue, which bring 1 level of prestigie
+to this zone and adiacent. Max 3
+Cost 40 W 4 S 20 G
+
+Coliseum: require 1 arc of triumph and 1 golden statue.
+When built, bring 1 level of prestigie to all zones.
+Can host gladiator games to make all citizens happy for 3 months
+AUGUSTI
+Attract new settlers 30% faster
+Cost 90 S 900 W 200 G, 24 upkeep.
+Gladiator games: 150 G
+TIBERI cost 50 S 300 W 100 G
+
+AUGUSTI
+Circu Maximus: require 1 arch of triumph
+When built, bring 1 level of prestigie to this zone and adiacent
+Can host chariot races. Attract new settlers 30% faster
+Cost 90 S 400 W 100 G, 24 upkeep
+Races: 200 G
+TIBERI cost 60 S 400 W 500 G
+
+Accademy: when built:
+JULII:every tavern, trading post/dock
+generates G equal to the number of citizens (+0.1 per civilian)
+AUGUSTI:increase happyness given by taverns, markets also
+generate happyness
+Cost 30 S 200 W 100 G, 24 upkeep
+
+TIBERI buildings
+Insula: plebeian work house
+Need F to be happy
+Cost 80 W 10 G
+
+Equites: middle class work house
+Each house increas work warband cap by 1
+Need F and happyness to be happy
+Limit is 3 equite houses for each 2 insulae
+Cost 5 S 20 G
+
+Villa: high class work house
+Produce G and lore
+Need F,clothes,wine,happyness and a temple in zone to be happy
+Cost 10 S 40 G
+
+Fountain 10 G
+Acqueduct 10 G
+Work site 20 G: speed up building construction in zone by 25% for 2 minutes
+
+Fundus: enable colonization and building construction
+Cost 300 W 50 G
+
+Lumberjack: plebeian/slaves
+Produce W
+Cost 10 G
+
+Mine: plebeian/slaves
+Produce S/I/G
+Cost 50 W 10 G
+
+Farm: plebeian/slaves
+Produce Food/Clothes/Wine
+Cost 100 W 10 G
+
+Silos: plebeian/slaves
+Prevent famines when hunger strikes, but reduce
+happyness and popularity
+Cost 100 W
+
+Tavern: equites/patricians
+Consume wine and produce happyness
+Cost 100 W 20 G
+
+Slave shelter: provide slave labour force to all
+buildings in zone. Max 2
+Cost 60 W 20 G
+
+Trading post/dock: enable trade
+Cost 100 W
+
+Lighthouse: enable more trading
+Cost 100 W 10 S 30 G
+
+Accademy: plebeians/patricians
+enable research of techs
+Cost 200 W 10 G
+Up cost 10 S 30 G
+Up cost 40 S 100 G: work twice as fast
+
+Prefecture: equites
+extinguish fires, suffocate revolts and defens territories
+require vigiles tech
+Cost 100 W 20 G
+Up cost 200 W 20 S 200 G, require curia upgrade
+
+Hospital: plebeians
+Train healers, require herbal tech
+Cost 100 W 10 G
+
+Gladiator school: train gladiators
+Cost 10 S 40 G
+
+Baths: patricians
+reuire bath tech
+Cost 15 S
+
+Teather: patricians/equites
+require forum
+Cost 100 W 10 S 40 S
+
+Forum: Enable taxation
+Cost 200 W 20 S 100 G
+
+Barrack/Archery Range/Stable/Siege workshop: train soldiers
+Cost 100 W 10 S 50 G
+Up cost 100 W 10 S 50 G
+
+Military accademy: train elite soldiers and research techs
+require military accademy tech
+Cost 100 W 15 S 50 G
+
+Victory pillar: when built, all military units +1 lvl
+require to have at least defeat 4 different enemies
+Cost 20 S 200 G
+
+---Units---
+Civilian/Slave
+HP 50 Atk 5 Armor 4
+
+Militia
+HP 60 Atk 8 Armor 8
+Cannot go into neutral/enemy territory
+
+Vigiles
+HP 50-100 Atk 5-20 Armor 4-8
+
+Legatus(warchief)
+HP 75 Atk 15 Armor 10
+Special-leadership: allies in the zone get +10% atk and armor
+Special-scouting: this unit can scout 3 times faster than average scout
+Special-triumph: unit restore 25 Hp after defeating any enemy
+Cost 150 G 5 I
+
+Hastatus/Princep/Triarius
+HP 50 Atk 7+1+1 Armor 4+4+2   50% defense from ranged attacks
+Special-testudo: activate to reduce all damage taken by 50%, but move 50% slower
+Special hastatus-newbie: double xp gained by this unit
+Special Triario-Resilience: Obtain 5 Hp for each level up (max +35)
+Cost 20 W 20 G 1 Clothes   Up 1 Iron weapon Up 1 Iron weapon
+TIBERI cost 50 G   Up 1 Iron Weapon Up 1 Iron weapon
+
+Velite/Archer/cretan archers
+HP 50 Atk 10+2 Armor 4 Range 8+2
+Special archer-fire arrows: unit deal 50% more damage to buildings
+Special-scouting: unit can scout at average speed, always run
+Cost 20 W 20 G 1 Clothes   Up 1 Iron weapon
+TIBERI cost 30 G  Up cost 1 Iron weapon
+TIBERI upgrade cost 20 G  gain 50% armor piercing ability
+
+Equite/Cataphract
+HP 100 Atk 10+4 Armor 7+1  30% defense from ranged attacks
+Special-charge: this unit speed up and first attack does double damage
+Occupies 2 warband slots
+Cost 40 W 40 G 2 Clothes  Up 2 Iron weapons
+TIBERI cost 120 G   Up cost 1 Iron weapon
+
+TIBERI
+Gladiators
+HP 35 Atk 15 Armor 2
+Special-freedom: when this unit is about to die, becomes
+invulnerable for 12 seconds, then disappear
+Cost 35 G 2 Iron
+
+Secutors
+HP 160 Atk 12 Armor 10
+Special-great shield: this units ignores the first strike of the enemy
+Special-bloodpact: every 30 seconds, this unit get +100% atk for 10 seconds
+Cost 180 G 2 Iron 2 soldier slot
+
+Pretorians
+HP 90 Atk 12 Armor 5
+Special-thorns: return 50% of damage taken in melee back to the enemy
+Cost 220 G 2 Iron 2 soldier slot
+
+Ballista
+HP 250 Atk 24/5 Armor 5 Range 20
+Can attack buildings from other zones
+Cost 250 G 2 Iron 20 W
+
+Mercenaries
+Highlander
+HP 80 Atk 8 Armor 4
+Cost 30 G
+
+Numidian skirmishers
+HP 30 Atk 6 Armor 2 Range 8
+Special-revenge: when this unit dies, do an attack that deals 3 times the damage
+Cost 30 G
+
+War elephant
+HP 750 Atk 25/4 Armor 5
+Special-trample: this unit deal trample damage
+Cost 750 G -8 F upkeep
+
+HOUSES
+Julii
+-buildings don't cost G, storehouses cost -50% G, have no need for settlers
+-Can train all units at the barrack
+-
+
+AUGUSTI
+-Need Settlers, they are generate automatically from the forum
+-forum replaces basilica, can be upgraded with G after
+meeting certain thresholds
+-Can build circus maximus
+-Citizens have G, which can increase or decrease with working
+and buying stuff. Houses can reach new levels by having G.
+20<magalia 20<casa<40 40<domus<80 80<villa
+Poor citizens willbecome thieves and start fires on the city
+Use vigiles to capture them
+
+TIBERI
+-Fundus replace Forum and barracks
+-Start with 2 hastati
+-Can colonize zones by cleasning them and placing
+a Fundus on the selected zone
+-Buildings are built automatically, but 50% slower
+-New resource: popularity
+Many actions can affect popularity, like building placement, taxes etc.
+-Resources don't stack or dimish, but are produced at a steady rate
+-No prestige, can build 3 different types of houses
+-Upkeep is in W/S not in G
+-Circus and Coliseum cost is different
+-Can obtain effects
+-Can impose martian law: prevent all revolts, but lose 30% popularity
+
+EFFECTS
+city of workers: only plebeians live here:
+-cut in half cost of worksites
+Abbundance: F satisfaction is above 70%:
+-insulae cost no G
+Efficency: all citizens have a job:
+upgrades G cost is halved
+Eufory: entertainemnt satifaction is aboe 70%:
+-Double popularity growth
+Recession: lack materials:
+-buidlers work 3 times slower
+Unemployement: too many unemployed:
+-Houses are empty. cost G to fill them
+city of nobles: 50% of houses are quites or patricians:
+-+50% G income
+
+200 Fame: Golden Age: after building a monument,
+the G cost of the next four buildings is halved
+500 Fame: Ancient City: Researching techs is 30% faster,
+building buildings in quick succession makes constructions
+work 30% faster. Having defeated at least 3 military
+units in quick succession causes all xp earned
+to be doubled
+
+Techs
+Architecture
+Unlock prefectures
+Unlock Hospital
+Unlock Vesta
+Unlock Blacksmith
+Unlock Mars
+Unlock Accademy upgrade 1
+Unlock Baths
+Unlock Jupiter
+Unlock Accademy upgrade 2
+Unlock Prefecture Upgrade
+Unlock Temple Upgrade
+Techonology
+Upgrade farms I,II,III Upgrade Lumberjack I,II,III Upgrade mines I,II,III
+Military
+Double Towers HP
+Unlock military accademt
+Unlock Mercenaries at barracks
+Unlock Warships
+Unlock Pretorians
+Unlock Secutors

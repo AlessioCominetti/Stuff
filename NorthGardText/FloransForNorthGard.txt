@@ -1,0 +1,544 @@
+COMMON TRAITS OF THE FLORANS
+-There's no happyness. Settlers come
+at a steady peace based on number of actual people.
+-Florans regen health while not in battle (15 Hp/min)
+-Florans settlers consume no F, and produce W (2.0-2.4) instead of F
+-Florans become trees during winter: cannot move or attack, 
+but cannot be harmed. Return to normal once spring arrives
+-Have greater winter penalty (-1.2 F per unit, -50% atk penalty)
+-Can build the House of Darts, which replace all barracks and the scout camp
+-Have fewer but more powerful techs, sages produce less lore
+-Can build Storehouses, which double as a mining camp and
+as a woodcutter's lodge
+-Market Plaza combines the trading post and the marketplace
+-Temple replaces the Healer's Hut, cost Stone and
+can be used to train shamans. They fight, heal and produce lore
+-Can upgrade Dock to Shipyards. Sailors produce F instead of G
+-Altar of Kings is an upgrade of the Castle
+-Can build the Ortus. It can be assigned with villagers
+to produce F. Production varies based on zone
+-Silos can be placed only if there's an Ortus already built
+-Doesn't utilize iron. Can mine obsidian from stone deposits.
+For each 5 stone, you get 1 obsidian.
+-Cannot assign settlers at runic stones. Can gather lore
+by building an Ortus building nearby
+-Population doesn't generate lore
+
+
+---Buildings---
+
+House of Darts
+Cost 50 W, 24-48 G upkeep
+Provide +2 military units, train military units
+Up cost 100 W 50 G 10 S: +1 military units, all military units +5% atk
+
+Storehouse: 2 workers
+Cost 50 W, 18-36 G upkeep
+Can be used as a drop off point for minerals and wood
+Production 3->4.2 W 0.24->0.43 S/O
+Up cost 50 W 50 G 10 S: +20% W production and +1 worker
+
+Market Plaza: 2 workers
+Cost 80 W, 24-48 G upkeep
+Can trade with other factions and buy goods
+Production 2 G
+Up cost 100 W 10 S: +30% G income and +1 worker
+
+Temple: 2 workers
+Cost 60 W 20 S, 40-60 G upkeep
+Can train shamans. Heal 40->68 Hp/min, produce 4->6.4 lore
+Up cost 100 W 50 G 10 S: +20% heal/attack/lore production and +1 worker
+
+Castle: +5 population
+Produce 3 G
+Up cost 100 W 50 G 10 S: +20% settler growth, +2 population
+Up cost 300 W 300 G 15 S: produce 1 F/W/G/lore for each 200 fame
+
+House
+Cost 50 W, 18-36 G upkeep
+provide +5/8 population
+Up cost 50 W 50 G 5 S: +3 population
+
+Blacksmith: 2 workers
+Cost 60 W 20 G, 24-48 G upkeep
+Up cost 100 W 50 G 10 S: +50% production and +1 worker
+
+Dock: 2 workers
+Cost 80 W, 24-48 G upkeep
+Can assigne settlers to gather 2.0->3.0 F and 0.8->1.2 lore
+Up cost 100 W 10 S: +25% production and +1 worker
+
+Light house: Cost 100 W 100 S
+
+Ortus: 2 workers
+Cost 80 W, 20-40 G upkeep
+Can be assigned with settlers to produce F and
+other resources
+Empty: small 2.0-3.2 F production
+Grain: produce 3.2-5.8 F and incease attack of maceman by 5%
+Hunter: produce 3.2-5.8 F and increase attack of archers by 5%
+Fisherman: produce 3.2-5.8 F and increase attack of spearman by 5%
+Woodland: produce 2.0-2.4 F and 1.2-1.68 W
+Stone circle: produce 2.0-2.4 F and 1.0-1.2 lore
+Up cost 100 W 10 S 50 G: +20% production, +1 worker
+
+Silos
+Cost 80 W, 20-40 G upkeep
+Protect 300/800 F from rats and increase cap by that much
+Increase F production of buildings in zone by 20/40%
+Up cost 100 W 50 G 10 S: +500 F stored, +20% F production here
+
+Scout tower
+Cost 40 W
+Can be placed on neutral and ally territory,
+doesn't have upkeep. Can be garrisoned by infantry units.
+Defenders shoot arrows. Can explore nearby territories
+at 20% the rate of a scout. Limit is 1 per zone.
+HP 100 Atk 5 Armor 5
+
+Defense tower
+Cost 80 W 20 G, 36-72 G upkeep
+Shoot arrows at foes. Limit is 1 per zone.
+HP 125 Atk 10-15 Armor 10-15
+Up cost 50 W 50 G 5 S: +50% atk and armor
+
+---Units---
+
+Settler
+HP 50 Atk 5 Armor 4
+
+Militia
+HP 50 Atk 8 Armor 5
+
+Shaman
+HP 60 Atk 8 Armor 5 foes in zone have -10% armor
+
+Maceman
+HP 50 Atk 11 Armor 4 +ignore 40% of target defense
+Cost 30 G +6
+
+Archer
+HP 50 Atk 11+2.2 Armor 4 Range 10+2 
+Cost 30 G +6
+
+Spearman
+HP 40 Atk 7+1.4 Armor 7+2 anti-projectile 50%
+cost 30 G +6
+
+Mace scout
+HP 40 Atk 8 Armor 5 anti-projectile 30%
+Can harass enemies when not stealthed
+Count as a military unit
+cost 10 G +2
+
+War Chief
+HP 75 Atk 15 Armor 10
+Cost 150 G 5 O
+
+Body guard
+HP 55 Atk 6 Armor 8
+
+---Military experience 50-300-1000-2000
+Leadership
+-Hire a bodyguard to protect the warchief(max 1,doesn't occupy space)
+-War chief +20% atk
+-+10% HP Armor to all units in zone
+-+10% Atk to all units in zone
+Guardian
+-Improve towers
+-+2 militia every 6 months(max 4 per territory)
+-each tower +1 militay cap
+-War chief can place spikes
+Legions
+-Barrack cost -20%
+-Military units cost -25%
+-Double barrack upgrades effects
+-When in battleground, ally units +30% atk
+
+Gain xp while killing enemy units
+10 xp villager, mercenary, wolf, kobold
+15 xp militia, villager with tool
+20 xp military units
+25 xp draugr
+40 xp defense tower, myrkalfar
+80 xp upgraded defense tower, bear, boar
+100 xp war chief, fallen valkyre, rock golem, vaettir
+150 xp destoryinf any enemy camp
+200 xp Blainn
+500 xp Wyvern
+
+---Techs---
+...
+woodcutter works 20% faster
+reduce colonization cost by 30%
+food silos upgrade cost -50%, provide +20% bonus
+population grows 25% faster, +25% faster for a month for each fallen ally
+shaman heal 50% faster
+reduce wood consumption during winter by 70% and food penalty by 70%
+...
+military units +5% attack for each zone under your control, max 25%
+remove winter penalty
+increase attack of villagers and towers by 30%
++5% attack for each different military unit in the zone, max +25%
+war chief +25% atk and armor
++30% attack vs monsters
+...
+miner work 50% faster
+unlock trade route with Milklagard, sailors work 25% faster
+merchants and trade routes +20% income
+shaman produce lore 40% faster, first temple cost no stone
+building upgrades cost -20%
+buying goods at markets cost -50%, and replenish 20% faster
+...
+lore cost
+80-100-130-160-200-250-310-380-470-580-710-860-1050-1280-1550
+
+---Tool upgrades---
+... eco tool upgrades cost 5 O 30 G
+villager build 50% faster and gather W 20% faster
+shaman heal and produce lore 20% faster
+miner work 50% faster
+lumberjack work 20% faster
+farmer produce F 20% faster
+hunter produce F 20% faster
+fisher produce F 20% faster
+merchant produce G 20% faster
+sailor produce 20% more
+... military tool upgrades cost 5 O 50 G
+maceman gain armor piercing
+archer +20% attack and range
+spearman +20% attack and armor
+
+
+
+
+Clan techs from NorthGard
+STAG
+start with +75 F +75 W +75 G +40 L
+Hall of Skalds repace brewery
+gain +50% fame
+200 Fame: supplies: each 200 Fame a boat will bring 50 F, 50 W, 50 G, 25 L, 5 S
+500 Fame: annexation: each 200 Fame, increase unit production by 3% (max 15%)
+1000 Fame: Valorours Leader: warchief gain +50% armor and +40% atk
+Techs
+Cost of King's altar get -10 S. Give +3 Happyness and produce fame
+Each food silo +3/5 F
++2% attak for each zone you control, max 30%
+Skalds produce 1.5 G, skald tool is free
+Increase current fame by 15%. For each 200 fame, trade
+income and Mklagard +10%, max 50%
+GOAT
+start with 1 sheep and can build sheepfolds
+get +20% production during feasts
+200 Fame: shepherd: gain 2 sheeps, +1 max heepfold +10% production
+500 Fame: Team work: gain 1 free feast per year, units regen during it
+Techs
+Tools cost no Iron
+Cost -50% to develop zones, periodically, a sheephold containing
+2 sheeps will make a new one
+assign 1 more sheep to sheepholds
+sheep in sheepholds produce G, can sacrifice sheep for G
+increase food trading income by 50%, +50% trade with Jotunn
+WOLF
+killing animals provide meat
+military units consume -30% F and provide happyness
+first military unit is free
+200 Fame: warchief can colonize every 12 months
+500 Fame: +15% atk bonus when figthing outside, warchief
+cooldown is halved
+reduce military unit F consumption by 75%
+gain G for defeating enemy units
+On decoloniation, units get helaed for 30% of their max hp
+military gain +75% atk when fighitng towers
+Can trade at war, after chieftain dies, he can be recruited
+for only 50 G
+RAVEN
+can spend G to colonize zones
+gain L and Fame when scouting
+200 Fame: mercenaries: raids can target enemy territories
+can assign 3 more sailors to docks
+500 Fame: sea supremacy: all upkeep is reduced by 50%
+can recruit mercenaries from barracks
+Techs
+increase scouting exploration by 50%, scout doesn't consume F
+and cannot be hurt while exploring
++0.75 Happyness for each explored zone
++4% atk for each merchant or sailor, max 20%
+spend 25% less when buying resources
+sailors +20% production and +1 happyness
+BEAR
+food and wood penalties are reduced by 30%
+can summon Kaija in Barracks. Regenerates and
+produce F when near fish
++10% armor during winter and no atk penalty
+200 Fame: Kindred spirit: kaija or warchief increase
+production in zone by 15%
+500 Fame: Bear Awakens: gain +3 Fame for each unit
+killed in the same zone as warchief, +1.5 % atk for each
+100 Fame. Kaija can go into enemy territory now
+Techs
+non sick clan memebrs regenerates during winter
+Fisherman +30% F +1 worker
++1 Happynes per zone with at leat 1 military camp
+All military +5% armor, shield bearer free tool
+During winter, -30% F consumption, +15% non F production
+BOAR
+Mender Hut replace Healer Hut
+Can colonize zone with wildlife at an extra cost
+to turn those creatures allies
+Each zone +2 max population
++5 Fame for each unlocked tech
+no penalties for non upgraded House or Town Hall
+Cannot trade with other players
+200 Fame: Heritage +1 free Knowledge, warchief can heal animals
+500 Fame: Greater Blessings: -70% F penalty -50% W penalty
++5 Happyness +2 Lore production, towers and military +10% atk
+Techs
+Houses cost -50%
+Each Mender +7% production and +10% for lore
+Altar +50% production
++10% non villager production in forests/swamps/Fishes
+Neutral factions accept any resources and +20% G
+Non upgraded buildings +15% production, -10% upkeep
++1 happyness for each 3 zones, forests/swamp/fishes +1 happyness
+SNAKE
+No fame, but can copy knowledge from other clans
+start with warchief, she grows stronger each year
+Builds skirmisher camps
+Can scorch earth
+Techs
+Stea a random lore from another player
+Skirmishers can attack buildings to steal resources
++1% atk for each unit lost, max 20%
+Can trade at war, can steal foe's G while in neutral territory
+Burning zones are 25% cheaper to colonize, military units can collect
+resource and heal on burning zones
+DRAGON
+start with a sacrifical pyre. Build Dragon kin altar
+start with 2 thralls, which collect F at 50% the rate
+of a villager and consume 33% the F of a villager.
+Can be assigned to other buildings
+Civilians can go in nuetral territory and suffer
+no Happyness penalty for being wounded
+Can sacrifice civilians and thralls to obtain dragon
+essence, +2/3.
+200 Fame: receive 5 thralls. Extend dragon gauge
+500 Fame: Improve Dragonkin. Extend dragon gauge
+Techs
++100% atk when there's only a military unit in zone
+Capture enemy foes, 50% chance
+Cut in half cost to buy thralls
+DRAGON ESSENCE
+happyness +2/3/4
+F/W/G/L +2/4/8
+Atk +10/15/20%
+Fame +3/4/5 per month
+Heal military units 20/26/35 Hp/min
+HORSE
+cannot build mines,miners or smiths
+Can train 2 warchief with no Iron cost
+They can build, repair, mine and forge 20% faster
+Ruins provide -50% G but +5 S/I and can be extracted
+by warchieves
+200 Fame: when together in the same zone, they
+work 50% faster. Selling S/I yield 20% more G
+500 Fame: discover 2 S and 2 I deposits in your
+territory. Zone adiacent to one with a relic
+gain +15% production bonus
+Techs
+Can build +1 relic, they don't count as building limit
+Second upgrade to Defense Towers, give +50% Atk and Armor
+Each ore extracted give 4 lore
++1 happyness for each upgraded building(except houses)
+KRAKEN
+cannot build docks, but can build fishing sites
+in coastal territories
+Non coastal zone cost +50% to colonize and military
+units have -30% atk
+Hoghr replace brewery and produce Wyrd. When producing
+a positive amount, you get more villagers
+Start with 1 spectral warrior. You get more by
+having negative Wyrd
+Can turn Seeresses into Valkyres
+200 Fame: Spectral warriors increases zone production by 15%
+Events are revealed sooner than other clans. Feast when
+Kraken approaches. Gain +400 Wyrd
+500 Fame: max 4 spectral warriors. Military units
+have 20% to become spectral warriors when they die
+Techs
+military units +10% atk, cost -15%, military camps
++1 max warband
+Reveal position of all neutral factions, trading
+with them +20% more Lore and G
+High tide zones +1 G and Wyrd and have +1 building slot
+WYRD
+start with 400 Wyrd and +1 production
+Norns produce +2.2 Wyrd
+Wyrd 100: +1 building slot
+Wyrd 300: Cancel Kraken building attack and penalties
+in non coastal zones. Make fish appears in lakes
+if there are none.
+Wyrd 600: turn a Seeress into a Valkyre, max 1 at any moment
+Wyrd 1000: Spawn 5 hostile spectral warriors to target
+the foe's units
+OX
+Units are stronger, +15% atk,armor,cost and F consumption
+Specialized civilians +40% production bonus, except sage
+Any building can hold only one unit, and houses have -2/3 people
+200 Fame: non villager unit production +4% for each military
+unit you control
+500 Fame:  unlock ram ability for warchief. It destroy
+instantly a building of choice
+Techs
+Improving a zone cost -50%. Specialized units +10%
+production and -50% upkeep
+Training camps upgrades and upkeep cost -30%
+Each upgraded military camp +5% attack
+Warriors +30% on charged atk, free weapon forge
+When any unit dies nearby warchief, he heals for
+10% of this unit max hp, warchief gain +15% atk
+Killing hostiles give Lore and Fame
+LYNX
+Earn hunting trophies by killing animals
+Archery range replace throwing axeman
+Warchief cost no iron. Can summon Brundr and Kaelinn
+Hunters produce 10% more
+200 Fame: unlock lures. Next feast cost by 7.5 %
+for each animal killed
+500 Fame: unlock recall ability for warchief. She
+can summon animal spirits to wreak havoc
+on the battlefield
+Techs
+free hunter's tool upgrade, can lure deers to provide meat
+Brundr and Kaelinn +35% Hp and +10% dodge
+spirit animals +20% atk
+can buy hunting trophies at the market
+SQUIRREL
+don't feast, gather ingredients to prepare meals
+Stove replace brewery, warchief can cook meals
+over there
++30% F production during not winter. +30% F/W consumption
+during winter
+200 Fame: receive ingredients and incease cap by 200
+500 Fame: gain fame on extra pop compared to the most
+populous opponent. +5% villager growth for each 100 Fame
+Techs
+next warchief is free
+all G income +10%, meals +4 G and +2 happyness
+gain +1 F/W for each 100 F/W you have in stock, max 10
+Food silos don't require building slot
+Meal cost -20% F, improve effects
+Allied gain +20% armor. Improve relations with neutral
+factions by 100% and over time
+MEALS
+300 Meat, 200 Vegetables, 100 Mushrooms: +10 F/W/G for 2 minutes
+300 Fish, 100 Vegetables, 200 Mushrooms: +13 Lore, +130% villager growth for 2 minutes
+300 Fish 100 Vegetable 300 Mushrooms: +125% forging/mining speed for 2 minutes
+100 Meat 200 Fish 400 Vegetables: -50% winter penalty, scout work 150% faster for 2 minutes
+400 Meat 600 Fish 200 Vegetable 200 Mushrooms: +20% armor +20% arrow resistence for 2 minutes
+600 Meat 300 Vegetables 500 Mushrooms: +20% atk for 2 minutes
+RAT
+clan has more villagers buy arrive wounded. Wounded
+units don't count for happyness requirement
+clan doesn't have access to houses. All buildings
+provide population. Extra villagers wait in reserve
+Shaman camp replace healer hut
+When units die, corpses are cremated in a purification pyre
+producing lore and attractting new villagers
+Overwork replace feast
+200 Fame: while a unit is healed, it consumes 30% less F
+500 Fame: +4 units in reserve. Pyre is extended by 6 months
+Techs
+wounded units cost -30% G to train as soldiers
+Can place 2 buildings of the same type in a zone, except
+defense towers
+wounded units move and attack 20% faster
+Warchief can sacrifice 50% of her Hp to heal all units in zone
+EAGLE
+Aviary replace scout camp and can train falconeer
+start with 1 hawk
+aviaries require no building slot
+gain no fame from colonizing new zones
+200 Fame: units outside you territory consume -30% F/W
+zones can be upgraded using F. In upgraded zones,
+houses +1 population and +1 warband
+500 Fame: can scavenge ruins one more time
+Techs
+falconer can have hawk watch over the zone, improving
+the atk power of military by 15% and unit
+production by 15%
+Hawks can blind a unit for 10 seconds, having it misses all
+attack for the time period
++1 happyness for each neutral zone with no foes inside it
+Hawks gather resources from neutral zones
++60% more resources when closing wolf den/tombs
+LION
+zone with military camps +1 Livability, +2 if upgraded
+killing foes generate lore if warchief is in the fight
+military units can be recruited using lore
+200 Fame: feast cost -3% for each knowledge
+each military unit in a zone with prosperity give 5% atk
+to that unit
+500 Fame: can evolve monks to paladins with a
+cost of Lore. Relics require no building slot
+Techs
+Each military building in a zone ith a forge, provide
++5% armor to that unit
+Next sentry camp upgrade is free
+Military upgrades take -50% time to forge
+Killing monsters generate lore
+Allies rgen over time
+STOAT
+building a fort on a zone turns it into a duchy
+specialized workers in a zone consume fewer resources
+but have a G paychek. Don't count towards happyness
+Can collect levies
+Buildings inside a duchy cost no upkeep, but give
+less production. Subjects can be assigned to Viking artifacts
+200 Fame: can build multiple military camps
+500 Fame: can collect 2 levies at the same time
+Techs
+Lords can move freely inside your territory
+Sentries can enter into enemy territory. Don't
+consume resources untilwinter
+Forts +2 livability. Free Fort evolution
+Monasteries +0.25 G from specialized workers in the zone
+OWL
+forests provide lore. Lore is used to build and
+upgrade buildings
+Norns replace scouts
+Unique tech tree
+Choose between one of three warchieves
+Deer or fishes don't provide F but happyness
+200 Fame: norn scout 100% faster, can place
+branch of yggdrasil in enemy territories
+500 Fame: zaon can contain another branch
+HOUND
+clan has no warchief, military paths or military camps
+two civilians enter the brawler arena. only one
+emerges and becomes and brawler.
+Killed animals leave a soul that brawlers can absorb
+to gain military experience and later evolve
+into berserkers and generate resources.
+Brawlers and berserkers count as 2 population but
+don't consume more resources.
+200 Fame: +20% military experience
+500 Fame: berserkers can reach level 7
+Techs
+Brawlers can be assigned to civilizan buildings
+Units heal while figthing
+Each fallen animal reduce cost of feast by 10%, max 50%
+when multiple berserkers of the same type
+figth together, increase effects
+Grant military experience while decolonizing
+TURTLE
+clan buys vilagers with F. Cost increases with populatin
+and decreases over time based on happyness
+When a zone is attacked, villagers garrison
+inside buildings
++30 Fame for each positive relation
+Can build mule carts
+200 Fame: +1 max mule cart, merchant +1 G
+500 Fame: military units +1% atk power and armor
+for each 50 G in stock,max 25%
+Can purchase villagers for G 

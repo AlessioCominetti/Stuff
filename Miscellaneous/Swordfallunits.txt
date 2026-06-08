@@ -1,0 +1,672 @@
+Units
+Spear milita
+HP 50
+Atk 10 +6 vs cavalry
+Armor 1
+Range 1
+Speed 4
+Morale 8
+Cost 10 G 1 S
+Skirmisher
+HP 40
+Atk 8 +2 vs infantry
+Armor 0
+Range 4
+Speed 4
+Morale 8
+Cost 10 G 1 S
+Scout cavalry
+HP 80
+Atk 12 +8 on first strike
+Armor 1  +50% dodge ranged attacks
+Range 1
+Speed 10
+Morale 12
+Cost 20 G 2 S
+Spearman
+HP 60
+Atk 10 +6 vs cavalry
+Armor 3/4
+Range 1
+Speed 4
+Morale 9
+Cost 16 G 1 S
+Archer
+HP 35
+Atk 6 +1 vs infantry
+Armor 0
+Range 7
+Speed 4
+Morale 9
+Cost 14 G 1 S
+Swordman
+HP 60
+Atk 14 +2 vs infantry
+Armor 2
+Range 1
+Speed 4
+Morale 9
+Cost 14 G 1 S
+Crossbowman
+HP 45
+Atk 5 +1 vs infantry   ignore all armor
+Armor 3
+Range 6
+Speed 4
+Morale 10
+Cost 24 G 1 S
+Pikeman
+HP 70
+Atk 12 +12 vs cavalry
+Armor 3
+Range 1
+Speed 4
+Morale 10
+Cost 26 G 1 S
+Lancer
+HP 100
+Atk 14 +16 on first strike
+Armor 3
+Range 1
+Speed 10
+Morale 14
+Cost 42 G 2 S
+Man at arms
+HP 85
+Atk 16 +2 vs ifantry
+Armor 5/4
+Range 1
+Speed 4
+Morale 12
+Cost 40 G 1 S
+Knight
+HP 130
+Atk 16 +16 on first strike
+Armor 6/5
+Range 1
+Speed 8
+Morale 18
+Cost 70 G 3 S
+
+Special units
+Longbow  Britons/Saxons
+HP 50
+Atk 6 +1 vs infantry  ignore all armor
+Armor 1
+Range 10
+Speed 4
+Morale 11
+Cost 30 G 1 S
+
+Paladin Franks/Normans
+HP 140
+Atk 18 +16 on first strike +4 vs knights and generals
+Armor 6/5
+Range 1
+Speed 8
+Morale 18
+Cost 100 G 3 S
+
+Teutonic knight    Germans/Lombards
+HP 160
+Atk 16 +8 on first strike
+Armor 7/6
+Range 1
+Speed 7
+Morale 20
+Cost 100 G 3 S
+
+Varangian guard    Byzantines
+HP 80
+Atk 20 +4 vs infantry
+Armor 4/3
+Range 1
+Speed 4
+Morale 12
+Cost 34 G 1 S
+
+Horse archer Turks
+HP 60
+Atk 6 +1 vs infantry  attack 25% faster
+Armor 0   50% to dodge ranged attacks
+Range 7
+Speed 12
+Morale 10
+Cost 24 G 2 S
+
+mameluke  Arabs
+HP 110
+Atk 14 +16 on first strike
+Armor 5
+Range 1
+Speed 10
+Morale 16
+Cost 50 G 2 S   double general bonuses
+
+Cossack   Russians
+HP 75
+Atk 7 +1 vs cavalry  ignore all armor
+Armor 0
+Range 8
+Speed 10
+Morale 12
+Cost 28 G 2 S
+
+Berber archer    Moors
+HP 45
+Atk 6 +1 vs infantry
+Armor 0 50% to dodge ranged attacks
+Range 9
+Speed 4
+Morale 9
+Cost 18 G 1 S
+
+Viking raider   Sweden/Vikings
+HP 80
+Atk 18 +4 vs infantry +2 for each kill
+Armor 2/1
+Range 1
+Speed 4
+Morale 10
+Cost 24 G 1 S
+
+Knight of Santiago   Spain/Leon
+HP 140
+Atk 16  +8 on first strike
+Armor 6/5
+Range 1
+Speed 8
+Morale 18
+Cost 80 G 3 S double general bonuses
+
+Gallowglass   Scots/Ulster
+HP 80
+Atk 16 +8 on first strike +4 vs infantry
+Armor 2
+Range 1
+Speed 4
+Morale 12
+Cost 32 G 1 S
+
+Highlander   Munster/Portugal
+HP 70
+Atk 14 +2 vs infantry
+Armor 4/3
+Range 1
+Speed 4
+Morale 10
+Cost 26 G 1 S
+
+Viking mercenary   Leinster
+HP 70
+Atk 14 +2 vs infantry +2 on kill
+Armor 2
+Range 1
+Speed 4
+Morale 10
+Cost 20 G 1 S
+
+Kern   Connacht
+HP 40
+Atk 9 +2 vs infantry
+Armor 1   50% dodge ranged attacks
+Range 4
+Speed 5
+Morale 10
+Cost 14 G 1 S
+
+Jinete   Castille
+HP 70
+Atk 13 +8 on first strike
+Armor 2/1  50% dodge ranged attacks
+Range 1
+Speed 12
+Morale 12
+Cost 24 G 2 S
+
+Almogavar   Aragon
+HP 60
+Atk 8 +2 vs infantry  ignore all armor
+Armor 0
+Range 4
+Speed 4
+Morale 10
+Cost 18 G 1 S
+
+Swiss guard    Papal states
+HP 85
+Atk 13 +12 vs cavalry
+Armor 4/3
+Range 1
+Speed 4
+Morale 12
+Cost 40 G 1 S  double general bonuses
+
+Mercenaries
+Nizari assassin    Persia
+HP 70
+Atk 15  attack 50% faster than normal
+Armor 3/1   50% dodge ranged attacks
+Range 1
+Speed 6
+Morale 11
+Cost 38 G 1 S
+Druzhina Mercenary   Poland
+HP 95
+Atk 16 +2 vs infantry ignore all armor
+Armor 4/5
+Range 1
+Speed 4
+Morale 12
+Cost 58 G 1 S
+
+---Techs---
+Unlock archers: 200 G
+Unlock crossbowman: 450 G
+All archers/crossbowman +1 atk and range: 450 G
+Crossbowman +1 atk and range: 750 G
+All ranged units 1 atk, all melee units +15 HP: 2000 G
+Unlock spearman: 200 G
+Unlock swordman: 300 G
+Unlock pikeman: 400 G
+Spearman/Pikeman +2 atk: 600 G
+Swordman +2 atk: 800 G
+Pikeman +1 atk and +10 HP: 1200 G
++1 atk to all melee units: 400 G
++1 armor to all units: 700 G
+Unlock man at arms: 800 G
+All melee units +2 atk: 2000 G
+Generals +2 atk and +40 HP: 2000 G
++15 HP to mounted units: 300 G
+Unlock lancers: 600 G
++10 HP and +2 atk to mounted units: 1000 G
+Unlock Knight: 1400 G
+Generals, knights, man at arms, mercenaries and UUS +1 armor: 2400 G
++10/15/20/25% total income: 300/600/1200/3000 G
+reduce research cost by 25%: 1000 G
+Double experience gained by generals: 2500 G
++50 army supplies: 800 G
+
+---General bonuses---
+Cautios Advance: all units +1/2/3 armor, but -1/2/3 atk
+Cavalry tactics: cavalry +25/50% dodge ability
+Weapon training: all units +1/2 armor for melee attacks
+Logistics: all units cost -1/2 Morale
+Inspiring presence: all units +1/2/3 atk
+Feel no Pain: all units take -10/20% damage
+Discipline: all units +10/20/30% HP
+Charge: this unit deal double attack for 2/4/6 next attacks
+Forced March: all units +1/2 movement speed
+Leadership: +1/2/3 Morale generated
+Brutal Strenght: reduce foe's armor by 1/2 for each hit
+Iron Will: units regen 3/6/9 Hp while not under attack
+Warlord: +1/2/3 Morale per kill
+Archer tactics: archers +1/2 damage vs infantry
+Royal Blood: all units +1/2 atk, but lose 2/4 atk when general dies
+Battle cry: every unit deal 50/100% extra damage on first hit
+Great warrior: general +4/8 attack
+Gruesome assault: all sword units +2/4 bonus damage
+Spear wall: all spear units +2/4 bonus damage
+Shield wall: all melee units +1/2 armor vs ranged
+Fury: all units +20/40% more damage dealt bu 10/20% more damage taken
+
+
+MesoAmerica units
+Holcan
+HP 50
+Atk 10 +6 vs cavalry
+Armor 0
+Range 1
+Speed 5
+Morale 8
+Cost 10 G
+Archer
+HP 30
+Atk 5 +2 vs infantry
+Armor 0
+Range 7
+Speed 4
+Morale 8
+Cost 12
+Mace scout
+HP 40
+Atk 8
+Armor 3/5 
+Range 1
+Speed 8
+Morale 8
+Cost 10
+macahuitl
+HP 50
+Atk 12
+Armor 1
+Range 1
+Speed 4
+Morale 8
+Cost 12
+Maceman
+HP 75
+Atk 12 +4 vs infantry pierce
+Armor 3/2
+Range 1
+Speed 4
+Morale 12
+Cost 30
+Slinger
+HP 45
+Atk 6 +1 vs infantry pierce
+Armor 2/3
+Range 7
+Speed 4
+Morale 10
+Cost 24
+halberdier
+HP 75
+Atk 12 +12 vs cavalry
+Armor 3/2
+Range 1
+Speed 4
+Morale 10
+Cost  24
+Skirmisher
+HP 40
+Atk 8 +2 vs infantry
+Armor 0/2
+Range 6
+Speed 4
+Morale 9
+Cost 12
+Skull knight
+HP 120
+Atk 18 +2 on kill
+Armor 7
+Range 1
+Speed 4
+Morale 18
+Cost 75 supplies 3
+General
+HP 80
+Atk 16
+Armor 8
+Range 1
+Speed 4
+Morale 27
+Cost 90
+AZTECS
+Jaguar warrior
+HP 80
+Atk 16 +4 vs infantry +2 on kill
+Armor 5
+Range 1
+Speed 4
+Morale 12
+Cost 40
+Heal 10 hp on kill
+Eagle warrior
+HP 75
+Atk 8 +2 vs infantry
+Armor 2/4  agile
+Range 6
+Speed 6
+Morale 12
+Cost 30
+Puma warrior
+HP 75
+Atk 13 +12 vs cavalry
+Armor 4 agile
+Range 1
+Speed 6
+Morale 12
+Cost 30
+MAYA
+plumed archer
+HP 50
+Atk 6 +1 vs infantry
+Armor 0 agile
+Range 10
+Speed 5
+Morale 10
+Cost 20
+INCA
+Kamayuk
+HP 90
+Atk 13 +12 vs cavalry
+Armor 5
+Range 1
+Speed 4
+Morale 15
+Cost 36
+ZAPOTEC
+Macaw warrior
+HP 90
+Atk 16 pierce
+Armor 5
+Range 1
+Speed 4
+Morale 12
+Cost 60
+MIXTEC
+guancarieca
+HP 75
+Atk 6 +2 vs cavalry pierce
+Armor 0
+Range 8
+Speed 4
+Morale 12
+Cost 28 supplies 2
+TAINO
+Gusabara
+HP 50
+Atk 10 +6 vs cavalry
+Armor 1/2 agile
+Range 1
+Speed 4
+Morale 9
+Cost 16
+PUREPECHA
+Owl warrior
+HP 50
+Atk 8 +2 vs infantry/cavalry
+Armor 1/3 agile
+Range 6
+Speed 5
+Morale 10
+Cost 18
+TLAXACALA
+Coyote warrior
+HP 70
+Atk 10 +8 on first strike
+Armor 5
+Range 1
+Speed 6
+Morale 10
+Cost 35 supplies 2
+
+Techs:
++10% income: 1000 G
++25% income: 2000 G
++50 supplies: 600 G
+
+unlock archer: 150 G
+unlock slinger: 900 G
+ranged units +1 atk, melee +20 HP: 1500 G
+archers, skirmisher +1 atk and range: 300 G
+
+unlock macahuitl: 250 G
+melee units +1 atk: 300 G
+melee units +2 atk: 1500 G
+general, skullknight +2 atk and +20 hp: 2500 G
+
+unlock halberdier: 450 G
++1 armor to all units: 500 G
++2 atk to holcan,macahuitl,halberdier,maceman,skull knight: 2000 G
+unlock maceman: 600 G
++1 armor to general, skull knight, unique units, mercenaries, maceman: 1800 G
+unlock skull knight: 1500 G
+double XP gained by generals: 2000 G
+
+Asian units
+Spear Militia
+HP 50
+Atk 10 +6 vs cavalry
+Armor 1
+Range 1
+Speed 4
+Morale 8
+Cost 10
+Archer
+HP 30
+Atk 5 +1 vs infantry
+Armor 0
+Range 6
+Speed 4
+Morale 8
+Cost 10
+Scout cavalry
+HP 80
+Atk 12 +16 on first strike
+Armor 3
+Range 1
+Speed 10
+Morale 13
+Cost 24 supplies 2
+Swordman
+HP 60
+Atk 14 +4 vs infantry
+Armor 2
+Range 1
+Speed 4
+Morale 9
+Cost 16
+Halberdier
+HP 60
+Atk 12 +12 vs cavalry
+Armor 2
+Range 1
+Speed 4
+Morale 10
+Cost 20
+Crossbow
+HP 40
+Atk 5 +1 vs infantry pierce
+Armor 3
+Range 6
+Speed 4
+Morale 10
+Cost 24
+Cataphract
+HP 120
+Atk 15 +16 on first strike
+Armor 6
+Range 1
+Speed 8
+Morale 18
+Cost 72 supplies 3
+Skirmisher
+HP 35
+Atk 8 +2 vs infantry
+Armor 0
+Range 4
+Speed 4
+Morale 8
+Cost 10
+General
+HP 160
+Atk 16
+Armor 5
+Range 1
+Speed 8
+Morale 30
+Cost 100
+HAN
+Chu ko nu
+HP 30
+Atk 4 +1 vs infantry  fire 50% faster
+Armor 0
+Range 5
+Speed 4
+Morale 8
+Cost 11
+WU
+Feather guard
+HP 70
+Atk 13 +12 vs cavalry
+Armor 3
+Range 1
+Speed 4
+Morale 12
+Cost 30
+WEI
+Tiger cavalry
+HP 90
+Atk 12 +16 on first strike +2 on kill
+Armor 5/7
+Range 1
+Speed 10
+Morale 16
+Cost 50 supplies 2
+SHU
+HP 60
+Atk 14 +4 vs infantry
+Armor 3/5 agile
+Range 1
+Speed 4
+Morale 10
+Cost 20
+JURCHEN
+liao dao
+HP 60
+Atk 18 +6 vs infantry
+Armor 3
+Range 1
+Speed 4
+Morale 12
+Cost 30
+MONGOLS
+Horse archer
+HP 50
+Atk 7 +1 vs infantry
+Armor 1 agile
+Range 8
+Speed 12
+Morale 12
+Cost 30 supplies 2
+KOREA
+guan dao
+HP 50
+Atk 15 +12 vs cavalry
+Armor 1
+Range 1
+Speed 4
+Morale 11
+Cost 24
+MALAY
+karambit warrior
+HP 30
+Atk 8
+Armor 0 
+Range 1
+Speed 6
+Morale 4
+Cost 7
+
+Techs:
+unlock swordman: 300 G
+unlock halberdier: 600 G
+Melee units +40 HP: 1500 G
+Melee units +2 atk: 1000 G
+Melee units +2 atk: 1000 G
+Sword and cavalry units +2 atk: 1000 G
+
+unlock cataphract: 1500 G
+all units +1 armor: 300 G
+cavalry +40 HP and +2 atk: 800 G
+Generals +40 HP +3 armor: 2400 G
+Unlock crossbow: 600 G
+Footsoldiers +2 armor: 1000 G
+
+archers +1 atk and range: 900 G
+archers +1 range: 500 G
++25% income: 4500 G
++50 supplies: 600 G
+Generals start at lvl 4: 2250 G

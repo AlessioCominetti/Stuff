@@ -1,0 +1,108 @@
+DRAGONS
+-cannot gather W and cannot build Lumberjacks,
+doesn't consume W during
+-Cannot build mines, settler gather S/I without it
+-When colonizing a zone with deer or fishes, destroy
+them and gain 150 F instantly
+-Use fame treshold to colonize
+-Units are 4 times more powerful and cost 4 times
+as much, but pop limit is based on zones.
+each zone provides +2 population limit
+-Have a special set of techs
+-Happyness is not available
+-Trade with Miklagard is not available, cannot
+get Trade Victory, and Docks/Lighthouse is not available
+-Cannot build farms, settler generates 20% F faster
+-Cannot upgrade zones, zones contain -1 building
+
+---Buildings---
+
+Town Hall
+Generate Settlers here: 
+Up cost 20 S: settlers are generated 20% faster
+
+Barrack: train soldiers, +1 soldier limit
+Cost 40 S, 48 G upkeep
+
+Druid's Hut: train 1 shaman
+Shamans heal wounded units and generate
+lore when idle. Heal 120 hp/min, +4 lore
+Cost 30 S 50 G, 48 G upkeep
+
+Forge: train 1 blacksmith who will
+forge new and improved tools
+Cost 30 S 50 G, 64 G upkeep
+
+Trading Post: train 1 merchant
+Obtain G and exchange resources between other factions
+Cost 30 S, 64 G upkeep
+
+Defense tower
+HP 125 Atk 10+5 Armor 10+5
+Cost 8 S, 36-72 G upkeep
+Up cost 10 S 50 G
+
+---Units---
+
+Dragon settler
+HP 100 Atk 20 Armor 8
+Gather 20 F (-40% in winter) consume 8 F
+Gather 2 S/I from deposits without a mine
+Gather 10 G from trading
+Can scout and move into neutral and enemy territory
+
+Dragon warrior
+HP 100 Atk 24 Armor 8
+Special-armor piercing: this unit ignores 50% of enemy armor
+Cost 150 G +30 for each new unit
+
+Dragon archer
+HP 100 Atk 24 Armor 8 Range 14
+Special-stun: first strike stun target for 2 seconds
+Cost 150 G +30 for each new unit
+
+Dragon halberdier
+HP 100 Atk 28 Armor 14 30% defense from ranged attacks
+Cost 150 G +30 for each new unit
+
+Warchief
+HP 75+30 Atk 15 Armor 15+3
+Cost 150 G 10 I
+
+---Techs---
+-reduce fame colonization treshold by 30%
+-Settlers grow 30% faster
+-Shamans heal 50% faster
+-Reduce F penalty during winter by 50%
+-Buildings cost and upgrade cost -20%
+-Market prices cost -50%, Stone prices cost -60% instead
+---Tools---
+All military units +20% atk I,II,III  5/10/15 I  50/100/150 G
+Settler build 50% faster and gather F 20% faster   20 I 120 G
+Shaman heal and produce 20% faster  10 I 60 G
+---Military path
+Colonizer 50-300-1000-2000
+-Gain a new settler instantly
+towers can attack nearby zones
+-Warchief +20% atk and settlers arrive 30% faster
+-Warchief give +10% atk and armor to allies in zone
+-Tower ugrades cost -50%, units within a tower zone
+gain +10% armor
+General
+-Soldiers cost -30%
+-Each Barrack provides +1 soldier limit
+-When any dragon unit dies, all other allies
+get +30% atk for 5 seconds
+-Warchief get the new rally cry ability:
+rally cry: foes in zone get -30% movement
+speed and attack speed for 10 seconds
+
+200 Fame: can spend F to obtain Fame,
+Town Hall passively generate 0.3 S
+500 Fame: settlers grow 20% faster
+1000 Fame: boost warchief power, reduce colonization
+cost by 20%
+
+Colonization cost
+Cost Fame: 10-20-40-60-80-100-130-160-220-270-340-400-450-550
+Number of zones:

@@ -1,0 +1,74 @@
+Magic is:
+-the way the mana(life energy/tonalli/chi/quintessence) is used to perform actions
+Ex. Mana is used to summon a fire ball. Mana is consumed during the process
+
+-Mana is the life energy, which is produced by living beings.
+The onyl exceptions are the mana crystals, which are crystals
+who contain ample doses of mana.
+Mana isn't created or destroyed, but changes forms.
+There is a fixed amount of mana in the universe, which can't change.
+
+-Mages have the ability to cast spells by channeling the mana found
+inside their bodies, in the surrounding environment or other objects
+who contain mana crystals.
+
+-Spells can be casted in different ways: by using tomes, saying a
+magic word, using a magic wand or by using a medium.
+Tomes and magic wands are tools used to ease the spell-casting process.
+These tools are made with mana dust, obtained from mana crystals.
+
+-Some mages use a medium, that is, a spirit, a being from the
+otherworld. These beings have no morals, and only follow
+their agenda and istincts. Some spirits only care about the act of spellcasting.
+A fire spirit would help a fire mage cast a fire spell in order to burn
+down a orphanage, since the spirit only cares about the fire.
+The number of spirits is said to be fixed, but it is yet to be proven.
+Two mages can call the same fire spirit, as the spirits have no trouble 
+being in two or more places at the same time.
+
+-Mana comes in flavours. A red mana is best used for fire spells, but it
+can also be used for all other spells. The flavour indicates the ease of use
+for a particular spell.
+
+-Shiperian mages have an affinity, which is used to determined which magic
+category they are most proficient on.  A shiperian with red/orange fur has a fire affinity.
+Some Shiperians can also have mixed affinities (wind-water). People with multiple affinities 
+are less proficient in both magics than the people with one affinity, but high level
+mages can combine magic types to create new exclusive spells. For example,
+a wind-earth Shiperian mage can combined dust and wind to create a sandstorm spell.
+
+-All people have affinities, but only all the Shiperians are born with innate spellcasting
+talents. The Humans, florans and other bestfolk have a roughly 1/10 chance to be born as a mage.
+Shiperians can lose the ability to cast magic if they don't practice costantly, 
+unlike the other factions. Shiperians who have lost their magic talent have visible irises
+and pupils.
+
+-Recless spellcasting has various negative consequences. The drastic use of mana can
+cause living beings to be turned into dying beings. Once a time, a thunder wizard casted a
+powerful thunderstorm. It drained all the mana from the forest of the region, causing all the
+trees to wither away. The enemy army was destroyed, but, due to the disappearence of the
+forest, the country entered a long drought, which lasted for 500 years. The people of the
+village moved away to much fertile regions.
+
+-There are many ways to cast magic.
+-The humans use tomes, as they prefer to not use the mana of the
+environment and the mana contained inside the humans is too small
+to be used for more than one spell. A single tomes can contain 50-10 uses of
+a spell, which makes them more commonly used for sustained combat.
+-The florans use the mana from the surrouding environment in combination with
+staves and wands. The florans live in lush jungles who are rich in mana. With that
+much energy, they sustain spellcasting for much longer.
+-Shiperians and dragons can store huge quantities of mana in their bodies.
+They also use tomes and other methods, but the former prefer to use the inner mane for training
+and they use tools for combat
+
+There are currently 12 schools of magic divided into 3 classes of complexity:
+easy: fire, wind, water, light
+intermediate: ice, earth, thunder, metal 
+master: dark, sound(or music), toxic(or radiation), plant(or wood)
+
+Dark magic is special, as it a set of various small type of magics.
+There is also a difference. Dark magic has a small set of other
+types of magic who are prohibited.
+Legal dark magic: body, mind, gravity
+Illegal: demon(evil spirit) summoning, possession, curses

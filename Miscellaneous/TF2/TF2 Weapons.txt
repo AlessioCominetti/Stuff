@@ -1,0 +1,841 @@
+Flamethrower Pyro
+BRIGAND'S EXPLODER
+
++immune to fire
++  +1 additional jump
++Can summon Monoculus
+-no crit
+-+15% head hitbox
+-canbe seen through walls
+
+SMG Sniper
+RUSTY AXE
+
++ +25 HP
++ +50% fire resistence
+- -75% healing rate
+
+Minigun for Heavy
+
++Bullets pass through enemies
++ +15% movement speed while equipped
+- -20% fire rate
+- -10% HP
+
+Melee for Heavy
+
++ Regen 3 hp/sec, even when holstered
+- when equipped, marked for death
+- -12% damage
+
+Banner for Soldier
+
+When active: apply 4 hp/sec regen to allies nearby
++ +50 HP
+- -10% movement speed
+- -33% ammo on all weapons
+
+Secondary for Heavy
+
++ +80 HP
+- -10% movement speed
+
+Rifle for Sniper
+
++ Regen 3 hp/sec while not taking damage
++ on headshot, insta recharge
+- -20% damage
+- -25 HP
+
+Grenade Launcher for Demoman
+
++ +10% movement speed
+- no random crits
+
+Syringe Gun for Medic
+
++ +50 HP
+- -15% fire rate
+
+Melee for Heavy
+
++ when equipped, regen 6 hp/sec
+- Honourbound: take 50 damage if switch weapon back without killing an enemy
+
+Backpack for Sniper
+HEAVY CAMPER
+
++  +50% healing from medics
++  +25 HP
++  +25% ammo for sniper rifle
++  can see the HP of enemies
+-  cannot jump
+-  -15% movement speed
+
+Boots for Soldier
+BOOTS OF ALACRITY
+
++ +20% movement speed
++ +25% jump height
++ regen 3 hp/sec, after not taking damage
+- -20% overheal, to 280 HP
+
+Rocket Launcher for Soldier
+BLOOD HOUND
+
++On hit: cause bleed for 5 seconds
+- -20% damage
+
+Throwable for Scout
+SLOW MILK
+
+On hit: enemies reload time is doubled for 10 seconds
+
+Watch for Spy
+
++ +25 HP
+- charges 35% slower
+
+Shotgun for Engineer
+
++ +17% damage
++ -27% bullet spread
+- -25% ammo reserve
+
+Melee for Soldier
+
++ +25% reserve ammo for all weapons
++ on hit: enemy move 25% slower for 3 seconds
++ oh hit teammate: both attack 33% faster for 3 seconds
++ guaranteed mini-crits from behind
+- -50 HP
+
+Shotgun for Scout
+
++ -60% bullet spread
++ regen 6 hp/sec, while not taking damage
+- lose 3 HP per shot
+- -33% reserve ammo
+- -33% clip ammo
+
+Gun for Spy
+
++ Can consume invisibility bar to fully heal itself in 5 seconds
++ +25% movement speed while equipped
+- -40% ammo reserve
+
+Melee for Medic
+
++ on hit: enemy move 50% slower for 3 seconds
++ +33% syringe gun ammo reserve
+- -8% movement speed
+
+Shotgun for Pyro
+
++ +50% reload speed
+- -4 HP per shot
+
+Melee for Heavy
+
++ +20% movement speed while equipped
+- on miss: lose speed bonus,and gets marked for death for 3 seconds
+- no random crits
+
+Melee for Soldier
+
++ on hit: enemy moves 25% slower for 2 seconds
+- -25% damage
+- no random crits
+
+Wrench for Engineer
+
++ Upgrading buildings cost -50% metal
+- -12% damage
+- on miss: cannot switch weapon for 3 seconds
+
+Flamethrower for Pyro
+
++ drain hp while dealing damage, can stack as overheal
++ +25 HP
+- -20% movement speed
+- no afterburn
+- no random crits
+
+Melee for Sniper
+
++ on kill, allies and Sniper get a free small medkit
+- +25% fire vulnerability
+
+Shotgun for Scout
+
++ +25% bullet resistence
+- -30% firing speed
+
+Pistol for Engineer
+
++ Overheal doesn't decay
++ crit to airborn enemies
++ Reload clip on kill
+- no reserve ammo
+
+Stickybomb Launcher for Demoman
+
++ Full reload at once
++ +25% projectile speed
+- -75% blast radius
+
+Flaregun for Pyro
+
++ +50% deploy speed
++ +25 HP
+- -no overheal
+
+Snack for Heavy
+
++ Heal 300 hp over 60 seconds, after consumption, 5 hp/sec regen
++ 3 seconds consumption time
+- -50% healing for medics while effect is active
+- 60 seconds reload time
+
+
+**************************
+
+
+VOIDSEEKER'S VENGEANCE
+Knife for Spy
+
++ All received debuffs, flip into buffs
+- Disguise disappear when the weapon is witdrawn
+
+LETHAL LANCE
+Sword for Demo
+
++  Regen 3 hp/sec while equipped
+-  marked for death while equipped
+
+VOID REAVER
+Melee for Sniper
+
++ +25% swing speed
+- take 5% of all allies damage to you
+
+SWIFT SENTRY SCATTERGUN
+Shotgun for Engineer
+
++ +5% move speed for each building active, max +20%
+- -50% overheal
+
+SCOTTISH SLICER
+Sword for Demo
+
++ On kill: 5 seconds of minicrit
+- -10% damage
+
+SENTRY SHIELD
+Shotgun for Engineer
+
++  +25 Max HP for each building active, max +100
+-  fires 1% slower for each 2% HP missing
+
+DEATHLY DELIVERANCE
+Shotgun for Scout
+
++ Crits on airborn targets
+- -17% clip size
+- reload 20% slower
+
+LAST DITCH EFFORT
+Gun for Spy
+
++ Alt-Fire while crouching to consume all clip
+and heal by 25 HP instantly
+- -75% reserve ammo
+
+FRONTIER DEFENDER
+Pistol for Engineer
+
++ Grant two mini-crits for each Sentry kill,
+1 for each assist
+- Cannot attack while capturing
+
+SURGICAL STRIKE
+Melee for Sniper
+
++ On hit: damage units linked by Medibeam, buff, disp
+- Cannot use while capturing
+
+
+******************
+
+
+MEDIC's MIRAGE
+Backpack for Demo
+
++  +25%healing from all sources
+-  +6% damage vulnerability for each teammate nearby
+
+QUANTUM ANNIHILTOR
+Shotgun for Heavy
+
++  Immune from Critical hits
+-  -15% movement speed while equipped
+
+MEDIC's BANE
+Melee for Heavy
+
++ On kill: 5 sec of mini-crits
++ Immune from Critical hits
+- Cannot be healed while in combat
+
+MARKED MARAUDER
+Melee for Sniper
+
++  Gain a bonus up to +30% damage when weapon
+is equipped, over a max of 10 seconds
++  On hit: mark for death
+-  deal -50% damage to enemies below 50% HP
+
+BLAZE BOW
+Bow for Sniper
+
++ Arrows are automatically set on fire
++ +1 capture rate
+- Unit takes +50% knockback
+
+METAL MAVERICK
+Melee for Engineer
+
++ Spend -50% metal while upgrading teammate buildings
++ On kill: +10% move speed for 8 seconds
++ -20% damage from melee while equipped
+- Lose 20 HP for each completed building
+
+SWIFT SABOTEUR
+Sapper for Spy
+
++ Drain HP 50% faster but doesn't disable buildings
++ After placing a sapper, +30% move speed for 5 seconds
++ +50% healing and ammo received
+- Applying a sapper removes disguise
+
+METAL MAKER
+Shotgun for Engineer
+
++ Alt-fire to convert 12 ammo from your
+reserve to 200 metal
+- -33% clip size
+- +25% bullet spread
+
+CANDY CRUSHER
+Melee for Heavy
+
++  On hit: heal by 20% of damage dealt and apply 3 seconds of fire damage
++  +20% swing speed
+-  loses 10 hp/sec, up to 50% max hp while equipped
+
+DEBUFF DYNAMITE
+Throwable for Scout
+
++ On hit: remove all buffs from enemies and overheal
++ Explode, dealing same damage as a rocket
+- Cooldown: 30 sec
+
+
+********************
+
+
+MORTALITY SCEPTER
+Melee for Medic
+
++ Can also damage enemy max hp
++ Can see enemy hp
++ +40% damage
+- -60% holster/deploy speed
+- -30% swing speed
+
+BANDAGE BLASTER
+Shotgun for Heavy
+
++ +50% clip size
++ Per bullet hit: heal 2 HP
+- Lose 60 HP when equipping it
+
+JUMPING JOGGERS
+Boots for Demo
+
++ +60% jump height
++ +200% air control
++ +50% health from medkits
++ +100% fire immunity
++ +25 max hp
+- no overheal
+
+ADRENALINE DRINK
+Drink for Scout
+
++ gain +3 jumps for 10 seconds
++ Regen 3 hp per seconds for 10 seconds
+- -1 capture rate for 10 seconds
+- Cooldown 20 seconds
+
+GUARDIAN's GLAIVE
+Melee for Pyro
+
++ Immune to fire
++ +80% swing speed
+- On kill: take 45 damage
+
+COMBAR CARETAKER
+Melee for Medic
+
++ While equipped, regen 10 hp/sec
++ Allies nearby heal by 20 for each kill
+- Deploy/holster 50% slower
+- -2 hp/sec regen while not equipped
+
+MIDAS's FURY
+Melee for Heavy
+
++ On Hit: enemy is marked for death
++ On kill: +20% move speed for 4 seconds
++ On kill: turn enemy into gold, dropping a large ammo pack
+- On hit received: user is ignited for 3 seconds
+
+ATLANTIS's TRAJECTORY
+Medigun for Medic
+
++ Can fire projectiles at the enemy
++ Ubercharge provides a shield with 2000 HP,
+which also heals allies behind it
++ All healing received can overheal
++ All healing received +100%
++ +50% beam range
+- -25 Max hp
+- -2 hp/sec regen
+
+AIRBORNE ACE
+Pistol for Scout
+
++ +100% jump height
++ +25% damage
+- +25% bullet vulnerability
+
+FRENCH TOAST
+Snack for Heavy
+
++ Eat to restore 150 HP, can apply overheal
++ Immunity from debuffs for 10 seconds upon consumption
++ Cooldown: 24 sec
+
+
+*********************
+
+
+
+SPEEDY SPARROW
+Shotgun for Engineer
+
++ On kill: fulyl reload clip
++ +15% move speed while equipped
+- -15% move speed while not equipped
+
+MEXICAN MEDIC
+Shotgun for Scout
+
++ +15% damage to enemies in front
++ Also damages linked enemies
++ +20% sentry resistence
++ +25% crit chance
+- On hit: +20% speed to enemy
+- Cannot apply debuffs
+
+CRIMSON MARK
+Melee for Soldier
+
++ +100% holster/deploy speed
++ On hit: damage linked enemies
++ Immune from crits and debuffs while equipped
++ On hit: mark for death
+- On miss or while on air: mark yourself, idiot
+- No overheal
+
+SILVER SILENCE
+Gun for Spy
+
++  +50% dmg to buildings
++  +50% cloack from ammo boxes
+-  -35 Max HP
+
+OLD FASHON
+Gun for Spy
+
++ Overheal doesn't decay
++ +15% move speed while disguised
++ On kill: drop a large ammo box
+- Cannot shoot while disguised
+
+QUICK HAND
+Knife for Spy
+
++  +40% move speed for 3 sec after taking or dealing damage
++  Backstab allies to disguised them for 5 seconds
++  Instant cloak after backstab
+-  -60% move speed while disguised
+-  +50% fire vulnerability while disguised
+
+PROJECTILE PUNISHER
+Shotgun for Scout
+
++  +1 extra jump for each 90 damage dealt, max +5
++  On kill: 5 seconds of minicrits
+-  +10% bullet spread for consecutive shots, max +50%
+
+OPPRESSIVE OPRICHNIK
+Shotgun for Heavy
+
++ Doesn't require ammo, projectiles penetrate
++ All buffs on user last 33% longer
+- -15% damage when hp below 75%
+
+AMBUSHER SUBMACHINE
+Smg for Sniper
+
++ When struck in melee, splash jarate around you
++ minicrits from behind
+- No random crits
+- -5% move speed
+
+MINT POUCH
+Jar for Sniper
+
++ Create a mint zone, increase allies move speed
+by 25% for 8 seconds and heal them for 10 HP per 8 sec
+- Cooldown 30 sec
+
+
+***********************
+
+
+QUANTUM RIFLE
+Shotgun for Soldier
+
++  Projectiles bounce off surfaces three time
++  +100% holster/deploy speed while being healed
++  +100% projectile speed
+-  +25% fire vulnerability
+
+MECHANICAL REVENGE
+Shotgun for Engineer
+
++ Both health and ammo boxes replenish Hp and ammo
++ +10% damage resistence for each building active
++ +50% damage vs buildings and sappers
+- No random crits
+- -15% damage to players
+
+FORTIFIED FEAST
+Snack for Heavy
+
++ When consume, give a selected +75% resistence:
+fire, blast, bullet, melee. Last 10 seconds
++ Consumed in 2 seconds
+- No overheal
+- -50% healing received from all sources
+- Cooldown 40 seconds
+
+CONSTRUCTOR REVERSAL
+Shotgun for Soldier
+
++ +200% damage vs buildings
++ Immune to debuffs
+- -25% health from medic boxes
+
+SOUL DRINKER
+Melee for Medic
+
++ On hit: drain enemy health, max +150
+- +50% afterburn duration
+
+ARMORED BAT
+Melee for Scout
+
++ +70% damage
++ -40% damage from melee units
+- -50% swing speed
+- No random crits
+
+BLASTING SOURCE
+Melee for Demo
+
++ Explosion damage, 120 in 400 hu
++ Explode on contact, setting all
+enemies nearby on fire for 8 seconds
++ -25% damage to self
+- Can't switch weapon for 3 seconds after use
+- -80% damage after explosion
+
+SPEED STOPPER
+Melee for Engineer
+
++ crits scouts
++ inflict bleed for 8 seconds on hit
++ Destroy sappers in 1 hit
+- Sentry -20% damage
+
+GRAVE JUMPER
+Backpack for Sniper
+
++ +1 extra jump
++ Afterburn and slow immunity
++ +25 max hp
+- no overheal
+
+MARKSMAN's RESPITE
+Bow for Sniper
+
++ On headshot: drop a small medic box
+nearby the user
++ Reload 50% faster while capturing or pushing
+the payload
+- -75% deploy/holster speed
+
+
+***************************
+
+
+
+COVERT SABOTEUR
+Sapper for Spy
+
++ +10% move speed for 5 seconds after taking damage
++ Heal 5 hp to spy for each sapper active
+- No damage to buildings
+- Each sapped building return 1 metal to Engineer
+
+SHADOW CLOCK
+Clock for Spy
+
++ regain all cloak on backstab
++ Slow immunity
+- -45 max hp
+
+SHADOW GUN
+Pistol for Spy
+
++ on kill: heal 70 hp, apply overheal
+- on kill: -20% cloack
+- No random crits
+
+WIDOW's WRATH
+Pistol for Spy
+
++ +20% move speed while equipped
++ Minicrits on headshots
++ Explosive headshot
+- -15% cloack on hit
+- No random crits
+
+GOLDEN RETRIEVER
+Pistol for Spy
+
++ When hp below 50%, guaranteed crits
+- -84% clip size
+- -50% reserve ammo
+- No random crits
+
+PING ME BACK
+Melee for Engineer
+
++ On hit: ignite for 3 sec
++ Sentry repairs for 15% after a kill when the
+Engineer is within their range
++ +20% move speed while equipped
++ Can damage linked players
+- lose 100 metal on kill
+
+******************
+
+SILENT ASSASSIN SYRINGE
+Crossbow for Medic
+
++ Headshot make victim explode
++ minicrits overheal enemies
+- marked for hyper death when not in
+combat for more than 20 seconds
+- no damage vs buildings
+
+VULNERABLE VIGILANTE
+Shield for Sniper
+
++ regen 12 hp/sec while out of combat
+- no overheal
+- debuffs last 150% longer
+- double knockback received
+
+SURVIVOR's ANGUISH
+Boots for Soldier
+
++ After getting hit by a crit, gain a crit
++ +4 hp/sec regen
++ afterburn and slow immunity
+- no overheal or health from packs
+
+BURGER BLASTER
+Grenade launcher for Demo
+
++ +4 hp/sec regen out of combat
++ no need for ammo
++ +15% damage
+- -10% fire speed
+- double knocnback received
+- damage and move speed decreases as
+user becomes injuried, down to 50%
+
+BOMBARDIER BOX
+Grenade for Soldier
+
++ Guaranteed minicrits when hp<50%
+- +25% damage from ranged sources while active
+- Automatically explode on death, damaging
+all players within 240 hu
+
+INFERNAL SURGE
+Flamthrower for Pyro
+
++ immunity from slow and afterburn
++ Make enemies explode with each kill,
+damaging all enemies in 240 hu.
+Damage is equal to half of the target's max hp
+- no random crits
+- lose 3 HP/sec while firing
+- no airblast
+
+HEAVY FIRE
+Minigun for Heavy
+
++ On hit: set enemies on fire for 10 seconds
++ Overheal doesn't decay
+- no random crits
+- 30% slower spin up time
+- -10% damage
+- 30% holster and deploy speed
+
+MARKED MANIAC MENACE
+Knife for Sniper
+
++ +25% damage when hp>50%
++ hit linked players
+- -10% move speed while active
+- -25% damage when hp<50%
+
+SNEAKY SWITCHBLADE
+Knife for Spy
+
++ on backstab: gain +1 crit
++ +50% cloack from ammo boxes
+- while disguised with the weapon, -75% move speed
+- cannot be healed while equipped
+
+GUARDIAN's GRACE
+Medigun for Medic
+
++ Ubercharge can affect up to 4 players
++ +40% Ubercharge duration
++ crit immunity on wearer
++ double healing received
++ debuff immunity
+- Ubercharge reduce all damage to 80%
+- -10% charge rate
+- -10% move speed
+- overheal decays 50% faster
+- lose 5% charge for each instance of damage taken
+
+GIDEON's GILDED GRUDGE
+Fists for Heavy
+
++ Can charge damage up to +200% while equipped
+(press and hold right click), max 195 dmg.
++ +30% move speed while equipped
++ defeated enemies drop a small ammo box on kill
+- -20% swing speed
+- marked for death for 3 seconds per kill
+- no random crits
+- -60% holster/deploy speed
+
+************
+
+CONSCIENCE CRUSHER
+Pistol for Scout
+
++ move speed increase up to +50% as
+the user becomes injuried
++ can see enemy hp
++ +50% deploy/holster speed
+- on kill, marked for death for 3 seconds
+- double knockback received
+- -1 max jumps
+
+SOFT SORROW
+Shotgun for Scout
+
++ +60% move speed while active
+- -50% accuracy
+- -50% healing received
+
+BACK BLASTER
+Melee for Soldier
+
++ deal immense knocback, enemies
+who collide into others explode, dealing 90 dmg.
++ while healer is at full hp, -25% damage taken
++ can see enemy hp
++ -25% self damage
++ all buffs on user last 35% longer
+- -20% swing speed
+- all hits taken set the player on fire for 3 seconds
+
+RISKY RACOON RECKONER
+Shotgun for Scout
+
++ +50% dmg vs buildings
++ +15% move speed while active
++ minicrits airborne enemies
+- double knockback received
+- -25% dmg vs overhealed enemies
+
+OUTLAW WHIPPER
+Melee for Engineer
+
++ all buildings cost -30% metal (except teleporters)
++ +150% health from hp packs
++ Sentry +50% dmg
++ +25 max hp
+- teleporters cost 20% more
+- buildings take twice the time to deploy
+
+REWINDOW-NATOR
+Pistol for Engineer
+
++ +100% deploy/holster speed
++ buildings cost -50% metal to repair
++ +1 hp/sec regen
+- +10% damage vulnerability for each building active (max +40%)
+
+SAL's SURPRISE
+Backpack for Sniper
+
++ received debuffs flip into buffs
++ recover hall hp if the player didn't
+take damage for more than 5 seconds
++ debuffs taken or given last 50% longer
+- -50 max hp
+
+CANDY CRUSH
+Melee for Heavy
+
++ +50% dmg vs buildings
++ crits and debuff immunity
++ overheal doesn't decay
++ on kill: 5 seconds of minicrits
+- Honourbound: marked for death
+- -10% move speed while active

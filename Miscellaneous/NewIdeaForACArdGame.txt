@@ -1,0 +1,42 @@
+It's card game based around Age of Empires.
+
+The player has cards, and resource bars.
+The player can deploy units by choosing a card and paying a cost in resources.
+The player has 4 resource bars: red, blue, green and yellow.
+If the player reaches zero in any of the 4 bars, he loses.
+The goal of the player is to play cards in order to deplete any of the 4 opponent bars.
+SOme special, abilities, like Royal Sigyl, ensure that the player has to deplete all 4 bars
+in order to lose.
+
+RESOURCES
+They can be obtained at a fixed rate form the Worker Card, the Town Center or
+the Passive Income trick.
+
+Cards are divided in units, tricks and buildings.
+
+UNITS
+Some unit have a class (infantry, archer, cavalry), health bar, armor, atk, range, speed and
+other special abilities. All units and their abilities have a cost (even 0) split between
+the 4 resource bars. Some units have bonus damage vs other units.
+Non-siege units can be healed by monks. Siege units can be repaired by workers.
+
+TRICKS
+One use cards with a strong non repeatable effect. They cost any of the 4 resources.
+
+BUILDINGS
+Like unit cards, but they can't move. Some of them can attack units in range.
+
+BATTLE
+The units will move and attack enemies in range in a turn based system.
+The opposingplayer can be attacked only after all of his units and buildings are
+either destroyed or stunned. Some units damages all enemies and the player at the
+same type. Buildings can be placed only is the player's side.
+
+ATTRIBUTES
+Health bar: represent the vitality of a unit. If it reaches zero, the unit is eliminated
+Atk: represent the damage caused. The higher, the more damage. It's present
+in 5 types: slash, pierce, fire, thunder, true.
+Armor: reduce damage taken from said amount. Same types as atk.
+Range: number of tiles this unit attack can reach. There could be a minimum range.
+Speed: number of tiles it can move before attacking. Some units can move after attacking.
+Also, it represent the order this unit act first. Higher speed, means act first among all others.

@@ -1,0 +1,177 @@
+HELMETS
++20 DEF +10 RES  85 G
++10 DEF +20 RES +2 MP +1 DEX  110 G
++25 DEF +10 RES  135 G
++95 DEF +30 RES  2800 G
++25 DEF +110 RES +4 VIGOR 1500 G
++55 DEF +10 RES  1250 G
++25 DEF +9 VIGOR +8% accuracy 1250 G
++55 DEF +3 DEX  1620 G
++45 DEF +20 ATK  1250 G
++30 DEF +20 RES  210 G
++10 DEF +10 RES +4 HP +2 MAG  110 G
++40 DEF +20 RES +4 MP 325 G
++10 DEF +20 RES +6 atk  135 G
++10 DEF +2 VIGOR +2 DEX  110 G
++80 DEF +80 RES +1 POWERS
++100 DEF +100 RES +25 SPIRIT +20 HP +50% evasion +2 POWERS +10 atk +5 MP per hit  17000 G 
++50 DEF +70 RES  500 G
++25 DEF  75 G
++10 DEF +150 RES +10 SPIRIT +10 MP +10 HP +1 POWERS +1 mp per hit  1650 G
++10 DEF +20 RES +1 VIGOR  85 G
++30 DEF +2 VIGOR +1 SPIRIT  200 G
++25 DEF +40 RES +3 SPIRIT  250 G
++125 DEF +40 RES   3200 G
++30 DEF +220 RES +1 POWERS   3600 G
++50 DEF +4 DEX +8 atk  500 G
++140 DEF +290 RES +16 atk  6400 G
++60 DEF +18 SPIRIT  2200 G
+
+
+ARMOR
++50 DEF   25 G
++50 DEF +2% evasion 50 G
++70 DEF +40 RES +2% evasion 150 G
++50 DEF +4 MAG +1 POWER 575 G
++535 DEF +260 RES +40 atk  6700 G
++95 DEF +220 RES +1 POWER  4250 G
++610 DEF +420 RES +3 VIGOR 7500 G
++50 DEF +4 VIGOR +2% evasion 500 G
++230 DEF +400 RES +7 VIGOR  4000 G
++180 DEF +160 RES +4% evasion +34 atk  4750 G
++380 DEF +340 RES  5600 G
++75 DEF +16 MP +2 POWERS  4200 G
++200 DEF +480 RES  3250 G
++100 DEF +20 VIGOR +20 MAGIC +6 atk   3100 G
++75 DEF +60 RES +1 SPIRIT +8 DEX  350 G
++60 DEF +8 atk  125 G
++350 DEF +20 RES +1 POWERS  5500 G
++350 DEF +320 RES +1 POWERS  5600 G
++100 DEF +32 VIGOR +50 MP  5600 G
++340 DEF +160 RES +8 HP  1150 G
++280 DEF +260 RES  1050 G
+
+CAPE
++2% evasion     50 G
++2% evasion +2 MP  75 G
++2 HP +2 MP        75 G
++8 VIGOR +14 atk  1350 G
++8 MP +4% evasion  175 G
++11 VIGOR +16% evasion  1650 G
+
+SHIELD
++60% evasion +2 VIGOR +50 DEF +130 RES  3750 G
++50% evasion +8 HP +140 RES  2400 G
++50% evasion +4 SPIRIT +10 DEF  640 G
++60% evasion +2% accuracy +40 DEF 285 G
++40% evasion +1 VIGOR +1 DEX +40 DEF 270 G
++52% evasion +6 MP +20 RES  190 G
++50% evasion +2 VIGOR  90 G
++40% evasion +4 VIGOR +10 DEF +40 RES  270 G
++50% evasion +40 DEF +10 RES  265 G
++40% evasion +5 VIGOR +20 DEF   245 G
++40% evasion +5 VIGOR +70 DEF +10 RES  600 G
+
+
+1H WEAPON
++10 atk +10% evasion  10 G
++94 atk +15% evasion +8% accuracy  4000 G
++54 atk +25% evasion +28 MP +1 POWERS  3000 G
++10 atk +10% evasion +6 HP +1 POWERS  2000 G
++34 atk +10% evasion +16 MP +20% accuracy   1900 G
++40 atk +10% evasion +8% accuracy +1 POWERS 3000 G
++55 atk +10% evasion +5 DEX +40% accuracy  3000 G
++45 atk +10% evasion +6 SPIRIT +16% accuracy 2080 G
++76 atk +20% evasion +40% accuracy +2 mp drain 1525 G
++10 atk +10% evasion +2 HP +4% accuracy 60 G
++28 atk +20% evasion +1 POWERS 700 G
++16 atk +12% evasion +16% accuracy 235 G
++11 atk +7% evasion +4% accuracy 60 G
++57 atk +26% evasion +40% accuracy  3200 G
++12 atk +4% evasion +20% accuracy +5 DEX 870 G
++44 atk +15% evasion  350 G
++18 atk +20% evasion +2 VIGOR +4 HP  140 G
++36 atk +17% evasion +20% accuracy   470 G
++19 atk +15% evasion +8 MAGIC +1 POWERS  620 G
++11 atk +5% evasion +4 SPIRIT +16% accuracy  210 G
++160 atk +15% evasion +60% accuracy  8500 G
++103 atk +10% evasion +24% accuracy +5 DEX  4750 G
++52 atk +8% evasion  425 G
++45 atk +12% evasion +4 MP  425 G
++17 atk +10% evasion +20% accuracy +8 MAGIC  285 G
++40 atk +24% evasion +24% accuracy +30 HP  3200 G
++40 atk +16% evasion +70% accuracy  3000 G
+
+2H WEAPON
++267 atk +12% evasion +20 SPIRIT +32 MP  10700 G
++207 atk +12% evasion +1 POWERS  7000 G
++116 atk +12% evasion +30 HP +1 POWERS  5250 G
++87 atk +20% evasion +28% accuracy 700 G
++310 atk +25% evasion +112% accuracy +2 POWERS  18.000 G
++67 atk +12% evasion +60% accuracy +7 DEX +10 MP per hit  8700 G
++92 atk +12% evasion +8 SPIRIT +1 POWERS 1100 G
++67 atk +12% evasion +6 HP   200 G
++77 atk +12% evasion +6 SPIRIT  350 G
++235 atk +25% evasion +100% accuracy  10250 G
++108 atk +15% evasion +40% accuracy +1 POWERS  1600 G
++320 atk +15% evasion +20 VIGOR +37 DEX  16.100 G
++54 atk +25% evasion +5 SPIRIT +76 MAG +1 POWERS 5200 G
+
+BOW
++12 atk +2% evasion +1 POWER 600 G
++40 atk +56% accuracy +drain 1 hp 3600 G
++30 atk +56% accuracy +30 MP 3600 G
++68 atk +38 HP +drain 1 hp 6400 G
++16 atk  160 G
++12 atk 60 G
++38 atk +50% accuracy +1 POWERS 4400 G
++27 atk +1 POWERS   825 G
++15 atk +2 MP +1 POWERS  600 G
++15 atk +9 DEX +1 POWERS +2 mp per hit  4400 G
++53 atk +62 MP +1 POWERS  7750 G
++56 atk  350 G
++24 atk +9 VIGOR  1800 G
+
+STAVES
++22 atk +30% evasion +2 SPIRIT +34 HP 1600 G
++104 atk +30% evasion  +3 POWERS  8400 G
++22 atk +30% evasion +12 HP +1 POWERS +1 hp per hit  860 G
+
+
+ACCESSORIES
++18 MP +30 RES +1 POWERS   3000 G
++14 MAG +20 RES drain 1 mp 2000 G
++16 MAG +10 RES  1080 G
++18 MAG +10 RES  1160 G
++4 MAG +2 SPIRIT +6 HP  900 G
++6 DEX +4 HP +18 MAG   1600 G
++3 VIGOR +10% evasion +30 RES  1080 G
++10 RES +2 hp drain   1600 G
++6% evasion +20 RES  600 G
++12 MAG +1 hp drain 1400 G
++2 SPIRIT +2 MAG +30 RES  840 G
++3 SPIRIT +1 POWERS  2250 G
++8 MAG +20 RES  840 G
++1 VIGOR +1 hp drain  275 G
++10 RES 75 G
++4 SPIRIT +6 MAG +10 RES  300 G
++2 SPIRIT +1 mp drain 300 G
++13 SPIRIT +40 RES  1750 G
++11 VIGOR +12% evasion  1580 G
++7 SPIRIT +4 HP   920 G
++1 POWERS +1 hp per hit  2700 G
++5 SPIRIT +12 HP  1250 G
++20 RES +1 POWER  2000 G
++20 RES +20 DEX 2000 G
++20 VIGOR +20 DEX +8% accuracy  3600 G
++7 SPIRIT +12 HP +2% evasion  1350 G
++20 SPIRIT +5 VIGOR  2250 G
++20 MP +34 MAG  2400 G
++18 MAG +1 SPIRIT  1000 G
++11 VIGOR +7 DEX +12% evasion  2200 G
++19 SPIRIT +22 MAG +2 HP  3000 G
++9 SPIRIT +10 HP +10 MAG  1900 G
++20 SPIRIT +40 MP +50 RES 4000 G
++20 HP +32 MP +2% accuracy  2400 G
++4 DEX +30 RES +2% evasion  840 G
++8 SPIRIT +20 MAG +10 RES  2000 G

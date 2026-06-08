@@ -1,0 +1,777 @@
+Paesant
+HP 1
+Atk 1
+Def 1
+Charge 1
+Units 30
+Cost 100
+
+Spear Militia
+Morale  2
+Armor 0
+Shield 5
+Defense Skill 2
+Attack 3
+Charge 1
+Units 160
+Cost 150
+
+Iberian Infantry
+Morale 6
+Armor 3
+Shield 2
+Defense Skill 4
+Attack 7
+Charge 2
+Units 160
+Cost 260
+
+Lybian spearman
+Morale 6
+Armor 7
+Shield 5
+Defense Skill 4
+Attack 7
+Charge 2
+Units 160
+Cost 450
+
+Poeni Infantry
+Morale 8
+Armor 7
+Shield 5
+Defense Skill 6
+Attack 9
+Charge 4
+Units 160
+Cost 540
+
+Sacred Band
+Morale 10
+Armor 11
+Shield 5
+Defense Skill 7
+Attack 12
+Charge 4
+Units 160
+Cost 720
+
+Slinger
+Morale 4
+Armor 0
+Shield 2
+Defense Skill 2
+Attack 3
+Ranged attack 4
+Range 80
+Ammo(each) 40
+Charge 1
+Units 80
+Cost 160
+
+Skirmisher
+Morale 4
+Armor 1
+Shield 2
+Defense Skill 2
+Attack 5/6
+Range 65
+Ammo 6
+Charge 1
+Units 160
+Cost 220
+
+Light/Medium cavalry
+Morale 4/8
+Armor 2/3
+Shield 4
+Defense Skill 4/6
+Attack 7/9
+Charge 4/6
+Units 108
+Cost 330/510
+
+Sacred Band cavalry
+Morale 10
+Armor 11
+Shield 0
+Defense Skill 7
+Attack 12
+Charge 6
+Units 108
+Cost 780
+
+General's Bodyguards
+HP 2
+Morale 10
+Armor 3+8
+Shield 0
+Defense Skill 7
+Attack 11
+Charge 6
+Units 48
+Cost 720
+
+Elephant
+HP 10
+Morale 8
+Armor 10
+Shield 0
+Defense Skill 2
+Attack 5
+Charge 8
+Units 12
+Cost 1300
+
+War elephant
+HP 12
+Morale 8
+Armor 13+3
+Shield 0
+Defense Skill 3
+Attack 6
+Charge 8
+Range 120
+Ammo 60
+Units 36
+Cost 2520
+
+Onager
+Morale 6
+Armor 7
+Shield 0
+Defense Skill 4
+Attack 4/63
+Range 300
+Ammo 30
+Charge 0
+Units 64
+Cost 1040
+
+Spanish Infantry
+Morale 4
+Armor 3
+Shield 5
+Defense Skill 4
+Attack 7/11
+Range 35
+Ammo 2
+Charge 2
+Units 80
+Cost 170
+
+Balearic slinger
+Morale 8
+Armor 0
+Shield 2
+Defense Skill 4
+Attack 6/9
+Range 120
+Ammo 40
+Charge 3
+Units 160
+Cost 750
+
+Numidian cavalry
+Morale 8
+Armor 0
+Shield 4
+Defense Skill 4
+Attack 6/9
+Range 50
+Ammo 6
+Charge 4
+Units 54
+Cost 750
+
+Numidian Javelin
+Morale 4
+Armor 0
+Shield 2
+Defense Skill 2
+Attack 3/6
+Range 65
+Ammo 6
+Charge 1
+Units 160
+Cost 180
+
+Desert Infantry
+Morale 7
+Armor 3
+Shield 5
+Defense Skill 5
+Attack 7
+Charge 3
+Units 160
+Cost 300
+
+Numidian Legionaire
+Morale 10
+Armor 7
+Shield 5
+Defense Skill 4
+Attack 7/11
+Charge 2
+Range 65
+Ammo 2
+Units 160
+Cost 500
+
+Archers
+Morale 4
+Armor 0
+Shield 0
+Defense Skill 2
+Attack 3/7
+Range 120
+Ammo 30
+Charge 1
+Units 160
+Cost 190
+
+Camel rider
+Morale 8
+Armor 3
+Shield 4
+Defense Skill 6
+Attack 8
+Charge 6
+Units 108
+Cost 520
+
+Head hurlers
+Morale 10
+Armor 0
+Shield 0
+Defense Skill 2
+Attack 12/17
+Charge 6
+Range 40
+Ammo 6
+Units 80
+Cost 400
+
+Spear Warband
+Morale 4
+Armor 3
+Shield 5
+Defense Skill 2
+Attack 7
+Charge 4
+Units 120
+Cost 420
+
+Sword Warband
+Morale 8+4
+Armor 3+4
+Shield 5
+Defense Skill 4+1
+Attack 10+3
+Charge 4
+Units 80
+Cost 480+200
+
+Woad rider
+Morale 10
+Armor 0
+Shield 2
+Defense Skill 2
+Attack 13
+Charge 5
+Units 80
+Cost 400
+
+Warhound
+Morale 12
+Armor 2
+Shield 0
+Defense Skill 1
+Attack 12
+Charge 4
+Units 96
+Cost 640
+
+Chariot
+HP 5
+Morale 9
+Armor 0
+Shield 0
+Defense Skill 1
+Attack 13/10
+Charge 7
+Range 120
+Ammo 60
+Units 36
+Cost 720
+
+Barbarian Cavalry
+Morale 7
+Armor 3
+Shield 4
+Defense Skill 3
+Attack 8
+Charge 7
+Units 54
+Cost 400
+
+Naked Fanatic
+Morale 12
+Armor 0
+Shield 5
+Defense Skill 2
+Attack 13
+Charge 5
+Units 80
+Cost 440
+
+Falxman
+Morale 8
+Armor 3
+Shield 0
+Defense Skill 7
+Attack 13
+Charge 5
+Units 160
+Cost 480
+
+Archer Warband
+Morale 4
+Armor 3
+Shield 0
+Defense Skill 2
+Attack 3/7
+Range 120
+Ammo 30
+Charge 1
+Units 160
+Cost 270
+
+Chosen Archers
+Morale 4
+Armor 7
+Shield 0
+Defense Skill 3
+Attack 10/8
+Range 120
+Ammo 30
+Charge 4
+Units 80
+Cost 720
+
+Barbarian Noble cavalry
+Morale 10
+Armor 6
+Shield 4
+Defense Skill 5
+Attack 9
+Charge 7
+Units 54
+Cost 600
+
+Ballista
+Morale 6
+Armor 7
+Shield 0
+Defense Skill 3
+Attack 4/53
+Range 180
+Ammo 30
+Charge 0
+Units 48
+Cost 320
+
+Druids
+Morale 12
+Armor 7
+Shield 2
+Defense Skill 5
+Attack 13
+Charge 4
+Units 32
+Cost 480
+
+Forester
+Morale 4
+Armor 3
+Shield 0
+Defense Skill 4
+Attack 11
+Range 120
+Ammo 30
+Charge 4
+Units 80
+Cost 960
+
+Axeman
+Morale 7
+Armor 3
+Shield 2
+Defense Skill 4+2
+Attack 11+7
+Charge 5
+Units 80
+Cost 450+130
+
+Night riders
+Morale 8
+Armor 3
+Shield 5
+Defense Skill 2
+Attack 14
+Charge 6
+Units 80
+Cost 540
+
+Berserkers
+HP 2
+Morale 16
+Armor 2
+Shield 0
+Defense Skill 5
+Attack 19
+Charge 7
+Units 48
+Cost 930
+
+Screeching Woman
+Morale 10
+Armor 0
+Shield 0
+Defense Skill 1
+Attack 11
+Charge 6
+Units 80
+Cost 320
+
+Gothic Cavalry
+Morale 12
+Armor 9
+Shield 4
+Defense Skill 6
+Attack 12
+Charge 7
+Units 108
+Cost 800
+
+Bull warrior
+HP 2
+Morale 12
+Armor 5
+Shield 2
+Defense Skill 5
+Attack 13/17
+Range 35
+Ammo 2
+Charge 4
+Units 80
+Cost 1200
+
+Horse archer (scythia)
+Morale 4+4
+Armor 3+6
+Shield 0
+Defense Skill 2+1
+Attack 3/7+7/1
+Range 120+50
+Ammo 40
+Charge 2
+Units 108
+Cost 540+360
+
+Head Hunting Maidens
+Morale 10
+Armor 6
+Shield 4
+Defense Skill 1
+Attack 9
+Charge 8
+Units 108
+Cost 600
+
+Scythian Noble woman
+Morale 8
+Armor 6
+Shield 0
+Defense Skill 3
+Attack 7/8
+Range 170
+Ammo 30
+Charge 5
+Units 72
+Cost 660
+
+Scythi Noble man
+Morale 8
+Armor 9
+Shield 0
+Defense Skill 4
+Attack 10
+Charge 10
+Units 108
+Cost 630
+
+Peltast
+Morale 3
+Armor 0
+Shield 2
+Defense Skill 2
+Attack 3/6
+Range 35
+Ammo 2
+Charge 1
+Units 80
+Cost 180
+
+Hillman
+Morale 4
+Armor 3
+Shield 2
+Defense Skill 5
+Attack 5
+Charge 2
+Units 160
+Cost 320
+
+Heavy Spearman
+Morale 6
+Armor 7
+Shield 5
+Defense Skill 5
+Attack 7
+Charge 3
+Units 160
+Cost 480
+
+Armenian Legionaire
+Morale 8
+Armor 7
+Shield 5
+Defense Skill 4
+Attack 7/11
+Range 35
+Ammo 2
+Charge 2
+Units 160
+Cost 480
+
+Horse archer
+Morale 4
+Armor 0
+Shield 0
+Defense Skill 2
+Attack 3/7
+Range 120
+Ammo 40
+Charge 2
+Units 108
+Cost 450
+
+Cataphract
+Morale 10
+Armor 18
+Shield 0
+Defense Skill 5
+Attack 9
+Charge 15
+Units 24
+Cost 900
+
+Bedouin Camel rider
+Morale 4
+Armor 3
+Shield 4
+Defense Skill 4
+Attack 7
+Charge 4
+Units 108
+Cost 450
+
+Cataphract Archers
+Morale 8
+Armor 18
+Shield 0
+Defense Skill 4
+Attack 9/7
+Range 170
+Ammo 30
+Charge 5
+Units 108
+Cost 1230
+
+Arab Cavalry
+Morale 4
+Armor 3
+Shield 4
+Defense Skill 4
+Attack 7
+Charge 4
+Units 108
+Cost 480
+
+Bedouin camel archer
+Morale 4
+Armor 3
+Shield 0
+Defense Skill 2
+Attack 3/7
+Range 120
+Ammo 40
+Charge 2
+Units 108
+Cost 650
+
+Nubian Spearman
+Morale 2+2
+Armor 0+3
+Shield 5
+Defense Skill 3+2
+Attack 5+2
+Charge 2+1
+Units 160
+Cost 200+160
+
+Desert Axeman
+Morale 8
+Armor 3
+Shield 2
+Defense Skill 5
+Attack 10
+Charge 4
+Units 160
+Cost 450
+
+Pharaoh's Guards
+Morale 10
+Armor 9
+Shield 0
+Defense Skill 7
+Attack 12
+Charge 4
+Units 160
+Cost 720
+
+Pharaoh's Archers
+Morale 10
+Armor 7
+Shield 0
+Defense Skill 5
+Attack 9/10
+Range 170
+Ammo 30
+Charge 3
+Units 160
+Cost 680
+
+Desert Cavalry
+Morale 4+4
+Armor 3+4
+Shield 4
+Defense Skill 4+2
+Attack 6+3
+Charge 5+1
+Units 108
+Cost 420+160
+
+Egyptian Chariot
+HP 2
+Morale 7
+Armor 0
+Shield 0
+Defense Skill 1
+Attack 12/9
+Range 120
+Ammo 60
+Charge 6
+Units 54
+Cost 660+330 (pay to enable archer)
+
+Egyptian Cavalry general
+Morale 10
+Armor  6
+Shield 0
+Defense Skill 7
+Attack 12
+Charge 6
+Units 48
+Cost 840
+
+Gladiator
+HP 2
+Morale 14
+Armor 7/2
+Shield 0/5
+Defense Skill 7
+Attack 14/12
+Charge 3
+Units 80
+Cost 720/620
+
+Militia Hoplites
+
+Heavy Peltasts
+
+Hoplites (armoured)
+
+Spartan Hoplite
+
+Militia Cavalry
+
+Greek Cavalry
+
+Incendiary pigs
+
+Levy pikeman
+
+Phalanx pikeman
+
+Royal Pikeman
+
+Silver shield pikeman
+
+Silver shield legionary
+
+Scythed chariots
+
+Light Lancers
+
+Macedonian cavalry
+
+Companion cavalry 
+
+Cretan archer
+
+Illiryan mercenaries
+
+Hastati/Princep/Triari
+
+Velites
+
+Roman archers/archer auxilia
+
+Equites
+
+Arcani
+
+Legionary cohort
+
+pretorian cohort
+
+Urban cohort
+
+Legionary first cohort
+
+Roman cavalry
+
+Legionary cavalry
+
+Pretorian cavalry
+
+Morale
+Armor
+Shield
+Defense Skill
+Attack
+Charge
+Units
+Cost

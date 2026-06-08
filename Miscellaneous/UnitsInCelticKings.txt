@@ -1,0 +1,282 @@
+Mercenaries in Celtic Kings
+Tainted Land
+---
+Tainted swordman Lvl 49
+HP 710 (+220 from original) 
+Atk 28-50 (+22-34 from original)
+Def 22/37 (+20/25 from original)
+21 in total
+Tainted Axeman Lvl 66 (one with lvl 96)
+HP 765 (+220)
+Atk 30-74 (+22-34)
+Def 46/29 (+20/25)
+12 in total
+Tainted Sniper lvl 95
+HP 830
+Atk 26-50 (+22-34 from original)
+Def 22/25 (+20/25 from original)
+only one
+Tainted rider lvl 96
+HP 1175
+Atk 30-60 (+22-34 from original)
+Def 32/25 (+20/25 from original)
+only one
+---
+Cursed Cave
+---
+Cursed Wolf Lvl 38 (average)
+HP 185 (-240)
+Atk 32-56 (+26-40)
+Def 24/32 (+22/30)
+35 in total
+Cursed rabid wolf Lvl 81 (average)
+HP 290 (-350)
+Atk 26-28 (+20-12)
+Def 8/18  (+6/16)
+6 in total
+Cursed wolf pup lvl 19
+HP 110 (-220)
+Atk 16-28 (+10-12)
+Def 24/22 (+22/20)
+4 in total 
+Evil wolf lvl 71
+HP 1190 (+600)
+Atk 18-48 (+12-32)
+Def 7/7 (+5/5)
+2 in total
+Evil summoner Lvl 77
+HP 2630 (+2000)
+Atk 56-86 (+50-70)
+Def 34/42 (+32/30)
+only one
+---
+Isles-Cesarea
+---
+Isle Sniper Lvl 24
+HP 600 (+460)
+Atk 254-336 (+250-320)
+Def 12/10 (+10/10)
+8 in total
+Cesarea guard lvl 19
+HP 360 (+120)
+Atk 20-34 (+10-10)
+Def 24/14  (+12/12)
+about 120 in total
+---
+Delvania guards
+---
+Delvania pretorian lvl 39
+HP 910 (+120)
+Atk 60-100 (+20-60)
+Def 18/21 (+12/15)
+7 in total
+Delvania archer lvl 56
+HP 545  (+120)
+Atk 50-84 (+40-60)
+Def 24/17  (+12/15)
+36 in total
+Delvania Norman chief lvl 29
+HP 1260 (+120)
+Atk 60-180 (+40-60)
+Def 18/31  (+12/15)
+2 in total
+---
+Revechar
+---
+Royal archer lvl 81
+HP 350 (-200)
+Atk 40-124 (+30-100)
+Def 12/7  (+0/5)
+11 in total
+Royal Gladiator lvl 81
+HP 500 (-200)
+Atk 58-128 (+30-100)
+Def 0/27  (+0/5)
+10 in total
+Royal Scout lvl 81
+HP 560 (-200)
+Atk 36-118  (+30-100)
+Def 0/15  (+0/5)
+10 in total
+Bandit spearman lvl 75
+HP 430  (-180)
+Atk 86-124 (+72-96)
+Def 31/51  (+25/25)
+6 in total
+Bandit archer Lvl 77  (one with lvl 88)
+HP 420 (-100)
+Atk 64-106  (+60-90)
+Def 12/10  (+10/10)
+5 in total
+Bandit Axeman Lvl 75
+HP 440  (-150)
+Atk 98-160  (+80-120)
+Def 41/19  (+15/15)
+3 in total
+
+Mercenaries in the same Adventure but in Imperium GBR
+--
+Tainted land
+---
+Tainted swordman lvl 69
+HP 700 (+500)
+Atk 34 (+22)
+Def 6
+21 in total
+300 G each
+Tainted Axeman Lvl 68
+HP 760  (+500)
+Atk 40 (with ability, +34 atk from original)
+Def 28 (+20)
+12 in total
+500 G each
+Tainted sniper lvl 98
+HP 270 (+90)
+Atk 16 (+2)
+Def 20 (+20)
+3 in total
+200 G each
+Tainted rider lvl 97
+HP 380 (-15 from original)
+Atk 26 (+6 from original)
+Def 28 (+20)
+3 in total
+500 G each
+12.400 G for all mercs here
+---
+Cursed Cave
+---
+Cursed wolf lvl 38
+HP 240 (+55 from original)
+Atk 42 (+26)
+Def 6  (+4)
+35 in total
+300 G each
+Cursed wolf pup lvl 39
+HP 120 (-120)
+Atk 16
+Def 2
+4 in total
+100 G each
+Cursed rabid wolf lvl 81
+HP 240
+Atk 36 (+20)
+Def 8  (+4)
+7 in total
+300 G each
+Evil wolf leader lvl 81
+HP 1240  (+1000)
+Atk 48  (+32)
+Def 2   
+2 in total
+1000 G each
+Evil summoner lvl 77
+HP 2600 (+2400)
+Atk 86  (+70)
+Def 36  (+30)
+Can summon up to 20 wolves all at once.
+Respawn when all of them all killed
+only one, cost 10.000 G
+Mini evil summoner (alternative) lvl 107
+HP 525 (+325)
+Atk 12 
+Def 6  
+Can summon up to 4 wolves.
+5 in total
+2000 G each
+for all cave mercenaries, 25.000 G
+---
+Isles
+---
+Island sniper guardian lvl 34
+HP 200 (+20)
+Atk 106 (+92)
+Def 0
+24 in total
+1000 G each
+Cesares archer guard lvl 31
+HP 180 (+30)
+Atk 30 (+10)
+Def 0
+about 240 in total
+200 G each
+for Archers of the isles, 24.000 G
+---
+Delvania
+---
+Delvania mercenary pretorian guard lvl 51
+HP 600
+Atk 68  (+28)
+Def 12
+12 in total
+600 G each
+Delvania mercenary archer guard lvl 68
+HP 270 (+90)
+Atk 44 (+24)
+Def 0
+72 in total
+300 G each
+Delvania mercenary hammer guard lvl 41
+HP 1200 
+Atk 180 (+60)
+Def 6
+2 in total
+2000 G each
+in total, 30.000 G to afford all the Delvania mercenaries
+---
+Revechar
+---
+Royal Archer lvl 81
+HP 150
+Atk 70 (+50)
+Def 0
+22 in total
+400 G each
+Royal Gladiator lvl 81
+HP 300
+Atk 80 (+50)
+Def 10
+20 in total
+1000 G each
+Royal Scout Lvl 81
+HP 250
+Atk 70 (+50)
+Def 12
+20 in total
+600 G each
+Bandit spearman lvl 80
+HP 320 (+20)
+Atk 80 (+60)
+Def 36 (+20)
+8 in total
+500 G each
+Bandit Archer lvl 80
+HP 210 (+30)
+Atk 60 (+46)
+Def 10 (+10)
+10 in total
+600 G each
+Bandit Axeman lvl 80
+HP 260
+Atk 40
+Def 18 (+10)
+5 in total
+500 G each
+12.000 G for all bandit mercenaries
+40.800 G for all royal guard mercenaries
+
+Upgrades
+Curse of the tainted land: give an amulet to a unit, which
+grant a special boon: +500 maxHp and +20 atk (or def) which last for 5 minutes.
+Click on the amulet to switch between atk buff or def buff
+Cost to craft: 200 G, 5 seconds
+Curse of the wolf cave: give an amulet: +20 atk, last for 5 minutes
+Cost to craft: 50 G, 5 seconds
+Sharpshooter bless: give an amulet: ranged units only: +100 atk for 1 minute, but -10% range
+Cost to craft: 300 G, 5 seconds
+Cesareas bless: give an amulet: +10 atk and def, last 5 minutes
+Cost to craft: 50 G, 5 seconds
+Curse of the water cave: give an amulet: +20 def, last for 5 minutes
+Cost to craft: 50 G, 5 seconds
+Fire bless: give an amulet: +50 atk, last 2 minutes
+Cost to craft: 150 G, 5 seconds

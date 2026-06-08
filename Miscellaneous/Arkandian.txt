@@ -1,0 +1,1534 @@
+ARKANDIAN EXPLORER
+Character skills
+Combat
+Weapon mastery: increase hit chance with melee weapons
+and avoid chance from being hit with said weapons
+Magic Mastery: similar, but with magic
+Archery: similar, but with bows
+Anatomy: hit and dodge bonus which affect all weapons
+Non Combat
+Alchemy: increase success chance while preparing potions
+Blacksmithing: similar, with weapons
+Tailoring: similar, with clothes, armors
+Coocking: similar, with meals
+Leadership: improve hit and avoid to your party
+Bargaining: increase sell price and reduce buy price at stores
+
+Dungeons
+1 star    8
+2 stars  13
+3 stars  7
+4 stars  5
+5 stars  5
+PRISON levels: 32
+
+Weapon caps
+Critical chance(50) increase chance to land a blow which
+deals twice the damage
+Hit/Avoid chance (120) increase hit/Avoid chance
+HP/MP drain (60) increase HP/MP drain based on percentage
+Damage(100) increase damage on percentage
+Pierce/Armor(60/15) ignore % of armor, or add a flat armor bonus
+HP/MP up (250) add HP/MP to character
+HP/MP burn (50) attack have a % chance to inflict HP/MP burn
+Weaken (60) attack have a % chance to reduce foes attack power by 20%
+Stun (30) attack have a % chance to make the foe skip his next turn
+
+Trinkets
+Gauntet of Fame: double fame gained in heroic deeds
+Thieves gloves: after a battle, increase G gained by 150%
+Ametist amulet: have a 50% to ignore all enemy spells
+
+Spells
+Bless 30 MP: +30% hit/avoid
+Barrier 30 MP: +20% armor/resistence
+Corrupt 40 MP: -20% armor/resistence/dodge
+Heal 30 MP: heal for 50 HP
+Ligthing 30 MP: deal 50 magic damage
+Enchant 30 MP: next hit will deal +50% damage
+Drain 30 MP: syphon 30 HP from foe
+Sneak 40 MP: move past a foe
+
+Potions
+10 water 4 leaves 2 mana cristal => Heal 50 HP
+14 water 2 mana cristal => Heal 50 MP
+12 water 2 cristal => improve hit rate by 100%
+10 water 2 paper 2 cristal => improve avoid by 100%
+10 water 2 wood 2 cristal => improve damage by 100%
+MP potion + HP potion => Heal 50 HP and MP
+8 water 6 wood 2 cristal => add 100% crit chance
+2 water 2 leaves 6 wood => paint
+13 cristal => add +5 atk to weapon
+16 cristal => add +1 armor to armor
+8 cristal => add +5 MAX MP
+10 water 6 cristal => add +10 MAX HP
+
+Materials
+coal/iron/gold/cloth/leather/wood/stone/feather/water cost 50
+mana cristal cost 300
+
+My Pet Protector
+Personal stats
+STR, DEX, CON, WIS, INT, CHA
+Temperament, Faith, Bravery, Combat, Magic
+Construction, Smithing, Tailoring, Healing, Scavenge
+Works
+Guard job: +1 combat  +15 G +2.5 Stress
+Banker: +4 Scavenge -1 Combat +22 G +2 Stress
+Beast Tamer: +3 Combat -4 Temperament +30 G +4.5 Stress
+Street Sweeper: +8 G +1 Stress
+Prayer: +2 Faith +10 G 
+Rat Catcher: +2 Bravery +10 G +1 Stress
+Builder: +2 Temperament +10 G +1 Stress
+Scribe: +2 Scavenging -1 Bravery +10 G +1 Stress
+Nurse: +2 Healing -1 Scavenge +12 G +1 Stress
+Architect: +1 Construction -1 Scavenge +18 G +2 Stress
+Tailor: +1 Tailoring -1 Bravery +14 G +2 Stress
+Smithy:+1 smithing -1 Temperament +14 G +2 Stress
+Hunter: +1 Scavenge +16 G +2 Stress
+Merchant: +3 Scavenge +26 G +2 Stress
+Soldier: +4 bravery +1 Combat +1 Scavenge +30 G +3 Stress
+
+School
++10 Magic or Combat  G 250 Stress 35
++10 Faith and Temperament G 250 Stress 70
++10 Healing or Smithing or Tailoring or Construction or Scavenge G 500 S 35
+
+ASGARD ATTACK
+Heroes
+
+Warrior
+HP 120
+Atk 10
+Rof 1
+Armor 55/20
+Speed 2
+TYR/THOR
+HP 200
+Atk 35/31
+Rof 1/2
+Armor 100/65  90/55
+Speed 2
+Shield Slam---Holy strike
+Thornmail---Stomp
+
+Archer
+HP 60
+Atk 7
+Rof 1 range 160
+Armor 10/10
+Speed 1.5
+VIDAR/NOTT
+HP 110/120
+Atk 22/16+10 magic
+Rof 1 range 170
+Armor 40/40
+Speed 3/2.2
+Poison---Roots
+Multi-shot---Exhaust
+
+Wizard
+HP 50
+Atk 27
+Rof 0.5 range 130
+Armor 6/25
+Speed 1
+ULLR/ODIN
+HP 100
+Atk 70/90
+Rof 0.5 range 150
+Armor 15/50
+Speed 1
+Frostbite---Ice Age
+Shatter---Ice golem
+
+Cleric
+HP 52
+Atk 14
+rof 0.33 range 150
+Armor 0/0
+Speed 2
+FREYA/FRIGGA
+HP 100
+Atk 42
+rof 0.33/0.4 range 150
+Armor 25/25
+Speed 2
+Avarice---Gold bird
+Divine Dodge---Fortify
+
+Enemies
+
+Goblin(has a winter version)
+HP 30+12
+Atk 10+5
+Rof 1
+Speed 1
+Bounty 6+14
+
+Bug bear
+HP 100
+Atk 10
+Rof 1
+Armor 30/0
+Speed 0.5+0.2 when near other bug bears
+Bounty 20
+
+Blight
+HP 24
+Atk 5 magic
+Rof 1 range 130
+Speed 0.5
+Bounty 15
+
+Troll
+HP 300
+Atk 15
+Rof 1
+Speed 0.3
+Bounty 120
+
+Shaman
+HP 40
+Heal 10
+Rof 1 range 180
+Armor 0/80
+Speed 0.3
+Bounty 30
+
+BOSS 1
+HP 3000
+Atk 150+150 magic
+Rof 0.5
+Armor 70/70
+Speed 0.5
+Bounty 500
+
+Hunter
+HP 50
+Atk 8
+Rof 1
+Speed 1
+Bounty 30
+Special: obtain +20 MAX HP and +5 atk for each defeated unit
+
+bat
+HP 30
+Speed 2.5
+Bounty 20
+Fly over foot soldiers
+
+Summoner
+HP 100
+Armor 0/60
+Speed 0.3
+Bounty 60
+Summon 2 bats every 10 seconds
+
+Bomber
+HP 40
+Explosion 100
+Armor 0/50
+Speed 1
+Bounty 30
+One time explosion
+
+BOSS 2
+HP 3200
+Atk 100 magic
+Rof 1 range 200
+armor 20/20 
+Speed 4
+Bounty 500
+
+Spider
+HP 80
+Atk 15
+Rof 1
+Speed 1.5
+Bounty 20
+
+Archer
+HP 120
+Atk 10
+Rof 1 range 160
+Speed 0.7
+Bounty 80
+
+Skeleton
+HP 200
+Atk 12
+Rof 1
+Speed 0.7
+Bounty 40
+
+Skeleton King
+HP 1000
+Atk 35+35 magic
+Rof 0.5
+Speed 0.6
+Bounty 300
+Improve undead armor 30->80/20->70
+
+Skeleton Queen
+HP 300
+Atk 100 magic
+Rof 0.2  range 200
+Speed 0.5
+Bounty 300
+Cast tornado every 10 seconds
+
+Zombie
+HP 180
+Atk 12
+Rof 1
+Speed 1
+Bounty 50
+Track heroes: gain 10 HP and 0.1 speed for hit
+
+Undead Knight
+HP 300
+Atk 30
+Rof 1
+Armor 80/30
+Speed 0.4
+Bounty 100
+
+BOSS 3
+HP 20.000
+Atk 60
+Rof 0.1 range 2000
+Armor 70/70
+Bounty 1000
+
+BOSS 4
+HP 12.000->15.000
+Atk 80->50
+Rof 0.1->0.33 range 2000
+Speed 80/80
+Bounty 1000
+
+Weapons from VILE STEEL
+Ring of Ancient Vigor
++9 Vigor +6 Atk +2 Dexterity   1300 G
+Vampiric Ring
++2 HP/MP drain  3600 G
+Ring of Wanderer
++20 Atk +8 MAGIC +2 Dexterity  1500 G
+Ring of Alacrity
++1 Powers +3 Dexterity  2400 G
+Ring of Infusion
++16 Max MP +10 Atk +2 Dexterity  1600 G
+Ring of resistence
++30 Resistence +1 Powers  2400 G
+Ring of Acumen
++2 Dexterity +10 Max HP  800 G
+Ring of Magic
++20 Magic  3000 G
+Ring of Piety
++20 Max HP +10 Max MP  1800 G
+Ring of Vitality
+8 Vigor 4 Dexterity 16 MaxHP 2000 G
+Ring of Magic
+16 Magic  800 G
+Ring of Warlords
+8 Vigor 12 Dexterity  2000 G
+Rune ring
+20 atk 20 esistence  1000 G
+Small bronze ring
+3 Vigor 3 Dexterity 800 G
+Resistent silver ring
+30 resistence  500 G
+Full plated ring
+10 Vigor  1000 G
+Offensive mage ring
+30 resistence 20 magic  1500 G
+Brutal ring
+20 atk 1200 G
+Veteran silver magic ring
+16 MaxMP 10 Spirit 3 Magic 2000 G
+Warden silver ring
+20 resistence 3 spirit 8 magic  1000 G
+Gold enchanted ring
+9 spirit 18 atk 2 Hp drain  3000 G
+Gold vitality ring
+20 MaxHP 10 Magic 2 HP drain 3000 G
+Mana ring
+40 MaxMP  1750 G
+Entropy ring
+20 resistence 16 magic 5 vigor 1300 G
+Ring of Power
+10 powers 2000 G
+Steel ring
+20 defense 4 vigor 700 G
+Silver ring of ancient spirits
+10 Spirit 20 resistence  1500 G
+Steel ring of ancient spirits
+10 spirit 30 defense 1500 G
+
+Zweuhander
+88 Atk 30 dodge 30 magic    3500 G
+Two handed sword of alacrity
+44 atk 30 dodge 20 Spirit 2 HP drain  6300 G
+Two handed sword of Spirit
+44 atk 30 dodge  15 spirit  2400 G
+
+Accuracy sword
+48 atk 24 hit 10 dodge 1 Power  3600 G
+Simple broadsword
+44 atk 10 dodge 2 powers  3000 G
+Vampiric shortsword
+20 atk 10 dodge 2 Hp drain 2000 G
+Spiritual shortsword
+18 atk 20 dodge 10 spirit 2600 G
+Accurate shortsword
+20 atk 30 hit 10 dodge 1200 G
+heavy vampiric sword
+26 atk 10 dodge 3 mp drain  3400 G
+vampiric cutlass
+36 atk 12 hit 20 dodge 2 HP drain 20 max mp 3600 G
+Legendary broadsword
+70 atk 10 dodge 8 powers 40 resistence 20 max mp 6000 G
+
+Complete lorica Hamata
+50 Defense 50 resistence 2 HP drain 10 Powers  5500 G
+
+
+ARKANEIA
+Player units
+
+Guardman/banner/amazon
+HP 70/60/80    +220
+Atk 8/8/11     +18
+vs cavalry   +4  +16                    
+Armor 0/1-0/0    (+0/8) -0-0     
+Cost 10/30/16
+Special: X    / inspire 25(75)%, rally 20(60) /   parry 35%, unyielding
+Skirmisher
+HP 40   +155
+Atk 8   +21
+vs heavy +2    +5
+range 6   +8
+Cost 10
+Shieldbreaker/Templar  HH
+HP 110/120  +390/270
+Atk 18/10    +48/38
+vs heavy +6/2  +10
+Armor 2/0-0/0  (+0/8)-0
+Cost 26/20
+Special: X/ parry 25%, protect 20(70)
+Archer/ranger
+HP 30/45  +155            
+Atk 5/6   +13
+vs infantry +1   +8
+range 9/13   +13        
+Cost 12/20       
+Special: X / poison 5%, stealth
+Legion/Centurion  HH
+HP 80/90    +350
+Atk 10/11   +36
+vs spear +4   +10
+Armor 0/1  (+0/8)
+Cost 16/25
+Special: X/ war cry +2(10)
+Heart guard  H
+HP 140   +430
+Atk 10  +18
+vs cavalry +12  +16
+Armor 2/2 (+8/8)
+Cost 26
+Scout
+HP 80  +260
+Atk 7  +36
+vs archers +4  +10
+Speed 3
+Cost 14
+Lancer  H
+HP 80  +390
+Atk 7 +34
+vs archers +8   +10
+Armor 0/2  (+0/8) speed 3
+Cost 24
+Special: deal double damage on first strike
+Border cavalry
+HP 60  +195
+Atk 6   +21
+vs archers +2   +10
+vs heavy +2    +8
+range 9   +8  Speed 3
+Cost 16
+Ballista
+HP 60   +115
+Atk 12   +13
+vs heavy +2  +8
+range 18  +8  fires two times slowly
+Cost 28
+Special: attacks have a 25(65)% chance to pierce trough foes
+Marine/Assassin/Blade Mercenary xxH
+HP 50/40/60   +220/220/350
+Atk 11/8/20  +36
+vs spear +2/1/2  +10
+vs infantry +0/0/6
+Speed 1/2/1
+Cost 10/14/18
+Special: X/poison 10%, parry 25%/ lose 2 G for each unit he kills
+Halberdier
+HP 45  +220
+Atk 7 +18
+vs cavalry +10   +24
+Armor 0
+Cost 10
+Engineer
+HP 40  +180
+Atk 8 +48
+vs heavy +2  +10
+Armor 0
+Cost 15
+Special: repair 4(14) units of castle
+Priest
+HP 30 +180
+Atk 6 
+vs monsters +4
+Armor 0
+Cost 15/20
+Special: heal allies in lane by 6(22)/allies in lane take -10(50)% damage
+
+Enemies
+Pirates
+Cutthoat
+HP 40
+Atk 10 +2 vs spear
+Range 1
+Speed 1
+Cost 8
+Harpoon thrower
+HP 30
+Atk 8 +4 vs heavy
+Range 8
+Speed 1
+Cost 12
+Horseman
+HP 80
+Atk 6 +4 vs ranged
+Range 1
+Speed 3
+Cost 14
+Mercenary spearman
+HP 50
+Atk 8 +4 vs cavalry
+Range 1
+Speed 1
+Cost 9
+Mercenary archer/longbow
+HP 30/40
+Atk 6 +1 vs infantry
+Range 12
+Speed 1
+Cost 13/16
+Gladiator
+HP 100
+Atk 14
+Range 1
+Speed 1
+Cost 14
+Parry 35%, unyielding
+Nightstalker
+HP 90
+Atk 13
+Range 1
+Speed 2
+Cost 15
+poison 10%, stealth, drain 25%
+
+Orcs
+Brute
+HP 70
+Atk 13 +2 vs infantry
+Range 1
+Speed 1
+Cost 13
+Archer
+HP 45
+Atk 6 +2 vs infantry
+Range 10
+Speed 1
+Cost 14
+Poison 5%
+Shaman
+HP 60
+Atk 8  Heal 4
+Range 1
+Speed 1
+Cost 20
+Spearman
+HP 60
+Atk 8 +6 vs cavalry
+Range 1
+Speed 1
+Cost 10
+Marauder
+HP 140
+Atk 12 +8 vs ranged
+Range 1
+Speed 3
+Cost 26
+Berserker/Kragath
+HP 80/130
+Atk 14/20 +4/6 vs infantry
+Range 1
+Speed 1/2
+Cost 20/18
+Strike twice
+X/Heal 20 for each kill
+Javelin
+HP 45
+Atk 10 +5 vs heavy
+Range 8
+Speed 1
+Cost 12
+Iron Warrior
+HP 180
+Atk 24 +5 vs infantry/spear
+Range 1
+Armor 5/0
+Speed 1
+Cost 16
+Iron Guard
+HP 180
+Atk 18 +16 vs cavalry
+Range 1
+Armor 5/0
+Speed 1
+Cost 15
+Iron Raider
+HP 240
+Atk 24 +8 vs ranged
+Range 1
+Armor 4/4
+Speed 3
+Cost 22
+Warlord
+HP 300
+Atk 30 +10 vs ranged
+Range 1
+Armor 4/4
+Speed 3
+Cost 32
+War cry +2, Heal 40 HP for each kill
+Cave Ogre/Corrupted Ogre
+HP 400/450
+Atk 30/32 +10 vs heavy
+Range 1
+Armor 6/0
+Speed 1
+Cost 32
+Fear
+Axe Thrower
+HP 50
+Atk 20 +6 vs light
+Range 8
+Speed 1
+Cost 15
+
+Maru
+Raider
+HP 80
+Atk 9 +3 vs infantry
+Range 1
+Speed 2
+Cost 12
+parry 25%, regen 6
+Hunter
+HP 45
+Atk 12 +4 vs heavy/ranged
+Range 9
+Speed 2
+Cost 12
+regen 6
+Dart spitter
+HP 50
+Atk 8 +2 vs light/infantry
+Range 14
+Speed 2
+Cost 14
+regen 6
+Elder
+HP 80
+Atk 8 +5 vs cavalry
+Range 1
+Speed 2
+Cost 16
+heal 4, regen 6
+Champion
+HP 100
+Atk 11
+Range 1
+Speed 2
+Cost 16
+strike twice, parry 40%, regen 6
+Warrior
+HP 260
+Atk 25 +6 vs infantry
+Range 1
+Armor 4/0
+Speed 2
+Cost 20
+regen 12
+Guardian
+HP 80
+Atk 9 +8 vs cavalry
+Range 1
+Armor 0/4
+Speed 2
+Cost 10
+regen 6
+Sentinel
+HP 300
+Atk 18
+Range 1
+Armor 6/6
+Speed 2
+Cost 22
+regen 12
+
+Undead
+Warrior
+HP 60
+Atk 8 +6 vs cavalry
+Range 1
+Speed 1
+Cost 6
+Swordman
+HP 60
+Atk 11 +2 vs infantry
+Range 1
+Speed 1
+Cost 7
+Archer/Tomb archer
+HP 40/60
+Atk 8/10 +1/4 vs infantry
+Range 14/18
+Speed 1
+Cost 10
+Tomb guard
+HP 120
+Atk 24 +10 vs cavalry
+Range 1
+Armor 0/5
+Speed 1
+Cost 12
+Tomb Knight
+HP 140
+Atk 20 +6 vs heavy
+Range 1
+Armor 0/5
+Speed 1
+Cost 12
+Necromancer
+HP 70
+Atk 8
+Range 1
+Speed 1
+Cost 18
+Necromancy: 25% to bring back undead units
+Bone Horror
+HP 300
+Atk 17
+Range 1
+Speed 1
+Cost 40
+Strike twice, Fear
+Deathbolt
+HP 50
+Atk 12 +4 vs heavy
+Range 14
+Speed 1
+Cost 14
+Strike three times faster
+Immortal
+HP 90
+Atk 17
+Range 1
+Armor 8/12
+Speed 1
+Cost 12
+Bone Fiend/Bone Lurker
+HP 80/120
+Atk 10/20 +2/0 vs light +4/8 vs ranged
+Range 1
+Speed 3
+Cost 10
+x/poison 10%
+Tomb lord
+HP 80
+Atk 16
+Range 1
+Speed 1
+Cost 25
+Poison 10%, drain 50%, dark barrier
+Reaper of souls
+HP 400
+Atk 40 (15 ranged)
+Range 35
+Speed 1
+Cost 32
+drain 25% (melee only)
+
+Purple City
+Archer
+HP 55
+Atk 10 +3 vs infantry
+Range 14
+Speed 1
+Cost 12
+Guard
+HP 140
+Atk 12 +8 vs cavalry
+Range 1
+Armor 0/4
+Speed 1
+Cost 10
+Lancer
+HP 220
+Atk 15 +12 vs ranged
+Range 1
+Armor 0/4
+Speed 3
+Cost 20
+Charge x2
+Legionary
+HP 200
+Atk 20 +6 vs spear
+Range 1
+Armor 0/4
+Speed 1
+Cost 16
+
+Red Legion
+Legion archer
+HP 70
+Atk 15 +8 vs light
+Range 17
+Speed 1
+Cost 14
+Bonebreaker
+HP 340
+Atk 34 +14 vs heavy
+Range 1
+Armor 6/0
+Speed 1
+Cost 25
+Death Knight
+HP 420
+Atk 32 +10 vs ranged
+Range 1
+Armor 0/5
+Speed 3
+Cost 32
+Doomguard
+HP 400
+Atk 24 +20 vs cavalry
+Range 1
+Armor 0/6
+Speed 1
+Cost 25
+
+TARNEIA-Tainted Kingdom
+
+Humans
+---
+Farms: 1 pop
+1 population-> 50 G
+100 G -> 1 population
+Armory: 250 G 1 pop
+hunter atk 6 HP 35 range 8 fast G 32 pop 1
+knight atk 17 HP 50  G 54 pop 1
+*hunter,knights +2 atk +3 HP   G 250 pop 3  tier 3
+tower atk 7 HP 270 range 9   G 250
+*Melee units, towers +10% atk  G 300 pop 3 tier 3
+*All units but priest +10% atk G 200 pop 3 tier 3
+Keep: 380 G 2 pop
+Guard atk 15 HP 120 slow G 120 pop 1
+Crusader atk 29 HP 82 fast G 90 pop 1
+*Guards,Crusaders +5 HP  G 400 pop 2 tier 3
+*Guards,Crusader +3 atk +3 HP G 400 pop 2 tier 3
+Cathedral: 150 G
+priest atk 12 HP 30 range 6 G 40 pop 1
+heal all  G 35
+*priest +1 atk +5 HP +20% heal G 150 pop 1 tier 5
+*ranged units +3 atk +1 range  G 400 pop 2 tier 1
+*priest +4 atk -1 HP per sec  G 240 pop 1 tier 3
+
+
+Ancients
+Tomb: 200 G
+1 pop -> 500 G
+risen atk 13 HP 60  G 180
+Pyramid: 350 G
+apocalypse  20 damage  G 120
+*Pharaoh +3 atk, spell +4 atk  G 720 tier 5
+*Pharaoh,warrior +8% HP  G 1490 tier 3
+*Pharaoh,warrior +8% atk G 1455 tier 3
+Pharaoh atk 23 HP 100 range 2 slow G 482 pop 1
+Shrine: 390 G
+Shrine atk 3 HP 100  heal allies while not figthing  G 220
+*Shrine +1 atk +15 HP  G 1150 tier 2
+*Warrior +8 HP   G 780 tier 5
+Warrior atk 14 HP 140 slow G 312 
+Assassin Hall: 210 G 1 pop
+Viper atk 6 HP 12 range 13 slow G 210
+*Viper +1 range  G 1000 tier 1
+Assassin atk 39 HP 1 fast  G 390
+*Assassin/Viper +6/8 HP  G 1210  tier 3
+*Assassin +7 atk  G 1125 tier 3
+
+WAR OF MIRAGINE
+Units Pre alfa
+
+Newbie
+HP 45
+Atk 5
+Rof 2.4
+Armor 0
+Speed 1
+Cost G 20-4 pop 1
+Veteran
+HP 65
+Atk 6 +4 vs heavy
+Rof 2.3
+Armor 0
+Speed 1
+Cost G 30-5 pop 1
+Zombie HHH
+HP 125
+Atk 16
+Rof 1
+Armor 1
+Speed 1
+Cost G 35-6 pop 1
+Samurai HHH
+HP 100
+Atk 5 +12 vs light
+Rof 1.7
+Armor 1
+Speed 1
+Cost G 30-6 pop 1
+Swordman HHH
+HP 100
+Atk 10 +10 vs heavy
+Rof 1.6
+Armor 1
+Speed 1
+Cost G 40-7 pop 1
+Ninja
+HP 100
+Atk 10 +12 vs light
+Rof 1.6
+Armor 0
+Speed 1.4
+Cost G 45-8 pop 1
+Novice
+HP 75
+Atk 11
+Rof 0.8
+Armor 0
+Range 5.5
+Speed 1
+Cost G 45-8 pop 1
+Heavy Swordman HHH
+HP 160
+Atk 12 +3 vs heavy
+Rof 1.4
+Armor 1
+Speed 1
+Cost G 45-8 pop 1
+
+Monk
+HP 225
+Atk 18 +20 vs heavy
+Rof 1.4
+Armor 1
+Speed 1.2
+Cost G 100-15 pop 2
+Vampire HHH
+HP 140
+Atk 11 +31 vs heavy
+Rof 0.8
+Armor 1
+Range 5
+Speed 1
+Cost G 125-20 pop 2
+Cavalry HHH
+HP 240
+Atk 30
+Rof 2
+Armor 1
+Speed 1.8
+Cost G 150-22 pop 2
+Immortal HHH
+HP 350
+Atk 20 +30 vs heavy  
+Rof 1.4
+Armor 1
+Speed 1
+Cost G 180-30 pop 2
+Mage HHH
+HP 210
+Atk 25 +25 vs light
+Rof 0.8
+Armor 0
+Range 5
+Speed 1
+Cost G 220-35 pop 2
+Iron King HHH
+HP 450
+Atk 15 +21 vs heavy
+Rof 2.0
+Armor 3
+Speed 1.3
+Cost G 300-50 pop 2
+Dread Lord HHH
+HP 800
+Atk 80
+Rof 1.6
+Armor 2
+Speed 1
+Cost G 800-120 pop 4
+High Lord HHH
+HP 1200
+Atk 160
+Rof 1.25
+Armor 4
+Speed 1.2
+Cost G 1500-200 pop 7
+
+Units Beta
+
+Units who cost 1 population (11)
+Newbie
+HP 80
+atk 11
+rof 1.8
+speed 1.2
+cost 32-6
+Special: gain +3 atk vs heavy, -3 atk vs light for 30 seconds
+Samurai HHH
+HP 88
+atk 6 +12 vs light
+rof 1.8
+speed 1.2
+cost 33-6
+Swordman HHH
+HP 100
+atk 10 +12 vs heavy
+rof 1.6
+speed 1.2
+cost 40-7
+Heavy Swordman HHH
+HP 170
+atk 15 
+rof 1.6 armor 1
+speed 1.2
+cost 60-10
+Ninja
+HP 100
+atk 9 +13 vs light
+rof 1.6
+speed 1.7
+cost 50-8
+Novice
+HP 70
+atk 9
+rof 1
+speed 1.2 range 4
+cost 50-8
+Knife thrower
+HP 75
+atk 15 +6 vs light
+rof 0.8
+speed 1.3 range 2
+cost 45-7
+Spearman
+HP 120
+atk 23
+rof 1.3
+speed 1.4
+cost 54-9
+Boar HHH
+HP 130
+atk 12 +22 vs light
+rof 1.3
+speed 1.2
+cost 57-9
+Lion
+HP 130
+atk 9 +18 vs heavy
+rof 1.6
+speed 1.5
+cost 60-10
+Crossbowman HHH
+HP 100
+atk 9 +23 vs heavy
+rof 0.7
+speed 1.0 range 2
+cost 60-10
+
+Units who cost 2 population (13)
+Monk
+HP 220
+atk 18 +24 vs heavy
+rof 1.5
+speed 1.4
+cost 124-18
+Vampire 
+HP 140
+atk 27
+rof 0.8
+speed 1.2 range 4
+cost 135-18
+Special: leech 12%
+Cavalier/Gold Cavalier HHH  
+HP 240/320
+atk 30/50
+rof 1.7 armor 1
+speed 2
+cost 150-20/250-30
+Special: first strike deal double damage
+Special: can upgrade all Cavaliers into gold cavaliers
+Immortal HHH
+HP 340
+atk 20 +35 vs heavy
+rof 1.5 armor 2
+speed 1.2
+cost 210-26
+Special: if hp>1, survive lethal blow
+Mage
+HP 200
+atk 20 +30 vs heavy
+rof 0.9
+speed 1.2 range 4
+cost 240-30
+Special: increase anti heavy damage by 20,
+reduce base damage by 5 for 20 seconds, recharge 80 seconds
+Iron King HHH
+HP 380 
+atk 30 +30 vs light
+rof 1.7 armor 2
+speed 1.2
+cost 260-32
+Blade Guard
+HP 300
+atk 30 +30 vs heavy
+rof 1.6 armor 1
+speed 1.3 range 1.2
+cost 240-30
+Lancer
+HP 230
+atk 15 +30 vs heavy
+rof 1.5 armor 1
+speed 1.2 range 1.4
+cost 130-38
+Beast
+HP 230
+atk 22 +22 vs light
+rof 1.7 armor 1
+speed 1.5
+cost 140-20
+Axe cavalier HHH
+HP 300
+atk 30 +10 vs light
+rof 1.5 armor 1
+speed 1.6
+cost 180-22
+Special: can dismount, changing armor class to light
+Archer
+HP 160
+atk 20 +20 vs light
+rof 0.9
+speed 1.2 range 5
+Special: double range for 10 seconds, recharge 80 seconds
+cost 180-24
+Brave
+HP 300
+atk 36
+rof 1.5
+speed 1.3
+cost 220-28
+Special: first strike deal triple damage
+
+Units who cost 4 population (7)
+Centurion HHH
+HP 900
+atk 80 +15 vs light
+rof 1.6 armor 3
+speed 1.2
+cost 900-90
+Dragon HHH
+HP 900
+atk 60 +60 vs heavy
+rof 1.5 armor 4
+speed 1.2 range 1.4
+cost 900-90
+Special: unit deals +40 dmg vs light for 10 seconds
+Assassin
+HP 900
+atk 75
+rof 1.8 armor 2
+speed 1.5 range 1.3
+cost 900-90
+Sepcial: unit deals +35 damage vs heavy, but loses -0.3 fire rate
+Harpy
+HP 600
+atk 40 +52 vs heavy
+rof 1.7 armor 2
+speed 1.6 range 1.2
+cost 600-70
+Special: unit gain +30 atk, but loses all bonus damage vs heavy for 20 seconds
+Special: unit turn anti heavy dmg into anti light
+Holy priest
+HP 900
+atk 55 +45 vs light
+rof 1.1 armor 3
+speed 1.3 range 5
+cost 800-80
+Special: when fighting foes at less than 1.5 range, gain +50% fire rate
+Golem HHH
+HP 800
+atk 50 +70 vs light
+rof 1.3 armor 5
+speed 1.2 range 1.2
+cost 700-70
+Special: unit turn anti light damage into anti heavy
+Executioner HHH
+HP 750
+atk 90
+rof 1.4 armor 3
+speed 1.3 range 1.5
+cost 750-75
+Special: change unit armor class
+
+Units who cost 8 population (4)
+Great King HHH
+HP 1200
+atk 160
+rof 1.3 armor 5
+speed 1.2  range 1.4
+cost 1500-150
+Special: leech 12%
+Terror HHH
+HP 1300
+atk 100 +70 vs light
+rof 1.6 armor 5
+speed 1.2 range 1.4
+cost 1500-150
+Special: change bonus damage
+Paladin
+HP 1200
+atk 90 +55 vs light
+rof 1.6 armor 5
+speed 1.2 range 1.4
+cost 1500-150
+Special: +30 damage for 10 seconds
+Archmage
+HP 850
+atk 50
+rof 1.1 armor 3
+speed 1.3 range 5
+cost 1500-150
+Special: triple damage but halves range
+
+Commanders
+Crystal
+HP 3000
+atk 165
+rof 1.3 range 6
+
+
+MAYAN CIVITAS
+Resources: Corn, meat, fish, clothes, stone, wood, gold  weapons
+Production: 1/2,  1/2,  3/5,   1/2,    3/5,   3/5,  1/2,   3/5
+
+Buildings:
+---Economy---
+Corn farm: cost 3 W, 3 workers, produce corn. +1 production on fertile land
+Pig farm: cost 3 W, 3 workers, produce meat, +1 production on fertile land
+Cotton farm: cost 3 W, 3 female workers produce clothes, +1 production on fertile land
+Pier: cost 2 W, 2 male workers, produce fish
+Sawmill: cost 2 W, 2 male workers, produce W
+Mine: cost 2 W, 2 male workers, produce stone or gold
+---Military---
+Barrack: cost 6 W 2 S, train soldiers, max 12 each barrack
+Tower: cost 3 W 3 S, defensive structure
+Wall: cost 4 S, defensive fortification
+Palisade: cost 2 W, defensive fortification
+Forge: cost 3 W, 2 male workers, produce weapons using W and S
+---Public services---
+Police station: cost 4 W, 4 male workers, train guardsman
+Market: cost 4 W, 2 workers, serve food and clothes to citizens
+Trade post: cost 3 W, 1 worker, enable trading between distant cities
+Gardens: 1 W
+Trees
+Statues: 1 S
+---Basic---
+House: cost 2 W, give +2 population
+Villa: cost 2 S, give +2 elite population
+Storehouse: cost 7 W 30 G, give +30 slave and act as a drop off point
+Fountain: cost 1 S, serve water locally
+Make/Destroy road
+---Monuments---
+Temple: cost 14 S, 2 workers, enable god's favours spiritual satisfaction
+Accademy: cost 26 S, 4 male workers, enable to research upgrades
+Theather: cost 4 W 14 S, 4 male workers, ludic satisfation
+
+Upgrades:
+Reduce upkeep cost by 50%: 30 W 40 S
+Increase soldiers attack by 20%: 1 G  tier 5
+Town Hall generates 1 G every min: 20 S
+Increase Food production by 20%: 10 W 10 S
+Increase radius of acqueducts and fountains by 20%: 15 S
+Markets generate G equal to number of citizens nearby: 5 G
+
+Cities
+TUTORIAL
+--Tutorial city--
+Start: 30 slaves, 1 stone deposit, +10 corn/meat 20 wood every 2 minutes
+Objectives:
+1) build sawmill, corn farm, pig farm, stone mine, 5 houses
+2) build cotton farm, have less than 10 houses, make sure
+to satifies the needs of all citizens
+3) build police station, extinguish a fire from a building
+4) reach 30 population, have less than 5 disappointed citizens
+TRADE routes
+6 corn for 3 gold
+6 clothes for 3 gold
+
+MISSIONS
+--Cholula--
+Start: 1 Storehouse, 6 houses, 1 corn farm, 1 pig farm, 2 sawmill, 1 mine(S)
+6 Stone deposits, 2 gold deposits, 3 piers, 2 acqueducts, 60 slaves
+Objectives:
+1) get 90 slaves, get 20 houses, build temple
+2) get 10 villas, Achieve Town status, build theater
+TRADE routes
+8 clothes -> 2 gold/4 stone
+3 corn -> 3 clothes
+2 gold -> 8 corn/meat/wood/clothes
+
+--Tipocatl--
+Start: 2 storehouses, 18 houses, 2 corn farm, 2 pig farm, 2 cotton farm,
+3 sawmill, 2 mines(S), 2 markets, 2 trade post, 1 barrack, 1 pier
+4 Stone deposits, 2 piers, 3 acqueducts, 90 slaves
+Objectives:
+1) get 100 slaves, build 2 barracks
+NO Trade
+
+--Guatemala--
+Start: 1 Storehouse, 6 houses, 1 sawmill, 2 pier, 1 market, 2 trade post
+1 gold deposit, 14 piers, 60 slaves, 2 barbarians villages
+neutral N: 50 atk, 18 pop E: 16 atk, 16 pop
+You get +25 corn/meat +35 wood +20 stone +15 clothes every minute
+Objectives:
+1) get 50 population, destroy both barbarian villages
+TRADE routes
+8 clothes -> 2 gold
+
+--Ichitual--
+Start: 2 Storehouses, 8 houses, 2 sawmill, 2 cotton farm, 1 market, 1 mine(S)
+5 Stone deposits 1 gold deposit 90 slaves, 2 barbarian villages
+neutral N: 40 atk, 10 pop E: 10 atk, 30 pop
+You get +10 corn/meat every 2 minutes
+Objectivs:
+1) build a mine of every deposit, destroy all barbarian villages
+TRADE routes
+1 gold -> 12 corn/meat
+4 stone -> 1 gold
+5 clothes -> 10 corn/meat
+
+--Pernanbuco--
+Start: 30 houses, 4 corn farm, 3 pig farm, 3 cotton farm, 2 pier, 4 sawmill,
+6 mine(S), 1 mine(G), 2 markets, 8 fountains, 6 storehouses, 1 temple,
+2 police stations, 11 Stone deposits, 2 gold deposits, 3 pier, 3 acqueducts
+2 Barbarian villages N: 22 atk 22 pop W: 16 atk 22 pop
+You get 10 wood 5 corn/meat every minute
+Objectives:
+1) have 3 police stations, make sure to never fall below 60 population
+2) destroy all barbarian villages
+TRADE routes
+10 corn -> 5 G
+10 meat -> 5 G/10 clothes
+10 wood -> 5 clothes/ 10 stone
+5 G -> 10 stone
+
+--Tampa--
+Start: 6 houses, 2 sawmill, 1 mine(S), 1 corn farm, 1 pig farm, 1 storehouse,
+3 Stone deposits, 1 gold deposits, 3 pier, 1 acqueduct, 60 slaves
+2 barbarian villages N: 48 atk, 40 pop E: 50 atk 18 pop
+Objectives:
+1) destroy all villages
+
+CITY BUILDING
+--Across the river--
+Start: 4 stone deposits, 3 gold deposits, 3 pier, 30 slaves.
+1 barbarian village hostile: 54 atk 36 pop
+TRADE routes
+8 clothes -> 2 gold/8 stone
+
+--Desert--
+Canot build farms or sawmill, but get supplied with resources.
+Start: 2 gold deposits, 60 slaves, 1 storehouse
+Get +20 stone/wood/corn/meat/clothes every minute
+4 barbarian villages, friendly: 16 atk 16 pop
+TRADE routes
+1 gold -> 4 stone/6 wood/8 fish
+8 clothes -> 2 gold
+BARBS:
+3 meat -> 2 wood
+3 corn -> 1 cloth
+2 clothes -> 3 stone
+
+--Inupan--
+There are no minerals, but plenty of trade routes
+Get +10 corn/meat/wood every minute
+Start: 90 slaves, 2 storehouses
+TRADE routes
+8 clothes -> 12 stone/2 gold
+
+--Vast plains--
+A lot of empty land
+Start: 30 slaves, 11 stone, 1 gold, 3 acquedcuts
+No TRADE
+
+--Mirka--
+Small place of lands. 30 slaves, 40 wood
+Start: 4 stone, 2 gold, 2 hostile barbarin villages: 30 atk 30 pop
+No trade
+
+--Island--
+unlimited wood,stone and gold. Cannot build farms.
+Need to trade for food.
+Start: 6 piers, 1 storehouse, 60 slaves
+Get 40 wood/stone and 10 G every minute
+TRADE routes
+1 gold -> 5 corn/clothes
+
+--Tipactl--
+Need to destroy the villages to obtain trade routes for gold.
+Start: 1 storehouse, 60 slaves, 2 stone deposits, 2 piers, 2 acqueducts
+2 barbarian villages, neutral: 16 atk 10 pop
+TRADE routes
+10 clothes -> 5 gold
+10 clothes -> 8 stone
+
+FLORAN CIVITAS
+Resources: Food,Wood,Stone,Gold
+Production   1    5    2     1
+
+Buildings:
+---Economy---
+-Farm: 3 W, 3 workers, produce F, require fertile ground Up
+-Fish Hut: 3 W, 2 workers, produce F, require a pier Up
+-Sawmill: 2 W, 2 workers, produce W, require forest Up
+-Mine: 2 W, 2 workers, produce S or G, require a deposit Up
+-House: 2 W 0.4 G, add +2 population
+-Fountain: 1 S, provide water, require water source
+---Military---
+-Barrack: cost 8 W, train soldiers, max 30 each barrack
+(soldiers cost 0.2 G each)
+-Tower: cost 6 W, defensive structure
+-Wall: cost 2 S, defensive fortification
+-Palisade: cost 2 W, defensive fortification
+-Make/Destroy road
+---Public Services---
+-Market: cost 2 W, 2 workers, serve F to citizens, trade resources
+-Gardens: cost 1 W
+-Trees: plant a tree
+-Statue: place a statue
+-Temple: cost 6 S, 2 workers, enable god's favours
+
+Upgrades:
+Remoev upkeep cost from buildings: 85 W 60 S
+Increase soldiers attack by 50%: 5 G tier 2
+Enable building upgrades: upgrade cost 2 S each, enable +1 worker
+and grant a +20% production bonus
+
+Cities
+TUTORIAL
+--Tutorial city--MAX (200 houses)
+Start: 1 stone deposit, +10 F/W every 2 minutes
+Objectives:
+1) build 2 farms ,sawmill, stone mine, 5 houses
+4) reach 20 population, have less than 4 disappointed citizens
+TRADE routes
+10 F for 1 G
+
+MISSIONS
+--Cholula--MAX (200 houses)
+Start: 12 houses, 4 farms, 3 sawmill, 2 mine(S), 1 market, 1 pier
+4 Stone deposits, 2 gold deposits, 2 piers, 2 acqueducts
+Objectives:
+1) get 20 houses, build temple
+2) build 2 barracks
+TRADE routes
+20 F -> 1 G or 2 S
+1 G -> 20 F or 20 W
+
+--Guatemala--MAX (200 houses)
+Start: 5 houses, 1 sawmill, 2 pier, 1 market
+10 piers, 2 barbarians villages
+neutral N: 50 atk E: 16 atk 
+You get +40 F +35 W +10 S +2 G every minute
+Objectives:
+1) get 50 population
+NO TRADE
+
+--Ichitual--MAX (160 houses)
+Start: 4 houses, 2 sawmill, 1 market, 1 mine(S)
+3 Stone deposits 1 gold deposit 1 barbarian village neutral N: 50 atk
+You get +10 F every minute
+Objectives:
+1) destroy all barbarian villages
+TRADE routes
+1 G -> 12 F
+
+--Pernanbuco--MAX (200 houses)
+Start: 27 houses, 10 farms, 4 sawmill,
+4 mine(S), 1 mine(G), 2 markets, 8 fountains, 1 temple,
+8 Stone deposits, 2 gold deposits, 3 acqueducts
+Barbarian village N: 50 atk
+You get 10 W every minute
+Objectives:
+1) destroy barbarian village, make sure to never fall below 50 population
+TRADE routes
+2 F -> 1 G
+10 W -> 2 F or 4 S
+1 G -> 4 S
+
+CITY BUILDING
+--Across the river--MAX (200 houses)
+Start: 3 stone deposits, 2 gold deposits, 2 pier
+1 barbarian village hostile: 54 atk
+TRADE routes
+5 F -> 1 G or 2 S
+
+--Desert--MAX (100 houses)
+Canot build farms or sawmill, but get supplied with resources.
+Start: 1 gold deposit
+Get +10 S +20 W +20 F every minute
+TRADE routes
+1 G-> 2 S/5 W/5 F
+4 F-> 1 G
+
+--Inupan--MAX (200 houses)
+There are no minerals, but plenty of trade routes.
+Trade routes are available after destroying the barbarian village.
+Barabrian village, neutral: 16 atk
+Get +10 F/W per minute
+TRADE routes
+2 F -> 4 S/1 G
+
+--Vast plains--MAX (420 houses)
+A lot of empty land
+Start: 8 stone deposits, 1 gold, 3 acquedcuts
+2 hostile barbarian villages: 30 atk
+No TRADE
+

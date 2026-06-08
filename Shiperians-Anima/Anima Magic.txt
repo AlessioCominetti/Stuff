@@ -1,0 +1,423 @@
+THE 12 SCHOOLS OF MAGIC
+
+GENERIC
+-Imbue: imbue a weapon with magic, effect depends on magic and weapon
+-Silence: prevent an enemy to cast magic for a few turns
+
+FIRE
+Spells 28
+-Fireball: simple and basic fire magic
+-Firebolt: advanced fire projectile with extra range
+-Hot Hands:increase the temperature of your hands, to deal fire damage
+-Ignite: rapidly increase the temperature of an object,
+cuasing it to explode
+-Flame pillar:
+-Elfire:
+-Eruption:
+-Meteor: summon a blazing rock from the skies, great range,
+damage and splash radius
+-Flare:
+-Fire storm:
+-Magical Blaze:
+-Hellfire:
+-Banish:
+-Fjala Flame:
+-Holy fire:
+-Combustion:
+-Fire breath:
+-Blazing Nova: fire nuke spell
+-Friendly Fire spirit: summon a spirit that attack with fire
+-Fire shield: summon a shield that set on fire foes who attack
+the shielded unit
+-Fire wall: summon fire pillars that block the passage of enemies
+-Fire mine: generate a magical mine imbue with fire
+-Immolation: sacrifice unit to perform a kamikaze attack
+-Fire well: cast 3-6 fireballs with a homing effect
+-Berserk: become under a state of trance, increase damage dealt
+by 50%, but unit goes out of control, potentially attacking allies
+-Temper Tantrum: increase damage dealt by 70%, bonus decrease by 10%
+every turn, status cannot be applied more than once per battle.
+-Ascension(Anima only): become a being of pure fire, getting
+healed by fire attacks, taking no damage from physical attacks
+and taking damage by water and ice attacks. Unit depletes Mana faster
+and become normal once mana reaches zero
+-Magma Golem: summon a magma golem
+Passive 7
+-Heated strike: when a unit temperature goes too high, slow down.
+The higher the temperature, the greater the slow down (both movement
+and attack rate)
+-On fire: each fire attack has a chance to inflict the burning status
+-Purification: automatically remove negative status effects,but unit
+loses 5% HP when purifying itself
+-Phoenix: automatically resurrect with 50% of Max HP is unit temperature
+is above 120 C°
+-Mana burn: burning status also reduces MP
+-Fire aura: deal fire damage around unit every few seconds
+-Embers: fire spells who cause an explosion leave hot embers that
+stay on the ground, they inflict fire damage to units who
+step on them
+-Magma Dweller: unit moves freely on lava
+-Fast Metabolism: unit gets healed and take poison
+damage twice as fast
+-Burning Blood: unit deal +1% damage for each 1% HP missing( up to +50%)
+-Armor melter: enemy's physical and elemental armor
+decreases at high temperature
+
+ICE
+Spells 20
+-Ice lance: throw a projectile made of ice
+-Ice wall: 
+-Freeze mine:
+-Ice golem:
+-Frost Blast:
+-Chill touch:
+-Freezing breath:
+-Frost Nove: ice nuke
+-Tundra:
+-Hail:
+-Glacial spike:
+-Ice conjuring: use MP to conjure a powerful but frail ice weapon
+or a sturdy but heavy ice armor equipment
+-Absolute Zero:
+-Skadia:
+-Fimbulvert:
+-Ice shield:
+-Ice Mirror:
+-Cryoquake:
+-Ice Spirit:
+-Ascension(Anima only): become a being of pure cold, getting
+healed by ice and dark attacks, taking no damage from physical attacks
+and taking damage by fire and toxic attacks. Unit depletes Mana faster
+and become normal once mana reaches zero
+Passive 9
+-Chilling: each ice attack reduces the temperature of the target
+-Cold blood: unit regen HP when temeprature is below 40 C°
+-cold aura: enemies nearby take ice damage
+-Freezing Artist: each attack has a chance to freeze the target
+-Permafrost: reduce enemy's likelihood to restore his temperature
+-Frostbite: if enemy's temperature is lowe enough, start
+taking true damage and reduce Max HP every turn
+-Ice Walker: unit can move freely on ice and snow,
+can freeze bodies of water to walk above them
+-Slow Metabolism: unit is healed and take poison damage
+twice as slow
+-Perfect Isolation: unit's speed, attack rate and HP/MP regen
+increase the lower the temperature is 
+
+WIND
+Spells 16
+-Gust: simple puff of wind, gently pushes target
+-Wind Blade: a sharp blade of compressed air, high critical rate,
+deal physical slashing damage
+-Wind shield: conjure a shield to a unit. It wil greatly decreased
+the likelihood of being hit by ranged attacks, both physical
+and elemental (except thunder)
+-Cyclone: powerful wind magic, deal true damage
+-Tornado:
+-Elwind:
+-Wind Spirit:
+-Dust Golem:
+-Wind Barrier:
+-Windy Breathe:
+-Storm Nova: compressed wind nuke
+-Wind Mine: compressed air stored into a mine causes the
+target to be catapulted far away
+-Storm cutter: a sharp wind blade with homing capabilities
+-Vacuum Collapse: remove air from a place, causing
+confusion and suffocation for a brief moment
+-Accelleration: greatly boost a unit movement speed for 10 seconds
+-Ascension:
+Passive 9
+-Feather Fall: reduce the speed of falling
+-Concurrecny: increase MP regen when standing between zone
+or enemies with a great gap of temperature
+-Open Plains: +30% crit rate when unit is fighting on plains
+-Tail Wind: increase movement speed according to user's current MP
+-Second Wind: survive one lethal hit once per battle
+-Sky whispers: enable long distance comunication
+-Sky Cloud: enable unit to fly high, with a MP cost
+-Wind disciple: +1 hit/avoid for each 1% missing HP (max 30)
+-Wind aura: increase dodge and speed of allies nearby
+
+THUNDER
+Spells 19
+-Shock:
+-Thunderbolt:
+-Thunderstrike:
+-Charge: next attack will deal +100% damage
+-Bolt Mine:
+-Thunder golem:
+-Electric Fence:
+-Electric Shield:
+-Elthunder:
+-Thunderstorm:
+-Spark breathe:
+-Voltaic Nova:
+-Electric Surge: weak thunder attack, which deal splash damage,
+but heals all thunder units nearby and applies charge
+-Magnetize: steal a weapon or equipment from the target's inventory
+-Voltaic blast:
+-Echo: when hit by a spell, automatically cast said
+spell using half of the spell's MP cost and dealing only 75%
+of the original spell's power.
+-Electric barrier: block all magical attacks using a shield.
+If shield is destroyed, don't carry over the damage to the user.
+-Voltaic Spirit:
+-Ascension:
+Passive 8
+-Ampere's law: thunder attacks raises target's temperature,
+dealing with fire magic effects
+-Galvanize: unit turn thunder dmaag taken into HP and MP restoration
+-Hyperactive: if unit's MP is full, grant extreme HP regeneration
+and and great movement and attack boost
+-Static field: thunder attacks leaves a static fields, dealing
+tickle thunder damage to foes present inside it
+-Overcharge: overkill damage is redirected to the closest enemy
+-Dire Thunder: double the number of attacks of all thunder spells
+-Overpower: increase damage dealt over time, but also lose
+HP over time. Effect can be toggled on and off
+-Voltaic aura: enemies nearby take thunder damage
+
+EARTH
+Spells 19
+-Stone hands:
+-Boulder toss:
+-Rock armor:
+-Stalagmite:
+-Mud trap:
+-Tremor:
+-Earthquake:
+-Stone Rain:
+-Gaia's curse:
+-Rock wall:
+-Sand trap:
+-Stone golem:
+-Sandy breathe:
+-Petra Nova:
+-Landslide:
+-Petrify:
+-Seismic Calamity:
+-Earth Spirit:
+-Ascension:
+Passive 5
+-Stone body: take half damage from slash and pierce attacks
+-Tireless: unit cannot be tired
+-Climber: unit can move freely on mountains and ravines
+-Amalgama: increase armor bonuses
+-Gaia's aura: enemies nearby gets progressively tired
+
+WATER
+Spell 18
+-Water Jet:
+-Bubble Shield:
+-Soak:
+-Healing Blast:
+-Misty Veil:
+-Tsunami:
+-Rain of Renewal:
+-Water Cage:
+-Piercing Jet:
+-Geyser:
+-Acid bubble:
+-Vapor Golem:
+-Hot Spit:
+-Agua Nova:
+-Geyser Mine:
+-Water Wall:
+-Water Spirit:
+-Ascension:
+Passive 6
+-Gills: unit can breathe underwater
+-Swimmer: unit can traverse freely inside bodies of water
+and swmapy, slimy zones
+-Fast metabolism:
+-Water Affinity: unit regen HP and MP when soaked or underwater
+and grants a speed boost
+-Calm Mind: unit is less likely to be affected by fear
+or other mind statuses
+-Healing aura: heal nearby allies every second
+
+TOXIC
+Spells 18
+-Irradiate: unleash powerful gamma radiation on the target
+-Blue light: cause a powerful light which blinds
+and causes various negative statuses, with a high
+chance to inflict doom
+-Contamination: infect viruses and nasty curse on an item,
+causing the unit who will take the item to get the same
+bad statuses
+-Acid shield:
+-Uranium Golem:
+-Acid wall:
+-Tallio mine:
+-Acid Nova:
+-Vomit:
+-Acid rain:
+-Controlled mutation:
+-Toxic Cloud:
+-Radiating spirit:
+-Nuclear Fission:
+-Unstable Singularity:
+-Isotopic Wake: turns corpses into toxic zombies
+-Gamma bombardement: unleash gamma waves on a zone
+-Ascension:
+Passive 7
+-Undead: unit is immune form many status effects, but takes
+bonus damage from anti undead weapons and less damage
+from physical weapons
+-Flammable:
+-Accellerated Decay(toxic aura): units nearby slowly wither away
+-Soft body: unit take -60% pierce damage, but +30%
+from slash and crush damage
+-Unstable power: 25% chance to deal double/triple/quadruple damage
+but also a 25% chance to deal half damage
+-Acid aura: units nearby lose their armor but by bit
+-Reverse Metabolism: gets healed by poison and other Dot,
+take damage from healing items
+
+LIGHT
+Spell 20
+-Divine Divide:
+-Contrition: deal damage equal to target's Def*3
+-Blinding Light:
+-Torch Up:
+-Light Shield:
+-Solid Light Golem:
+-Shine Mine:
+-Light Wall:
+-Light Spirit:
+-Purify:
+-Focus Laser:
+-Judgement:
+-Lux Nova:
+-Healing shispers:
+-Arcane Prism:
+-Photon Barrier:
+-Sun strike:
+-Allucination:
+-Blees:improve an ally's attack, dodge, hit rate and armor briefly
+-Ascension:
+Passive 3
+-Holy: deal bonus damage vs monsters and undeads
+-Prediction: increase vision in fog and night,
+increase likelihood to predict events correctly
+-Holy aura: deal damage to undead/monsters nearby periodically
+
+DARK
+Spell 29
+-Flux:
+-Drain Life:
+-Verrine:
+-Shadowbolt:
+-Eclipse:
+-Luna:
+-Curse: effect varies
+-Whispers from the dark:
+-Dark fog:
+-Spectral knife:
+-Grasping void:
+-Vampiric Mine:
+-Haunted Mine:
+-Cursed Wall:
+-Dark Nova:
+-Decaying breathe:
+-Dark spirit:
+-Necromancy: summon undead from a specified list
+-Bolt out: create a zone of temporary darkness
+-Dark chains/Gleipnir:
+-Eldritch curse:
+-Death/Oblivion:
+-Gravisurge:
+-Ascension:
+-Fear/Fright:
+-Possession:
+-Grim Reaper:
+-Body transformation:
+-Bug Swarm:
+Passive 5
+-Slow metabolism:
+-Dark barrier: take half damage from all but light attacks
+-Vampirism: each melee attack restore 50% of damage dealt as HP
+and 25% as MP
+-Dark Eyes: better vision in fog and night
+-Vampiric aura: passively drain HP and MP from nearby enemies
+
+SOUND
+Spell 17
+-Refresh:
+-Sound Wave
+-Sonic Boom
+-Sleep:
+-Stunnin Reef:
+-Speed up:
+-Amplify damage:
+-CriticalSong:
+-Shriek:
+-Sonic Nova:
+-Fuga:
+-Charm:
+-Elemental song:
+-Musical Shield:
+-Acoustic Mine:
+-Musical Spirit:
+-Ascension:
+Passive 2
+-Inspiring tune:
+-musical aura: boost morale
+
+PLANT
+Spell 19
+-Root Trap:
+-Leaf whirlwind:
+-Wood conjuring:
+-Parasitic Seed:
+-Petal Dance:
+-Summon a plant:
+-Pollen:
+-Vines shield:
+-Spikeweed Wall:
+-Thorn Trap:
+-Leaf Spirit:
+-Edera Golem:
+-Pollen breath:
+-Vine Nova:
+-Pitfall:
+-Spring of Life:
+-World Tree:
+-Gaia's Fury:
+-Ascension:
+Passive 7
+-Balanced Aura: heal allies and poison enemies nearby
+-Fast Metabolism:
+-Soft Body:
+-Floran:
+-Symbiosis: increase HP and MP when standing close to
+other living beings
+-Tree climber: unit moves freely in forests and jungles
+-Poison lynf: each attack inflict poison
+
+METAL
+Spells 18
+-Metal Morphosis: shape this unit and any metal object in
+various and different ways
+-Metal conjuring:
+-Metal Wall:
+-Iron Golem:
+-Metal Spirit:
+-Sharp Mine:
+-Iron Barrier:
+-Sharpening:
+-Rust:
+-Rusty breath:
+-Magnetic Nova:
+-Blade rain:
+-Engulf: use the unit body to drown an enemy in metal
+-Magnetyze:
+-Geo Magnetic Storm:
+-Shatter:
+-Aurification/Midas Touch:
+-Ascension:
+Passive 3
+-Iron Skin:
+-Amalgama:
+-Sharp aura: increase crit

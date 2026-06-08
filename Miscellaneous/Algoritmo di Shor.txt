@@ -1,0 +1,22 @@
+Sappiamo già che 15 = 3 × 5, ma vediamo come l’algoritmo di Shor lo scoprirebbe.
+
+🧮 Passaggi principali dell’algoritmo di Shor
+
+Scegli un numero a < 15 che sia coprimo con 15. Supponiamo di scegliere a = 2.
+
+Trova il periodo r della funzione 
+𝑓(𝑥)=𝑎𝑥 mod 𝑁, cioè 𝑓(𝑥)=2𝑥 mod15
+
+Calcoliamo:
+2 alla 1 mod 15 = 2
+2 alla 2 mod 15 = 4
+2 alla 3 mod 15 = 8
+2 alla 4 mod 15 = 1
+Quindi il periodo r = 4.
+
+Verifica che r sia pari (lo è) e calcola:
+
+gcd(2𝑟/2−1,15)=gcd⁡(2alla2−1,15)=gcd⁡(3,15)=3 
+gcd⁡(2𝑟/2+1,15)=gcd⁡(2alla2+1,15)=gcd⁡(5,15)=5
+
+🎉 Abbiamo trovato i fattori primi: 3 e 5!

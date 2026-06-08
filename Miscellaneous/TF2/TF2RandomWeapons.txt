@@ -1,0 +1,1286 @@
+Medigun for the Medic
++  +60% melee damage resistance
++  medic and healing target get +15% speed boost
++  backstab deal only half of the user's max health as damage
+
+-  if healing the same target for more than 7 seconds, target is marked for death for each second above 7
+-  -50% explosion resistance
+
+Shotgun Engineer
++  target bleeds for 6 seconds
+
+-  marked for death when equipped
+-  only three pellets per shot
+
+Shovel Soldier
++ +50% speed boost for 10 seconds on kill
+
+- marked for death while equipped
+- 3 health drain while equipped
+
+Watch Spy
++  +40% melee resistance
+
+-  -70% explosion resistance
+
+Banner Soldier
+rage fills whit damage done.
+Once filled, allies and soldier +70% fire resistance, +30% ranged resistance
++20% movement speed for 15 seconds
+
+- -50% healing
+
+Shotgun Pyro
++  on hit, bleed for 7 seconds
+
+-  on miss, bleed for 7 seconds
+
+Sandwich Heavy
+afterburn immunity for 10 seconds, +3 seconds of immunity to damage while eating
+once effect is over, marked for death for 3 seconds
+
+Bow Sniper
++  +8 arrows
++  +70% firing speed
+
+-  -80 damage
+-  -33% explosive resistance
+
+Rifle Sniper
++  on hit, targey is marked for death for 10 seconds
++  +75% fire damage resistance
+
+-  -1 hp drained per seconds while equipped
+
+Smg Sniper
++  target is stunned for 0.2 second per hit
++  +50 ammo
+
+- marked for death while active
+
+Knife Scout
++  on kill, 3 seconds of crit boost
+
+-  -1 max jumps
+
+Medigun Medic
++  +50% ranged resistance
+
+-  ubercharge is drained while medic isn't healing
+
+Bow Sniper
++ 25 max hp
++ +30% speed boost for 10 seconds upon kill
+
+-  -20% speed
+-  on miss, take 40 damage
+
+Revolver Spy
++ +35% speed
++ +0.5% speed for each %hp lost
+
+-  -2 hp drained per second while equipped
+-  -10% damage
+
+Flare Pyro
++ target is slowed on hit for 10 seconds
+
+- -75% damage (deals only 10)
+
+Sandwich Heavy
++20% damage resistance and knockback immunity for 8 seconds
+recharge 40 seconds
+
+Laser Pointer Engineer
++ +1 extra jump
++ sentry heals by 10 hp per seconds while controlled
++ +25 max hp
+
+-  -50% fire resistance
+
+Shotgun Soldier
++ +75% fire speed
+
+- -20% move speed
+- -50% max hp
+- no random crits
+
+Bow Sniper
++ on kill, gain one extra arrow
++ +4 arrows
+
+- -33% speed
+
+Minigun Heavy
++ on kill, +40% speed boost while revved for 10 seconds
++ +50% rev speed
+
+- no random crits
+- -25 max hp
+
+Pistol Engineer
++  32 ammo
++  on hit, target bleed for 7 seconds
+
+-  on miss, -30% speed, disappear when hitting an enemy
+-  marked for death while equipped
+
+Sapper Spy
++ +25 max hp
++ before destruction, convert enemy building for 10 seconds
+
+- sapper needs three seconds before activating
+- -70% durability
+- -30% building drain
+
+Shotgun Scout
++ +15% bullet resistance
++ +35% damage while attacking the same enemy consecutively
+
+- only three pellets per shot
+- -50% firing speed
+
+Drink Scout
++ heal for 60 hp in 6 seconds
+recharge 20 seconds
+
+Pistol Scout
++ on hit, heal for 15
++ +33% speed
+
+- -25 max hp
+
+Rocket Soldier
++ on kill, +10 hp
++ +8 ammo
+
+- -33% bullet resistance
+
+Grenade Demo
++ on hit, heal 10
++ +8 ammo
++ 70% projectile speed
+
+- -1 hp drained per second while equipped
+
+Minigun Heavy
++ 50% speed
++ 25% max overheal
+
+- -50% ammo from boxes
+- no random crits
+- -25% firing speed
+
+Knife Spy
++ double cloak time
++ on hit apply jarate and slow for 60 seconds
+
+- -90% damage
+- no ammo from boxes
+
+Wrench Engineer
++ 100% ammo and metal from ammo boxes
++ can create a toxic gas coud that deals 85 damage for 10 seconds for second
+
+- -20% move speed
+- -20% bullet resistance
+
+Melee Sniper
++15% speed
++25 max hp
+
+- dies after 50 seconds
+- no random crits
+
+Shotgun Scout
++ on hit, heal 4
+
+- no random crits
+- 25 max hp
+
+Syringe Medic
++100 max hp
++ slow on hit for 5 seconds
+
+- cannot use ammo boxes
+- incredible 90% damage falloff
+- no overheal
+
+Melee Scout
++2 extra jumps
++15% speed
+
+-cannot be healed
+-75% ammo from amo boxes
+
+Sapper Spy
++when destroyed, effect last 1 second longer
+
+-must recharge for 5 second upon use
+
+Medigun for Medic
++ increase speed by 10% to medic and patient while medic heals
++ +33% overheal
+
+- -10% speed while not healing
+- -30% ranged vulnerability
+- overheal decreased 33% faster
+
+Knife Spy
++ +50% melee damage resistence while equipped
++ on kill: gain 3 seconds of crit boost
+
+- -3 health per second drained while equipped, health drain can kill
+
+Flamthrower for Pyro
++ restores 2 health per hit
++ 100% max ammo
++ 30% move speed while equipped
+
+- no random crits
+- -65% ranged vulnerability
+
+Backpack for Soldier
++ Buff: +33% damage and minicrits for 10 seconds: Need 300 rage
+
+- criticals become mini crits
+- -150% fire vulnerability
+
+Watch for Spy
++ cloak type: feign death
++ +30% damage resistance while cloaked
+
+- no cloack from boxes
+- -67% damage resistenace while un cloacked
+
+Shotgun for Heavy
++ +33% bullet resistance whil equipped
++ +15% crit rate
+
+- move speed decreases while user becomes injuried, even when holstered
+
+Shotgun for Soldier
++ +30% accuracy
++ target is slowed on hit for 3 seconds
++ +100% healing from medic
+
+- 1 health drain per second
+- -67% damage
+- no random crits
+
+Sandwich for Heavy
++ when consumed, +8 seconds of minicrits, +20% knockback resistance
++ +50% damage resistance while eating
+
+
+Shotgun for Scout
++ on hit set fire for 8 seconds
++ can be placed on the ground to heal an ally for 45 hp
+
+- no random crits
+
+Flamethrower for Pyro
++ +25% damage
++ +15% explosion resistance
+
+- no random crits
+
+Knife for Spy
++ +1 max jump
++ +50 max hp
++ on hit, bleed for 4 seconds
+
+- -60% speed
+- no random crits
+
+Saw for Medic
++ +10% max hp
++ on hit, bleed for 6 seconds
++ while healing, obtain patient speed
+
+- -55% fire vulnerability
+- -15% jump height
+
+Revolver for Spy
++ +100% firing speed
++ heal by 5 hp per second while underwater
+
+- -40 max hp
+
+Pipe launcher for Demo
++ on hit, ignite for 5 seconds
++ +100 max hp
++ heal 5 hp per sec while hunderwater
+
+- no random crits
+- cannot jump
+- -25% firing speed
+
+SHARK STEAK rocket for Soldier
++ on hit, apply slow for 60 seconds
++ +1 max jump
++ when backstabbed, sacrifice 4 ammo to deflect it
+
+- -100% overheal
+
+Shotgun for Engineer
++ +100% metal capacity
++ +100% ammo from ammo boxes
+
+- no random crits
+- -20% overheal
+
+Watch for Spy
++ +30% gun damage
++ after destroying a building, instantly recharge your gun
++ +50% ammo capacity for gun
+
+- -70% damage falloff
+- while dealing a crit, become marked for death for 10 seconds
+- recharging gun is 25% slower
+
+Jhonny's Bad Bat    shovel for Soldier
++ +140 max hp
++ charge a meter that when active, gives ubercharge for 40 seconds
+
+- -25% ammo for guns, rockets
+- -50% ammo from boxes
+- no overheal
+
+PAIN BRINGING BELT OF ETERNAL SUFFERING  pipe launcher for Demo
++ on hit, gives 3 seconds of uber
++ +80% damage
++ -80% weapon switch time
+
+- -60% movement speed
+- no random crits
+- projectile is 80% heavier, so, it falls harder
+
+BIG BLASTER
+
+JHONNY'S ANNIHILATOR
+
+HOLY GRENADE
+
+REVERSE EXPLODER
+
+BABUSHKA BOOTIES
+
+OILY HAIRY FISTS
+
+SILVER TOASTER
+
+BANDIT BOOTIES
+
+SHARK SAWTOOTH SHARD SWORD
+
+BEADED BEARDED BARE BEAR BUFFALO BILL BOUNTY BAD BELTER
+
+BREAKNECK BELTER
+
+SILVER RIPTIDE
+
+SLICK SLICER
+
+FRENCHIE TIMEPIECE smg for Sniper
++ +35% movement speed
++ healing charges your meter, which gives crits for 20 seconds (200 bar)
+
+- -60% damage
+- -50% firing speed
+- no random crits
+
+axe for Pyro
++ 45% damage (65-> 94)
++ can charge every 12 seconds
+
+- no random crits
+- -60% melee resistance
+
+Sniper rifle for Sniper
++ on hit, douse target in Mad milk
++ +25% charge and fire rate
+
+- -25 max hp
+- cannot shoot while unscoped
+
+Rocket for Soldier
++ +75% self inflicted damage resistance
+
+- -25 max hp
+- -35% damage to buildings
+
+Shield for Demo
++ +50% healing on user
++ 20 max hp
++ on hit: douse enemy in jarate
+
+- -100% explosion resistence
+- -60% movement speed
+
+Flare for Pyro
++ regen 1 hp per second, even when holstered
++ +50% damage to buildings
++ +25% fire resistence
+
+- -30% jump heigth
+- -15 max hp
+- -50% bleed resistence
+
+Rocket for Soldier
++ rocket travels 30% faster
++ crits on airborne, stunned, doused or bleeding players
++ on kill: add 2 rockets to clip size
++ reload full clip at once
++ +2 rockets in clip
+
+- no ammo pool, user start with 6 rockets in clip
+- each ammo box restore 2 rocket
+
+Revolver for Spy
++ +25 max hp, even when holstered
++ on hit: crits for 3 seconds
++ does crits when dealing mini crits
+
+- -20% movement speed
+
+Knife for Spy
++ on hit, restore user to full health
++ regen 3 hp per second
+
+- -25 max hp
+
+Medigun for Medic
++ +50% charge rate
++ Ubercharge: mini crit boost for 20 seconds
+
+Syringe gun for Medic
++ regen +1 hp
++ +25 max hp, even when holstered
+
+- on kill: stop regen for 6 seconds, doesn't stack up
+
+Shotgun for Scout
++ 35% arrow resistence
++ 100% jump height
+
+- -65% movement speed
+- -25 max hp
+
+Styckybomb for Demo
++ +10 max hp
++ +2 stickies on clip size
+
+- -80% projectile speed
+
+Styckybomb for Demo
++ regen 3 hp per second, even when holstered
++ 55% fire rate
++ crits crit boosted players
+
+- only one sticky in the clip size
+- +1.0 arming time
+- -25% fire resistence
+
+Wrench for Engineer
++ on hit: do minicrits for 5 seconds
++ regen 1 hp per second
++ +10 max hp
+
+- -35% movement speed
+
+Wrench for Engi
++ +1 extra jump
++ on hit: great knockback
+
+- -15% swing speed
+
+Axe for Pyro
++ mini crits on overhealed players
++ regen 4 hp per seconds, even when holstered
+
+- -25 max hp
+- -80% movement speed after switching weapon for 3 seconds
+
+Pistol for Engi
++ cannot take crits or mini crits
++ on hit: slow down for 5 seconds
+
+- -50% clip size
+
+Flare for Pyro
++ +50% fire resistence
++ regen 2 hp per second
++ on hit: slow down for 5 seconds
+
+- -70% damage (30 -> 9)
+
+Axe for Pyro
++ regen 1 hp per second
++ crits crit boosted players
+
+- -50 max hp
+- -60% swing speed
+- -50% bullet resistence
+
+Pistol for Scout and Engi
++ +90% explosion resistence when holstered
+
+- -15 max hp even when not holstered
+
+Saw for Medic
++ regen +4 hp
++ on kill: heal by 100
+
+- -10% damage
+
+Sword for Demo
++ +40 max hp, even when not holstered
+
+- no random crits
+- -25% damage
+
+Pistol for Scout
++ +60% fire rate
+
+- -50 max hp
+
+Bottle for Demo
++ on hit, heal by 12
+
+- -15 max hp
+- -80% melee range
+
+Pistol for Scout
++ on hit: douse in Jarate
++ stealth: when equipped, take 80% less damage by Sniper's rifles and bows
++ regen 3 hp per second
+
+- +50% switch time
+- -70% bullet resistence
+
+Bow for Sniper
++ regen 5 hp per second
++ +70% fire rate
++ +25% fire resistence
+
+- +100% switch time
+- -25 max hp
+
+Rifle for Sniper
++ +100% charge rate
+
+- cannot shoot while unscoped
+
+Revolver for Spy
++ +70% clip size
+
+- +50% cloack consumption
+
+Rifle for Sniper
++ on hit: ignite for 15 seconds
++ +50% fire resistence
+
+- -60% bullet resistence
+- -20% damage
+
+Pistol for Scout and Engi
++ +1 extra jump
++ +50 max hp
+
+- -60% clip size
+- -25% reserve ammo
+- -50% melee resistence
+
+StickyBomb for Demo
++ 15 max stickies
++ -0.7 second arming time
++ +25 max hp
+
+- -100% fire resistence
+
+Smg for Sniper
++ on kill: Uber for 2 seconds
++ crits whenever it mini crits
++ +10 max hp
+
+- -65% melee resistence
+
+Medigun for Medic
++ Ubercharge: Healing in area of 2000 hammer units for 13 seconds
++ +1 extra jump
++ +50% extra overheal
++ +75% movement speed while deployed
+
+- -80% melee resistence
+
+Minigun for Heavy
++ +100% healing from health kits
++ on kill: heal by 50% of user health
++ +60% spin up speed
++ +2 extra jumps
+
+- -50% bullet resistence
+
+Flare for Pyro
++ minicrits on bleed, milk, water, jarate targets
++ +100% blast radius
+
+- drain hp while deployed, -5 hp per seconds, min 75 hp
+
+Pistol for Scout and Engi
++ +1 extra jump
++ crits on stunned or slowed targets
+
+- -50% fire resistence
+
+Rocket for Soldier
++ +50% self damage resistence
++ on kill: all weapons are reloaded, ammo taken from reserves
++ fall damage immunity
++ +20% movement speed while equipped
+
+- -20 max hp
+- -100% explosion resistence
+- -50% firing speed
+
+Stickybomb for Demo
++ on hit: 10 seconds of slow down
++ +30% damage when hp<50%
+
+- only 10 stickiys in the clip
+
+Revolver for Spy
++ minicrits on ablaze targets
++ +15% reload speed
++ +25% fire rate
+
+- -20% damage
+- -8 reserve ammo
+
+Rifle for Sniper
++ +1 ammo every 5 seconds, while equipped
+
+- +50% switch speed
+- -20% ammo
+
+Pistol for Scout and Engi
++ 15% reload speed
++ 15% fire rate
+
+- -10% damage
+
+Backpack for Heavy
++ regen 5 per second
+
+- -20% overheal
+
+Knife for Spy
++ +25 max hp
++ on hit: bleed for 10 seconds
+
+- cloack drains 20% faster
+
+Milk for Pyro
++ when thrown, enemies cannot attack for 3 seconds
+recharge 20 seconds
+
+- after thrown, -20% fire rate for 3 seconds
+
+Sword for Demo
++ +25% damage when hp<50%
+
+- whne deployed, -5 hp per second until reach 50% hp
+
+Smg for Sniper
++ heal equal to 25% of damage dealt
+
+- no overheal
+- cannot be healed by Medics, dispensers or health pack
+
+Bonesaw for Medic
++ on kill: heal allies by 15% of target max hp
+
+- on kill: cannot move for 2 seconds
+
+Fists for Heavy
++ allies take 25% less damage, in range of 1000 hammer units
++ on kill: heal allies by 15% of target max hp
+
+- cannot be healed or overhealed by medics, dispenser or health packs
+
+Rocket for Soldier
++ heal by 25% of damage dealt
+
+- -5 hp per second when hp>50%
+
+Kurki for Sniper
++ on kill: 10 seconds of crit
++ +25% damage when hp<50%
+
+- while equipped, -5 hp per second when hp>40%
+
+Cursed bottle for Demo
++ overheal doesn't decay
+
+- +400% deploy and switch speed
+
+Smg for Sniper
++ +25% bullet resistence
+
+- -10% damage
+
+Sandwich for heavy
++ after consumption, regen 5 hp per second for 40 seconds
+recharge 40 seconds
+
+Minigun for Heavy
++ +25% damage when hp<50%
+
+- -25% fire resistence
+
+Pistol for Engi
++ on kill: reload 50% of clip instantly
++ regen 5 hp per second while equipped
+
+- -15% clip size (10)
+- buildings +20% cost
+
+Fist for Heavy
++ +60% ammo for guns
++ on hit: makes target unable to switch weapon for 12 seconds
+
+- on miss: cannot attack for 1 second
+
+Smg for Sniper
++ regen up to 6 hp while not taking damage
++ less falloff damage
++ +13% damage
+
+- -25% fire rate after firing for more than 5 seconds
+
+Melee for Soldier
++ first hit will attacch enemy to you
+noth won't be able to move away from each other
++ +50% ammo on guns
+
+- -10% movement speed
+
+Melee for Heavy
++ can see enemy Hp
++ +15% movement speed
+
+- -20% overheal
+- no random crits
+- -25% damage when not attacking from behind
+
+Shotgun for Scout
+- on hit: slow down by 20% for 3 seconds and target cannot swicth weapon for 5 seconds
+
+- -20% reload speed
+- -25 max hp
+- -10% damage
+
+Revolver for Spy
++ less falloff damage
++ minicrits when attacking from behind
+
+- no random crits
+- on miss: annot move for 2 seconds
+
+Melee for Scout
++ immune from debuffs
++ +10% movement speed
+
+- -10% damage
+- -10% swing speed
+- cannot crit or mini crit
+
+Shotgun for Scout
++ if all pellets connect, deal 30% more damage and bleed
+
+- if not all pellets connect, -10% damage
+- -33% bullet spread
+- -33% accuracy
+
+Knife for Spy
++ on hit: if not a back stab, enemy is stunned for 3 seconds
++ 100% cloak duration
+
+- -100 max hp
+- -10% swing speed
+
+Wrench for Engi
++ when hitting an enemy building, revert it to a lower level version of itself
++ minicrits when attacking from behind
+
+- no randm crits
+- -20% damage when not attacking from behind
+
+Syringe for Medic
++ 50 ammo reserve
++ 25 max hp
+
+- -40% overheal
+
+Sandwich for Heavy
++ when eaten, +30% speed for 30 seconds
+recharge 30 seconds
+- 40% overheal
+
+Medigun for Medic
+Ubercharge: invisibility for 10 seconds
++ +25 max hp
++ +10% movement speed
++ regen +3 hp per second
+
+- 50 ammo for syringe
+
+Drink for Scout
++ all attacks cause additional mini explosion for 10 second, regen 3 hp per second
+recharge 20 seconds
+
+Shotgun for Scout
++ +25 max hp
++ +10% movement speed
+
+- -2 hp per second after not healing or killing an enemy for 30 seconds
+
+Molotov cokctail for Scout
+fire damage 50 blast 150
+
+Rocket for Soldier
++  on hit: enemy cannot switch or reload weapon for 5 seconds, also, apply bleed for 10 seconds
++ projectile doesn't explode, but it bounches on hit several times,
+when hitting a surface, it explodes
++ +80 max hp
++ +100% ammo reserve
++ +25% ammo reserve for shotgun
+
+- -90% damage
+- cannot crit
+- if not dealing damage for more than 20 seconds, -33% fire rate for 4 seconds
+
+
+Rocket for Soldier
++ 33% damage
++ 25% movement speed while equipped
+
+- +50% switch time
+- -25% clip size
+
+Rocket for Soldier
++ +20 max hp
++ on hit: apply slow down 20% for 3 seconds
++ +50% ammo reserve
+
+- no random crits
+
+Backpack for soldier
++ +60 max hp
++ +100% healing from Maedic
+
+- -33% overheal (caps at 350)
+
+Melee for Soldier
++ +15% damage (65->75)
++ +10% movement speed
++ on hit: apply slow down on enemy 15% for 3 seconds
+
+- honourbound: marked for death for 20 seconds
+- -30% ammo on all guns
+
+Flamethrower for Pyro
++ flames linger for 2 more seconds
++ on hit teammate: +65% fire rate to both for 4 seconds
+
+- -60% ammo on all guns
+
+Melee for Pyro
++ +50 max hp
+
+- on miss: move 12% slower for 4 seconds
+- while equipped, marked for death
+
+Backpack for Demo
++ +100% ammo for pipes
++ regen 3 hp per second
++ +20% speed for 3 second after jumping every 5 seconds
+
+- -50% healing from medic
+- -20% speed if not jumping in 10 seconds
+
+Booties for Demo
++ +25 max hp
++ regen 3 hp per second after not taking damage for more than 3 seconds
++ +50% healing from medics
+
+- -20% movement speed for 10 seconds after jumping
+
+Sword for Demo
++ on kill: +25% swing speed for 4 seconds
++ does crits when minicrits
++ +20% movement speed when not jumping for more than 10 seconds
++ +30% jump height
+
+- -75% ammo on guns
+- -10% movement speed for 10 seconds after jumping
+
+Minigun for Heavy
++ +60 max hp
+
+- -50% overheal
+- -20% movement speed while revved
+
+Sandwich for Heavy
+when consumed: take -15% damage from all sources for 10 seconds
+recharge 15 seconds
+
+Fists for Heavy
++ on hit, bleed for 10 seconds
+
+- -10% movement speed while equipped
+
+Minigun for Heavy
++ minicrits when aiming at the head
++ on hit: bleed for 6 seconds
++ weapon slowly produces 2 ammo per second when revved uup without shooting, still loud
++ weapon fires faster as it gets fired for longer (up to +20% after 10 seconds)
+
+- -20% fire rate
+- no random crits
+- bullets cannot pass through allies
+
+Fists for Heavy
++ 30% damage
+
+- +40% deploy time
+
+Shotgun for Heavy
+Weapon fires all pellets into one
++ on hit teammate: +100% fire rate for both for 4 seconds
+
+- on miss: bleed for 3 seconds
+
+Fists for Heavy
++ regen 3 hp per seconds while not taking damage
++ +10% movement speed
+
+- -25% ammo on guns
+- honourbound: cannot use weapons for 3 seconds
+
+Minigun for Heavy
++ on hit: heal for 3
++ regen 3 hp per second while not taking damage
+
+- -10% damage
+- no random crits
+
+Shotgun for Heavy
++ crit when aiming at head
+
+- -20% damage if the hit wasn't an headshot
+
+Ammobox for Heavy
+upon use: drop a medium ammo box
+recharge 25 seconds
++ +30 max hp
++ regen 3 hp per seconds while not taking damage
+
+Sandwich for Heavy
+upon use: +36% movement speed for 15 seconds
+recharge 25 seconds
++ regen 3 hp per seconds while not taking damage
+
+- -30% overheal
+
+Shotgun for Heavy
++ +33% reload speed
+
+- -20% damage
+
+Pistol for Engi
++ +minicrits on headshots
++ 10% movement speed
+
+- not headshots do -25% damage
+- -20% clip size
+
+Wrench for Engi
++ spend -50% metal when upgrading allies buildings
++ weapon deploys 50% faster
++ 15% movement speed
+
+- no random crits
+- -20% damage
+- -50% overheal
+
+Shoes for Engi
++ 85 max hp
+
+- -50% ammo for shotgun
+- no overheal
+
+Medigun for Medic
+Ubercharge: fly and invisibility for 12 seconds
++ +25 max hp
++ charge +15%
+
+- -50 ammo for syringe
+
+Medigun for Medic
+Ubercharge: capture points four times faster for 10 seconds
++ +100% charge rate
++ regen +3 hp per seconds
+
+- medic is marked for death while using the medigun
+
+Medigun for Medic
+Ubercharge: +100% movement speed and fire rate for 10 seconds
++ 50 max hp
+
+- -2 hp regen
+
+Backpack for Medic, replaces syringe gun
++ when not taking damage for more than 15 seconds, give an ank
+Anks can be used to survive a fatal shot and revive medic to full health.
+Only one ank at time can be active
+
+Melee for Sniper
+Alt-fire: launch a projectile that disables sentries for 5 seconds
+it can also be thrown to enemies to mark them death for death for 5 seconds
+it also makes them move slower 15% for 5 seconds
+recharge 10 seconds
++ +50 max hp
+
+- -20% movement for 3 seconds after swing
+- -25% ammo for guns
+- no random crits
+
+Rifle for Sniper
++ on headshot: next reaload will be 60% faster
+
+- -25 max hp
+
+Smg for Sniper
++ on hit: apply slow don 15% for 3 seconds
++ +25 max hp
+
+- -20% clip size
+
+Melee for Sniper
+Alt-fire: thrown a projectile that heals teammate for 50 hp
++ 35% ammo for guns
+
+- -50% damage
+- no random crits
+
+Bow for Sniper
++ on hit: loading next shot will be 50% faster, slow down enemy 20% for 3 seconds
+and make enemy unable to switch weapon for 5 seconds
+
+- -33% damage
+
+Bow for Sniper
++ +15% damage
++ +25 max hp
+
+- -4 arrows
+
+Backpack for Sniper
++ regen 1 ammo for rifle every 3 seconds
++ +10 movement speed after not jumping for 10 seconds
+
+Rifle for Sniper
++ +25% movement speed
++ +25 max hp
++ on hit: enemy is stunned for 0.5 seconds
+
+- -40% damage to body shots
+- on miss: next shot will reload 60% slower
+
+Rifle for Sniper
++ on headshot: next reload will be 60% faster
++ +35% ammo reserve
++ bullets pass throught enemies
+
+- on miss: bleed for 2 seconds
+- -10% damage to bodyshots
+
+Revolver for Spy
++ bullets pass through enemies
++ 25% faster reload speed
++ on hit: bleed for 5 seconds
++ +50% clip size
+
+- on miss: -15% fire rate for 4 seconds
+- no random crits
+
+Knife for Spy
++ +25% damage to front stab
++ regen 3 hp per second
+
+- no random crits
+
+Shoes for Spy
++ 20% speed boost for 7 seconds after jumping
++ +50 max hp
++ +30% ammo for gun
++ +20% jump height
+
+- -2 hp per second after not killing anybody for 60 seconds
+- after 8 seconds, -50% speed for 10 seconds, until user jumps again
+
+Sapper for Spy
++ regen 3 hp per second
++ +10% movement speed
+
+- -25% gun ammo
+
+Sapper for Spy
+sapper drains health faster but doesn't disable building
+Alt-fire: can be thrown from a distance, but needs 4 seconds of recharge
+after destroying any building, instantly reload gun, without draining ammo reserve
+and apply a buff of 25% movement speed for 10 seconds
+After sapper is removed, buildings are disabled for 4 seconds
+can be placed down to friendly buildings to improve performance by 20% seconds
+at the cost of 30% of their health, buff lasts 20 seconds
+
+Injector: Medigun for Medic
++ Every 5 seconds, emit a shocwave that heals allies in 500 hu, equal to 20% of healing done in 5 seconds
+by that target, and deal 20 damage to enemies in range
+- If target health is below 50%, shockwave damages allies and heal enemies instead
+
+Boomerang Blaster: Pistol for Scout
++ Projectiles bounce off surfaces 3 times, dealing 75/50/25% damage
+- If projectiles hit player, deal mini crit damage
+- -2 ammo clip
+
+Thermal Shroud: Pyro Backpack
++ After 5 seconds without taking damage, Pyro becomes invisible and immune to
+fire and explosive damage
+- Drain 5 ammo per second while invisible
+'''' attack to stop effect
+
+Gravity Gauntlet: Heavy Melee
++ Each strike create a gravitational field taht attracts enemies for 1.5 seconds
+- Cannot move while attacking
+
+Chrono Syringe: Medic Syringe gun
++ Hit apply slow down 20% for 5 seconds
+- -10% movement speed
+
+Echo Sapper: Spy Sapper
++ When sapper is destroyed, realease an EMP wave, disabling all
+machines for 5 seconds
+- Need 4 seconds start up
+
+Sticky Mirror: Demo Stickybomb Launcher
++ Sticky bombs provide a force field that reflect projectiles for 2 seconds
+after beign sticked
++ Stickies +200% Health
+- -20% fire speed
+- -20% damage
+
+Snare Rifle: Sniper's Rifle
++ Each successful hit stun target for 1.5 seconds
+- No damage for body shots
+
+Echo Rocket: Soldier's Rocket Launcher
++ Rockets explode a second time after 0.8 seconds
+- Second explosions damages also allies
+- -50% clip size
+
+Quantum Cloak: Spy's Watch
++ When cloacked, summon another copy that walks in front, vanishes when attacked
+- Cost 25 Hp to cloak
+
+Schrodinger Shotgun: Scout/Engineer Shotgun
++ Each hit has a 50% chance to shot 0 or 2 projectiles
+- Lose 10 HP on miss
+
+Echo Knife: Spy's knife
++ Every melee hit strike twice, the second one after 1.5 seconds
+- Can accidentally damage allies
+
+Magnetron Cannon: Soldier's Rocket Launcher
++ Rockets pull enemies to the center of the explosion in 1.5 seconds
+- -33% damage
+
+Reverse Revolver: Spy's gun
++ The more the target has HP, the more this gun deal damage.
+At 100% HP, deal +200% damage, at 1% HP, deal -90%
+- Cannot hit targets with less than 10% HP
+
+Echo Medigun: Medic's medigun
++ When healing an ally, also heal the last healed ally at 50% efficency
+- Medic take 3 hp/sec damage when not healing for over 5 seconds
+
+Boiling Bottle: Demo's Melee
++ When holstered, gain +50% damage every seconds, up to 300% more damage
+- Bottle explode after 10 seconds holstered
+
+Paradox Cloak: Spy's Watch
++ When cloaked, if the spy dies (take a lethal hit), goes back to the
+position it was 3 seconds ago, with 1 HP
+- After effect, cannot move for 3 seconds
+
+Sentry Seed: Enginer's Sentry
++ Plant a seed, that will become a mini sentry in 10 seconds
+''' Replace sentry
+
+Rarted Sharter: Pyro's Flare
++ Flare shot explodes 3 seconds after landing
+- -33% clip size
+
+Bureaucratic Bat: Scout's Melee
++ After 3 consecutive hits, stun target for 5 seconds
+- After taking 3 consecutive melee hits, Scout dies
+- No random crits
+
+Barbarian Bombardement: Soldier's Rocket Launcher
++ +100% ammo reserve
++ +100% damage to buildings
++ while reloading +25% movement speed
++ Target struck cannot switch weapon for 5 seconds
+- -75% firing speed
+- -50% explosion radius
+- -20% damage
+
+Fireport: Pyro's flamethrower
++ Can heal allies with fire 5 Hp/sec
++ +100% ammo capacity
++ on kill, gain 3 seconds of crit
++ +25% movement speed
+- -50% fire resistence
+- -25% jump height
+- When not attacking for more than 3 seconds, take 10 damage/sec
+
+Paraglock: Scout/engineer's Pistol
++ +50% fire rate
++ +25% movement speed
++ on kill: gain +1 jump
++ on hit: apply slow for 3 seconds
+- -25 max HP
+- -50% ammo fromboxes
+- on miss: lose 1 HP
+- no random crits
+
+Quantum Syringe: Medic's Syringegun
++ +100% projectile speed
++ on hit: heal ally for 10
++ +25% movement speed
++ +50% charge if you hit 3 enemies in 5 seconds
+- -50% damage
+- -25% overheal
+- if you hit the same target for over 3 times, get stunned for 1 seconds
+- -20% fire resistence
+
+Explosive surprise: Spy's Knife
++ on hit: bleed for 5 seconds
++ +50% cloak duration
++ on kill: gain 20% cloak
+- -25% movement speed while cloaked
+- -50% ammo from boxes
+- -50% swing speed
+

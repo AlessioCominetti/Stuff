@@ -1,0 +1,587 @@
+1)Pistol for Engineer
++25% bullet resistence
+
+-25% turret firing speed
+
+2)Saw for Medic
++25% damaged dealed become heal on hit
+
+-50% movement speed
+
+3)Shield for demoman
+Overheal doesn't decay
+
+-600% holster speed
+
+4)Shield for demoman
+100% crit vs airborne targets
+
+-60% max overheal
+
+5)Smg for sniper
+on hit slow for 10 seconds
+
+-25% holster speed
+
+6) pistol for engineer
++25% crit resistence
+-15% metal reduction cost
++25% damage boost vs targets on fire
+
++50% blast damage vulnerability
+
+7) sniper rifle
++30% heal from healers
+
+-30% max health
+
+8) sticky launcher
++5 hp regen per second
++25% damage boost on targets on fire
+
+-25% blast radius
+
+9) siringe gun
++100% crit on burning or airborne players
++20% max health
+
++100% crit vulnerability
+
+10) shoutgun for scout
+overheal doesn't decay
++25% deploy and holster speed
+
++100% crit vulnerability
+
+11) spy revolver
++50% of clip instantly reloads on kill
+
+-200% deploy and holster speed
+
+12)Level 4 Knife for the spy
+100% critical hit vs wet players
++25% of damage healed on hit
+
++40 health drained per second on wearer when over 50% HP
+
+13)Level 9 Bottle for the demoman
++25% fire resistence on wearer
++15 seconds speed boost on kill
+
+-90% swing speed
+
+14)Level 17 Bonesaw for the medic
++25% crit damage resistence on wearer
++10 seconds slow time on target
+
++25% bullet damage vulnerability on wearer
+
+15)Level 7 Flaregun for the pyro
++15% max health on wearer
+
+-10% max overheal
+
+16)Level 22 Shotgun for the heavy
++25% damage boost when hitting enemies from behind at close range
++25% fire resistence on wearer
+
++5 health drained per second on wearer when over 50% HP
++1 ammo drained every 5 seconds on wearer
+
+
+17)Level 17 Bottle for the demoman
+100% critical hit vs burning players
++5 seconds speed boost on hit
++10 seconds crits on kill
+
++30 health drained per second on wearer when over 50% HP
+
+18)Level 13 Axe for the pyro
+100% critical hit vs wet players
+
+-125% jump height while deployed
+
+19)Level 21 Syringe gun for the medic
++15% max health on wearer
++25% fire resistence on wearer
+
+-40% max ammo
+
+20)Level 14 Fists for the heavy
+100% critical hit vs airborne enemies
++25% movement speed while deployed
+
+-15% max health on wearer
+Cannot be healed by medics
+
+I)  Crunchy Musket (shotgun) Pyro
+PROS     +125 max health
+         minicrits while healed by a medic
+CONS    -15 hp per shot
+        -30% accuracy
+        -33% clip size
+
+II)  Jonny's Shard (knife)  Sniper
+PROS   on hit ignites enemies for 5 seconds
+CONS   no random crits
+
+III)  The Marksman's Wish (sword) Demo
+PROS +50% extra range
+      on hit apply 40% slow for 15 seconds
+      on hit ignites enemies for 7 seconds
+CONS no random crits
+     cannot damage engies
+
+IV) The Devilish Shrike (minigun) Heavy
+PROS  -20% bullet spread
+      on hit marks enemies for death for 40 seconds
+CONS  +100% weapon switch time
+      Cannot fire for more than 6 seconds
+
+V)  The Pretty Fire (shotgun) Heavy
+PROS   -25% weapon switch time
+       can walk on water
+       +50% max health
+CONS   cannot be overhealed
+       -33% damage penalty
+       all crits become minicrits
+
+VI) The Piss Knife (knife) sniper
+PROS  on hit enemies are covered in jarate for 10 second
+      on hit heal for 6
+      +3 extra jumps
+CONS cannot be healed by dispenser
+     primary can jam randomly
+
+VII) The Australium Trip (smg) sniper
+PROS  on hit apply 33% slow for 1 minute
+CONS   +80% bullet spread
+
+VIII) The Medic Minigun (minigun) Heavy
+PROS you deal minicrits while healed by a medic
+CONS cannot be overhealed
+
+IX) The Spy's Flare (gun) Spy
+PROS on hit ignites enemies for 10 seconds
+CONS +25% fire vulnerability
+     -83% clip size
+
+X) The Spooky Savior (saw) Medic
+PROS on hit ignites enemies for 9 seconds
+     +120 max health
+     when rigth clicking, drop a medium ammo box at the cost of 120 hp
+     +1 hp regeneration
+CONS -50% healing speed
+     cannot be healed by medics
+     no random crits
+
+XI) The Sandwitch Minigun (minigun) Heavy
+PROS can be eaten to restore 240 hp at the cost of 20 ammo
+CONS cannot pick up ammo boxes
+     -20% ammo capacity
+     +20% bullet spread
+
+XII) The Texas Stick (rocket launcher) Soldier
+PROS  on hit ignites enemies and marks them for death for 10 seconds
+     +50% blast radius
+CONS  -40 hp every time you shoot
+      -60% ammo capacity
+
+XIII) The Bandit Mag (wrench) Enginer
+PROS on hit enemy is ignited for 10 seconds
+CONS  -20 hp per swing
+
+XIV) The Lone Critter (knife) Spy
+PROS backstabbing or sapping fills a meter, when full, guaranteed minicrits for 10 seconds (4 points)
+CONS cannot jump
+     cannot be healed by medics
+     -50% ammo from boxes
+
+XV) The Explosive Croissant (consumable second slot) Spy
+Can be eaten to give 10 seconds of minicrits, recharge 30 seconds
+
+XVI) The Uber Dagger (knife) Spy
+PROS  gives a uber meter that fills over time or with kills (60 seconds or 5 kills)
+    when activated, grant 5 seconds of ubercharge
+CONS -10% movement speed
+     no overheal
+
+XVII)  The Titanium Axe (axe) Pyro
+PROS  +3 jumps
+      on hit marks enemies for 1 minute
+      on hit heal for 10
+CONS  cannot be healed or overhealed
+       -70 max health
+
+XVIII) The Shark Shank (knife) sniper
+PROS  on kill heal 100 hp, also apply overheal if capped
+      +10% faster firing speed
+CONS   +70% weapon switch time
+      cannot be healed or overhealed by medics
+
+XIX) The Sub Healer (melee) all classes
+PROS while underwater, on hit heal for 50
+CONS no random crits
+
+XX) The Powerful Persuader (wrench) Enginer
+PROS +40% movement speed
+     dealing damage fills a meter (300 damage) when active, +80% movement speed and +100 overheal for 10 seconds
+CONS  after activation, cannot use meter for 70 seconds
+     cannot be healed or overhealed by medics
+     -80% damage penalty while boost isn't active
+
+XXI) The Jarate Launcher (pipe launcher) Demoman
+PROS  on hit enemies are covered in jarate for 10 seconds
+      +75% blast radius
+      +100% ammo from ammo boxes or dispenser
+CONS   -75% ammo capacity
+       -75% clip size
+       cannot be healed by medics
+
+XXII) The Texas Destroyer (sticky launcher) Demoman
+PROS  stickies release a toxic gas that does 60 damage per second over 3 seconds
+      crit on enginer
+CONS  cannot be healed
+
+XXIII) The Scary Rider (pipe launcher) Demoman
+PROS  +75 max health
+      on hit ignites enemies for 10 seconds
+CONS  2 hp of damage every time you shoot
+     -60% over heal
+     -25% ammo capacity
+
+XXIV) The Coward's Bat (bat) Scout
+PROS  on hit heal for 24
+      minicrit while healed by medic
+CONS no random crit
+
+XXV) The Riptide (shotgun) Scout
+PROS on hit enemy is marked for death for 4 seconds
+CONS no overheal
+     no random crits
+     -37% ammo reserve
+
+XXVI) The Ruffian Rifle (sniper rifle) Sniper
+PROS  shot teammates to heal them for 50 hp
+CONS  -20% charge speed
+
+XXVII) The Charred Polearm (axe) Pyro
+PROS on kill heal for 100 hp
+     on hit ignites for 10 seconds
+CONS on hit -50 hp
+     -100% weapon switch time
+
+XXVIII) The Fire Lance (sniper rifle) Sniper
+PROS on hit ignites enemies for 10 seconds
+CONS -20% ammo capacity
+
+XXIX) The BreanNeck Raker launcher (rocket launcher) Soldier
+PROS +25% damage
+CONS -10 hp per shot
+
+XXX) The Medic Launcher (sticky launcher) Demoman
+PROS explosions heal allies by half damage
+     +50% ammo capacity
+CONS  no random crits
+     -20% slower firing speed
+     -25% clip size
+
+XXXI) The Helping Musket (shotgun) Enginer
+PROS on hit heal for 75 (apply overheal if capped)
+     healing charge meter, when active grant crits for 4 seconds  (300 heals)
+     +33% clip size
+CONS  no random crits
+      -20% accuracy
+      -15 hp per shot
+      -25% ammo capacity
+
+XXXII) The Fire Gun (pistol) Scout
+PROS  on hit ignites enemies for 8 seconds
+      crits burning players
+      press rigth click to perform an extar jump (once) 
+CONS  no random crits
+      -67% clip size
+      -50% ammo capacity
+
+XXXIII) The Cracked Sapper (sapper) Spy
+PROS destroyed building release a toxic gas that doeas 210 damage over 3 seconds
+CONS -30% movement speed
+
+XXXIV) The Unbreakable Ordinance (minigun) Heavy
+PROS  damaging enemies fills a meter (500) damage) when active, shot in 8 directions and apply bleeding for 10 seconds
+      boost last for 10 seconds
+CONS  +80% spin unp time
+      cannot pick up ammo boxes while using this item
+      -60% movement speed while revved
+
+XXXV) The Texas Heater (2 slot) Spy
++4 hp regen per sec
+replace sapper
+
+XXXVI) The Speedy Shooter (shotgun) Scout
+PROS  +30% movement speed
+CONS  -30% firing speed
+      -25% ammo capacity
+
+XXXVII) The Kaboom Trip (knife) Spy
+PROS  on hit +30% movement speed and +1 extra jump for 5 seconds
+      first strike causes and explosion of 100 damage
+      +80% explosion resistance
+CONS  -50 max hp
+
+XXXVIII) The Derailed Fix (shotgun) Scout
+PROS shooting heals teammate
+     +50% movement speed when hp is above 80%
+     +1 hp regen per second
+CONS -50% jump heigth
+
+XXXIX)  The Crunchy Lava Barrel (shotgun) Scout
+PROS on hit ignites enemy for 4 seconds 
+     +35 max health
+     crits on burning players
+CONS -33% clip size
+     -50% ammo capacity
+
+XXXX) The Speedy Shot  (shotgun) Pyro
+PROS on hit +100% movement speed for 10 seconds
+     +33% clip size
+CONS -75% ammo capacity
+
+XXXXI) The Defensive Date (snack) Heavy
+when eaten +40% damage resistance and +35% knockback resistence for 10 seconds, 30 second recharge
+After effect, player is marked for iper death (takes crits) for 4 seconds and crits become mini crits
+
+XXXXII) The Sidney Speeder (sniper rifle) sniper
+PROS on hit +40% movement speed for 10 seconds
+CONS -50 max health
+
+XXXXIII) The Cristal Croissant (snack) Heavy
++5 hp regen when hp is below 50%
+when eaten heal for 150 recharge 20 seconds
+
+XXXXIV) The Sykarna (shotgun) Heavy
+PROS +15% movement speed while equipped
+     +30% damage
+     +50% ammo capacity
+CONS  no random crits
+     -35% firing speed
+     +35% damage falloff
+
+XXXXV) The Uber Minigun (minigun) Heavy
+PROS heal for 25% of damage dealt
+     healing from this gun fills uber meter (100) when active, uber for 10 seconds
+CONS -20% slower firing speed
+     -20% overheal
+     +40% spin up time
+
+XXXXVI) The Viking Vanguard (shield) Heavy
+PROS +25% fire resistence
+     +25% explosion resistence
+     can charge every 12 seconds
+CONS replace shotgun/snack
+
+XXXXVII) The Raging Rearguard (shield) Heavy
+PROS +20% damage resistence
+     immunity to backstab
+CONS replace shotgun/sandwich
+     -60% overheal
+
+XXXXVIII) The Radiating Radio (2 slot) Heavy
+PROS regen 10 hp per second
+CONS all weapons fire 20% slower
+
+XXXXIX) The Big Booties (2 slot) Soldier (1 slot) Demoman
+PROS +10% bullet resistence
+     +30% knockback resistence
+     +10% movement speed
+     +25% explosion resistence
+     +25% fire resistence
+     -25% fall damage
+
+D) The Texas Taxer (shotgun) Scout Enginer
+PROS firing speed increases as unit loses hp  (from 125 to 1  -> -10 to +154)
+     on kill gain 4 ammo, if possible, ammo goes directly into the clip
+CONS -10% firing speed 
+     -50% ammo capacity
+     -33% reload speed
+     
+DI) The Uber Sandwitch (snack) Heavy
+PROS when eaten grant 10 seconds of uber, recharge 90 seconds
+CONS Unit max health becomes 100 for 12 seconds after uber
+
+DII) The Long Ranger (shotgun) Enginer
+PROS +50% accuracy
+     +33% clip size
+     on kill gain 4 ammo, if possible, goes directly into the clip
+CONS -20% firing speed
+     -50% ammo capacity
+     -25% reload speed
+
+DIII) The FlameShot (flamethrower) Pyro
+PROS fire one fire blast instead of a continuos stream of fire, cost 10 ammo, damage 50
+     proiectile can pass trough enemies
+     +200% range
+CONS -50% afterburn duration
+     -20% firing speed
+
+DIV) The Biggoron Biggun (minigun) Heavy
+PROS +40% firing speed when standing still
+     -40% spin up time
+CONS accuracy decrease when shooting (from 100% to 50% in 10 seconds)
+     while revved, -1 ammo per second
+     when ammo is below 20%, firing speed bonus is lost
+     no random crits
+
+DV) The Heavy Metal Fists (punch) Heavy
+PROS while equipped, +40% damage resistence
+     +30% damage
+CONS while equipped, when taking or dealing damage, -10 primary ammo per hit
+     bonuses doesn't work when ammo is 0
+     -60% overheal
+     no random crits
+
+DVI) The Firey Fists (punch) Heavy
+PROS on hit ignites enemies for 10 seconds
+     while equipped, +25% movement speed
+CONS when equipped, set yourself on fire
+
+DVII) The Sonic Punch (punch) Heavy
+PROS when hurt, +50% movement speed for 4 seconds
+     on hit, +40% firing speed for 4 seconds
+CONS no random crits
+     -40% max overheal
+     on kill, unit is marked for death for 4 seconds
+
+DVIII) The Starligth morning star (mace) Demoman
+PROS on hit stun for 2 seconds
+     +15% damage
+     minicrits on stunned players
+CONS on miss hurt yourself, idiot
+
+DIX) The Potato Exploder of Eternal Suffering (shotgun) Soldier
+PROS +50% max health
+     +50% movement speed
+     no damage falloff
+CONS -50% damage penalty
+     -50% jump heigth
+     no random crits
+
+DX) The Scandinavian Scolded Sticky Launcher (sticky launcher) Demoman
+PROS on hit heal for 20
+CONS -65% blast radius
+
+DXI) The Vampiric Vanity Gun (shotgun) Scout
+PROS +12% max health
+     on kill heal for 30
+CONS no random crits
+     cannot be healed otherwise
+
+DXII) The Wrong Wrench (wrench) Enginer
+PROS on kill heal for 15
+     +25% damage vs buildings
+CONS no random crits
+     -40% knockback resistence
+
+DXIII) The Sligthly Better Pistol (pistol) Enginer
+PROS -60% bullet spread
+     on hit target is marked for death for 3 seconds
+CONS -30% healing from all sources
+     -20% weapon deploy speed
+
+DXIV) The Bullet Cola (drink) Scout
+PROS when drank, +20% bullet resistence, knockback immunity, and +65% damage dealt with all weapons for 8 seconds
+30 seconds recharge
+CONS when hp is below 50% , -25% movement speed
+
+DXV) The Draculean Blazes (flamethrower) Pyro
+PROS on kill heal for 50
+CONS cannot airblast
+
+DXVI) The Bloody Bomber (pipe launcher) Demoman
+PROS +80% proiectile speed
+     on hit bleed and marked for death for 4 seconds
+CONS -50% fire damage resistence
+     while equipped -2 hp per second
+
+DXVII) The Pain-Bringin Belt of Eternal Suffering (minigun) Heavy
+PROS +200% max health
+CONS no overheal
+     no random crits
+     cannot be healed
+
+DXVIII) The Vampire Battle Axe (axe) Pyro
+PROS on kill +80% movement speed for 8 seconds
+     on kill set hp to 400 (with overheal)
+     +20% swing speed
+CONS -20% movement speed
+     -20% max health
+
+DXIX) The Australium Escape Plan (knife) Sniper
+PROS +15% damage
+     +10% movement speed
+     minicrits on the back of enemies
+CONS -20% max health
+
+DXX) The Silver Toaster (pistol) Enginer
+PROS You heal for 4 hp per seconds while underwater
+     +70% firing speed
+     on hit ignites enemies for 10 seconds
+CONS all crits become minicrits
+     cannot be healed otherwise
+     -44% max health
+
+DXXI) The Gritty Barrel (minigun) Heavy
+PROS crit while underwater
+CONS -40% overheal
+     cannot jump
+
+DXXII) The Silver Riptide (sticky launcher) Demoman
+PROS minicrtis if you or the target is underwater
+CONS cannot be healed while underwater
+     -10% range
+
+DXXIII) The Texas Grenadier (shotgun) Pyro
+PROS on hit enemy is marked for death for 10 seconds
+CONS no random crit
+     -62.5% ammo capacity
+
+DXXIV) The Foul Flare (flare) Pyro
+PROS on hit ignites enemies for 12 seconds
+     when dealing damage fills a meter, when active deal minicrits for 10 seconds (150 damage)
+CONS -67% direct damage
+     no random crits
+
+DXXV) The Glasgow Gallowglass (sniper rifle) Sniper
+PROS on hit slow enemies by 20% and heal for 10% of damage dealt (apply overheal when necessary)
+CONS -28% max health
+
+DXXVI) The Ultra Cola (drink) Scout
+When drank +60% movement speed and guaranteed crits for 7 seconds, recharge 30 seconds
+
+DXXVII) The Iron Bow (bow) Sniper
+PROS +10% damage resistence
+     +20% movement speed when hp is above 50%
+     on hit -20% slow for 5 seconds
+CONS -67% ammo capacity
+
+DXXVIII) The Coward Cowbelter (shotgun) Pyro
+PROS on kill +40% movement speed for 5 seconds
+     on hit -25% slow for 5 seconds
+     +31% ammo capacity
+CONS cannot jump
+     when equipped marked for death for 5 seconds
+     -20% movement speed when hp is below 50%
+
+DXXIX) The Rabid Revolver (pistol) Spy
+PROS +60% movement speed if hp is above 50%
+     on hit heal for 10
+CONS on miss hit yourself, idiot
+
+DXXX) The Superb Sapper (sapper) Spy
+PROS when destroyed, effect last 2 second longer
+     +30% durability
+     reverse enemy building construction
+CONS -50% destruction speed
+     destruction start after 2 seconds after being planted
+     must recharge 2 seconds after use
+     

@@ -1,0 +1,602 @@
+PLAYER UNITS
+
+Guardsman/Banner Guard: light spear infantry
+HP 290 Atk 26 +20 vs cavalry Armor 0/9(not banner guard) Cost 10/30
+Inspire(Banner Guard): +75% morale
+Rally(Banner Guard): allies in this lane heal 60 hp
+
+Archer: light ranged bow infantry
+HP 185 Atk 18 +9 vs infantry Range 22 Cost 12
+
+Scout cavalry: light sword cavalry
+HP 340 Atk 43 +14 vs ranged Speed 3 Cost 14
+
+Lancer cavalry: heavy spear cavalry
+HP 470 Atk 41 +18 vs ranged units Speed 3 Armor 0/10 Cost 24
+Charge: first attack deal double damage
+
+Swordman/Assassin: light sword infantry
+HP 270/260 Atk 47/44 +12/11 vs spear Speed 1/2 Cost 10/14
+Poison(Assassin): 10% to instakill
+Parry(Assassin): 25% to block melee attacks
+
+Engineer: light hammer infantry
+HP 220 Atk 56 +12 vs heavy Cost 15
+Repair 14
+
+Legionary/Centurion: heavy sword infantry
+HP 430/440 Atk 46/47 +14 vs spear Armor 0/9 Cost 16/25
+War Cry(Centurion): melee units +10 atk
+
+Siege Crossbow: ranged crossbow
+HP 175 Atk 25 +10 vs heavy Range 26 Cost 28
+Pierce: 65% pass through damage
+Slow Reload: fires at half normal speed
+
+Landsnekcth: heavy sword infantry
+HP 410 Atk 56 +6 vs infantry +12 vs spear Cost 18
+Charge 2 gold for each kill
+
+Satnik: light ranged crossbow cavalry
+HP 255 Atk 27 +12 vs ranged +10 vs heavy Range 17 Speed 3 Cost 16
+
+Ranger: light ranged bow infantry
+HP 200 Atk 19 +9 vs infantry Range 26 Cost 20
+Poison: 5% to instakill
+Stealth: halves range vs this unit
+
+Templar: heavy mace infantry
+HP 390 Atk 48 +12 vs heavy Parry 25% Cost 20
+Protector: heal 70 hp whenever an ally dies
+
+Shield Maiden: light spear infantry
+HP 300 Atk 29 +20 vs cavalry Parry 35% Cost 16
+Unyielding: doubel damage when hp<50%
+
+ShieldBreaker: heavy hammer infantry
+HP 500 Atk 66 +16 vs heavy Armor 10/0 Cost 26
+
+HearthGuard: heavy spear infantry
+HP 570 Atk 28 +28 vs cavalry Armor 10/10 Cost 26
+
+Sun/Moon Priest: light staff infantry
+HP 210 Atk 6 +4 vs undead Cost 15/20
+Healing(Sun): allies in the lane regen 22 hp/sec
+Aura(Moon): allies in the lane take -50% damage
+
+Skirmisher: light ranged javelin infantry
+HP 195 Atk 29 +7 vs heavy Range 14 Cost 10
+
+Halberdier: light spear infantry
+HP 265 Atk 25 +34 vs cavalry Cost 10
+
+ACCADEMY
+All spear units +8 atk
+All sword units +8 atk
+All ranged units +8 range
+All units +40 hp
+
+All spear infantry +40 hp and +8 dmg vs cavalry
+All ranged units +5 atk
+All sword infantry +8 atk
+All infantry +40 hp
+
+Armored units +0/8 armor
+All ranged units +25 hp, skirmisher +5 dmg vs heavy
+Hammer, mace and cavalry +8 atk
+All sword and cavalry units +40 hp, war cry +8 atk
+
+All heavy units +80 hp
+All bow units +5 range
+All cavalry +80 hp
+Healing +16, aura +40%, rally +40
+
+Spear cavalry +8 atk, spear +8 bonus damage (x2 for halberdier)+
+All crossbow units +8 dmg vs heavy, skirmisher +8 atk
+Sword, hammer, mace and cavalry +10 bonus damage
+Gold income +100%
+
+Armored units +8/0 armor, hearthguard and shieldbreaker +80 hp
+All bow units +8 dmg vs infantry
+Hammer and mace units +10 atk
+Start with +100 G, repair +10
+
+All units +50 hp, melee units +50 hp, heavy units +50 hp
+All ranged units +8 atk, pierce +40%
+Spear +10 atk, sword and mace +20 atk, hammer +30 atk
+inspire +50%, +100% morale, protector +50 hp
+
+
+ENEMY UNITS
+****PIRATES****
+Cutthroat: light sword infantry
+HP 40 Atk 10 +2 vs spear Cost 8
+
+Skirisher: light ranged javelin infantry
+HP 30 Atk 8 +4 vs heavy Range 8 Cost 12
+
+Horseman: light spear cavalry
+HP 80 Atk 6 +4 vs ranged Speed 3 Cost 14
+
+Mercenary spearman: light spear cavalry
+HP 50 Atk 8 +4 vs cavalry Cost 9
+
+Mercenary archer: light ranged bow infantry
+HP 30 Atk 6 +1 vs infantry Range 12 Cost 13
+
+Gladiator: light sword infantry
+HP 100 Atk 14 +4 vs infantry Parry 35% Cost 14
+Unyielding: double damage when hp<50%
+
+Brigand: light mace infantry
+HP 65 Atk 12 +4 vs heavy  Cost 16
+
+Mercenary Longbowman: light ranged bow infantry
+HP 40 Atk 6 +1 vs light Range 16 Cost 16
+
+Outrider: light mace cavalry
+HP 110 Atk 10 +4 vs ranged +2 vs heavy Speed 3 Cost 24
+
+Pirate Captain: light sword infantry
+HP 90 Atk 15 +4 vs sword Cost 20
+Warcry: +2 atk to allies in the same lane
+
+Night Stalker: light sword infantry
+HP 85 Atk 13 Speed 2 Cost 15
+Poison: 10%
+Stealth:
+Drain 25%
+
+****ORCS****
+Orc Brute: light axe infantry
+HP 70 Atk 13 +2 vs infantry Cost 13
+
+Orc Archer: light ranged bow infantry
+HP 45 Atk 6 +2 vs infantry Range 10 Cost 14
+Poison: 5% to instakill
+
+Orc Shaman: light staff infantry
+HP 60 Atk 8 Cost 20 Regen 4 hp/sec
+
+Orc Spearman: light spear infantry
+HP 60 Atk 8 +6 vs cavalry Cost 10
+
+Orc Berserker: light axe infantry
+HP 80 Atk 14 +4 vs infantry  strike twice Cost 20
+
+Orc skirmisher: light ranged javelin infantry
+HP 45 Atk 10 +5 vs heavy Range 8 Cost 12
+
+Iron Warrior: heavy axe infantry
+HP 180 Atk 24 +5 vs infantry +5 vs spear Armor 5/0 Cost 16
+
+Iron Guard: heavy spear infantry
+HP 180 Atk 18 +16 vs cavalry Armor 5/0 Cost 15
+
+Iron Rider: heavy axe cavalry
+HP 240 Atk 24 +8 vs ranged Armor 4/4 Speed 3 Cost 22
+
+Orc Warlord: heavy axe cavalry
+HP 300 Atk 30 +10 vs ranged Armor 4/5 Speed 3 Cost 34
+War cry: +2 atk
+Heal 40 hp per kill
+
+Cave Orge/Corrupt Ogre: heavy
+HP 380/450 Atk 30/34 +10 vs heavy Armor 6/0 Cost 32  FEAR
+
+Orc Marauder: heavy axe cavalry
+HP 140 Atk 12 +8 vs ranged Speed 3 Cost 26
+
+Orc Axe thrower: light ranged axe infantry
+HP 50 Atk 20 +6 vs light Range 8 Cost 15
+
+Son of Khargat: light axe infantry
+HP 130 Atk 20 +6 vs infantry strike twice Speed 2 Cost 18
+Heal 20 per kill
+
+****UNDEAD****
+Skeleton spearman: light spear infantry
+HP 60 Atk 8 +6 vs cavalry Cost 6
+
+Skeleton swordman: light sword infantry
+HP 60 Atk 11 +2 vs infantry Cost 7
+
+Skeleton archer: light ranged bow infantry
+HP 40 Atk 8 +1 vs infantry Range 14 Cost 10
+
+Tomb Guard: heavy spear infantry
+HP 120 Atk 24 +10 vs cavalry Armor 0/5 Cost 12
+
+Tomb Knight: heavy mace infantry
+HP 140 Atk 20 +6 vs heavy Armor 0/5 Cost 12
+
+Tomb archer: light ranged bow infantry
+HP 60 Atk 10 +4 vs infantry Range 18 Cost 10
+
+Necromancer: light staff infantry
+HP 70 Atk 8 Cost 18   25% resurrect
+
+Bone Horror: heavy
+HP 300 Atk 17 strike twice  Cost 40  FEAR
+
+Skeleton Crossbowman: light ranged crossbow infantry
+HP 50 Atk 12 4 vs heavy strike three times Range 14 Cost 14
+
+Immortal: light axe infantry
+HP 90 Atk 17 Armor 0/4 Cost 12
+Heal 8 hp when hurt
+
+Bone Fiend: light
+HP 80 Atk 10 +2 vs light +4 vs ranged Speed 3 Cost 10
+
+Bone Lurker: light
+HP 120 Atk 20 +8 vs ranged Speed 3 Cost 10
+Poison: 10%
+
+Tomb Lord: light staff infantry
+HP 80 Atk 16 Cost 25
+Drain 50%
+Poison: 10%
+Dark Barrier: take 1 damage from ranged attacks
+
+Soul Reaper: heavy
+HP 400 Atk 40 Cost 32
+Crossbow: 30 atk 35 range
+Drain 25%
+
+****MARU****
+Maru swordman: light sword infantry
+HP 80 Atk 9 +3 vs infantry Speed 2 Cost 12
+Parry 25%  regen 6 hp/sec
+
+Maru skirmisher: light ranged javelin infantry
+HP 45 Atk 12 +4 vs heavy +4 vs ranged Range 9 Speed 2 Cost 12
+regen 6 hp/sec
+
+Maru Blowpipe: light ranged infantry
+HP 50 Atk 8 +2 vs infantry +2 vs light Range 14 Speed 2 Cost 14
+regen 6 hp/sec
+
+Maru Shaman: light staff infantry
+HP 80 Atk 8 +5 vs cavalry Speed 2 Cost 16
+Heal 4 hp/sec  regen 6 hp/sec
+
+Maru Champion: light sword infantry
+HP 100 Atk 11 strike twice  Speed 2 Cost 16
+Parry 40%  regen 6 hp/sec
+
+Maru Axeman: heavy axe infantry
+HP 260 Atk 25 +6 vs infantry Armor 4/0 Speed 2 Cost 20
+regen 12 hp/sec
+
+Maru spearman: light spear infantry
+HP 80 Atk 9 +8 vs cavalry Armor 0/4 Speed 2 Cost 10
+regen 6 hp/sec
+
+Maru Sentinel: heavy infantry
+HP 300 Atk 18 Armor 6/6 Speed 2 Cost 22
+regen 12 hp/sec
+
+****HUMANS****
+Royal Archer: light ranged bow infantry
+HP 55 Atk 10 +3 vs infantry Range 14 Cost 12
+
+Royal Guardsman: light spear infantry
+HP 140 Atk 12 +8 vs cavalry Armor 0/4 Cost 10
+
+Royal Lancer: heavy spear cavalry
+HP 220 Atk 15 +12 vs ranged Armor 0/4 Speed 3 Cost 20
+charge: x2 damage on first hit
+
+Royal Legionary: heavy sword infantry
+HP 200 Atk 20 +6 vs spear Armor 0/4 Cost 16
+
+****RED LEGION****
+Archer: light ranged bow infantry
+HP 70 Atk 15 +8 vs light Range 17 Cost 14
+
+Shieldbreaker: heavy hammer infantry
+HP 340 Atk 34 +14 vs heavy Armor 6/0 Cost 25
+
+Lancer: heavy sword cavalry
+HP 420 Atk 32 +10 vs ranged Armor 0/5 Speed 3 Cost 32
+
+Hearthguard: heavy spear infantry
+HP 400 Atk 24 +20 vs cavalry Armor 0/6 Cost 25
+
+
+PLAYER UNITS DEFAULT STATS
+
+Guardsman/Banner Guard: light spear infantry
+HP 70 Atk 8 +4 vs cavalry Armor 0/1(not banner guard) Cost 10/30
+Inspire(Banner Guard): +25% morale
+Rally(Banner Guard): allies in this lane heal 20 hp
+
+Archer: light ranged bow infantry
+HP 30 Atk 5 +1 vs infantry Range 9 Cost 12
+
+Scout cavalry: light sword cavalry
+HP 80 Atk 7 +4 vs ranged Speed 3 Cost 14
+
+Lancer cavalry: heavy spear cavalry
+HP 80 Atk 7 +8 vs ranged units Speed 3 Armor 0/2 Cost 24
+Charge: first attack deal double damage
+
+Swordman/Assassin: light sword infantry
+HP 50/40 Atk 11/8 +2/1 vs spear Speed 1/2 Cost 10/14
+Poison(Assassin): 10% to instakill
+Parry(Assassin): 25% to block melee attacks
+
+Engineer: light hammer infantry
+HP 40 Atk 8 +2 vs heavy Cost 15
+Repair 4
+
+Legionary/Centurion: heavy sword infantry
+HP 80/90 Atk 10/11 +4 vs spear Armor 0/1 Cost 16/25
+War Cry(Centurion): melee units +2 atk
+
+Siege Crossbow: ranged crossbow
+HP 60 Atk 12 +12 vs heavy Range 18 Cost 28
+Pierce: 25% pass through damage
+Slow Reload: fires at half normal speed
+
+Landsnekcth: heavy sword infantry
+HP 60 Atk 20 +6 vs infantry +2 vs spear Cost 18
+Charge 2 gold for each kill
+
+Satnik: light ranged crossbow cavalry
+HP 60 Atk 6 +2 vs ranged +2 vs heavy Range 9 Speed 3 Cost 16
+
+Ranger: light ranged bow infantry
+HP 45 Atk 6 +1 vs infantry Range 13 Cost 20
+Poison: 5% to instakill
+Stealth: halves range vs this unit
+
+Templar: heavy mace infantry
+HP 120 Atk 10 +2 vs heavy Parry 25% Cost 20
+Protector: heal 20 hp whenever an ally dies
+
+Shield Maiden: light spear infantry
+HP 80 Atk 11 +4 vs cavalry Parry 35% Cost 16
+Unyielding: doubel damage when hp<50%
+
+ShieldBreaker: heavy hammer infantry
+HP 110 Atk 18 +6 vs heavy Armor 2/0 Cost 26
+
+HearthGuard: heavy spear infantry
+HP 140 Atk 10 +12 vs cavalry Armor 2/2 Cost 26
+
+Sun/Moon Priest: light staff infantry
+HP 40 Atk 6 +4 vs undead Cost 15/20
+Healing(Sun): allies in the lane regen 6 hp/sec
+Aura(Moon): allies in the lane take -10% damage
+
+Skirmisher: light ranged javelin infantry
+HP 40 Atk 8 +2 vs heavy Range 6 Cost 10
+
+Halberdier: light spear infantry
+HP 45 Atk 7 +10 vs cavalry Cost 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VERSION 2.0
+
+ABILITIES:
+Rally Cry: heal 60 hp to units in one lane, generate +75% morale for 10 seconds COST 20 G
+War Cry: melee units in one lane get +10 atk   COST 8 G
+Healing: apply regen 20 hp/sec for 30 seconds to allies in one lane  COST 15 G
+Barrier: allies in one lane take -50% damage for 30 seconds COST 20 G
+Repair: recover 20 hp of the main camp COST 20 G
+
+Guardsman: light spear infantry
+HP 300 Atk 26 +28 vs cavalry Armor 0/10 Cost 10
+
+Archer/Longbowman: light ranged bow infantry
+HP 180/200 Atk 18 +9 vs infantry Range 22/26 Cost 12/20
+Bleeding(Longbowman): target lose 5% of his hp with each hit
+Stealth(Longbowman): enemies have -50% range vs this unit
+
+Skirmisher: light ranged javelin infantry
+HP 200 Atk 30 +6 vs heavy Range 14 Cost 10
+
+Scout cavalry: light sword cavalry
+HP 350 Atk 44 +14 vs ranged Speed 3 Cost 14
+
+Lancer cavalry: heavy spear cavalry
+HP 480 Atk 44 +16 vs ranged units Speed 3 Armor 0/10 Cost 24
+Charge: first attack deal double damage
+
+Swordman: light sword infantry
+HP 270 Atk 48 +12 vs spear Cost 10
+
+Assassin: light sword infantry
+HP 200 Atk 32 +8 vs spear Speed 2 Parry 20% Cost 10
+Bleeding: traget lose 10% of his hp with each hit
+
+Legionary: heavy sword infantry
+HP 440 Atk 48 +12 vs spear Armor 0/10 Cost 16
+
+Siege Crossbow: ranged crossbow
+HP 200 Atk 25 +10 vs heavy Range 26 Cost 32
+Piercing shot: bolts deal damage to all enemies in the lane, fires 50% slower
+
+ShieldBreaker: heavy hammer infantry
+HP 500 Atk 66 +16 vs heavy Armor 10/10 Cost 26
+Heal 90 whenever an ally dies
+
+ACCADEMY
+All melee units +8 atk
+All ranged units +8 range and +8 atk
+All units +80 hp, sword and spear +120 hp instead, cavalry +160 hp instead
+
+All spear infantry +24 dmg vs cavalry
+All ranged units +5 atk, bows +5 range, skirmisher +5 dmg vs heavy
+All sword infantry and cavalry +8 atk, lancer +16 atk
+Armored units +0/8 armor, shieldbreaker +8/8 armor
+
+All crossbow units +8 dmg vs heavy, skirmisher +8 atk, bows +8 dmg vs infantry
+Sword, hammer and cavalry +10 bonus damage
+Gold income +100%
+Start with +100 G, repair +10
+
+All ranged units +80 hp, melee light units +100 hp, heavy units +240 hp, shieldbreaker +300 hp
+Spear +10 atk, sword +20 atk, hammer +40 atk
+
+
+ENEMY UNITS
+****PIRATES****
+Cutthroat: light sword infantry
+HP 40 Atk 10 +2 vs spear Cost 8
+
+Mercenary spearman: light spear cavalry
+HP 50 Atk 8 +4 vs cavalry Cost 9
+
+Mercenary archer: light ranged bow infantry
+HP 30 Atk 6 +1 vs infantry Range 12 Cost 12
+
+Skirmisher: light ranged javelin infantry
+HP 40 Atk 10 +5 vs heavy Range 8 Cost 15
+
+Horseman: light spear cavalry
+HP 80 Atk 6 +4 vs ranged Speed 3 Cost 14
+
+Gladiator: light sword infantry
+HP 70 Atk 10 +3 vs infantry Parry 30% Cost 10
+Unyielding: double damage when hp<50%
+
+Night Stalker: light sword infantry
+HP 85 Atk 13 Speed 2 Armor 3/0 Cost 15
+Poison: 10%
+Stealth:
+
+****ORCS****
+Orc Archer: light ranged bow infantry
+HP 45 Atk 6 +2 vs infantry Range 10 Cost 14
+Poison: 5% to instakill
+
+Orc Axe thrower: light ranged axe infantry
+HP 60 Atk 20 +6 vs light Range 8 Cost 15
+
+Orc Spearman: light spear infantry
+HP 60 Atk 8 +6 vs cavalry Cost 10
+
+Axeman/Berserker/Elite Berserker: light axe infantry
+HP 40/40/65 Atk 13/14/20 +3/4/6 vs infantry Speed 2 Cost 10
+Heal 0/5/10 per kill
+
+Iron Warrior: heavy axe infantry
+HP 180 Atk 30 +5 vs spear +5 vs cavalry -5 vs lancers Armor 5/0 Cost 16
+
+Iron Rider/Elite Iron Rider: heavy axe cavalry
+HP 120/240 Atk 10/24 +8 vs ranged Armor 0/0-4/4 Speed 3 Cost 22
+
+Orc Warlord/Elite Orc Warlord: heavy axe cavalry
+HP 300/360 Atk 30/36 +10/12 vs ranged Armor 4/4 Speed 3 Cost 40
+Heal 40/50 hp per kill
+
+Cave Ogre/Elite Cave Ogre: heavy
+HP 400/480 Atk 32/36 +10 vs heavy Armor 6/0 Cost 34  FEAR
+
+****UNDEAD****
+Skeleton spearman: light spear infantry
+HP 70 Atk 9 +7 vs cavalry Cost 7
+
+Skeleton swordman: light sword infantry
+HP 60 Atk 11 +2 vs infantry Cost 7
+
+Skeleton archer/Elite skeleton archer: light ranged bow infantry
+HP 40/60 Atk 8/10 +1/4 vs infantry Range 14/18 Cost 10
+
+Tomb Guard: heavy spear infantry
+HP 140 Atk 20 +8 vs cavalry +6 vs heavy -6 vs lancers Armor 0/5 Cost 12
+
+Skeleton Crossbowman: light ranged crossbow infantry
+HP 50 Atk 12 +4 vs infantry strike three times Range 14 Cost 14
+
+Immortal: light axe infantry
+HP 90 Atk 17 Armor 8/12 Cost 12
+
+Bone Fiend/Elite Bone Fiend: light
+HP 80/120 Atk 10/20 +2/0 vs light +4/8 vs ranged Speed 3 Cost 10
+Poison(Elite): 10% to instakill
+
+Tomb Lord: light staff infantry
+HP 100 Atk 20 Cost 30
+Drain 50%
+Poison: 12%
+Dark Barrier: take 1 damage from ranged attacks
+
+Soul Reaper: heavy
+HP 500 Atk 40 Range 32 Cost 40
+Drain 25%   +10 dmg on melee range
+
+****MARU****
+Maru swordman: light sword infantry
+HP 80 Atk 9 +3 vs infantry Speed 2 Cost 12
+Parry 25%  regen 6 hp/sec
+
+Maru skirmisher: light ranged javelin infantry
+HP 45 Atk 12 +4 vs heavy +4 vs ranged Range 9 Speed 2 Cost 12
+regen 6 hp/sec
+
+Maru Blowpipe: light ranged infantry
+HP 50 Atk 8 +2 vs infantry +2 vs light Range 14 Speed 2 Cost 14
+regen 6 hp/sec
+
+Maru spearman: light spear infantry
+HP 80 Atk 9 +8 vs cavalry Armor 0/4 Speed 2 Cost 10
+regen 6 hp/sec
+
+Maru Champion: light sword infantry
+HP 50 Atk 11 Speed 2 Cost 8
+Parry 40%  regen 3 hp/sec
+
+Maru Axeman: heavy axe infantry
+HP 300 Atk 28 +6 vs infantry Armor 4/0 Speed 2 Cost 22
+regen 12 hp/sec
+
+Maru Sentinel: heavy infantry
+HP 300 Atk 18 Armor 6/6 Speed 2 Cost 22
+regen 12 hp/sec
+
+****HUMANS****
+Royal Archer: light ranged bow infantry
+HP 55 Atk 10 +3 vs infantry Range 14 Cost 12
+
+Royal Guardsman: light spear infantry
+HP 140 Atk 12 +8 vs cavalry Armor 0/4 Cost 10
+
+Royal Lancer: heavy spear cavalry
+HP 220 Atk 15 +12 vs ranged Armor 0/4 Speed 3 Cost 20
+charge: x2 damage on first hit
+
+Royal Legionary: heavy sword infantry
+HP 200 Atk 20 +6 vs spear Armor 0/4 Cost 16
+
+****RED LEGION****
+Archer: light ranged bow infantry
+HP 100 Atk 20 +10 vs light Range 18 Cost 20
+
+Shieldbreaker: heavy hammer infantry
+HP 420 Atk 42 +18 vs heavy Armor 6/0 Cost 30
+
+Lancer: heavy sword cavalry
+HP 420 Atk 32 +10 vs ranged Armor 0/5 Speed 3 Cost 32
+
+Hearthguard: heavy spear infantry
+HP 480 Atk 28 +24 vs cavalry Armor 0/6 Cost 30
+
+
+
