@@ -1,0 +1,255 @@
+GRUPPI
+GAELS: infantry
+RUTENI: infantry and cavalry
+DUCTH: cavalry and naval
+SWISS: defense
+FRISIANS: infantry and naval
+SILESIANS: cavalry and monks
+
+
+GAELS
+infantry civilization
+
+-Town Center techs* cost -40% (except Age up)
+-Wheel barrow and Hand cart also provide +2 carry capacity
+-Light cav +5 HP each Age, starting in Feudal Age (max +15)
+-Monks +1/2 range in Caste/Imperial Age
+UU Gallowglass(infantry)
+CT Hobelar: stable and infantry units +4 dmg vs infantry COST 500F 350 G 40 sec
+IT Gaelic Warfare: Unique units from player and allies cost
+-20% G, their elite upgrade also cost -20% COST 800 F 600 G 60 sec
+TB Herdables +1 los
+
+*Wheelbarrow, Hand Cart, Town Watch, City Watch, Loom
+
+Gallowglass
+HP 60-75
+Atk 13-16 [20]
+vs building +5-6 [8]
+vs infantry +0 [4]
+Rof 2.0
+Armor 2/1-4/2 [7/6]
+Speed 0.96 [1.05]
+Cost 45 F 45(36) G 14-10 sec
+Up cost 1250(1000) F 750(600) G 60 sec
+Special: can cut and destroy trees
+
+Missing techs:
+A-infantry: nothing
+B-archers: thumb ring, parthian, HC, archer armor III
+B-stable: cavalier
+B-siege: siege onager, heavy scorpio, BC
+B-navy: HDS, elite CG, shipwright
+B-monks: BP*, heresy, atonement, theocracy
+C-defense: Keep,BT,architecture,fortified wall,treadmill,sappers
+A-economy: nothing
+
+RUTENI
+infantry and cavalry civilization
+
+-Barrack, Archery Range, Stable and Siege Workshop cost -50 W
+-Lumber and Mining camp upgrades provide +50 F to farms each (+200 F in total)
+-Fortified Monastery work 33% faster and heal 30 hp/min to allies in 12 tiles
+-Cavalry armor provide another +1/0 armor
+UU Druzhina rutena(heavy cavalry)
+RB Fortified Monastery
+CT-Voievodstvo: infantry and cavalry +2 atk
+COST 450 F 450 G 40 sec
+IT-Zbroia Narodu: militia-line +0/1 armor, remove
+spearman weakness to archers COST 600 F 400 G 50 sec
+TB-Monks +2 los
+
+Druzhina rutena: heavy cavalry that is effective at disposing
+of enemy anti cavalry units, but is weaker to ranged attacks
+HP 110-140 [160]
+Atk 10-14 [20]
+Rof 2.0
+Armor 2/2 [8/6]
+Speed 1.35 [1.48]
+Cost 75 F 75 G 21 sec
+Up cost 1200 F 800 G 60 sec
+Special: take -40/50% bonus damage
+
+In summary:
+-militia +2 atk, +0/1 armor
+-spearman +2 atk, +8 spear armor
+-light cav +2 atk, +3/0 armor
+-knight  +2 atk, +3/0 armor
+
+Missing techs:
+A-infantry: nothing
+B-archers: crossbowman, HC
+A-cavalry: paladin
+B-siege: BC, siege onager, siege engineers
+A-monks: heresy
+B-navy: shipwright
+B-defense: BT, architecture, heated shot
+C-economy: crop rotation*, 2-h-saw, both shaft mining, guilds
+
+DUTCH
+cavalry and naval civilization
+
+-Market techs cost no G
+-Wind Mill replace the Mill
+-Trade units occupy -25% population space
+-Trade carts are affected by cavalry upgrades
+-Monks cost -40% and -40% train time
+-Stable units +1/2/3 atk
+UU Hellburner(demoship), arquebusier(gunpowder), Goedendag(infantry)
+CT-Urban Militia: fortifications fire gun shots
+IT-Rotterdam: Galleons, Bombard Galleon, Bombard Cannon +1 range
+TB Spearman and skirmisher train 33% faster
+
+Wind Mill: Replace the Mill. Farms positioned directly
+nearby the Wind Mill recover 15 F/min
+Cost 125 W 30 sec.
+
+Hellburner: replace heavy demoship
++10% speed, +0.5 blast radius, +5 hp, cost -25 G
+Explosion set enemy ship on fire, dealing 70 dmg over 10 sec
+
+Arquebusier: hand cannoner upgrade
+HP 50
+Atk 20
+vs infantry +12
+vs spear +2
+vs siege +2
+Rof 3.4
+Range 8
+Armor 2/1 [5/5]
+Speed 0.96
+Up cost 750 F 450 G 50 sec
+
+Goedendag: replace pikeman and halberdier
+HP 55-65
+Atk 8-10 [14]
+vs cavalry +10-16
+vs elephants +10-20
+vs camels +7-11
+vs buildings +3-5 [7]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.0 [1.1]
+Up cost 200 F 100 G 20 sec
+Up cost 500 F 500 G 50 sec
+Take no anti spear damage
+
+Missing techs:
+A-infantry: gambeson*
+A-archers: arbalester, HA, thumb ring, parthian
+A-cavalry: paladin
+B-siege: siege onager, siege ram
+A-navy: nothing
+B-monks: faith, sanctity, theocracy, redemption, illumination
+A-defenses: nothing
+A-economy: nothing
+
+COMPARED TO ROBBY
+lose HA, siege ram, faith
+gain champion, bloodlines, hussar, cavalry armor III,
+heavy scorpio, siege engineers
+
+SWISS
+Defense civilization
+
+-Can upgrade Town Center to City Center in Castle Age
+-villager +5/10/15 HP
+-Palisades and Military buildings cost -40% (Barrack, Archery Range, Stable, Siege Workshop)
+-siege units move 15% faster
+UU SwissGuard (spearman), Heavy crossbow (archer)
+CT Landsturm (spearman are created 100% faster,
+reduce by 15% blast damage taken by infantry)
+IT Reislaufer (receive 10 G every time a spearman is recruited*,
+turn hand cannon cost to 60 G)
+TB-Trade carts move 15% faster, can trade with Town Centers
+
+*only if an ally is making spearmen, you get nothing from your
+own spearman recruited at your own Barracks
+
+Heavy crossbowman
+HP 50-60
+Atk 7-9 [13]
+Range 5 [8]
+Rof 2.1
+Los 7 [10]
+Accuracy 95-100%
+Armor 1/0 [4/4]
+Speed 0.9
+Cost 45 W 45 G 18-15 sec
+Up cost 550 F 350 G 40 sec
+
+Compared to Crossbowman-Arbalester
++15/20 HP +2/3 atk +1/0 armor
++0.4 Rof -0.06 speed   +20 W cost
+
+Swiss Guard (replace halberdier)
+HP 70
+Atk 8 [12]
+anti cav +32
+anti elephant +28
+anti camel +26
+Rof 3.0
+Range 0.5
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+
+Compared to halberdier
++10 HP +2 atk +0.5 range +1/0 armor
+
+City Center:
+Have +1200 HP, +2 atk, +5 garrison, provide +15 population.
+Counts as a stone defense, hence, it gets bonus range from
+blacksmith archer attack upgrades (up to 9 range).
+Produce villager 50% faster WHILE researching techs.
+Up cost 200 W 50 S 100 sec
+
+Missing techs
+A-infantry: nothing
+B-archers: HA, thumb ring, parthian tactics
+C-stable: hussar, paladin, cav armor III
+B-siege: siege ram, heavy scorpio
+C-navy: HDS, FFS, Galleon, shipwright
+B-monk: redemption
+A-defense: heated shot, treadmill
+A-economy: crop rotation
+
+FRISIANS
+infantry and naval civilization
+
+-Warships +0/1 armor each Age, starting from Feudal Age
+-Hulks +1/2 atk in Castle/Imperial Age
+-Can build Terpen from Feudal Age
+-Each garrisoned relic reduce G cost of Militia-line by 5, max -15
+UU Shieldbearer(infantry)
+CT-Dike System: Fortifications act as drop off point for
+resources, provide an aura that make resources last 20% longer
+in 8 tiles COST 400 F 300 G 40 sec
+IT-Freedom: infantry +1/1 armor, can train Shieldbearer from Barracks
+COST 750 F 450 G 60 sec
+TB-Fish traps and farms +2 los
+
+Terpen: drop off site for all resources, can be partially
+built on water. Provide +5 population, develop eco techs.
+Can be garrisoned with 5 villagers. Replace Mills, Lumber/Mining camps.
+Basically, a Settlement that can be partially built on water.
+Cost 125 W 100 sec
+
+Shieldbearer
+HP 70-80
+Atk 8-10 [14]
+vs cavalry +6-12
+Rof 2.0
+Armor 3/3 [7/8]
+Speed 0.96 [1.05]
+Cost 65 F 15 G 16-14 sec (32-28 sec from Barracks)
+Up cost 750 F 550 G 50 sec
+
+Missing techs:
+A-infantry: nothing
+B-archers: arbalester, parthian, thumb ring, Heavy horse archer
+B-cavalry: hussar, paladin, bloodlines
+C-siege: siege ram, siege onager, BC, heavy scorpio, siege engineers
+S-navy: careening*
+B-monks: heresy
+A-defenses: Bombard tower
+A-economy: crop rotation*

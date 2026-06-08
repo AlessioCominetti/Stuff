@@ -1,0 +1,366 @@
+An Aoe that centers around the civilizations of
+the Mediterranean.
+BUILDINGS
+House: 50 W   +5 population   HP 750
+Storehouse: 120 W  drop off point for resources HP 2000
+Market: 150 W trade resources, research economy upgrades HP 2000
+Blacksmith: 150 W develop military technologies HP 2000
+Farm: 100 W provide 300 F, up to 750 F    HP 500
+Tower: 150 S  defensive structure HP 600-900-1200-1500 Atk 3-4-7-12 Range 5-6-7 [10] Armor 0/3-1/4-2/5-2/5
+Wall: 5 S defensive barrier  HP 1000-1500-2000-2400   Armor 0/3-1/4-2/5-2/5
+
+Barrack: 200 W train infantry units HP 2000
+Archery Range: 200 W train ranged units HP 2000
+Stable: 200 W train cavalry units HP 2000
+Siege workshop: 200 W train siege units HP 2000
+Temple: 200 W train and develop priests HP 2000
+Town Center: 200 W train villagers and develop technologies, +5 population HP 3000
+Dock: 200 W train and develop ships HP 2000
+Fort: 600 S train unique units and develop unique techs HP 4000
+
+TECHS
+Melee attack I-III: melee units +2 atk: 100 F - 200 F 100 G - 300 F 200 G
+Melee armor I-III: military units +2/0 armor: 300 F - 375 F 150 G - 450 F 300 G
+Pierce armor I-III: infantry units, cavalry and skirmisher +0/1 armor: 150 F 200 G - 200 F 300 G - 250 F 400 G
+Archer attack I-III: ranged units +1 atk and range: 50 F 50 G - 150 F 100 G - 250 F 150 G
+---
+Wood I-III: woodcutter work 20% faster: 100 F 50 W - 200 F 100 W - 250 F 150 W
+farm I-III: farms contain +150 F: 150 F 50 W - 250 F 75 W - 350 F 100 W
+stone I-III: stone miner work 10% faster: 100 F 50 S - 150 F 75 S - 200 F 100 S
+gold I-III: gold miner work 10% faster: 100 F 50 G - 150 F 75 G - 200 F 100 G
+---
+Medicine: priest heal 100% faster: 300 G
+sanctity: priest +100% Hp and +25% speed: 240 G
+conversion: enable the priest ability to convert: 300 G
+afterlife: priest +3 conversion range: 300 G
+---
+bloodlines: mounted units +20% HP: 200 F 150 G
+architecture: buildings +20% HP, -33% build time: 200 F 200 W
+siege enginers: siege units +2 range: 200 F 200 W
+Age up to Bronze/Iron Age: 1000 F - 1000 F 1000 G
+
+UNITS
+BARRACK
+I)axeman-swordman-elite swordman-veteran swordman  [light infantry, infantry]
+HP 50-80-100-140
+Atk 5-8-12-14 [20]
+vs cavalry +4-1-0-0
+Armor 0/0-1/0-2/0-2/0 [8/3]
+Speed 1.0
+Cost 35 F 15 G 20 sec [0.5 population]
+Up cost 100 F 50 G 30 sec
+Up cost 250 F 100 G 50 sec
+Up cost 1400 F 600 G 100 sec
+
+II)Hoplite-elite Hoplite-Veteran Hoplite [heavy infantry, infantry]
+HP 120-120 [160]
+Atk 17-20 [36]
+Armor 5/0-8/0 [14/3]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 500 F 200 G 50 sec
+Up cost 1800 F 700 G 100 sec
+
+II) Spearman-Guardsman [light infantry, infantry]
+HP 80-120
+Atk 6-8 [14]
+vs cavalry +15-20
+Armor 1/0-2/0 [8/3]
+Speed 1.0
+Cost 40 F 10 G 20 sec [0.5 population]
+Up cost 1000 F 400 G 80 sec
+
+ARCHERY RANGE
+I)Archer-composite archer-longbowman [archer]
+HP 40-50-60
+Atk 2-3-4 [7]
+vs horse archers +0-0-1
+Range 5-6-7 [10]
+Armor 0/0 [6/0]
+Speed 1.0
+Cost 50 F 30 G 40 sec
+Up cost 100 F 100 W 30 sec
+Up cost 200 F 200 W 50 sec
+
+I)Skirmisher-elite skirmisher-veteran skirmisher [archer]
+HP 30-40-50
+Atk 2-3-4 [7]
+vs archers +4-5-6
+vs buildings +2-3-4
+Range 4-5-5 [8]
+Armor 0/2-0/3-0/5 [6/8]
+Speed 1.0
+Cost 50 F 50 W 50 sec
+Up cost 200 F 100 W 30 sec
+Up cost 300 F 100 G 100 sec
+
+III)Horse archer-Heavy Horse archer [archer, cavalry, horse archer]
+HP 60-80 [96]
+Atk 5-6 [9]
+Range 6-7 [10]
+Armor 0/1 [6/1]
+Speed 2.0
+Cost 50 F 70 G 50 sec
+Up cost 1800 F 800 G 100 sec
+
+III)Elephant archer [archer, cavalry, horse archer]
+HP 500 [600]
+Atk 4 [7]
+Range 7 [10]
+Armor 0/0 [6/0]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+
+STABLE
+II)Cavalry-heavy cavalry-Cataphract [cavalry]
+HP 150-180-230 [276]
+Atk 8-10-14 [20]
+vs light infantry +4-5-6
+Armor 2/0-3/0-5/0 [11/3]
+Speed 1.7
+Cost 70 F 80 G 50 sec
+Up cost 350 F 150 G 50 sec
+Up cost 1600 F 600 G 100 sec
+
+III)War Elephant-Armored Elephant [cavalry]
+HP 500 [600]
+Atk 10-12 [18]
+vs buildings +15-20
+Armor 0/0-2/1 [8/1]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+Up cost 1000 F 1200 G 200 sec
+
+II) Chariot-War Chariot [cavalry]
+HP 150-180 [216]
+Atk 10-12 [18]
+vs archers +2-3
+Armor 0/0-2/1 [8/1]
+Speed 1.7
+Cost 60 F 90 W 60 sec
+Up cost 1400 W 1000 G 100 sec
+Gain Trample 50%, blast 1.0 when upgraded to War Chariot
+
+II)Camel rider-Heavy Camel rider [cavalry]
+HP 120-150 [180]
+Atk 7-10 [16]
+vs cavalry +8-16
+Armor 0/0-2/1 [8/1]
+Speed 1.7
+Cost 70 F 60 G 40 sec
+Up cost 400 F 400 G 60 sec
+
+SIEGE WORKSHOP
+II) Catapult-Heavy Catapult
+HP 75-150
+Atk 50-60
+vs buildings +140
+Blast 1.0-1.5
+Rof 8/0
+Range 10-13 [15]
+Armor 0/3
+Speed 0.8
+Cost 180 W 80 G 60 sec
+Up cost 2000 W 1500 F 150 sec
+
+III) Ballista-Heavy Ballista
+HP 50-60
+Atk 40-45
+Range 9-10 [12]
+Armor 0/0
+Speed 0.8 
+Cost 100 W 80 G 50 sec
+Up cost 1200 W 1000 F 100 sec
+
+II) Battering Ram-Heavy Ram
+HP 200-300
+Atk 5
+vs buildings +100-120
+Armor 0/50
+Speed 0.8
+Cost 160 W 80 G 60 sec
+Up cost 1200 F 100 sec
+
+TEMPLE
+II) Priest
+HP 25 [50]
+Heal 2.5 [5]
+Range 9 [12]
+Speed 0.8 [1.0]
+Cost 100 G 50 sec
+
+DOCK
+All warships can garrison 10 units inside
+I) Scout ship-War ship-Trireme
+HP 120-160-200
+Atk 5-7-9 [12]
+Range 5-6-7 [10]
+Armor 0/0
+Speed 1.5
+Cost 150 W 30 sec
+Up cost 150 F 100 W 30 sec
+Up cost 250 F 150 W 50 sec
+
+II) Siege ship-Quinquireme
+HP 160-200
+Atk 30-35
+vs buildings +120-150
+Blast 1.0-1.5
+Rof 8.0
+Range 10-13 [15]
+Armor 0/0
+Speed 1.2
+Cost 150 W 50 G 40 sec
+Up cost 1600 F 1000 W 100 sec
+
+II) Ram ship-Quadrireme
+HP 160-200
+Atk 40-50
+Armor 0/0
+Speed 2.0
+Cost 150 W 50 G 40 sec
+Up cost 400 F 200 G 50 sec
+
+I) Fishing ship
+HP 45-60-75
+Armor 0/0 Speed 1.5 Cost 50 W 20 sec
+
+TOWN CENTER
+I) Villager
+HP 40
+Atk 4 [10]
+vs buildings +3-6-10
+Armor 0/0
+Speed 1.0
+Cost 50 F 20 sec
+
+CIVILIZATIONS
+(removed, sumerians, minoans, palmyrians, shang, lac viet
+reworked  choson->spartans, greeks->atenians, yamato->huns)
+
+ASSYRIANS
+-Horse Archers attack 33% faster
+-Siege unit upgrades cost -50%
+-Forager work 20% faster
+UU Assyrian Rider(horse archer)
+UT Drill: siege units move 50% faster
+TB Siege workshop work 20% faster
+Miss: skirmisher, HHA, elephants, War Chariot, hoplite
+
+BABYLONIANS
+-Stone miner work 20% faster
+-Market techs cost -30%
+-Walls and towers +60% Hp
+-Priest rejuvenates 30% faster
+UU Uruk spearman(sperman)
+UT Quilted armor: mounted units +0/1 armor
+TB Builder work 10% faster
+Miss: HHA, elephants, hoplite, ballista
+
+CARTHAGINIANS
+-Start with +50 F/W/S/G
+-Hoplites, elephants +25% HP
+-Ram ship +25% Atk
+-Free Bloodlines
+UU Noble(heavy infantry)
+UT Council of 104: Docks, Town Centers cost -25%
+TB Barracks work 20% faster
+Miss: astrology, veteran sword, HHA,
+chariots, cataprhact
+
+EGYPTIANS
+-farms cost -20%
+-goldminer work 20% faster
+-Chariot +33% HP
+-Priest +2/3 range
+UU Kopesh warior(swordman)
+UT Alexandria's Library: villagers and priest occupy -20% population
+TB Priest +0/1 armor
+Miss: Shield I, elite sword, HA, cavalry, heavy catapult,
+ballista, hoplite
+
+ATENIANS
+-Town Centers work 10% faster
+-Fishing ships work 20% faster
+-Hoplites, ships cost -25%, move 20% faster
+-Temple techs cost -50%
+UU Strategos(heavy infantry)
+UT Delian League: infantry units take no, bonus damage, deal +50% bonus damage
+TB Market, Blacksmiths cost -50%
+Miss: veteran sword, composite archer, chariots,
+elephants, Cataphract, camels, HA
+
+HITTITES
+-Horse arches +1 atk
+-Catapult +50% HP
+-Trireme, Towers, foot archers +1/2 range
+UU Qadesh's Chariot(chariot)
+UT Lion's Gate: Town Centers and Temples +80% HP
+TB Towers +5 population
+Miss: Medicine, afterlife, skirmisher, elite sword,
+heavy cavalry, ballista, veteran hoplite
+
+MACEDONIANS
+-hoplite +0/1, 0/2 armor
+-Siege units cost -25%
+-All units +2 los and resist conversion x2
+UU Phalangite(heavy infantry)
+UT Pzetairoi: infantry units +40 HP
+TB Houses +100 HP, built 50% faster
+Miss: elite sword, chariots, camels, heavy catapult,
+heavy ballista
+
+PERSIANS
+-Hunters work 30% faster
+-Mounted units move 10% faster
+-Trireme attack 25% faster
+-Ranged units +2/0 armor
+UU Immortal(heavy infantry/archer)
+UT Kamandaran: archers cost only F, Forts +1000 HP
+TB Stables work 20% faster
+Miss: Chariots, heavy catapult, ballista, hoplite
+
+PHOENICIANS
+-woodcutter work 20% faster
+-Elephants cost -25%
+-Catapult and siege ship fire 33% faster
+-Docks +150 HP and +2 los
+UU Slinger(archer)
+UT East Trade: Town Centers generate a small tickle of all resources
+TB buildings +2 los
+Miss: HA, heavy cavalry, ballista
+
+ROMANS
+-buildings cost -10%
+-Towers and walls cost -20%
+-Swordman attack 50% faster
+-Ballista +1 range
+-Barrack upgrades cost -30%
+UU Legionary(swordman), Centurion(cavalry)
+UT Pax Romana: villagers work 5% faster
+TB Priest heal 50% faster
+Miss: afterlife, composite archer, HA, elephants,
+heavy cavalry, camels
+
+SPARTANS
+-Barrack units +2/0, +4/0 armor
+-Blacksmith techs cost -50%
+-Priest cost -30%
+-Ships +15/20/25% HP
+UU Hippeus(heavy infantry)
+UT Peloponnesian League: infantry units and Ram ship attack 20% faster
+TB Town centers +5 population
+Miss: longbow, HA, elephants, camels, chariots
+
+HUNS
+-Mounted units cost -15/20%
+-Villager cost -20%, start with -40 F
+-Stable ad Archery Range upgrades cost -30%
+UU Mangudai(horse archer)
+UT Scourge of God: all units resist conversion x2
+TB Military buildings cost -25%
+Miss: elite sword, elephants, camels, chariots,
+heavy catapult, ballista
+
+
+

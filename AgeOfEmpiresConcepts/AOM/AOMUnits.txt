@@ -1,0 +1,748 @@
+*************
+***GREEKS****
+*************
+-Start with 4 villagers and a kataskopos
+-Start with 200 F 250 W 50 G
+-Villager can pray at a Temple to generate Favor
+-Heroes are limited to one per age
+-Warships +10% HP
+
+ZEUS
+-start with +10 favor
+-gain favor 20% faster
+-Myth units cost 1 less population
+-infantry +60% damage to buildings
+-Hoplite move 15% faster
+HADES
+-infantry units cost -20%
+-Myth units +15% HP
+-Ranged fortifications +1 range
+-Ballistics and Chemistry are free
+POSEIDON
+-Militia spawn from destroyed buildings
+-Cavalry and myth units move 10% faster
+-Stables cost -30%
+-A free hippocampus spawn from the first dock
+DEMETER
+-each herdable animal near a temple, max 10,
+improves the favor rate of workers praying at that temple
+by 3% each, max 30%
+-Town Centers spawn herdables with each age up
+-builders work 50% faster within a range of a gold mine
+-Farms cost -50%
+-Town Centers +4% hp and +10% atk for each villager garrisoned
+-start with +10 favor
+
+ATENA
+sarissa: hoplite +10% atk and +0.5 range
+aegis shield: infantry -15% pierce vulnerability
+Minotaur
+APOLLO
+sun ray: ranged units +15% atk
+oracle: all buildings +5 los
+temple of healing: temple heal nearby units
+Manticore
+HERA
+monstrous rage: myth units +25% atk and +15% move speed
+gorgon: medusa +5 range -25% CD
+argive patronage: fort make 1 mirmidon every 60 sec
+Atenian walls: wall +30% hp, other buildings +20% hp
+Medusa, Carcino
+HERMES
+spirited charge: cavalry +10% speed and attack
+sylvan lore: centaurs +35% hp and +3 range
+winged messengers: pegasi +6 los and +20% move speed
+Centaur
+DYONUSUS
+Dionysia: all units +5% hp
+Thracian horses: cavalry heal by 30% of damage dealt
+Chthonic Rites: Hydra and Scylla regen 120 hp/min
+Anastrophe: pentekonteres +20% atk, +10% move, -20% train time
+Hydra, Scylla
+HEPHAESTUS
+forge of olympus: blacksmith techs cost -75% and work 100% faster
+Hand of Talos: colossus +50% hp and -20% hack vulnerability
+Olympian weapons: unique units +20% atk and +1.0x vs myth
+Colossus
+ARES
+Phobo's spear: hoplite, podromoi, militia +1 true damage
+Enyo's Bow of Horror: archers +10% atk
+Deimos's Sword of Dread: hypaspists +15% atk
+Cyclop
+APHRODITE
+golden apple: +20% favor income
+Divine blood: villager move 20% faster, +10 carry capacity and build 15% faster
+Argonauts: unlock the Argo, spawn one Argonaut
+Nemean Lion
+ARTEMIS
+Shafts of Plague: archers +10% atk and deal poison damage
+Beast Slayer: heroes +2.0x vs myth units
+Triearch: triremes and Argo +30% crush armor
+Chimera
+PAN
+Thorned walls: walls and gates deal 3 hack damage
+Pan's Pioneers: Spawn 2 lykaons from the first town center
+Lykaon worker
+HESTIA
+Hospitality: up to 2 farms add +5 population, for each Town Center
+Fated Arrows: ranged soldiers projectiles chain up to 2 targets
+Hamadryad
+PERSEPHONE
+Sacred Land: farms heal 1 friendly unit at 3 hp/sec
+Sacrifice: infantry deal +10% atk for 5 sec to nearby human soldiers on death (max +50%)
+Siren
+
+COMMON UNITS
+
+--Villager--
+50 F 1 pop 18 sec 100 max
+HP 55 Speed 4 armor 25/35% Atk 6  Rof 1  4x vs towers
+BARRACK
+--Hoplite--
+50 F 40 G 2 pop 12 sec
+HP 120 Speed 4.4 armor 40/15%  Atk 8 rof 1  1.25 vs cavalry
+--Hypapist--
+60 F 25 G 2 pop 10 sec
+HP 100 Speed 4.4 armor 35/10  Atk 5 rof 1  5x vs infantry
+--Mirmidon--
+70 F 50 G 3 pop 7.5 sec
+HP 150 speed 4.4 armor 40/20  Atk 8 rof 1   True damage
+--Militia--
+70 F 1 pop created when a building is destroyed
+HP 100 speed 5 armor 30/20  Atk 5  rof 1  1.5x vs cavalry
+ARCERY RANGE
+--Toxotes--
+55 W 35 G 2 pop 15 sec
+HP 65 Speed 4 armor 15/15   Atk 6 rof 1 range 15  1.25 vs infantry
+--Peltast--
+70 W 25 G 2 pop 10 sec
+HP 65 Speed 4 armor 10/40  Atk 5 rof 1.5  range 18  4 vs archer
+--Crossbowman--
+100 W 60 G 3 pop 9 sec
+HP 80 speed 4 armor 5/15  Atk 12  rof 2  range 24   20x vs buildings
+STABLE
+--Hippeus--
+40 F 80 G 3 pop 16 sec
+HP 150 speed 5.5 armor 15/45  Atk 10 rof 1   1.5 vs archer
+--Podromos--
+70 F 40 G 3 pop 12 sec
+HP 145  speed 6 armor 20/10  Atk 8  rof 1.3   3.5 vs cavalry
+--Hetairos--
+50 F 90 G 3 pop 9 sec
+HP 160 speed 5 armor 5/40  Atk 8 rof 1  1.5x vs archers   trample 100%  2.5 blast
+--Kataskopos--
+70 F 1 pop 8 sec
+HP 70 Speed 5.5 armor 10/70  Atk 2 rof 1
+--Cataphract--
+50 F 100 G 3 pop 12 sec
+HP 180 speed 5 armor 10/40 Atk 8 rof 1  2x vs infantry
+SHIPYARD
+--Trireme--
+100 W 50 G 3 pop 15 sec
+HP 300 speed 5.5 armor 50/30  Atk 8 rof 0.5  range 15
+--Pentekonter--
+100 W 50 G 3 pop 15 sec
+HP 335 speed 7 armor 30/10  Atk 25 rof 1.5 range 2
+--Catapult trireme--
+100 W 50 G 3 pop 15 sec
+HP 270 speed 4.8 armor 10/60  Atk 2/4  rof 0.5  range 20  2x vs archer ship
+
+HEROES 
+ZEUS
+--Jason--
+100 F 50 G 2 pop 12 sec 1 limit
+HP 200-220-250-300 speed 4.3 armor 35/35% Atk 2-6-7-8 rof 1   14x vs myth
+--Heracles--
+75 F 175 G 3 pop 18 sec 1 limit
+HP 360-410-480 speed 5  armor 30/30% Atk 11-12-14 rof 1  10x vs myth
+--Odysseus-- ranged
+250 W 100 G 4 pop 20 sec 1 limit  favour 2
+HP 440-510 speed 4.2 armor 30/30% Atk 11-14 rof 1 range 18    10x vs myth
+--Bellerophon-- flier
+400 G 4 pop 20 sec 1 limit  favour 6
+HP 640 speed 6 armor 20/55% Atk 20 rof 1     7x vs myth
+
+HADES
+--Ajax--
+100 F 50 W 2 pop 12 sec 1 limit
+HP 200-220-240-280 speed 4.3 armor 40/35% Atk 2-8-9-10  rof  1   14x vs myth
+--Achilles-- cavalry
+75 F 175 G 3 pop 18 sec 1 limit   favour 2
+HP 330-375-440 speed 5.3 armor 30/45% Atk 10-11-13  rof 1    10x vs myth
+--Chiron-- cavalry, ranged
+250 W 100 G 2 pop 18 sec 1 limit   favour 4
+HP 440-510 speed 5.5 armor 20/30%  Atk 11-12 rof 1 range 19     10x vs myth
+--Perseus--
+400 G 4 pop 20 sec 1 limit    favour 6
+HP 700 speed 4.3 armor 20/40%   Atk 47(true) rof 1   9x vs myth
+
+POSEIDON
+--Theseus--
+100 F 50 W 2 pop 12 sec 1 limit
+HP 190-210-240-280 speed 4.3 armor 35/40%   Atk 2-7-8-10 rof 1    14x vs myth
+--Atalanta--
+75 F 175 G 3 pop 18 sec 1 limit  favour 2
+HP 290-325-380  speed 5.6  armor 35/50%   Atk 9-11-13 rof 1   9x vs myth
+--Hyppolita-- ranged
+250 W 100 G 2 pop 18 sec 1 limit  favour 4
+HP 400-470 speed 4.3 armor 25/35%  Atk 11-13 rof 1 range 20   10x vs myth
+--Polyphemus--
+400 G 4 pop 20 sec 1 limit  favour 6
+HP 1000 speed 1 armor 40/40%   Atk 24 rof 1    6x vs myth
+
+DEMETER
+--Orpheus-- support
+100 F 50 W 2 pop 12 sec 1 limit
+HP 200 speed 4.3 armor 35/40%  Atk 5 rof 1 range 18    7x vs myth
+Allies in 5 tiles get x4 dmg vs myths
+--Iolaus-- cavalry
+75 F 175 G 3 pop 18 sec 1 limit   favour 2
+HP 300 speed 5.6 armor 30/30%   Atk 10 rof 1   8x vs myth
+--Icarus-- flier, ranged
+250 W 100 G 4 pop 20 sec 1 limit  favour 4
+HP 300 speed 5 armor 30/30%   Atk 8 rof 1 range 18 blast 3  7x vs myth
+--King Mydas--
+400 G 4 pop 30 sec 1 limit  favour 6
+HP 480 speed 4.2 armor 20/40%   Atk 15 rof 1     6x vs myth
+Midas touch: deal 700 true damage, turn foe into a gold statue (500 G worth) CD 50 sec
+
+MYTHS
+--Minotaur-- land
+180 G 3 pop 20 sec favour 14
+HP 320 speed 4.5 Armor 60/50% Atk 15 rof 1  2x myth 0.5x vs heroes
+Charge: +50 atk, CD 15 sec, speed up
+--Centaur-- cavalry, ranged
+180 W 3 pop 20 sec favour 14
+HP 250 speed 5.5 Armor 20/20% Atk 12 rof 1 range 12    2x myth 0.5x heroes
+Volley: fire 3 arrows in quick succession, CD 15 sec
+--Cyclop-- land
+150 F 3 pop 20 sec favour 18
+HP 600 speed 3.5 Armor 40/55% Atk 12/20 rof 1  3x myth 0.5x heroes
+Throw: throw a human unit, dealing 65 hack in area of 3. CD 20 sec
+--Lykaon-- land
+80 W 100 G 3 pop 20 sec favour 15
+HP 350 speed 4.8 Armor 60/35% Atk 20 rof 1 2x myth 1.5x cavalry 0.5x heroes
+
+--Scylla-- sea
+200 G 4 pop 15 sec favour 20
+HP 800 speed 5.3 Armor 40/65% Atk 20/10 rof 1 1.5x myth 0.5x heroes
++50% damage over 100 Hp lost, up to +250%
+--Manticore-- land
+250 W 4 pop 17 sec favour 22
+HP 420 speed 4.6 Armor 30/60% Atk 11 rof 1 range 16 3x myth 0.25x heroes
+Spine Volley: fire 6 needles, CD 15 sec
+--Hydra-- land
+250 F 4 pop 20 sec favour 26
+HP 800 speed 4 Armor 60/50% Atk 20/12 rof 1 2x myth 0.5x heroes
++100% damage for each 100 HP lost, up to +500%
+--Nemean Lion-- land
+250 G 3 pop 20 sec favour 22
+HP 740 speed 4.8 armor 30/60% Atk 20/13 rof 1 3x vs myth 0.5x heroes
+
+--Carcinos-- sea
+200 W 3 pop 9 sec favour 15
+HP 900 speed 5 armor 70/60% Atk 30/17 rof 1  2x myth 0.5x heroes
+Self destruct: this unit explodes on death, dealing 100 pierce damage in area of 9
+--Harpy-- flier
+150 F 3 pop 14 sec favour 20
+HP 240 speed 5 armor 15/40% Atk 18 rof 1 range 10 2x myth 0.5x heroes
+Drop: deal 100 hack damage in area of 4, CD 10 sec
+--Medusa-- land, ranged
+250 W 4 pop 20 sec favour 24
+HP 500 speed 4.3 armor 60/70% atk 20 rof 1 range 16 2x myth 0.5x heroes
+Petrification: turn humans and myth units into stone for
+8 seconds, and deal 400 true damage. CD 20 sec
+--Colossus-- land
+350 G 4 pop 24 sec favour 30
+HP 1300 speed 3 armor 50/75% atk 24 rof 1 2x myth 0.5x heroes
+Can eat resources to restore 20 hp/sec from trees and gold mines
+--Chimera-- land
+280 F 4 pop 20 sec favour 26
+HP 700 speed 5.3 armor 60/60% atk 20 rof 1 3x myth 0.5x heroesS
+Blaze: release fire 120 over 6 seconds, CD 20 sec
+--Siren-- land/sea
+350 F 4 pop 20 sec favour 30
+HP 600 speed 4.4 armor 60/60% atk 36 rof 1 2x myth 0.5x heroes
+Lure: force a foe to approach her, at 50% speed, CD 2 sec
+
+SIEGE UNITS
+--Petrobolos--
+125 W 150 G 3 pop 15 sec
+HP 110 speed 2.4 armor 30/90  Atk 10/55 rof 4  range 10-28  blast 4  2.5 vs ships
+--Helepolis--
+300 W 200 G 5 pop 24 sec
+HP 600 Speed 3 armor 5/90   Atk 10/50  rof 2  range 10  blast 8
+--Ballista--
+150 W 150 G 3 pop 18 sec
+HP 90 speed 2.4 armor 20/90  Atk 22/20 rof 0.6  range 4-30  3x vs ships  8 blast
+--Cheiroballista--
+100 W 100 G 4 pop 24 sec
+HP 100 speed 4 armor 20/50  Atk 3 rof 0.5  range 17  5x vs infantry 3x vs ship
+--Battering ram--
+125 W 125 G 3 pop 12 sec   Garrison 5   +5% atk for each garrisoned unit
+HP 300 speed 3.5 armor 10/90 Atk 5/60  rof 1
+--Catapult--
+200 W 200 G 5 pop 25 sec
+HP 120 speed 2.4 armor 30/90 Atk 40/250  rof 4 range 10-28 blast 8 2.5x vs ship
+--Fire Syphon--
+270 W 180 G 5 pop 20 sec
+HP 400 speed 3 armor 5/90  Atk 20/125  rof 1.7  range 3-18
+--Axe cart--
+200 W 200 G 4 pop 20 sec
+HP 500 speed 2.4 armor 30/90  Atk 30/90  rof 2
+
+*************
+**EGYPTIANS**
+*************
+-Start with a pharaoh, a priest and 3 laborers
+-Start with 200 F 100 W 50 G
+-Laborer gather resources 10% than villages and build 25% slower
+-Buildings cost no W, but have an increased G cost
+-Can build monuments to generate favor
+-Warships cost -10%
+
+RA
+-Pharaoh and priests empowered monuments empower other buildings at 60% efficency
+-Forager work 25% fsater
+-Mounted units +15% HP
+ISIS
+-Monuments shield against enemy god powers
+-Town Centers +5 population
+-Technologies cost -10%
+-Obelisk cost -5 G
+-Empowered monuments heal allies in range 50 by 60 hp/min and
+generate favor 100% faster
+SET
+-Infantry units cost -10% and move 5% faster
+-Start with a few animals
+-Pharaoh can summon animals of set
+-Military buildings cost -25% G
+
+COMMON UNITS
+--Mercenary--
+80 G 1 sec 12 max
+HP 90 (-2.5/sec) speed 4.4 armor 35/15  Atk 7 rof 1  1.5 vs cavalry
+--Mercenary cavalry--
+110 G 2 sec 8 max
+HP 160 (-4/sec) speed 5.5 armor 20/35 Atk 8 rof 1  1.5 vs archers
+--Spearman--
+50 F 25 G 2 pop 12 sec
+HP 80 speed 5 armor 40/15  Atk 7 rof 1   1.5 vs cavalry
+--Axeman--
+40 F 30 G 2 pop 12 sec
+HP 80 speed 4.4  armor 40/10  Atk 5 rof 1  4 vs infantry
+--Kopesh raider--
+40 F 40 G 2 pop 8 sec
+HP 100 speed 5 armor 20/15  Atk 8 rof 1  1.5x vs villager
+Special: +20% movement speed for 10 seconds
+--Slinger--
+55 W 25 G 2 pop 14 sec
+HP 60 speed 4  Armor 15/40  Atk 3 rof 1 range 17   3 vs archers
+--Chariot archer--
+100 W 40 G 3 pop 8 sec
+HP 100 speed 5 Armor 15/20  Atk 8 rof 1  range 20   1.5 vs infantry
+--Camel rider--
+50 F 70 G 3 pop 6 sec
+HP 140 speed 6 armor 15/40  Atk 8  rof 1  2 vs cavalry  1.25 vs archers
+--War elephant--
+180 F 70 G 5 pop 14 sec
+HP 450 speed 3 armor 25/45 Atk 20 rof 1.4  4x vs buildings  1.5 vs archers
+
+HEROES
+--Pharaoh--
+1 max 90 sec to respawn
+HP 100-110-125-150 speed 4 armor 15/30  Atk 12-13-15-17 rof 1
+range 3-12-18-20   2.5x vs myth   Heal 10HP/sec  heal range 10
+--Son of Osirirs--
+1 max
+HP 420-460-520-600 speed 3.6 armor 30/50%  Atk 12-13-14-17 rof 1 range 18
+Heal 15 hp/sec range 10
+--Priest--
+100 G 2 pop 10 sec
+HP 80-90-100-120 speed 3.6 armor 10/0  Atk 1-2-3-4  rof 1
+range 5-12-16-20    5x vs myth   Heal 10HP/sec  heal range 10
+
+MYTHS 15
+
+*********
+**NORSE**
+*********
+-Start with an ox cart, a berserkers and 3 villagers
+-Start with 200 F 150 W 100 G
+-infantry units can build and repair buildings
+-favor is generated by units and buildings dealing damage
+-Buildings cost -10% and have -10% HP
+-Docks and temples are built 100% faster
+-Warships +10% atk
+
+THOR
+-start with 3 dwarves instead of 3 villagers
+(dwarves mine 33% faster but cut wood and procure food 33% slower)
+-Dwarves cost -10 G and have no wood/food penalty
+-Can research additional blacksmith technologies
+-Blacksmith upgrades cost -10%
+-Receive a free dwarf for each special blacksmith upgrade researched
+ODIN
+-Hunter gather 10% faster
+-All units generate +20% favor in battle
+-humans and heroes regen 24 hp/min
+-Two raven spawn once the first temple is built
+LOKI
+-Damaging enemy units can spawn myth units
+-human and heroes +10% bonus damage
+-builder work 10% faster
+-Ox carts cost -50%
+-Berserk transformation is 50% cheaper
+FREYR
+-techs cost -50%, but take +150% longer research time
+-Forts +10% atk
+-Repairing buildings is free
+-Repairer work 50% faster
+
+COMMON UNITS
+
+--Archer--
+80 W 40 G 2 pop 8 sec
+HP 80 speed 4 armor 20/20  Atk 6 rof 1 range 18   3x vs myth
+--Berserker--
+50 F 30 G 2 pop 8 sec
+HP 85 speed 5 armor 35/10  Atk 10 rof 1
+--Throwing axeman--
+50 F 40 G 2 pop 15 sec
+HP 65 speed 4 armor 30/15  Atk 4 rof 1 range 12  3 vs infantry
+--Hirdman--
+40 F 45 G 2 pop 14 sec
+HP 90 speed 5 armor 35/5 Atk 5 rof 1 4x vs cavalry
+--Huskarl--
+75 W 40 G 2 pop 7 sec
+HP 120 speed 5 armor 10/60  Atk 7 rof 1  2x vs archer
+--Raiding cavalry--
+40 F 50 G 2 pop 10 sec
+HP 100 speed 6 armor 20/40  Atk 8 rof 1  1.75 vs archers
+--Jarl--
+50 F 80 G 3 pop 15 sec
+HP 200 speed 5 armor 25/40  Atk 11 rof 1
+
+HEROES
+--Hersir--
+80 F 40 G 3 pop 16 sec
+HP 130-145-165-190 speed 4.8 armor 20/25%   Atk 1-7-8-10 rof 1  6x vs myth
+--Gullinbursti--
+40 sec
+HP 350-440-620-870 speed 2.4 armor 50/65%  Atk15-33-56-87 rof 1  blast 2.5   2x vs myth
+
+MYTHS
+
+************
+*ATLANTEANS*
+************
+-Start with 2 citizens and 3 oracles
+-Start with 275 F 250 W 75 G
+-Can transform humans into heroes
+-Manors replace houses
+-Free cavalry upgrades
+-Docks cost -20%
+-warships +1 range
+
+KRONOS
+-can time shift buildings
+-buildings are built 25% faster per each manor nearby
+-Receive 2 temple units when advancing to the next age
+-Siege and myth units refund 20% of their cost on death
+ORANOS
+-Can build a sky passage each age
+-all units +4 los
+GAIA
+-Eco buildings heal allies by 60 hp/min
+-Start with 2 hero citizens instead
+-Promotion upgrade cost -25%
+-Eco guild and its upgrades cost -35%
+
+--Murmillo--
+55 F 30 G 2 pop 14 sec
+HP 110 speed 4.5 armor 40/10  Atk 8 rof 1
+--Maceman--
+60 F 35 G 2 pop  10 sec
+HP 110 speed 4.5 armor 35/10  Atk 5  rof 1   4x vs cavalry
+--Destroyer--
+70 F 60 G 3 pop 7 sec
+HP 150 speed 3.6 armor 30/70  Atk 4  rof 1   9x vs building
+--Fanatic--
+75 F 55 G 3 pop 7 sec
+HP 160 speed 4.4 armor 40/15  Atk 10  rof 1  1.5 vs cavalry/infantry
+--Jinete--
+45 W 40 G 2 pop 10 sec
+HP 80 speed 5 armor 20/40   Atk 3  rof 1  range 14    4 vs archers
+--Archer--
+60 W 35 G 2 pop 16 sec
+HP 65 speed 4 armor 15/15  Atk 5  rof 1  range 20  1.2 vs infantry
+--Contarius--
+65 F 40 G 3 pop 15 sec
+HP 140 speed 6 armor 15/45  Atk 9  rof 1   1.5x vs archers
+
+MYTHS 16
+
+*********
+*CHINESE*
+*********
+-Start with 2 villagers, 1 kuafu and 1 pioneer
+-Start with 150 F 200 W 100 G
+-Generate favor by extending favoured land from the Town Center
+by constructin buildings within the influence range
+-Can enhance military buildings
+-Warships occupy -1 population
+
+FUXI
+-buildings reseach 300% faster and military buildings cost -25%
+-Villagers work 5% faster
+-Humans and siege units +5% atk
+NUWA
+-villager cost -10% for each 100 favor stored (caps at -70%)
+-Buildings are constructed automatically at 1/4 rate
+-Influence +1 range
+-Cavalry +10% HP
+SHENNONG
+-Summon myth units from temple
+-Myth units regen 360 hp/min within favored land
+-Farms are built automatically
+-Free farm upgrades
+
+--Dao swordman--
+30 F 55 G 2 pop 14 sec
+HP 135 speed 4 armor 30/30 Atk 9 rof 1.2
+--Halberdier--
+50 F 35 G 2 pop 14 sec
+HP 100 speed 5 armor 40/5 Atk 4  rof 1  5x vs cavalry
+--Skirmisher--
+75 W 10 G 2 pop 14 sec
+HP 70 speed 4.8 armor 10/40  Atk 4  rof 1  range 16  3.5 vs archers
+--Fire archer--
+50 W 35 G 2 pop 10 sec
+HP 65 speed 4 armor 25/10  Atk 4  rof 1   range 12  3x vs infantry  6x vs buildings
+--Chu ko nu--
+90 W 55 G 3 pop 16 sec
+HP 90 speed 4 armor 20/25 Atk 12  rof 1  range 16
+--Terracotta rider--
+50 F 50 G 2 sec
+HP 100 speed 6.5 armor 15/35  Atk 9  rof 1   2x vs siege  1.5x vs archers
+--White Cavalry--
+45 F 85 G 3 pop 7 sec
+HP 160 speed 6 armor 10/45  Atk 10  rof 1  range 8    1.5x vs archers
+--Tiger cavalry--
+120 F 50 G 3 pop 9 sec
+HP 180 speed 5 armor 25/35  Atk 10  rof 1   1.5x vs archers/cavalry
+Dismounted: HP 50 speed 5  armor 15/20  Atk 7  rof 1  1.5 vs cavalry
+--Horse archer--
+60 W 40 G 2 pop 16 sec
+HP 90 speed 6 armor 10/25  Atk 5 rof 1 range 16  1.5x vs archers/infantry
+--Mongol horse archer--
+60 W 40 G 2 pop 16 sec
+HP 80 speed 6 armor 15/15  Atk 4 rof 1 range 16  3x vs cavalry
+--Qing rider--
+65 F 45 W 2 pop 18 sec
+HP 100 speed 6 armor 15/35  Atk 6 rof 1  2x vs archers 3x vs siege
+--Cataphract--
+70 F 50 G 2 pop 14 sec
+HP 110 speed 5 armor 35/15  Atk 7  rof 1  3x vs infantry  2x vs siege
+--General--
+180 F 140 G 3 pop 20 sec 3 max
+HP 300 speed 5.5  armor 30/45  Atk 10 rof 1
+Special: +50% atk for 10 seconds, recharge 20 seconds
+--Scout cavalry--
+30 F 40 G 1 pop 12 sec
+HP 90 speed 6 armor 15/30 Atk 6 rof 1   1.3x vs archers/villagers
+--War chariot--
+100 F 100 G 3 pop 9 sec
+HP 200 speed 5 armor 30/40  Atk 13  rof 1   1.25x vs archers
+--Fire lancer--
+60 W 60 G 2 pop 12 sec
+HP 80 speed 3.6 armor 20/20  Atk 5/12  rof 1  range 3-20  2.5x vs ship/archer/building
+
+HEROES 
+--Pioneer-- ranged
+75 W 30 G 2 pop 12 sec
+HP 90-100-110-130 speed 4 armor 15/30%  Atk 1-3-4-5 rof 1 range 4-12
+--Kuafu-- villager
+3 pop 1 limit 240 sec
+HP 200-220-250-300 speed 3.6 armor 30/40%  Atk 13-14-16-19 rof 1 range 6   3x vs myth
+--Nezha--
+150-300-450 G 3 pop 15 sec 1 limit   favour 5
+HP 250-375-600 speed 5 armor 30/30% Atk 10-15-20 rof 1 range 1  7x vs myth
+
+
+MYTHS 14
+
+FLORANS
+--Villager--
+50 W 1 pop 18 sec 100 max
+HP 40 Speed 4 armor 45/55% Atk 6  Rof 1  
+Can be upgraded to spear or bow militia
+TOWN CENTER
+--Spear militia--
+80 W 2 pop 12 sec
+HP 85 Speed 5 armor 50/50% Atk 6 rof 1  1.5x vs cavalry
+--Bow militia--
+80 W 2 pop 12 sec
+HP 50 Speed 5 armor 30/50% Atk 4 rof 1 range 15   1.5x vs infantry  3x vs archers
+HOUSE OF DARTS
+--Ephedra Archer--
+100 W 2 pop 10 sec
+HP 60 Speed 4 Armor 40/50%   Atk 3 rof 1 range 18   4x vs archers
+Poison: target loses 60hp/min for 10 seconds, disable healing for that much
+--Holcan--
+100 W 2 pop 10 sec
+HP 100 Speed 5 Armor 40/10%  Atk 8 rof 1    3x vs cavalry
+--Mace Scout--
+80 W 2 pop 8 sec
+HP 80 Speed 5.5 Armor 30/60%  Atk 5 rof 1   2x vs archers/siege
+NOBLE HOUSE
+--Artemiasian Axe warrior--
+100 W 2 pop 10 sec
+HP 120 Speed 4.4 Armor 50/10%   Atk 8 rof 1   3x vs infantry
+--Magnolian Shield Guard--
+80 W 40 G 2 pop 10 sec
+HP 120 speed 4 armor 20/70%   Atk 10 rof 1  1.5x vs archers
+--Floran Sentinel--
+80 W 2 pop 8 sec
+HP 100 Speed 5.5 Armor 20/20%  Atk 7  rof 1    3x vs cavalry
+--Arrow Knight--
+100 W 100 G 2 pop 12 sec
+HP 120 Speed 4 Armor 20/80%  range 30 (24 vs units)  Atk 10   rof 1  3x vs ships
+Fire Arrows: Shoot fire arrows at buildings, dealing 4 dmg/sec for 30 sec
+SIEGE WORKSHOP
+--Floran Catapult--
+200 W 200 G 5 pop 25 sec
+HP 120 Speed 2.4 Armor 40/90 range 10-28 Atk 10/60*5 rof 5   2.5x vs ships
+--Floran Battering Ram--
+W 200 G 200 4 pop 20 sec
+HP 500 Speed 3.2 Armor 30/95  Atk 15/60 rof 1
+
+ROMANS
+--Villager--
+50 F 1 pop 18 sec 100 max
+HP 80 Speed 4 armor 0%   Atk 6  Rof 1  4x vs towers
+BARRACK
+--Hastatus/Princep/Triarius--
+55 F 35 G 2 pop 12 sec
+HP 100 Speed 4 armor 50/30%  Atk 10 rof 1     (2x vs cavalry with power)
+Upgrade himself after every level up: +20% Hp/atk per upgrade
+--Legionarius-- Available only through Marian Reforms, replace hastatus
+50 F 30 G 2 pop 5 sec
+HP 100 Speed 4 armor 50/30% Atk 6 rof 1   True damage
+--Pretorian-- Available only through Imperial Reform
+100 F 80 G 4 pop 16 sec
+HP 240 speed 4 armor 40/20%  Atk 20  rof 1
+--Secutor--
+80 F 80 G 4 pop 10 sec
+HP 200 speed 3.2 armor 50/70%  Atk 8  rof 1   6x vs building 2x vs infantry
+--Milite--  Also available at Town Centers
+70 F 1 pop 3 sec
+HP 90 speed 5 armor 10/10% (40/40 with power) Atk 4  rof 1   1.25x vs archers  2x vs cavalry
+ARCHERY RANGE
+--Sagittarius--
+60 W 30 G 2 pop 14 sec
+HP 60 Speed 4 armor 25/25%   Atk 5 rof 1 range 16 (20 with power) 1.5 vs infantry
+--Velite--
+60 W 20 G 2 pop 10 sec
+HP 50 Speed 5 armor 30/50%   Atk 5 rof 1.5 range 18  4 vs archer
+--Balearic Slinger--
+60 W 40 G 2 pop 6 sec
+HP 55 speed 4 armor 10/10%  Atk 4  rof 1  range 24   True damage
+STABLE
+--Auxilia Eques--
+40 F 80 G 3 pop 15 sec
+HP 150 speed 5.5 armor 25/50%  Atk 10 rof 1   1.5 vs archer   2 vs buildings
+--Pretorian Cavalry--
+70 F 50 G 3 pop 12 sec
+HP 150  speed 6 armor 25/40%  Atk 7  rof 1   3 vs cavalry   1.5 vs archers
+--Numidian Eques---
+45 W 45 G 2 pop 10 sec
+HP 100 speed 7 armor 25/50%   Atk 6  rof 1  range 14    2 vs archers
+--Cataphract--
+50 F 100 G 3 pop 12 sec
+HP 200 speed 5 armor 25/50%   Atk 10 rof 1  1.5x vs infantry
+SIEGE WORKSHOP
+--Onager--
+240 W 240 G 6 pop 30 sec
+HP 150 speed 2.4 armor 30/90% Atk 50/300  rof 4  range 10-28  blast 8  2.5x vs ship
+--Scorpio--
+150 W 150 G 3 pop 18 sec
+HP 90 speed 3.2 armor 20/90%  Atk 22/20 rof 0.6  range 10-28  3x vs ships  50% pierce
+--Siege Tower--
+375 W 240 G 6 pop 30 sec
+HP 720 Speed 3.2 armor 10/90%   Atk 6/30  rof 1  range 10  Garrison 6
+--Battering ram--
+240 W 240 G 6 pop 30 sec   Garrison 10   +5% atk for each garrisoned unit
+HP 600 speed 3.2 armor 10/90% Atk 10/120  rof 1
+SHIPYARD
+--Trireme--Arrow ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 5.5 armor 50/30%  Atk 16 rof 1  range 15
+--Quadrireme--Hammer ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 7 armor 40/25%    Atk 50 rof 3  range 2
+--Quinquireme--Catapult ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 4.8 armor 0/50%  Atk 16  rof 1  range 20    2x vs archer ship
+
+Trireme->Quadrireme->Quinquireme->Trireme
+
+
+
+
+
+
+MAYANS
+Mayan Archer
+HP 30 [39]
+Speed 5
+los 17
+Armor 10/25 [34/46]
+Pierce 3 [3.9] [5.25] 
+Rof 1
+Range 15
+Cost 25 W 15 G 1 pop 4-2.4 sec
+Tier 2/3/4: +10/20/30% HP, +10/25/45% Atk
+
+Mace Scout
+HP 50 [74]
+Speed 6
+los 12
+Armor 20/50 [41/64]
+Hack 3 [3.9] [5.25]   x2 vs archers
+Rof 1
+Cost 15 F 25 G 1 pop 5-3 sec
+Tier 2/3/4: +10/25/45% HP, +10/25/45% Atk
+
+Spearman
+HP 50 [74]
+Speed 5
+los 16
+Armor 40/10 [55/34]
+Hack 3 [3.9] [5.25]   x3 vs cavalry
+Rof 1
+Cost 30 F 10 G 1 pop 5-3 sec
+Tier 2/3/4: +10/25/45% HP, +10/25/45% Atk
+
+Blowpipe warrior
+HP 50 [74]
+speed 4.8 
+armor 0/0 [27/27] 
+Pierce 3 [3.9] [5.25]   2x vs archers  
+Siege 15
+rof 1  
+range 3-20 
+40 W 20 G 1 pop 6-3.6 sec
+Tier 2/3/4: +10/25/45% HP, +10/25/45% Atk
+
+
+
+
+
+
+BUILDINGS
+Town Center, House, Farm, Blacksmith, Market
+Dock, Temple, Palisade, Stone wall, fortified wall
+Sentry tower->Watch tower->Guard tower
+Mill, Storehouse
+Barrack, Archery Range, Stable, Siege Workshop, Castle

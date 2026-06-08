@@ -1,0 +1,254 @@
+Genitour(mounted skirmisher)
+HP 60-70 (90)
+Atk 4-5 (9)
+Rof 3.0
+Range 3-4 (7)
+Accuracy 90%
+Armor 0/1 (3/7)
+Speed 1.35 (1.5)
+Cost 40 F 40 W 30 sec
+Up cost 800 F 500 G 45 sec
+
+Selt
+HP 55-65-80
+Atk 6-7-9 (13)
+vs cavalry +1-2-4
+Rof 2.0
+Armor 2/3-2/3-2/4 (5/8)
+Speed 1.1-1.2-1.3 (1.43)
+F 50 W 40 30 sec
+Up cost 200 F 200 G 55 sec
+Up cost 900 F 500 G 120 sec
+
+Tomahawk warrior
+HP 55-70
+Atk 9-11 (17)
+vs shock/building +2-3
+Rof 2.2
+Accuracy 50-100%
+Range 2 (4)
+Armor 0/0 (3/4)
+Speed 1.2-1.3 (1.43)
+Cost 50 F 25 G 24-18 sec
+Up cost 800 F 600 G 40 sec
+
+Sogdian Cataphract
+HP 110 (130)
+Atk 12 (16)
+vs archers +6
+Rof 2.0
+Armor 0/5 (3/9)
+Speed 1.45 (1.6)
+Cost 75 F 50 G 28-21 sec
+
+Quizilbash
+HP 100-140 (160)
+Atk 8-11 (15)
+vs archers +2
+Rof 2.0
+Armor 1/1 (4/5)
+cavalry armor 12-16
+Speed 1.45 (1.6)
+Cost 45 F 60 G 20-15 sec
+
+Crusader Knight
+HP 100 (120)
+Atk 18 (22)
+Rof 2.0
+Armor 4/4 (7/8)
+Speed 1.2 (1.32)
+Cost 80 F 50 G 30 sec
+Immune to conversion
+
+Elmetto
+HP 125-155 (175)
+Atk 12-14 (18)
+Rof 2.0
+Trample 0.5 radius, 50% damage
+Armor 2/3-3/3 (6/7)
+Speed 1.35 (1.5)
+Cost 150 G 15 sec
+
+Teuton Rider
+HP 100-130 [150]
+Atk 10-12 [16]
+Rof 2.0
+Armor 4/3 [7/7]
+Speed 1.4 [1.54]
+Cost 45 F 75 G 24 sec
+Up cost 500 F 500 G 40 sec
+Special: charge attack +10, CD 50 sec
+
+Teuton Archer
+HP 60-80 [100]
+Atk 5-6 [10]
+vs spear +2 [4]
+Rof 2.0 [1.6]
+Range 5 [8]
+Armor 3/2 [6/6]
+Speed 1.4 [1.54]
+Cost 45 F 75 G 24 sec
+Up cost 600 F 400 G 40 sec
+Special: charge attack +10, CD 50 sec
+
+Teuton Ravager
+HP 130-180 [200]
+Atk 14-18 [22]
+vs infantry +4+2
+Trample 0.5 damage 50%
+Range 0.3
+Rof 2.4
+Armor 3/1 [6/5]
+Speed 1.3 [1.43]
+Cost 70 F 70 G 30 sec
+Special: resist 50% of anti cavalry bonus damage
+
+Teuton Death Rider
+HP 330 [350]
+Atk 8-10 [14]
+Rof 2.0
+Armor 6/4 [9/8]
+Speed 1.3 [1.43]
+Cost 80 F 130 G 48 sec
+Special: regen 30 Hp/min, immune to conversion, resist 50% of anti cavalry bonus damage
+
+Suebian Maceman
+HP 150
+Atk 12 [16]
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 80 F 24 sec
+
+Suebian Huntress
+HP 60
+Atk 6 [10]
+Range 3 [6]
+Rof 3.0
+Armor 0/0 [3/4]
+Speed 0.8
+Cost 80 F 24 sec
+Special: attack ignore armor
+
+Suebian Axeman
+HP 60-75
+Atk 7-8 [12]
+Range 0.3
+Rof 0.7
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 80 F 24 sec
+
+Masked spearman:
+this unit can change his color, changing also his stats and damage bonuses.
+Changing mask require a 3 second cooldown
+Red Mask: effective vs cavalry and monks
+HP 55-65
+Atk 6-7 [11]
+vs cavalry +12+6
+vs elephants +12+6
+vs camels +8+6
+Rof 2.0
+Armor 2/0 [5/4]
+Speed 1.3 [1.43]
+Blue Mask: effective vs infantry
+HP 55-65
+Atk 6-8 [12]
+vs infantry +6+4
+Rof 2.0
+Armor 2/0 [5/4]
+Speed 1.3 [1.43]
+Green Mask: effective vs archers and siege
+HP 55-65
+Atk 6-7 [11]
+vs archers +6+3
+Rof 2.0
+Armor 0/3-0/4 [3/8]
+Speed 1.3 [1.43]
+Yellow Mask: effective vs buildings and ships
+HP 55-65
+Atk 6-7 [11]
+vs buildings +8+8 [18]
+vs ships +4+4
+Rof 2.0
+Armor 0/3-0/4 [3/8]
+Speed 1.3 [1.43]
+Cost 40 F 30 G 28-21 sec
+Up cost 500 F 400 G 45 sec
+
+Hoplite: new version
+HP 65-85
+Atk 12-14 [18]
+vs cavalry +4+2
+vs elephants +4+2
+vs buildings +2 [4]
+Rof 2.0
+Range 0.5
+Armor 1/1 [8/6]
+Speed 0.9 [0.99]
+Cost 65 F 35 G 35-30 sec
+Up cost 750 F 550 G 60 sec
+Special: gain +1/0 armor for each other hoplite in 3 tiles (max +4) and
+gain +0/1 armor if there's at least another hoplite in 3 tiles (max +1).
+
+Tomahawk warrior
+Ranged melee unit.
+HP 50-60
+Atk 10-12 [16]
+Rof 2.0
+Range 4-5
+Armor 1/0
+Speed 1.25 [1.375]
+Cost 55 F 35 G 35 sec
+Up cost 850 F 550 G 45 sec
+
+Huskarl: regional unit for Britons, Vikings and Goths.
+High pierce armor and attack, slowish movement
+HP 50-60-75
+Atk 7-10-14 [18]
+vs archers +4+2+2
+vs buildings +1+1+2 [6]
+Rof 2.0
+Armor 2/4-2/6-2/6 [5/10]
+Speed 0.9 [0.99]
+Cost 60 F 30 G 28 sec
+Up cost 1200 F 600 G 80 sec
+
+Berserker: improved version
+HP 80-90
+Atk 14-17 [21]
+vs buildings +3+1 [6]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.0 [1.1]
+Regen 40 hp/min
+Cost 75 F 25 G 17-14 sec
+Up cost 1000 F 500 G 45 sec
+
+Mounted Samurai: a knight that can switch to an horse archer
+HP 100-120 [140]
+Lance 10-12 [16]
+Bow 5-6 [10]
+vs spears +2+2 [8]
+Rof 2.0 [1.7 for bows with thumb ring]
+Range 4 [7]
+Accuracy 80-90% [100%]
+Armor 2/2-3/2 [6/6]
+Speed 1.4 [1.54]
+Cost 60 W 60 G 40-36 sec
+Up cost 800 F 400 G 90 sec
+Special: can switch between a bow and a lance
+
+2-h-maceman
+HP 70-80
+Atk 8-10 [14]
+vs cavalry +10-15
+vs camels +8-12
+vs elephants +6-9
+vs buildings +20-25 [27]
+Trample 33% damage 0.5 tiles
+Rof 3.0
+Armor 2/1 [5/5]
+Speed 0.9 [0.99]
+Cost 45 F 30 G 24 sec
+Up cost 800 F 500 G 100 sec

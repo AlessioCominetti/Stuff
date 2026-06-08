@@ -1,0 +1,61 @@
+So far, we still don't have:
+----
+pure siege civilization
+pure monk civilization
+pure elephant civilization
+pure camel civilization
+pure naval civilization
+----
+infantry and elephant (Malabar)
+infantry and camels (Soninke)
+infantry and gunpowder (Vlachs)
+infantry and defense
+infantry and horse archers
+----
+archers and cavalry
+archers and elephants (Thai)
+archers and camels (Nabateans)
+archers and horse archers
+archers and defense (Diaguita)
+----
+cavalry and siege (Sogdians)
+cavalry and elephants
+----
+siege and monks  (Serbians)
+siege and camels (Nizarites)
+siege and gunpowder (Black Burgundians)
+siege and naval
+siege and defense (Deccanis)
+----
+monks and camels (Harar)
+monks and naval (Taino)
+monks and defense (Zapotecs)
+monks and counter (Hohokam)
+---
+elephants and gunpowder (Deccanis)
+elephants and defense (Deccanis)
+----
+camels and defense (Soninke)
+----
+horse archers and gunpowder
+horse archers and naval
+horse archers and defense (Alans)
+----
+gunpowder and defense (Deccanis)
+----
+naval and defense (Syrians/Croatians)
+naval and counter (Apulians)
+
+1 critico  0.9*0.12
+
+1 colpo 1 critico + sopravvive 0.9*0.88 * (1-0.63*0.02) * 0.9*0.12
+
+0.9*0.12 (1 + 0.9*0.88 * (1 - 0.63*0.02))
+
+
+
+
+
+
+
+

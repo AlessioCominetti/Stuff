@@ -1,0 +1,57 @@
+---Paesant--- 
+Cost 50 F 1 pop 14 sec max 80
+HP 60
+Armor 40/40% Speed 4
+Atk 8 Rof 1  2x vs siege/towers
+
+---Halberdier---
+Cost 50 F 30 G 2 pop 12 sec
+HP 110
+Armor 35/15% Speed 4.3
+Atk 7 Rof 1  1.5x vs cavalry
+---Chu ko nu---
+Cost 60 W 40 G 2 pop 15 sec
+HP 60
+Armor 15/15% Speed 4
+Atk 7 Rof 1 Range 14
+---Horse archer---
+Cost 75 W 55 G 2 pop 15 sec
+HP 100
+Armor 15%15% Speed 5.3
+Atk 5 Rof 1 Range 15   3x vs cavalry
+---Scout cavalry---
+Cost 30 F 40 G 1 pop 12 sec
+HP 90
+Armor 15/30% Speed 6
+Atk 6 Rof 1  1.33x vs archers
+---Cataphract---
+Cost 70 F 50 G 2 pop 15 sec
+HP 110
+Armor 35/15% Speed 5
+Atk 7 Rof 1  3x vs infantry 2x vs siege
+---General---
+Cost 180 F 140 G 3 pop 20 sec  max 3
+HP 300
+Armor 30/45% Speed 5.5
+Atk 10 Rof 1
+Allies in 10 tiles get +50% atk for 4 sec, CD 20 sec
+---War chariot---
+Cost 100 F 100 G 3 pop 9 sec
+HP 190
+Armor 30/40% Speed 5
+Atk 13 Rof 1  1.25x vs archers
+---Fire Lancer---
+Cost 60 W 60 G 2 pop 12 sec
+HP 80
+Armor 15/15% Speed 3.6
+Atk 5/12 Rof 1 Range 12   2.5x vs ranged/ships/buildings
+---Sitting Tiger(Catapult)---
+Cost 200 W 200 G 4 pop 24 sec
+HP 120
+Armor 30/90% Speed 2.4
+Atk 10/50 Rof 1 Range 28  2.5x vs ships
+---Immortal---Hero
+Cost 80 F 40 G 2 pop 8 sec
+HP 150-165-180-195
+Armor 30/20% Speed 4.5
+Atk 2-10-11-12 Rof 1 Range 14  7x vs myth

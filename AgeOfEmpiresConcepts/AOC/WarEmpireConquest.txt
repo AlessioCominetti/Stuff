@@ -1,0 +1,817 @@
+CIVILTA
+---CHINA---
+-start with 1 more villager but with -50 F
+-swordmen -1 second creation time
+-walls +35% HP 
+-Blacksmith, Monastery techs cost -20%
+UU Chu ko nu(archer)
+UT-Rocketry: chu ko nu, bombard +20% attack
+Miss: paladin
+---JAPAN---
+-spearman cost -20%
+-trade +20% income
+-Swordman, spearman attack 33% faster
+UU: Samurai(infantry)
+UT-Sengoku Jidai: catapult, towers attack 40% faster
+Miss: paladin
+---TEUTONS---
+-villager, cavalry -1 second creation time
+-castles, towers are built 30% faster
+-Barrack, Stable, Siege units +4/0 armor
+UU Teutonic Knight(infantry)
+UT-Crenellation: Town Center, Castles +30% range
+Miss: Hussar, Siege Ram 
+---PERSIANS--- 
+-villagers, trade carts -2 second creation time
+-missionary
+-castles are built 30% faster
+-Start with +100 F
+UU Savar(cavalry)
+UT-Kamandaran: archers now cost 75 F
+Miss: heavy bombard 
+Regional: Elephant, Camels, Horse archers
+---MONGOLS---
+-towers cost -40%
+-hussar available in Age II
+-Town Center +30% range
+-free archer attack upgrades 
+-cavalry archers fire 25% faster
+UU Mangudai(horse archer)
+UT-Drill: siege units move 40% faster
+Miss: paladin, bombard tower, fortified walls 
+---HUNS---
+-heavy cavalry cost -20%
+-cavalry archers cost -20%
+-light cavalry cost -30%
+-pop is already capped, cannot build houses or castles
+-archers -2 second creartion time
+UT-Atheism: enemy monks cannot convert this player units, enemy monks cannot heal
+Miss: start with -1 villager, no castle or houses, stone walls
+Regional: horse archer
+---TURKS--- 
+-free hussar upgrade and it is available in Age III
+-bombard tower and bombard cost -30%
+-free melee attack upgrades
+-musketter and bombard towers +25% HP
+UU Jannissary(gunpowder/archer)
+UT-Artillery: bombard, bombard tower +4 range
+Miss: paladin, arbalester, 2-h-sword 
+Regional: horse archer
+---MAYANS--- 
+-Archers cost -20%, -3 second creation time
+-Resources last 20% longer
+UU Plumed Archer(archer)
+UT-El Dorado: eagle warriors +33% HP
+Miss: Cavalry and guns 
+---BYZANTINES---
+-villager -1 second creation time
+-missionary
+-free cavalier upgrade and first cavalry armor upgrade
+-Advancing to Imperial Age cost -33%
+-Spearman, camels cost -25%
+-buildings +20% HP
+UU Cataphract(cavalry)
+UT-Logistica: Cataphract get trample damage
+Miss: heavy bombard 
+Regional: camel, horse archer
+---CELTS---
+-spearman cost -25%, can upgrade to pikeman in Age II
+-swordman -2 second creation time
+-siege workshop work 20% faster, trade carts
+-Infantry units move 10% faster
+UU Woad Raider(infantry)
+UT-Furor Celtica: siege units +40% HP
+Miss: paladin 
+---SARACENS---
+-missionary
+-towers cost -40%
+-No trading fee
+UU Mameluke(cavalry)
+UT-Bimaristan: monks have area of effect healing (15 hp per second)
+Miss: paladin 
+Regional: Camels, Horse archers
+---VIKINGS---
+-Free Wheelbarrow and Handcart
+-Barrack units +20% HP
+UU Berserker(infantry)
+UT-Chieftains: infantry +40% damage vs cavalry
+Miss: paladin 
+---KOREANS---
+-Towers cost -40%
+-free archer armor upgrades
+UU war Wagon(cavalry/siege)
+UT-Shikincon: towers +4 range
+Miss: Siege Ram 
+Regional: Horse archers
+---BRITONS---
+-Town Center +30% range
+-towers cost -40%
+-free stone wall upgrade 
+UU Longbowman(archers)
+UT-Siege engineers: ranged siege deal 20% more damage to buildings and have 50% more splash radius
+---SPANISH---
+-Heavy cavalry cost-10%
+-villager build 25% faster, +25% HP
+-Blacksmith techs cost -50% G
+-missionary
+UU Conquistador(cavalry/gunpowder)
+UT-Inquisition: monks convert 33% faster
+Miss: arbalester, fortified wall, Siege Ram
+---AZTECS---
+-Free melee attack upgrades
+-villager +50% carry capacity
+-Monks +100% HP
+-Start with +100 G
+UU Jaguar warrior(infantry), Tamed jaguar(infantry)
+UT-Garland Wars: infantry +8 atk
+Miss: Cavalry and guns 
+---FRANKS---
+-All mounted units cost -10%, paladin +50 HP
+-free first armor upgrades
+-Farmer work 15% faster
+-Castles cost -25%
+UU Throwing Axeman(infantry/archer)
+UT-Chivalry: Stables work 40% faster
+Miss: arbalester, heavy bombard, fortified walls 
+---GOTHS---
+-infantry cost -30%, -1 second creation time, +30% damage to buildings
+-When reaching Imperial Age, +5 max population
+UU Huskarl(infantry)
+UT-Perfusion: Barrack work 100% faster
+Miss: paladin, hussar 
+***NEW***
+---MAGYARS---
+-light cavalry cost -20%
+-free melee attack upgrades
+UU Magyar Hussar(cavalry)
+UT-Recurve Bow: horse archers +2 atk and range
+Miss: paladin, heavy bombard, fortified walls, bombard tower 
+Regional: Horse archers
+---SLAVS---
+-siege units cost -15%
+-farmer work 15% faster
+-free infantry armor upgrades
+UU Boyar(cavalry)
+UT-Druzhina: infantry deal trample damage
+Regional: Horse archers
+Miss: arbalester, hussar 
+---INDIANS---
+-villagers cost -20%
+-free cavalry armor upgrades
+UU Elephant archer(cavalry/archer)
+UT-Shatagni: musketter +4 range
+Miss: cavalier, fourth tier swordman, halberdier  
+Regional: Elephant, Camels, Horse archers
+---INCAS---
+-buildings cost -15%
+-villagers are affected by blacksmith infantry upgrades
+-military non unique units cost -25% F
+UU Kamayuk(infantry)
+UT-Fabric Shields: infantry +2/4 armor
+Miss: stables and guns  
+---ITALIANS---
+-Guns and their upgrades cost -20%
+-Advancing to the next Age cost -20%
+UU Genoese Crossbowman(archer)
+UT-Pavise: foot archers +2/2 armor
+Miss: paladin  
+---ETHIOPIANS---
+-Free pikeman upgrade
+-archers attack 20% faster
+UU Shotel warrior(infantry)
+UT-Royal Heirs: infantry take -30% damage from mounted units
+Miss: cavalier, fifth tier swordman    
+Regional: Camels, Horse archers
+---PORTUGESE---
+-all units cost -20% G
+UU Organ gun(siege/gunpowder)
+UT-Arquebus: musketter fire 20% faster and never miss
+Miss: Siege Ram
+---MALIANS---
+-miner work 20% faster
+-Swordman, Spearman +0/2 armor per Age up
+UU Gbeto(infantry/archer)
+CT-Farimba: melee cavalry +6 atk
+Miss: halberdier, hussar, siege ram, bombard tower, paladin
+Regional: Camels, Horse archers
+---KHMER---
+-no buildings are required to advance to the next age
+-mounted units and villagers move 10% faster
+-don't built storehouses, all resources all deposited remotely
+-advancing to the next age is 100% faster
+UU Ballista Elephant(cavalry/siege)
+UT-Tusk Swords: Battle elephant +6 atk
+Miss: fourth tier swordman, halberdier, guns
+Regional: Elephant, Horse archers
+---VIETNAMESE---
+-Ranged units +20% HP
+-no fog of war
+UU Rattan Archer(archer)
+UT-Cahtras: Battle elephant +200 HP
+Miss: halberdier, fourth tier swordman, guns, cavalier, hussar  
+Regional: Elephant, Horse archers
+---BURMESE--
+-infantry units +1 atk each age
+-free monk upgrades
+-stables units +1/1 armor each age
+UU Arambai(cavalry)
+UT-Howdah: Battle elephant +2/2 armor
+Miss: cavalier, arbalester, fortified walls, guns  
+Regional: Elephant
+---POLES---
+-Villager work 10% faster
+-Paladin, cavalier, hussar upgrades cost -50%
+-Monastery cost -50%
+UU Obuch(infantry)
+UT-Szlachta Privileges: knights cost no G
+Miss: halberdier, musketter, paladin
+---SWISS---
+-Blacksmiths, Storehouses, Mills cost -50%
+-Musketter is available in Age III
+-Bombards attack 25% faster
+UU Swiss pikeman(infantry)
+UT-Hussite reforms: monks cost only F
+Miss: cavalier, hussar
+
+
+TECNOLOGIE
+Town Center
+-Wheelbarrow: villager work 25% faster, +25% carry capacity  150 G 60 sec
+-Handcart: villager work 25% faster, +25% carry capacity     350 G 60 sec
+-Age up: go to the next age   600 F: 1000 : 1500 F 90/120/180 sec
+Blacksmith
+-Archer/Infantry/Cavalry Armor: archers, infantry, cavalry +2/2 armor  200 F : 300 G : 100 F 300 G  60/90/120 sec
+-Ranged/Melee attack: ranged/melee units +2 atk 200 F : 300 G : 100 F 300 G 60/90/120 sec
+-Improve walls: increase wall's HP by 2000     500 F 600 G : 700 F 900 G 120/180 sec
+Monastery
+-Passion: monks +20% move, +50% HP and Healing    200 G 60 sec
+-Faith: monks +33% range, all units +50% resistence  500 F 500 G 60 sec
+-Theocracy: only one monk need to rest after a successful conversion   600 F 800 G 60 sec
+
+EDIFICI
+Eco
+-House: +20 population  80 G
+-Storehouse: drop off point for resources 50 G
+-Tower: can be upgrades to shoot arrows  50+100 G
+-Bombard Tower: shoot cannon balls 200 G
+-Wall: defensive barrier 10 G
+-Blacksmith: research upgrades 200 G
+Military
+-Barrack: train foot units 100 G
+-Stable: train mounted units 100 G
+-Siege Workshop: train siege units 120 G
+-Castle: train and develop special units/upgrades 600 G
+-Monastery: train and develop monks 200 G
+-Town Center: train villagers and act as a drop off point 1000 G
+
+UNITS
+If not written, all units have los 20 res 133 (200) and attack 1.25 times per second
+ROF(Rate of Fire)
+0.83 teuton knight, longbowman
+0.92 war wagon
+1.0  villager, light cav, horse archers, woad rider, throwing axeman, mangudai, arambai, magyar hussar
+1.14 archer, rattan archer, elephant archer, genoese crossbowman
+1.25 everbody else
+1.5 spearman, battering ram
+2.0 battle elephant
+2.5 samurai
+
+SPECIAL
+-Villager: 
+HP 200 
+Atk 10 
+Rof 1.0 (1 attack every second) !!!
+Armor 0/0 
+Move 24  los 15
+Cost 50 F 18 sec
+x4 vs buildings, x10 vs walls
+Calculated vs top unit: 40 dmg vs buildings 100 dmg vs walls
+-Monk/Missionary:
+HP 100-150 (200)
+Heal 20 (30)
+Rof 1.25
+Armor 0/4
+Range 25 (30)
+los 30 (36)
+Move 20 (24)
+Cost 100 G 25 sec
+
+BARRACK
+-Swordman:
+HP 140-230-290-350-400
+Atk 8-10-12-15-18
+Rof 1.25
+Armor 1/0-2/1-3/2-3/3-4/3
+Move 24
+los 20
+Cost 50 F 25 G 8 sec
+Up cost 200 F 100 G
+Up cost 200 F 300 G
+Up cost 300 F 350 G
+Up cost 300 F 650 G
+x1.7 vs buildings, x1.2 vs huskarls/eagles, x0.7 vs jaguar warriors, x.13 vs tamed jaguars, x2.0 vs battering ram
+Calculated vs top unit: 30 dmg vs buildings 20 dmg vs shock 10 dmg vs jaguar warrior 22 dmg vs tamed jaguar
+-Spearman:
+HP 180-240-360
+Atk 8-10-15
+Rof 1.5  !!!
+Armor 0/0-1/1-2/2
+Move 24
+los 20
+Cost 65 F 10 sec
+Up cost 200 F 250 G
+Up cost 400 F 550 G
+x2 vs cavalry, x0.2 vs archers, x0.6 vs monks, x0.5 vs walls, x0.8 vs buildings,
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 24 dmg vs cavalry 3 dmg vs archers 9 dmg vs monks 8 dmg vs walls 12 dmg vs buildings
+8 dmg vs jaguar warriors 18 dmg vs tamed jaguars
+-Archer:
+HP 110-140-210
+Atk 13-17-26
+Rof 1.14  !!!
+Armor 1/1-2/2-2/3
+Range 16-18-20
+los 24-27-30
+Move 24
+Cost 30 F 45 G 12 sec
+Up cost 300 F
+Up cost 700 G
+x1.4 vs spearman, x1.2 vs horse archers, x1.5 vs musketter, x0.75 vs cavalry/huskarls/Eagles/woads,
+x0.3 vs walls, x0.5 vs artillery
+Calculated vs top unit: 30 dmg vs spearman 27 dmg vs horse archers 36 dmg vs musketter
+15 dmg vs shock infantry 8 dmg vs walls 10 dmg vs siege
+-Musketter:
+HP 180-260
+Atk 42-55     3 second cooldown between each shot
+Rof 1.25
+Armor 1/0-3/2
+Range 21-24
+los 27-30
+Move 24
+Cost 50 F 70 G 18 sec
+Up cost 350 F 600 G
+x1.2 vs infantry, x1.5 vs eagles, x0.35 vs walls
+Calculated vs top unit: 65 dmg vs infantry 79 dmg vs eagle warriors 17 dmg vs walls
+-Eagle Warrior:
+HP 320-480
+Atk 14-19
+Rof 1.25
+Armor 1/3-2/4
+Move 27
+los 27
+Cost 35 F 40 G 10 sec
+Up cost 950 F 150 G
+x1.5 vs monks, x0.9 vs cavalry/infantry, x1.2 vs artillery, x2.3 vs walls, x2.0 vs battering ram
+Calculated vs top unit: 30 dmg vs monks 14 dmg vs cavalry/infantry 24 dmg vs siege 44 dmg vs walls
+
+STABLE
+-Light cavalry:
+HP 200-300
+Atk 8-12
+Rof 1.0 !!!
+Armor 1/2-2/3
+Move 32 Res 400 (600)
+los 27
+Cost 70 F 14 sec
+Up cost 400 G
+x3.5 vs monks, x2.5 vs artillery, x2.0 vs battering ram
+Calculated vs top unit: 42 dmg vs monks 30 dmg vs siege
+-Heavy cavalry:
+HP 340-390-420 
+Atk 16-18-21
+Rof 1.25
+Armor 2/4-3/4-3/5
+Move 28
+los 24
+Cost 80 F 45 G 15 sec
+Up cost 400 G
+Up cost 550 F 950 G
+x1.1 vs infantry but x0.8 vs spearman, x2.0 vs battering ram
+Calculated vs top unit: 20 dmg vs infantry 14 dmg vs spearman
+-Battle Elephant:
+HP 900-1200
+Atk 16-21
+Rof 2.0 !!!
+Armor 2/4-3/6
+Move 22
+los 21
+Cost 125 F 45 G 20 sec  1.5 population
+Up cost 450 F 350 G
+x0.7 vs spearman, x2.0 vs battering ram
+Calculated vs top unit: 18 dmg vs spearman
+NEW-Camel Rider:
+HP 200-260
+Atk 22-28
+Rof 1.25
+Armor 1/0-3/1
+Move 28
+Cost 50 F 50 G 15 sec
+Up cost 400 F 400 G
+x2 vs cavalry, battering ram
+Calculated vs top unit: 50 dmg vs cavalry
+-Horse Archer:
+HP 160-200
+Atk 23-33
+Rof 1.0 !!!
+Armor 1/2-2/3
+Range 20-22
+los 27-30
+Move 28
+Cost 55 F 65 G 13 sec
+Up cost 700 F 600 G
+x0.6 vs archers, x0.15 vs walls, x1.3 vs spearman
+Calculated vs top unit: 16 dmg vs archers 5 dmg vs walls 35 dmg vs spearman
+
+SIEGE
+-Battering Ram:
+HP 450-530-600
+Atk 100-125-140
+Rof 1.5  !!!
+Armor 0/0
+Move 16
+los 21
+Cost 20 F 115 G 35 sec
+Up cost 450 G
+Up cost 650 G
+can only hit buildings
+-Bombard:
+HP 60-70
+Atk 120-150
+Rof 1.25
+Armor 0/3-0/5
+Range 28
+los 36-39
+Move 22
+Cost 75 F 225 G 35 sec  2 population
+Up cost 800 G
+x0.8 vs korean war wagon, x0.4 vs all infantry(except spearman and samurai),
+x0.5 vs artillery, x8 vs walls, x3 vs buildings
+Calculated vs top unit: 119 dmg vs korean wagon 59 dmg vs infantry(except spearman and samurai)
+72 damage vs siege 1200 dmg vs walls 450 dmg vs buildings
+NEW-Catapult:
+HP 80-100
+Atk 30-40  splash damage in 4 tiles
+Rof 1.25
+Armor 0/3-0/5
+Range 24
+Move 20
+Cost 100 F 200 G 35 sec  2 population
+Up cost 800 F 800 G
+x20 vs walls, x6 vs buildings
+Calculated vs top unit: 2000 dmg vs walls 600 vs buildings
+NEW-Ballista:
+HP 40-50
+Atk 24-30  deal piercing damage to 5 targets behind the first one, 50% damage
+Rof 1.25
+Armor 0/3-0/5
+Range 28
+Move 22
+Cost 50 F 100 G 18 sec
+Up cost 400 F 400 G
+x2.5 vs archers/spearman, x2 vs buildings
+Calculated vs top unit: 75 dmg vs archers/spearman, 60 dmg vs buildings
+
+UNITA UNICHE
+-Chu ko nu:
+HP 180-240
+Atk 13-17  fire two arrows
+Rof 1.25
+Armor 1/4-2/5
+Range 18-20
+Move 24
+los 24-27
+Cost 55 F 45 G 15 sec
+Up cost 650 F 750 G
+x1.4 vs spearman, x1.2 vs horse archers, x1.5 vs musketter, x0.75 vs cavalry/huskarls/Eagles/woads,
+x0.3 vs walls, x0.5 vs artillery
+Calculated vs top unit: 19 dmg vs spearman 22 dmg vs musketter 9 dmg vs shock infantry/cavalry
+5 dmg vs walls 6 dmg vs siege
+-Samurai:
+HP 340-400
+Atk 11-16
+Rof 2.5 !!!
+Armor 2/2-3/3
+Move 25
+los 21
+Cost 45 F 30 G 11 sec
+Up cost 400F 400 G
+x1.8 vs buildings, x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 28 dmg vs buildings 9 dmg vs jaguar warriors 20 dmg vs tamed jaguars
+-Teutonic Knight:
+HP 450-670
+Atk 36-48  
+Rof 0.83  !!!
+Armor 2/4-3/5
+Move 20
+los 21
+Cost 60 F 40 G 14 sec
+Up cost 500 F 500 G
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 32 dmg vs jaguar warriors 61 dmg vs tamed jaguars
+-Huskarl:
+HP 320-440
+Atk 14-18
+Rof 1.25
+Armor 1/5-2/6
+Move 25
+los 21
+Cost 40 F 30 G 9 sec
+Up cost 600 F 600 G
+x1.3 vs walls, x3 vs fortifications, x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 24 dmg vs walls 54 dmg vs fortifications 10 dmg vs jaguar warriors
+22 dmg vs tamed jaguars
+-Cataphract:
+HP 360-440
+Atk 15-21
+Rof 1.25
+Armor 3/3-5/6  Immune to anti cavalry damage
+Move 28
+los 21
+Cost 50 F 40 G 12 sec
+Up cost 350 F 350 G
+x2 vs spearman
+Calculated vs top unit: 36 dmg vs spearman
+-Woad Rider:
+HP 330-450
+Atk 16-21
+Rof 1.0 !!!
+Armor 2/3-3/4
+Move 26
+los 21
+Cost 75 F 10 sec
+Up cost 500 F 500 G
+x1.4 vs spearman, x1.3 vs samurai, x2.3 vs walls, x3 vs fortifications,
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 25 dmg vs spearman 24 dmg vs samurai 48 dmg vs walls 63 dmg vs fortifications
+13 dmg vs jaguar warriors 26 dmg vs tamed jaguars
+-Mameluke:
+HP 240-320
+Atk 32-40
+Rof 1.25
+Armor 1/0-3/1
+Range 12-16
+Move 28
+los 15-18
+Cost 60 F 60 G 17 sec
+Up cost 600 F 600 G
+x1.4 vs cavalry, x0.8 vs teuton knights, x0.7 vs archers
+Calculated vs top unit: 51 dmg vs cavalry 30 dmg vs teutonic knights 27 dmg vs archers
+-Berserker:
+HP 260-360  regen 9 Hp per second
+Atk 17-23
+Rof 1.25
+Armor 1/3-2/4
+Move 25
+los 21
+Cost 65 F 35 G 12 sec
+Up cost 500 F 500 G
+Take half damage from defensive buildings
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 14 dmg vs jaguar warriors 28 dmg vs tamed jaguar
+-War Wagon:
+HP 330-420
+Atk 20-27
+Rof 0.92 !!!
+Armor 0/1-1/2
+Range 20-22
+Move 25
+los 27-30
+Cost 65 F 95 G 16 sec 1.5 population
+Up cost 500 F 500 G
+x0.8 vs buildings, x0.4 vs walls, x0.7 vs cavalry
+Calculated vs top unit: 14 dmg vs buildings 7 dmg vs walls 8 dmg vs cavalry
+-Longbowman:
+HP 240-300
+Atk 18-22  
+Rof 0.83 !!!
+Armor 2/3-3/3
+Range 24-28
+Move 25
+los 36-39
+Cost 100 F 14 sec
+Up cost 500 F 500 G
+-Conquistador:
+HP 170-220
+Atk 40-51   3 second cooldown between each shot
+Rof 1.25
+Armor 1/0-3/0
+Range 21
+Move 28
+los 27
+Cost 65 F 55 G 16 sec
+Up cost 500 F 500 G
+x1.3 vs eagles, x0.35 vs walls
+Calculated vs top unit: 56 dmg vs eagle warriors 16 dmg vs walls
+-Jaguar warrior:
+HP 240-400
+Atk 20-28
+Rof 1.25
+Armor 1/3-3/4
+Move 25
+los 21
+Cost 70 F 50 G 16 sec
+Up cost 800 F 700 G
+x2.3 vs walls, x3 vs fortifications, x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Calculated vs top unit: 64 dmg vs walls 84 dmg vs fortifications 18 dmg vs jaguar warriors
+36 dmg vs tamed jaguars
+-Tamed Jaguar:
+HP 280-400
+Atk 15-20
+Rof 1.25
+Armor 1/1-1/2
+Move 28
+los 21
+Cost same as jaguar warrior
+x1.1 vs cavalry, x0.25 vs buildings
+Calculated vs top unit: 19 dmg vs cavalry 5 dmg vs buildings
+-Throwing Axeman:
+HP 240-300
+Atk 24-32
+Rof 1.0 !!!
+Armor 3/1-3/3
+Range 16
+Move 24
+los 21
+Cost 50 F 50 G 15 sec
+Up cost 500 F 500 G
+x1.3 vs berserker, x0.8 vs walls, x0.7 vs jaguar warriors, x1.3 vs tamed jaguars
+Calculated vs top unit: 38 dmg vs berserkers 25 dmg vs walls 20 dmg vs jaguar warriors
+39 dmg vs tamed jaguars
+-Savar:
+HP 600-700
+Atk 16-21
+Rof 1.25
+Armor 2/4-3/6
+Move 22
+los 21
+Cost 80 F 20 G 12 sec
+Up cost 400 F 800 G
+x0.7 vs spearman
+-Mangudai:
+HP 160-200
+Atk 20-30
+Rof 1.0 !!!
+Armor 3/2-4/3
+Range 20-24
+los 27-30
+Move 28
+Cost 45 F 75 G 15 sec
+Up cost 700 F 600 G
+x0.6 vs archers, x0.3 vs walls, x1.3 vs spearman, x2 vs siege
+Calculated vs top unit: 16 dmg vs archers 9 dmg vs walls 35 dmg vs spearman 60 dmg vs siege
+-Jannisary:
+HP 240-320
+Atk 55-75     3 second cooldown between each shot
+Rof 1.25
+Armor 2/1-3/2
+Range 21-24
+los 27-30
+Move 24
+Cost 70 F 90 G 24 sec
+Up cost 350 F 600 G
+x1.25 vs infantry, x0.4 vs walls
+Calculated vs top unit: 90 dmg vs infantry 30 dmg vs walls
+***NEW***
+-Magyar Hussar:
+HP 300-420
+Atk 12-18
+Rof 1.0 !!!
+Armor 1/2-2/3
+Move 32 Res 400 (600)
+los 30
+Cost 100 F 11 sec
+Up cost 400 G 400 F
+x3 vs monks, x3 vs artillery
+-Boyars:
+HP 340-400 
+Atk 18-23
+Rof 1.25
+Armor 4/4-5/5
+Move 27
+los 21
+Cost 80 F 45 G 15 sec
+Up cost 950 F 950 G
+x0.7 vs spearman
+-Elephant archer:
+HP 900-1200
+Atk 17-26
+Rof 1.14  !!!
+Armor 2/4
+range 20-22
+Move 22
+Cost 100 F 60 G 18 sec  1.5 population
+Up cost 400 F 400 G
+x0.7 vs archers, x0.2 vs walls, x1.5 vs spearman
+-kamayuk:
+HP 300-400
+Atk 15-21
+Rof 1.25
+Armor 1/1-2/2
+Move 24
+Range 2
+los 21
+Cost 60 F 30 G 12 sec
+Up cost 450 F 550 G
+x2 vs cavalry, x0.2 vs archers, x0.6 vs monks, x0.5 vs walls, x0.8 vs buildings,
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+-Genoses Crossbowman:
+HP 200-280
+Atk 17-26
+Rof 1.14  !!!
+Armor 2/3-3/4
+Range 18-20
+Move 24
+los 24-27
+Cost 40 F 60 G 12 sec
+Up cost 500 F 500 G
+x1.5 vs musketter/cavalry/spearman, x0.75 vs huskarls/Eagles/woads,
+x0.3 vs walls, x0.5 vs artillery
+-Shotel Warrior:
+HP 225-300
+Atk 16-23
+Rof 1.25
+Armor 3/3-4/3
+Move 27
+los 21
+Cost 40 F 35 G 8 sec
+Up cost 600 F 1000 G
+x1.7 vs buildings, x1.2 vs huskarls/eagles, x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+-Organ Gun:
+HP 120-150
+Atk 20-25
+projectiles 6
+Rof 1.25
+Armor 0/3-0/5
+Range 20-24
+Move 22
+los 30
+Cost 75 F 225 G 35 sec  1.5 population
+Up cost 800 G
+x0.4 vs all infantry(except spearman and samurai),
+x0.5 vs artillery, x8 vs walls, x3 vs buildings
+-Rattan Archer:
+HP 160-260
+Atk 20-28
+Rof 1.14 !!!
+Armor 2/8-2/12
+Range 18-20
+Move 24
+los 24-27
+Cost 40 F 60 G 15 sec
+Up cost 700 F 300 G
+x1.4 vs spearman, x1.2 vs horse archers, x1.5 vs musketter, x0.75 vs cavalry/huskarls/Eagles/woads,
+x0.3 vs walls, x0.5 vs artillery
+-Arambai:
+HP 160-200
+Atk 30-40
+Rof 1.0 !!!
+Armor 2/2-3/3
+Range 16-18
+Move 28
+los 24-27
+Cost 55 F 65 G 13 sec
+Up cost 700 F 600 G
+x0.5 vs archers, x0.1 vs walls
+-Gbeto:
+HP 200-240
+Atk 24-32
+Rof 1.25 
+Armor 2/2-3/3
+Range 15-18
+Move 28
+los 24-28
+Cost 50 F 50 G 15 sec
+Up cost 500 F 500 G
+x1.3 vs berserker, x0.8 vs walls, x0.7 vs jaguar warriors, x1.3 vs tamed jaguars
+-Obuch:
+HP 400-500
+Atk 10-16
+Rof 1.25
+Armor 2/2-3/3
+Move 22
+los 21
+Cost 50 F 40 G 12 sec
+Up cost 800 F 800 G
+x1.7 vs buildings, x1.2 vs huskarls/eagles, x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+Ech hit destroy permanentely 1/1 armor from target
+-Swiss Pikeman:
+HP 320-480
+Atk 16-24
+Rof 1.25
+Armor 1/1-2/2
+Move 24
+los 21
+Cost 70 F 20 G 12 sec
+Up cost 600 F 800 G
+x2 vs cavalry, x0.25 vs archers, x0.5 vs monks, x0.5 vs walls, x0.75 vs buildings,
+x0.7 vs jaguar warriors, x.13 vs tamed jaguars
+
+
+
+
+
+____________
+____________
+____________
+
+

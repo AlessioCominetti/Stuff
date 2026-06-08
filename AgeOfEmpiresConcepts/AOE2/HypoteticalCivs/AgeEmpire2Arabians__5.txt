@@ -1,0 +1,280 @@
+ARABIANS-ABBASIDS: cavalry, monks and naval
+SYRIANS-UMAYADS: defense and naval
+EGYPTIANS-FATIMIDIS: archers and cavalry
+DAYLAMITES: infantry and siege
+SELJUKS: cavalry and cavalry archers
+SARACENS-AYYUBIDS: cavalry and naval (UPDATED)
+
+UNITS
+-Added new cavalry unit, the mameluke, which replace the knight-line for the
+Arabians, Saracens, Berbers, Seljuks, Syrians and Egyptians. The previous mameluke
+has been renamed to the Dervisher
+Mameluke: strong cavalry unit
+HP 125-190 [210]
+Atk 12-16 [20]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.4 [1.54]
+Cost 65 F 85 G 30 sec
+Up cost 1500 F 800 G 150 sec
+
+Faris Archer: replace horse archer at stables
+HP 65-80 [100]
+Atk 7-8 [12]
+vs archers +3-4 (except skirmishers)
+vs speat +3-5 [7]
+Rof 2.0 [1.7]
+Range 4 [7]
+Armor 1/0 [5/6]
+Speed 1.45 [1.6]
+Cost 60 W 60 G 40 sec
+Up cost 1000 F 600 G 120 sec
+Special: deal +2 dmg to enemies within 3 tiles
+
+-Imam: replace the monk, affected my infantry armor upgrades
+HP 30 [50]
+heal 90 Hp/min [180]
+Range 9 [13]
+los 12 [16]
+Armor 0/0 [3/4]
+Speed 0.8 [1.0]
+Cost 100 G 50[40] sec
+
+-Dhow: replace Galley line. Stronger and more expensive
+Available to Arabians, Syrians, Egyptians, Daylamites, Saracens, Berbers and Swahili
+HP 100-120-140
+Atk 6-7-8 [12]
+vs long_range_warships +6-6-10
+vs buildings +6
+vs rams +3
+Rof 3.0
+Range 5-6-7 [10]
+Armor 0/5-0/5-0/7 [0/9]
+Speed 1.5 [1.8]
+Cost 80[64] W 40 G 36-27[17] sec
+
+BUILDINGS
+-Madrasah: doubles as both a Monstery and a University,
+but it is only limited to one per player. Work 25% faster
+than normal. 4x5 tiles
+Cost 250 W 50 G 100 sec
+
+
+ABBASIDIS (ARABIANS)
+cavalry, monks and naval civilization
+
+-Stronger Madrash technologies, which cost -33%
+-villagers are created 3% faster for each 100 G stockpiled (max +30%)
+-Eco buildings and houses cost -20%
+UU Hashashin(infantry)
+CT-Siphati: infantry and stable units take -33% damage from mounted units 
+COST 500 F 600 G 60 sec
+IT-Military Code: infantry units attack 1% faster for each 
+Madrasah tech researched (max +20%) COST 300 W 300 G 40 sec
+TB-Eco techs cost -15%
+
+Special Techs:
+-Uni- 14
+->Elite Hoardings: Castles +40% HP   500 F 500 W 60 sec  
+->Royal Tower: Keep upgrade, with +1 range and los and +3 atk cost +300 G +200 S +15 sec
+->Royal Masonry/Royal Architecture: provide an extra +1/1 armor and +3 building armor cost +75 F/+125 F +50 W +25/35 sec
+->Nizamihya School: Madrash, Markets and Castles generate 30-15-60 G/min  300 W 300 G 60 sec
+->Tughra: military units cost -10% G 400 F 300 G
+->Elite Alchemy: unlock gunpowder units, ranged units +1 atk, towers get +3 atk and +150% bonus damage
+->Elite Treadmill: villager build 35% faster  cost +100 F +100 S +20 sec
+->Elite siege engineers: ranged siege +1 range, siege deal +30% bonus damage cost +100 W +50 G +20 sec
+(unchanged: ballistics, guard tower, keep, bombard tower, murder holes)
+-Monk- 8
+->Qalandar Faith: imam +4 range  350 G 250 S 60 sec
+->Extreme fervor: imam +25% movement speed 150 G 40 sec
+->Extra Sanctity: imam +20 HP  200 G 40 sec
+->Elite illumination: imam rejuvenate 150% faster 300 G 40 sec
+->Repulsion: imam can convert other monks, buildigns, ships and siege 800 G 120 sec
+->Elit Faith: all units +8 second conversion resistence  1000 G 150 sec
+->Advanced Medicine: imam heal 100% faster, units in buildings heal 8 times faster 300 G 40 sec
+->Theocracy: only one imam is needed to rest after conversion 200 G 30 sec
+
+Hashashin
+HP 70-80
+Atk 16-20 [24]
+Rof 1.8-1.7
+Armor 1/1 [4/5]
+Speed 1.3 [1.43]
+Cost 40 G 60 F 18-14 sec
+Special: can turn 10 seconds invisible.
+While invisible, cannot be targeted
+by any enemy unit but can still take
+blast damage. Recharge 60 seconds
+
+Missing techs:
+A-infantry: nothing
+A-cavalry: nothing
+B-archers: crossbowman, HC
+S-monks: heresy
+A-siege: nothing
+A-naval: nothing
+B-economy: nothing
+S-university: nothing
+
+UMAYADS (SYRIANS)
+Defense and naval civilization
+
+-Military buildings and universities work 25% faster, their techs cost -20%°°
+-Can garrison Military buildings with foot soldiers and villagers to make
+them produce units for free while they are not busy
+-Fire and Demo ships +25% attack
+-Horse archers and mamelukes are affected by gambeson
+UU Jund al-Sham(infantry)
+CT-Diwan al-Askar: infantry and stable units +1 atk and +5% movement speed
+IT-Mu awiya: foot and horse archers, long range warships +1 range
+TB-Trade units generate 25% F and W in addition to G
+
+°°techs are: squires, arson, gamebson, thumb ring, parthian tactics, husbandry,
+all university techs
+
+Jund al-Sham: heavy infantry
+HP 75-90
+Atk 11-14 [18]
+vs buildings +2 [4]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.05 [1.21]
+Cost 55 F 25 G 14-12 sec
+Up cost 750 F 750 G 45 sec
+Special: infantry units within 4-5 tiles
+get +1/0 armor, doesn't stack
+
+Missing techs
+A-infantry: nothing
+B-archers: hand cannon
+B-cavalry: hussar, bloodlines
+C-siege: siege ram, heavy scorpio, bombard cannon, siege engineering
+A-navy: siege engineering*
+B-monks: redemption, illumination, sanctity
+A-defense: bombard tower
+B-economy: crop rotation, two man saw, guilds
+
+
+
+FATIMIDS (EGYPTIANS)
+Archer and cavalry civilization
+
+-Start with +50 G and +50 F
+-commodity trade fee is 5%
+-Relic can be garrisoned at universities,
+each reducing cost and research time by 10% each (max 3)
+-Shipwright is 50% more effective
+-Blacksmith armor upgrades provide an additional +1/0 melee armor
+(applies only for Castle and Imperial Age upgrades, aka, no
+bonus armor for Leather armor)
+UU Abtal (heavy archer)
+UT Diwan al-Mal: Town Centers, Markets and Military buildings generate 3 G/min,
+they also cost -100 W  COST  300 W 300 G 30 sec
+UT Furusiyya: foot archers and mounted units get +15 HP  COST 600 F 400 G 50 sec
+TB-Markets and Universities provide +10 population
+
+Abtal (heavy archer)
+HP 65-75 [90]
+Atk 9-10 [14]
+Rof 3.0 [2.55]
+Range 4-5 [8]
+Los 5
+Armor 2/3-2/4 [7/8]
+Speed 0.8
+Cost 40 W 60 G 15 sec
+Upgrade cost 1000 W 500 G 60 sec
+gain +3/4 attack when figthing at 2 range or less
+
+Missing techs
+B-infantry: halberdier, gambeson,
+A-archers: nothing
+A-cavalry: nothing
+B-siege: BC, heavy scorpio, siege ram
+A-navy: HDS
+A-monks: heresy
+A-defense: nothing
+B-economy: both shaft mining, bone-saw
+
+DAYLAMITES
+infantry and siege civilization
+
+-Barracks and Siege Workshops cost -75 W
+-Towers, Town Centers, Castles +1/2/3 dmg vs cavalry
+-Barrack and Siege Workshop upgrades cost no G (saves 2865 G)
+-Battering rams +2 garrison space and +33% HP
+UU Daylamite Guard(infantry)
+CT-Daylam Tactics: infantry and siege units +3/0 armor COST 500 F 300 G 30 sec
+IT-Mercenary Tradition: infantry units cost -20% (applies to allies too) COST 800 F 500 G 50 sec
+TB Gold and stone deposits last 10% longer
+
+Daylamite Guard
+HP 75-95
+Atk 14-18 [22]
+vs buildings +4-6 [8]
+vs shock +2-4
+vs cavalry +2-5
+Rof 2.0
+Armor 2/2 [8/6]
+Speed 0.96 [1.05]
+Cost 60[48] F 40[32] G 15-13 sec
+Up cost 700 F 500 G 60 sec
+Special: heal 15/20 hp for each kill
+
+
+Missing techs:
+A-infantry: nothing
+B-archers: arbalester, HC
+D-cavalry: knight, hussar, husbandry, cavalry armor III
+B-siege: siege onager, heavy scorpio, BC, siege engineers*
+C-navy: Galleon, FFS, shipwright, dry dock, clinker
+B-monks: heresy
+A-defenses: BT
+A-economy: nothing
+
+SELJUKS
+cavalry and cavalry archers civilization
+
+-Defensive technologies cost -33%*
+-Town Center generate 1 sheep when built, and 1 extra sheep every 5 minutes
+-Stable units +1/2/3 atk
+-Horse archers have -50% frame delay
+UU Seljuk Ghulam(cavalry)
+RU camels, steppe lancer
+CT-Iqta: mounted units generate 3 G per kill  COST 300 F 300 G 30 sec
+IT-Nizam-i Mulk: All military buildings and Castles work 40% faster
+COST 700 F 500 G 60 sec
+TB-Mounted units are trained 15% faster
+
+*guard-watch-bombard tower, masonry-architecture, heated shot,
+fortified wall, arrowslits, murder holes, treadmill crane, hoardings
+(saves 1017 F 742 W 33 G 50 S)
+
+Seljuk Ghulam
+HP 110-155 [175]
+Atk 10-14 [18]
+vs infantry +6
+Rof 1.8
+Armor 2/2-2/3 [5/7]
+Speed 1.35 [1.48]
+Cost 70 F 40 G 12 sec
+Up cost 1200 F 800 G 60 sec
+
+Missing techs:
+B-infantry: champion, squires
+A-archers: arbalester
+A-cavalry: nothing
+B-siege: siege onager, BC
+C-monks: heresy, BP, redemption, atonement
+B-naval: shipwright
+A-defense: nothing
+A-economy: crop rotation, 2-h-saw, stone shaft mining
+
+
+UPDATE TO SARACENS
+AYYUBIDS (SARACENS)
+Extra Bonuses
+-Monks cost -30%
+Lost Bonuses
+-Commodity trading fee is 5%
+
+

@@ -1,0 +1,405 @@
+EUROPEANS
+
+
+--Crossbowman--
+Cost 40 F 40 W 1 pop 27 sec
+HP 100 atk 16-7 Range 16 Rof 3-1.5
+Siege: 8 damage 6 range 3 Rof
+20% ranged  4 speed 8 XP
+2.5 vs light cav/light shock infantry
+1.25 vs heavy infantry
+0.6 vs heavy cav/shock infantry
+--Halberdier--
+50 F 70 G 1 pop 33 sec
+HP 200 Atk 28 Rof 1.5
+Siege: 36 damage 6 range 3 Rof
+20% melee 4.2 speed 12 XP
+2 vs cavalry
+1.5 vs shock
+--Musketter-- (British have +10% HP and Atk)
+75 F 25 G 1 pop 30 sec
+HP 150 Atk 24-12 Range 12 Rof 3-1.5
+Siege: 20 damage 6 range 3 Rof
+20% melee 4 speed 10 XP
+3 vs cavalry(melee only)
+2.25 vs shock(melee only)
+--Pikeman--
+40 F 40 W 1 pop 27 sec
+HP 120 Atk 8 Rof 1.5
+Siege: 32 damage 6 range 3 Rof
+10% melee 5 speed 8 XP
+5 vs cavalry
+3.5 vs shock
+--Skirmisher-- (Germans have +10% HP and Atk)
+50 F 65 G 1 pop 33 sec  (Finland  100 W 1 pop 33 sec 100 max)
+HP 120 Atk 15-6 Range 20 Rof 3-1.5
+Siege: 12 damage 6 range 3 Rof
+30% ranged 4 speed 12 XP
+2.5 vs light cavalry/ranged shock infantry
+2 vs heavy infantry
+0.6 vs cavalry/shock infantry
+--Militianman/Revolutionary-- 
+75/100 F 1 pop 2/30 sec
+HP 200 Atk 26-13 rof 3-1.5 range 12  2 vs cavalry 1.6 vs shock infantry
+Grenade(Revolutionary): 20 damage 3 rof 14 range
+Siege: 5/20 damage 6 range 3 rof
+20% ranged 4 speed   loses 4 HP/sec until left with 1 (Militiaman)
+30% melee (Revolutionary)
+
+--Dragoon-- (Spain and Portugal +10% HP and Atk)
+90 F 90 G 2 pop 40 sec
+HP 200 Atk 22-11 Range 12 Rof 3-1.5
+Siege: 9 damage 6 range 3 Rof
+20% ranged 7.2 speed 18 XP
+3 vs heavy cavalry
+2.25 vs shock infantry
+2 vs artillery
+--Hussar-- (British +10% HP and Atk)
+120 F 80 G 2 pop 40 sec
+HP 320 Atk 30 Rof 1.5  Trample 50%
+Siege: 20 damage 6 range 3 Rof
+20% ranged 7 speed 20 XP
+
+--Culverin--
+100 W 400 G 4 pop 45 sec
+HP 280
+Bombard: 40 Atk 34 range 6 Rof
+10 vs ships 4 vs artillery 2 vs building 0.5 vs cavalry/shock infantry
+Caseshot: 4*7 Atk 17 range 6 Rof
+2 vs infantry/building 0.5 vs cavalry/shock infantry
+75% ranged 3.5 speed 50 XP
+--Falconet--
+100 W 400 G 5 pop 45 sec
+HP 200
+Bombard: 100 Atk 26 range 4 rof
+3 vs infantry/ship 2 vs building
+Caseshot: 10*7 Atk 13 range 4 rof
+3 vs infantry 0.5 vs cavalry/shock infantry
+75% ranged 4 speed 50 XP
+--Mortar--
+100 W 350 G 4 pop 45 sec
+HP 300
+Bombard: 500 Atk 40 range 6 rof   1.25 vs walls 0.75 vs ships
+Caseshot: 30 Atk 30 range 6 rof 0.4 vs artillery/cavalry/shock infantry
+75% ranged 3 speed 45 XP
+--Grenadier--
+120 F 60 G 2 pop 40 sec
+HP 200
+Ranged/Mortar: 16 Atk 12 range 3 rof 0.5 vs artillery 0.4 vs cavalry/shock infantry
+Siege: 42 Atk 12 range 3 Rof
+Hand: 24 Atk 1.5 Rof 0.25 vs cavalry/shock infantry
+50% ranged 4 speed 18 XP
+--Petard--
+50 F 100 W 1 pop 40 sec
+HP 225 Atk 1600 Ranged 20% Speed 4 XP 15
+--Heavy Cannon--
+200 W 600 G 7 pop 120 sec
+HP 500
+Bombard: 200 Atk 28 range 6 rof 4 blast  3 vs infantry/ships 2 vs buildings
+Caseshot: 20*7 Atk 14 range 6 rof 6 blast   3 vs infantry/ships 2 vs buildings 0.5 vs cav/shock
+75% ranged 3.5 speed 80 XP
+
+--Priest--   (Missionary for Spain, Portugal, Italians)
+100 G 1 pop 30 sec   (10 limit for Missionary)
+HP 200 Ranged 10% Speed 4(7) XP 10
+Heal 10/sec Range 12
+
+--Caravel--
+300 W 100 G 5 max 40 sec
+HP 800 Atk 75 Range 20 Rof 2  0.5 vs artillery
+50% ranged 8 speed 40 XP
+--Frigate--
+500 W 500 G 3 max 40 sec
+HP 2000 Atk 90 Range 30 Rof 2  0.5 vs artillery
+75% ranged 7.5 speed 100 XP
+--Galleon--
+300 W 300 G 3 max 40 sec
+HP 1500 Atk 50 Range 20 Rof 2  0.5 vs artillery
+75% ranged 8 speed 60 XP
+--Monitor--
+600 W 200 G 2 max 40 sec
+HP 1200 Atk 80 Range 36 Rof 5  10 vs buildings 
+50% ranged 6 speed 80 XP
+
+UNIQUE UNITS
+--Arhitect--  ITA
+170 G 2 pop 34 sec 2-3-4-5 max
+HP 250 speed 4 XP 17 Atk 10 rof 1.5
+--Barbary warrior--  PORT/TURK
+90 F 1 pop 30 sec
+HP 90 Atk 16 rof 1.5  3 vs guardian 2 vs villager/cavalry 1.5 vs shock infantry
+Siege: 32 damage 6 range 3 rof
+40% melee 6 speed 10 XP
+--Bashibozuk-- TURK
+75 F 1 pop
+HP 180 Atk 24-15 rof 3-1.5 range 12  1.5 vs heavy infantry
+Siege: 10 damage 6 range 3 rof
+20% melee 4.2 speed     loses 3 HP per second until 1 left
+--Californio-- USA
+120 F 1 pop 30 sec
+Hp 180 Atk 20-15 rof 3-1.5 range 12
+Ranged bonus: 2.5 vs cavalry 2 vs shock infantry 0.7 vs villager
+Siege: 10 damage 6 range 3 rof
+20% ranged 6.5 speed 12 XP
+--Courer de Bois-- FRA
+120 F 1 pop 28 sec 80 max
+HP 180 Atk 8-10 rof 3-1.5  range 12   2 vs animals/artillery
+Siege: 6 damage 6 range 3 rof
+40% ranged 4.5 speed 12 XP
+--Cuerudo-- MEX
+100 F 60 G 1 pop 30 sec
+HP 180 Atk 16-7 rof 3-1.5  range 12  2 vs light infantry 1.5 vs artillery
+Siege: 12 damage 6 range 3 rof
+40% ranged 20% siege 6.5 speed 20 XP
+--Eclaireur-- FRA
+100 W 20 sec 10 max
+HP 200 Atk 10 rof 1.5  3 vs artillery 2 vs infantry trample 50%
+Siege: 10 damage 6 range 3 rof
+10% ranged 7 speed 
+--Envoy-- DUTCH
+50 F 15 sec 5 max
+HP 200 Atk 5 rof 1.5
+10% ranged 4 speed 5 XP
+--Filibuster-- MEX
+90 G 3 pop 30 sec
+HP 160 Atk 24-12 rof 3-1.5 range 12 
+Melee bonus: 3 vs cavalry 2.25 vs shock infantry
+Siege: 50 damage 6 range 3 rof
+20% melee 4 speed 18 XP
+--Java spearman-- DUTCH/PORT
+80 F 1 pop 22 sec
+HP 200 Atk 13 rof 1.5   5 vs cavalry 3.5 vs shock
+Siege: 50 damage 6 range 3 rof
+30% ranged 5 speed 10 XP
+--State Militia-- MEX
+50 F 40 W 1 pop 27 sec
+HP 120 Atk 13-7 rof 3-1.5 range 13 
+2.5 vs ligh cav/ranged shock infantry 1.5 vs heavy infantry 0.6 vs cav/shock
+Siege: 14 damage 6 range 3 rof
+25% ranged 4.5 speed 9 XP
+--Settler Wagon-- GER
+100 F 100 W 2 pop 25 sec  20 max
+HP 300 Atk 10 rof 1.5
+Siege: 10 damage 6 range 3 rof
+30% ranged 4 speed 20 XP
+--Imam-- TURK
+120 F 1 pop 30 sec 30 max
+HP 200  Heal 10/sec  range 12  Atk 5 rof 1.5
+10% ranged 4 speed 12 XP
+--Spy/Muhbit(Turk)--
+25 F 100 G 1 pop 20 sec
+HP 150 Atk 15-5 rof 3-1.5 range 12  40 vs hero 20 vs mercenary
+Siege: 10 damage 6 range 3 rof
+20% ranged 6.2 speed 14 XP
+
+
+NATIVES
+--Villager--
+100 F 1 pop 25 sec 100 max
+HP 150 Atk 6-10 Range 12 Rof 3-1.5
+Siege: 5 damage 6 range 3 rof
+20% melee 4 speed 10 XP
+--Scout--
+90 W 20 sec 5-25 max
+HP 120 Atk 5 Rof 1.5   5 vs mercenary
+20% ranged 5.5 (6.5 inca) speed 9 XP  stealth
+--Native Warrior--
+2 sec 8 max
+HP 100 Atk 20-13 Range 12 Rof 3-1.5
+Siege: 5 damage 6 range 3 rof
+20% melee 4 speed 10 XP   loses 1 HP per sec until he has 1 left
+
+--Aztec/Inca Warchief--
+200 G 20 sec 1 max
+HP 500 Atk 6 Rof 1.5  3 vs guardian 0.25 vs villager
+Siege: 15 damage 6 range 3 rof
+10/30% ranged 4.5 speed 100 XP
++50% HP/Atk           (+250/+3)  750/9
++100% HP +150% Atk    (+500/+9) 1250/18
++100% HP +200% Atk    (+500/+12) 1750/30
++275% HP +300% Atk    (+1375/+18) 3125/48
+--Eagle Scout--
+80 F 7 sec 5 max
+HP 80 Atk 10 Range 12 Rof 1.5  1.8 vs guardian 0.1 vs villager
+Siege: 5 damage 6 range 3 rof
+10% ranged 5 speed 8 XP
+--Slinger--
+40 F 35 W 1 pop 25 sec
+HP 80 Atk 8-4 Range 16 Rof 1.5  
+2.5 vs ranged cav/ranged shock inf
+2 vs heavy infantry
+0.6 vs cavalry/shock infantry
+Siege: 7 damage 6 range 3 rof
+30% ranged 4.5 speed 7 XP
+--Puma spearman--
+45 F 45 G 1 pop 30 sec
+HP 125 Atk 12 Rof 1.5  5 vs cavalry 3.5 vs shock infantry
+Siege: 42 damage 6 range 3 rof
+20% melee 5 speed 9 XP
+--Warrior Priest--
+200 G 45 sec 10 max
+HP 360 ranged 10% 4.5 speed 20 XP
+Heal 10/s range 12
+Atk 5/20/35/50 Rof 1.5   3 vs guardians
+--Arrow Knight--
+55 F 80 G 2 pop 34 sec
+HP 160 Atk 12-6 Range 30 Rof 3-1.5   5 vs artillery
+Siege: 40 damage 30 range 3 rof  2 vs ship
+40% ranged 4 speed 14 XP
+--Jaguar Knight--
+90 F 30 G 1 pop 36 sec
+HP 220 Atk 16 rof 1.5  3 vs heavy infantry 2 vs cavalry 1.6 vs shock infantry
+Siege: 36 damage 6 range 3 rof
+10% melee 5 speed 12 XP   stealth
+--Skull Knight--
+250 G 2 pop 40 sec
+HP 320 Atl 20 Rof 1.5   3 vs cavalry 2.25 vs shock infantry  Trample 100% blast 2
+Siege: 72 damage 6 range 3 rof
+20% melee 4 speed 25 XP
+--Coyote Runner--
+85 F 25 W 1 pop 27 sec
+HP 160 Atk 18 Rof 1.5
+Siege: 12 damage 6 range 3 rof
+10% ranged 6.2 speed 11 XP
+--Eagle runner Knight--
+75 F 75 G 1 pop 32 sec
+HP 180 Atk 15-9 Range 12 Rof 1.5  3 vs heavy cavalry 2 vs shock infantry
+Siege: 8 damage 6 range 3 rof
+20% ranged 6 speed 15 XP
+
+--Priestess--
+200 G 1 pop 60 sec 16 max
+HP 320  ranged 20% 4.5 speed 20 XP
+Heal 10/sec range 12  Atk 5 rof 1.5
+--Jungle bowman--
+80 F 25 W 1 pop 30 sec
+HP 90 Atk 15-10 Range 16 Rof 3-1.5  
+2.5 vs light cavalry/ranged shock cavalry 1.8 vs heavy infantry 0.6 vs cavalry/shock infantry
+Siege: 8 damage 6 range 3 rof
+20% ranged 4.5 speed 11 XP
+--Plumed spearman--
+100 F 25 W 1 pop 33 sec
+HP 170 atk 13 Rof 1.5  3 vs cavalry 2.25 vs shock
+Siege: 35 damage 6 range 3 rof
+20% melee 5 speed 12 XP
+--bolas warrior--
+75 F 45 G 1 pop 30 sec
+HP 140 Atk 15-8 Range 12 rof 3-1.5
+2 vs heavy cavalry 1.25 vs light cavalry/ranged shock infantry 0.5 vs villager
+Siege: 20 damage 6 range 3 rof
+20% ranged 4 speed 12 XP
+--Huaraca--
+30 W 90 G 2 pop 40 sec
+HP 120 Atk 16-8 Range 14 rof 3-1.5  2 vs artillery 0.3 vs cavalry/shock infantry
+Siege: 40 damage 14 range 4 rof
+40% ranged 4 speed 12 XP
+--Maceman--
+100 F 100 G 2 pop 44 sec
+HP 260 Atk 48 range 2 Rof 3  2 vs cavalry 1.6 vs shock infantry
+Siege: 72 damage 2 range 3 rof
+20% ranged 4 speed 30 XP
+--Chimu Runner--
+75 F 40 G 1 pop 28 sec
+HP 140 Atk 20 Rof 1.5 1.2 vs artillery
+Siege: 9 damage 6 range 3 rof
+10% ranged 6.5 speed 11 XP
+
+--Travois--
+10 max 30 sec
+HP 250 siege 20%  speed 4
+--Aenna--
+100 F 1 pop 27 sec
+HP 110 Atk 12-8 range 16 rof 1.5 
+2.5 vs light cavalry/ranged shock infantry 2 vs heavy infantry 0.6 vs cavalry/shock infantry
+Siege: 12 damage 6 range 3 rof
+30% ranged 5 speed 10 XP
+--Tomahawk warrior--
+75 F 20 W 1 pop 28 sec
+HP 150 Atk 20-14 Range 12 rof 3-1.5
+Melee bonus: 3 vs cavalry 2.5 vs shock infantry
+Siege: 20 damage 6 range 3 rof
+20% melee 4 speed 10 XP
+--Forest Prowler--
+50 F 65 G 1 pop 36 sec
+HP 110 Atk 15-7 Range 20 rof 3-1.5
+2.5 vs light cavalry/ranged shock infantry 2 vs heavy infantry 0.6 vs cavalry/shock infantry
+Siege: 12 damage 6 range 3 rof
+30% ranged 4 speed 12 XP  stealth
+--Ram--
+80 F 120 W 2 pop 44 sec
+HP 250 Atk 75 rof 1.5 (10 vs non buildings)
+50% ranged 3.5 speed 20 XP
+--Mantlet--
+80 W 80 G 2 pop 44 sec
+HP 400 Atk 25-10 Range 10 rof 3-1.5
+Siege: 50 damage 6 range 3 rof
+50% ranged 3.5 speed 16 XP
+--Kanya Horseman--
+100 F 75 W 2 pop 36 sec
+HP 300 Atk 27 rof 1.5  1.75 vs artillery
+Siege: 18 damage 6 range 3 rof
+7 speed 18 XP
+--Musket rider--
+55 F 100 G 2 pop 36 sec
+HP 200 Atk 20-10 Range 12 rof 3-1.5  3 vs heavy cavalry/artillery
+Siege: 10 damage 6 range 3 rof
+20% ranged 7.5 speed 16 XP
+--Light cannon--
+100 W 300 G 4 pop 45 sec
+HP 150 Atk 70 range 32 rof 6  3 vs ships/buildings 2 vs infantry/artillery
+75% ranged 3 speed 40 XP
+
+--Healer--
+150 G 60 sec 10 max
+HP 360 ranged 10% speed 4 XP 15
+Heal 10/s  range 12   Atk 5 rof 1.5
+--Cetan bowman--
+65 F 35 W 1 pop 30 sec
+HP 100 Atk 15-10 range 16 rof 1.5
+2.5/2 vs light cavalry/ ranged shock infantry
+1.5 vs heavy infantry
+0.6/0.8 vs cavalry/shock infantry
+Siege: 10 damage 6 range 3 rof
+30% ranged 4.5 speed 10 XP
+--Club warrior--
+50 F 40 W 1 pop 30 sec
+HP 120 Atk 11 rof 1.5  4 vs cavalry 3 vs shock infantry
+Siege: 30 damage 6 range 3 rof
+20% melee 5 speed 9 XP
+--Wakina rifle--
+60 F 40 G 1 pop 30 sec
+HP 90 Atk 16-7 range 18 rof 3-1.5 
+2.5 vs light cavalry/ranged shock infantry
+2 vs heavy infantry
+0.6 vs cavalry/shock infantry
+Siege: 12 damage 6 range 3 rof
+30% ranged 4 speed 10 XP
+--Axe raider--
+150 F 50 G 2 pop 40 sec
+HP 250 Atk 36-18 rof 1.5  0.75 vs light cavalry
+Siege: 20 damage 6 range 3 rof
+20% ranged 7 speed 20 XP
+--Bow rider--
+100 F 75 G 2 pop 40 sec
+HP 240 Atk 18-10 Range 12 rof 1.5
+2.5/4.5 vs heavy cavalry
+1.5/3 vs shock infantry
+1.5 vs artillery
+Siege: 10 damage 6 range 3 rof
+30% melee 7 speed 18 XP
+--Rifle rider--
+120 F 90 G 2 pop 40 sec
+HP 200 Atk 13-11 Range 12 rof 1.5
+6 vs artillery/ship 3 vs heavy
+Siege: 10 damage 6 range 3 rof
+30% melee 7 speed 20 XP
+--Tashunke rider--
+125 F 75 G 2 pop 44 sec  14 max
+HP 220 Atk 15 Rof 1.5
+Siege: 15 damage 6 range 3 rof
+10% ranged 7 speed 20 XP  +5% HP +10% Atk for each Tashunke in 24 tiles
+--Tokala soldier--
+300 G 3 pop 54 sec
+HP 600 Atk 28 Rof 1.5   1.5 vs infantry
+Siege: 30 damage 6 range 3 rof
+30% ranged 7 Speed 40 XP

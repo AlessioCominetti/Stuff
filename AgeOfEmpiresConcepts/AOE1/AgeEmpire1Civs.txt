@@ -1,0 +1,91 @@
+KUSHITES (Nubiani)
+-gold miner work 30% faster
+-Towers,Walls, +20% HP
+-Temple techs cost -25%
+SCYTHIANS
+-Mounted units +15% movement speed
+-Mounted units cost -20%
+-Mounted units +1 los
+-Wood upgrades cost -25%
+ETRUSCANS
+-priest convert 25% faster
+-Military buildings cost -20%
+-Defensive towers are available one age earlier
+IBERIANS
+-Woodcutter yield 15% more W
+-Warships +20% movement speed
+-Slinger +1/2/3 range
+-Light cavalry cost -25%
+-Swordman move 15% faster
+MITANNI
+-War chariors +20% HP
+-Cavalry techs cost -30%
+-Eco buildings cost -20%
+GERMANS
+-Infantry,slingers +20% HP
+-Can build mule cart
+-Buildings cost -20% and are built 20% faster, but have -20% HP
+GAULS
+-Hunter work 50% faster
+-Priest +2 los
+-Can build mule cart
+-Buildings cost -20% and are built 20% faster, but have -20% HP
+BRITONS
+-Priest regen 12 Hp/min
+-Trees regen W (6 W/min)
+-Towers +1 range if in los of Temples
+-Infantry,slingers +10% movement speed
+-Buildings cost -20% and are built 20% faster, but have -20% HP
+SAMNITES
+-Hoplite +1/1 armor, +5 atk vs cavalry
+-Gold/Stone miner work 20% faster
+-Walls,Towers cost -25%
+OLMECS
+-Temples and Town Centers cost -25%
+-Farmers work 20% faster
+-All units +1 los
+-Priest can heal in group (toggle, group
+healing affect all units in range with 1/10 of
+the healing rate of a single target heal)
+TRACIANS
+-Infantry +10% movement speed
+-Priest convert 25% faster
+-Gold/Stone miner work 20% faster
+-Farmers work 10% faster
+DACIANS
+-Walls,Towers +25% HP
+-Hoplite +2/0 armor
+-Stone miner work 20% faster
+-Swordman +1/2/3 atk
+ARMENIANS
+-Infantry +15% HP and +1/0 armor
+-Priest cost -20%, heal 20% faster
+-Gold/Stone miner work 20% faster
+-First Temple built grant a free priest
+LIDIANS
+-+30% gold from trading
+-Eco techs cost -20%
+-Light cavalry +10% movement speed and +1 los
+-Unit upgrades cost -15%
+
+V2
+MAYA
+-Foot archers cost -10/20/30%
+-Temples are built 100% faster
+-Farms last 40% longer
+TB archers and priest +1 los
+ZAPOTECS
+-Infantry units move 10/15/20% faster
+-Towers cost -20%
+-Gold and stone miners last 25% longer
+TB Infantry units +1/1 armor in Iron Age
+NAZCA
+-Farms cost -40%
+-Barrack units +2 los
+-Foot soldiers regen 30 Hp/min
+TB Barrack units move 5% faster
+MOCHE
+-Siege units cost -15%
+-Swordman and hoplite +1/2/3 atk
+-Priests are affected by infantry armor upgrades
+TB Houses cost -33%

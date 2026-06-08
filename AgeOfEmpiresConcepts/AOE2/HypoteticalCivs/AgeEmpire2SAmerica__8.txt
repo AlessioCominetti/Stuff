@@ -1,0 +1,545 @@
+WARI: infantry and siege
+CHIMU: infantry and naval
+TIWANAKU: infantry and defense
+CHACHAPOYA: infantry and defense
+QOLLAS: infantry
+
+MUISCA: archers and monks
+MAPUCHE: cavalry and counter
+TUPI: infantry and archers
+
+
+-Fire Archers replace Trebuchet and Bombard Cannon, trained at Archery Range
+-Can train Mantlet at Siege Workshop, replace battering ram
+-Can train Canoes
+-Cannot train gunpowder units  or cavalry
+-Train Native archers instead of Crossbowman
+-Slinger replace Hand Cannon
+-Champi warrior replace both militia line and eagle scouts.
+
+BARRACK
+Champi warrior, spearman
+ARCHERY RANGE
+archer, skirmisher, slinger, fire archer
+SIEGE WORKSHOP
+mantlet, onager, scorpio, siege tower
+DOCK
+battle canoe, incendiary canoe, boarding canoe, demoship, catapult galley,
+transport ship, trade cog, fishing canoe
+
+
+TECHS
+NEW
+-Tech: Atlat: skirmishers +1 atk and range and deal 33% pass through damage
+450 F 400 G 50 sec
+REMOVED
+gambeson, parthian tactics, husbandry, bloodlines, BT.
+Saves 1400 F 400 W 450 G 260 seconds
+
+Slinger(hand cannon replacement)
+HP 35-40
+Atk 5-6 [10]
+vs infantry +3-4
+vs siege +3
+Rof 2.0
+Range 5 [8]
+Armor 0/2 [3/6]
+Speed 1.1
+Cost 50 F 25 W 25 sec
+Up cost: 300 W 200 G 40 sec
+Special: attack ignores 50% of enemy pierce armor
+(rounded down, example 7->4) of land units(except siege)
+
+DPS: HC--Slinger
+sword: 6.17--5.5  worse
+spear: 7.05--6  worse
+archer: 3.82--4  better
+skirm: 2.64--3  better
+LC/HA: 3.23--3.5  better
+PL/BE: 2.94--3 
+huskarl: 5--4.5  worse
+ONA/SCO: 2.64--2.5 worse
+villager: 4.41--4 worse
+monk: 5--5
+
+Mantlet(ranged siege unit)
+HP 110-140
+Atk 6-7 (11)
+vs building 30-40
+vs siege 8-13
+Rof 2.0 (+20% fire speed for each garrisoned unit)
+Range 4 (7) Accuracy 50-60%
+Armor 0/50
+Speed 0.6 (+0.06 for each garrisoned unit)
+Garrison 5
+Cost 80 W 40 G 20 sec
+Up cost 1200 F 120 sec 
+
+Fire Archer(archers with long range anti building attack)
+HP 40
+Atk 6 [10]
+vs ships +10
+vs siege +10
+Rof 2.0 Accuracy 35% (100 vs buildings)
+Range 10 [13]
+Armor 0/4 [3/8]
+Speed 0.96
+Cost 50 W 50 G 32[24] sec
+Special: arrows set buildings  on fire,
+dealing 5 dmg/sec for 5 seconds, stack 10 times,
+tot 25 dmg to buildings
+
+Native Archer
+HP 30-35-40
+Atk 4-5-6 (10)
+vs spears +1
+vs archers +0-1-2
+vs buildings +1 (3) affected by Arson
+Rof 2.0
+Range 4-5-5 (8)
+Armor 0/0 (3/4)
+Speed 1.3
+Cost 25 W 35 F 26-22 sec
+Up cost 100 F 50 W 20 sec
+Up cost 250 F 150 W 60 sec
+
+WARSHIPS
+
+(each canoe can swicth between battle,boarding and fire canoe)
+Battle Canoe: replace galley-line
+HP 100-110-120
+Atk 6-7-8 [12]
+vs buildings +4
+vs long_range_warships +3-4-6
+vs rams +2
+Rof 2.0
+Range 5-6-7 [10]
+Armor 0/5-1/6-2/8 [2/10]
+Speed 1.4 [1.68]
+Cost 90 W 30 G 50-36-24 sec
+
+Boarding Canoe: replace hulk-line
+HP 100-125-150
+Atk 4 [8]
+Rof 0.5
+Range 1
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.5 [1.8]
+Cost 90 W 30 G 50-36-24 sec
+Special: convert warships at close range by dealing damage, convert after bringing
+a ship's hp down to 20.
+
+Incendiary Canoe: replace fire galley-line
+HP 110-120-140
+Atk 4-6-8
+vs long_range_warships +2
+Rof 0.5
+Range 2
+Armor 1/4-1/4-3/7 [3/9]
+Speed 1.4-1.5 [1.8]
+Cost 90 W 30 G 50-36-24 sec
+
+
+WARI
+infantry and siege civilization
+
+-Farms contain +40% F
+-All military foot units cost -5/10/15/20% in Dark/Feudal/Castle/Imperial Age
+-Settlements can train champi warriors and archers from Feudal Age x2/x1.5/x1 slower
+-Siege units are affected by masonry and architecture (+10% HP, +1/1 armor)
+-Town Centers, Towers and Outposts cost -25% from Castle Age
+UU Pikillaqta(infantry), pucara purisaspa(siege tower)
+RB Pucara(fortress)
+CT-Chaski: villagers and infantry move 20% faster  COST 300 F 200 G 30 sec
+IT-Replaceable Parts: battering rams G cost is replaced with additional W  COST 600 F 400 G
+TB-Villager +2 bonus vs siege
+
+
+Pikillaqta
+HP 70-90
+Atk 10-14 [18]
+vs infantry +6-8
+vs buildings +4-6 [8]
+Rof 2.0
+Armor 1/3-2/4 [5/8]
+Speed 0.9 [1.08]
+Cost 50[40] F 50[40] G 22-20 sec
+Up cost 800 F 400 G 50 sec
+
+Pucara Purisaspa(city destroyer)
+Special Siege Tower that can fires arrows
+HP 200 [240]
+Atk 6 [10]
+vs building +4 [5]
+vs siege +4 [5]
+Rof 2.0 [+20% fire rate for each garrisoned unit]
+Range 6 [9] Accuracy 95%
+Armor 4/90 [6/92]
+siege armor 2
+Speed 0.96
+Garrison 10
+Cost 120 W 120 G 60 sec
+
+Missing techs:
+A-infantry: squires*
+B-archers: elite jungle archer
+X-cavalry: NOPE
+A-siege: BC
+A-monks: nothing
+C-naval: shipwright
+S-defense: BT
+A-economy: 2-h-saw
+
+
+CHIMU
+naval and infantry civilization
+
+-fisherman and fishing boats drop off 10% more F
+-Barrack units, monks, villagers and buildings +1/0 armor each age, starting from Feudal Age
+-Obtain 30 S for each tech researched(60 in total->1800 S)
+-Naval, Blacksmith and Barrack techs cost -50% G (saves 1821 G)
+-Mining camp techs are 33% more effective
+UU Alaec(infantry)
+UB Sea Settlement(Dock)
+RB Pucara, Settlement
+CT-Taycanamo: buildings take -25% bonus damage, galley-line take no bonus damage   
+COST  400 F 300 G 30 sec
+IT-Black Metallurgy: infantry, skirmishers and hulks destroy armor with each hit
+COST 900 F 500 G 50 sec
+TB Skirmishers and slingers are trained 20% faster
+
+Alaec: trained at the Castle. Strong vs infantry and cavalry. Weak
+to monks, gunpowder units, archers and anti-infantry units.
+HP 85-100
+Atk 11-13 [15]
+vs cavalry +8-12
+vs elephants +14-20
+vs camels +5-8
+vs buildings +2-3 [5]
+Rof 2.0
+Range 0.5
+Armor 4/3-7/4 [10/8] infantry armor +2
+Speed 1.0 [1.1]
+Cost 35 F 75 G 15-12 sec
+Up cost 800 F 600 G 60 sec
+Resist conversion
+
+Sea Settlement: works like a settlement and a Dock.
+Cost +25 W compared to a norml Dock.
+
+Missing techs:
+A-infantry: blast furnace*
+B-archers: thumb ring
+X-cavalry: NOPE
+B-siege: siege engineers
+A-navy: nothing
+B-monks: BP, heresy, illumination
+A-defenses: BT
+A-economy: nothing
+
+CHACHAPOYA
+infantry and defense civilization
+
+-Gain 10/20/30/40 F for each Settlement built
+-foot units regen 10/15/20 hp/min
+-Infantry armor upgrades affect Archery Range units
+-Barrack and Archery Range upgrades cost -50% G (saves 1190 G)
+UU Cloud spearman(infantry)
+RB Pucara, Settlement
+CT-Kuelap: Towers and Castles +1 range, +20% hp and make
+allies within 12 tiles move 10% faster  COST 300 F 200 G 20 sec
+IT-Obsidian weapons: infantry, archers and skirmishers
+deal +4 damage to buildings  COST 650 F 450 G 40 sec
+TB-Barrack units +2 los
+
+Cloud spearman [infantry, shock infantry]
+HP 60-70
+Atk 12-16 [20]
+vs cavalry +6-8
+vs buildings +2 [8]
+Rof 2.0
+Armor 3/3-5/4 [8/8]
+los 8
+Speed 1.1 [1.21]
+Cost 40 F 50 G 15-12 sec
+Up cost: 800 F 500 G 60 sec
+Special: heal 12-15 HP per kill
+
+Missing technologies:
+A-infantry: gambeson
+B-archers: arbalester, thumb ring, archer armor I*
+X-cavalry: NOPE
+B-siege: siege onager, siege ram, heavy scorpio
+B-navy: carrack, FFS, shipwright, carening, clinker
+B-monks: heresy
+A-defense: BT
+B-economy: crop rotation, 2-h-saw, guilds
+
+TIWANAKU
+infantry and defense civilization
+
+-Farms and berries last 33% longer
+-Masonry, architecture, hoardings and treadmill are 100% more effective
+-Blacksmith upgrades are free the moment the next Age is reached
+UU Plumed warrior(infantry)
+CT-Water Canals: farms replenish 8 F/min  COST 400 W 300 G 30 sec
+IT-Megalitic architecture: Castles and Towers take -33% bonus damage COST 500 W 400 S 40 sec
+TB-Stone mines last 15% longer
+
+Plumed warrior
+HP 70-85
+Atk 10-12 [16]
+vs infantry +5-7
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 60 F 30 G 10-8 sec
+Up cost 800 F 500 G 40 sec
+Charge: +12/16 atk, CD 10 sec
+
+Missing technologies:
+A-infantry: gambeson
+B-archers: arbalester, thumb ring
+X-cavalry: NOPE
+B-siege: siege onager, siege ram, heavy scorpio
+B-navy: HDS, FFS, shipwright, carved hull
+B-monks: heresy
+A-defense: BT
+B-economy: crop rotation, 2-h-saw, guilds
+
+LUPACA-COLLA-QULLAS
+infantry civilization
+
+-villagers move 5% faster for each Town Center standing (max +15%)
+-Farms cost -20/30/40/50%
+-Can garrison Settlements with animals to generate a small tickle of F (max 5 animals)
+-Champi-line +25% HP
+UU Colla spearman(infantry)
+CT-Holy Plate Armor: infantry +1/1 armor  COST 350 F 200 G 30 sec
+IT-Qullas Maces: champi-line +5 atk  COST 600 F 400 G 40 sec
+TB-Monks cost -15%
+
+Colla spearman
+HP 65-80
+Atk 8-12 [14]
+vs cavalry +10-14
+vs elephants +10-14
+vs camels +6-8
+vs archers +4
+Rof 2.0
+Range 0.5
+Armor 1/3 [5/8]
+Speed 0.96 [1.05]
+Cost 55 F 30 G 12-10 sec
+Up cost 1000 F 750 G 50 sec
+
+Missing technologies:
+A-infantry: gambeson, blast furnace*
+B-archers: arbalester, thumb ring, archer armor III
+X-cavalry: NOPE
+B-siege: siege onager
+B-navy: HDS, FFS, carrack, galleon, shipwright, carved hull, carening
+A-monks: nothing
+A-defense: BT
+B-economy: crop rotation*, 2-h-saw, guilds, banking
+
+UPDATE INCA
+New Inca bonuses
+-Champi warriors can build all walls and fortifications and settlements
+from Feudal Age onwards. They can also build Pucara in Imperial Age.
+-Champi warriors can hunt animals
+-Added a new fortification: Pucara
+
+Pucara: 400 S 200 W 200 sec Tiles 3x3
+Defensive building available in Imperial Age
+HP 4000 [5640]
+Garrison 20
+Atk 8 [15] x5
+vs spear +2
+vs ships +8 [18]
+Rof 2.0
+Range 8 [11]
+los 9 [20]
+Armor 8/11 [10/13]
+Grant +1 atk to infantry units in los
+All units in los move 10% faster
+Max 3 per player at any time
+Affected by Hoardings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISCARDED
+This unit is an hybrid between a Scorpion and skirmisher
+Atlat Warrior(fast skirmisher with pass trough damage)
+HP 30-35
+Atk 5-6 (10)
+vs buildings +2-3
+vs elephants +3-4
+Rof 3.0
+Range 5 (8)
+Armor 0/4 (3/8)
+Speed 0.96
+Cost 50 W 25 G 20 sec
+Up cost: 400 F 400 W 50 sec
+Special: pass trough damage 50%
+
+DMG: Scorpion--Atlat
+sword: 11--4.8 worse
+spear: 13--7.2  better
+archer: 11--7.2 better
+skirm: 7--2.4  worse
+hussar: 9--4.8
+paladin: 8--3.6 worse
+elephant: 18--8.4 
+scorpio: 7--3.6
+villager: 13--9.6 better
+monks: 15--12 better
+
+MUISCA
+monk civilization
+
+-Gold cost of Champi warriors, Monks and
+Temple techs is replaced with W
+-Start with -100 G +100 W, loom cost W instead of G
+-Temple techs are 33% more effective
+UU Zipa(infantry)
+CT-Tunga Rituals: monks produce +20 G for each
+successful conversion COST  400 G
+IT-Shipote Temples: units nearby Monasteries get +1/1 armor,
++6 conversion resistence and regen 30 hp/min COST 1000 G
+TB-Trade units +4 los
+
+Zipa
+HP 75-90 
+Atk 10-14 (18)
+Rof 2.0
+Armor 2/1 (6/6)
+Speed 1.0 (1.1)
+Cost 60 F 30 G 15-12 sec
+Special: attack 33% faster when in los of monasteries
+
+Missing techs
+A-infantry: nothing
+C-archer: elite jungle sniper
+X-cavalry: NOPE
+X-siege: NOPE
+S-monks: nothing
+B-navy: shipwright
+A-defense: BT
+A-economy: 2-h-saw*, all minig techs
+
+sanctity: +20 hp
+fervor: +20% speed
+devotion/faith: +1.5/8 seconds
+herbal medicine: x8 times healing
+block printing: +4 range
+illumination: +120% rejuvenation
+Scriptures: shamans are created 133% faster (34 seconds instead of 40)
+atonement/redemption: shamans convert 33% faster these units
+Theocracy: other shamans gain 20% faith with every successful allied conversion
+Heresy: converted units don't die, but lose 75% of their remaining HP
+
+MAPUCHE
+Infantry civilization
+
+-Villager +2/3/4/5 atk vs light cavalry, eagle scouts and camels
+-Military buildings cost -35%
+-Trees and huntables last 30% longer
+-Gain 10 F and 10 G for each destroyed building
+UU Malon(cavalry), Welchafe(cavalry)
+CT-Kollellaullin: infantry and cavalry +5 atk vs archers,
+spearman lose armor weakness COST 400 F 400 G
+IT-Lemucaguin Tactics: siege units +50% bonus damage, except trebuchet COST 500 W 500 F
+TB-Spearman and skimisher +2 los
+
+Malon
+HP 85-100
+Atk 8-11 (15)
+vs villager +8-10
+vs archers +3-5 (10)
+vs monks +8-10
+vs buildings +8-10
+Rof 1.8
+Armor 3/4-5/6
+Speed 1.55
+Cost 70 F 40 G 24-21 sec
+Up cost 1000 F 600 G 60 sec
+Special: when HP<50%, gain 0.31(+20%) speed for 5 seconds
+
+Welchafe
+HP 120-150
+Atk 10-12 (16)
+vs cavalry +8+4
+vs archers 0 (5)
+Rof 2.0
+Range 1
+Armor 3/3-4/5
+Speed 1.55
+Cost 65 F 60 G 25-22 sec
+Up cost 1100 F 700 G 60 sec
+
+Missing techs
+A-infantry: nothing
+B-archers: jungle sniper
+C-cavalry: NOPE but they have Malon and Welchafe at Castles
+B-siege: BC, siege engineers
+C-monks: ilumination, faith, heresy, BP, theocracy, sanctity, illumination
+B-naval: shipwright, dry dock
+B-defense: Keep,BT, stone walls, architecture
+B-economy: crop rotation, 2-h-saw, both shaft mining
+
+TUPI and GUARANI
+infantry and archer civilization
+
+-When any building is destroyed, all Tupi units move 30% faster for 10 seconds
+-Settlements and houses cost -20%
+-All units gain +5 HP for Age Up (+5/10/15/20 in Dark/Feudal/Castle/Imperial)
+UU Tupi hunter(archer)
+CT-Jaguar Dance: infantry units +25% fire rate  COST 500 F 300 G
+IT-Living River: ranged canoes +1 range  COST 400 W 400 G
+TB-Food sources last 15% longer
+
+Tupi hunter
+HP 60 (80)
+Atk 8-9 (13)
+Poison 120/min for 5 seconds
+vs spear/monk +2
+Rof 2.0
+Range 4 (7)
+Armor 1/1-1/2 (4/6)
+Speed 1.3
+Cost 45 F 45 G 15-13 sec
+Up cost 800 F 600 G 50 sec
+Special: can gather meat from huntables
+Invisible if idle for 10 seconds
+When striking while invisible, loses
+invisibility, but next hit does double damage
+
+Missing techs
+A-infantry: nothing
+B-archer: nothing
+X-cavalry: NOPE
+X-siege: NOPE
+A-monks: sanctity*, faith, heresy
+B-navy: shipwright
+B-defense: Keep,BT
+A-economy: crop rotation, stone mining
+
+

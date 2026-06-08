@@ -1,0 +1,387 @@
+This is how the civs would end up in Age of empires 2.
+Through the Chronicles mod.
+There's no gunpowder units.
+Some assumptions are made.
+Hoplite: heavy infantry, available to all civs with Greek and Roman architecture.
+ARCHITECTURE
+GREEK
+Atenians, Spartans, Macedonians, Minoans, Phoenician
+ROMAN
+Roman, Palmyria, Carthaginians
+BABILONIAN
+Sumerian, Babilonian, Persian
+EGYPTIAN
+Assyrian, Hittita, Egyptian, Kushite, Nubian, Numidian
+ASIAN
+Lac Viet, Shang, Choson, Yamato
+
+Note: Atenians, Spartans, Macedonians, Persians
+aren't showcased here since they already exist in Chronlicles
+
+Common units
+Barrack....
+militia->maceman->swordman->long swordman->paragon
+spearman->pikeman->elite pikeman
+hoplite->elite hoplite
+Archery Range....
+archer->composite archer->elite composite archer
+skirmisher->elite skirmisher
+horse archer->heavy horse archer
+slinger
+Stable....
+scout cavalry->light cavalry
+cavalry-heavy cavalry->cataphract
+chariot->elite chariot
+camel rider->heavy camel rider
+battle elephant->elite battle elephant
+Siege workshop....
+stone thrower->catapult->heavy catapult
+ballista->heavy ballista
+battering ram->capped ram->siege ram
+lithobolos
+siege tower
+
+ASSYRIANS
+archer and siege civilization
+
+-Units with bows fire 11/22/33% faster
+-villager move 10% faster
+-Siege unit upgrades cost -50%
+UU: Assyrian Raider(horse archer/cavalry)
+CTA-Rapid Recluitment: horse archers are trained 50% faster
+CTB-War Wheels: chariots +10% speed
+ITA-Composite bow: units with bows +1 atk
+ITB-Assyrian Horses: chariots and heavy cavalry +20% HP
+TB Siege workshop work 20% faster
+
+
+Missing techs:
+B-infantry: elite pikeman, infantry armor II, gambeson
+A-archers: elite composite archer, skirmisher, h. horse archer, elephant archer, archer armor II
+B-cavalry: elite chariot, battle elephant, bloodlines
+A-siege: nothing
+A-monks: faith, heresy
+A-navy: nothing
+A-defenses: nothing
+A-economy: nothing
+
+BABILONIANS
+chariot and priest civilization
+
+-Stone miner work 20% faster
+-Walls, Towers +60% HP
+-Priest rejuvenates 30% faster
+-Chariots +1/1 armor
+-Eco techs cost -30%
+UU: Heavy pikeman(infantry)
+CTA-Smeared Bricks: buildings +1/1 armor
+CTB-Hammurabi: infantry +25% bonus damage
+ITA-Babylonian Guards: infantry +1/1 armor
+ITB-Royal Lances: spear units +2 atk
+TB: builder work 20% faster
+
+Missing techs:
+B-infantry: infantry armor II
+A-archers: h. horse archer, elephant archer, archer armor II
+B-cavalry: heavy cavalry, battle elephants
+B-siege: ballista, siege ram
+S-priest: faith
+S-defense: nothing
+S-economy: nothing
+
+CARTHAGINIANS
+cavalry and navy civilization
+
+-Free bloodlines and husbandry
+-Start with +50 in each resource
+-Hoplites, camels and elephants +25% HP
+-Fire ship attack 20% faster
+UU: noble(infantry)
+CTA-Numidian Auxilia: enable numidian cavalry, elephants move 10% faster
+CTB-Reinforced Tusks: elephants +3 atk
+ITA-Poenic Iron: Ram ship +3 atk, infantry +2 atk
+ITB-Heavy Elephant armor: elephants +1/1 armor
+TB: Ships +2 los
+
+Missing techs:
+B-infantry: paragon, halberdier, blast furnace, infantry armor III
+B-archers: elite composite archer, h. horse archer, archer armor III
+A-cavalry: chariot, cataphract
+B-siege: heavy catapult, siege engineers
+S-navy: nothing
+C-priest: atonement, redemption, illumination, faith, heresy
+A-defenses: nothing
+A-economy: stone shaft
+
+CHOSON
+infantry and priest civilization
+
+-Swordman +20/30/40/50% HP
+-Blacksmith techs cost -30%
+-Towers +2 range
+-Priest cost -30%
+UU: Sillian guard(infantry)
+CTA-Korean Steel: infantry +20 HP
+CTB-Royal Discipline: priests +1 range
+ITA-Long sword: swordman +2 atk
+ITB-Royal Armor: swordman +1/1 armor
+TB: buildings +2 los
+
+Missing techs:
+A-infantry: infantry armor III
+B-archers: elite composite archer, elephant archer, h. horse archer, archer armor III
+B-cavalry: battle elephant, chariot, camel rider, cavalry armor III
+B-navy: nothing
+B-siege: catapult, siege engineers
+S-priest: nothing
+S-defenses: nothing
+A-economy: nothing
+
+EGYPTIANS
+chariot and priest civilization
+
+-Gold miner work 20% faster
+-Chariots +33% HP
+-Farms cost -20%
+-Priest +2 range
+UU: Kopesh warrior(infantry)
+CTA-Royal Bastion: infantry +20% HP
+CTB-Divine Guards: infantry +1/1 armor
+ITA-Osirir: all land non siege units regen 15 hp/min
+ITB-Ra: priests +1 range
+TB: Priest +1/1 armor
+
+Missing techs:
+D-infantry: long swordman, pikeman, infantry armor II, gambeson
+B-archers: horse archer
+B-cavalry: cavalry, elite war elephant
+E-siege: ballista, battering ram, catapult
+S-priest: nothing
+A-navy: fire ship
+A-defenses: nothing
+A-economy: stone shaft
+
+HITTITES
+chariots and siege civilization
+
+-Horse archers and Ranged chariots +1 atk
+-Onager +50% HP
+-Galley +1/2/2 range
+-Free Architecture and Ballistics
+UU: Imperial Chariot(chariot), Hatti archer(archer)
+CTA-Bronze Smith: chariot archers +1 atk
+CTB-Reinforced Chariots: chariots +3/0 armor
+ITA-Royal Bows: unit with bows +1 range
+ITB-Heavy Chariot: chariots +20% HP
+TB: Towers +4 population
+
+Missing techs:
+B-infantry: long swordman
+B-archers: elite composite archer, skirmisher, archer armor III
+A-cavalry: heavy cavalry, hussar, cavalry armor III
+A-siege: ballista
+D-priest: all
+S-navy: nothing
+A-defenses: nothing
+A-economy: crop rotation
+
+MINOANS
+archer and navy civilization
+
+-Farmer work 10% faster
+-Ships cost -15/20/25/30%
+-Archers +1/2/2 range
+UU: Cretean archer(archer)
+CTA-Long Bow: archers +1 range
+CTB-Precision: archers +1 atk
+ITA-Cretan Bow: archers +1 range
+ITB-Elite Bowmen: archers fire 15% faster
+TB: Archery Ranges work 20% faster
+
+Missing techs:
+B-infantry: paragon
+A-archers: horse archer, elephant archer
+C-cavalry: heavy cavalry, chariot, heavy camel, battle elephants, cavalry armor II
+A-siege: nothing
+S-navy: nothing
+D-priest: all
+C-defenses:guard tower, fortified walls
+A-economy: nothing
+
+PALMYRIANS
+camel civilization
+
+-villagers cost +20% but have +20 HP +1/1 armor and work 20% faster, start with +25 F
+-Camels move 25% faster
+-Trade income +20%
+UU: Camel archer(mounted archer)
+CTA-Elite camels: camels cost -15%
+CTB-Desert trade: trade units cost -20%
+ITA-Desert blades: camels +2 atk
+ITB-Camel Armor: camels +1/1 armor
+TB: techs are researched 30% faster
+
+Missing techs:
+C-infantry: long swordman, elite pikeman, infantry armor III, blast furnace
+A-archers: nothing
+B-cavalry: cataphract, cavalry armor III
+B-siege: heavy ballista, siege engineers
+C-priest: all
+A-navy: nothing
+A-defenses: nothing
+A-economy: 2-h-saw, crop rotation
+
+PHOENICIANS
+elephants and navy civilization
+
+-Woodcutter work 20% faster
+-Elephants cost -25%
+-Siege ship fire 33% faster
+UU: Balearic slinger(archer)
+CTA-Lebanon Cyder: warships +10% HP, trade units generate W
+CTB-Tyre spices: warships deal +3 dmg to ships, trade units generate F
+ITA-Phoenician bows: trireme and archers +1 range
+ITB-Expert sailors: warships +10% speed
+TB: Ranged units +2 los
+
+Missing techs:
+A-infantry: blast furnace
+B-archers: horse archer, archer armor III
+B-cavalry: heavy cavalry, cavalry armor III
+C-siege: ballista, catapult, siege ram
+A-priest: nothing
+A-navy: fire ship
+B-defenses: architecture I-II
+A-economy: stone shaft
+
+ROMANS
+infantry and siege civilization
+
+ROMAN MONARCHY
+-Swordman attack 50% faster
+-Buildings cost -10%, towers and walls cost -20% instead
+-Ballista +1 range
+-Free tower upgrades
+ROMAN EMPIRE
+-Siege units are available one age earlier
+-Scout cavalry, spearman, skirmisher cost -20%
+-Legionaries are trained 25/50% faster in Bronze/Iron Age
+-Legionaries +1/1 armor in Bronze, +2/2 armor in Iron
+-Advancing to the next Age cost -33%
+ROMAN REPUBLIC
+-Advancing to the next Age cost -20%
+-Techs are researched 50% faster (except aging up)
+-infantry +1 atk per age, from Tool Age
+-Docks work 25% faster
+-Ramming ship +1/1 armor
+UU: legionary(infantry), centurion(infantry), pretorian(infantry),
+velite(skirmisher), pretorian cavalry(cavalry)
+CTA-Gladius: infantry +1 atk
+CTB-Discipline: all military buildings work 15% faster
+ITA-Testudo: infantry +2/2 armor
+ITB-Elite Guards: unique units +20% HP
+TB: priest heal 50% faster
+
+Missing techs:
+S-infantry: nothing
+D-archers: elite composite archer, horse archer, elephant archer
+C-cavalry: battle elephant, camel rider, heavy cavalry, cavalry armor III
+A-siege: nothing
+B-priest: BP
+A-navy: nothing
+S-defenses: nothing
+S-economy: nothing
+
+SHANG
+cavalry civilization
+
+-Villager cost -20%, start with -40 F
+-Walls +60% HP
+-Heavy cavalry attack 10/15% faster
+UU: Qi pikeman(infantry)
+CTA-Bronze castings: infantry +1 atk
+CTB-Central Organization: buildings cost -10%
+ITA-Royal guards: infantry +1/1 armor
+ITB-Ceremonial weapons: Qi pikeman +2 atk
+TB: Town Center +4 population
+
+Missing techs:
+B-infantry: long swordman
+B-archers: elephant archer
+A-cavalry: battle elephant, heavy camel rider
+C-siege: heavy catapult, siege ram, siege engineers
+A-navy: nothing
+A-priest: nothing
+S-defenses: nothing
+S-economy: nothing
+
+SUMERIANS
+camel and siege civilization
+
+-Villager +5/10/15/20 HP
+-Farms +125 F
+-Onager fire 33% faster
+-Camels +1/1 armor
+UU: Uruk spearman(infantry), Heavy chariot(chariot)
+CTA-Reinforced Wheels: chariot take no bonus damage
+CTB-Special Training: chariots +5% HP per blacksmith tech (max +30% HP)
+ITA-Spiked Wheels: chariots +25% trample damage
+ITB-Bronze Shell: chariots +1/2 armor
+TB: Town Centers cost -25%
+
+Missing techs:
+B-infantry: paragon, blast furnace, infantry armor III
+B-archers: composite archer, elephant archer, bracer
+B-cavalry: cavalry, elite battle elephant
+A-siege: ballista
+C-priest: all
+A-navy: nothing
+A-defenses: nothing
+A-economy: 2-h-saw
+
+YAMATO
+cavalry and navy civilization
+
+-Ships +15/20/25/30% HP
+-Mounted units cost -10/15/20%
+-Fisherman and fishiing boat work 20% faster
+-Archer and cavalry upgrades cost -30%
+UU: Mononufu(infantry/archer)
+CTA-Bushido: cavalry and mononufu +1/1 armor, take -3 dmg from cavalry
+CTB-Strict Training: cavalry are trained 50% faster
+ITA-Holy Blades: cavalry and mononufu +2 atk
+ITB-Steel Armor: cavalry and mononufuf +20% HP
+TB: Military buildings cost -25%
+
+Missing techs:
+B-infantry: long swordman,elite pikeman, infantry armor III
+A-archer: elephant archer
+A-cavalry: battle elephants, camel rider, chariot
+D-siege: ballista, catapult, battering ram
+C-priest: all but BP
+S-navy: nothing
+C-defenses: guard tower, fortified wall
+A-economy: nothing
+
+LAC VIET
+archers civilization
+
+-Forager work 20% faster
+-Military buildings work 25% faster
+-Ranged units +2/0 armor
+UU: rattan archer(archer), Dong song(infantry)
+CTA-War Drums: infantry +10% speed
+CTB-Red River Smith: infantry cost -10%
+ITA-Jungle Warfare: infantry +0/1 armor
+ITB-Recurve Blades: dong song +3 atk
+TB: Houses and farms are built 100% faster
+
+Missing techs:
+B-infantry: paragon, elite pikeman, infantry armor III
+S-archers: nothing
+A-cavalry: cataphract, camel rider
+B-siege: heavy ballista, siege engineers
+C-priest: redemption, atonement, afterlife, illumination, heresy, faith, sanctity, fervor
+A-navy: nothing
+A-defenses: guard tower
+A-economy: stone shaft

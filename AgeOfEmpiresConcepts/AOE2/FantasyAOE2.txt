@@ -1,0 +1,2573 @@
+KINGDOM WARS
+infantry and siege civilization
+
+-Town Center and Castles generate a tickle of F and G*
+-Barrack and Stable units generate F and G in combat**, starting from Feudal Age
+-Scorpions +1/2 range
+UU Fortress Guardian(infantry), Guardsman(infantry)
+CT-Arrow cannon: scorpio, trebuchet and bombard cannons +30% atk COST 500 F 400 W 40 sec
+IT-Military Doctrine: Military units are trained 64% faster COST 600 F 400 G 50 sec
+TB-Lumber/Mining camps, Mill are built 100% faster
+
+*Town Centers generate 10/15/20/25 F/min and 5/10/15/20 G/min
+Castles generate 50/60 F/min and 25/30 G/min
+**All of the afore mentioned units generate 12 F-G/min while attacking units
+
+Fortress Guardian
+HP 60-75
+Atk 15-20 [24]
+vs buildings +6-8 [10]
+Rof 2.0
+Armor 2/2-4/3 [7/7]
+Speed 0.9 [0.99]
+Cost 70 F 20 G 15-13[8] sec
+Up cost 1200 F 900 G 60 sec
+Immune to conversion
+
+Guardsman: infantry trained at the Barracks. Strong vs archers, weak vs elite.
+HP 40-55-70
+Atk 5-8-11 [15]
+vs archers +2-3-4
+vs buildings +1 [3]
+Rof 2.0
+Armor 1/2-1/3-1/4 [4/8]
+Speed 0.9 [0.99]
+Cost 60 F 10 G 32-24-20[12] sec
+Up cost 200 F 200 G 30 sec
+Up cost 700 F 500 G 50 sec
+
+Missing technologies:
+A-infantry: nothing
+A-archers: HC, HA, parthian, thumb ring
+A-cavalry: nothing
+A-siege: onager, siege engineers*
+B-monks: BP, faith
+C-navy: FFS, HDS, Carrack, Shipwright, carening, clinker
+A-defenses: BT, treadmill
+A-economy: 2-h-saw, guilds
+
+
+TARNEIANS
+infantry and cavalry civilization
+
+-Crossbow and Arbalester upgrades cost no F and are available in Feudal/Castle Age
+-Masonry, Architecture and Hoardings cost no W
+-Militia and spear-line +5/10/15 Hp
+-Garrisoned Towers and Castles repair themselves (45/60/75 Hp/min per unit, max 750 hp/min)
+UU Royal guard(infantry)
+CT-Overpower: Monks heal and convert 50% faster but lose 120 Hp/min
+while converting COST 300 G 300 F
+IT-Order of the crusaders: Stable units and Royal Guards +4 atk COST 450 G 450 F
+TB-Farms +1 population space
+
+Royal Guard
+HP 90-120
+Atk 9-13 [21]
+Rof 2.0
+Armor 2/2-4/2 [7/6]
+Speed 0.8
+Cost 25 F 60 G 15-13 sec
+Up cost 800 F 500 G 50 sec
+
+Missing techs:
+A-infantry: squires
+B-archers: HC, HA, parthian tactics, thumb ring, archer armor III
+A-cavalry: nothing
+C-siege: BC, onager, heavy scorpio, siege ram, siege enginner
+B-monks: BP, heresy
+B-navy: FFS, HDS, dry dock, shipwright, clinker
+A-defense: BT, heated shot, treadmill
+B-economy: 2-man-saw, crop rotation
+
+ANCIENTS
+siege and monk civilization
+
+-The Palace replace all military buildings and Town Centers.
+Can recruit most units at the Palace.
+-Can build shrines and Piramids
+-Can hire risen with gold. Risen cannot gather F.
+-Advancing to the next Age cost only G (300/600/1000)
+-Faith and Devotion are free
+UU Viper, Granite warrior, Pharaoh, Assassin, risen
+CT-Granite armor: pharaoh, warriors +25% HP and atk
+IT-Devious Machinery: Viper +20 HP, Scorpio, Onager
+and Trebuchet +50% HP
+TB-Siege units +1 los
+
+Viper(siege unit) III
+HP 20-25 [45]
+Atk 8-10 
+vs siege +1
+vs buildings +4
+vs ship +3
+Rof 1.7 accuracy 100%
+Range 13 [14]
+Armor 0/0
+Speed 0.6
+Cost 90 G 15 sec
+Up cost 400 G 50 sec
+
+Granite warrior(infantry) III
+HP 140-170 [214]
+Atk 12-14 [18]
+Rof 2.0
+Armor 2/2-3/2
+Speed 0.6
+Cost 70 G 12 sec
+Up cost 600 G 50 sec
+
+Pharaoh(infantry) IV
+HP 100 [125]
+Atk 32 [40]
+Rof 4.0
+Range 2
+Splash 50%
+Armor 2/2
+Cost 100 G 18 sec
+
+Assassin(infantry) IV
+HP 25
+Atk 30
+vs archers,monks,spear +30
+Rof 2.0
+Armor 0/0
+Speed 1.3
+Cost 100 G 18 sec
+Stealth: cannot be seen unless he attacks first
+
+Risen(villager/infantry) I
+HP 40-45-60-60
+Atk 4-6-7-8
+Rof 2.0
+Armor 0/0
+Speed 1.0
+Cost 60 G 24 sec
+Capacity 20
+
+Shrine III
+HP 100 [120]
+Atk 10
+Rof 2.0
+Range 10
+Los 12
+Armor 1/1 [3/3]
+Cost 25 S 10 sec
+Special: heal allies in los by 150 Hp/min
+
+Missing techs
+X-infantry: NOPE
+X-archers: NOPE
+X-cavalry: NOPE
+B-siege: BC
+B-monks: BP
+B-navy: CG, DS, dry dock, shipwright
+A-defense: BT, treadmill, heated shot, arrowslits
+Others missing:
+all blacksmith techs, conscription, wheelbarrow, hand cart, farms tech,
+gillnets, arson, gambeson, squires, parthian, thumb, bloodlines, husbandry,
+loom, sappers
+
+Resources saved: 2500 W 50 S 6340 F 2800 G 1160 sec
+blacksmith techs saved: 3100 F 1700 G 840 sec
+Total: 2500 W 50 S 9440 F 4500 G 2000 sec
+Total: 38 missing techs out of 68
+
+MIRAGINE
+infantry and counter unit civilization
+
+-Barrack units +1/2/3/4 atk
+-Fallen units return 25% of their G cost
+-Masonry, Architecture add another +10% HP
+-Unit upgrades cost -50% F
+-Start with +150 W
+UU Knife thrower(infantry), Immortal(infantry)
+CT-Glyphs: Melee land units attack 20% faster
+IT-Intensive Levy: spearman, skirmisher, light cav cost -20 F
+TB-Barrack units +1 Los
+
+Knife thrower III
+HP 60-75
+Atk 9-11 (15)
+vs spear +4+2(6)
+vs shock +4+2(6)
+vs buildings +1 (3)
+Rof 2.4 [2.0]
+Range 2  accuracy 100%
+Armor 0/0 (3/4)
+Speed 1.3 [1.43]
+Cost 25 F 45 G 12-10 sec
+Up cost 800[400] F 550 G 60 sec
+
+Immortal IV
+HP 90
+Atk 18 (22)
+vs cavalry +3
+vs buildings +1 (3)
+Rof 2.4 [2.0]
+Armor 2/2 (5/6)
+Speed 0.8 [0.88]
+Cost 100 G 16 sec
+Special: if HP>2, survive a lethal hit with 1 HP left
+
+Missing techs:
+A-infantry: nothing
+C-archers: HC, HA, parthian, archer armor III
+A-cavalry: nothing
+C-siege: siege onager, siege engineers, siege ram, heavy scorpio, BC
+B-monks: heresy, redemption
+B-navy: shipwright
+A-defenses: arrowslits, hoardings*, heated shot, treadmill
+B-economy: 2-man-saw, crop rotation*, both shaft mining
+
+ARKEYANS
+infantry and cavalry civilization
+
+-Start with +100 G
+-Military units deal more bonus damage*
+-Blacksmith and University upgrades cost -50% but are researched at half speed
+UU Templar(infantry), Lancer(cavalry), Satnik(mounted crossbowman)
+CTA-Patriotic Fervor: Templar heal by 30 hp for each fallen ally
+CTB-Order of the Shield: all miltary non siege units +20 hp
+ITA-Siege Archery: ranged units +2 atk, scorpions +20% pass-through damage
+ITB-Fury of The Isles: spear units +1 atk, sword units +2 atk, hammer units +6 atk
+TB-Trade units are trained 100% faster
+
+*spearman/pikeman +4/6 bonus damage to cavalry/camels/elephants
+*militia-line +1/2/3/4 dmg to spearman
+*Archer-line +2 dmg to spearman
+*skirmishers +1 dmg to archers/spearman
+*light cavalry-line +3-4-5 dmg to archers
+
+Satnik: mounted crossbowman
+HP 60-70 [90]
+Atk 4 [9]  3-4 extra projectiles
+Rof 2.0
+Range 4 [6]
+Armor 0/0 [2/2] horse archer armor +2
+Speed 1.4 [1.54]
+Cost 40 W 40 G 24 sec
+Up cost 700 F 400 G 80 sec
+
+Templar: heavy infantry
+HP 120-150 [170]
+Atk 10-12 [22]
+vs infantry +4
+vs cavarly +4
+vs buildings +4 [6]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.0
+Cost 65 F 65 G 20 sec
+Up cost 1000 F 600 G 60 sec
+
+Lancer: replace the knight-line
+HP 100-140 [160]
+Atk 9-11 [16]
+vs ranged +3-5
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 30 sec
+Up cost 500 F 500 G 100 sec
+Charge: deal +8/12 dmg on first strike, CD 30 sec
+
+Missing technologies:
+A-infantry: halberdier*, squires*
+B-archers: HC, archer armor III, bracer, parthian*, thumb ring*
+B-cavalry: bloodlines*
+B-siege: onager, siege ram, BC, siege engineers
+B-monks: heresy, BP, theocracy
+B-navy: FFS, HDS, bracer
+B-defenses: BT, bracer, heated shot
+B-economy: 2-h-saw, crop rotation, both shaft mining
+
+Special: Mercenaries
+Reaper of Souls (swordman/archer)
+HP 100
+Sword 10 (14)
+Bow 8 (12)
+Range 9 (12)
+Rof 2.0
+Armor 2/0 (5/4)
+Speed 1.0 (1.1)
+Cost 160(128) G 23 sec
+Red Legion Archer
+HP 35
+Atk 7 (11)
+vs spear +4
+vs archers +4
+Range 5 (8)
+Rof 2.0
+Armor 0/0
+Speed 1.0
+Cost 70(56) G 12 sec
+Red Legion Warhammer
+HP 170
+Atk 17 (21)
+vs infantry +7
+Rof 2.0
+Armor 1/0
+Speed 1.0
+Cost 125(100)G 20 sec
+Red Legion Horseman
+HP 105
+Atk 8 (12)
+vs archers +3
+Rof 2.0
+Armor 0/1
+Speed 1.5
+Cost 80(64) G 16 sec
+Red Legion Guardman
+HP 100
+Atk 6 (10)
+vs cavalry +5
+Rof 2.0
+Armor 0/2
+Speed 1.0
+Cost 60(48) G 10 sec
+
+ARKANDIANS
+infantry and archers civilization
+
+-Blacksmith and blacksmith upgrades are available one age
+earlier and cost -50% (saves 1175 F 675 G 340 sec with 2 blacksmiths)
+-Barrack and Archery Range units occupy -20% population(+25% units)
+-Squires affects Trade carts(+10% movement speed)
+-Warships cost -60% G(galley -18 G, FS -27 G, DS -30G)
+-First two Militia cost no F(saves 100 F)
+UU Ranger(archer), Sentinel(infantry)
+CT-Erudition: Military land non siege units generate 2 G/min when idle
+300 F 300 W 40 sec
+IT-Epic of Nuona: Can upgrade individually each champion for 30 G,
+can have max 30 elite champions at once
+500 F 100 G 40 sec
+TB-Elite champion upgrade is available to allies
+
+Ranger(replace crossbowman) III
+HP 60-70
+Atk 5-6 (10)
+Rof 1.8 accuracy 100%
+Range 5-6 (9)
+Armor 1/1-2/2 (5/6)
+Speed 1.1
+Up cost 200 F 100 G 40 sec
+Up cost 500 F 350 G 60 sec
+
+Sentinel III
+HP 70-90
+Atk 8-10 (14)
+vs cavalry +8+4(12)
+vs camels +6+2(8)
+vs elephants +8+4(12)
+Rof 2.0
+Armor 2/2-3/3 (7/8)
+los 8
+Speed 1.0 (1.1)
+Cost 40 F 45 G 15-13 sec
+Up cost 1000 F 800 G 60 sec
+Special: give +1/1 to other spear units in los
+
+Elite champion
+HP 100
+Atk 16 (20)
+vs shock +8
+vs buildings +6(8)
+Rof 2.0
+Armor 4/2 (7/7)
+Speed 1.0 (1.1)
+Cost 50 F 50 G 20 sec
+
+Missing techs:
+S-infantry: nothing
+A-archers: HC, HA, parthian, thumb
+X-cavalry: NOPE
+C-siege: BC, siege onager, siege ram, heavy scorpio, siege engineer 
+A-monks: nothing
+B-navy: CG, HDS, FFS, shipwright
+B-defense: BT, treadmill, heated shot
+A-economy: 2-h-saw
+
+COALITION OF THE ISLES (XANADU+SIEGE)
+defense civilization
+
+-All techs cost -30/35/40% F (except for Age up) (saves 5610 F)
+-All land units move 5% faster, from Castle Age
+-Militia-line +1/0 armor each Age, starting from Feudal Age
+UU High Guardian(infantry)
+CT-Ortodossia: Monks +3/3 armor  COST 300 G 30 sec
+IT-Elven Fire: increase blast radius of all siege units by 33%:
+units affected: mangonel, trebuchet, BC, CG, BT  COST 500 G 500 F 50 sec
+TB-Bombard Tower tech cost no W
+
+High guardian (infantry)
+HP 125-150
+Atk 12-16 [20]
+Rof 2.0
+Armor 3/2-6/2 [9/6]
+los 5
+Speed 1.0 [1.1]
+Cost 50 F 70 G 12 sec
+
+
+Missing tech
+A-infantry: nothing
+B-archer: EHA, parthian tactic
+A-cavalry: hussar
+A-siege: nothing
+A-navy: nothing
+B-monks: redemption, atonement, heresy
+A-defense: nothing
+A-economy: nothing
+
+
+
+
+
+
+
+
+
+WAKFU
+infantry and naval civilization
+
+-Conscription provides +50% boost
+-Can garrison units (2 in trade kart, 5 in trade cog) inside trade units
+-Can build Magic Accademy
+-Start with +1 militia
+*Possess different techs, at BlackSmith and University
+
+UU Iop warrior (champion upgrade), Cra (archer upgrade), Eniripsa(healer)
+RU Bison knight (cavalry), assassin (infantry) mage (special)
+
+UT Anutrof's fortune (trade units generate +35% G but cost +50%) 250 G 250 W
+UT time spark (stops all enemy units from moving for 10 seconds) 
+10 G for each enemy unit
+MISCELLANEOUS
+RT Sadida's healing (healer work 100% faster, unit inside heal x8 times,
+replace herbal medicine) 200 G
+RT dragon-saw (woodcutter +20%, replace 2-man-saw) 200 W 50 G
+RT Anutrof guilds (remove tribute fee, reduce trading fee to 10%,
+replace coinage, banking, guilds) 600 G
+BLACKSMITH
+RT steel casting (melee units +2 attack, replace iron casting) 110 F 120 G
+RT Blast Dragon furnace (melee units +3 attack, replace blast furnace) 150 F 240 G
+RT Dragon scale armor (melee units +2/1 armor, replace inf/cav armor) 125 F
+RT Dragon chain armor (melee units +2/2 armor, replace inf/cav armor) 175 F 250 G
+RT Dragon plate armor (melee units +2/2 armor, replace inf/cav armor) 325 F 350 G
+UNIVERSITY
+RT fire arrows (heatedshot, also, ranged +1 attack) 175 F 100 G
+RT alchemy (chemistry, but siege units +20% bonus damage) 150 F 200 G
+RT ballistic engineers (siege engineers+ballistics) 900 W 225 G
+RT Ankara's Keep (murder holes, towers +2 attack) 400 F 750 W
+RT stonecraft/marblecraft (buildings +20% HP, +1/1 armor +4 building armor)
+100 F 200 W / 150 F 200 W
+
+CT Feca's shields (infantry obtain a charge shield, +3 attack, recharge 30 sec) 450 G 750 F
+IT Sarmatina fleet (can garrison Docks with units to speed up
+production, 5% per unit, replace warship G cost with W) 300 G
+
+Team bonus
+-Conscription is available in Castle Age
+
+Iop warrior (champion upgrade)
+HP 80
+Atk 14 (20)
+Rof 2.0
+Armor 1/1 (7/6)
+Speed 1.0 (1.1)
+Los 5
+Special: can plant a red banner
+to the ground, melee allies in Los of
+the banner (7 los) attack 20% faster
+for 10 seconds. Cost 20 G. Recharge 60 sec
+
+Cra (archer upgrade)
+HP 40+10
+Atk 5+1 (11)
+vs archers +2+1
+Rof 2.0
+Range 5+1 (9)
+Los 7+1 (11)
+Accuracy 100%
+Armor 0/0 (2/2)
+Speed 1.2
+Special: can place a little totem
+to the ground, ranged allies in Los
+of the totem (12 los) have a 20% to
+do double damage each strike. Cost 20 G.
+Last 10 seconds, recharge 60 sec
+
+Eniripsa (healer)
+HP 75
+Heal 150 Hp/min
+Range 5
+Los 8
+Can also heal allies in Range by 15 hp/min
+All healing is doubled with Sadida's healing
+Armor 0/0
+Speed 1.2
+Special: enemies who attack the healer take
+poison damage, 5 Hp per strike
+Cost 100 G 50-33 sec
+
+Bison Knight (heavy cavalry)
+HP 160+40 (200)
+Atk 10+2 (18)
+rof 2.1
+Armor 2/1 (8/6)
+Speed 1.2
+Cost 80 F 50 G 30 sec
+Special: take -50% anti cavalry damage
+
+Imperial halberdier (halberdier upgrade)
++15 HP +2 attack +1/1 armor
+Cost 1000 F 750 G 75 sec
+
+Assassin (stealth infantry)
+HP 50
+Atk 20 (26)
+anti monk,archers +24
+rof 1.8
+Armor 1/1 (7/6)
+Speed 1.2 (1.32)
+Los 8
+Cost 100 G 12 sec
+Special: invisible to enemies
+outside 4 tiles
+Cost 900 F 450 G 45 sec to unlock at Barracks
+
+Missing techs
+A-infantry: gambeson*
+B-archers: HA, parthian tactics, thumb ring*, archer armor III
+A-cavalry: bloodlines, husbandry, hussar
+B-siege: mangonel, BC, 
+A-navy: fire ship, shipwright*, carening
+X-monks: NOPE
+A-defenses: nothing
+A-economy: nothing
+
+MINECRAFTERS
+Economy and defense civilization
+
+-Villager works 20% faster and cost 20% more
+-Can garrison units in buildings to increase work rate (5% per unit inside)
+-Trees and farms passively replenish themselves (18 units/min when not gathered)
+-University techs cost no W (saves 1725 W)
+*Possess different techs, at BlackSmith and University
+UU Elytra warrior (infantry)
+RU Satnik (mounted crossbowman), Camel rider (cavalry)
+CT Animal breeding (mounted units -30% cost) 550 F 700 G
+IT Obsidian Stronghold (Castle, Walls take -33% bonus damage, +20% HP) 400 W 200 S
+Team bonus
+-Dark and Feudal Age technologies(except Aging up) cost -20% F
+
+BLACKSMITH
+UT leather armor (all units +1/1 armor) 350 F 120 sec
+UT steel armor (all units +1/2 armor) 600 F 400 G 180 sec
+UT diamond armor (all units +2/2 armor) 900 F 600 G 210 sec
+UNIVERSITY
+UT Tower sentinels (towers fire 33% faster) 125 G 200 S 30 sec
+
+
+Elytra warrior
+HP 80+20 (100)
+Atk 10+2 (16)
+Rof 1.8
+Armor 1/1+1/1 (6/7)
+Speed 1.0 (1.1)
+Los 8
+Cost 50 F 50 G 10 sec
+Up cost: 750 F 500 G 75 sec
+Special: can fly over 10 tiles
+at +100% speed. Unit cannot be 
+hit while flying, recharge 20 sec.
+
+Missing tech
+A-infantry: gambeson°                                 
+B-archers: hand cannon, elite skirm°                  
+A-cavalry: nothing
+B-siege: siege onager
+A-navy: shipwright§
+B-monks: heresy, faith, fervor°
+A-defense: treadmill crane§, heated shot, hoardings°
+A-economy: bone-saw§, both shaft mining§
+
+
+
+
+
+
+
+
+ARAYANS
+infantry and gunpowder civilization
+
+-Cannot build Archery Ranges. Hand cannoner is trained at the barracks, he benefits from infantry armor
+-Conscription, Chemistry and HC are available one age ealier
+-Advancing to the next Age cost -30% F
+-Militia-line +3/5/7 dmg to cavalry
+UU Blood knight (infantry)
+CT-Bank Forts: Castles and Town Centers generate 20/10 G/min  400 W 400 F 40 sec
+IT-Arayan's rifle barrels: hand cannons +5 atk  400 F 500 G 50 sec
+TB-All gold income +5%
+
+Bloodknight
+HP 90-100
+Atk 12-16 [20]
+vs building +2 [4]
+vs infantry +2-4
+vs shock +2
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 15-10 sec
+Up cost 800 F 400 G 45 sec
+Special: heal 3-5 hp for each strike
+
+
+
+Missing techs
+A-infantry: pikeman*
+B-archers: all but HC
+A-cavalry: hussar
+B-siege: onager, heavy scorpio, siege engineers
+B-navy: Galleon, FFS, shipwright, bracer
+E-monks: miss all but devotion
+C-defense: guard tower, arrowslits, heated shot, bracer
+B-economy: both shaft mining, crop rotation, guilds, 2-man-saw
+
+
+
+
+
+
+
+
+
+
+
+
+SHIPERIANS V 1.5
+infantry and naval civilization
+
+-Lumber and Mining camps instantly collect 2% of all resources in 5 tiles after completition
+-Aging up cost -30% F
+-Can individually upgrade buildings with S and G
+-Devotion and Faith are free
+UU Polydynastus(infantry), liburna(warship), imperial halberdier(halberdier upgrade)
+CT-Shmarjet Helmets: infantry gain a charge shield vs ranged attacks (3 charges, CD 30 sec)
+IT-Saresegassa: spearman-line and Polydynasti can pierce through targets (50% damage, 0.7 tiles)
+TB Imperial Halberdier upgrade is available at Barracks
+
+Polydynastus: strong infantry unit that is effective
+vs other melee units. Weak to archers and long range.
+HP 70-85
+Atk 12-15 [19]
+vs buildings +2-3 [5]
+Rof 2.0
+Range 0.5
+Armor 4/2-5/2 [8/6]
+Speed 0.9 [0.99]
+Cost 65 F 35 G 14-12 sec
+Up cost 750 F 650 G 40 sec
+
+Liburna: small and fast warship. Deal
+bonus damage vs other unique ships.
+Gets upgraded by Medium and Heavy Warships.
+HP 70-80-90
+Atk 4-5-6 [10]
+vs buildings +4
+vs long-range ships +3-5-8
+vs unique ships +4-6-8
+Rof 3.0
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.5 [1.8]
+Cost 60[48] W 20 G 24-18 [11] sec
+
+Imperial Halberdier
+HP 70
+Atk 8 [12]
+vs cavalry +32
+vs elephants +28
+vs camels +26
+vs buildings +2 [4]
+Rof 2.5
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Up cost 500 F 700 G 120 sec
+Comparison: +10 HP, +2 atk, +20% fire rate, +1/1 armor
+
+Missing technologies:
+A-infantry: nothing
+B-archers: arbalester,HC,HA, parthian, thumb ring
+B-cavalry: hussar, paladin
+B-siege: siege onager, siege ram, heavy scorpio, BC
+A-monks: nothing
+A-naval: nothing
+A-defenses: BT, hoardings*
+A-economy: 2-h-saw*
+
+
+
+
+
+
+
+
+
+
+SHIPERIANS
+infantry, monks and naval civilization
+
+-Ships move 5/10/15/20% faster
+-Lumber and Mining camps instantly collect 2% of all resources in 5 tiles after completion.
+-Aging up cost -15% and is researched 50% faster
+-Can build Magic Accademy
+-Faith and Devotion are free and grant +50% resistence
+UU Polydynastus, liburna, mages, Imperial halberdier
+RU dromon
+CT-Shmarjet Helmets: Infantry gain a charge shield vs ranged attacks
+IT-Saresegassa: Spearman and Polydinastus can pierce trough targets (50% damage, 0.7 tiles)
+TB-Imperial Halberdier upgrade is available at Barracks
+
+Polydynastus: strong infantry unit that is
+effective vs other infantry and cavalry units.
+Weak to archers and monks at long range.
+HP 65-75
+Atk 13-18 (22)
+vs infantry +2-3
+vs shock +2
+vs spear +2
+vs building +2 (4)
+Rof 1.9
+Range 0.3
+Armor 3/1-4/2 (7/6)
+Speed 0.9 (0.99)
+Cost 60 F 30 G 12-10 sec
+Up cost 1000 F 500 G 45 sec
+
+Liburna
+HP 80-90-110
+Atk 6-7-8 (12)
+vs ships +3-4-5
+vs unique ships +3-4-5 (longboats,caravels,turtle ships, tirisadai,dragon ships)
+Rof 2.0
+Range 4-5-6 (9)
+Armor 0/6-0/7-0/8 (1/10)
+Speed 1.5 (1.8)
+Cost 80 W 40 sec
+Up cost II: 300 F 200 W 40 sec
+
+Imperial Halberdier: add another upgrade for the halberdier
+HP 75
+Atk 9 (13)
+vs cavalry +22
+vs elephant +25
+vs camels +18
+Rof 2.5
+Range 0.3
+Armor 1/1 (4/5)
+Speed 1.0 (1.1)
+Up cost 800 F 700 G 90 sec
+
+Fire mage (replace mangonel)
+HP 50-70
+Atk 45-60 (melee)
+vs buildings +35-50
+vs siege +10
+vs heavy siege +30-40
+Blast 1.0-1.5
+Rof 10.0
+Range 8-9  Min range 3
+Armor 1/2 (4/6)
+Speed 0.9
+Cost 150 G 24 sec
+Up cost 1100 F 750 G 120 sec
+Special: uni caugth in the blast take
+2 fire damage every second for 10 seconds,
+also applies to buildings
+Meteor: unleash a long range attack, which
+deals double damage and has +5 range, but fires
+three times slower. Mode can be toggled on and off.
+
+Ice mage
+HP 60-80
+Atk 10 (pierce)
+vs cavalry +4
+Rof 3.0
+Range 6
+Armor 1/2 (4/6)
+Speed 0.9
+Cost 90 G 20 sec
+Up cost 650 F 450 G 70 sec
+Special: ice attacks apply slow down to targeted unit,
+it moves and attack 30% slower for 5 seconds, effects is reapplied
+everytime the unit is struck, effect stack twice.
+Special: ice mages gain +4/2 armor if there are no allies in 3 tiles
+Freeze: can freeze a unit for 10 seconds, frozen units take
+-50% damage from all attacks, CD 50 sec
+
+wind mage (replace scorpio)
+HP 55-65
+Atk 7-9 (melee)
+vs archers +3
+Rof 1.5
+Range 6
+Armor 1/2 (4/6)
+Speed 1.35
+Cost 90 G 20 sec
+Up cost 650 F 450 G 70 sec
+Special: launch an attack that does +5 atk, does
+50% pass trough damage and knockback units by 1 tile, CD 25 sec
+
+thunder mage (replace Trebuchet/Bombard Cannon)
+HP 50-60
+Atk 100
+vs cavalry +100
+Rof 20.0-18.0
+Range 12-14
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 200 G 25 sec
+Up cost 1000 F 800 G 120 sec
+Special: overkill damage goes to the
+nearest enemy unit in 3 tiles
+Cannot damage buildings, set ships on fire,
+dealing 4 damage per second for 20 seconds
+Deal -80% damage to siege units
+Units struck by thunder are stunned for 2-3 seconds,
+if they survive
+
+water mage
+HP 70
+Atk 8 (true damage)
+Rof 3.0
+Range 6
+Armor 1/2 (4/6)
+Speed 1.0
+Cost 100 G 20 sec
+Special: can heal allies in groups of 3, at 40 Hp/min
+Can swim, when in contact with water, +50% movement speed
+and regen 120 Hp/min
+
+earth mage (replace ram)
+HP 100-140
+Atk 10-13 (17) (melee)
+vs building +18-25 (27)
+Rof 2.0
+Armor 7/6 (10/10)
+Speed 0.8 (0.88)
+Cost 120 G 20 sec
+Up cost 650 F 60 sec
+Special: take -50% damage from other siege units,
+take no fire,ice,wind,thunder damage, but take
+full damage from water attacks and armor piercing
+Can mine and build fortifications 100% faster than
+a normal non-upgraded villager
+Harden: take -30% damage from all sources but -50%
+movement speed, mode can be toggled on and off
+Boulder: throw a special projectile with atk 20,
+and range 4, it has blast 1.0 and applies slow down
+of 20% for 5 seconds, CD 16 sec
+
+Missing techs
+A-infantry: nothing
+B-archers: crossbow, HC, HA, parthian, thumb ring
+B-cavalry: nothing
+B-siege: BC
+A-navy: clinker*
+A-monks: nothing
+B-defense: BT, treadmill crane
+B-economy: both shaft mining, 2-hand-saw
+
+
+BARBARIANS OF KONAN
+infantry civilization
+
+-Pastures replace farms
+-Militia line cost -50% G
+-Villager +2 carry capacity per age, starting from Feudal Age
+-Infantry upgrades cost no G
+UU Outlander(infantry), Her khan(infantry)
+CT Attrition: can upgrade town centers into Fortified centers
+IT Blood Horde: infantry units deal +33% more bonud damage, improve
+Her khan's aura effect by 50%
+TB Outlander is available at Allies's barracks
+
+Outlander
+HP 120-150
+Atk 13-18 [22]
+Rof 2.0
+Armor 0/0-1/0 [4/4]
+Speed 1.1 [1.21]
+Cost 75 F 25 G 40-32 sec
+Up cost 900 F 70 sec
+
+Her Khan
+HP 120-160
+Atk 16-20 [24]
+Rof 2.0
+Armor 5/2-8/2 [11/6]
+Speed 0.8 [0.88]
+Cost 70 F 60 G 22-18 sec
+Up cost 1200 F 800 G 50 sec
+Special: allied infantry in 8 tiles deal 5 trample damage
+bonus doesn't affect other khans
+
+Missing techs
+S-infantry: nothing
+A-archers: hand cannon
+B-cavalry: paladin, hussar
+B-siege: BC
+C-navy: CG, shipwright, FFS, HDS, galleon
+C-monks: illumination, theocracy, BP, faith, sanctity, fervor, redemption
+C-defense: BT, architecture, treadmill, heated shot
+C-economy: 2-h-saw, both shaft mining, guilds, banking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WINTER WOLVES
+infantry and cavalry civilization
+
+-Hunters work 20% faster and carry +10 meat
+-Unit upgrades are researched 100% faster
+-Wood and Mining camp upgrades cost no F
+-Spearman, skirmisher and light cavalry cost +25% F
+but have +25% Hp and attack 10% faster ( from Castle Age onwards)
+-Horse archers +4/5 dmg vs buildings
+UU Wolf swordman(infantry), wolf trapper(archer), hushund(infantry)
+CT-Wolfgang weapons: wolf swordman get a charge bleeding attack,
+trappers can place bear traps
+IT-Pack Hunter's Mentality: melee units get +1 atk for each 8 units
+in 10 tiles, max +4
+TB-Start with a free deer
+
+Wolf Swordman: replace militia line
+HP 50-60-85-100
+Atk 6-9-13-18 [26]
+vs shock +0-3-6-9
+vs buildings +0-3-6-9 [11]
+Rof 2.4
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 30 sec
+Up cost 100 F 40 G 10 sec
+Up cost 150 F 60 G 20 sec
+Up cost 900 F 500 G 60 sec
+Special: first hit applies 5 seconds of bleeding
+to enemies in 1.5 tiles. Bleed damage: 4 dmg/sec.
+Attack animation last 4 sec. CD 20 sec
+
+Hushund: arrow-resistent infantry, good vs archers
+HP 50-60-70
+Atk 12-15-18 [26]
+vs archers +8-12-16
+vs buildings +4-8-12 [14]
+Rof 3.0
+Armor 0/4-0/5-0/6 [3/10]
+Speed 1.2 [1.32]
+Cost 55 F 45 G 32 sec
+Up cost 200 F 200 G 30 sec
+Up cost 500 F 600 G 50 sec
+
+Wolf trapper: replace archer line. Cannot be upgraded in Imperial Age.
+HP 40-45
+Atk 5-6 [10]
+vs spears +3-4
+Rof 2.0
+Range 4-5 [8]
+Armor 2/0 [5/4]
+Speed 1.1
+Cost 45 W 25 G 35-28 sec
+Up cost 250 F 150 G 20 sec
+Special: can place bear traps. Each trap cost 5 G and deal 5 dmg
+with 5 seconds of bleeding( 4 dmg/sec). Can place as many traps as G allows.
+
+Missing techs
+A-infantry: gambeson
+B-archers: thumb ring
+A-cavalry: hussar*, paladin
+B-siege: bombard cannon
+B-navy: FFS, HDS, shipwright
+C-monks: heresy, BP, redemption, theocracy
+C-defense: BT, Keep, fortified walls, arrowslits, architecture
+A-economy: crop rotation 
+
+KAJHIT DYNASTY
+infantry and archers civilization
+
+-Lumber camps, Mining camps, Mills, Docks provide +5 population
+-All land units move 10% faster and +2 los
+-Hunters, shepherds, fisherman work 10% faster
+-Land non siege units deal 30/50% more bonus damage (except unique units)
+and regen 5 hp/min while outside combat
+-Barracks work 100% faster when under attack
+UU Spanteran(heavy infantry), kajhit archer(horse archer), kajhit hunter(archer)
+CT-Steel Claws: infantry +1 atk, and gain a charge attack
+(+10 dmg, CD 20 sec) 300 F 200 G
+IT-Refles Bows: archers gain a charge attack (+10 dmg, CD 20 sec) 800 F 500 G
+TB-Wild animals deal -75% damage to allied units
+
+Spanteran: heavy infantry, effectivs vs melee units, weak to archers and priests
+HP 80-100
+Atk 11-13 [18]
+vs buildings +3-4 [6]
+vs cavalry +8-12
+vs camels +6-10
+vs elephants +18
+Rof 2.0
+Range 0.5
+Armor 1/1-2/2 [9/6]
+Speed 1.0 [1.1]
+Cost 75 F 45 G 21-18 sec
+Up cost 900 F 750 G 60 sec
+Special: gain +1/0 armor for each
+other spanteran in 4 tiles, up to +4
+
+Kajhit archer: replace horse archer
+HP 50-60 [80]
+Atk 6-7 [11]
+vs spears +2-4 [8]
+Rof 2.0 [1.7]
+Accuracy 55-85% [100%]
+Range 5 [8]
+Armor 1/0 [5/6]
+Speed 1.5 [1.65]
+Cost 50 W 60 G 32 sec
+Up cost 900 F 600 G 60 sec
+
+Kajhit hunter: replace archer. Can gather meat and build
+houses, lumber/mining camps, mills, docks, outposts and palisades
+HP 35-40-45
+Atk 4-5-6 [10]
+vs spears +2-3-3
+Rof 2.0 [1.7]
+Range 4-5 [8]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 35 W 40 G 35-28 sec
+Up cost 250 F 75 G 30 sec
+Up cost 500 F 225 G 60 sec
+
+Missing techs
+A-infantry: halberdier*, squires*
+A-archers: HC
+B-cavalry: hussar, cavalier, husbandry*
+C-siege: siege onager, BC, siege ram, siege engineers
+B-navy: FFS, shipwright
+B-monks: heresy, faith, BP
+B-defense: BT, treadmill
+B-economy: crop rotation
+
+ARAVIANS
+fliers and archers civilization
+
+-Aviary replace the stables
+-Start with an eagle scout
+-Buildings cost -20% W, are built 25% faster but have -20% Hp
+-unique armor upgrades at the blacksmith
+UU Eagle archer(flying archer), Falconknight(flying spearman),
+thunderbird(flying monk), Corvinian pikeman(spearman)
+RU eagle warrior
+CT-Falconery: flying units attack 10% faster, gain +4 los   300 F 200 G
+IT-Storming Formations: flying units move 15% faster,
+gain a charge shield against all attacks (3 charges, CD 30 sec) 800 F 500 G
+TB outposts +1 los per age, max at +4
+
+Aviary: military building that train all flying units.
+Same stats as Stable.
+
+Eagle archer: an archer capable of flying.
+Great movement and range, but weak vs other ranged attacks.
+Can only be attacked by ranged attack with 6 range or more.
+HP 70-80
+Atk 6-7 [11]
+vs spearman +2-3
+Rof 2.0 [1.6]
+Range 5 [8]
+Armor 2/0-2/1 [5/5]
+Speed 1.6 [1.84]
+Cost 60 W 60 G 40 sec
+Up cost 1000 F 600 G 80 sec
+
+Falconknight: a melee unit that can fly but also fight on land.
+Strong ve light infantry and other fliers. Weak vs heavy melee units.
+HP 80-100
+Atk 10-12 [16]
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 1.6 [1.84]
+Cost 60 F 60 G 40 sec
+Up cost 500 F 500 G 50 sec
+
+Thunderbird: a flying support unit. Can cast lighting bolts
+to strike down foes. Vulnerable to archers. Cannot
+attack buildings, siege or ships.
+HP 50
+Atk 100
+Rof 10.0
+Range 9
+Armor 0/0
+Speed 1.6 [1.84]
+Cost 100 G 50 sec
+
+Corvinian pikeman: replace pikeman.
+HP 60-70
+Atk 5-6 [10]
+vs cavalry +16-25
+vs elephants +14-23
+vs camels +12-18
+Rof 2.4
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+
+Missing techs
+B-infantry: 2-h-swordman
+A-archers: HC, HA*, parthian
+X-cavalry: NOPE
+B-siege: siege onager, BC, siege engineers
+B-navy: nothing
+B-monks: heresy, BP
+B-defense: treadmill* 
+A-economy: nothing
+
+INSECTA
+infantry and monk civilization
+
+-Start with a Fortress
+-Woodcutter produce a small tickle of F while working (5 W->1 F)
+-Towers act as drop off point
+-Wild animals cannot attack villagers
+-Special blacksmith armor upgrades for the insect units
+UU legionary ant(infantry), wasp fighter(flying warrior),
+bettle bombardier(siege/infantry), halbeerdier(spearman),
+cicada archer(archer)
+RB Settlement(drop off point)
+CT-Hivemind: melee units gain +1 atk for each other 5 in 10 tiles, 
+max +5       300 F 300 G
+IT-Caste system: all units occupy -10% population, foot units
+move 10% faster and resist conversion        800 F 400 G
+TB Castles/Fortress upgrades are researched 80% faster
+
+Fortress: train villagers and foot units.
+Replace Castles, Town Centers, Barracks and Archery Ranges.
+HP 1800-2400-4000-4800
+Atk 5-8-10-12 [15]
+Rof 2.0
+Range 5-6-8-8 [10]
+Armor 2/7-3/8-4/9-5/10 [7/12]
+Cost 300 W 500 S 180 sec
+
+legionary ant: replace swordline, extra effective vs buildings and archers.
+HP 40-45-55-65
+Atk 4-6-8-10 [17]
+vs archers +0-2-4-6
+vs shock +0-2-4-8
+vs buildings +0-2-4-6 [8]
+Rof 2.0
+Armor 1/1-2/2-3/3-4/4 [7/8]
+Speed 1.0 [1.1]
+Cost 50 F 20 G 24 sec
+
+Halbeerdier: replace spearman.
+HP 45-55-65
+Atk 4-5-6 [13]
+vs cavalry +8-12-16 
+vs elephants +7-10-14
+vs camels +6-9-12
+Rof 2.4
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Cost 30 F 30 W 24 sec
+
+Wasp figther: flying melee units. Strong vs fliers and archers.
+Weak vs heavy infantry.
+HP 80-120
+Atk 10-12 [17]
+vs archers +8-10
+Rof 1.8
+Armor 4/3-6/4 [9/8]
+Speed 1.5 [1.65]
+Cost 60 F 60 G 40 sec
+
+Bettle Bombardier: slow moving infantry/siege unit. Effective
+vs buildings at close range. Weak vs melee units.
+HP 180-240
+Atk 10 [15]
+vs buildings +80-120
+vs siege +25-30
+Trample 1 tiles, 100% damage
+Rof 2.5
+Range 0.5
+Armor 2/96 [5/100]
+Speed 0.8 [0.88]
+Cost 120 F 80 G 50 sec
+
+Cicada archer: ranged unit with high fire rate but squishy.
+Effectivs vs infantry and monks
+HP 30-35-40
+Atk 4-5-6 [10]
+vs monks +0-3-5
+vs infantry +1
+Rof 2.0
+Range 4-5-5 [8]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 45 W 35 G 40-32 sec
+
+Missing techs
+A-infantry: squires*, blast furnace*, gambeson*
+X-archers: NOPE
+X-cavalry: NOPE
+X-siege: NOPE
+B-navy: FFS, shipwright
+A-monks: BP, faith*
+A-defense: BT 
+A-economy: nothing
+
+NORSE
+infantry and naval civilization
+
+-foot units regen 10/20/30/40 hp/min
+-Villagers +5 carry capacity
+-Warships occupy -20% population space
+-Start with a Norn
+UU Berserker(infantry), Norn(scout), Jarl(cavalry)
+CT-Skegg: replace G cost of warships with W, spearman
+deal pass-through damage
+IT-Bjarky Mercenaries: spawn 5 berserkers from each Castle,
+enable berserkers at Barracks
+TB-Share the los of Norns
+
+Berserker: infantry with high attack. Effective vs other melee units
+but weak to archers. Resist conversion.
+HP 95-110
+Atk 18-22 [26]
+vs buildings +2-3 [5]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.1 [1.21]
+Cost 90 F 30 G 21-18 sec 
+
+Norn: scout unit. Cannot be upgraded. Effective vs archers
+and monks. Weak to all melee units. Max 2 at time
+HP 30
+Atk 5* [9]
+vs archers/monks +16
+Rof 2.0
+Armor 0/5 [3/9]
+Speed 1.2 [1.32]
+los 5
+Cost 20 F 50 G 30 sec
+*3 in Dark Age
+
+Jarl: heavy cavalry, replace knights.
+HP 100-130 [150]
+Atk 12-16 [20]
+Rof 2.4
+Armor 4/2-6/3 [9/7]
+Speed 1.3 [1.43]
+Cost 65 F 60 G 40 sec
+Up cost 1400 F 800 G 100 sec
+
+Missing techs
+S-infantry: nothing
+C-archers: arbalester, HC, HA, parthian, thumb ring
+B-cavalry: hussar 
+B-siege: BC
+S-navy: nothing
+B-monks: BP, illumination
+B-defense: BT, heated shot, treamill 
+B-economy: both shaft mining
+
+ATLANTIAN
+infantry and naval civilization
+
+-Galleys +1 range
+-Buildings cost -10/15/20% S
+-Fisherman and fishing boats drop off 15% more resources
+-Blacksmith armor upgrades also increase movement speed by 5% each
+-University technologies cost -75% F
+-Monks are affected by blacksmith armor upgrades
+UU Abyssal Guardian(infantry), Mermaid knight(ship/horse archer),
+Mirmidon(skirmisher)
+CT-Abyssal Shield: unique units get a charge shield vs conversion
+IT-Poseidon's Tridents: skirmishers, mirmidons, abyssal guardians
+and mermaid knights gain a charged pass-through attack
+TB-Ships and Docks take -20% bonus damage
+
+Abyssal Guardian: infantry with a charged ranged attack.
+HP 80-100
+Atk 11-14 [18]
+vs cavalry +5-8
+Rof 2.0
+Armor 2/1-3/2 [6/6]
+Speed 1.0 [1.15]
+Cost 60 F 50 G 18-15 sec
+Special: charged 4 range, 15-20 dmg, CD 40 sec
+
+Mermaid Knight: infantry/ship unit that can move across water and land
+at different speed. Not affected by ship upgrades, but
+take bonus damage from anti ship attacks.
+HP 70-80
+Atk 7-8 [12]
+vs spearman +4-6
+Rof 2.0
+Armor 3/2-4/3 [7/7]
+ship armor 3-4
+Speed 1.4 [1.61]   -30% on land
+Cost 70 W 40 G 30 sec
+
+Mirmidon: powerful skirmisher. Once defeated, resume fighting once again.
+HP 70-80
+Atk 5-6 [10]
+vs archers +8-10
+vs spearman +8-10
+vs horse archers +2
+Rof 3.0
+Range 4 [7]
+Armor 2/4 [5/8]
+Speed 1.0 [1.15]
+Cost 65 F 55 G 20 sec
+Special: once defeated, comes back to fight(only once).
+
+Missing techs
+A-infantry: squires*
+B-archers: arbalester, HC, HA, parthian, thumb ring
+X-cavalry: NOPE
+B-siege: BC
+A-navy: nothing
+C-monks: fervor*, BP, illumination, faith
+A-defense: BT 
+A-economy: crop rotation, 2-h-saw
+
+WASTELAND DRAGONS
+Elite civilization
+
+-Villagers have +50% Hp, atk, work rate, but cost +50% more
+and occupy +50% population
+-Blacksmith upgrades provide another +1/1 armor
+-Towers cost no W, cannot build palisades
+UU Dragon swordman(infantry), dragon spearman(spearman),
+dragon archer(archer), dragon shaman(monk), dragon ram(siege)
+UB Den(military)
+CT-Breath Alchemy: ranged units +1 atk, apply fire damage
+IT-Dragon Scale armor: unique units +3/0 armor
+TB-Unique units attack 5% faster
+
+Den: replace all military buildings. Train all dragon units.
+
+Dragon swordman: infantry effective vs other melee units
+and buildings. Weak to archers and monks.
+HP 55-65-80-90
+Atk 6-8-13-18 [22]
+vs buildings +0-2-4-6 [8]
+Trample 0.5 tiles 50% damage
+Rof 2.0
+Armor 1/1-1/1-1/2-1/2 [8/6]
+Speed 1.0
+Cost 60 F 30 G 32 sec
+
+Dragon spearman: effectivs vs cavalry and archers.
+Weak to infantry. Doesn't take anti spearman damage.
+HP 70-80-90
+Atk 6-8-10 [14]
+vs cavalry +18-22-27
+vs elephants +18-22-27
+vs camels +15-19-24
+Rof 2.0
+Armor 1/1-2/2-3/3 [10/7]
+Speed 1.0
+Cost 60 F 30 G 32 sec
+
+Dragon Archer: long ranged archer. Effective vs infantry
+and monks. Weak to cavalry and skirmishers.
+HP 45-55-65
+Atk 6-7-8 [13]
+vs archers/monks +1-2-3
+vs spearman +3
+Rof 2.0 [1.7]
+Range 5-6-7 [10]
+Armor 2/1 [9/5]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+
+Dragon shaman: monk that drain the hp of target.
+HP 60
+Drain 360 hp/min
+Heal 180 hp/min
+Range 9
+Armor 0/0 [7/4]
+Speed 1.0
+Cost 120 G 60 sec
+
+Dragon Ram: strong battering ram.
+HP 200-300
+Atk 5-6 [10]
+vs buildings +160-200 [240]
+vs siege +50-65 [78]
+Rof 5.0
+Armor 0/100-0/150
+Garrison 6
+Speed 0.7
+Cost 160 W 90 G 50 sec
+
+Missing techs
+A-infantry: squires*, gambeson*, infantry armor III*
+A-archers: parthian, HC, HA, skirmishers, archer armor I*
+X-cavalry: NOPE
+C-siege: onager, scorpio, BC
+B-navy: shipwirght, carening
+B-monks: sanctity*, fervor*, faith*, BP
+A-defense: BT, treadmill*
+B-economy: crop rotation, 2-h-saw, guilds 
+
+RODIA
+infantry and siege civilization
+
+-All foot units occupy -20% population,
+cost -20% and are trained 25% faster,
+but have -20% hp and attack 25% slower
+-Villager +2/0 armor
+-Woodcutter remotely deposit wood
+-Start with a rodia scout
+UU Rodia figther(infantry), saw trebuchet(siege)
+RB Tunnel
+CT-Iron Teeth: infantry +8 dmg vs buildings
+IT-Swarms: foot units move 15% faster, gain +1 atk
+for each 7 other units, max +3
+TB-Eco upgrades are researched 80% faster
+
+Rodia figther: cheap and weak infantry unit.
+Occupies 0.5[0.4] population space.
+HP 35-45
+Atk 7-9 [14]
+Rof 1.8
+Armor 0/0 [3/4]
+Speed 1.2 [1.5]
+Cost 35[28] F 15[12] G 4-3 sec
+
+Saw trebuchet: replace normal trebuchet.
+Has pass-through damage.
+HP 150
+Atk 50
+vs buildings +400 [500]
+Rof 10.0
+Range 15 [16]
+Armor 2/10
+Speed 0.7
+Cost 200 W 200 G 50 sec
+
+Missing techs
+A-infantry: champion*
+B-archers: HC, HA, parthian, thumb ring
+C-cavalry: cavalier, husbandry
+A-siege: BC
+B-navy: FFS
+A-monks: sanctity, fervor*
+A-defense: nothing 
+S-economy: 2-h-saw*
+
+
+Missing techs
+infantry:  
+archers:
+cavalry:
+siege:
+navy:
+monks:
+defense: 
+economy: 
+
+
+CIVS A CUI MANCANO CAMPAGNE
+vikings, japanese, chinese, turks
+mayans, koreans,
+khitnas, jurchens
+
+
+
+
+
+
+
+
+
+
+
+WESTARIANS
+infantry and monk civilization
+
+-Start the game with +50 G
+-Castles, Town Centers and Monasteries +15/30% HP in Castle/Imperial Age
+-Castles can train knights and archers (200% faster)
+-Relics generate all resources (33% F, 33% W, 33% S)
+UU Legionary(infantry), Zealots(monk)
+CTA-Regular tournaments: knight-line gain a +5 atk charge attack, CD 30 sec
+CTB-Zealot's Order: monks +50 HP
+ITA-Siege archery: archer-line and trebuchet fire 20% faster
+ITB-Order of the Shield: infantry +30% HP, they are trained 25% faster
+TB Monks heal 50% faster and have +25% healing range
+
+Legionary
+HP 70-80 [104]
+Atk 9-13 [20]
+vs buildings +3-4 [6]
+vs shock +4-6
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 0.9 [0.99]
+Cost 50 F 30 G 12-10 [8] sec
+Up cost 800 F 400 G 40 sec
+Special: gain +1 atk for each other infantry in 8 tiles, max +3
+
+Zealot
+HP 100 [150]
+Atk 11 [15]
+Rof 2.0
+Range 3
+Armor 1/1 [4/5]
+Speed 0.9 [0.99]
+Cost 50 F 50 G 50-40 sec
+Resist conversion
+
+Missing techs:
+A-infantry: nothing
+B-archers: HC, HA, parthian, thumb ring*
+B-cavalry: hussar, husbandry
+B-siege: siege onager, heavy scorpio, BC, siege engineers*
+A-monks: heresy, sanctity*
+C-navy: FFS, HDS, shipwright, carening, clinker
+A-defenses: hoardings*, BT
+B-economy: nothing
+
+army composition: champions/legionaries, halberdiers, arbalesters,
+paladins, trebuchet, monks, zealots
+
+CRIMSON HORDE
+cavalry and siege civilization
+
+-Obtain 75 G for each destroyed Castle, Town Center and Monastery
+-All military non siege units move 5/10/15/20% faster
+-Houses cost -60%
+UU Ancient riders(cavalry), Immortal(infantry), snake archer(foot archer), poison onager(siege)
+RU camels, steppe lancers
+CTA Raid the Tombs: ancient riders and immortals cost -15%
+CTB Scourge of the Plains: increase conversion resistence by 30%
+ITA War Machine: trebuchet and onagers +80% movement speed
+ITB Toxic Alchemy: double poison damage
+TB Mounted units +2 dmg vs buildings
+
+Ancient rider
+HP 100-130 [150]
+Atk 12-15 [19]
+vs buildings +3 [5]
+Rof 1.8
+Armor 2/2 [5/6]
+Speed 1.4 [1.68]
+Cost 140[119] G 30-25 sec
+Up cost 500 F 500 G 50 sec
+Immune to conversion
+
+Immortal: replace longswordman onwards
+HP 50-60
+Atk 9-12 [16]
+vs buildings +3 [5]
+vs shock +2-4
+Rof 1.8
+Armor 1/1 [2/2]
+Speed 0.9 [1.08]
+Cost 50[43] F 20[17] G 20 sec
+Up cost 150 F 50 G 30 sec
+Up cost 250 F 150 G 40 sec
+Occupy -33% population space
+
+Snake Archer: replace archer-line
+HP 30-35-40
+Atk 5-6-7 [11]
+vs buildings +2
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 0/0 [2/2]
+Speed 0.9 [1.08]
+Cost 45 W 45 G 20 sec
+Up cost 250 F 150 G 30 sec
+Up cost 550 F 350 G 70 sec
+Poison damage: 30[60] hp/min for 4 seconds
+
+Poison Onager: replace onager and siege onager upgrade
+HP 100
+Atk 75
+vs buildings +90
+vs heavy siege +50
+vs siege +12
+Blast 2.0
+Rof 6.0
+Range 8
+Armor 0/8
+Speed 0.7 [1.26]
+Up cost 2400 F 1600 G 200 sec
+Poison damag: 30[60] hp/min for 4 seconds
+
+Missing techs:
+C-infantry: pikeman, squires*, gambeson, infantry armor II
+B-archers: HC, archer armor III
+A-cavalry: hussar, knights, husbandry*
+A-siege: BC, siege engineers*
+C-navy: FFS, HDS, shipwright, carening, clinker
+C-monks: fervor, sanctity, BP, theocracy, illumination, atonement, redemption
+D-defenses: masonry, hoardings, arrowslits, treadmill, BT, heated shot, Guard Tower
+B-economy: both shaft mining, 2-h-saw, crop rotation
+
+army composition: immortals, snake archers, ancient riders/steppe lancer,
+camels, poison onager, trebuchets
+
+ICEDALES
+gunpowder and monks civilization
+
+-Farms, Mills, Houses, Lumber/Mining camps cost -30%
+-Monastery techs cost -25%, they are researched instantly
+-Gunpowder and siege units fire 10% faster
+-Town Centers and Castles can train gunsmiths and spearman, cannot buil Archery Ranges
+UU giant bot(siege/gunpowder), mirmidon(spearman), ice wizard(monk), gunsmith(gunpowder)
+CTA-Dragon riders: knight-line +40 HP
+CTB-Ice lances: spearmen have a 15% to stun for 2 seconds
+ITA-Great Library: universities and monasteries generate a small tickle
+of F/W/S/G but occupy 5 population
+ITB-Artisian guilds: giant bots regen 8 hp/sec
+TB All techs are researched 30% faster
+
+Giant Bot: replace scorpion
+HP 200-240
+Atk 40-48
+Rof 2.0 [1.81]
+Range 8
+Armor 0/0
+Speed 1.0
+Cost 150 W 150 G 60 sec
+Up cost 800 F 800 W 50 sec
+
+Mirmidon: replace halberdier
+HP 60
+Atk 5 [9]
+vs cavalry +22
+vs elephants +22
+vs camels +16
+Rof 2.0
+Armor 2/2
+Speed 1.0
+Up cost 600 F 300 G 80 sec
+
+Ice Wizard
+HP 75
+Atk 15
+Rof 3.6
+Range 6
+Armor 0/0
+Speed 0.9
+Cost 100 G 50 sec
+Special: apply slow -30% to target for 10 seconds
+
+Gunsmith: replace archery-line, is the precursor for the hand-cannoner
+HP 30-35
+Atk 9-13
+vs infantry +4-7
+Rof 3.45 [3.11]
+Range 5-6
+Armor 1/0
+Speed 0.96
+Up cost 150 F 100 G 40 sec
+Up cost 350 F 250 G 60 sec
+
+Missing techs:
+C-infantry: 2-h-swordman, squires, gambeson, infantry armor I
+C-archers: archer, skirmisher, HA, parthian, thumb ring, bracer, archer armor I
+A-cavalry: hussar, paladin, bloodlines*, husbandry
+B-siege: siege ram, onager, siege engineers*
+E-navy: FS, DS, shipwright, carening, clinker, bracer
+A-monks: heresy
+A-defenses: heated shot, bracer
+A-economy: crop rotation*, 2-h-saw
+
+army composition: mirmidons, hand cannoners, cavaliers, giant bots,
+bombard cannons, trebuchet, monks
+
+
+
+
+
+
+
+
+
+
+
+CIVS FOR CHRONICLES
+
+BRITONS
+infantry and cavalry civilization
+
+-Blacksmith, Barrack, Archery Range and Stable techs cost -40% G
+-Barrack units +20% HP from Feudal Age
+-Shepherds work 25% faster
+UU Essedarius(cavalry/cavalry archer), highlander(infantry)
+RU mounted skirmisher, axeman
+CTA-Ovates: priests heal 100% faster, +100% healing range
+CTB-Warrior Druids: priests convert 33% faster and gain +3/3 armor
+ITA-Carnyx: infantry +4 atk
+ITB-Exmoor Covines: cavalry +4 atk
+TB Military buildings provide +5 population
+
+Essedarius
+HP 100-120 [140]
+Lance 10-12 [20]
+Javelin 6-7 [11]
+Range 4 [7]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+
+Highlander
+HP 100-130
+Atk 12-14 [22]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+
+javeliner
+HP 40-50
+Atk 3-4 [8]
+vs archers +3
+vs spear +3
+Rof 3.0
+Range 4-5 [8]
+Armor 0/1-1/2 [4/6]
+Speed 1.0
+Cost 35 W 35 G 24 sec
+Up cost 300 W 200 G 50 sec
+Mortal strike:
+
+caledonian warrior
+HP 60-70
+Atk 5-7 [11]
+Rof 2.0
+Armor 4/4-6/5 [9/9]
+Speed 1.0 [1.1]
+Cost 60 F 20 G 30 sec
+
+viking lord
+HP 300
+Atk 26 [30]
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 70 F 70 G 40 sec
+Vampire strike: heal hp equal to damage dealt
+
+GAULS
+infantry and siege civilization
+
+-Military buildings cost -20%
+-Infantry armor upgrades are free
+-Mills, Lumber/Mining camps cost -50%
+-Town Centers cost -50%
+-Siege weapons fire 25% faster
+UU Amabaxtoi(infantry), gallic swordwoman(infantry)
+RU mounted skirmisher, axeman
+CTA-Oppida: town centers and castles fire extra arrows, regen 30 hp/min to allies units in 10 tiles
+CTB-Belgae horses: knight-line +30 HP
+ITA-Furor Celtica: infantry deal trample damage
+ITB-Alesia siege: siege weapons cost -20%, deal +20% bonus damage
+TB Siege workshops work 20% faster
+
+Ambaxtoi
+HP 65-80
+Atk 10-14 [18]
+Rof 2.0
+Armor 0/6 [3/10]
+Speed 1.0 [1.1]
+Cost 50 F 40 G
+
+Gallic swordwoman
+HP 70-85
+Atk 9-11 [15]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.1 [1.21]
+Cost 50 F 50 G
+Mortal Strike: deal +15/20 dmg to units with less than 50% HP remaining
+
+belgae horseman
+HP 95-125 [145]
+Atk 8-10 [14]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.4 [1.54]
+Cost 65 F 65 G 30 sec
+Special: +20/25 dmg on thenext strike, CD 20 sec
+
+fand warrior
+HP 300
+Atk 17 [21]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.0 [1.1]
+Cost 80 F 70 G 40 sec
+Special: heal 100 hp fo each kill
+
+GERMANS
+infantry civilization
+
+-Woodcutter work 15% faster
+-Start with a mule cart
+-Military units cost -40/50/60/70% G
+-Palisades cost -40%
+UU Maceman(infantry), Teuton raider(cavalry)
+RU mounted skirmisher, axeman
+CTA-Cuneus: infantry attack 20% faster
+CTB-Batavi Uprising: infantry can be trained at Town Centers, infantry is trained 50% faster
+ITA-Mercenaries: infantry move 25% faster in los of your buildings
+ITB-Migration: mule carts move 33% faster and cost -50%
+TB Blacksmith upgrades cost -40% F
+
+Maceman
+HP 80-100
+Atk 10-12 [16]
+Rof 2.0
+Armor 0/0 [3/4]
+Cost 80 F
+
+Teuton raider
+HP 80-100 [120]
+Atk 7-9 [13]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.5 [1.65]
+Cost 100 F
+
+huntress
+HP 60
+Atk 6 [10]
+Rof 2.0
+Range 3 [6]
+Armor 0/0 [2/2]
+Speed 0.9
+Cost 40 W 40 G 32 sec
+Special: attack ignores armor
+
+valkyre
+HP 100-130 [150]
+Atk 6-8 [10]
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 1.4 [1.54]
+Cost 100 F 50 G 30 sec
+Special: allies in 12 tiles attack 15% faster and take -15% damage, doesn't stack
+
+IBERIANS
+infantry and skirmisher civilization
+
+-skirmishers fire 25% faster
+-Free farm upgrades
+-infantry units move 5/10/15/20% faster
+-Start the game with some stone walls
+UU Caetrati(infantry), elite guard(infantry)
+RU mounted skirmisher, axeman
+CTA-Raiding Bands: infantry generate F/G while fighting, enable caetrati at town centers
+CTB-Soliferrum: skirmisher -2 atk, but ignores armor
+ITA-Concursare: infantry and cavalry gain a charge attack
+ITB-Cantabrian circle: horse archers +1/1 armor
+TB Farms contain +15% F
+
+Caetrati
+HP 55-65
+Atk 8-10 [14]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 45 F 25 G
+Special: deal 1 area attack, full damage, CD 20 sec
+
+Elite Guard
+HP 80-105
+Atk 7-8 [12]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.0 [1.1]
+Cost 60 F 60 G
+Obstination: target loses 10% of his max hp as damage with each hit
+(doesn't work on buildings/ships/siege/heroes)
+
+Cantabrian cavalry: replace light cavalry and hussar
+HP 50-60 [80]
+Atk 9 [13]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.52 [1.67]
+
+guerrigliero
+HP 100
+Atk 12 [16]
+Rof 2.0
+Armor 1/0 [5/5]
+Speed 1.0 [1.1]
+Cost 100 G 50 sec
+Special: invislbe when not moving for 10 seconds.
+Invisibility disappear when unit start attacking.
+Automatically revealed when in proximity of towers.
+
+CARTHAGINIANS
+cavalry and naval civilization
+
+-Military units cost -10/15/20/25% F
+-Free cavalry armor upgrades
+-Naval techs cost -50%, they are available one age earlier
+-Start with +50 G/F/W/S
+UU War Elephant(cavalry), noble(infantry)
+CTA-Cornacs: elephants attack 25% faster, gain +25% trample area
+CTB-Xanthippian reforms: enable more mercenaries, mercenaries cost -20%
+ITA-Council of 104: knights +3/0 armor, mercenaries gain G while fighting
+ITB-Mega Shipyard Engineering: enable Choton
+TB Outposts cost no S
+
+Noble
+HP 80-100
+Atk 10-12 [16]
+Rof 2.0
+Armor 3/3-5/4 [8/8]
+Speed 0.8 [0.88]
+Cost 80 F 60 G
+Special: recover 20/25 hp per kill
+
+numidian infantry
+HP 45
+Atk 3
+Rof 1.8
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 45 G
+
+numidian javeliner
+HP 40 [60]
+Atk 4 [8]
+Rof 2.0
+Armor 0/1 [3/5]
+Speed 1.6 [1.76]
+Cost 110 G
+
+libian skirmisher
+HP 40
+Atk 3 [7]
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 1.0
+Cost 50 G
+Special: attack ignores armor
+
+mauritanian fighter
+HP 100
+Atk 6 [10]
+Rof 1.8
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 100 G
+Special: use all hp above 50% to deal damage
+
+Libian Maceman
+HP 100
+Atk 5 [9]
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 0.8 [0.88]
+Cost 70 G
+Obstination:
+
+EGYPTIANS
+infantry and priest civilization
+
+-Transport ships +10 carry capacity
+-Farms cost -30%
+-Priests cost -30%
+-Chariots +30% HP
+-Relics visible at the start of the map
+UU Horus warrior(infantry), Anubis warior(infantry)
+RU Kopesh warrior, chariot archer, chariot
+CTA-Kopis: infantry +2 atk
+CTB-Maryannu: melee chariots +6 atk
+ITA-Great Library: villager work 2% faster for each university tech researched
+ITB-Aegyptica: infantry cost -30%
+TB Gold and stone miners work 5% faster
+
+Horus/Anubis Warrior
+HP 80-90
+Atk 8-9 [13]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.1 [1.21]
+Cost 65 F 65 G
+Horus: Obstination
+Anubis: Mortal Strike
+
+Axe thrower
+HP 65-75
+Atk 5-6 [10]
+vs archers +4-6
+vs spear 4-6
+Rof 2.0
+Range 3 [6]
+Armor 1/0 [4/4]
+Speed 0.9
+Cost 50 F 40 G 20 sec
+
+
+OTHER UNITS
+
+Hastatus-Princep-Trairius
+HP 50-60-75 [90]
+Atk 6-8-10 [14]
+Rof 1.8
+Armor 1/1-2/2-3/3 [7/7]
+Speed 0.96 [1.05]
+Cost 60 F 20 G
+
+Velite-Elite Velite
+HP 40-50
+Atk 3-4 [8]
+vs archers +3-4
+Rof 2.0
+Range 3 [6]
+Armor 0/3 [3/7]
+Speed 1.0
+Cost 25 F 35 W
+
+Secutor
+HP 110-150
+Atk 9-11 [15]
+Rof 2.0
+Armor 2/2 [6/6]
+Speed 0.8 [0.88]
+Cost 60 F 40 G
+Special: block one attack every 10 seconds
+
+Pretorian
+HP 120-150
+Atk 10-12 [16]
+Rof 2.0
+Armor 2/2-3/3 [7/7]
+Speed 0.8 [0.88]
+Cost 60 F 60 G
+Special: return all melee damage to attacker
+
+Equites: replace light cavalry
+HP 45-55 [75]
+Atk 5-6 [10]
+Rof 1.7
+Armor 2/2 [5/6]
+Speed 1.5 [1.65]
+
+
+ROYAL OFFENSE
+infantry and monks civilization
+
+-Can research arson again in Castle and Imperial Age
+-Blacksmith techs cost -50% F
+-Obtain 100 G and 100 W for each Town Center built
+-In Imperial Age, +10% population limit
+UU King's Sword(infantry), elite arbalester(archer)
+CT-Head Hunters: military non siege units get +5 G per kill,
+refund 50% of their G cost on death
+IT-Gilded armor: infantry units gain a shield against all attacks
+(3 charges, CD 60 sec)
+TB-Militia-line and foot archers +2 los
+
+King's Sword
+HP 70-80
+Atk 12-16 [20]
+vs buildings +2 [8]
+Rof 2.0
+Armor 6/3-9/4 [12/8]
+Speed 0.8 [0.88]
+Cost 20 F 100 G 20 sec
+Up cost 1200 F 800 G 50 sec
+Special: each atk make the target los 10% of his max hp
+
+Elite Arbalester
+HP 50
+Atk 7 [11]
+Rof 2.0
+Range 5 [8]
+Armor 2/2 [5/6]
+Speed 0.96
+Up cost 750 F 450 G 100 sec
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HC, HA, thumb, parthian
+B-cavalry: hussar, husbandry
+B-siege: BC, siege engineers
+A-monks: nothing
+C-navy: HDS,FFS, carening, clinker, shipwright, syphons
+A-defense: BT, heated shot
+A-economy: stone shaft
+
+
+
+
+
+
+
+
+All units +50 HP +50 Atk +50% armor regen 5 hp/sec
+ranged +25% atk, melee +25% block
+Start with +500 G
++50-140 G per 1.5 sec
++25 G per kill
+units cost -25%, refund 25% on death
++10 unit limits
+
+Heal 150 Hp to 5 allies  150 G
+Bless: +10 atk, +20% armordodgres to 9 allies
+for 14 seconds   500 G
+resurrect 5 allies with 90% HP  1000 G
+thunder 400 dmg for 5 enemies  400 G
+curse -15 atk -50& speed to 6 enemis for 10 sec 250 G
+2500 dmg to all enemies 1500 G
+
+Taxman 300 G
+HP 110 Armor 50% 
+Warrior 450 G
+HP 160 Atk 70 Armor 60%
+Paladin 1250 G
+HP 280 Atk 82 Armor 65%  Shield:return 50% damage for 15 sec
+Zealot 1100 G
+HP 250 Atk 80 Armor 60%  Curse: -15 dmg -50% speed to 2 enemies for 10 sec
+Ranger 500 G
+HP 140 Atk 65 Armor 55%
+Wizard 750 G
+HP 130 Heal 30 Armor 0%
+Warlock 1200 G
+HP 130 Atk 70 Armor 0%  Meteor: 100 magic damage to 9 enemies
+Necromancer 1400 G
+HP 130 Ark 40 Armor 0%   Plague: 60% dmg to 3 enemies over 6 seconds  drain 4 hp
+Dwarf 500 G
+HP 200 Atk 75 Armor 70%
+Elf ranger 600 G
+HP 130 Atk 80 Armor 50% Dodge 15%
+
+Elf Warrior 500 G
+HP 190 Atk 100 Armor 70%
+King's Sword 1000 G
+HP 250 Atk 130 Armor 90%
+Poison 100% over 10 sec  Meteor: 100 magic damage to 9 enemies
+Sniper 700 G
+HP 170 Atk 100 Armor 60% Meteor: 100 magic damage to 9 enemies
+Black Mage 1400 G
+HP 250 Atk 150 Armor 0%
+Poison 100% over 10 sec Meteor: 100 magic damage to 9 enemies
+
+
+CLAUDIAN DYNASTY (Chronicles)
+infantry and siege civilization
+
+-Town Centers have a 12 W/min tickle of W
+-All non siege land units occupy -15% population
+-University and Military buildings technologies cost -20%
+-Scorpions deal +40% pass-through damage (0.5->0.7)
+-Villagers can garrison in houses, 5 max each house
+UU Legionary(infantry)
+UB Storehouse, Imperial Tower, Prefecture
+CT-Grand Master Architects: all buildings cost -25%  COST 300 W 500 S 40 sec
+IT-Consulatae Auxilia: summon 5 legionaires from each Castle, max +4,
+make legionaries available at the Barracks  COST 1250 F 750 G 60 sec
+TB-Stone and gold deposits last 10% longer
+
+Storehouse:
+provide +10 population, villagers in 10 tiles move 10% faster
+Act as drop off point for all resources, but doesn't develop upgrades
+Cost 150 W 50 sec
+
+Imperial Tower
+Stronger version of the tower.
+Fires scorpion bolts at the enemy.
+HP 1050-1800-3000 [3600]
+Atk 6-8-10 [17]
+vs ships +8-12-16
+vs stone +5
+Rof 2.0
+Range 8 [11]
+Armor 1/7-2/8-3/9 [5/11]
+Cost 150 S 150 W 150 sec
+Up cost 100[80] F 250[200] W 30 sec
+Up cost 500[400] F 350[280] W 70 sec
+
+Prefecture
+Can garrison villagers, max 5, to repair and contrsuct
+buildings in 10 tiles, one at time, for free.
+Can also hire said villagers into vigiles, with
+enhanced stats, who get an attack boost when inside
+the Prefecture los. Repair/Build Rate 1500 hp/min
+Cost 100 W 100 S 50 sec
+
+Vigiles
+HP 80
+Atk 6 [10]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.0 [1.1]
+Cost 1 villager +10 G
++100% damage while within prefecture los
+
+Legionary
+Strong heavy infantry
+HP 60-70
+Atk 10-14 [18]
+vs buildings +2-3 [5]
+Rof 2.0
+Armor 6/3-8/4 [11/8]
+Speed 0.96 [1.05]
+Cost 70 F 30 G 12 sec
+Up cost 1000 F 850 G 60 sec
+Special: can build and repair military buildings
+and fortifications
+
+Compared to Teutonic Knight:
+-30/40 HP  -4/3 atk -1 dmg vs buildings
+-4 dmg vs shock  -1/2 melee armor
++20% movement speed +1/2 pierce armor  -15 F cost
+
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HC, HA, parthian ,thumb
+B-cavalry: hussar, paladin
+B-siege: BC
+C-monks: heresy, BP, theocracy, atonement, redemption
+A-navy: HDS
+A-defenses: heated shot, BT
+A-economy: 2-h-saw*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LUCANEANS
+archer civilization
+
+-Bastions replace castles
+-Unit upgrades cost -50%
+-Skirmishers and spearman +1/1 armor
+-University techs cost -50%
+UU: limitanei(infantry), caetra(skirmisher)
+CT-Forest Patrol: all buildings +4 los, spearman +4/0 armor, limitanei, caetra,
+spearman and skirmishers get a charge attack, +5 atk CD 30 sec  cost 500 F 400 G 40 sec
+IT-Thracian Javelins: skirmishers +4 dmg to cavalry,
+spearman +50% bonus damage COST 700 F 600 G 60 sec
+TB Archery Range unit deal +33% bonus damage
+
+Limitanei: infantry with great armor and bonus damage vs cavalry.
+Weak to infantry and siege.
+HP 60-75
+Atk 8-11 [15]
+vs cavalry +10-15
+vs elephants +10-15
+vs camels +6-10
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 4/3 [7/7]
+Speed 0.9
+Cost 60 F 20 G 8 sec
+Up cost 1200[600] F 500 G 40 sec
+
+Caetra: skirmisher with higher attack but lower range. Replace Hand cannon slot.
+HP 35-40
+Atk 5-6 [10]
+vs spear +2 [3]
+vs archers +2 [3]
+vs horse archers +2 [3]
+Rof 3.0
+Range 4 [7]
+Armor 0/4 [3/8]
+Speed 0.9
+Cost 40 F 40 W 24 sec
+Up cost 500 F 500 W 50 sec
+
+Bastion: Like a castle, but with +2000 HP and +2 range. Can train villagers.
+
+Missing technologies
+A-infantry: halberdier*, squires
+A-archers: HHA, parthian
+C-cavalry: hussar, knight, cavalry armor III
+B-siege: BC, siege engineers, siege onager
+A-monks: heresy
+C-naval: shipwright, carening, clinker, syphons
+B-defense: BT, heated shot, treadmill, hoardings*
+B-economy: 2-h-saw
+
+MALABAR (kingdoms of Kerala, Chera, Calicut, Travancore)
+infantry and elephants
+
+-Squires affect elephants
+-Farms upgrades cost -33% and provide +50% bonus Food
+-Barracks and Docks work 15% faster
+UU Nair Guard(infantry)
+RU battle elephant, elephant archer, armored elephant, camels
+CT-Kerala armor: infantry and elephants +1/1 armor
+IT-Chera Howdah: elephant archers +1 range and +1 atk
+TB Trade units generate W (5->1)
+
+Nair Guard: anti cavalry foot soldier
+HP 70-80
+Atk 10-14 [18]
+vs cavalry +6-12
+vs buildings +5-6
+Rof 1.9
+Armor 1/1-2/2 [6/7]
+Speed 1.05 [1.15]
+Cost 60 F 25 G
+
+Missing techs:
+infantry: arson, halberdier*
+archers: arbalester, hand cannon, parthian tactics*
+cavalry: knight, hussar
+siege: siege onager
+monks: heresy, Block printing
+naval: nothing
+defense: Bombard Tower, heated shot
+economy: 2-h-saw
+
+VLACHS
+infantry and gunpowder
+
+-Fortifications* provide +1 atk to all allies within los,
+They cost -25% and are built 50% faster
+-Gunpowder units +15% precision and +1 range
+-Each garrisoned relic provide +10% work rate for all military buildings (max +40%)
+UU Voinic(infantry)
+CT-Migration: villagers are created 33% faster
+IT-Black Powde Reform: gunpowder units +20% fire rate
+(bombard cannon +40% fire rate instead)
+TB-Eco techs cost -15%
+
+*include: all towers, walls and castles. Include kreposts, Donjons with all techs.
+
+Voinic: anti-gunpowder infantry
+HP 60-70
+Atk 11-15 [19]
+vs infantry +5
+vs gunpowder +5
+vs buildings +3 [5]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 50 F 30 G
+take -33% damage from gunpowder units
+
+Missing techs:
+infantry: nothing
+archers: arbalester
+cavalry: paladin, bloodlines
+siege: siege onager
+monks: nothing
+naval: nothing
+defense: architecture
+economy: guilds
+
+NABATEANS
+archers and camels
+
+-Foot archers +1/1 armor
+-Camel riders cost -15/20%
+-Each garrisoned relic increase trading income by 10% (max +40%)
+UU Qitab archer(foot archer), Camel skirmisher(camel/skirmisher)
+CT-Incense Trade: trade units +1/1 armor
+IT-Desert Husbandry: camel units move 10% faster, are created 50% faster
+TB-Food sources last 15% longer
+
+Qitab Archer: tanky archer
+HP 50-60
+Atk 7-8 [12]
+Range 5 [8]
+Rof 2.0 [1.7]
+Armor 0/1 [4/6]
+Speed 1.0
+Cost 40 W 45 G
+
+Camel skirmisher: mounted skirmisher on a camel. Effective vs horse archers
+HP 100-120 [140]
+Atk 3-4 [8]
+vs archers +4-5
+vs spearman +4-5
+vs cavalry +6
+Rof 3.0
+Range 4 [7]
+Armor 0/2 [3/6]
+Speed 1.45 [1.74]
+Cost 60 F 60 G
+
+Missing techs:
+infantry: 2-h-sword, halberdier, infantry armor III
+archers: arbalester
+cavalry: paladin
+siege: siege onager
+monks: nothing
+naval: nothing
+defense: architecture, BT, heated shot, treadmill
+economy: nothing
+
+SOGDIANS
+cavalry and siege
+
+-Caravanserai provide +1/1 armor to trade units, also affect mounted units
+-Scorpions and onagers move 25% faster
+-Each garrisoned relic provide +5 HP to all mounted units (max +20)
+-Siege Workshops and Stables cost -50 W and are built 50% faster
+UU Aswaran(cavalry)
+RU camels, steppe lancers
+CT-Silk Armor: mounted units +1/1 armor
+IT-Steppe Engineers: ranged siege units +2 range, onagers cost -20%
+TB Onagers and scorpions are trained 25% faster
+
+Aswaran
+HP 100-130 [150]
+Atk 12-15 [19]
+vs infantry +4
+Rof 2.0
+Armor 2/2-3/3 [7/8]
+Speed 1.4 [1.54]
+Cost 70 F 60 G
+Charge: +3/5 dmg on first hit, CD 30 sec
+
+Missing techs:
+infantry: champion, halberdier
+archers: arbalester
+cavalry: paladin, bloodlines*
+siege: siege engineers*
+monks: nothing
+naval: nothing
+defense: architecture
+economy: 2-h-saw
+
+NIZARITES
+siege and camels
+
+-camels and siege units +4 dmg vs siege and +1/1 armor
+-Castles can be garrisoned with siege units, can train camel riders
+-Siege units cost -5% for each relic garrisoned (max -20%)
+-Siege engineers provide +40% bonus damage to camels
+UU Sarbaz(infantry)
+CT-Camel logistics: camel and infantry units -20% damage from siege units
+IT-Alamut Engineering: siege units +20% fire rate
+TB-Siege engineers is researched instantly and is available in Castle Age
+
+Sarbaz
+HP 70-80
+Atk 11-15 [19]
+vs buildings +6-8 [10]
+vs infantry +3-4
+Rof 2.0
+Armor 2/1-3/3 [5/5]
+Speed 1.1
+Cost 50 F 35 G
+
+Missing techs:
+infantry: squires*, halberdier*, longswordman*, infantry armor III*
+archers: arbalester
+cavalry: paladin, bloodlines
+siege: nothing
+monks: heresy, fervor
+naval: nothing
+defense: treadmill
+economy: 2-h-saw, stone shaft
+
+BLACK BURGUNDIANS
+siege and gunpowder
+
+-Cannon Galleon and bombard cannon +20% HP
+-Castles cost -20% and are built 25% faster
+-Eco techs cost -50% F
+UU Arquebusier(gunpowder)
+CT-Black Iron Armor: siege and gunpowder units +1/1 armor
+IT-Royal Foundries: gunpowder units +20% fire rate
+TB-Siege workshop work 20% faster
+
+Arquebusier: upgrade for the hand cannoner
++1 range +2 dmg vs infantry +10 HP
+
+HARAR
+monks and camels
+
+-Villagers gain +1 carry capacity for each monastery tech researched (max +8)
+-Block pringting available in Castle Age for free
+-Monks and camels gain +10 Hp for each relic garrisoned (max +50)
+UU Zealot Camel rider(camel), Dervisher(camel)
+CT-Hymns of Harar: monks and camels move 20% faster
+IT-Zealotry: camels -20% train time and +1/1 armor
+TB-Relics generate +33% faster
+
+Zealot Camel: upgrade for the camel rider, replace heavy camel
+HP 120 [170]
+Atk 10 [14]
+vs cavalry +15
+vs camels +6
+vs buildings +4
+Rof 2.0
+Armor 0/0 [4/5]
+Speed 1.45 [1.74]
+Up cost 500 F 500 G 100 sec
+Regen 30 hp/min when whitin los of an ally monk
+
+Dervisher: anti-infantry camel rider
+HP 80-100 [150]
+Atk 7-9 [13]
+vs infantry +3-5
+vs monks +10
+Rof 1.8
+Armor 0/2 [3/6]
+Speed 1.4 [1.68]
+Resist conversion
+Cost 40 F 60 G 12-10[8] sec
+Up cost 500 F 400 G 45 sec
+
+Miss: fervor, sanctity, heresy, bloodlines, husbandry
+
+ALANS
+horse archers and defense
+
+-Pastures cost -40%
+-Walls, Towers and Castles are affected doubly by masonry/architecture
+UU Asvaran Archer(horse archer)
+CT-Mountain Watch: Towers and Castles +2 range
+IT-Steppe Archery: horse archers +1 atk
+TB-Horse archers are trained 25% faster
+
+Asvaran Archer
+HP 50-60 [80]
+Atk 6-7 [12]
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 1/2 [5/8]
+Speed 1.5 [1.65]
+Cost 60 W 40 G
+Zero frame delay

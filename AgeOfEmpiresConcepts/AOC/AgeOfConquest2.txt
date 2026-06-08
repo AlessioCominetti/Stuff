@@ -1,0 +1,911 @@
+MINI VERSION
+-No Dark Age, start at Feudal Age, barrack train sword,spear,bow foot soldiers.
+Stable train horse archers for some civilizations
+
+CIVS
+---China---
+-start with 1 more villager
+-Walls +35% HP
+-Spearman cost -20%
+-Advancing to the next Age is 50% faster
+UU: Zu ghe nu, guan dao, rocket cart
+Miss: Paladin
+POINTS 2150
+
+---Irish--
+-spearman cost -30%
+-swordman cost -20%
+-Barracks and Siege Workshop work 33% faster
+-can upgrade spearman to pikeman in Feudal Age
+-free battering ram upgrades
+UU: huskarl
+Miss: Paladin, Hussar, Horse Archer, Revetments
+POINTS 2000
+
+---Teutons--
+-towers and castles are built 33% faster
+-Villager and Stable units -2 second of train time
+-Missionary upgrade
+UU: Teutonic Knight, Teutonic Paladin
+Miss: Hussar, Siege Ram, Heavy Bombard, Horse Archer
+POINTS 2200
+
+---Mongols--
+-Population is already capped at 80, don't need houses
+-Stable units cost -30%
+-free horse archer upgrades, available in Castle Age
+-Archer towers cost -40%
+Miss: Bombard Tower, Stone walls, Castles, Logistics
+POINTS 4420
+
+---Turks--
+-free hussar upgrade, available in Castle Age
+-bombard cannon and towers cost -30%
+-Missionary upgrade
+-free melee attack upgrades
+UU: Jannissary, Mameluke, Sipahi cataphract
+Miss: Paladin, arbalester, 2h swordman, Logistics
+POINTS 3100
+
+---Aztecs---
+-archers cost -20%, -3 second of train time
+-free swordman upgrades
+-Barracks, Siege Workshop, Castles, Monastery works 18% faster
+-Resources last 20% longer
+UU: eagle warrior, jaguar warrior
+Miss: Stable, Bombards and bombard tower, Revetments
+POINTS 2400
+
+---Byzantines--
+-free cavalier upgrade
+-free cavalry armor upgrades
+-Missionary upgrade
+-Free fortified wall upgrade
+UU: Cataphract, Varangian Guard
+Miss: Heavy Bombard, Horse Archer
+POINTS 2900
+
+---Britons--
+-free archer attack upgrades
+-towers cost -40%
+UU: longbowman
+POINTS 2180
+
+---Spanish--
+-knights and monks cost -20%
+-villager build 50% faster, +25% HP
+-Missionary upgrade
+UU: Conquistador
+Miss: Siege Ram, arbalester, Logistics, Revetments
+POINTS 3000
+
+---Franks--
+-Stable units cost -10%
+-paladin and hussar upgrade grant +30 HP
+-free infantry armor upgrades
+UU: Throwing axeman
+Miss: Heavy Bombard, arbalester, Logistics, Revetments
+POINTS 3400
+
+DLC-EXPANSION
+---Italians---
+-Heavy Bombard upgrade is free
+-Advancing to Imperial Age cost -50%
+-free archer armor upgrades
+-Free Arbalester upgrade, available in Castle Age, grant +15 HP
+UU: Genovese Crossbowman, Swiss pikeman
+Miss: Paladin, Horse Archers
+POINTS 3300
+
+---Slavs---
+-Rams and Bombards cost -20%
+-Swordman and spearman +30 HP
+-Monastery techs cost -50%
+-Logistics affect Stable units and monks
+UU: Boyar, Winged hussar
+Miss: Arbalester
+POINTS 3700
+
+---Indians---
+-Villagers cost -20%
+-Cannot build storehouses, resources are dropped off remotely
+-Bombard cannon and battering ram +15/120 HP
+-Free wall upgrades
+UU: rattan archer, ghulam
+Miss: 2-h-swordman, paladin, hussar
+POINTS 3000
+
+---Malians---
+-All units and buildings cost -20% G, except unique unit, siege and monks
+-Free pikeman and halberdier upgrades
+-Monastery and Stables work 33% faster
+-Blacksmith upgrades cost -20%
+UU: Camel archer
+Miss: Heavy bombard, siege ram, paladin, Logistics, Revetments
+POINTS 4300
+
+Units Availability
+             Chin,Irish,Teut,Mong,Turks,Azt,Byz,Brit,Span,Franks,Ita,Slav,Ind,Egy
+Paladin:       X    X    UP        X     X                        X        X   X
+Hussar:             X    X               X                            UP   X
+Horse Archer:       X    X               X    X                   X
+Siege Ram:               X                             X                       X
+Heavy Bomb:              X               X    X             X                  X
+BT:                            X         X
+arbalester:                                            X    X          X
+2-h-sword:                         X                                       X
+
+Tiers
+A: Franks, Turks, Mongols, Spanish, Egypt, Indians, Slavs, Italians
+B: Aztecs, Britons, Irish, Chinese, Byzantines, Teutons
+
+Techs:
+---
+Age up to Castle/Imperial Age:  1000 F 200 G 120 sec / 1500 F 300 G 180 sec
+Revetments: Castles, Towers, Town Center +30% attack range: 200 G 30 sec
+---
+Passion: monks +50% HP, +20% movement speed, +50% healing power 200 G 60 sec
+Faith: monks +20% range, los, all units +50% resistence  500 F 500 G 60 sec
+Theocracy: only one monk need to rest after conversion  600 F 800 G 60 sec
+---
+-Archer/Infantry/Cavalry Armor: archers, infantry, cavalry +2/2 armor  200 F : 300 G : 100 F 300 G  60/90/120 sec
+-Ranged/Melee attack: ranged/melee units +2 atk 200 F : 300 G : 100 F 300 G 60/90/120 sec
+-Improve walls: increase wall's HP by 2000     500 F 600 G : 700 F 900 G 120/180 sec
+-Logistics: foot units occupy -20% population space 200 F 100 G 80 sec
+---
+
+BUILDINGS
+Economy
+-House: +20 population  80 G  3x3 tiles
+-Storehouse: drop off point for resources 50 G 2x2 tiles
+-Tower: can be upgrades to shoot arrows  50+100 G 1x1 tiles
+-Bombard Tower: shoot cannon balls 200 G 1x1 tiles
+-Wall: defensive barrier 10 G 1x1 tiles
+-Blacksmith: research upgrades 200 G 4x4 tiles
+Military
+-Barrack: train foot units 100 G 4x4 tiles
+-Stable: train mounted units 100 G 4x4 tiles
+-Siege Workshop: train siege units 120 G 5x5 tiles
+-Castle: train and develop special units/upgrades 600 G 5x5 tiles
+-Monastery: train and develop monks 200 G 4x4 tiles
+-Town Center: train villagers and act as a drop off point 1000 G 5x5 tiles
+
+UNITS
+---COMMON---
+ROF
+0.83 teutonic swordman, longbowman
+1.0 villager, conquistador, battering ram, light cavalry
+1.1 rocket kart, throwing axeman
+1.25 all other units
+1.5 spearman, teutonic paladin, swiss guard
+2.5 chu ko nu, guan dao
+
+SUMMARY
+STANDARD
+villager, swordman, spearman, archer
+light cavalry, heavy cavalry, horse archer
+monk, battering ram, bombard
+UU
+chu ko nu, guandao, rocket kart
+teutonic sworman, teutonic paladin, huskarl
+eagel warrior, jaguar warrior, jaguar
+jannissary, mameluke, sipahi
+cataphract, varangian guard, longbowman
+conquistador, throwing axeman, camel archer
+genoese crossbowman, swiss guard, winged hussar
+boyar, rattan archer, ghulam
+
+
+Villager (infantry)
+HP 200
+Atk 10
+Rof 1.0
+Armor 0
+Speed 24 los 15
+Cost 50 F 18 sec
+M: x4 buildings x10 walls
+Dmg: 40 to buildings 100 to walls
+
+Better suited for farming, mining, building, can occasionally destroy enemy buildings and walls
+
+Swordman (infantry)
+HP 240-300-360-400
+Atk 10-12-15-18
+Rof 1.25
+Armor 1/2-2/3-3/3-4/3
+Speed 24 los 21
+Cost 50 F 25 G 8 sec
+Up cost 300 F 300 G
+Up cost 300 F 450 G
+Up cost 400 F 650 G
+M: x2 builings x1.25 vs shock
+Dmg: 36 to buildings 22.5 to shock
+
+All around infantry unit, good at destroying buildings, weak to archers
+
+Spearman (spearman)
+HP 150-200-300
+Atk 8-10-15 
+Rof 1.5
+Armor 0-1/1-3/3
+Speed 22  los 21
+Cost 55 F 8 sec (+18% pop efficency)
+Up cost 200 F 250 G
+Up cost 400 F 550 G
+M: x2 cavalry x0.2 archers x0.6 monks x0.5 walls x0.75 musketter
+Dmg: 24 to cavalry 3 to archers 9 to monks 7.5 to walls 12 to musketter
+
+Weak infantry effective vs cavalry and other infantry units, but weak to
+all ranged attacks
+
+Archer (archer)
+HP 110-140-210
+Atk 13-17-25  
+Rof 1.25
+Armor 0-2/2-3/2
+Speed 22  
+Range 16-18-20  
+los 24-27-30
+Cost 30 F 45 G 12 sec
+Up cost 300 G
+Up cost 700 G
+M: x1.33 vs spearman x1.2 vs horse archer x1.5 vs musketter x0.75 vs cavalry/shock
+x0.3 vs walls  x0.5 vs siege
+Dmg: 30 to spearman 26 to horse archers 36 to musketter 15 to cavalry/shock 7.5 to walls 10 to siege
+
+Ranged infantry unit that excels at figthing other infantry units.
+Weak to cavalry, siege and enemy buildings.
+
+Light cavalry (cavalry)
+HP 200-300
+Atk 9-12 
+Rof 1.0
+Armor 2/4-2/5
+Speed 30  los 27  Res 400
+Cost 70 F 14 sec
+Up cost 400 G
+M: x3.5 vs monks x2.5 vs siege
+Dmg: 63 to monks 45 to siege
+
+Cheap and affordable cavalry unit, effective at harassing enemy villagers, monks and siege
+unit, and quite resilient to archers, but weak to all other melee units.
+
+Heavy Cavalry (cavalry)
+HP 340-390-420
+Atk 16-18-21
+Rof 1.25
+Armor 2/4-3/4-3/5 
+Speed 28  los 24
+Cost 80 F 45 G 15 sec
+Up cost 400 G
+Up cost 550 F 950 G
+M: x0.7 vs spearman
+Dmg: 12.5 to spearman
+
+All around melee figther, effective at many tasks, but weak to the spearmen and conversion.
+
+Horse Archer (cavalry, horse archer)
+HP 160-200
+Atk 23-32
+Rof 1.0
+Armor 2/1-3/2
+Speed 28 
+Range 19-22 
+los 27-30
+Cost 55 F 65 G 13 sec
+Up cost 700 F 600 G
+M: x0.6 vs archers x0.3 vs walls x1.33 vs spearman
+Dmg: 18 to archers 9.6 to walls 40 to spearman
+
+Ranged cavalry, effective at dealing with enemy infantry, but weak to all other
+ranged units.
+
+Monk (monk)
+HP 100-150 (Missionary 140-210)
+Heal 20-30  
+Rof 1.25
+Armor 0/4
+Speed 20 (24) 
+Range 25-30 
+Los 30-36
+Cost 100 G 25 sec (+25% pop efficency)
+
+Good at converting, especially enemy knights, and at healing wounded allies,
+but weak to ranged units, light cavalry and shock infantry
+
+Battering Ram (siege)
+HP 440-520-600
+Atk 140-160-180  
+Rof 1.0
+Armor 0
+Speed 16 los 21
+Cost 20 F 115 G 36 sec
+Up cost 450 G
+Up cost 650 G
+Take doule damage from all melee attacks (except spearman)
+Can only damage buildings
+
+Effective vs buildings, can take arrow fire, but it's very slow and
+crumbles to melee fighters.
+
+Bombard (siege)
+HP 60-75
+Atk 120-150
+Rof 1.25
+Armor 0/3-0/5
+Speed 22 
+Range 28 los 39
+Cost 80 F 220 G 36 sec  2 population
+Up cost 800 G
+M: x0.4 vs infantry x0.5 vs siege x10 vs walls x4 vs buildings
+Dmg: 60 to infantry(except spearman and guandao) 75 to siege 1500 to walls 600 to buildings
+
+Siege unit that is effective at dealing with opposing enemy buildings, but is very weak
+to all other units, except spearman at range.
+
+---UNIQUE---
+
+Chu ko nu (archer)
+HP 180-240
+Atk 13-18
+Rof 2.5
+Armor 1/4-1/5
+Speed 24 
+Range 18-21 
+los 18-27
+Cost 60 F 40 G 15 sec (+5% pop efficency, +33% pop efficency compared to archer-line)
+Up cost 650 F 750 G  <------expensive
+M: x1.33 vs spearman/horse archer x1.5 vs musketter x0.7 vs cavalry/shock
+x0.33 vs walls  x0.5 vs siege
+Dmg: 20 to spearman/horse archers 24 to musketter 9 to cavalry/shock 6 to walls 9 to siege
+Compared to Arbalester
+Arba-Chuko
+15-18 to spearman 
+13-18 to horse archers
+18-24 to musketter 
+7-8 to cavalry/shock 
+4-6 to walls 
+5-6 to siege
+
+Archer that fires twice as fast, expensive but powerful. Can be considered
+a good idea to focus in the creation of this unit instead of arbalesters for chinese.
+
+Guan Dao (infantry)
+HP 340-400
+Atk 11-16
+Rof 2.5
+Armor 2/2-3/3
+Speed 24 
+los 20
+Cost 45 F 30 G 11 sec
+Up cost 500 F 500 G
+M: x2 vs buildings
+Dmg: 32 to buildings
++60% more damage to buildings than champion
+
+A strong infantry unit. Take more damage to bombard, but otherwise, it's stronger
+version of the champion. Deal roughly 50% more damage than the champion, and 60%
+more damage to buildings, while costing slightly less. Weak against ranged
+units, especially guns.
+
+Compared to champion
+cham-guan
+20-32 to buildings 
+10-12 to shock
+8-12 to infantry
+
+Rocket Cart (siege/cavalry)
+HP 400-520
+Atk 20-28 (+1 atk)
+Rof 1.1
+Armor 0/1-1/2
+Speed 26 
+Range 19-22 
+los 27-30
+Cost 80 F 120 G 20 sec  2 population (+3% pop efficency)
+Up cost 500 F 500 G
+M: x0.5 vs walls x0.7 vs cavalry
+Dmg: 14 to walls 17 to cavalry
+Compared to Archer
+Arch-Kart
+15-12 to spearman 
+13-12 to horse archers 
+18-13 to musketter 
+7-8 to cavalry
+7-12 shock 
+4-7 to walls 
+5-11 to siege
+
+Siege unit which excels at tearing down enemy ranged units. Weak to bomabrds,
+cavalry and pikeman(up close). Compared to the bombard, it has a lot more Hp and speed
+but less range and damage, it also cost 33% less. Better use this unit to deal
+with enemy archers. 
+
+Teutonic Knight (infantry)
+HP 450-660
+Atk 35-48  
+Rof 0.83
+Armor 2/4-3/5
+Speed 22 
+los 20
+Cost 55 F 35 G 14 sec
+Up cost 500 F 500 G
+No multipliers
+
+Compared to Militia-line
+Mil-Teut
+20-24 to buildings
+10-22 to shock
+
+A very strong melee unit. Particularly effective in melee fights. Weak to
+massed ranged units.
+
+Teutonic Paladin (replace Paladin)
+HP 720-880
+Atk 16-21
+Rof 1.5
+Armor 2/4-3/6
+Speed 22 
+los 20
+Cost 80 F 45 G 15 sec (same as paladin)
+Up cost 450 F 350 G (cheaper than paladin upgrade, -100 F -600 G)
+M: x0.7 vs spearman
+Dmg: 14 to spearman
+
+A stronger version of the paladin. In particular, it has a lot of Hp, and
+attack 20% faster. Still vulnerable to spearman.
+
+Huskarl (shock)
+HP 320-440
+Atk 14-18  
+Rof 1.25
+Armor 1/5-2/6
+Speed 27 
+los 27
+Cost 40 F 30 G 10 sec
+Up cost 500 F 500 G
+M: x2 vs buildings x1.5 vs fortifications/spearman
+Dmg: 36 to buildings 27 to fortifications/spearman
+
+Infantry unit that is effective at dealing with enemy archers and
+at destroying buildings, especially castles and turrets. Also effective
+at dealing with spearman. Weak to swordman-line.
+
+Musketter (musket)
+HP 190-270
+Atk 44-60
+Rof 1.25  3 sec cooldown
+Armor 1/0-3/2
+Speed 24 
+Range 21- 24
+los 27-30
+Cost 60 F 65 G 17 sec (+8% pop efficency)
+Up cost 400 F 600 G <-----cheap on food
+M: x1.2 vs infantry x0.33 vs walls
+Dmg: 70 to infantry 20 to walls
+
+Range unit with great attack power. Great against cavalry
+and infantry, weak vs siege and archers. Very expensive and fires slowly.
+
+Mameluke (cavalry)
+HP 240-320
+Atk 32-40  
+Rof 1.25
+Armor 1/0-3/1
+Speed 28 
+Range 12-15 
+los 15-18
+Cost 60 F 60 G 18 sec
+Up cost 600 F 600 G <------expensive
+M: x1.4 vs cavalry x0.7 vs archers x0.8 vs teutonic Knights
+Dmg: 52 to cavalry 25 to archers 30 to teutonic knights
+
+Mounted unit that is effective vs other mounted units, but
+it's weak against any other unit type. Good for hit and run tactics.
+Particularly vulnerable to archers and buildings.
+
+Eagle Warrior (shock)
+HP 330-480
+Atk 14-20 
+Rof 1.25
+Armor 1/3-2/4
+Speed 27 
+los 30
+Cost 35 F 40 G 10 sec
+Up cost 950 F 150 G  <------cheap on gold
+M: x1.5 vs monks x2 vs walls x1.2 vs siege
+Dmg: 30 to monks 40 to walls 24 to siege
+
+Shock infantry. Act as cavalry for the Aztecs. Good vs monks, siege and archers,
+weak to heavy cavalry and swordman. Can be used to replace sword-line
+if the player has a lot of G and castles available.
+
+Jaguar Warrior (infantry)
+HP 240-400
+Atk 20-28
+Rof 1.25
+Armor 1/3-3/4
+Speed 25 los 20
+Cost 55 F 40 G 15 sec
+Up cost 500 F 500 G
+Take -30% damage from infantry units
+M: x2 vs buildings/walls
+Dmg: 56 to buildings/walls
+
+Effective against other infantry units and light cavalry.
+
+Jaguar (infantry)
+HP 280-400
+Atk 15-20
+Rof 1.25
+Armor 1/1-1/2
+Speed 28 los 20
+Cost 10 F 10 G 1 sec
+Take +30% damage from infantry units
+M: x0.25 vs buildings
+Dmg: 5 to buildings
+
+Cataphract (cavalry)
+HP 360-440
+Atk 15-21
+Rof 1.25
+Armor 1/3-3/6
+Speed 28  los 20
+Cost 50 F 40 G 12 sec
+Up cost 350 F 350 G  <------cheap
+M: x2 vs spearman
+take no anti cavalry bonus damage, but take standard damage from archers
+Dmg: 36 to spearman
+
+Cavalry units that is effective vs infantry units, in particular spearman.
+Doesn't take anti cavalry bonus damage, but take regular damage from ranged units.
+Cheap upgrade. Can be used in place of the paladin for the Byzantines.
+
+Varangian Guard (infantry)
+HP 255-355
+Atk 17-23
+Rof 1.25
+Armor 1/3-2/4
+Speed 24  los 20
+Cost 65 F 35 G 12 sec (+33% pop efficency compared to sword-line)
+Up cost 500 F 500 G
+Regen 9 hp per second, take -50% damage from turrets
+No multipliers
+
+Though infantry unit that can regen from his wounds pretty quickly.
+Good against other infantry, archers to a lesser extent and buildings.
+Better used for prolonged fights. Quite expensive but pop efficent.
+
+Longbowman (archer)
+HP 240-300
+Atk 18-22 
+Rof 0.83
+Armor 2/3-3/3
+Speed 24 
+Range 25-28
+los 36-39
+Cost 100 F 14 sec (+25% pop efficency)
+Up cost 500 F 500 G
+M: x0.35 vs walls
+Dmg: 8 to walls
+
+Compared to Arbalester
+Arb-Lon
+15-9 to spearman 
+13-10 to horse archers 
+18-10 to musketter 
+7-8 to cavalry/shock 
+4-4 to walls 
+5-8 to siege
+
+An archer with long range and no damage reduction vs cavalry/shock and siege, but
+no damage increase vs spearman/horse archers and musketter. Can be used to
+deal with buildings from afar, as it has the same range as bombard, but deal less
+damage to walls. When massed, they are unstoppable. They don't cost G.
+
+Conquistador (musket/cavalry)
+HP 170-220
+Atk 40-51
+Rof 1.0  3 sec cooldown
+Armor 1/0-3/0 
+Speed 28 
+Range 21 
+los 27
+Cost 65 F 55 G 16 sec
+Up cost 500 F 500 G
+M: x0.33 vs walls x1.2 vs infantry
+Dmg: 17 to walls 57 to infantry
+
+Mounted shooter. Effective vs infantry from a distance and heavy cavalry.
+Weak vs other ranged units. Expensive but powerful.
+
+Throwing axeman (infantry)
+HP 240-320
+Atk 24-32 
+Rof 1.1
+Armor 3/1-3/3
+Speed 24 
+Range 16  los 21
+Cost 50 F 50 G 15 sec  (+5% pop efficency)
+Up cost 500 F 500 G
+M: x0.75 walls x1.3 vs varangian guards
+Dmg: 24 to walls 39 to varangian guards
+
+Ranged melee unit. Deal melee damage at range. Has more HP and atk
+than archers, but it's also more expensive. Deal normal damage
+to all unit types, but more so to varangian guards. Weak to
+guns and massed archers. 
+
+Compared to archer
+11-14 to infantry
+15-14 to spearman 
+13-14 to horse archers 
+18-14 to musketter 
+7-14 to cavalry/shock 
+4-12 to walls 
+5-16 to siege
+11-18 to varangian guards
+
+_____DLC_______
+
+Genoese Crossbowman (archer)
+HP 200-280
+Atk 22-30  
+Rof 1.25
+Armor 1/2-2/3
+Speed 22  
+Range 9-10  
+los 13-15
+Cost 45 F 55 G 16 sec (+33% pop efficency)
+Up cost 350 F 650 G
+M: x1.5 vs spearman/cavalry/musketter x0.75 vs shock/walls/siege
+Dmg: 40.5 to spearman 37.5 to cavalry 42 to musketter 18 to shock/walls/siege
+Compared to Arbalester
+Arba-Geno
+15-20 to spearman
+13-21 to horse archers
+18-21 to musketter
+7-18 to cavalry (not reduced by cavalry armor)
+7-9 to shock
+4-12 to walls 
+5-9 to siege
+
+Archers that is strong against cavalry. Counter this unit with shock infantry,
+bombards, swordmen or massed archers. When massed, they are unstoppable.
+
+Swiss Pikeman (replace pikeman for italians)
+Spearman
+HP 240-360
+Atk 15-20 
+Rof 1.5
+Armor 2/2-4/4  
+Speed 22 los 20
+Cost 65 F 8 sec (+18% pop efficency)
+Up cost 250 F 250 G
+Up cost 450 F 550 G
+M: x2 cavalry x0.25 archers x0.6 monks x0.5 walls x0.75 musketter
+Dmg: 34 to cavalry  4 to archers 12 to monks 10 to walls 9 to musketter
+Compared to Halberdier
+Halb-Swiss
+12-12 to cavalry 
+2-2 to archers 
+5-6 to monks 
+4-5 to walls 
+6-6 to musketter
+
+A stronger version of the halberdier. Has more range and he's more
+effective vs other infantry units.
+
+Boyar (cavalry)
+HP 320-400
+Atk 20-28
+Rof 1.25
+Armor 6/8-8/10 
+Speed 28  los 24
+Cost 95 F 55 G 18 sec (+20% pop efficency)
+Up cost 550 F 950 G
+No bonus multiplier
+
+A paladin with more defense, but cost more. More effective
+vs infantry and archers, but weaker to guns, mamelukes, horse archers and
+other heavy infantry.
+
+Winged Hussar(upgrade of light cavalry for slavs)
+HP 300
+Atk 15
+Rof 1.0
+Armor 2/6
+Speed 36 los 30 Res 400
+Cost 70 F 14 sec (same as light cav)
+Up cost 400 F 400 G (+400 F compared to hussar upgrade)
+M: x3 vs monks x2 vs siege x1.5 vs archers x1.25 to musketter
+Dmg: 63 to monks 42 to siege 24 to archers 15 to musketter
+Comapred to hussar
+Hus-Win
+21-21 to monks
+15-14 to siege
+5-9 to archers
+4-6 to musketter
+
+A stronger version of the hussars, reserved for the Slavs.
+More effective to ranged units, in particular archers.
+Upgrade cost more, but it's often worth it.
+
+Rattan Archer (archer)
+HP 200-300
+Atk 20-28  
+Rof 1.25
+Armor 2/8-2/10
+Speed 22  
+Range 18-20 
+los 27-30
+Cost 45 F 60 G 15 sec (+40% pop efficency)
+Up cost 500 F 500 G
+M: x1.6 vs spearman/horse archer x2 vs musketter x0.8 vs cavalry/shock
+x0.4 vs walls  x0.5 vs siege
+Dmg: 35 to spearman/horse archers 52 to musketter 18 to cavalry/shock 11 to walls 11.5 to siege
+Compared to Arbalester
+Arb-Rat
+15-21 to spearman
+13-22 to horse archers
+18-26 to musketter
+7-9 to cavalry
+7-9 to shock
+4-5.6 to walls 
+5-7 to siege
+
+Archer with good pierce armors. More effective to fight other ranged units.
+
+Ghulam (shock)
+HP 380-510
+Atk 16-21
+Rof 1.25
+Armor 2/3-3/4
+Speed 27 los 27
+Cost 80 F 11 sec
+Up cost 500 F 500 G
+M: x1.4 vs spearman x2 vs buildings/walls
+Dmg: 25 to spearman 42 to buildings/walls
+
+Camel Archer (cavalry/horse archer)
+HP 200-250
+Atk 24-34
+Rof 1.25
+Armor 2/2-3/3
+Speed 28 
+Range 19-22  
+los 27-30
+Cost 75 F 75 G 16 sec (+25% pop efficency)
+Up cost 700 F 600 G
+M: x0.3 vs walls x1.5 vs spearman/cavalry
+Dmg: 10 to walls 46.5 to spearman 42 to cavalry
+Strong vs infantry and cavalry, weak to siege, archers and buildings
+Compared to horse archers
+Hor-Cam
+9-15 to archers 
+5-5 to walls 
+20-24 to spearman
+
+A horse archer that is more effective at dealing with cavalry units
+than the normal horse archer. Still weak to spearmen, if they can close the gap.
+Strong vs infantry and horse archers. Weak vs fast units, siege and buildings.
+
+Sipahi Cataphract (cavalry)
+HP 460-670
+Atk 20-28
+Rof 1.25
+Armor 6/8-8/10 
+Speed 24  los 24
+Cost 80 F 45 G 18 sec (+25% pop efficency)
+Up cost 350 F 350 G
+M: x1.5 vs buildings/infantry
+Dmg: 42 to buildings 36 to infantry 
+Doesn't take anti cavalry bonus damage, take less damage from archers
+
+Heavy cavalry reserved for turks. Effective vs infantry and archers, but it's
+vulnerable to unique units, in particular, heavy hitters, like guns and
+unique infantry units. Cheap upgrade but slow creation time.
+
+
+
+
+
+
+Similar units
+MA=Melee Armor
+PA=Pierce Armor
+
+Champion-Samurai-Berserker-Jaguar Warrior-Jaguar
+HP 400-400-360-400-400
+Atk 18-16-23-28-19
+MA 4-3-2-3-1
+PA 3-3-4-4-2
+Speed 24 los 21 Rof 1.25
+Cost 75-75-100-95-20
+Special:
+---
+Strike twice as fast
+-50% damage taken from turrets, regen 9 Hp per second
+Effective vs infantry, comes with a jaguar
+Poor vs buildings, faster (28 speed)
+
+Ghulam-Eagle warrior-Huskarl
+HP 510-470-430
+Atk 21-19-18
+MA 3-2-2
+PA 4-4-6
+Speed 27
+los 27
+Rof 1.25
+Cost 80-75-70
+Special:
+good vs spears
+good vs monks
+good vs archers
+
+Arbalester-Chu ko nu-Longbowman-Throwing Axeman-Rattan Archer
+HP 210-240-300-320-300
+Atk 26-17-22-32-29
+TA 2-2-3-3-2
+PA 3-5-3-3-10
+Range 20-20-28-16-20
+Los 30-27-40-21-30
+Rof 1.14-1.25-0.83-1.1-1.25
+Cost 75-100-100-100-105
+Special:
+---
+Strike twice as fast
+No multipliers for or against units
+Melee attack
+High pierce armor
+
+
+Paladin-Teutonic Paladin-Cataphract-Sipahi
+HP 420-880-440-670
+Atk 21-21-21-28
+TA 3-3-3-8
+PA 5-6-6-10
+Rof 1.25-1.5-1.25-1.25
+los 21
+Speed 28-22-28-24
+Cost 125-125-90-125
+Special:
+---
+---
+effective vs spearman/mameluke
+effective vs infantry/buildings
+
+Spearman-Mameluke-Swiss
+HP 300-310-360
+Atk 15-40-20
+TA 3-3-4
+PA 3-1-4
+Speed 22-28-22  los 21-18 Range 0-15-0
+Cost 55-120-65
+Special:
+---
+mounted, weak vs spearman
+stronger overall
+
+Horse Archer-Musketter-Conquistador
+HP 200-250-220
+Atk 33-60-51
+TA 2-3-3
+PA 3-2-0
+Speed 28-24-28
+Range 22-24-22
+los 30
+Rof 1.04-1.25+3-10.4+3
+Cost 120-120-120
+
+Bombard-Korean Kart
+HP 70-520
+Atk 150-28
+TA 0-1
+PA 5-2
+Speed 22-26
+Range 28-22
+los 40-30
+Rof 1.25-1.1
+Cost 300-200
+Pop 2

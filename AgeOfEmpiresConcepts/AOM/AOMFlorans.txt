@@ -1,0 +1,586 @@
+*********
+*FLORANS*
+*********
+-Start with 4 freemen, 1 mace scout
+-Start with 50 F 50 W 50 G
+-Floran buildings and units are free, but takes a lot of time to build
+-Can speed up build time with resources
+-Freeman work 35% slower than villager, but occupy no population and cost no resources
+-Favor is gained by losing units and buildings. 
+For every 25 resources lost -> +1 favor
+-floran units recover their full hp over 5 minutes, when not in battle or working.
+-Gods techs are free
+-Can turn freemen into militia, heroes or myth units
+-Can turn some military soldiers into heroes or myth units
+
+BUILDINGS
+I-House, Dock, Wooden Palisade, Temple, Mill, Storehouse, Farm
+II-Blacksmith, Town Center, Market, Tower, Stone Palisade, House of Darts, Noble House
+III-Castle, Siege Workshop
+
+WIND SON
+-start with +20 favor
+-Fallen units return +20% favor
+-Myth units cost -20% favor
+-all units deal +20% dmg to building
+-all units move 10% faster
+Spirit Walker
+Clear Winds: increase movement speed of all units in 20 range by 30% for 10 seconds
+WATER SON
+-florans recover their full hp over 3 minutes
+-Warships and myth units move 10% faster and have +10% HP
+-Speed up cost -25%
+Ninfea
+Healing Rain: all units in 40 range regen 300 hp/min for 30 seconds
+EARTH SON
+-Killed animals and enemies in los of your buildings generate favor
+-Town Centers spawn freeman and militia with each age up
+-freeman are created 20% faster
+-buildings +20% HP
+Chosen Magnolian Shield Guard
+Earthquake: deal 120 dmg over 10 seconds to units in 40 range and x10 to buildings
+
+FIRE SON
+-archers gain fire arrows special ability
+-blacksmith upgrades cost -50% F and W
+-Swordman +30% atk, but -15% HP
+Ashen Golem
+Fire Blast: set ablaze a zone of 10x30 tiles, dealing 400 true damage to both friends and foes
+ICE SON
+-archers gain ice arrows special ability
+-spearman +20% pierce/slash armor
+-Skirmisher attack apply -30% slow for 5 seconds on hit (doesn't stack)
+Snow Piercer
+Frostburn: freeze a zon of 15x15 tiles, paralizing enemies and allies alike for 1 minute.
+Paralyzed allies cannot attack or be attacked
+THUNDER SON
+-infantry units +15% movements speed
+-Swordman has a charge attack (+20 dmg over 60 sec)
+-Archers have a 5% to stun enemies for 2 seconds
+Ambra
+Static Zone: create a zone of 20x20 tiles of static electricity for 30 seconds.
+Enemies inside the zone cannot move and take 2 true damage every 0.5 seconds
+
+LEAF SON
+-All units +10% pierce armor
+-Floran units regen even in battle
+-Buildings produce a small tickle of W
+Vine Mancer
+Entangle: paralyze and posion up to 40 enemies in 15x15 zone
+METAL SON
+-Blacksmith upgrades are 50% more effective
+-Blacksmiths produce a small tickle of G
+-All infantry units +10% slash armor
+Jade Golem
+Knife Rain: summon 120 blades that will slash enemies, each dealing 20 slash damage
+SOUND SON
+-Temples produce a small tickle of favor for each unit (enemy or ally) in range, max +30
+-Alacrity: freemen move 30% faster
+-Epics of Eskatos: myth units refund their favor cost over 10 minutes
+Bard
+Enchanting Sound: apply slow -30% to enemies in 15x15 zone for 20 seconds while allies get +30% fire rate
+for the same duration
+
+TOXIC SON
+-archers dealmore poison damage, it also apply slow and paralysis
+-Buildings,myth,heroes,human,ships and siege units and freemen apply poison on contact
+-Units killed by myths spawn toxic crusaders
+Ephedra's Venom Shooter
+Venom's Son
+Acid Pool: summon a pool of acid, which melts away all enemies, dealing extra damage to myth and heroes,
+removes their multipliers and armor over time
+LIGHT SON
+-Remove the need for houses
+-All floran units generate favor when recovering health
+-Freeman can also heal, at half the rate of a shaman
+-Dying floran units return 50% of their F cost
+Lilian
+Blinding Light: summon light that stuns for 5 seconds all enemies on the map
+DARK SON
+-Floran units have a chance of returning on the battlefield with half HP.
+Chance is 0%, but it increases by 1 for each 30 favor stockpiled. Max +25%
+-Floran units attack +10% faster for 4 seconds for each fallen unit, max +50%
+-Myth units occupy -50% population
+-Orchidantha
+Dark Mist: summon a mist that deal DOT and apply slow. After the msit disappears, there a 30% chance
+for each afflicted foe to turn against each other
+
+
+
+
+TOWN CENTER
+--Freeman--
+HP 40
+Atk 6 Rof 1   3x vs myth*
+Armor 45/55%
+Speed 4
+50 W 48->22 sec 80 max
+Can be upgraded to spear or bow militia
+*With Fire Son
+--Spear militia--
+HP 85
+Atk 6 Rof 1    1.5x vs cavalry
+Armor 50/50%
+Speed 5
+80 W 2 pop 30->12 sec
+--Bow militia--
+HP 50
+Atk 4 Rof 1 1.5x vs infantry 3x vs archers
+Range 15
+Armor 30/50%
+Speed 5
+80 W 2 pop 30->12 sec
+
+
+HOUSE OF DARTS
+--Ephedra Archer--
+HP 60
+Atk 3 Rof 1   4x vs archers
+Range 18
+Armor 40/50%
+Speed 5
+100 W 2 pop 25->10 sec
+Poison: target loses 60hp/min for 10 seconds, disable healing for that much
+--Holcan--
+HP 100
+Atk 8 rof 1   3x vs cavalry
+Armor 40/10%
+Speed 5
+100 W 2 pop 25->10 sec
+Javelin: this unit deal an attack at range 8, CD 30 sec
+--Mace Scout--
+HP 80
+Atk 5  Rof 1     2x vs archers/siege
+Armor 30/60%
+Speed 5.5  los 20 (16 in Dark Age)
+80 W 2 pop 20->8 sec
+--Slinger--
+HP 50
+Atk 4/4 Rof 1    2x vs archers
+Range 18
+Armor 30/50%
+Speed 4.5
+80 W 2 pop 30->12 sec
+Armor piercing: this unit's attacks ignore 50% of the target pierce armor
+--Akon Swordman--
+HP 90
+Atk 6 Rof 1  4x vs infantry
+Armor 40/20%
+Speed 5
+80 W 2 pop 25->10 sec
+--Axe thower--
+HP 80
+Atk 6 Rof 1  2x vs infantry
+Range 10
+Armor 20/0%
+Speed 5
+100 W 2 pop 40->16 sec
+
+
+
+NOBLE HOUSE
+--Artemisian Axe warrior--
+HP 120
+Atk 8 Rof 1   3x vs infantry
+Armor 50/10%
+Speed 4.4
+100 W 2 pop 25->10 sec
+--Magnolian Shield Guard--
+HP 120
+Atk 10 Rof 1  1.5x vs archers
+Armor 20/70%
+Speed 4
+80 W 40 G 2 pop 25->10 sec
+--Cypera Sentinel--
+HP 90
+Atk 7  Rof 1   3x vs archers
+Range 16
+Armor 30/50%
+Speed 5 [6]
+Cost 120 W 3 pop 50->20 sec
+Root up: gain +20/20% armor for 8 seconds, but unit cannot move, CD 20 sec
+--Arrow Knight--
+HP 120
+Atk 10 Rof 1   3x vs ships
+Range 30 (24 vs units)
+Armor 20/80%
+Speed 4
+100 W 100 G 2 pop 60->12 sec
+Fire Arrows: Shoot fire arrows at buildings, dealing 4 dmg/sec for 30 sec
+--Obsidian Archer--
+HP 80
+Atk 6/3 Rof 1
+Range 20
+Armor 20/20%
+Speed 4
+Cost 120 W 60 G 3 pop 45->9 sec
+Pass through: arrows deal 50% pass through damage
+--Eagle Javelineer--
+HP 100
+Atk 8 Rof 1   3x vs cavalry
+Range 8
+Armor 60/30%
+Speed 4
+100 W 2 pop 25->10 sec
+
+
+TEMPLE
+Tree Shaman
+Mentis Healer
+--Obsidian Butterfly-- flier
+HP 250
+Atk 10/13 Rof 1   2x vs myth
+Blast 4  Range 4
+Armor 20/55%
+Speed 5
+100 G 2 pop 11 favour 20->8 sec
+--Skull Warrior--
+HP 150
+Atk 9 Rof 1   4x vs buildings
+Blast 2.5 damage 50%
+Armor 25/50%
+Speed 4.5
+150 G 3 pop 30->12 sec
+
+
+SIEGE WORKSHOP
+--Floran Catapult--
+HP 120
+Atk 10/60*5 Rof 5   2.5x vs ships
+Range 10-28
+Armor 40/90%
+Speed 2.4
+200 W 200 G 5 pop 100->25 sec
+--Floran Battering Ram--
+HP 500
+Atk 15/60 Rof 1
+Armor 30/95%
+Speed 3.2
+W 200 G 200 4 pop 100->20 sec
+
+
+HEROES
+Agavenger:
+A floran warrior hero from the desertic tribe of the Agave.
+Prefer to use his sword to deal with mythical units.
+HP 100-120-140-160
+Atk 3-4-5-7  Rof 1   10x vs myth
+Armor 30/30%
+Speed 5
+Cost 80 W 1 pop 1 favour  20->6 sec   max 2-5-8-10
+Resurrection: this unit has a 20% to return to the battlefield with 50% HP
+With Dark Son, chance becomes 40%, and return with full HP
+
+Aextoxicon:
+A floran archer hero from the western coasts of Florania.
+They use poison tipped arrows to deal with myth units.
+HP 110-125
+Atk 5-6 Rof 1  6x vs myth
+Range 18-20
+Armor 30/30%
+Speed 5
+Cost 100 W 1 pop 1 favour 20->6 sec  max 4-8
+Special: poison deal 120 hp/min (same multipliers) for 10 seconds, stack 10 times
+
+Bromian Guard:
+A floran warrior with solid armor. Effective vs myth units.
+Can use a bow to attack fliers.
+HP 200
+Atk 10  Rof 1    8x vs myth
+Armor 50/50%
+Speed 4
+Cost 100 W 1 pop 1 favour 20->5 sec  max 4
+Special: while recovering hp, generate 2.5 G/sec
+
+Tree Shaman:
+A powerful healer and spell caster. Effective vs myth and heroes.
+HP 100-125-150-175
+Atk 12-15-17-20 Rof 1   2x vs myth
+Blast 2.5  Range 6-12-18-20
+Armor 0/20%
+Speed 4
+Cost 200 G 2 pop 40 sec max 1-2-3-4
+
+Mentis Healer:
+A floran that can only heal, but he does so exceptionally well
+HP 70-80-90-100
+Atk 2-4-6-8 Rof 1    2x vs myth
+Heal 14-16-18-20 hp/sec range 8
+Armor 20/20
+Speed 4
+Cost 100 W 2 pop 40->10 sec max 5
+
+
+MYTH
+Spirit Walker:
+fast myth unit that can float above ground, strike enemies with powerful razor wind blades.
+Can warp between long distances.
+HP 180
+Atk 15 Rof 1  2x vs myth 0.5x vs heroes
+Range 12 [18]
+Armor 40/40%
+Speed 5.5 [6.8]
+Cost 180 W 3 pop 15 favour 24 sec
+Warp Away: when this unit take damage, warp this unit 5 tiles behind, CD 5 sec
+Sharp Wind: main attack deal 33% pass through damage
+
+Ninfea:
+Amphibious warrior that can submerge in water. Effective vs ships and squishy human units.
+HP 300
+Atk 10 Rof 1   3x vs ships
+Armor 20/20%
+Speed 5
+Cost 60 W 1 pop 5 favour 3 sec
+Submerge: this unit gain +50/50% armor while underwater
+
+Chosen Magnolian Shield Guard
+Elite version of the Magnolian Guard. High armor, but low attack. Take no bonus damage.
+HP 120
+Atk 10  Rof 1     3.5x buildings 4.5x myth 1.5x vs archers
+Armor 30/70%
+Speed 4
+Cost 80 W 80 G 2 pop 2 favour 10 sec (+40 G cost +2 favour)
+
+
+Ashen Golem
+A golem made of ash ashes. Engulf itselfs and nearby units on fire (friend and foe).
+HP 220
+Atk 10   2x vs myth  0.5x vs heroes
+Armor 50/50%
+speed 4.5
+Cost 120 G 2 pop 10 favour 14 sec
+Fire Burst: this unit explodes, dealing 100 fire damage over 5 seconds, CD 30 sec
+
+Snow Piercer
+Myth spellcaster that can shoot freezing rays.
+HP 300
+Atk 10 Rof 1
+Range 12
+Armor 70/70%
+Speed 5
+Cost 80 W 1 pop 5 favour 3 sec
+Freezing Ray: afflicted unit become frozen for 10 seconds, making it
+impossible to move or attack, and dealing 50 true damage, CD 10 sec
+
+Ambra
+Myth unit which forms ambra shields. When the shields breaks, the enemy who broke it take true damage.
+HP 250
+Atk 7 Rof 1   3x vs myth
+Range 18
+Armor 30/60%
+Speed 5
+Cost 100 G 1 pop 7 favour 10 sec
+Chain Lighting: shoot a lighting attack that damages
+multiple enemies, max 20, dealing 10 damage each bounce, CD 60 sec
+Amber Shield: summon an Amber Shield. The shield cost 70 F 1 pop 7 favour,
+has 600 hp, no armor, deal 4 true damage to attackers and when destroyed,
+explode dealing 40 true damage over 3 tiles, CD 60 sec
+Max numbers of Amber Shields = 40
+
+
+Vine Mancer
+Medium range attack, entangle enemies and poison them.
+HP 500
+Atk 20 Rof 1   2x vs myth  0.5x vs heroes
+Range 16
+Armor 60/70%
+Speed 4
+Cost 240 W 4 pop favour 24 20 sec
+Entangle: capture up to 8 different enemies (except myths, heroes, buildings,ships)
+dealing 50 true damage each and paralyzing them for 3 seconds, CD 20 sec
+
+Jade Golem
+A resistent myth unit. Better used to thank damage and destroy buildings.
+HP 2000
+Atk 50 Rof 1    2x vs myth  0.5x vs heroes
+Armor 60/80%
+Speed 3
+Cost 700 G 8 pop 60 favour 50 sec
+
+Bard
+A support unit that can boost freemen gathering rate and enhance military units attack rate.
+has a weak anti myth attack.
+HP 400
+Atk 10 Rof 1     7x vs myth
+Range 18
+Armor 40/40%
+Speed 4.4
+Cost 150 F 150 G 4 pop 24 sec  max 1
+Freemen in 6 tiles work 25% faster
+Military human and hero units attack 20% faster, gain +2x vs myths
+
+Venom's Son
+A symbios, with great stats, but takes damage when not in battle.
+HP 900
+Atk 24/40 Rof 1   3x vs myth
+Armor 55/70%
+Speed 4
+Cost 300 F 6 pop 36 favour 40 sec
+Poison Pool: spew poison over an area of 5x7, dealing 150 dmg, CD 24 sec
+Crave for the Flesh: this unit regen 180 hp/min while fighting, but
+after 30 seconds of not fighting, this unit loses 180 hp/min
+
+Ephedra Venom Shooter
+Upgraded version of the Ephedra Archer. Deal more damage to myth units
+HP 70
+Atk 5 Rof 1   3x vs archers 6x vs myth
+Range 20
+Armor 40/60%
+Speed 5
+100 W 50 G 2 pop 2 f 25->10 sec (+50 G +2 favour)
+Poison: target loses 60hp/min for 10 seconds, disable healing for that much
+
+
+Lilian
+Powerful myth unit that can turn into a hero. Uses light magic against myth units
+and bronze weapons against humans and heroes
+Myth Version
+HP 120
+Atk 10 Rof 1   2x vs myth 0.5x vs heroes
+Armor 40/10%
+Speed 5
+Hero Version
+HP 120
+Atk 9  Rof 1   6x vs myth 3x vs cavalry
+Range 12 (myths only)
+Armor 40/10%
+Speed 5
+Cost 100 F 50 G 2 pop 2 favour 20 sec
+
+
+Orchidantha
+A sneaky assassin. Can instakill many myth and hero units, but he's weak to human soldiers.
+HP 100
+Atk 10/10   2.5x vs heroes
+Armor 10/60%
+Speed 5
+Cost 160 F 4 pop 16 sec
+Stealth: when this unit stands still for more than 8 seconds,
+become stealthed, halving los of foes.
+Stealth+: negate foes los
+Piercing Stab: this unit deal 80 hack damage (with multipliers)
+to a single target, ignoring half their hack armor, CD 20 sec
+Shade Away: after taking 50 or more damage, this unit warps
+away by 10 tiles, CD 20 sec
+
+Artemisian Cutter
+Improved version of the Artemsia Warrior. Dealing more damage overall.
+HP 120
+Atk 12 Rof 1   2x vs infantry 4x vs myth
+Armor 50/10%
+Speed 4.4
+100 W 50 G 2 pop 2 favour 25->10 sec (+50 G +2 favour)
+
+Mace Champion
+Improved version of the Mace Scout. Effective vs myth units.
+HP 80
+Atk 8  Rof 1     1.25x vs archers/siege x6 vs myth
+Armor 30/60%
+Speed 6  los 20
+80 W 40 G 2 pop 2 favour 20->8 sec (+40 G cost +2 favour)
+
+Toxican Blow Pipe Warrior
+HP 30
+Atk 3 Rof 1  3x vs infantry 2x vs ships 5x vs myth
+Range 15
+Armor 20/50%
+Speed 6
+Cost 50 W 50 G 1 pop 1 favour 5 sec
+Poison Dart: deal 180 hp/min over 3 seconds, stack 10 times, disable healing, CD 60 sec
+
+Razor Leaf
+Flying floran myth unit. Deal melee damage from range.
+HP 150
+Atk 6 Rof 1  3x vs myth 2x vs humans
+Range 8
+Armor 60/60%
+Speed 7
+Cost 90 F 1 pop 8 favour 5 sec
+
+Hydragon
+Floran-dragon hybrid, with great trample damage. Effective vs human soldiers.
+HP 800 
+Atk 20/12 Rof 1  2x vs myth 0.5x vs heroes
+Blast 2.5 Range 2
+Armor 60/60%
+Speed 4
+Cost 200 G 4 pop 24 favour 20 sec
+Fury: +20% attack for each consecutive hit, max +200%,
+ability resets over 20 seconds
+
+Symbios Hoplite
+half human, half floran. Myth unit that is effective against humans, especially cavalry
+and other myth units.
+HP 300
+Atk 20 Rof 1   1.5x vs cavalry  2x vs myth  0.5x vs heroes
+Armor 40/65%
+Speed 5
+Cost 90 F 90 G 3 pop 15 favour 24 sec
+Supreme Regeneration: this unit regen 150 hp/min even in battle
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+Murmillo Hero
+Cost 95 F 55 G 2 f 2 pop 
+HP 125
+Atk 9    5.5x myth
+Armor 40/5%
+speed 4.8
+Katapeltes Hero
+Cost 105 F 60 G 2 f 2 pop
+HP 130
+Atk 6    4x cavalry 9x myth
+Armor 35/10%
+speed 4.8
+Destroyer Hero
+Cost 125 F 105 G 3 f 3 pop
+HP 165
+Atk 6   9x buildings 11x myth
+Armor 30/70%
+Speed 4
+Fanatic Hero
+Cost 130 F 95 G 3 f 3 pop
+HP 170  
+Atk 12   1.5x infantry/cavalry  6x myth
+Armor 40/15%
+speed 4.6
+
+Turma Hero
+Cost 80 W 70 G 2 f 2 pop
+HP 100
+Atk 4    4x archers 8x myth
+Range 14
+Armor 15/40%
+speed 5.3
+Arcus Hero
+Cost 105 W 60 G 2 f 2 pop
+HP 70
+Atk 6   1.25x infantry 5.5x myth
+Range 20
+Armor 15/15%
+Speed 4.4
+Contarius Hero
+Cost 115 F 70 G 3 f 3 pop
+HP 155
+Atk 10    1.5x archers 7x myth
+Armor 15/45%
+speed 6
+Cheiroballista Hero
+Cost 200 W 175 G 4 f 4 pop
+HP 120
+Atk 8      5x infantry 3x ships 8x myth
+Range 16
+Armor 20/50%
+speed 4

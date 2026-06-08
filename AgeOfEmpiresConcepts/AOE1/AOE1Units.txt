@@ -1,0 +1,48 @@
+JASON swordman
+HP 180
+Atk 20
+Armor 0/0
+Speed 1.2
+XERXES
++20 HP +3/0 armor +0.1 speed
+MARK ANTHONY
++120 HP +6/6 armor
+ACHILLES
++170 HP +5 atk +6/0 armor
+ALEXANDER  mounted
+HP 400
+Atk 22 +7 vs light infantry
+Armor 1/0
+Speed 2
+HECTOR/VERCINGETORIX mounted
+HP 350
+Atk 25   +7 vs light infantry
+Armor 2/1
+Speed 2
+CESAR/SCIPIO mounted
+HP 350/250
+Atk 15/12   +7 vs light infantry
+Armor 5/2
+Speed 2.5
+TIBERIUES/MUWATTALI chariot
+HP 250-200
+Atk 15-15
+Armor 0/0-2/0
+Speed 2.0
+PERSEUS/ODYSSEUS archer
+HP 100-90
+Atk 10-12
+Range 9-10
+Armor 3/0-1/0
+Speed 1.2
+AJAX/PERICLES/XANTHIPPUS hoplite
+HP 300/180/250
+Atk 30/24/35
+Armro 3/3-8/0-8/0
+Speed 0.9
+SHOTOKU/RAMSES horse archer
+HP 200-170
+Atk 10-7
+Range 7-7
+Armor 0/2-0/2
+Speed 2.2

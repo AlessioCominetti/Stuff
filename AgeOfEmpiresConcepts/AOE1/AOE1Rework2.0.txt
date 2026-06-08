@@ -1,0 +1,553 @@
+ADDED KUSHITES to EGYPTIAN SET
+ADDED ETRUSCANS to ROMAN SET
+DIVIDED GREEKS INTO ATENIANS AND SPARTANS
+CHANGED MACEDONIANS architecture to GREEK
+CHANGED SUMERIANS architecture to BABILONIANS
+CHANGED PHOENICIANS architecture to EGYPTIANS
+
+Civs
+Architecture set
+Roman: Romans, Carthaginians, Palmyrians, Etruscans
+Greek: Atenians, Spartans, Minoans, Macedonians
+Egyptian: Egyptians, Assirians, Kushites, Phoenicians
+Babilonian: Babilonians, Hittites, Persian, Sumerian
+Asiatic: Shang, Choson, Yamato, Lac Viet
+
+CHANGES
+-Tweaked some unit stats
+-Removed Stone Age, all civs start in Archaic Age now (Stone+Tool Age)
+-Removed clubman, villager got +5 hp.
+-Removed many indipendent units.
+-Reworked slinger into skirmisher, given to Assyrians and Hittites.
+
+CIVS
+-Roman set-
+ROMANS
+-infantry and siege
+
+-buildings cost -10%
+-towers, walls cost -20%
+-free towerupgrades
+-swordman attack 50% faster, from Bronze Age
+-Ballista +1 range
+UU Legionary(replace paragon), centurion(replace elite hoplite)
+TB Priest heal 50% faster
+Miss: Alchemy, Astrology, Afterlife
+Miss: archer 3, chariots, horse archer, elephants, cataphract, camels
+
+CARTHAGINIANS
+-cavalry and naval
+
+-hoplite, elephants, camels +25% HP
+-Start with +50 in each resource
+-Fire galley +25% attack
+-Free bloodlines
+UU noble(replace paragon)
+TB Barracks work 20% faster
+Miss: Astrology, Monotheism
+Miss: archer 3, chariots, heavy horse archer, heavy catapult
+
+PALMYRIANS
+-economy and camels
+
+-villager work 20% faster but also cost +20%
+-camels move 15% faster
+-Gold mining upgrades are free and available one age earlier
+-Trade units +20% income
+UU palmyrian cataphract(replace cataphract)
+TB Techs are researched 33% faster
+Miss: Shield 3, engineerings, monotheism, medicine
+Miss: long swordman, heavy ballista
+
+ETRUSCANS
+-defense and cavalry
+
+-all buildings have +20% HP
+-Gold and stone miner work 10% faster
+-All techs cost -20% G (except aging up)
+-Cavalry +1/1 armor
+UU satellite(replace paragon)
+TB Towers and walls are built 50% faster
+Miss: alchemy
+Miss: elephants, chariots, camels, archer 3, horse archer
+
+-Greek set-
+ATENIANS
+-infantry and naval
+
+-Ships and infantry units move 20% faster
+-Hoplite cost -20%
+-Temple techs cost -25%
+-Town Centers work 10%
+UU taxiarch(infantry that boost attack, TC)
+TB Markets and Blacksmiths cost -33%
+Miss: monotheism
+Miss: long swordman, archer 2, chariots, horse archer, elephants, cataphract, camels
+
+SPARTAN
+-infantry
+
+-Barrack technologies cost -50%
+-Hoplites attack 33% faster
+-All food income +10% (farmer +5%)
+-Siege units move 15% faster
+UU hippeus(infantry with high pierce armor, barrack)
+TB infantry +2 los
+Miss: monotheism
+Miss: archer 2, chariots, horse archer, elephants, cataphract, camels
+
+MINOANS
+-archer and naval
+
+-Farmer work 10% faster
+-Ships cost -20/25/30%
+-Foot archers get +1/2/2 range
+UU cretan archer(long range archer, archery range)
+TB Shipyard cost -20%
+Miss: wall 3, tower 3, astrology, afterlife, monotheism
+Miss: paragon, chariots, horse archer, elephants, cavalry, camels
+
+MACEDONIANS
+-infantry and cavalry
+
+-Hoplite +1/1 armor in Bronze Age, +2/2 armor in Iron Age
+-Siege units cost -25%
+-All units +2 los and resist conversion
+UU phalangite(barrack)
+TB Houses +100% HP
+Miss: engineering, medicine, astrology, monotheism
+Miss: long swordman, chariots, camels, heavy catapult, heavy ballista
+
+-Babilonian set-
+BABILONIANS
+-defense and chariots
+
+-stone miner work 20% faster
+-Towers and walls +60% HP
+-Eco techs cost -30%
+-Priest rejuvenate 50% faster
+-Chariots +1/1 armor
+UU uruk spearman(replace hoplite line)
+TB Builder work 10% faster
+Miss: Shield 2
+Miss: horse archer, elephants, cavalry, hoplite, ballista
+
+HITTITES
+-chariots and naval
+
+-Trireme +1/2/2 range
+-Horse archers and chariot archers +1 atk
+-Wheel is free
+-Catapult +50% HP
+UU kurdish chariot(replace chariot)
+TB Towers provide +4 population room
+Miss: afterlife, monotheism, medicine
+Miss: longswordman, archer 3, cavalry, ballista, hoplite
+
+PERSIANS
+-elephants and naval
+
+-Hunters work 30% faster
+-Elephants move 15% faster
+-Trireme attack 15/20/25% faster
+-Walls cost -20%
+UU Savaran(replace cataphract)
+TB Stables work 20% faster
+Miss: tower 4
+Miss: chariots, heavy catapult, ballista, hoplite
+
+SUMERIANS
+-siege and camels
+
+-Farms contain +100/125/150 F
+-villager +10/15/20 HP
+-Catapults fire 33% faster
+-camels +1/1 armor
+UU akkad chariot(replace chariot)
+TB Town Centers cost -20%
+Miss: shield 2, astrology, afterlife, monotheism
+Miss: paragon, archer 2, cavalry, ballista, hoplite
+
+-Egyptian set-
+EGYPTIANS
+-chariots and priests
+
+-Gold miner work 20% faster
+-Farms cost -20%
+-Priest +2/3 range
+-Chariots +33% HP
+UU Medjay(replace hoplite)
+TB Priests +1/1 armor
+Miss: shield 3
+Miss: long swordman, horse archer, cavalry, heavy catapult, ballista, hoplite
+
+ASSYRIANS
+-horse archers and siege
+
+-Villager move 15% faster
+-Horse archers fire 18% faster
+-Siege workshop techs cost -50%
+UU assyrian rider(horse archer, archery range)
+TB Siege workshop work 20% faster
+Miss: shield 1
+Miss: archer 3, elephants, hoplite
+
+PHOENICIANS
+-elephants and naval
+
+-Woddcutters work 20% faster
+-Elephants cost -25%
+-Catapult trireme fire 33% faster
+-Docks +40% HP
+UU Balearic slinger(anti infantry skirmisher, archery range)
+TB Archers +2 los
+Miss: horse archer, ballista
+
+KUSHITES
+-archers and priests
+
+-Priests and foot archers move 25% faster
+-Foot archers and camels cost -20%
+-Free Stone mining upgrades
+UU Nubian archer(long range archer, archery range)
+TB Temple work 20% faster
+Miss: shield 3
+Miss: horse archer, cavalry, hoplite, long swordman, chariots
+
+-Asiatic set-
+SHANG
+-economy and cavalry
+
+-villagers cost -20%, start with -40 F
+-Walls +60% HP
+-Cavalry attack 10% faster
+UU qi yang pikeman(replace hoplite)
+TB Town Centers provide +4 population room
+Miss: tower 4, engineering
+Miss: long swordman, elephants, camels, heavy catapult, camels, hoplite
+
+CHOSON
+-infantry and priests
+
+-Swordman +5/15/30/40 HP
+-Blacksmith techs cost -50%
+-Towers +2 range
+-priests cost -32%
+UU sillian guard(replace hoplite)
+TB buildings +2 los
+Miss: alchemy, engineering
+Miss: elephants, chariots, camels, hoplite, heavy catapult
+
+YAMATO
+-cavalry and naval
+
+-Ships +15/20/25% HP
+-Mounted units cost -20%
+-Fisherman work 20% faster
+-Stable and Archery Range techs cost -30%
+UU samurai(replace hoplite)
+TB Military buildings cost -25%
+Miss: tower 3, wall 2, shield 3, astrology, monotheism, medicine
+Miss: long swordman, chariots, elephants, camels, heavy catapult, ballista, hoplite
+
+LAC VIET
+-archers
+
+-Forager work 20% faster
+-All military buildings work 25% faster
+-Non ranged units +1/0 armor
+UU rattan archer(high pierce armor archer, replace foot archer)
+TB Houses and Farms are built 50% faster
+Miss: afterlife, monotheism, shield 3, engineering, tower 4
+Miss: hoplite, paragon, camels, cataphract, heavy ballista
+
+
+UNITS  -1/3 HP -1/3 Atk
+BARRACK
+axeman-swordman-long swordman-paragon
+HP 30-50-70-100
+Atk 4-7-8-10 [13]
+Armor 0/1-1/1-2/2-2/2 [5/6]
+Speed 1.0
+Cost 35 F 15 G 20 sec
+Up cost 100 F 50 G 30 sec
+Up cost 200 F 100 G 40 sec
+Up cost 1400 F 600 G 80 sec
+
+hoplite-elite hoplite
+HP 80-100
+Atk 12-20 [23]
+Armor 4/2-6/3 [9/7]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 2000 F 800 G 120 sec
+
+ARCHERY RANGE
+archer-composite archer-elite composite archer
+HP 35-45-50
+Atk 4-5-6 [10]
+Range 5-6-7
+Armor 0/0 [3/3]
+Speed 1.0
+Cost 65 F 35 G 40 sec
+Up cost 140 F 80 W 20 sec
+Up cost 180 F 120 W 40 sec
+
+skirmisher-elite skirmisher
+HP 35-50
+Atk 2-3 [7]
+vs archers +6
+vs horse archers +2
+Range 4-5
+Armor 0/4-0/6 [3/9]
+Speed 1.0
+Cost 60 F 40 W 40 sec
+Up cost 200 W 100 G 30 sec
+
+horse archer-heavy horse archer
+HP 40-60 [72]
+Atk 6-7 [11]
+Range 6-7
+Armor 0/1 [3/4]
+Speed 2.0
+Cost 60 F 60 G 50 sec
+Up cost 1600 F 800 G 100 sec
+
+Elephant archer-elite elephant archer
+HP 300-350 [420]
+Atk 6-7 [11]
+Range 6-7
+Armor 0/2 [3/5]
+Speed 1.0
+Cost 160 F 40 G 50 sec
+Up cost 1200 F 1000 G 100 sec
+
+STABLE
+scout-light cavalry
+HP 60-80 [96]
+Atk 2-4 [7]
+vs archers +2-4
+vs monks +4-8
+Armor 0/2-0/3 [3/6]
+Speed 2.0
+Cost 150 F 50 sec
+Up cost 150 F 50 G 30 sec
+
+cavalry-heavy cavalry-cataphract
+HP 100-120-150 [180]
+Atk 6-8-10 [13]
+vs swordman +3-3-5
+Armor 2/2-3/2-5/2 [7/5]
+Speed 1.7
+Cost 80 F 70 G 50 sec
+Up cost 300 F 150 G 30 sec
+Up cost 1600 F 600 G 120 sec
+
+chariot-scythed chariot
+HP 70-80 [96]
+Lance--
+Atk 6-8 [11]
+Trample 50% area 0.75
+Bow--
+Atk 4 [8]
+Range 6-7
+--
+Armor 1/1-2/2 [5/5]
+Speed 1.7
+Cost 50 F 50 W 40 sec
+Up cost 1400 W 1000 G 100 sec
+
+war elephant-heavy war elephant
+HP 300-350 [420]
+Atk 8-10 [13]
+vs cavalry +4-5
+vs buildings +25-35
+Armor 1/2-2/2 [5/5]
+Speed 1.0
+Cost 160 F 40 G 50 sec
+Up cost 1200 F 1000 G 100 sec
+
+camel rider-heavy camel rider
+HP 80-100 [120]
+Atk 5-8 [11]
+vs cavalry +6-12
+Armor 0/0 [3/3]
+Speed 1.7
+Cost 50 F 50 G 40 sec
+Up cost 300 F 300 G 40 sec
+
+SIEGE WORKSHOP
+catapult-heavy catapult
+HP 70-100
+Atk 40
+vs buildings +100
+Blast 1.25-1.5 Rof/4
+Range 8-10 [12]
+Armor 0/6-0/8
+Speed 0.7
+Cost 200 W 100 G 60 sec
+Up cost 2000 F 1200 W 100 sec
+
+ballista-heavy ballista
+HP 35-40
+Atk 28-34
+Range 7 [9]
+Armor 0/4-0/6
+Speed 0.7
+Cost 100 W 100 G 50 sec
+Up cost 1200 F 1000 W 100 sec
+
+battering ram-heavy ram
+HP 100-140
+Atk 1
+vs buildings +40-50
+Armor 0/35
+Speed 0.7
+Cost 100 W 50 G 30 sec
+Up cost 1000 F 600 W 50 sec
+
+SHIPYARD
+Scout galley-war galley-Trireme
+HP 80-110-140
+Atk 3-6-8 [12]
+vs ships +2-3-4
+Range 5-6-7
+Armor 0/2-0/3-0/4
+Speed 1.7
+Cost 150 W 35-28-21 sec
+
+Fire ship-fast fire ship
+HP 110-140
+Atk 15-20
+Range 1
+Armor 0/2
+Speed 2.0
+Cost 100 W 50 G 28-21 sec
+
+Catapult trireme-heavy catapult trireme
+HP 110-140
+Atk 25-30
+vs buildings +100
+Blast 1.25-1.5 Rof/4
+Range 8-9 [11]
+Armor 0/2
+Speed 1.5
+Cost 150 W 50 G 50 sec
+
+Fishing ship
+HP 30-50
+Armor 0/0
+Speed 1.5
+Cost 50 W 20 sec
+
+OTHERS
+Priest
+HP 30
+Heal 4 hp/sec
+Range 7 [9]
+Speed 1.0
+Cost 125 G 50 sec
+
+Villager
+HP 30 [40]
+Atk 3 [6]
+Armor 0/0
+Speed 1.0 [1.4]
+Cost 50 F 20 sec
+
+
+
+DAMAGA TABLE (hits taken -^)
+Tool Age       vils  | axeman | archer | slinger | tower | scout | scoutgalley
+villager        9->10   6->6     14->10   14->10   14->10  8->10    8->8
+axeman         50->30   10->8    10->6    17->10   17->15  17->15   10->8  
+  
+slinger        25->50   5->9     25->35   9->6     25->35  5->9     13->35
+archer         35->40   7->9     12->12   6->5     12->18  6->9     7->12   
+ 
+scout          69->60   14->15   69->36   69->72   69->72  23->23   23->36   
+scout galley   5->8     16->16   40->27   40->80   40->27  24->20   24->20
+
+Bronze Age         swordman|hoplite|archer|archer2|e. skirm|h. archer|e. archer|l. cav|cavalry|chariot|war e.|catapult|galley1|galley2 | camel
+villager            2->3    2->2    14->5  10->5   10->6     6->4      7->4     6->5    4->4    4->4    3->3    1->1    8->8    5->4      5->6
+swordman           10->9    5->5    40->13 27->10  40->17    14->9     16->9    20->17  7->7    14->10  6->7    2->2    20->13  12->7     14->13
+hoplite            30->27   10->10  60->40 40->27  60->80    20->20    24->20   120->120 40->40 60->40  12->20  3->3    30->40  17->16    120->80
+
+archer             4->5     3->3    12->9  9->7    6->4      5->5       5->5    4->4    5->5     5->6   4->5    1->1    7->12   5->6      5->7
+archer2            5->6     3->4    14->10 10->8   7->5      6->7       7->7    4->5    5->5     6->7   5->5    1->1    8->14   5->7      6->8
+e. skirmisher      3->8     2->5    25->50 25->50  9->9      25->50     25->50  3->7    4->7     4->10  2->7    1->2    25->50  13->50    4->10
+h. archer          8->7     5->4    35->16 23->12  14->6     12->10     14->10  7->6    9->8     10->10 5->6    2->2    18->35  10->10    5->5
+e. archer          68->52   36->30  200->180 150->120 100->52 86->90   100->90 60->45  75->60   86->72 40->45  10->9   120->360 75->90    40->33
+
+l. cavalry         13->14   7->8    138->96 69->48  138->96  28->32     35->32  28->24  18->16    20->20 10->16  3->3   28->96   23->32   9->9
+cavalry            22->20   10->10  75->50  50->34  75->100  25->25     30->25  75->50  25->25    30->34 12->10  3->3   38->100  22->25   13->14
+chariot            13->14   7->8    38->28  30->21  39->42   17->17     20->17  23->28  15->17    17->21 8->8    3->3   23->21   15->17   8->8
+war elephant       67->60   36->33  200->180 150->120 200->180 86->90  100->90  120->120 75->72   86->90 40->52  10->9  120->180 75->72   40->33
+camel rider        16->14   9->8    47->24  36->20  47->24   21->16    24->16   29->24   18->16   21->20  10->8  3->3   29->32   18->16   10->9
+
+catapult          6->10    5->6     75->70  75->70  75->70   38->70    75->70   7->10   5->7    7->10    5->7   2->2    75->70   15->35   7->10
+scout galley      10->9    8->7     40->27  30->16  40->27   18->14    20->14   10->10  10->10  11->12   8->8   3->2    24->16   15->10   10->9
+war galley        13->13   9->8     54->32  40->22  54->32   23->19    27->19   18->19  18->19  15->16   11->11  3->3   32->22   20->14   18->16
+
+Iron Age       l-sword|paragon|e.hoplite|archer2|archer3|e.skir|h.archer|hh.archer|e.archer|ee.archer|h.cavalry|cata|s.chariot|e.ware|h.camel|ball|h.ball|galley2|galley3
+villager
+longswordman
+paragon
+e. hoplite
+
+archer2
+archer 3
+e. skirmisher
+horse archer
+h. horse archer
+elephant archer
+e. elephant archer
+
+h. cavalry
+cataphract
+s. chariot
+e. war elephant
+h. camel rider
+
+catapult
+h. catapult
+ballista
+h. ballista
+
+war galley
+trireme
+
+
+
+TECHNOLOGIES
+ECO
+farm: farms +100 F
+wood: woodcutter work 20% faster
+stone: stone miner work 20% faster
+gold: gold miner work 20% faster
+wheel: villager +40% movement speed
+BLACKSMITH
+melee attack: melee units +1 atk
+ranged attack: ranged units +1 atk
+melee armor: all military units +1/0 armor
+ranged armor: all military units +0/1 armor
+TEMPLE
+astrology: priest heal/convert 50% faster
+medicine: priest heal/rejuv 50% faster
+afterlife: priest +2 conversion range
+monotheism: priest can convert other priests
+UNIVERSITY
+bloodlines: mounted units +20% HP
+architecture: buildings +20% HP, -33% building time
+siege engineers: catapults, ballista +2 range
+chemistry: ranged units +0/1 armor
+gambeson: infantry units +0/1 armor
+
+BUILDINGS Cost HP
+House     30 W 250
+Storehouse/Granary 150 W 1200
+Barrack/Archery Range/Stable/Siege Workshop/Dock/Blacksmith/University/Temple 200 W 1200
+Town Center 200 W 2000
+Wall 5 S 1000-1500-2000
+Tower 150 S 400-600-800  Atk 3-4-5-10 [14]
+Wonder 1000 W/S/G 1200 HP

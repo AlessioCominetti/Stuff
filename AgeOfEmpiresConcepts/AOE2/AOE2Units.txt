@@ -1,0 +1,307 @@
+Dervisher
+Saracen unique unit. A strong and fast mounted swordman. Effective vs archers at close range, infantry, monks
+and siege units. Weak vs archers at long range, camels, pikeman and buildings.
+HP 105-155 [175]
+Atk 14-18 [22]
+vs infantry +3
+Rof 1.8-1.7
+Armor 1/2 [4/6]
+cavalry armor 2-3
+Speed 1.5 [1.65]
+Cost 60 F 90 G 20-16 sec
+Up cost 1250 F 750 G 80 sec
+
+
+Abtai
+Egyptian unique unit. Foot archer with good armor and hitpoints,
+but low range. Gets bonus damage for targets within 3 tiles.
+HP 60-75
+Atk 8-9 [13]
+vs spear +2-3
+Rof 2.2
+Range 4 [7]
+Accuracy 45-60%
+Armor 2/0 [5/4]
+Speed 0.9
+Cost 75 W 45 G 20-16 sec
+Up cost 1100 W 800 G 50 sec
+Special: +3/5 atk when enemies are within 3 tiles
+
+
+Arsiyah
+Slow moving but heavily armored horse archer. Weak vs monks.
+HP 45-55 [75]
+Atk 7-8 [12]
+vs spear +2-6 [8]
+Rof 2.0
+Range 4 [7]
+Accuracy 65-80%
+Armor 2/1-3/1 [7/7]
+Speed 1.35 [1.48]
+Cost 50 W 70 G 18-15 sec
+Up cost 1000 F 600 G 60 sec
+
+Aspet
+Heavy cavalry that is effective vs other cavalry units,
+but not camels
+HP 100-130 [150]
+Atk 10-12 [16]
+vs cavalry +8-16
+Rof 2.0
+Armor 2/0-3/1 [6/5]
+Speed 1.35 [1.48]
+Cost 90 F 60 G 24-20 sec
+Up cost 900 F 450 G 45 sec
+
+
+Heavy Lancer
+Heavy cavalry effective vs other mounted units,in particular, effective
+vs elephants, camels, cavalier and light cavalry, and can deal with
+some infantry units. Weak to ranged attacks, in particular, weak to arrows.
+Replace camel riders for all civs who don't have them.
+HP 100-130 [150]
+Atk 12-15 [19]
+vs cavalry +12-18
+vs elephants +12-18
+vs camels +10-15
+Rof 2.0
+Range 1
+Armor 0/0-0/1 [3/5]
+Speed 1.4 [1.54]
+Cost 105 F 60 G 36-30 sec
+Up cost 900 F 900 G 80 sec
+
+European Lancer
+Improved version of the steppe lancer, with stats more
+similar to a knight.
+HP 80-105 [125]
+Atk 11-14 [18]
+Rof 2.0
+Range 1
+Armor 1/1-1/2 [4/6]
+Speed 1.4 [1.54]
+Cost 85 F 50 G 30-25 sec
+Up cost 750 F 700 G 70 sec
+
+
+
+
+
+
+Legionary
+HP 70-90
+Atk 10-14 [18]
+vs buildings +2+2 [6]
+vs shock +2+2 [4]
+vs cavalry +2+2 [4]
+Rof 1.8
+Armor 2/2-3/3 [6/7]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 27 sec
+Up cost 800 F 400 G 80 sec
+
+-------
+Gallic swordman-elite gallic swordman
+HP 50-60
+Atk 8-10 [14]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 45 F 15 G 18 sec
+Up cost 600 F 300 G 60 sec
+
+Gallic spearman-elite gallic spearman
+HP 60-75
+Atk 7-10 [14]
+vs cavalry +7+10
+Rof 2.0
+Armor 1/3-2/4 [5/8]
+Speed 1.0 [1.1]
+Cost 40 F 30 G 22 sec
+Up cost 500 F 400 G 60 sec
+Special: ignore one attack, melee or ranged,
+every 30 seconds.
+
+Gallic axeman-elite gallic axeman
+HP 60-75
+Atk 16-20 [24]
+vs buildings +6+4 [12]
+Rof 2.4
+Armor 6/1-7/2 [10/6]
+Speed 0.8 [0.88]
+Cost 40 F 40 G 24 sec
+Up cost 800 F 600 G 80 sec
+
+Gallic woman warrior-elite gallic woman warrior
+HP 70-85
+Atk 10-15 [19]
+Rof 2.0
+Armor 5/3-7/4 [10/8]
+Speed 1.1 [1.21]
+Cost 60 F 60 G 20-16 sec
+Up cost 1200 F 600 G 60 sec
+Special: instakill target if it has less than 40-50% HP
+
+Slinger
+HP 35-40
+Atk 4-5 [9]
+vs infantry +2+1
+vs buildings +1+1
+Rof 2.0
+Range 4-5 [8]
+Armor 1/2-1/2 [4/6]
+Speed 1.0
+Cost 40 F 40 G 24 sec
+Up cost 400 F 200 G 40 sec
+Special: attacks ignore 50% of target's pierce armor, rounded down. Ex. 7->4
+
+Teutonic Rider-elite Teutonic Rider
+HP 100-130 [150]
+Atk 10-14 [18]
+Rof 2.0
+Armor 3/2-4/2 [7/6]
+Speed 1.4 [1.54]
+Cost 75 F 75 G 30 sec
+Up cost 400 F 400 G 40 sec
+
+Teutonic Horse Archer-elite Teutonic Horse Archer
+HP 80-100 [120]
+Atk 5-6 [10]
+Rof 2.0
+Range 5 [8]
+Armor 1/0 [5/6]
+Speed 1.4 [1.54]
+Cost 75 F 75 G 30 sec
+Up cost 400 F 400 G 40 sec
+
+Suebian Maceman
+HP 125-150
+Atk 14-18 [22]
+Rof 2.4
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 120 F 30 sec
+Up cost 600 F 400 G 80 sec
+
+
+
+
+
+Bactrian Archer
+HP 60
+Atk 6 [10]
+vs spear +2
+vs cavalry +5
+Rof 1.8 [1.6]
+Range 5 [8]
+Armor 3/1 [6/5]
+Speed 0.96
+Cost 60 W 55 G 27 sec  limit 18
+
+Cretan Archer
+HP 45
+Atk 8 [12]
+vs spear +2
+Rof 2.1 [1.8]
+Range 6 [9]
+Armor 0/1 [3/5]
+Speed 0.9
+Cost 60 W 55 G 16 sec limit 18
+
+Ekdromos
+HP 80
+Atk 13 [17]
+vs shock +6
+vs buildings +3 [5]
+Rof 2.0
+Armor 1/3 [4/7]
+Speed 0.9 [0.99]
+Cost 70 F 30 G 21 sec limit 24
+
+Greek Noble Cavalry
+HP 150 [170]
+Atk 11 [15]
+Rof 1.9
+Armor 3/4 [6/8]
+Speed 1.35
+Cost 70 F 85 G 30 sec limit 12
+
+Mercenary Hoplite
+HP 70
+Atk 11 [15]
+vs buildings +4 [6]
+Rof 2.0
+range 0.5
+Armor 3/1 [6/5]
+Speed 0.9 [0.99]
+Cost 70 F 40 G 21 sec limit 20
+
+Rhodian Slinger
+HP 40
+Atk 1 [5]
+vs infantry +15
+vs spear +1
+Rof 2.0
+Range 5 [8]
+Armor 0/0 [3/4]
+Speed 1.0
+Cost 35 F 25 G 25 sec
+
+Sacred Band
+HP 65
+Atk 13 [17]
+vs buildings +2 [4]
+Rof 2.0
+Range 0.5
+Armor 0/1 [6/8]
+Speed 0.9 [0.99]
+Cost 55 F 30 G 25 sec
+Special: gain +1/1 armor for each other sacred band, max +3
+gain 60 hp/min regen for each other sacred band in 4 tiles
+
+Scythian Horse Archer
+HP 50-60 [80]
+Atk 6-8 [11]
+vs spear +2-4 [8]
+Rof 2.0 [1.7]
+Range 5-6 [8]
+Accuracy 50-80% [100%]
+Armor 0/1 [4/7]
+Speed 1.4 [1.54]
+Cost 45 W 65 G 34-27 sec
+Up cost 800 F 700 G 50 sec
+Special: generate 2-3 G for each kill
+
+Sickle Warrior
+HP 65
+Atk 6 [10]
+vs shock +2
+vs buildings +0 [2]
+Rof 1.33
+Armor 0/2 [3/6]
+Speed 1.1 [1.21]
+Cost 50 F 50 G 20 sec
+Special: attack strips armor from target
+
+Sparabara
+HP 70
+Atk 7 [11]
+vs shock +2
+vs buildings +1 [3]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.2
+Cost 30 F 20 G 7 sec
+Special: allies in 3 tiles get +0/2 armor
+
+Tarantine Cavalry
+HP 60 [80]
+Atk 4 [8]
+vs archers/spear +4
+vs cav archer +2
+vs infantry +3
+Rof 2.7
+Range 6 [9]
+Armor 1/2 [4/6]
+Speed 1.35 [1.48]
+Cost 50 F 50 W 25 sec

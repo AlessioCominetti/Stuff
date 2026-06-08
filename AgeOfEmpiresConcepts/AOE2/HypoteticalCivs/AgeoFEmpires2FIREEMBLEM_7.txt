@@ -1,0 +1,242 @@
+UNITA PER FIRE EMBLEM
+
+Heavy Cavalry-Elite Heavy cavalry (boyar)
+Regional heavy cavalry available at the stables.
+HP 125-160 [180]
+Atk 14-18 [22]
+Rof 2.1
+Armor 4/2-8/3 [11/7]
+Speed 1.3 [1.43]
+Cost 70 F 85 G 36 sec
+Up cost 1200 F 700 G 120 sec
+
+Sniper
+Replace crossbowman and arbalester
+Same stats and upgrades
+
+Figther
+Infantry with good attack but low armor.
+Available at the barracks
+HP 55-70-85
+Atk 8-12-18 [22]
+vs buildings +2-4-6 [8]
+Rof 2.4
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 65 F 10 G 24 sec
+Up cost 200 F 100 G 30 sec
+Up cost 700 F 350 G 50 sec
+
+These units can be trained at the barracks
+from Castle Age. Simply a rename.
+Swordmaster-samurai
+Armor Knight-teutonic Knight
+Berserker-berserker
+
+No gunpowder units, catapult galleon replace cannon galleon.
+The sole exception is ELYOS, who has all 4 gunwpoder units.
+
+
+FANTASY UNITS: UNDECIDED IF TO PUT THEM
+Pegasus rider
+Wyvern rider
+Mage
+
+CIVILIZATIONS
+
+ARKANEANS
+cavalry and naval civilization
+
+-Mounted units and warships cost -20% G
+-Monks +1 range
+-Barrack units regen 5/10/15 hp/min
+-Free Hoardings
+UU Dread fighter(infantry)
+CT-Blood of Naga: monks convert 33% faster
+IT-King's Legacy: knights, heavy cavalry
+and hulk-line +1/1 armor
+TB-Stables and Docks work 10% faster
+
+Dread fighter
+HP 65-75
+Atk 10-14 [18]
+vs monks +5
+Rof 1.5
+Armor 1/0 [4/4]
+Speed 1.2 [1.32]
+Cost 50 F 30 G 17-15 sec
+Up cost 800 F 600 G 60 sec
+Immun to conversion
+
+JUGDRALS
+cavalry and monks civilization
+
+-Mounted melee units +1/2/3 atk
+-All units cost -20% W and -10% G
+UU Crusader(cavalry), Thracia Raider(skirmisher/cavalry)
+CT-Crusader Bloodlines: mounted units +10% HP
+IT-Loptian Church: Monastery techs and spies cost -50%
+TB-Military buildings work 5% faster
+
+Crusader
+HP 100-140 [174]
+Atk 10-14 [21]
+Rof 1.8
+Armor 3/2-4/3 [7/7]
+Speed 1.45 [1.6]
+Cost 60 F 100[90] G 18 sec
+Up cost 1200 F 900 G 75 sec
+Immune to conversion
+
+Thracia Raider
+HP 60-70 [97]
+Atk 4-5 [9]
+vs archers +3-4
+vs spear +2
+vs horse archers +2
+Rof 3.0
+Range 4 [7]
+Armor 0/4 [3/8]
+Speed 1.45 [1.6]
+Cost 50 F 50[40] W 30 sec
+Up cost 600 F 550 W 75 sec
+
+Militia: -2 G cost (3%)
+Spearman: -5 W cost (9%)
+Archer: -5 W -5 G cost (14%)
+Skirmisher: -7 W cost (9%)
+Horse archer: -8 W -6 G cost (14%)
+Cavalier: -8 G cost (6%)
+Onager: -32 W -14 G cost (15%)
+Scorpio: -15 W -8 G cost (15%)
+Ram: -32 W -8 G cost (17%)
+Siege tower: -20 W -12 G cost (14%)
+Trebuchet: -40 W -20 G cost (15%)
+Monks: -10 G cost (10%)
+Petard: -3 G cost (3%)
+
+ELIBEANS
+horse archers and cavalry civilization
+
+-Horse archers +1 atk
+-skirmishers, spearman move 10% faster
+-Mounted units cost -10% F and take -2 dmg from buildings
+UU Sacae warrior(horse archer)
+CT-Scouring: monks take -3 damage from mounted units
+IT-Bernian Forging: all melee units +2 atk
+TB-Towers +1 range
+
+Sacae warrior: horse archer with +1 range
+and +1 atk with civ bonus, move 5% faster
+and cost +20 W
+
+
+MAGVELIANS
+archers and monks civilization
+
+-Barrack units cost -30% G
+-Arson, squires provide +50% boost
+-Free Sniper upgrades
+-Researching Heresy spawn a relic in that monastery
+UU Sacred knight(cavalry)
+CT-Sacred Twins: monks +1 range and +2/2 armor
+IT-Frelian corps: Barrack units +4 dmg vs unique units
+TB-Monasteries cost -20%
+
+Sacred Knight
+HP 90-130 [150]
+Atk 9-12 [16]
+vs unique units +7-10
+Rof 1.8
+Armor 3/2-5/3 [8/7]
+Speed 1.4 [1.54]
+Cost 65 F 75 G 30 sec
+Up cost 1000 F 750 G 60 sec
+Resist conversion
+
+TELLIUS
+infantry and cavalry civilization
+
+-Monks cost -25%
+-infantry are affected by husbandry
+-Blacksmith upgrades cost -50% F
+UU Laguz warrior(infantry)
+CT-Ashera Blessing: buildings +20% HP
+IT-Weapon mastery: melee units deal +50% bonus damage
+TB-Mounted units +1 los
+
+Laguz Warrior
+HP 75-90
+Atk 11-15 [19]
+Rof 1.8
+Armor 1/0 [4/4]
+Speed 1.2 [1.44]
+Cost 50 F 40 G 15-12 sec
+Up cost 850 F 450 G 60 sec
+Special: +50% fire rate for 10 sec, CD 60 sec
+
+ELIOS
+elite civilization
+
+-Units are available one age earlier, from Feudal Age
+-Bracer available in Castle Age
+-All technologies and upgrades cost -30% F
+UU Firene knight(cavalry), Solm archer(horse archer)
+CT-Brodia Steel: melee cavalry +3 atk
+IT-Elusian Pact: monks resist conversion, team unique units cost -10%
+TB-Markets and blacksmiths cost -25%
+
+Firene Knight
+HP 90-140 [160]
+Atk 9-13 [17]
+vs infantry +4-6
+Rof 1.8
+Armor 2/2-3/3 [6/7]
+Speed 1.4 [1.54]
+Cost 70[63] F 70[63] G 15 sec
+Up cost 1000[700] F 700 G 60 sec
+
+Solm archer: replace horse archers
+HP 45-55 [75]
+Atk 6-7 [11]
+vs spear +1 [3]
+Rof 1.9 [1.6]
+Accuracy 65-75% [100%]
+Range 4 [7]
+Armor 1/1 [5/7]
+Speed 1.45 [1.6]
+Cost 50 W 60 G 30 sec
+Up cost 1000[700] F 600 G 100 sec
+
+FODLAN
+cavalry and archers civilization
+
+-Imperial Blacksmith techs are available in Castle Age
+-Mounted units and archers +15% HP
+-Garrisoned relics improve villager gathering rate by 2% each (max +10%)
+UU Seiros cavalier(cavalry), War Master(infantry)
+CT-Crest Research: all units +1 atk
+IT-Seiros Lybrary: monks +3 range
+TB-Military technologies are researched 50% faster
+
+Seiros cavalier
+HP 70-100 [135]
+Atk 11-14 [19]
+vs infantry +4-5
+Rof 1.8
+Armor 4/3-6/4 [9/8]
+Speed 1.3 [1.43]
+Cost 75 F 65 G 15 sec
+Up cost 1000 F 800 G 60 sec
+Special: infantry units in 10 tiles
+deal +2/3 dmg to infantry
+
+War Master
+HP 90-100
+Atk 12-14 [19]
+Trample 25% damage 0.5 tiles
+Rof 2.0
+Armor 5/4-7/5 [12/9]
+Speed 0.96 [1.05]
+Cost 100 F 80 G 30 sec
+Up cost 1200 F 700 G 100 sec

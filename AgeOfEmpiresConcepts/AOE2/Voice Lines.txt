@@ -1,0 +1,96 @@
+BASED ON NORTH ALBANIANS
+
+Yes-  Po
+No-  jo
+Hello- Përshëndetje
+What?- Cfare?
+What's up?- C'kemi? / Qysh je?
+How are you?- si jeni?
+Ready- gati
+What shall I do?- cfare te bej?
+Surely- sigurisht
+Truly- vertet
+I'll go over there-  do te Shkoj atje
+Builder-  ndertues
+Woodcutter- druvar
+Paesant- fshatar
+Fisher- peshkatar
+Scavenge- pmbledh / kerkoj / germoj
+Hunter-  gjahtar
+Repairer- riparues
+Attack-  sulmo
+To battle!-  Luftoni!
+Kill them!- vrasin ata!
+What do you want?- cfare doni?
+What is your order?-  cila eshte porosia juaj?
+What can I do for you?- cfare mund te bej per ty?
+
+Water- uje
+Fire- drite
+Earth- dheu
+Light- zjarri
+Ice- akull
+Dark- erret
+Wind- era
+Thunder- bubulima
+Wood- druri
+Toxic- toksike
+Metal- metalike
+Sound- tingull
+
+"Hello, I'm Elise, I'm 18 years old and I come from the Ice Guild of Shiperia.
+My parents are the leaders of the Ice Guild. I've been studying ice magic at school
+since I have memory."
+----
+"Përshëndetje, unë jam Elise, jam 18 vjeç dhe vij nga Shoqata e Akullit e Shiperisë.
+Prindërit e mi janë udhëheqësit e Shoqatës së Akullit. Kam studiuar magjinë e akullit në shkollë
+që kur kam kujtesë."
+
+NAHUATL GUATEMALA
+
+Yes-  Ej
+No-   Amo
+What?-  Taj?
+What's up?-  Taj tuni?
+How are you?-  Kema timitsneki?
+Ready-  Tayek
+What shall I do-  Taj nikchiwa?
+Surely-   Nimitz
+Truly-  Melajka
+I'll go over there-  Niyawi nepa
+Builder-  Kalchijki
+Woodcutter-  Kuawtsakani
+Paesant-  Milpajkat
+Fisher-  Michi-mijki
+Scavenge-  Tlamanijki
+Hunter-  Tlamijki
+Repairer-  Tlapajpiani
+Attack-  Tikuani!
+To battle!-  Titeyok!
+What do you want?-  Taj tikneki?
+What is your order?-  Taj tichikawilia?
+What can I do for you?-  Taj nikchiwa para te?
+
+ZAPOTEC
+
+Yes-  ?e?
+No-   ma?
+Ready-   te?na
+Let's go-  ruya?
+I'll go there-  naya?
+Attack-  ruto?
+To battle-  ruka?na
+Builder-  kaltani
+Woodcutter-  ya?tani
+Farmer- miltani
+Fisherman-  mi?tani
+Hunter-  to?tani
+Repairer- pa?tani
+What do you want?-  ti?a?
+What is your order?-  tika?ni?
+What should I do?- tinatani?
+Truly-  mela
+Surely-  ?e?mela
+What?-  ti?
+
+?-> occlusiva glottale

@@ -1,0 +1,374 @@
+AZTECS
+🛕 Divinità Maggiori
+1. Quetzalcoatl – Dio del vento, della conoscenza e della creazione
+Bonus passivo: +10% velocità di raccolta oro e cibo.
+Divinità minori: Xochiquetzal, Xiuhtecuhtli.
+
+2. Huitzilopochtli – Dio del sole e della guerra
+Bonus passivo: +15% danno corpo a corpo per unità militari.
+Divinità minori: Tonatiuh, Tezcatlipoca.
+
+3. Tlaloc – Dio della pioggia e della fertilità
+Bonus passivo: +20% produzione di cibo da fattorie e pesca.
+
+Divinità minori: Chalchiuhtlicue, Mictlantecuhtli.
+
+🌟 Divinità Minori (6 totali)
+Ogni divinità minore offre:
+1 bonus passivo
+1 potere divino
+1 unità mitologica
+
+🔸 Xochiquetzal (con Quetzalcoatl)
+Bonus: guarigione passiva delle unità vicine.
+Potere: Fioritura sacra – crea un’area che cura le unità.
+Unità mitica: Spirito del Fiore – creatura eterea che rallenta i nemici con profumo magico.
+
+🔸 Xiuhtecuhtli (con Quetzalcoatl)
+Bonus: +20% velocità di ricerca tecnologica.
+Potere: Fiamma eterna – brucia edifici nemici lentamente.
+Unità mitica: Serpente di Fuoco (Xiuhcoatl) – attacco a distanza con danno ad area.
+
+🔸 Tonatiuh (con Huitzilopochtli)
+Bonus: +20% velocità di attacco per fanteria.
+Potere: Irradiazione solare – acceca temporaneamente le unità nemiche.
+Unità mitica: Guerriero Solare – resistente, bonus contro unità mitiche.
+
+🔸 Tezcatlipoca (con Huitzilopochtli)
+Bonus: +25% resistenza magica.
+Potere: Specchio fumante – confonde le unità nemiche (cambia bersaglio).
+Unità mitica: Jaguar Ombra – invisibile finché non attacca, forte contro arcieri.
+
+🔸 Chalchiuhtlicue (con Tlaloc)
+Bonus: +25% velocità di raccolta pesce.
+Potere: Inondazione – rallenta e danneggia unità nemiche in acqua.
+Unità mitica: Donna Pesce – attacca con onde magiche, bonus in acqua.
+
+🔸 Mictlantecuhtli (con Tlaloc)
+Bonus: +10% produzione di favore da sacrifici.
+Potere: Evocazione dei Morti – rianima unità cadute come spiriti temporanei.
+Unità mitica: Cane dell’Oltretomba (Xolotl) – guida le anime, bonus contro eroi.
+
+🧙‍♂️ Eroi
+Warchief: eroe principale, bonus contro unità mitiche, 
+può sacrificare unità per ottenere favore.
+Sacerdoti: curano, benedicono unità, e partecipano ai rituali sacrificali.
+
+🔮 Meccanica del favore
+Gli Aztechi ottengono favore tramite:
+Sacrifici rituali: unità sacrificate presso l’altare.
+Costruzione di templi e altari.
+Eventi speciali: completamento di obiettivi o raccolta di reliquie.
+
+🗿 Titano: Coatl, il Serpente Celeste
+Aspetto: enorme serpente piumato con ali.
+Attacco: soffio di vento che spazza via le unità.
+Abilità: crea tempeste che rallentano e danneggiano le strutture nemiche.
+Lore: incarnazione di Quetzalcoatl, simbolo di rinascita e distruzione.
+
+⚔️ Fanteria
+1. Guerriero Aquila
+Ruolo: fanteria leggera, esploratore
+Descrizione: giovani guerrieri scelti, agili e veloci.
+Bonus: +20% velocità di movimento, bonus contro arcieri.
+Costo: 50 cibo, 20 oro
+
+2. Guerriero Jaguar
+Ruolo: fanteria pesante
+Descrizione: elite azteca, addestrati per il corpo a corpo.
+Bonus: +15% resistenza, bonus contro fanteria.
+Costo: 60 cibo, 30 oro
+
+3. Guerriero Macuahuitl
+Ruolo: assaltatore
+Descrizione: armato con la lama di ossidiana, devastante contro edifici.
+Bonus: +50% danno contro strutture, lento ma potente.
+Costo: 70 cibo, 40 legno
+
+🏹 Ranged
+4. Arrow Knight
+Ruolo: arciere standard
+Descrizione: devoti al dio del sole, usano archi cerimoniali.
+Bonus: +10% portata, bonus contro sacerdoti e unità volanti.
+Costo: 50 legno, 30 oro
+
+5. Guerriero Atlatl
+Ruolo: anti-fanteria a distanza
+Descrizione: usa il propulsore per scagliare giavellotti con forza.
+Bonus: bonus contro fanteria leggera, attacco perforante.
+Costo: 60 legno, 40 oro
+
+🛡️ Anti-Mitiche
+9. Lanciere del Sole
+Ruolo: anti-unità mitiche
+Descrizione: armato con lance benedette, 
+addestrato per combattere creature divine.
+Bonus: +30% danno contro unità mitiche.
+Costo: 70 cibo, 50 oro
+
+10. Guerriero Teschio
+Ruolo: fanteria mistica
+Descrizione: indossa armature decorate con ossa, resiste alla magia.
+Bonus: +25% resistenza magica, bonus contro eroi.
+Costo: 80 oro, 40 favore
+
+🛶 Unità Navali
+11. Canoa Sacrificale
+Ruolo: trasporto e supporto
+Descrizione: può trasportare unità e sacrificare prigionieri per ottenere favore.
+Bonus: genera favore in acqua, trasporta fino a 5 unità.
+Costo: 100 legno
+
+12. Canoa da Guerra
+Ruolo: attacco a distanza
+Descrizione: equipaggiata con arcieri e giavellotti.
+Bonus: bonus contro navi leggere.
+Costo: 120 legno, 40 oro
+
+ROMANS
+Divinità Maggiori
+Jupiter:
+Miracle of Rain: call down rain in a chosen area; enemy units
+within have less attack, speed e los
+Triumphus: legati requires less kills to become imperator
+-Legati are cheaper
+-Equites ferund part of their cost when killed
+-Legati may be garrisoned in Temple to serve as Konsules(max 2)
+giving a little speed to roman units within the temple(non stacking)
+Juno:
+Evocatio: pick a myth unit available to another player, spawns
+that at your temple, and you may train more for 3 minutes
+Sabine Kidnapping: Plebeians train 20% faster
+-Capitolin Geese: Temple +25% radius and los
+-Socii: Auxilia units cost -15%
+-Moneta: Markte techs are free, Caravans generate +20% G
+Minerva:
+Eureka: Your tech research 100% faster for 1 min(except Age up)
+Maniples: Legionari +25% movement speed
+-Sacred Chikens: Lagionary and Legati +25% Los
+-Tactical Advantage: start with a Frumentatio(better Scout), which
+has better stats and can stealth, Frumentari replace Scouts
+-Medica: Temples heal allies in range
+
+Divinità Minori
+II
+Inaus:
+Ouroboros: big snake, constriction
+Biceps: a chosen building work twice as fast for 1 min
+then half as fast for 1 min
+-Ianus Gate: military buildings work 25% faster
+-Kalendae: plebeians gather F from farms 15% faster
+Bellona:
+Fanaticus: hamrs briefly for invulenrability
+Frenzy: all military units -20% defense, +20% attack and attack rate
+-Scutum Samniticum: legionary +10% pierce armor
+-Gladius Hispanienis: legionary e legati +20% attack
+Vesta:
+Vestal Virgin: garrisoned in Temple to boost favor collection
+Vestalia: +20% all F prodution
+-Heated Shot: defensive structure deal armor piercing damage
+-Panem et Circenses: Temple produce 1 F/sec
+III
+Neptun:
+Siren: Amphinius, convert humans and ships
+Flood: displace units and deal damage
+-Corvus: quinquireme slow enemy warships
+-Limes: Increase fortification los, Castra fire scorpio bolts
+Mars:
+Capitolin Wolf: spawn velites on death
+Eagle Standard: increase human units attack by 20% in los
+-Testudo: infantry can form a testudo
+-Cohort Legion: legionary can build castra
+Venus:
+Nymph: forest walk
+Metamorphose: turn humans into trees
+-First amomng equals: Imperator become principes, which buff
+resource gather rate by 10% in their aura
+-Latifundia: villae slowly gather nearby resources
+IV
+Sol Invictus:
+Sun Chariot: leaves a burning trail
+Blaze: damagind sunray
+-Restitutor Orba: Imperator +50% HP, Atk and anti myth multiplier
+-Aurelian Walls: Walls are built 200% faster, gain HP near eco buildings
+-Spatha: legionari, clibanari +30% Atk
+-Cavalry Masks: Clibanari charga attack briefly reduce target's armor
+Mithras:
+Mithraic Bull: heal allies on death
+Syncretism: copy a hero age god power
+-Plumbata: legionary and velites get -20% range but 30% more damage
+-Foreign gods: spawn random Heroic Age Myth units
+-Sun Explosion: Mitrhaic bulls blind enemies on death
+Hercules:
+Mud Dragon: better stast near villae
+12 Labors: Human units in an area become heroes
+-Co-Emperors: Increase Imperator cap to 2
+-Economic Reforms: Plebeians work 1% faster for each 1 min
+they work on the same task
+-Fortified Villas: plebeians can garrison in villas, gain ranged attack
+
+🔮 Meccanica del favore
+I Romani ottengono favore con:
+Templi che generano favore passivamente in base al numero
+di edifici nelle vicinanze
+
+🧙‍♂️ Eroi
+Legatus: conto come unità mitica, ha un bonus contro altre
+unità mitiche, è da questo bonus agli alleati vicini(non cumulabile)
+Dopo qualche uccisione, diventa un imperatore, max 1
+
+Edifici
+Villa (I): dro psite, +10 population, research eco techs
+Castrum (III): cheaper fortress, train siege and elite cavalry
+
+Unità militari
+Legionarius (II): heavy infantry with good pierce armor
+throw a pilum as charge attack, that briefly slows the target, can also build walls
+Scorpio (III): cheap siege unit with bonus vs infantry
+Clibanarius(IV): heavy shock cavalry with great defenses
+and with great charge attack
+Veles (II): fast, light javelin infantry
+Equites (II): light cavalry
+Miles Auxiliarium (III): gallic spearman
+Funditor Auxiliarium (III): Balearic slinger
+Eques Auxiliarium (III): germanic heavy cavalry
+Onager (III): heavy siege catapult
+Quadrireme (II): arrowship
+Quinquireme (II): melee ship
+Hexareme (II): siege ship
+Fire Bireme (II): explosive ship
+
+
+
+SUMERIANS
+Divinità maggiori
+Ninurta:
+Chariots +20% HP and deal bonus damage to myth units
+Free Farm techs
+Lugeshban available in Heroic Age
+Start with an additional Egbur
+Gold mines last 33% longer
+Sharur: summon a sentient mace
+Ninsun:
+Heroes cost no F
+Can summon Gilgamesh
+Asar:
+Enable to train 1 Ensel
+Shirnamshub: all enemies mapwide lose their special abilities for 5 mins
+Ishib: Ensi deal +100% divine damage and can heal
+Akadgida: completing a tech heal all allies by 20% HP
+Bit Rimki: Ziggurats block enemy god powers
+
+CELTS
+🏛️ Divinità Maggiori Celtiche
+1. Lugus – Dio della luce, dell’artigianato e della guerra
+Bonus passivo: +10% velocità di costruzione e attacco.
+
+Stile: versatile, bilanciato tra economia e guerra.
+
+Divinità minori: Ogmios, Epona.
+
+2. Cernunnos – Dio della natura, degli animali e della fertilità
+Bonus passivo: +20% raccolta da caccia e pesca.
+
+Stile: espansivo, controllo della mappa.
+
+Divinità minori: Arduinna, Rosmerta.
+
+3. Taranis – Dio del cielo e delle tempeste
+Bonus passivo: +15% resistenza magica e danni ad area.
+
+Stile: offensivo, controllo ambientale.
+
+Divinità minori: Esus, Belanos.
+
+🌟 Divinità Minori (6 totali)
+Ogni divinità minore offre:
+
+1 bonus passivo
+
+1 potere divino
+
+1 unità mitologica
+
+🔸 Ogmios (con Lugus)
+Bonus: +10% velocità di ricerca.
+
+Potere: Parola Vincolante – blocca unità nemiche in un’area.
+
+Unità mitica: Groac’h – strega bretone che lancia maledizioni.
+
+🔸 Epona (con Lugus)
+Bonus: +15% velocità delle unità montate.
+
+Potere: Carro Sacro – evoca cavalleria temporanea.
+
+Unità mitica: Morvarc’h – cavallo marino, veloce e anfibio.
+
+🔸 Arduinna (con Cernunnos)
+Bonus: +20% raccolta da foreste.
+
+Potere: Caccia Sacra – evoca bestie selvatiche.
+
+Unità mitica: Cinghiale Sacro – resistente, bonus contro fanteria.
+
+🔸 Rosmerta (con Cernunnos)
+Bonus: +10% produzione di cibo.
+
+Potere: Abbondanza – aumenta la resa delle fattorie.
+
+Unità mitica: Carcolh – lumaca gigante con tentacoli, rallenta nemici.
+
+🔸 Esus (con Taranis)
+Bonus: +15% danno contro edifici.
+
+Potere: Sacrificio del Bosco – intrappola nemici in rovi infuocati.
+
+Unità mitica: Graoully – drago velenoso, attacco ad area.
+
+🔸 Belanos (con Taranis)
+Bonus: +10% rigenerazione delle unità.
+
+Potere: Fiamma Celeste – colpisce un’area con fulmini.
+
+Unità mitica: Fata Invernale – converte unità nemiche (come i monaci).
+
+🧙‍♂️ Eroi
+Campione Celtico: eroe corpo a corpo, bonus contro mitiche.
+
+Druido: raccoglie favore, cura, può evocare animali selvatici.
+
+🔮 Meccanica del favore
+I Celti ottengono favore tramite:
+
+Druidi vicini a foreste o animali selvatici.
+
+Sacrifici rituali (opzionale).
+
+Relazioni con la natura: più alberi e animali = più favore
+
+🗿 Titano: Dagda, il Padre Buono
+Aspetto: gigante con clava e calderone.
+
+Attacco: colpi ad area, evoca unità alleate.
+
+Abilità: Calderone dell’Abbondanza – cura e potenzia le unità vicine.
+
+Military units
+Woad rider: light infantry
+Swordman:
+Spearman:
+Archer:
+Horseman:
+Wind shaman:
+Druid:
+Axeman:
+Gallic woman warrior:
+skirmisher:
+slinger:
+Highlander:
+Mounted skirmisher:
+Gaesati:
+night riders:
+teuton archers:
+maceman:

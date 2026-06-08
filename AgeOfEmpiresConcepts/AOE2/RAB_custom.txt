@@ -1,0 +1,603 @@
+THE CHRONICLES (34 civilizations based from empires between 500 bc and 500 ac)
+
+ARMENIANS
+
+cavalry and priest civilization
+
+-Stone miners generate G in addition to stone
+-Animals contain +50% F
+-Illumination, BP are free
+-cavlry archers +1 range
+
+UU Ayrudzi (cavalry archer that takes -50% bonus damage)
+
+CTA-Civitates Foederate (enable legionaires, take -50% space)
+CTB-Marzpanatae (levy take -25% space)
+ITA-Khvarenah (Cavalry archers cost -15% G per relic, max 3)
+ITB-Baptism (Temple slowly heal allies in los)
+
+Team bonus
+-Scout cav +2 los
+
+ATHENIANS
+
+infantry and naval civilization
+
+-Techs cost -5/10/15/20 % and are reseacrehd 10/15/20/25% faster
+-Polyremes fire 25% faster
+-Military buildings cost -50 W
+-Spearman cost -40% W (-10 W)
+
+UU Taxiarch (infantry who gives bonus attack to spearmen)
+
+CTA-Solonian reforms (farmers generate F in addition to G)
+CTB-Draconian reforms (taxiarch, spearman +3 attack)
+ITA-Euthytonon (crossbow +2 range)
+ITB-Delian League (Taxiarach cost -20 G + 20 F)
+
+Team bonus
+-Universities work 80% faster
+
+BRITONS
+
+infantry and cavalry civilization
+
+-Blacksmith techs cost no G
+-Infantry +5/10/15/20 % HP
+-Shephed work 25% faster
+-Stable tech cost -50%
+
+UU Essedarius (heavy cavalry that does trample damage,
+can also periodically throw a javelin)
+
+CTA-Ovates (priest heal 100% faster, healing range +100%, regen 120 hp/min)
+CTB-Warrior druids (priest convert 30% faster, +2/2 armor)
+ITA-Carnyx (infantry +5 attack)
+ITB-Exmoor Covines (cavalry +3 attack)
+
+Team bonus
+-Military buildings +5 pop
+
+CARTHAGINIANS
+
+cavalry and naval civilization
+
+-Blacksmith armor upgrades cost -50%
+-Naval techs cost -50% and are available one age earlier
+-Military units cost -15% F, mounted ones cost -20% F
+
+UU War Elephant (cavalry)
+UB Cothon (powerful shipyard)
+
+CTA-Cornacs (Elephants +25% fire rate and trample area)
+CTB-Xanthippian reforms (can train slingers, caetrati, Imazigh)
+ITA-Council of 104 (cavalryman +3/0 armor)
+ITB-Shipyard Engineering (enable Cothon)
+
+Tema bonus
+-Towers, Outpost cost -25 S
+
+CRETANS
+
+archer and naval civilization
+
+-Spearman, Archers and Skirmisher cost -50% W (-12.5, -12.5, -17.5 W)
+-Archers attack upgrades are free
+-Fisher work 25% faster
+-Resources last 15% longer
+
+UU Cretan archer (archer that is effective vs infantry and archers)
+
+CTA-Minoan Palaces (replace 50% of S cost of Forts and Towers with W)
+CTB-Strogulla Fishing ships (Upgrade fishing ships)
+ITA-Linothorax (footsoldiers +1/2 armor)
+ITB-Cretan pirates (Warships generate G when attacking ships or villagers)
+
+Team bonus
+-VIllager +1 los
+
+DACIANS
+
+infantry and defense civilization
+
+-Mine upgrades are free
+-Advancing to next Age cost -20%
+-Swordman upgrades are free and available one age earlier
+-Castle cost -25% S
+
+UU Falxman (infantry with armor piercing attack)
+
+CTA-Cult of Zalmoxis (non-siege land units return 40% of
+their G cost when killed)
+CTB-Sarmatian Catapharcts (cavalry units take -33% bonus damage)
+ITA-Davas (forts +3 range)
+ITB-Murus Dacicus (buildings take -25% bonus damage)
+
+Team bonus
+-Forts work 20% faster
+
+EGYPTIANS
+
+infantry and defense civilization
+
+-Ships +10 capacity
+-Farms cost -30%
+-Priest cost -25%
+-Chariot moves 20% faster
+
+UU Medjay (infantry effective vs infantry)
+
+CTA-Kopis (swordman, Medjay +2 attack)
+CTB-Maryannu (chraiot +6 attack)
+ITA-Great Library (villager work 2% faster for each uni tech researched)
+ITB-Aegyptiaca (Pirest, Horus Warrior, Medjay cost -30%)
+
+Team bonus
+-Relics are visible at the start of the map
+
+GAULS
+
+infantry and cavalry civilization
+
+-Blacksmith melee attack upgrades grant +1 attack
+-Units who cost F are trained 20% faster
+-Buildings who cost only W, cost -20%, -20% building time, -20% HP
+-Priest grant +1 attack to allies in range
+-Hunter, Forager works 15% faster
+
+UU Axe raider (cavalry) Gaesotas (infantry) Ambaxtoi (infantry)
+RU slinger, axeman
+
+CTA-Belgan hunters (archer cost become 60 W) 400 F 300 G 50 sec
+CTB-Belgan cavalry (Mounted units +15% speed) 250 F 150 G 30 sec
+ITA-Gallia Lugdunensis (legionaries are available at Barracks,
+theu cost -30% F) 400 F 250 G 50 sec
+ITB-Furor Celtica (Infantry regen 30 hp/min, also deal trample damage)
+1200 F 800 G 120 sec
+
+Team bonus
+-Foot soldiers +1 Los
+
+Axe raider
+HP 140+20 (180)
+Atk 10+2  (19)
+anti building +8+3 (11)
+Rof 2
+Armor 2/0 (5/4)
+Los 6
+Speed 1.4 (1.6)
+Cost 20 F 80 G 15-10-8 sec
+
+Gaesotas
+HP 70+10
+Atk 9+2 (18)
+anti cavalry +8+4 (12)
+anti elephant +8+4 (12)
+anti camel +6+2 (8)
+anti archer +4+2 (6)
+Rof 2
+Armor 2/2 (5/6)
+Los 6
+Speed 1.1 (1.2)
+Cost 50 F 40 G 32-24-20 sec
+
+Ambaxtoi
+
+
+Missing techs
+S-infantry: gambeson
+C-archers: arbalester, hand cannon, thumb ring, bracer, archer armor III
+A-cavalry: husbandry°
+B-siege: heavy scorpio, BC, siege engineers
+B-navy: FFS, CG
+A-monks: nothing
+D-defense: BT, Guard Tower, masonry, heated shot, treadmill crane
+A-economy: crop rotation
+
+GERMANI
+
+infantry civilization
+
+-Can create mule carts, villagers drops off 5% more resources 
+when dropping to mule carts
+-Infantry units cost -15/20/25/30%
+-Palisade +50% HP
+-Town Center cost -50% S
+
+UU Chieftain (cavalry unit, boost attack of nearby infantry units)
+Maceman (heavy infantry, with armor piercing attack)
+
+CTA-Savage (infantry deal trample damage)
+CTB-Batavi Uprising (Infantry can be trained in Town Centers)
+ITA-Auxili Mercenaries (infantry moves 25% near outposts)
+ITB-Migration (Mule carts cost -75%)
+
+Team bonus
+-Blacksmith tech cost -40% F
+
+GOTHS
+
+infantry and cavalry civilization
+
+-heavy cavalry available in Castle Age
+-Infantry +1 attack vs building per Age, starting in Feudal Age
+-Can build pastures
+-Loom is researched instantly
+-Mounted units +1/0 armor
+
+UU Huskarl (infantry with high pierce armor)
+
+CTA-Anarchy (create Huskarls at Barracks)
+CTB-Angon (skirmisher +1 attack)
+ITA-Perfusion (Barrack work 100% faster)
+ITB-Lamellar Armor (Cavalry +2/1 armor)
+
+Team bonus
+-Barracks work 20% faster
+
+GUPTA
+
+cavalry and siege civilization
+
+-Stable, Archery range and farms upgrades
+are available one Age earlier, and are
+researched 100% faster
+-farms upgrade cost -50%
+-Mangonel has reduced minimum range
+
+UU Maharaja (elephant archer)
+
+CTA-Chaturanga (Battle elephants, Chariot +3 attack)
+CTB-Navaratna (Elephant regen 10 hp/min for each uni tech researched)
+ITA-Senapati (mangonel +1 range)
+ITB-Steel longbows (cavalry archers, foot archers gain a charge attack, +3)
+
+Team bonus
+-Knight +2 los
+
+HAN
+
+infantry civilization
+
+-Wheel barrow and hand cart are free
+-Crossbowman cost -20%
+-Commanderies available in Castle Age
+-Taixue available in Imperial Age
+
+UU Jiangjun (cavalry that makes archer attack 15% faster)
+Xiaowei (infantry that makes infantry attack 25% faster)
+Magistrate (civilian that makes villager, Universities and blacksmiths work 10% faster)
+Zhuge Nu (archers that fires multiple arrows)
+UB Commandery (trains Xiaowei and Magistrate, can garrison units, research
+unique techs, serves as dropsites for villager)
+Taixue (Han unique University, research improved version of 
+Universities techs, needs a University to be built first)
+
+CTA-Taiwei (Xiaowei,Jiangjun cost -3% for each blacksmith tech researched)
+CTB-Yushi Dafu (villager cost -3% for each eco tech researched)
+ITA-Jing Nu (Corssbowman and Zhuge Nu +4 damage vs cavalry)
+ITB-Lochuan (quadriremes +0/2 armor)
+
+Team bonus
+-Stone walls are available in Dark Age and built 40% faster
+
+Commandery upgrades:
+CTA-Lacquered Armor (infantry +0/1 armor)
+CTB-Beijun ROyal Guards (Xiaowei +1/0 armor, spearman -4 damage from archers)
+ITA-Labor Tax (eco buildings work 33% faster)
+ITB-Nanjun Levies (swordman -33% space)
+
+Taixue upgrades:
+Rammed Earth Foundations (All buildings gain +10% hit points and +1/+1 armor; Requires Architecture to be researched)
+Great Wall (Stone walls and gates cost -40% cost; Requires Fortified Wall to be researched)
+Mohist Siege Crossbow (Advanced units fire 10% faster; Requires Advanced Weaponry to be researched)
+Raised-Relief Battle Maps (Advanced units are affected by Ballistics; Requires Ballistics to be researched)
+Traction Trebuchets (Siege weapons deal 20% more damage to buildings and siege projectiles move 20% faster; Requires Siege Engineers to be researched)
+Imperial Tower (Guard Towers are upgraded to Imperial Towers; Requires Guard Tower to be researched)
+Crenellated Defenses (Towers and forts fire 25% faster; Requires Arrow Slits to be researched)
+Dirty Moats (Towers and forts gain +6 damage against Rams; Requires Murder Holes to be researched)
+Waterwheel (Villagers construct buildings 40% faster; Requires Treadmill Crane to be researched)
+
+
+HUNS
+
+cavalry civilization
+
+-Pop is capped, start with -100 W
+-Cavalry archers cost -20%
+-Light cavalry +40% HP
+
+UU Tarkan (cavalry effective vs buildings)
+
+CTA-Marauders (enable Tarkans at the stable, generate G while figthing)
+CTB-Pastoral nomads (cavalry -30% F cost)
+ITA-Scourge of God (enemy relic generate -50% G, units are more resistent)
+ITB-Steppe husbandry (Cavalry are trained 100% faster)
+
+Team bonus
+-Stable works 20% faster
+
+IBERIANS
+
+infantry and defense civilization
+
+-Skirmisher and Jinete fire 25% faster
+-Infantry and skirmisher move 10/15/20% faster
+-Start the game with some walls built around
+the first town center
+
+UU Caetrati (infantry with a charge area attack)
+
+CTA-Raiding Bands (infantry generate G and F when fighting)
+CTB-Soliferrum (skirmisher do at least 4 minimum damage)
+ITA-Concursare (skirmisher, Jinete cost -10%, infantry gain
+a small charge attack, +5)
+ITB-Cantabrian Circle (cavalry archers gain a charge
+shield vs ranged attack, blocks 5 attacks, recharge 50 sec)
+
+Team bonus
+-Farms +20% F
+
+ILLYRIANS
+
+infantry and naval civilization
+
+-Hemiolas and Scout ship -40% cost
+-Ships move 10% faster
+-Infantry and blacksmith techs are available one Age earlier
+-Miners drop 5% more resources
+
+UU Polydynastus (infantry with high attack)
+Liburna (warship that deals bonus damage vs other warships)
+
+CTA-Dynasteia (train 5 polydynastes at each TC, Poly available at TC)
+CTB-Shmarkjet Helmets (infantry gain a shield vs ranged)
+ITA-Sibyna (Spearman, POly pierce trough targets)
+ITB-Ninum (archers, Liburna +1 range)
+
+Team bonus
+-Ships +2 Los
+
+JUDEANS
+
+infantry and priest civilization
+
+-Each garrisoned relic +1 attack to infantry (max 3)
+-Temple techs cost -25% and are researched 100% faster
+-Buildings refund 40% S cost on destruction (except walls and gates)
+-Builders work 30% faster
+-Start with +100 W
+
+UU Sicarius (infantry with a charge attack, runs 30% faster
+when targeting an enemy)
+
+CTA-Zealotry (sicary train 100% faster)
+CTB-Fortress of Masada (Forts +2000 HP and +1 range)
+ITA-Ark of the Covenant (Sicari and priest recharge 25% faster,
+relic generate 50% faster)
+ITB-Herodian Dynasty (Spearman cost -50%, train 100% faster)
+
+Team bonus
+-Relic generate 50% faster
+
+KUSHANS
+
+cavalry and priest civilization
+
+-Archer techs cost -50%
+-Spearman upgrade is free
+-Villager and priest move 10% faster
+-Start with +50 G and +100 S
+
+UU Kara Irango (cavalry archer) Kanarang (civilian, makes
+nearby foes attack 40% slower)
+UB Royal Mint (slowly generates G, act as a dropsite for G,
+imporves nearby miner works by 30%, limit is 3)
+
+CTA-Mahakshtrapa (each town center built yield
++300 F, +200 W, +100 G, +50 G)
+CTB-Great Buddisht Council (Brahmin and temple tech
+cost are replaced with F)
+ITA-Pax Kushana (Trade units cost -50%, royal mint cap +2)
+ITB-United Xihou (Cavalry archer cost -75% W (-30 W))
+
+Team bonus
+-Caravanserai available in Imperial Age
+
+MACEDONIANS
+
+infantry and cavalry civilization
+
+-Barracks and Stable units +1/1 in Imperial Age
+-Melee attacks upgrades are free
+-University techs cost -50%
+-Town Center +10 pop
+-Catapult trireme upgrades are free
+
+UU Argyraspide (infatry) Tessarakonteres (warship)
+
+CTA-Hetairoi (cavalry regen 20 hp/min)
+CTB-Pezhtairoi (infantry +20 hp)
+ITA-Arms Tactics (siege move 40% faster)
+ITB-Diadochi (train Immortals, Medjay and Taxiarch at TC)
+
+Team bonus
+-Towers and Outpost +3 los
+
+MAURYANS
+
+elephant civilization
+
+-Hunt and trees last 25% longer
+-Herbal medicine is free and twice as effective
+-Elephant unis take -25% damage
+-Light cav upgrades are free
+
+UU chakram thrower (ranged infantry)
+UB pillar of Ashoka (Improves work, movement, and attack speeds of nearby own units by 10% and reduces the same for enemy units by 10%)
+
+CTA-Mantriparishad (infantry +4 attack vs cavalry)
+CTB-Kurpasa (Elephants +1/2 armro)
+ITA-Edicts of Ashoka (enable pillar of Ashoka)
+ITB-Arthashastra (villager drops 5% more resources)
+
+Team bonus
+-Trade units yield 30% F in addition to G
+
+NANDA
+
+elephant civilization
+
+NUBIANS
+
+Archer civilization
+
+NUMIDIANS
+
+cavalry civilization
+
+PARTHIANS
+
+cavalry civilization
+
+PERSIANS
+
+cavalry civilization
+
+PHOENICIANS
+
+naval civilization
+
+PICTS
+
+infantry and defense civilization
+
+PONTUS
+
+infantry and cavalry civilization
+
+ROMANS
+
+infantry and siege civilization
+
+-Siege units are available one Age ealiers, can build
+Siege workshop in Feudal Age
+-Scout cavalry, skirmisher, spearman cost -20%
+-Start with a different set of Ages: Archaic Rome,
+Repubblic Rome, Imperial Rome, tetrarchy Rome
+(advancing to next age also cost -20% and its 33% faster)
+-Buildings cost -10%
+-Infantry +1 attack per Age, starting from Repubblic Rome
+
+UU Pretorian prefect (cavalry) Pretorian guard (infantry),
+legionaie (infantry) velite (skirmisher)
+
+CTA-Manipular Pilae (ranged legionaire, skirmisher attack 25% faster and
+apply a slow down effect for 10 seconds, reset on hit, cannot stack)
+CTB-Siege Ballistae (scorpions +1 attack and range, also applies to allies)
+ITA-Pax Romana (villager and trade units occupy -20% population)
+ITB-Diocletina reforms (infantry and siege regen 30 hp/min)
+ITC-Marian reforms (legionaire cost -20%, are trained 50% faster)
+ITD-Principate (train 5 pretorian guards per Fort, enable trianing
+of pretorian guards at town centers)
+
+Team bonus
+-Scorpio fire 33% faster
+
+Legionaire
+HP 60+10
+Atk 9+4 (20)
+Rof 2
+Armor 2/3 (5/7)
+Los 6
+Speed 1 (1.1)
+Cost 60 F 25 G 30-20-15 sec
+Up cost: 500 F 350 G 60 sec
+Special: can shoot a javelin from range
+Atk 6 (10)
+Range 2 (5)
+Accuracy 100%
+Rof 3 (2.25)
+Special: can form a testudo formation
+(unit command) doing so will increase
+unit armor by 1/1 but reduce speed by 20%
+
+Velites (elite skirm upgrade)
+HP 35
+Atk 4 (8)
+anti archer +4
+anti spear +4
+anti horse archer +4
+Rof 3 (2.25)
+Range 4 (7)
+Accuracy 100%
+Los 9
+Armor 1/5 (4/9)
+Speed 1.3
+Up cost: 250 F 150 G 30 sec
+
+Pretorian Prefect (heavy cavalry)
+HP 110+30 (160)
+Atk 11+4 (19)
+anti cavalry +3+1 (4)
+Rof 2
+Armor 2/1+3/1 (8/6)
+Los 6
+Speed 1.4 (1.54)
+Cost 110 F 60 G 15 sec
+Up cost: 1200 F 800 G 60 sec
+
+Pretorian Guard (heavy infantry)
+HP 80+20 
+Atk 9+2 (18)
+anti infantry +5+2 (7)
+Rof 2
+Armor 4/2+2/1 (9/7)
+Los 6
+Speed 0.9 (1.0)
+Cost 70 F 50 G 24-18 sec
+Special: unit return 50% of
+damage taken to sender in melee fights
+
+Missing techs
+infantry:
+archers:
+cavalry:
+siege:
+navy:
+monks:
+defense:
+economy:
+
+SCYTHIANS
+
+cavalry civilization
+
+SELEUCIDS
+
+infantry and cavalry civilization
+
+SPARTANS
+
+infantry civilization
+
+SYRACUSANS
+
+naval and siege civilization
+
+THRACIANS
+
+infantry civilization
+
+
+
+
+Missing techs
+infantry:
+archers:
+cavalry:
+siege:
+navy:
+monks:
+defense:
+economy:

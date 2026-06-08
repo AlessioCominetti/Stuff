@@ -1,0 +1,407 @@
+SHARED UNITS, TECHS AND BUILDINGS
+-mage->sage
+-wyvern rider->wyvern knight
+-manakete
+-pegasus knight->falcoknight
+-mage knight->elite mage knight
+-sniper->elite sniper
+-warrior
+-Dromon
+
+ARCANEANS
+Mage and cavalry civilization
+
+-All units move 10% faster and are trained 15% faster
+-Monasteries start with 1 relic when built
+-Fliers and Cavalry are affected by Infantry armor upgrades
+-Parthian tactic is free and affect foot archers
+UU Khaiden sage(sage upgrade)
+CT-Falchion's Legacy: all units do +25% damage vs cavalry/fliers
+IT-Millenium Court: Town Centers heal allies in range, 30 Hp/min
+TB-Monks and Mages cost -10%
+
+Missing techs:
+A-infantry: squires*
+B-archers: HC, archer armor III*
+B-cavalry: husbandry*, cavalry armor I*
+C-siege: siege ram, siege onager, BC, siege engineers
+B-monks: BP, fervor*
+B-navy: FS, DS
+B-defenses: BT, heated shot, treadmill
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+JUGDRALS
+cavalry civilization
+
+-Units cost -5% G for each Castle built (max 4)
+-Castle generate XP, which is needed to upgrade units
+-Monks and sages heal in small area
+-Villagers can build relics for 150 G each
+UU Crusader Knight(cavalier upgrade) Forrest Knight(cavalry)
+CTA-Holy Bloodlines: Units who cost G, +10 HP and +1/1 armor
+CTB-Thracian Tactics: Mounted units +50% bonus damage
+ITA-Velthomer Archives: Techs are researched 50% faster
+ITB-Silesian riders: Pegasi move 20% faster, +1/1 armor
+TB-Mages, Fliers and Monks regen 30 Hp/min
+
+Crusader Knight
+HP 120 (150)
+Atk 16 (20)
+vs monks +4 (6)
+vs archers +4 (6)
+vs cavalry +4 (6)
+vs buildings +4 (6)
+vs siege +4 (6)
+Rof 1.8
+Armor 3/3 (8/9)
+Speed 1.5 (1.65)
+Up cost: 1000 F 800 G 75 sec or 600 XP
+Immune to conversion, take -50% blast damage
+
+Forrest Knight
+HP 65-80 (110)
+Atk 8-10 (14)
+vs monks +7+3 (15)
+vs archers +7+3 (15)
+vs siege +4+2 (9)
+vs gunpowder +7+3 (15)
+Rof 1.7
+Armor 2/2 (6/7)
+Speed 1.6 (1.76)
+Cost 80 F 10 G 15-13 sec
+Up cost: 800 F 700 G 60 sec or 500 XP
+Resist conversion: 8 seconds
+
+Missing techs:
+A-infantry: nothing
+B-archers: HC, archer armor III*
+A-cavalry: hussar*
+B-siege: siege ram, siege onager, siege engineers, BC
+A-monks: BP, sanctity*
+B-navy: FS, DS
+B-defenses: BT, heated shot, treadmill
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+ELIBEANS
+cavalry and flier civilization
+
+-Bloodlines and Husbandry are 50% more effective
+-Blacksmith can research stronger techs
+-Villagers produce a small tickle of G when nearby Monasteries
+-Horse archers can walk trough elevation and forest.
+They ignore elevation penalties
+UU Ilian knight(infantry)
+CTA-Ilian Mercenaries: Knight, pegasi and militia line cost -40% F
+CTB-Sacaen Mercenaries: horse archers +10% movement, cost -20%
+ITA-Etrurian sages: sages, monks +20 HP
+ITB-Bern Wyvern riders: wyvern riders, manaketes +2/1 armor
+TB-Mounted units +1/0 armor
+
+Special upgrades:
+Scouring blades: all melee units +10% attack rate
+Valor's Bow: archers units +1 range
+Dragon Scale armor: all units +1/1 armor
+
+Missing techs:
+A-infantry: nothing
+A-archers: HC
+S-cavalry: nothing
+C-siege: ram, onager, siege engineers, BC
+A-monks: BP, sanctity*
+C-navy: FS, DS, shipwright
+B-defenses: BT, heated shot, treadmill
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+MAGVELIANS
+monk and mage civilization
+
+-Fliers +2 los
+-Start with a pegasus scout instead of scout cavalry
+-Monasteries can reseach techs for free, at a slower rate
+-Monks and mages cost -25%
+UU Assassin(infantry)
+CTA-Twin Legacy: militia and knight line attack 20% faster
+CTB-Grado's armor: militia and knight line +2/2 armor
+ITA-Jehanna's Blades: militia line and knight line +4 atk
+ITB-Rausten Religion: monks and mages recharge 100% faster
+TB-Fliers +0/1 armor
+
+Missing techs:
+A-infantry: blast furnace*, infantry armor III*
+B-archers: HC, thumb ring, archer armor III
+A-cavalry: blast furnace*, cavalry armor III*
+D-siege: ram, onager, siege engineers, BC, heavy scorpio
+A-monks: BP, sanctity, illumination*
+C-navy: FS, DS, shipwright
+B-defenses: BT, heated shot, treadmill
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+TELLIUS
+infantry and monk civilization
+
+-Military buildings and Monastery reward 20/40/60 G when built
+from Feudal Age onwards
+-Monks and mages are affected by infantry armor,
+squires and gambeson
+-Keep gets +1 range in Imperial Age
+UU Black Knight(cavalry)
+CTA-Begnion codices: mages +35% blast area
+CTB-Clerical Order: units are healed 50% faster
+ITA-Imperial Doctrine: all units +1/1 armor
+ITB-Sanctified steel: mounted units obtain a shield
+vs ranged attacks (3 charges, 30 seconds to recharge fully)
+TB-Mages are trained 20% faster
+
+Missing techs:
+A-infantry: nothing
+B-archers: HC, archer armor III*
+A-cavalry: nothing
+B-siege: siege ram, siege onager, siege engineers, BC
+S-monks: fervor*
+C-navy: FS, DS, shipwright
+B-defenses: BT, heated shot, treadmill
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+LYTOS
+cavalry and mage civilization
+
+-Can change policy at Town Centers:
+Firene: all units regen 5/10/15/20 Hp/min, buildings regen 10 times faster
+Brodia: all land non siege units +1/1 armor
+Elusia: mages attack 20% faster
+Solm: all units +5/10/15/20% movement speed
+Lythos: all units and buildings +1/2/3/4 los
+Changing policies cost 150 G each time
+-Can empower units in group of 20 by consuming one relic
+Empowered units attack and move 30% faster for 60 seconds
+-Town Centers produce one relice every 2 minutes form Castle Age
+UU:
+Firene Guard(infantry)
+Brodian Guard(infantry)
+Elusian mage(mage)
+Solm Nomad(horse archer)
+Lythos manakete
+CT-Scales of unity: UUs give +1/1 to allies in los(non stackable)
+IT-Resonance: Empowerment last 25% longer, also affect defensive buildings
+TB-Unique units cost -10% G
+
+Missing techs:
+A-infantry: squires*
+A-archers: horse archer*, parthian tactics*
+A-cavalry: husbandry*
+A-siege: nothing
+A-monks: fervor*
+A-navy: nothing
+A-defenses: nothing
+B-economy: crop rotation, 2-man-saw
+
+ERVESIANS
+
+archer civilization
+
+-Villagers drop off 5% more resources, starting from Castle Age
+-Farms can be placed for free, but require triple building time
+-Towers, Outposts cost -40% S
+-Loom is free
+
+UU Golden longbow (sniper upgrade)
+RU Armor knight, mirmidon, hero, warrior, sniper, mage, pegasus kn., wyvern kn., dromon
+
+CT-Trade Network (trade units generate 10% F,W,S in addition to G)
+IT-Birgandry (all military land units deal +4 damage vs civilians, monks and trade units)
+
+Golden Longbow
+HP 50+10 (60)
+Atk 6+1 (11)
+Rof 2
+Range 6+1 (10)
+Los 8+1 (12)
+Accuracy 100%
+Armor 1/1+1/0 (5/5)
+Speed 1.0
+
+Team bonus
+-Golden Longbow available to allies
+
+Missing techs
+D-infantry: long sword, gambeson, squires, infantry armor II, iron casting
+A-archers: hand cannon, EHA, thumb ring, parthian tactics
+C-cavalry: hussar, knight, bloodlines, husbandry, cavalry armor II
+C-siege: BC; onagre, siege ram, siege engineers
+B-navy: CG, FFS
+C-monks: heresy, atonement, redemption, BP, fervor
+C-defense: Keep, masonry, arrowslits, heated shot, treadmill crane, BT
+A-economy: both shaft mining, 2-man-saw, horse collar
+
+ODONORIANS
+
+Cavalry and priest civilization
+
+-Each garrisoned relic grant 6 Hp/regen to cavalry (max 30 hp/min)
+-Fervor and Sanctity affect Stable units
+-First Military building of each type is built instantly
+-For each tower upgrade, next tower is free
+
+UU Mage knight (mounted mage)
+RU
+
+CT-Fountain of Tears (dying units increase resistence and rejuvenation
+speed of all units, each unit +1 res/sec +10% rej/sped, max 10)
+IT-Heavy Taxation (all buildings generate a small tickle of G)
+
+Team bonus
+-Monasteries generate a small tickle of F
+
+Missing techs
+B-infantry: gambeson
+B-archers: hand cannon, elite skirm, archer armor III
+A-cavalry: husbandry§
+D-siege: BC, onager, battle ram, siege engineers, heavy scorpio
+B-navy: FFS, CG
+A-monks: faith°
+A-defense: BT
+A-economy: gold shaft mining, 2-man-saw
+
+FERESIANS
+
+Infantry and naval civilization
+
+-Warships work as fishing ships, at half rate
+-Armor upgrades are twice as effective
+-Each university upgrades give buildings
++5% HP and +1 building armor (max 8)
+-Get +150 G for each Age up and Town Center built
+
+UU Hospitalier (heavy infantry that heals)
+RU Armor knight, mirmidon, hero, warrior, sniper, mage, pegasus kn., wyvern kn., dromon
+
+CT-Feresian Shipcraft (warships are affected by infantry armor upgrades)
+IT-Calderan Armor (Hospitalier, Swordman, Paladin, Armor, Hero, Warrior +40 HP)
+
+Team bonus
+-Priest are affected by blacksmith armor upgrades
+
+Missing techs
+infantry: gambeson, infantry armor III§
+archers: crossbow, hand cannon, archer armor III§
+cavalry: hussar, husbandry,bloodlines°, cavalry armor III§
+siege: BC, siege onager
+navy: CG, carening°
+monks: fervor, heresy, atonement
+defense: masonry§, BT, treadmill crane, Heated shot
+economy: crop rotation
+
+ARDESIANS
+
+cavalry and defense civilization
+
+-Start with +100 S and +100 G
+-Villagers +10 HP
+-Wyvern, Pegasus, +20% HP
+-Stable works 5% faster for each uni tech researched
+-Build greenhouses instead of Farms/Mills
+
+UU Champion (hero upgrade) Imperial Wyvern knight (wyvern knight upgrade)
+RU 
+
+CT-
+IT-
+
+Team bonus
+-Imperial Wyvern Knight available to Allies
+
+Missing techs
+A-infantry: nothing
+B-archers: HC, EHA, parthian tactics
+A-cavalry: nothing
+B-siege: BC, onager
+B-navy: CG, dry dock
+D-monks: heresy, faith, redeption, atonement, theocracy, fervor, sanctity, BP, illumination
+B-defense: BT, heated shot, treadmill
+A-economy: horse collar
+
+NIHANIANS
+
+cavalry, cavalry archer and naval civilization
+
+-Can build pastures
+-Pastures techs are free and available one age earlier
+-Nomads: pop is already capped, cannot build houses, start with -100 W
+-Can train Chieftain at Stables
+-Can build mule carts
+-Stables, Markets, Universities, Docks and Blacksmiths cost -75 W
+
+UU Chieftain (cavalry with aura boosting abilities)
+RU camels, steppe rider, jinete
+
+CT-Honourbound (Units that die nearby the Chieftain return all their G cost)
+IT-Shamnitic methods (units are more vulnerable to conversion, but conversion
+last only for 8 seconds, 4 when nearby a chieftain, improve herbal medicine by 33%)
+
+Team bonus
+-Unique units upgrades cost -20%
+
+Chieftain
+HP 120+25 (165)
+Atk 12+2 (18)
+Rof 2.1
+Armor 3/3 (6/7)
+Speed 1.4 (1.54)
+Los 7+1
+Cost 100 F 80 G 48-36 sec
+Special: units in los move
+10-15 % faster, cavalry units
+in los attack 20-30% faster
+
+Missing techs
+C-infantry: long sword, halberdier, gambeson, infantry armor III, squires§
+A-archers: HC, elite skirm
+A-cavalry: paladin
+B-siege: BC, onager
+A-navy: CG
+C-monks: heresy, devotion°, BP, redeption, atonement, fervor§
+C-defense: architecture, fortified wall, treadmill, BT, arrowslits
+A-economy: 2-man-saw
+
+ANDARON
+cavalry and monk civilization
+
+-Each Age select of of three bonunes (for free):
+Feudal:
+-AshBurn: woodcutter works 20% faster, warrior, hero +2 attack
+-Flameguard: buildings +20% HP, infantry +1/0 armor
+-Speargarden: spearman, light cav, skirmisher -30% cost
+Castle:
+-Ring: archer, horse archers +2 range, cost -20% G
+-Windlance: mages, pegasi +10% movement, elite pegasi upgrade is free
+-Darkholm: mages cost -30%, heresy is free
+Imperial:
+-Steel: infantry and cavalry +2/1 armor, armor knight +2 attack
+-Rose: Bloodlines and husbandry +50% effect, knight-line is created 50% faster
+-Lightbringer: monks convert 50% faster, increase resistence by 5 to all units
+
+UU SteelKnight (infantry)
+RU hero, warrior, armor, sniper, pegasi, wyvern, mage, mirmidon
+
+Team bonus
+-First monastery built has twice the HP
+
+Steel Knight (Imperial Age)
+HP 120
+Atk 18 (22)
+Rof 2
+Armor 8/2 (14/7)
+Speed 0.8 (0.88)
+Los 4
+Cost 80 F 60 G 40-30 sec
++8 conversion resistence
+
+Missing techs
+A-infantry: gambeson°
+A-archers: hand cannon
+A-cavalry:
+B-siege: BC, siege engineers
+B-navy: CG, carening
+S-monks: nothing
+A-defense: BT, Heated shot, treadmill crane
+B-economy: bow-saw°, crop rotation, both shaft mining

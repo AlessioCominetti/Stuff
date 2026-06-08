@@ -1,0 +1,55 @@
+Galley
+HP 110-125-155
+Atk 6-7-9 [13]
+vs buildings +6
+vs longrangewarships +5-5-9
+vs rams +3-3
+Rof 3.0
+Range 5-6-7 [10]
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.36 [1.63]
+Cost 90 W 30 G 36-27 sec
+
+Fire Galley
+HP 110-120-140
+Atk 2-3-4
+vs buildings +1-2-3
+vs longrangewarship +1
+Rof 0.25
+Range 2.5
+Armor 1/4-1/4-3/7 [3/9]
+Speed 1.36-1.48-1.56 [1.87]
+Cost 75 W 45 G 50-27 sec
+
+Hulk
+HP 90-115-135
+Atk 4 [8]
+vs fireship +1
+vs buildings -3
+Rof 1.75-1.5
+Range 1
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.42-1.52-1.52 [1.82]
+Cost 75 W 35 G 42-27 sec
+
+Demo raft
+HP 40-50-70
+Atk 75-95-120
+vs buildings +180-220-280
+Blast 2.5-3.0-3.5
+Armor 0/0-1/0-2/0 [2/2]
+Speed 1.42-1.52
+Cost 45 W 80 G 45-30 sec
+
+Cannon Galleon
+HP 120-150
+Atk 50-60
+vs buildings +200-275 [330]
+vs siege +25 [30]
+Rof 10.0
+Range 13-15 [16]
+Armor 0/5-0/6 [0/8]
+Speed 1.05 [1.26]
+Cost 200 W 150 G 45 sec
+
+of0WnHfFr2uXeQs1x7V1

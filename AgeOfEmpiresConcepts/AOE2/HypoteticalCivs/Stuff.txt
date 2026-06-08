@@ -1,0 +1,211 @@
+
+CRUSADERS
+monk and siege civilization
+
+-obtain free units every 5-10 minutes
+-relic generates 20 S/min in addition to G
+-Siege units move 25% faster
+UU Templar knight (cavalry) Hospitalier (infantry) Turcopole (cavalry archer)
+CT Siege March (Siege units obtain a dodge shield 3 dodges, 45 sec) 100 G 400 W
+IT Enfeoffing (Docks and castles serves as drop off points, dropping
+resources at them makes Pilgrim Season come faster, 10 resources-> -1 sec) 750 W 350 G
+TB Mangonel +33% bonus damage
+
+Templar Knight (cavalry)
+HP 125+30 (175)
+Atk 12+3 (19)
+Rof 2
+Armor 4/2+1/1 (8/7)
+Spd 1.2
+Cost 80 F 50 G 30 sec
+Cannot be converted
+Up cost: 900 F 650 G 80 sec
+
+Turcopole (replace cavalry archer)
+HP 40+5 (65)
+Atk 5+1 (10)
+anti archer +3+1
+Range 3+3 (6)
+Los 6+3 (9)
+Rof 2
+accuracy 50-60%
+Armor 0/0 (4/6)
+Speed 1.5
+Cost 40 F 40 W 24-6 sec
+Up cost: 300 G 300 W 40 sec
+
+Hospitalier (infantry)
+HP 90 (105)
+Atk 10 (14)
+Rof 2
+Armor 6/2 (9/6)
+Speed 1.0
+Los 9
+Heal 150 hp/min
+Cost 35 F 75 G 30 sec
+Special: Aura that grant conversion resistence
+units also take -3 damage from mounted units
+
+Pilgrim Season causes a batch of free units to spawn under your
+starting TC. Unit occupy population and don't spawn if you
+don't have enough space left. Units come in seasons. Each season is
+5 min+season number until it becomes 10 min
+1) 1 militia-line
+2) 1 villager, 1 militia, 1 archer
+3) 1 villager, 2 miltia, 2 archer
+4) 2 militia, 2 archer, 1 monk, 1 knight
+5) 2 militia, 2 archer, 1 monk, 1 knight, 1 mangonel
+6+) 3 militia, 3 archer, 3 knight, 1 mangonel, 1 templar, 1 hospitalier
+
+Missing techs
+A-infantry: halberdier, squires
+B-archers: elite skirm, hand cannon, thumb ring
+A-cavalry: light cav, husbandry
+A-siege: BC
+B-navy: CG
+B-monks: redemption, heresy
+A-defense: BT
+C-economy: crop rotation, gold shaft mining, 2-man-saw, guilds
+
+
+
+
+
+
+
+
+
+
+MALTA
+naval civilization
+
+-Warships upgrades cost -50% and are available one age earlier
+-Docks generate a small tickle of F (0.5 per sec)
+-Hospital replace barracks
+-All units get +2% HP for every University tech researched (max +20%)
+
+UU Hospitalier knight (infantry that can heal), sentinel (gunpowder unit)
+RU flamethrower (siege unit, effective vs infantry and cavalry)
+
+CT-Embassy (enable to train Teutonic Knights, Cataphracts and Crusaders,
+organ gun, conquistadores, longbowman, these units are created 100% faster
+and cost -20% G)
+IT-Fire alchemy (gunpowder, flamethrower and fire ships increase blast radius by 25%)
+
+Team bonus
+-Hospitalier and Hospital are available to allies
+
+
+Hospitalier Knight (heavy infantry)
+HP 65+15 (96)
+Atk 6+2 (12)
+anti building +2+1 (5)
+anti cavalry +8+4 (12)
+anti shock +4+4 (8)
+Rof 2.0
+Trample 50%
+Blast 0.5
+Armor 4/1 (7/5)
+Speed 1.0 (1.1)
+Los 6
+Cost 60 F 40 G 10 sec
+Special: allies in Los take -25% damage
+Heal 75 hp/min
+
+Sentinel (gunwpowder unit)
+HP 45 (54)
+Atk 10
+anti building +2
+anti cavalry +1
+anti infantry +1
+Rof 2.7
+Range 7
+Accuracy 80%
+Los 8
+Armor 4/1 (7/5)
+Speed 0.9
+Cost 30 F 20 G 15 sec
+Special: can build like a villager
+
+Missing techs
+A-infantry: nothing
+B-archers: HA, parthian tactis, thumb ring
+A-cavalry: husbandry
+A-siege: nothing
+A-navy: nothing
+A-monks: heresy
+A-defense: nothing
+B-economy: crop rotation, both shaft mining, 2-man-saw
+
+
+PRIDE OF THE CAUCASUS
+
+
+ARMENIANS fusion: mod caucasus, vanilla age of empires II
+cavalry,naval and infantry civilization
+
+-TC generate a small tickle of F and W (0.1-0.25-0.5-0.75)
+-Stable units +1 atk per age, starting in Feudal age
+-Monks +1/2 conversion range, in III,IV
+-Siege engineers available in castle age
+-Mule cart cost -25%, mule cart techs are 40% more effective
+-Infantry units are available one age earlier
+
+UU Aspet, composite bowman, warrior priest
+RU dromon, mule cart
+UB Baptistery, Fortified church
+
+CTA-Baptism(Baptisteries +2 range)
+CTB-Cilician fleet(Demo ships +20% blast radius, galley/dromon +1 range)
+ITA-Nakharar(removes min range of siege units)
+ITB-Fereters(Sword-line, warrior priest +30 HP and +2 atk,
+warrior priest +100% heal speed)
+
+TB-Baptisteries available in Castle Age
+
+Missing techs
+A-infantry: blast furnace
+B-archers: HC, HCA, parthian tactics
+A-cavalry: hussar
+A-siege: BC
+A-navy: FFS, CG
+A-monks: theocracy, illumination
+B-defense: keeps, BT, treadmill crane
+A-economy: crop rotation, 2-man-saw, stone shaft
+
+GEORGIANS fusion
+cavalry and defense civilization
+
+-Wheel barrow, hand cart cost -25%
+-Herdables generate 15% G in addition to F
+-TC +5 garrison space per age
+-Towers +1 range, starting in Feudal Age
+-Free Redemption
+-Mounted units regen 5/7.5/15 HP/min
+-Units and buildings receive -20% damage when fighting
+from higher elevation
+-Fortified churches increase work rate of villagers
+by 10% in 19 tile radius
+
+UU Monaspa
+RU mule cart, steppe lancers, dromon
+UB Fortified Church, Baptistery
+
+CTA-Svan Towers (Defensive strucutres +2 atk, towers fire
+scorpion bolts who deal pass trough damage)
+CTB-Sven Towers (Towers cost -40%)
+ITA-Aznauri Cavalry (mounted units take -15% pop space)
+ITB-Aznauri infantry(infantry +30 HP)
+
+TB-Towers +5 population space
+
+Missing techs
+A-infantry: nothing
+B-archers: arbalester, HC, archer armor III,
+A-cavalry: paladin
+B-siege: BC, siege onager, siege engineers
+B-navy: shipwright, dry dock
+B-monks: heresy, illumination
+A-defense: BT
+A-economy: crop rotation, both shaft, 2-man-saw, guilds
+

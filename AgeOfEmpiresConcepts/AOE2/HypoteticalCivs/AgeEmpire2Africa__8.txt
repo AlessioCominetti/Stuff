@@ -1,0 +1,593 @@
+GRUPPI
+Africa Orientale:
+SWAHILI-AJURAN: naval and gunpowder
+Africa Centrale:
+OYO: cavalry and infantry
+NUBIANS: archers and monks
+ZULU: infantry and skirmisher
+Africa Occidentale:
+SONGHAI: cavalry
+SONINKE: infantry and camels
+MOSSI: cavalry and cavalry archers
+KANEM-BORNU: cavalry and monks
+
+All African civilizations have camels, with the exception of Zulu
+
+NEW UNITS
+-Genitour and Jali are regional units
+-All civs get catapult galley, except for Swahili
+-Sahel riders replace knights
+-Tribal warrior available in Barracks from Feudal Age
+-Lucanzos replace skirmishers
+-Griot/Jali available at Town Centers
+ORIENTAL
+Shotel warrior-elite shotel warrior: now replace longswordman, shared with Ethiopians
+Beja: replace hussar
+CENTRAL
+Mbundu: imperial version of the skirmisher
+OCCIDENTAL
+Hausa Archer: archer
+
+NEW TECHS
+-Tigui: town centers fire arrows even when ungarrisoned (Malians get a new Unique tech)
+-Purijami Shipyards: ship regen 30 Hp/min when within 4 tiles of Docks
+
+NEW UNITS'S STATISTICS
+Griot/Jali
+HP 30
+Effect: allies in 10 los get +10% atk rate and +10% movement speed.
+Enemies in 10 los get -10% atk rate and movement speed.
+cost 100 G 40 sec 3 max globally
+
+Special units:
+Sahel Rider/Lifid Knight: replace knight
+HP 90-130 [150]
+Atk 9-12 [16]
+vs archers +6-8
+Rof 1.8
+Armor 1/2-2/3 [5/7]
+Speed 1.45 [1.6]
+los 5
+Cost 50 F 65 G 30 sec
+Up cost 600 F 600 W 100 sec
+
+Tribal Warrior: fast moving infantry
+HP 45-55-65
+Atk 6-9-12 [16]
+vs cavalry +1-2-3
+vs buildings +1-2-3 [5]
+Rof 1.9
+Armor 1/2-1/3-1/4 [4/8]
+Speed 1.1 [1.21]
+Cost 35 F 35 G 40-28-24 sec
+Up cost 250 F 100 G 40 sec
+Up cost 550 F 250 G 80 sec
+
+Lucanzos: replace skirmisher
+HP 35-40
+Atk 2 [6]
+vs archers +3-4
+vs spear +3-4
+vs horse archers +2
+Rof 3.0
+Range 4-5 [8]
+Armor 0/3-0/4 [3/8]
+Speed 1.1
+Cost 25 F 35 W 28-24 sec
+Special: poison tipped javelins.
+Upon hit, inflict poison, dealing 1 damage over 3 seconds (20 dmg/min)
+can stack up to 6 times.
+
+Beja: light cavalry available to Ethiopians and Swahili, replace hussar upgrade
+HP 70 [90]
+Atk 7 [11]
+vs archers +6
+vs monks +12
+Rof 1.8
+Armor 0/3 [3/7]
+Speed 1.5 [1.65]
+Cost 700 F 600 G 100 sec
+
+Mbundu: imperial upgrade for the lucanzos, effective vs cavalry.
+Available to Oyo, Zulu, Nubia
+HP 45
+Atk 3 [7]
+vs archers +3
+vs spear +3
+vs cavalry +2
+Rof 3.0
+Range 5 [8]
+Armor 0/4 [3/8]
+Speed 1.15
+Up cost 500 W 300 G 100 sec
+Keeps poison ability
+
+Hausa archer: replace crossbowman and arbalester.
+Available for Songhai, Soninke, Mossi, Kanem-Bornu
+HP 30-35
+Atk 5-6 [10]
+vs spear +3
+Rof 1.9 [1.6]
+Accuracy 100%
+Range 5-6 [9]
+Armor 1/0 [4/4]
+Speed 1.0
+
+************
+SWAHILI-AJURAN
+naval and camels civilization
+
+-Tattara replace University
+-Stronger University technologies°
+-Gunpowder units and mangonels +1 range
+-Caravan affect infantry units and gunpowder, providing +10% movement speed
+-Start with a militia, who has +2 los
+UU Askari(gunpowder) 
+RU Dhow(warship), Ghanjah(warship)
+UB Tattara(university)
+RB Caravanserai
+CT-Falaj system: farmers and fisherman produce 2 G/min while working  COST   500 F 300 G 30 sec
+IT-Coral Forts: Fortifications +30% HP, take -30% damage from warships  COST 500 S 500 W 45 sec
+TB-Markets and Docks provide +10 population
+
+°No extra cost.
+Treadmill crane: +25% build speed
+Masonry/Architecture: +15% HP +4 building armor +1/1 armor
+Heated shot: +150% bonus damage, +1 atk for towers and castles
+Siege engineers: +30% bonus damage +1 range
+Clinker/carvel hull: +15% speed
+Shipwright: -25% wood discount +70% train speed
+Siphons/Incendiaries: +40% bonus damage
+
+Dhow: replace galley-line. See Arabian civs for more info
+
+Ghanjag: strong warship, replace Galleon
+HP 150
+Atk 9 [13]
+vs buildings +6
+vs long_range_warships +5 
+vs rams +3
+Rof 3.0
+Range 6 [9]
+Armor 1/6 [1/8] long_range_warship armor +6
+Speed 1.4 [1.82]
+Cost 120 W 30 G 27[16] sec 
+
+Askari: strong gunpowder unit
+HP 35-45
+Atk 17-20
+vs infantry +5-8
+Rof 3.45
+Range 7-8
+Armor 0/0-1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 60 F 40 G 16-14 sec
+Up cost 1200 F 800 G 60 sec
+
+Tattara: replace University. Works 100% faster and make villager
+work 10% faster in 10 tiles. For each Tattara built, increase
+gold income through trading by 5% (max +20%).
+COST 400 W 100 S 100 sec
+
+Missing techs:
+A-infantry: nothing
+B-archers: arbalester, genitour, thumb ring, parthian tactics
+X-cavalry: NOPE
+B-siege: siege ram, heavy scorpio
+B-monks: heresy, redemption
+A-naval: nothing
+A-defenses: hoardings*
+A-economy: 2-man-saw*
+**************
+NUBIANS
+monk and archer civilization
+
+-Lucanzos +1/1 armor
+-Towers, Castles and Town Centers can be individually upgraded
+to gain extra hp(+40%) extra range(+2) and extra damage(+3)
+-Start with +50 G and +50 S
+-Monastery and University techs are 33% more effective** (except ship techs)
+UU Nubian/Makurian archer(foor archer), Nubian/Makurian Guard(infantry)
+UB: Nubian Monastery(Monastery/University)
+CT-Coptic Scripts: monks heal/convert 33% faster, 250 G 300 W 30 sec
+IT-Makurian Bows: foot archers +1 atk and +1 range   700 F 400 G 50 sec
+TB-Archery Range units and monks +1 los
+
+Nubian Archer: replace archer line
+HP 40-50-60
+Atk 6-7-8 (13)
+vs infantry +1-2-3
+vs cavalry +1-2-3
+Rof 2.5 accuracy 100%
+Range 5-6-6 (10)
+Armor 1/1-2/2 (5/6)
+Speed 1.0
+Cost 40 W 50 G 42-30 sec
+Up cost 200 F 100 G 30 sec
+Up cost 600 F 400 G 50 sec
+
+Makurian Guard
+HP 60-70
+Atk 9-12 [16]
+vs infantry +4
+vs buildings +4 [6]
+Rof 2.0
+Armor 6/3-10/6 [12/8]
+Speed 0.9 [0.99]
+Cost 60 F 40 G 30-25 sec
+Up cost 800 F 400 G 80 sec
+Resist conversion
+
+Nubian Monastery: replace monastery and Universities. Allies in 6 tiles regen 20 hp/min.
+This buildings research techs 50% faster. Monks are trained 50% faster.
+Can also research University upgrades.
+COST 300 W 75 sec
+
+Buildings upgrades: Tower/TC/Castle
+HP +40%   50/100/200 W
+Range +2  50/100/200 G
+Atk +3    50/100/200 W
+
+**
+fervor: +20% speed   sanctity: +20% HP
+devotion/faith: +33% resistence     atonement/redemption: +33% faster conversion
+Block printing: +4 range     illumination: +160% rejuvenation speed
+theocracy: +33% initial faith remaining     herbal medicine: garrisoned units heal x8 faster
+Arrowslits: +4 atk to Keeps/Castles    Masonry/Architecture: +13%HP, +1/1 armor, +4 building armor
+Heated shot: +160% bonus damage        Treadmill: +27% building speed
+
+Missing techs:
+B-infantry: 2-h-swordman, infantry armor III
+A-archers: HC,HA, parthian tactics, thumb ring*
+E-cavalry: sahel rider, light cav, husbandry, bloodlines, cavalry armor II
+B-siege: siege onager, BC, siege engineers
+B-monks: heresy*
+A-naval: nothing
+A-university: BT, hoardings*
+A-economy: 2-h-saw
+
+
+OYO EMPIRE
+infantry and cavalry civilization
+
+-Castles, Town centers, Monasteries, Markets and Universities
+generate a small tickle of gold (respectively, 0.8, 0.4, 0.2, 0.2, 0.2 per second)
+but start with -50 G
+-Bloodlines and Husbandry cost -50%
+-Military buildings work 3% faster for each different type
+of military land unit alive you have at the moment (max 30 %)
+-Mounted units +2/3/4 damage vs buildings in Feudal/Castle/Imperial
+UU Oyo legionaire (longsword upgrade), Eso raider (cavalry)
+CT-Ida swords (militia-line inflict poison on hit, dealing 25 damage over 10 seconds)
+COST 600 F 900 G 50 sec
+IT-Oyo Mesi (lifidi knights and Eso raider do trample damage, lifidi Knights +2/1 armor)
+COST 1000 F 800 G 60 sec
+TB-Blacksmith and markets cost -30%
+
+Oyo legionaire (longsword upgrade)
+HP 75-90
+---Sword---
+Atk 6-9! [13]
+vs cavalry +8-12
+vs elephant +8-12
+vs camel +6-10
+vs shock +4-8
+vs building +2-4 [6]
+Rof 2.0
+---Javelin---
+Atk 6-7 [11]
+Range 4 [7]
+Accuracy 100%
+Rof 3.0
+---
+Armor 2/2 [5/6]
+Speed 0.96
+!Poison: 25 damage over 10 seconds, stack 5 times
+
+V1
+110   4/5
+hits  ch: 8 hal: 19 xbow: 22 ski: 55 hus: 16 hha: 19
+90    3/3
+hits  long: 15 pik: 30 xbow: 23 ski: 45 lc: 15 ha: 18
+V2
+90    5/6
+hits  ch: 7 hal: 18 xbow: 23 ski: 90 hus: 15 hha: 18
+75    4/4
+hits  long: 15 pik: 38 xbow: 25 ski: 75 lc: 15 ha: 19
+
+Eso raider (heavy cavalry, effective vs siege, melee units)
+HP 80+20 (120)
+Atk 12+2 (18)
+vs archer +6+1
+vs siege +6+1
+Rof 2.0-1.0
+!Trample 33%
+!Blast 0.4
+Armor 4/2-7/2 (10/6)
+Speed 1.4 (1.54)
+Los 4
+Cost 90 F 90 G 20-15 sec
+Special: attack 100% faster when below 50% hp
+!Deal trample damage
+
+Missing techs
+B-infantry: halberdier, gambeson*, squires
+C-archers: crossbow, HC, HA, parthian tactics, thumb ring
+A-cavalry: nothing
+C-siege: mangonel, BC, siege engineers
+C-navy: FFS, HDS, shipwright
+B-monks: heresy, BP
+C-defense: architecture, murder holes, arrowslits, BT, Keep, fortified wall, heated shot
+B-economy: crop rotation, both shaft mining
+
+ZULU
+infantry and skirmisher civilization
+
+-All buildings have -20% HP but are built 25% faster and cost -20% (not farms)
+-Foot units and villager move 5/10/15% faster starting from Feudal Age
+-Animals spoil 50% slower
+UU Zulu Warrior(infantry)
+CT Ul zela: skirmishers throw a second projectile
+IT Isihlangu: Infantry get +20 HP
+TB-Unique units +2 los
+
+Zulu Warrior:
+Shock infantry that is good against cavalry and archers.
+Weak to militia-line. Replace starting scout. Trainable at the Barracks.
+HP 50-55-60 [80]
+Atk 4-7-9 [13]
+vs archers +1-3-6
+vs buildings +1-2-3 [5]
+vs cavalry +4-6-8
+vs elephant +4-6-8
+vs camels +2-3-4
+Rof 2.0
+Armor 0/2-0/4-0/6 [2/8]
+los 8 (5 in dark age)
+Speed 1.1-1.15-1.2 [1.38]
+Cost 45 F 25 G 40-28-21 sec
+Up cost 200 F 150 G 30 sec
+Up cost 700 F 450 G 50 sec
+Special: deal +4 damage to isolated enemies (no allies in 4 tiles)
+
+Missing techs:
+A-infantry: longswordman, squires*, infantry armor III*
+C-archers: crossbowman, HA, HC, parthian, thumb ring
+F-cavalry: light cav, sahel, bloodlines, husbandry, cavalry armor I
+C-siege: onager, BC, scorpio, siege ram, siege engineers
+C-navy: Galleon, FFS, HDS, Carrack, shipwright, carening, clinker
+C-monks: heresy, BP, faith, illumination, theocracy, redemption, atonement
+C-defenses: masonry, treadmill, BT, guard tower, heated shot, arrowslits, stone wall
+B-economy: guilds, banking, coinage, both shaft mining, 2-h-saw
+
+********
+KANEM-BORNU
+cavalry and monk civilization
+
+-Each Stable and Town Center built spawn a Scout cavalry (except first Town Center)
+-Heresy, Devotion and Faith are free
+-Town Centers can train Mounted units and trade carts, 50% faster than normal stable/market
+-Gambeson affects Mounted units, also grant +1/0 armor
+UU Sayf(cavalry), Kanembu Mali rider(heavy cavalry)
+CT-Mai Dunama Codex: double monk healing rate and range  200 G 100 W 30 sec
+IT-Incursors: Mounted units get +6 atk vs cavaly
++5 vs camels, enable Sayfs at stables  600 G 400 F 60 sec
+TB-Town Centers and Castles provide +10 population
+
+Sayf
+HP 130-160 [180]
+Atk 12-14 [18]
+vs infantry +3-4
+vs cavalry +0 [6]
+va camels +0 [5]
+Rof 2.0
+Armor 1/2 [5/7]
+Speed 1.45 [1.6]
+Cost 70 F 65 G 22 sec
+
+Kanembu Mali rider: strong vs archers and cavalry, weak to infantry
+HP 140-180 [200]
+Atk 9-11 [15]
+vs archers +3-4
+vs cavalry +0 [6]
+va camels +0 [5]
+Rof 2.0
+Armor 2/3 [6/8]
+Speed 1.3 [1.43]
+Cost 70 F 70 G 18-14 sec
+Up cost 1200 F 800 G 60 sec
+
+Missing techs:
+A-infantry: nothing
+A-cavalry: nothing
+B-archers: crossbowman, HC
+S-monks: herbal medicine*
+B-siege: BC
+A-naval: nothing
+A-economy: guilds
+A-university: BT
+
+SONGHAI
+cavalry civilization
+
+-Jali, Sahel rider, infantry cost -20/30/40% G
+-First River Port built spawn a Demo ship line unit for free
+-Villagers can drop off resources at markets and River Ports with a 5% extra yield
+-Obtain 350 S when advancing to Castle Age
+UU Sofa cavalier(cavalry)
+UB: River Port(Dock)
+CT-Balma: mounted units deal +33% bonus damage, enable Sofa cavalier at Stables
+IT-Hi Koy: warships take -75% bonus damage from buildings, Sahel rider +30 HP
+TB-Stable and Docks are built 100% faster
+
+Sofa cavalier
+HP 120-150 [170]
+Atk 12-16 [20]
+vs infantry +6 [8]
+Rof 2.0
+Armor 2/2-3/3 [6/7] 
+cavalry armor +6-8
+Speed 1.45 [1.6]
+Cost 75 F 80 G 26 sec
+Up cost 1200 F 800 G 60 sec
+
+River Port: Cost 200 W 50 sec
+HP 3000 (3600)
+Armor 2/9-3/10 (5/12)
+Tile 4x4  los 6 (14)
+Act as a market and as a Dock and drop off point for 
+fish and gold. Trade units passing here drop off 20% more G.
+Warships in 10 tiles move 10% faster
+
+Missing techs:
+C-infantry: longswordman, halberdier, gambeson, infantry armor II
+S-cavalry: nothing
+B-archers: crossbowman, HC
+B-monks: heresy, fervor, BP
+C-siege: siege onager, BC, heavy mangustan, siege ram, siege engineers
+A-naval: nothing
+S-economy: 2-man-saw*, crop rotation*
+B-university: Keep, masonry, heated shot, BT, fortified wall, arrowslits
+
+SONINKE
+infantry and camel civilization
+
+-Relics generate 90 W/min
+-First mining camp built spawn 2 villagers
+-Camel riders cost -33% G and are trained 33% faster
+-Gold mines last 30% longer
+-start with a camel scout
+UU Kuralemme(camel)
+UB Saltern
+CT-Jamnu: melee units gain +1 atk for each 500 G stockpiled, max +4  COST  500 F 500 W 60 sec
+IT-Sonike Dynasty: infantry, foot archers, sahel rider, camels +3/0 armor COST 450 F 450 G 45 sec
+TB-Mining camp upgrades are twice as effective
+
+Kuralemme (camel)
+HP 100-125 [145]
+Atk 9-11 [15]
+anti cavalry +6-10
+anti camel +3-5
+Rof 1.9
+Armor 0/2-0/3 [6/7]
+Speed 1.45 [1.6]
+Los 4
+Cost 30 F 90 G 15 sec
+Up cost. 900 F 900 G 50 sec
+Special: take -50% anti camel damage
+
+Missing techs:
+A-infantry: champion, infantry armor III
+B-cavalry: lifidi, hussar
+B-archers: crossbowman,thumb ring,HC, parthian tactics, archer armor III, bracer
+A-monks: redemption, illumination
+B-siege: onager, heavy scorpio, siege ram, siege engineers
+A-naval: FFS, HDS, shipwright, bracer
+A-economy: crop rotation
+B-university: BT, architecture, arrowslits, heated shot, bracer, treadmill
+
+MOSSI
+cavalry and mounted skirmisher civilization
+
+-Military foot units gain +3/5 armor vs siege units Castle/Imperial Age
+-Husbandry and Bloodlines are 50% more effective
+-First stable spawn a cow, each age up spawn one cow from each stable
+-Villagers +5/10/15/20 HP and +2/5/10/15% movement speed, resist conversion
+UU Mogho(infantry) Nakomse(cavalry/skirmisher)
+CT-Tengabisi: Can garrison relics into Town Centers, each
+garrisoned relic improve conversion resistence by 2, max +8
+relics garrisoned in Town Centers produce double income   COST 750 F 450 G 40 sec
+IT-Dimas: UUs and camels cost -20% for all allies and player COST 500 F 500 G 40 sec
+TB-Stable units +3 dmg vs monks
+
+Mogho: trained at the town center, provide a bonus to allies within 3-4 tiles.
+Can only train 1 in Castle age and 2 in Imperial age.
+HP 100-120
+Atk 8-10 [14]
+vs building +1-2 [4]
+vs unique units +2-4
+Rof 2.0
+Armor 3/3-4/4 (7/8)
+Speed 0.96 (1.05)
+Cost 50[40] F 50[40] G 14 sec
+Special: Melee allies in 3 tiles get +2 atk
+(except other Moghos, doesn't stack)
+
+Nakomse
+HP 120-140 (170)
+Sword 10-12 (16)  vs monks/infantry 4-6  Rof 2.0
+Javelin 6-7 (11)  vs cavalry 4-6         Rof 3.0  Range 4 (7) Accuracy 90%
+Armor 2/2 (5/6)
+Speed 1.4 (1.61) los 6 (9)
+Cost 90(72) F 60(48) G 26 sec
+Up cost 1250 F 750 G 60 sec
+Resist conversion
+Can switch between a javelin and a sword
+
+Missing techs:
+A-infantry: halberdier
+S-cavalry: hussar
+C-archers: crossbowman, HC, HA, parthian
+B-monks: BP, heresy, faith*
+C-siege: BC, siege onager, siege ram, heavy scorpio, siege engineers
+B-naval: FFS
+B-economy: Crop rotation
+B-university: Keep, BT, fortified walls, heated shot
+
+
+
+
+
+
+
+____DISCARDED____
+
+Alternative bonus
+Swahili
+-ships +10% speed per age, starting from Feudal Age
+-Markets cost -75 W
+-Trade cogs produce +25% G
+-Houses provide +10 population
+UU Mtepe warrior: infantry with bonus in water
+Dhow: warship, small and cheap
+Ajuran
+-farmers drop 15% more F
+-Towers +1 range per age, starting from Feudal Age
+-Town Centers regen 15 hp/min to allies in los
+-Buildings cost -10% S
+UU Qanat guard: infantry who regen hp
+Songhai
+-stable units +1/0 armor per age, starting from Feudal Age
+-Universities and Monasteries cost -50%
+-Markets generate 12 G/min
+UU sohorse: anti-infantry heavy cavalry
+Kanem-Bornu
+-Mounted units +20% Hp
+-infantry +1 atk, starting from Feudal Age
+-Castles cost -15%
+-Units +50% resistence to conversion
+UU Tubu Knight: heavy cavalry effective vs archers
+Oyo
+-light cavalry +15% speed
+-Barracks work 40% faster
+-Markets generate 12 F/min
+-Archers +1 atk, starting from Feudal Age
+UU Eso Rider: heavy cavalry with trample damage
+Mossi
+-Arson benefit stable units
+-Town Centers and houses cost -15%
+-Squires is doubly effective
+-Monks convert 33% faster
+UU Mossi Rider: light cavalry effective vs arches
+Luba
+-Gold mines last 30% longer
+-Villagers generate 3 F/min while doing other tasks
+-Monks +1/1 armor
+-Buildings cost -10% W
+UU Kalala Guard: infantry effective vs archers and cavalry
+Soninke
+-Gold miner drop off 15% more G
+-Light cavalry +1/1 armor
+-Markets cost -75 W
+-Towers +1 atk
+UU Wagau Horseman: light cavalry effective vs infantry

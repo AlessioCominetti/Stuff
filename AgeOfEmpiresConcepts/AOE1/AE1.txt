@@ -1,0 +1,505 @@
+Custom version
+
+--Economy--
+-II,III,IV Woodworking 50/100/150 F 50/75/100 W:
+woodcutter work 20% faster carry +2 unit
+-II,III,IV Stoneworking 100 F 50 G each:
+stone miner work 20% faster carry +2 units
+-II,III,IV Goldworking 100 F 50 G each:
+gold miner work 20% faster carry +2 units
+-II,III,IV Plow 100/200/300 F 75/100/125 W:
+farms +100 F each, villager carry +2 units
+-III Wheel 150 F 75 W: villager +40% movement speed +4 carry capacity
+-Gillnets 150 F 150 W: fisherman work 20% faster carry +6 units
+
+--Religious techs--
+III
+-Polytheism 100 G: priest +40% movement speed
+-Medicine 150 G: priest heal 100% faster
+IV
+-Monotheism 150G: priest can convert other priests
+-Afterlife 300 G: priest +3 range
+-Fanaticism 350 G: priest can convert buildings and siege
+-Zealotry 100 G: villager +7 atk, +40 HP
+-Theocracy 400 G: only one priest is needed for conversion
+-Heresy 1000 G: converted player units dies
+(priest have an upgrade, become high priest,
+cost 300 G 100 sec, grant +20 HP and convert/heal 30% faster)
+
+--Military units--
+-IV Conscription 450 F 250 G: military units are trained 25% faster
+-II,III,IV Metalworking 100/200/300 F 0/120/180 G:
+melee units +2/2/3 attack
+-II,III,IV Infantry armor 75/100/125 F 0/50/100 G:
+infantry units +2/0 armor
+-II,III,IV Infantry shields 150/200/250 F 75/100/125 G:
+infantry units +0/1 armor
+(logistics and aristocracy are free, save 355 F 250 G 120 sec)
+-II,III,IV Cavalry armor 125/150/175 F 0/50/100 G:
+cavalry units +2/0 armor
+-II,III,IV Cavalry shields 150/200/250 F 75/100/125 G:
+cavalry units +0/1 armor
+-III Pure breed horses 150 F 125 G: cavalry units +20% HP (no elephants)
+-II,III,IV Fletchng 25/50/75 F 25/50/75 W: ranged units +1 range
+-II,III,IV Bodkin arrows 25/50/75 F 25/50/75 W: ranged units +1 attack
+-II,III,IV Archer armor 100/125/150 F 0/50/100 G:
+archer units +2/0 armor
+-II,III,IV Archer shields 150/200/250 F 75/100/125 G:
+archer units +0/1 armor
+-IV Engineering 200 F 100 W: siege units and siege ships +2 range
+and +20% bonus damage
+-IV Alchemy 250 F 200 G: +1 atk to ranged units, +6 atk to fire ship
+-IV Ballistics 200 F 50 G: improve ranged accuracy for moving targets
+
+--Naval technologies--
+-IV Shipwright 500 F 300 G: ships cost -20% W,
+ships are created 30% faster
+-III Levy Sailors 500 W: warships are created 30% faster
+-III Hypozomata 200 F 100 G: ships +1/1 armor
+
+--Defensive technologies--
+-II,III City Watch 75/150 F 50/125 W: buildings +4 Los
+-III,IV Architecture 100/300 F 100/300 W: buildings +10% HP -10% construction time
+
+--Miscellaneous technologies--
+-II,III,IV Next Age 500/800/1000 F 0/200/800 G: Advance to the next Age
+
+Availability
+Eco:
+Missing Wood 3: Macedonians, Palmyrians, Persians, Sumerians
+Missind Stone 3: Carthaginians, Egyptians, Lac Viet, Macedonians,
+Persians, Phoenicians, Shang
+Missing Farm 3: Hittites, Palmyrians, Persians, Romans
+
+Temple:
+Carthaginians: Astrology, Monoteism
+Greeks: Monoteism, Zealotry, Theocracy
+Hittites: all but Astrology
+Lac Viet: all but astrology, Medicine, Theocracy
+Minoans: all but Politeism, Medicine
+Palmyrians: all but Astrology, Afterlife, Fanaticism,Zealotry
+Romans: Afterlife
+Sumerians: all but Polytheism, Medicine, Theocracy
+Yamato: all but Polytheism, Afterlife
+
+University:
+Missing Architecure I: Assyrian, Phoenicians
+Missing Siege engineers: Choson, Lac Viet, Palmyrians, Shang
+
+Blacksmith:
+Missing Melee attack 3: Carthaginians, Palmyrians, Phoenicians, Sumerians
+Missing infantry armor 3: Carthaginians, Choson, Lac Viet, Phoenicians
+Missing archer armor 3: Carthaginians, Choson, Phoenicians
+Missing cavalry armor 3: Carthaginians, CHoson, Phoenicians
+Missing infantry shield 1: Assyrian, Egyptians
+Missing infantry shield 2: Babylonians, Choson, Sumerians +precedent
+Missing infantry shield 3: Lac Viet, Palmyrians, Yamato +precedent
+Missing archer range 3: Macedonians, Palmyrians, Persians, Sumerians
+Missind archer attack 3: Carthaginians, Egyptians, Lac Viet, Macedonians,
+Persians, Phoenicians, Shang
+Missing archer shield 3: Carthaginians, Choson, Phoenicians
+Missing cavalry shield 3: Carthaginians, Choson, Phoenicians
+
+Units
+--Barrack-- units at the barrack occupy half population
+I Militian
+III Swordman (3 not available to Egyptians, Greeks, Hittites, Palmyrians, Shang, Yamato, 4 not to Carthaginians, Lac Viet, Minoans, Sumerians)
+II Spearman
+II Axe Scout
+III Heavy Infantry (2 no for Assyrians, babylonians, Choson, Egyptians, Lac Viet, Persians, Shang, 3 not for Palmyrians)
+II Archer (2 not available to Assyrians,Carthaginians, Choson, Greeks, Hittites, Romans,Sumerianss)
+III Slinger 
+II Skmirmisher
+--Stable--
+II Scout cavalry
+III Medium cavalry
+III Heavy cavalry (2 not available to Babylonians, Egyptians, Hittites, Minoans, Phoenicians, Sumerians, 3 not for Carthaginians, Greeks, Lac Viet, Palmyrians, Romans)
+IV Horse archers (not available to Egyptians, Greeks, Minoans, Phoenicians, Romans, 2 not Assyrians, Babylonians, Carthaginians, Choson)
+III Camel rider (not available to Choson, Greeks, Lac Viet, Macedonains, Romans, Yamato)
+III Chariot (not available to Carthaginians, Choson, Macedonians, Minoans, Yamato)
+IV Battle elephant (not for Assyrians, Babylonians, Choson, Greeks, Minoans, Romans, Shang, Yamato)
+IV Siege elephant (only for Carthaginians, Egyptians, Hittites, Lac Viet, Persians, Phoenicians)
+--Siege workshop--
+III Ballista (not for Babylonians, Egyptians, Hittites, Persians, Phoenicians Sumerians,Yamato, 2 not for Lac Viet,Macedonians,Palmyrians)
+III catapult (2 not for Carthaginians, Choson, Egyptians, Phoenicians, Yamato, 3 not for Macedonians, Persians, Shang)
+IV Siege Ram
+IV Siege tower
+III Mantlet
+--Shipyard--
+II Trireme (3 not for Babylonians, Hittites, Shang)
+III catapult trireme (not for Assyrians, Babylonians, Carthaginians, Choson, Hittites, Palmyrians, SHaang, Sumerians, 2 not for Lac viet)
+IV Fire galley (only for Assyrians, Babylonians, Carthaginians, Greeks, Hittites, Palmyrians, Shang, Sumerians)
+IV Demoship
+
+Stats
+-Villager 50 F 20 sec: 25(65) HP Atk 3(10) Rof 1.5 Armor 0/0(0/3) Speed 1.0(1.5)
+-Militia 50 F 25 sec: 40-50 HP 3-5(12) Atk +4 vs cavalry Rof 1.5 Armor 0/1-4 (6/7) Speed 1.0
+-Spearman 35 F 15 W 20 sec: 50-70-110 HP 6-8-10(17) +6-8-12 vs cavalry Atk 1.5 Rof 0/0(6/3) armor 1 speed
+-Axe Scout 25 F 25 W 20 sec: 25-50-75 HP 5-7-9 (16) +2-4-6 vs archers 1.5 Rof 0/3-4-5(6/8) armor 1.2 speed
+-Slinger 40 F 20 S 30 sec: 30-40 HP 2(6) Atk 3 Rof 6-7 (10) Range 0/2(6/5) armor 1 speed attack pierce defenses
+-Skirmisher 40 F 10 W 30 sec: 25-35-40 HP 3-4-5 (9) Atk +3-5-6 vs archers Rof 1.5 Range 4(7) Armor 0/2-0/3-0/5(6/8)Speed 1.0
+-Archer 40 F 20 W 30 sec: 35-40-45 HP 3-4-5 (9) Atk +2-1-0 vs light infantry Rof 1.4 Range 5-6-7 (10) Armor 0/0(6/3) Speed 1
+Up cost 50/150 F 50/100 W 40/60 sec
+-Scout cavalry 80 F 30 sec: 60-80(96) HP 3-5(12) Atk +3-6 vs archer Rof 1.5 Armor 0/2(6/5) Speed 1.8
+Up cost 400 F 40 sec
+-Swordman 35 F 15 G 25 sec: 60-80-100-140 HP 7-9-11-13(20) Atk Rof 1.5 Armor 2/0(8/3) Speed 1
+Up cost 150/250/1400 F 50/100/600 G 90/90/150 sec
+-Chariot 100 F 100 W 80 sec: 200-240 HP 11-13 (20) Atk 1.5 Rof Armor 1/1(7/4) Speed 2
+Up cost 1400 W 1000 G 200 sec, occupies 2 population, enable trample 0.75 tile, 50% damage
+Also enable ranged attack with 4(8) power 0.7 Rof
+-Heavy Cavalry 70 F 80 G 40 sec: 150-180-230(276) HP 8-11-13(20) Atk +5-6-7 vs light infantry 1.5 Rof 0-2-5/1-2-3(11/6) armor Speed 1.6
+Up cost 350/1600 F 150/600 G 90/150 sec
+-Medium cavalry 70 F 50 G 40 sec: 120-180(216) HP 7-11(18) Atk +5-7 vs archers 1.5 Rof 2-3/2-3(9/6) armor 1.8 Speed
+Up cost 1500 F 500 G 120 sec
+-Camel rider 70 F 50 G 30 sec: 125(150) HP 6(13) Atk +9 vs mounted units 1.5 Rof 0/0(6/3) Armor Speed 1.6
+-Heavy Infantry 60 F 40 G 36 sec: 120-140-160 HP 17-20-30(37) Atk 1.5 Rof 5-7-8/1-2-3(14/6) armor 1.0 Speed
+Up cost 300/1800 F 100/700 G 90/150 sec
+-Stone thrower 180 W 60 G 60 se: 75-90-150 HP 50-60 Atk +140 building +50 vs towers Blast 0.8-1.0-1.5 6 Rof Range 3)-10-12-13(15) 0/4-6-8 Armor Speed 0.6
+Up cost 300/1800 F 250/900 W 100/150 sec
+-Priest 125 G 50 sec: 25-45 HP 10-13 Range 0/0-3 Armor 0.7-1.0 Speed
+-Battle Elephant 180 F 60 G 50 sec: 600 HP 10-11(18) Atk +25 vs buildings/towers blast 0.75 1.5 Rof 0-2/0-1(8/4) armor 1 speed
+Up cost 1000 F 1200 G 150 sec
+-Siege Elephant 180 F 60 G 50 sec: 600 HP 6(10) Atk 1.5 Rof 7(10) Range 0/0(6/3) armor 1 speed
+-Horse Archer 60 F 60 G 40 sec: 60-80(96) HP 7-8(12) Atk 1.5 Rof 7(10) Range 0/0-1(6/4) armor 2 Speed
+Up cost 1750 F 800 G 150 sec
+-Ballista 100 W 80 G 50 sec: 60 HP 40-45 Atk 3-2 Rof 3)-9-10(12) Range 0/3 armor 0.6 speed
+Up cost 1200 F 1000 W 150 sec
+-Siege ram 160 W 80 G 40 sec: 200-280 HP 3-5 atk +40-50 vs building +40-50 vs siege 5 Rof 0/40 armor 0.6 speed
+Up cost 1200 F 100 sec
+-Shield 80 W 40 G 20 sec: 100 HP 0/40 armor 1 speed
+
+-Fire galley 120 W 40 G 30 sec: 200 HP 24(30) Atk 1 Rof 1 Range 0/3 armor 2 speed
+-Catapult trireme 150 W 50 G 50 sec: 150-200 HP 35 Atk +140 vs building +50 vs towers 1 blast 6-5 Rof 9-10(12) range 0/3 armor 1.5 speed
+Up cost 1300 F 700 W 100 sec
+-Trireme 150 W 30 sec: 120-160-200 HP 5-8-12(16) Atk 1.4 Rof 0/3 armor 2 speed
+-Demoship 100 W 50 G 30 sec: 100 HP 100(110) Atk 0/4 armor 2.5 speed
+-Transport 150 W 40 sec: 200 HP 0/3 armor 2 speed 20 carry
+-Fishing ship 50 W 20 sec: 75 HP 0/3 armor 2 speed
+-Merchant ship 100 W 50 G 25 sec: 200 HP 0/3 armor 2 speed
+
+Civilizations 48 new 31
+NORD EUROPE 8 new 8
+Gauls, Iberians, Birtons, Germans, Goths, Dacians, Tracians, Picts
+MEDITERREAN EUROPE 9 new 5
+Athenians, Spartans, Macedonians, Cretans, Romans, Illyrians,
+Sicilians, Etruschi, Veneti
+WEST ASIA 13 new 6
+Assyrians, Babylonians, Hittites, Palmyrians, Persians, Phoenicians,
+Sumerians, Armenians, Judeans, Parthians, Pontus, Scythians, Seleucids
+EAST ASIA 5 new 2
+Choson, Shang, Yamato, Huns, Xiongnu
+SUD ASIA 4 new 3
+Lac Viet, Gupta, Maurian, Nanda
+AFRICA 7 new 5
+Carthaginians, Egyptians, Kushans, Nubians, Numidians, Nok, Aksum
+AMERICA 2 new 2
+Olmecs, Tiwanaku
+
+Bonuses
+
+Babylonians
+-stone miner work 20% faster
+-Eco techs cost -30%
+-Walls and towers +60% HP
+-Chariot +0/1 armor
+TB Builder work 10% faster
+
+Carthaginians
+-Start with +50 in all resources
+-Mounted units +25% HP
+-Fire galley +25% attack
+TB All military buildings work 5% faster
+
+Choson
+-Swordman +50% HP
+-Blacksmith techs cost -40%
+-Towers +2 range
+-Priest cost -30%
+TB Buildings +2 los
+
+Egyptians
+-Farms cost -20%
+-Gold miner work 20% faster
+-Chariot +33% HP
+-Priest +2/3 range
+TB Priest +0/1 armor
+
+Athenians
+-Town Centers work 10% faster from Age II
+-Hoplite moves 30% faster
+-Ships move 20% faster
+-High priest upgrade is free
+TB Market cost -50%
+
+Spartans
+-Town Center cost -20%
+-Hoplite +25% HP
+-Ships +10% HP
+-Skirmisher +0/1 armor
+TB Barrack works 10% faster
+
+Hittites
+-archers +1 attack
+-Catapult +50% HP
+-Trireme +1/2/3 range
+-Wheel is free
+TB Tower +4 population
+
+Lac Viet
+-forager work 15% faster
+-Conscription has double effect
+-Archers and siege units +2/0 armor
+TB Farms and houses are built 50% faster
+
+Macedonians
+-non ranged unit +2 los
+-Cannot build temple, units are 4 times more resistent to conversion
+-Siege units cost -25%
+-Hoplite +0/1 in III +0/2 in IV
+TB Houses +50 HP
+
+Cretans
+-Ships cost -15/20/25/30%
+-Archers +1/2 attack
+-Farmers work 10% faster
+TB Docks cost -20%
+
+Palmyrians
+-Villagers cost 75 F, but have +1/2 armor and work
+25% faster, start with +100 F
+-Camel rider moves 25% faster
+-trading +20% G
+TB Techs are researched 30% faster
+
+Persians
+-Hunters work 30% faster
+-Elephants units move 25% faster
+-Trireme fire 15/25/35% faster
+-Walls cost -20%
+TB Stable work 20% faster
+
+Phoenicians
+-Woodcutter work 15% faster
+-Elephants cost -25%
+-Catapult trirem fire 33% faster
+-Docks +150 HP +4 los
+TB Archers +2 los
+
+Romans
+-Buildings cost -10%, towers -40%
+-Swordman, attack 50% faster
+-Ballista +1 range
+-Shipwright is free
+TB Priest heal 50% faster
+
+Shang
+-villagers cost -20%
+-start with -40 F
+-Walls +80% HP
+-Heavy cavalry attack 10% faster
+TB Town center +4 population
+
+Sumerians
+-villagers +15 HP
+-Catapult fire 40% faster
+-Farms +125 F
+-Camels +0/1 armor
+TB Town centers cost -25%
+
+Yamato
+-Fisherman work 20% faster
+-Mounted units cost -15%
+-Ships +10/15/20/25% HP
+-Cavalry/archery unit upgrades cost -30%
+TB Stable and Barracks cost -30%
+
+Armenians
+-Stone miners generate G in addition to S
+-Animals +50% F
+-Cavalry archers +1 range
+-Afterlife is free
+TB Cavalry +2 los
+
+Britons
+-Blacksmith techs cost no G
+-Barrack units +20% HP
+-Shepherd work 25% faster
+TB Barracks, Stable +4 population
+
+Dacians
+-Free mining upgrades
+-Advancing to the Next Age cost -20%
+-Free Swordman upgrades
+TB Castles work 15% faster
+
+Gauls
+-Military land units move 10% faster
+-Free Infantry armor upgrades
+-Siege weapons fire 20% faster
+TB Siege workshop work 20% faster
+
+Germans
+-Can build Wagons
+-Barrack units cost -15/20/25/30%
+-Palisade +50% HP
+TB Blacksmith techs cost -40% F
+
+Goths
+-Mounted units +2/0 armor in III, +4/2 in IV
+-Villagers benefit from Blacksmith infantry upgrades
+-infantry +1/2 attack
+TB Military buildings cost -15%
+
+Gupta
+-Stable techs are researched 100% faster
+-Stable cost -50%
+-Farm upgrades cost -50%
+TB Elephants +2 los
+
+Huns
+-Don't need houses, start with -100 W
+-Horse archers cost -20%
+-Scout cavalry +40% HP
+TB Stable work 20% faster
+
+Iberians
+-Skirmisher fire 33% faster
+-Cavalry archers +0/1 armor
+-Infantry has a charge attack in IV
+TB Farms +20% F
+
+Illyrians
+-Scout ships cost -40%
+-Infantry upgrades are available one age earlier
+-Miner drop off 10% more resources
+TB Ships +2 los
+
+Judeans
+-Temple techs cost -25% and are researched instantly
+-Buildings refund 50% of their S cost upon destruction
+-Builder work 30% faster
+TB Spearmen are trained 100% faster
+
+Kushans
+-Free Spearman and archer upgrades
+-Priest and villager move 10% faster
+-Start with +50 G and +100 S
+TB Trade units move 20% faster
+
+Mauryans
+-Hunt and trees last 25% longer
+-Free Medicine and twice as effective
+-Elephants take -25% bonus damage
+TB Trade yields 30% of F in addition to G
+
+Nanda
+-Free Woodcutting upgrades
+-Receive 300 G per Castle built
+-Elephants move 10% faster
+-Chariot cost -20%
+TB Miner generate F
+
+Nubians
+-Free ballistics
+-Archers, Camels +10/15/20 HP
+-Miner upgrades are free
+-Archers +1/2/3 range
+TB Archers are trained 100% faster
+
+Numidians
+-Stable upgrades are free
+-Start with +2 goats
+-Camels regenerate 30 Hp/min
+TB Scout cavalry +0/1 armor
+
+Parthians
+-Cavalry archers are trained 100% faster
+-Villagers can be bought with 40 G
+-Cavalry archers +1/2 attack
+TB Military buildings +4 los
+
+Picts
+-Houses cost -60%
+-Farmers work 10% faster
+-Infantry +50% damage to buildings
+TB Town Centers +3 range
+
+Pontus
+-Chariots attack 33% faster
+-Gold,Stone deposits last 20% longer
+-Villager regen 20 hp/min
+-Spearman +40 HP
+TB Docks +4 population
+
+Scythians
+-Nomad, start with max pop, -100 W
+-Hunters work 50% faster, hunt last 50% longer
+-Cavalry archers fire 33% faster
+TB Gold mines last 5% longer
+
+Seleucids
+-Infantry armor/shields applies to cavalry
+-Camel archers, Hoplite +1 atk and +1/1 armor
+-Heavy cavalry cost -40% G
+TB Blacksmiths cost -50%
+
+Siracusans
+-Free Alchemy
+-Blacksmith, Universities, Markets, Docks cost -50 W
+-Fishing ships have twice the HP
+-Echo upgrades cost no F
+TB Farm upgrades provide +50% F
+
+Thracians
+-Light, Heavy cavalry +1 attack
+-All land units (exept siege) have 40% of their
+G cost replaced with F or W
+-Skirmisher, spearman, +0/1 armor
+-Start with +150 F
+TB Free skirmisher upgrade
+
+Etruscans
+-Temples cost -25%
+-Architecture double effect
+-Priest move 10% faster for each temple upgrade researched
+-All units cost -10% G
+TB Medicine is 50% more effective
+
+Venetians
+-Light cavalry cost -30%
+-Gillnets is free
+-Trade units cost -20%
+-Warships +15% speed and +1 range
+TB Ships regen 20 hp/min
+
+Xiongnu
+-Stable units cost -20% but are trained 20% slower
+-Villager yield 10% more F
+-Obtain +5 G for each enemy defeated
+TB Cavalry +1 los
+
+Nok
+-Barrack units cost -30% G
+-Stone deposits last 30% longer
+-Priest +1/1 armor
+TB swordman +0/1 armor
+
+Aksum 
+-Trade Cog yield 25% more G
+-Priest +1 range
+-Ranged units fire 10% faster
+TB Markets,Universities, Blacksmiths are built 50% faster
+
+Olmecs
+-All land units +10% HP, except priest and villager
+-Villager +4 carry capacity
+-Priest +5 Hp for each Temple tech reseached (up +40)
+-Buildings cost -5/10/15/20%, except Towers, Walls, Farms and Castle
+TB Priest convert 20% faster
+
+Tiwanaku
+-Farms cost -15/20/25/30%
+-Buildings take -25% bonus damage
+-Priest cost F
+-Archers +1/1 armor
+TB Towers,Walls are built 25% faster

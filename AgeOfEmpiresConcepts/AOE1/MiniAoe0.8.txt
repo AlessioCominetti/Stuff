@@ -1,0 +1,203 @@
+8 different and unique civs with different units
+and playstiles.
+-Removed Sacrifice, zealotry, fanatism.
+-Removed Stone Age and clubman.
+-Removed Chariots.
+-Logistics, writing, aristocracy, ballistics removed, their effects are free.
+
+Units
+BARRACK
+Swordman: quick to recruit an inexpensive, great for swarming
+HP 50-80-100-140
+Atk 5-8-12-14 [20]
+Armor 0/0-1/0-2/0-2/0 [8/3]
+Speed 1.2 Cost 30 F 20 G 20 sec
+Occupies half population
+Up cost 100 F 50 G 30 sec
+Up cost 250 F 100 G 50 sec
+Up cost 1400 F 600 G 100 sec
+
+Heavy infantry: sturdy infantry unit, weak to ranged units
+but great in pitched battles
+HP 120-120-160
+Atk 17-20-28 [34]
+Armor 5/0-7/0-8/0 [14/3]
+Speed 1.2 Cost 50 F 50 G 40 sec
+Up cost 300 F 100 G 50 sec
+Up cost 1800 F 700 G 100 sec
+
+Archer: basic ranged unit, strong en mass, weak to buildings and siege units
+HP 40-50-60
+Atk 4-5-6 [7]
+Range 5-6-7 [10]
+Armor 0/0-1/0-2/0 [8/3]
+Speed 1.2 Cost 50 F 30 G 40 sec
+Up cost 200 F 30 sec
+Up cost 400 F 50 se
+
+Skirmisher: ranged unit with great pierce armor but lower range, effective
+at fighting other archers, but weak to siege and cavalry
+HP 30-40-50
+Atk 4-5-6 [7]
+vs archers +4/5/6
+vs buildings +1/2/3
+Range 4-5-6 [9]
+Armor 2/2-3/3-4/6 [10/9]
+Speed 1.2 Cost 80 F 20 G 50 sec
+Up cost 200 F 100 G 30 sec
+Up cost 1400 F 1200 G 100 sec
+
+Cavalry: fast moving sturdy soldier, effective for raiding and for dealing
+with lightly armed troops, such as swordman and archers, but weak to heavy infantry
+HP 150-180-240 [288]
+Atk 8-12-14 [20]
+vs light infantry +5/6/6
+vs buildings +4/5/7
+Armor 2/0-3/0-6/1 [12/4]
+Speed 2.0 Cost 70 F 80 G 50 sec
+Up cost 350 F 150 G 50 sec
+Up cost 1600 F 600 G 100 sec
+
+Horse archer: ranged unit with fast movement, very annoying,
+weak to siege and other ranged units, strong vs slow non ranged units
+HP 60-80 [96]
+Atk 7-8 [9]
+Range 6-7 [10]
+Armor 2/0 [8/3]
+Speed 2.0 Cost 50 F 70 G 50 sec
+Up cost 1800 F 800 G 100 sec
+
+catapult: siege unit, long range and splash damage.
+Great vs buildings, ships and ranged units, weak to cavalry.
+HP 75-100
+Atk 40-45
+Range 10-12 [15]
+Armor 0/3
+Speed 0.8 Cost 120 W 60 G 40 sec
+Up cost 1400 W 1000 F 100 sec
+
+Priest: healer, cannot fight.
+HP 50
+Heal 5/sec 
+Range 3
+Speed 1.0
+Cost 100 G 50 sec
+
+DOCK
+Warship: naval unit that can fire bolts. Strong when massed. Can garrison 10 land units.
+HP 120-160-200-240
+Atk 6-9-12-15 [16]
+vs buildings +3/6/9/12
+Range 5-6-7-9 [12]
+Armor 0/0
+Speed 2.0 Cost 120 W 30 G 30 sec
+Up cost 150 F 100 W 30 sec
+Up cost 450 F 350 W 60 sec
+Up cost 1200 F 900 W 90 sec
+
+Fishing Ship: food gathering vessel
+HP 60-80-100
+Armor 0/0 Speed 2.0 Cost 50 W 20 sec
+
+TOWN CENTER
+villager: gather resources, construct and repair buildings, weak figther
+HP 40
+Atk 4 [10]
+vs buildings +3
+Armor 0/0
+Speed 1.0
+Cost 50 F 20 sec
+
+Techs:
+bloodlines: mounted units +20% HP: 200 F 150 G
+architecture: buildings +25% HP, take -33% build time: 200 F 200 W
+chemistry: ranged units +1 atk: 250 F 200 G
+---
+Wood I-III: woodcutter +20% work rate: 120 F 50 W - 180 F 100 W - 240 F 150 W
+farm I-III: farms contain +150 F: 150 F 50 W - 250 F 75 W - 350 F 100 W
+mine I-II: miner +30% work rate: 200 F 100 G - 400 F 200 G
+---
+melee attack I-III: melee units +2 atk: 100 F - 200 F 100 G - 300 F 200 G
+melee armor I-III: units +2/0 armor: 300 F - 375 F 150 G - 450 F 300 G
+pierce armor I-III: units +0/1 armor: 150 F 200 G - 200 F 300 G - 250 F 400 G
+---
+Age up to II, III: 800 F - 1000 F 800 G
+
+Buildings:
+house: 40 W  +4 population  HP 100
+storehouse: 120 W drop off point for all resources  HP 360
+market: 150 W trade resources, research economy upgrades HP 360
+farm: 100 W provide 300 F, up to 750 F with all farm upgrades HP 80
+tower: 150 G defensive structure HP 120-180-240  Atk 3-4-6-11 [12] range 5-6-7 [10]
+wall: 5 G defensive barrier HP 200-300-400 
+barrack: 200 W train military units HP 360
+town center: 200 W train villagers and develop technologies HP 600
+dock: 100 W train ships HP 360
+
+CIVS
+
+TERANIAN ORDER
+infantry, cavalry and naval
+
+-Heavy infantry,Swordman, Cavalry, Horse archers +1/1 armor in II, +2/2 armor in III
+-Food income +10%
+-Warships and catapults fire 33% faster
+UT: Falchion: swordman attack 50% faster
+Miss: sword 4
+Preferred army: heavy infantry, cavalry, horse archers
+
+RED LEGION
+infantry, priest and defense
+
+-Swordman, heavy infantry, +25% HP
+-Start with +1 villager and +50 W +50 G
+-Towers +2 range
+-Priest cost -35%
+UT: Sacred Robes: priests +8/1 armor
+Miss: archer 3, catapult 2
+Preferred army: swordman, heavy infantry, priests
+
+EMERALD DUNES
+defense and cavalry
+
+-Miner work 20% faster
+-Walls, towers +50% HP
+-Technologies (except aging up) cost -30%
+-Cavalry and Horse archers +25% HP
+UT: warmarch: all land units move 10% faster
+Miss: heavy infantry
+Preferred army: cavalry, horse archers, archers
+
+ASHEN ISLES
+archers and naval
+
+-Archers and Warships +1/2/2 range
+-Catapults +50% HP
+-Woodcutter work 20% faster
+UT: counterweights: catapults +1 range, +15% damage
+Miss: sword 4, cavalry, horse archers
+Preferred army: heavy infantry, archers, skirmishers, catapults
+
+CERULEAN SHIELD
+infantry and naval
+
+-Swordman, heavy infantry, warships cost -20%
+-Buildings cost -20%
+-Priest heal 50% faster
+UT: Forced Levy: barracks work 33% faster
+Miss: archer 2, horse archers, cavalry 2
+Preferred army: swordman, heavy infantry, skirmishers
+
+GOLDEN RIVER
+cavalry and horse archers
+
+-Cavalry and horse archers cost -20%
+-Ships +10% HP
+-Villagers cost -20%
+-Unit upgrades cost -30%
+UT: recurve bows: horse archers +1 atk
+Miss: sword 2, catapult 2
+Preferred army: cavalry, horse archers, heavy infantry
+
+
+

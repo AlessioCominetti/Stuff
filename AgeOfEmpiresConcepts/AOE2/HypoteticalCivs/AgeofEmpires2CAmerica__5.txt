@@ -1,0 +1,808 @@
+GRUPPI
+TAINO: monks and naval
+DIAGUITA: archers and defense
+ZAPOTECS: monks and defense
+PUREPECHA: archers
+MIXTECS: defense
+
+
+
+
+New regionals
+-Mace scout->Mace Runner->Mace Warrior->Elite Mace Warrior
+Fast moving infantry unit. Replace militia line for Maya, Aztecs, Zapotecs, Purepecha, Mixtecs, Taino, Diaguita
+They use this unit for the starting scout. Aztecs and Maya still use eagle warriors
+HP 40-45-55-60
+Atk 3-5-7-10 [14]
+vs siege +0-0-2-4
+vs archers +1-1-2-4
+vs shock +2-3-5-6
+vs cavalry +2
+vs buildings +0-1-2-4 [6]
+Rof 2.0
+Armor 0/2-1/2-1/3-1/4 [4/8]
+Speed 1.0-1.05-1.1-1.15 [1.25]
+Cost 45 F 25 G 50-35-30-24 sec
+Up cost 100 F 50 G 40 sec
+Up cost 200 F 100 G 60 sec
+Up cost 850 F 450 G 120 sec
+
+-Macahuitl warrior->Jaguar Warrior->Elite Jaguar Warrrior
+A unique unit made regional. Has a Feudal Age version which is available at Barracks. 
+Aztecs get a new unique unit.
+HP 50-65-75
+Atk 10-14-19 [23]
+vs infantry +4-5-6
+vs shock +2
+vs buildings +2-3-4 [6]
+Rof 2.0
+Armor 1/1-2/2 [5/6]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 40-32-28 sec
+Up cost 200 F 100 G 40 sec
+Up cost 800 F 500 G 120 sec
+Special: +1 atk per kill, max +4
+
+-Fire Archer-elite fire archer
+Foot archer with long range. Can set buildings and ships on fire, dealing dot.
+Replace trebuchet for all American civilizations. Can also be trained at the Archery Range from Castle Age.
+HP 40-50
+Atk 7-8 [12]
+vs buildings +16-20
+vs siege +5-6
+Rof 2.4 [2.0]
+Range 8-9 [12]
+Accuracy 55-65%
+Armor 0/2 [3/6]
+Speed 0.9
+Cost 50 W 50 G 15 sec
+Up cost 400 W 400 G 50 sec
+Special: set buildings and ships on fire, dealing 180 dmg/sec for 4 sec, stack 10 times
+
+-Slinger
+Replace hand cannoner for all American civilizations. Available from Feudal Age at Archery Ranges.
+Has low attack but it can ignore half of enemy pierce armor. Doesn't work on siege units, ships and buildings.
+HP 30-35-40
+Atk 4-5-6 [10]
+vs siege +2
+vs buildings +2
+vs infantry +3
+Rof 2.0
+Range 4-5 [8]
+Armor 0/1 [3/5]
+Speed 1.0
+Cost 50 F 30 G 40-32-24 sec
+Up cost 200 F 100 G 40 sec
+Up cost 400 F 300 G 60 sec
+Special: attack ignore 50% of target pierce armor (rounded down, ex 7->4)
+
+slinger/hc   DPS
+champion     5    6.17
+halberdier   5.5  7.05
+arc/camels   4    3.82
+skirmisher   3    2.64
+h a/hussar   3.5  3.23
+paladin      3    2.94
+huskalrs     4    5
+eagles       4.5  5.57
+
+-Jungle Archer
+Replace crossbowman and arbalester for these civs.
+HP 35-40
+Atk 5-6 [10]
+vs spear +2
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 1/0 [4/4]
+Speed 1.1
+Up cost 150 F 150 G 40 sec
+Up cost 450 F 350 G 80 sec
+
+-Blowpipe Warrior
+Ranged unit with poison attack. Isn't affected by blacksmith archer attack upgrade
+HP 35-40
+Atk 1
+Rof 2.0
+Range 6-7
+Armor 0/0 [3/4]
+Speed 1.2
+Cost 30 W 40 G 8-4 sec
+Up cost 450 W 450 G 30 sec
+Poison: 6 dmg over 3 sec, stack 10 times
+
+All canoes occupy -33% population space have smaller hit-boxes
+
+-Arrow canoe
+Replace galley line for the American civilizations.
+HP 75-80-100
+Atk 4-5-6 [10]
+vs buildings +4
+vs long-range-warships +3-4-8
+Rof 3.0
+Range 5-6-7 [10]
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.4 [1.68]
+Cost 60 W 20 G 24-18 sec
+Up cost 150 W 100 G 50 sec
+Up cost 400 W 300 G 65 sec
+
+-Fire canoe
+Replace fire ship for the American civilizations.
+HP 75-80-90
+Atk 3-4-5
+Rof 0.25
+Range 1
+Armor 0/4-1/4-2/7 [2/9]
+Speed 1.4-1.5 [1.8]
+Cost 50 W 30 G 32-18 sec
+
+-Incendiary canoe
+Replace demo ship for the American civilizations
+HP 30-35-50
+Atk 50-60-80
+vs buildings +120-150-200 [280]
+Blast radius 2.5-3.0-3.5
+Armor 0/0 [0/2]
+Speed 1.4-1.5 [1.8]
+Cost 30 W 60 G 30-20 sec
+
+-Boarding canoe
+Replace hulk line for the American civilizations
+HP 60-75-90
+Atk 8-12-14 [18]
+Rof 2.0
+Range 1
+Armor 5/1-6/1-7/1 [7/3]
+Speed 1.4 [1.68]
+Cost 50 W 30 G 28-18 sec
+
+-Catapult ship
+Replace Cannon Galleon for the American civilizations
+HP 140
+Atk 30
+vs buildings +130 [156]
+vs siege 10
+Rof 6.0
+Range 3-12 [3-13]
+Armor 0/6 [0/8]
+Speed 1.0 [1.2]
+Cost 200 W 125 G 60 sec
+
+BARRACK
+I-mace scout
+II-spearman
+II-macahuitl
+ARCHERY RANGE
+II-archer
+II-skirmisher
+II-slinger
+III-fire archer
+SIEGE WORKSHOP
+III-mangonel
+III-battering ram
+III-scorpio
+III-siege tower
+SHIPYARD
+II-arrow canoe
+II-fire canoe
+II-boarding canoe
+II-incendiary canoe
+IV-catapult ship
+
+
+
+TAINO
+monks and naval civilization
+
+-Canoe upgrades are free**
+-Fishing ship carry +5/10/15/20 Food
+-Monastery and Settlement work 40% faster
+-Settlements can train villagers at 1/5-1/4-1/3-1/2.5 rate
+UU Guasabara (infantry), Piragua (ship)
+RU mace runners, canoes
+RB Settlement
+CT Flint arrows (archers and ranged canoes +1 attack)
+IT Manati (Battle Canoes, piragua +2 range)
+TB-Monastery cost -33%
+
+**medium, heavy canoes
+
+Guasabara
+HP 80-100
+Atk 9-12 [16]
+vs siege +3+5
+vs buildings +3+5 [7]
+Rof 2.0
+Armor 0/2 [3/6]
+Speed 1.2 [1.32]
+cost 60 F 40 G 16 sec
+
+Piragua
+HP 70-85
+Atk 16-18 [22]
+Rof 3.0
+Range 4 [9]
+Armor 0/2 [0/4]
+Speed 1.7 [2.04]
+Cost 30 W 70 G 20 sec
+
+Missing techs
+B-infantry: champion
+A-archers: hand cannon, HA, parthian tactics
+X-cavalry: NOPE
+A-siege: heavy scorpio, BC
+A-navy: Fire rafts, CG
+A-monks: nothing
+A-defense: Keep, BT, heated shot
+A-economy: both shaft mining, 2-man-saw, guilds, crop rotation
+
+DIAGUITA
+archer and defense civilization
+
+-Settlement make villagers in 10 tiles work 5% faster
+-Archery Range units move 10/15/20% faster
+-Mace scout +1/0 armor each age, starting from Dark Age
+-Gain 150 S for each relic garrisoned ( stone obtained after garrisoning)
+UU Tangolmay (archer)
+RB Settlement
+CT Jungle Shelter (foot archers, Town center, towers, canoes fire 40% faster) COST 400 W 400 S 30 sec
+IT Jungle Tactics (Tangolmay fire a second arrow, it does +3 damage against UU) COST 500 F 500 G 40 sec
+TB-Towers and Town Center +2 attack
+
+Tangolmay
+HP 50-60
+Atk 5-6 [10]
+vs unique units +3
+Rof 2.0 [1.26]
+Range 5 [8]
+Armor 0/0 [3/4]
+Speed 1.0 [1.2]
+Cost 45 W 45 G 16-13 sec
+Up cost 750 W 450 G 50 sec
+
+Missing techs
+B-infantry: nothing
+A-archers: nothing
+X-cavalry: NOPE
+B-siege: siege onager
+B-navy: shipwright
+B-monks: heresy, faith
+A-defense: BT, arrowslits*,heated shot*
+A-economy: 2-man-saw*, crop rotation
+
+
+ZAPOTECS
+defense and monks civilization
+
+-Villagers in los of Universities work 10/15% faster
+-Get 3/4/5 villagers to first built Town Center when advancing to Feudal/Castle/Imperial Age
+-Heresy, Atonement and Redemption are free
+-Monks convert 3% faster for each Monastery tech researched, max +33%
+-Castles have +33% HP (+1600 hp)
+UU Macaw Warrior(infantry), Owl warrior(skirmisher)
+CT-Pulque: villager heal other units by 75 hp/min, Monks heal 50% faster
+COST 350 F 250 G 45 sec
+IT-Danzantes: land non siege units refund 50% of their G cost on death
+COST 500 F 500 S 60 sec
+TB-Shock infantry +2 los
+
+Macaw Warrior
+HP 100-120
+Atk 14-19 [21]
+vs buildings +4 [6]
+vs shock +4
+Rof 2.0
+Armor 4/2-7/3 [10/7]
+Speed 0.8 [0.88]
+Cost 60 F 40 G 18-16 sec
+Up cost 900 F 450 G 60 sec
+Special: this unit receives +33/50% healing from all sources
+
+Compared to Teutonic Knight:
+General: -25 F +10 G cost 
+Castle: +10 HP  -3/0 armor
+Imperial: +10 HP -3/+1 armor 
+
+Owl Warrior
+HP 50-60
+Atk 3-4 [8]
+vs archers +3-5
+vs cavalry +3-5
+vs camels +2-4
+vs elephants +2-4
+vs spearman +2-4
+Rof 3.0
+Range 5 [8]
+Armor 1/4 [4/8]
+Speed 1.2
+Cost 60 W 30 G 20-16 sec
+Up cost 400 W 300 G 40 sec
+
+Missing techs
+B-infantry: blast furnace
+B-archers: elite jungle archer
+X-cavalry: NOPE
+B-siege: siege onager, siege engineers
+B-navy: FFS, shipwright
+S-monks: nothing
+S-defense: BT, hoardings*
+S-economy: both shaft mining*, 2-h-saw*
+
+PUREPECHA
+archer civilization
+
+-villagers fishing and fishing ships work 5/10/15/20% faster
+-Archery Range techs and upgrades cost -50%
+-Wheel barrow and Hand cart cost no F and provide +50% carry capacity
+UU Quangariecha(infantry/archer), tzintzun(shock infantry)
+CT-Ocambecha: villager slowly generate all kinds of resources
+COST 250 W 500 G 50 sec
+IT-Purecatacuaro: foot archers +1 range and +1 attack, they are trained 33% faster
+COST 600 F 300 G 50 sec
+TB Archery Range technologies are researched 80% faster
+
+Quangariecha
+HP 65-80
+---
+Lance 9-12 [16]
+vs archers +6-7
+Rof 2.0
+---
+Bow 6-7 [12]
+Rof 2.5 [2.1]
+Range 4 [8]
+Accuracy 70-80% [100]
+---
+Armor 1/3 [4/7]
+Speed 1.2 [1.32]
+Cost 45 F 40 G 17-12 sec
+Up cost 750 W 400 G 40 sec
+Special: switches between armor classes when changing weapons
+lance-infantry, bow-archer
+
+TzinTzun: replace elite eagle warrior upgrade
+HP 60
+Atk 8 [12]
+vs monks +8
+vs cav/siege +3
+Rof 2.0
+Armor 0/4 [3/8]
+Speed 1.3 [1.43]
+Up cost 750 F 750 G 60 sec
+Special: each hit remove 1/1 armor from target, except buildings/siege/ships
+
+Missing techs
+A-infantry: nothing
+A-archers: nothing
+X-cavalry: NOPE
+B-siege: siege onager, siege ram, siege engineers
+B-navy: FFS, shipwright
+A-monks: fervor, faith, heresy
+A-defense: BT
+A-economy: 2-h-saw
+
+MIXTECS
+defense civilization
+
+-villagers can be trained optionally for 50 S
+-Towers and Military buildings cost -32%
+-Elite skirmisher and pikeman upgrade are available in Feudal Age and cost -50%
+-Foot archers +2 dmg vs siege
+UU Yuchi Yutun(infantry), Yaha Yahui(support)
+CT-Yucunduta: farmers generate a small tickle of S (15 F -> 1 S)
+COST 300 F 300 W 45 sec
+IT-Kuachi Ita: Spawn 5 skirmishers and 5 slingers from each Town Center (max 3)
+COST 400 F 300 G 30 sec
+TB Relics generate a tickle of S (4 G -> 1 S)
+
+Yuchi Yutun
+HP 75-90
+Atk 6-8 [10]
+vs cavalry +6-8
+vs elephants +12-16
+vs buildings +3-4 [6]
+Rof 2.0
+Range 0.5
+Armor 1/1-2/2 [5/6]
+Speed 0.96 [1.05]
+Cost 50 F 20 S 8 sec
+Up cost 600 F 750 G 50 sec
+Special: deal 2 true damage to enemies in 0.3 tiles radius
+
+Yaha Yahui
+HP 90
+Armor 1/1
+Speed 0.8
+Cost 100 F 100 G 50 sec
+Special: enemy buildings in 11 tiles cannot attack, max 3 at time
+
+Missing techs
+B-infantry: halberdier, blast furnace
+B-archers: jungle archer, archer armor III
+X-cavalry: NOPE
+C-siege: onager, heavy mantlet, capped ram, siege engineers
+B-navy: FFS, shipwright
+B-monks: fervor, faith, illumination, heresy
+S-defense: BT
+B-economy: crop rotation, gold shaft, 2-h-saw, guilds
+
+
+______________________-
+
+
+______IGNORE THE ONES BELOW_______
+
+
+
+
+
+ZAPOTECS
+Monk and defense civilization
+
+-Villager within Los of Universities work 10/15% faster
+-Gain 4 villagers in Feudal Age
+-First monk and redemption are free
+-Masonry/architecture benefits Monks, infantry and Owl warriors
+UU Macaw warrior (heavy infantry), Owl warrior (skirmisher), Lighting warrior(shock infantry)
+RU slinger,  canoes
+CT-A Pulque (villager can heal like a monk, at a half rate and at 2 range) 500 F 30 sec
+CT-B Rituals (monks rejuvenate 35% faster, take -20% pop space) 200 F 250 G 30 sec
+IT-A Danzantes (non siege,non ship units refund 25% of their cost on death) 750 W 400 S 65 sec
+IT-B Jatz'Om Kuy (Owl, Ligthing, Skirmisher attack 20% faster) 300 W 450 G 45 sec
+TB-Eagle scout +2 Los
+
+Macaw warrior (heavy infantry)
+HP 90-100 [120]
+Atk 12-14 [18]
+vs archer +3
+vs shock +2
+vs buildings +2 [4]
+Rof 2-0
+Armor 2/2 [7/8]
+Speed 0.8 [0.88]
+Cost 60 F 60 G 20-17 sec
+Up cost: 900 F 450 G 70 sec
+Special: +33/50% healing, from all sources
+
+Owl warrior (skirmisher) available at Archery Ranges, replace HA slot
+HP 35-40 [48]
+Atk 3-4 [8]
+vs cavalry +3-4
+vs camels +2-3
+vs archer +3-4
+Rof 3.0 [2.5]
+Range 4 [7] Los +2
+Accuracy 90-100%
+Armor 0/2 [5/8]
+Speed 1.3
+Cost 45 W 25 G 32-24 sec
+Up cost: 250 W 250 G 30 sec
+
+Zapotec Lighting Warrior (replace eagle warrior)
+HP 50 [60] 
+Atk 3-5-7-8 [12]
+vs cavalry +0-3-4-5
+vs infantry +0-0-3-4
+vs shock +0-0-1-1
+vs buildings +0 [2]
+vs monks +0-0-2-3
+Rof 2.0 [1.6]
+Armor 0/2 [5/8]
+Speed 1.1-1.15-2-1.3 [1.43]
+Cost 30 F 45 W 50-35-28-21 sec
+Up cost 250 F 150 G 30 sec
+Up cost 450 F 550 G 90 sec
+
+Missing techs
+B-infantry: champion, halberdier*, gambeson*
+B-archers: arbalester, parthian tactics
+X-cavalry: NOPE
+C-siege: siege onager, siege ram, heavy scorpio, BC, siege engineers
+B-navy: FFS, dry dock, shipwright
+A-monks: sanctity*
+A-defense: BT, heated shot
+A-economy: 2-man-saw§, both gold shaft mining§
+
+TLAXCALA
+infantry and archer civilization
+
+-House of Darts replace Barracks and Archey Ranges
+-Skirmisher and spearman cost -15 F
+-Destroyed buildings spawn units (from castle age, only from
+buildings that cost 200 resources or more)
+-fallen ally infantry units return 40% of their G cost
+UU Coyote warrior(infantry), Tlaxacalan rider(cavalry)
+RU slinger, eagle warrior, canoes
+CT-Can upgrade one House of darts for eachTC you have:
+House of darts will have improved attack,defense, garrison
+space, make house of darts in los attack 33% faster and
+produce units 33% faster. Each upgrade cost 125 W and 125 S
+IT-Tlaxacalan rider and Xolotl warriors get +40 HP  400 F 300 G
+TB-Unique units +2 los
+
+Coyote warrior
+HP 60-80
+Atk 9-11 (15)
+vs buildings +4-5 [7]
+Rof 2.0
+Armor 1/2-2/3 (5/7)
+infantry armor +5-6
+Speed 1.1 (1.21)
+Cost 35 F 35 G 
+Up cost 500 F 500 W 45 sec
+
+Missing techs
+A-infantry: nothing
+B-archers: thumb ring, parthian tactics, HA
+C-cavalry: all but melee attack
+B-siege: siege ram
+B-navy: shipwright, clinker
+B-monks: nothing
+B-defense:  nothing
+C-economy: banking, guilds, both shaft mining, crop rotation, 2-man-saw
+
+MIXTECS
+archer and defense civilization
+
+-Villagers can be optionally trained for 50 S
+-Towers cost -40 S
+-Atlat and skirmisher are available one Age eralier
+-Archers +2/3 damage vs siege in Castle/Imperial
+UU Yuchi Yutun(infantry), Yaha Yahui(monk)
+CT-Yucunduta(farms cost 10 S, farmers can drop F at towers to
+produce a tickle of S)
+IT-Kuachi Ita(Each Yaha Yahui spawn 5 altalt and 5 slingers, archers
++4 attack vs buildings)
+TB Unique techs cost -33%
+
+PUREPECHA
+archer civilization
+
+-Mills/lumber/minin camps provide +10/15/20/25% speed to
+villagers in 8 tiles
+-Foot archers benefit doubly from bracer
+Archery range techs cost -50%
+-Fishing ships move 20% faster
+UU Quangariecha(infantry/archer), Tzintzun(infantry)
+CT-Ocambecha (villagers slowly generate all resources when working) 250 W 500 G 60 sec
+IT-Purecatacuaro (Castles provide +33% work rate to military buildings
+within 8 tiles) 600 F 300 G 50 sec
+TB-Town centers can research blacksmith upgrades twice as fast
+
+Guancariecha
+HP 55+10 (65)
+Sword 8+2 (14)
+vs archers +5+1 (6)
+vs building +3+1 (6)
+Rof 2.0
+Armor 1/1 (+0/2 with sword equipped) (4/7)
+Speed 1.0 (1.1 +10% while having a sword equipped)
+Bow 5+1 (11)
+Rof 2.5
+Range 4 (8) Accuracy 70+10% (100)
+Cost 35 F 35 G 14-10 sec
+Up cost 750 W 500 G 40 sec
+
+Tzintzun (eagle warrior upgrade)
+HP 60
+Atk 8 (12)
+vs monks +8
+vs cav/siege +3
+Rof 2.0
+Armor 0/3 (3/7)
+Speed 1.3
+Cost 25 F 50 G 20 sec
+UP cost 750 F 750 G 60 sec
+Special: destroy armor with each hit
+
+
+
+ZAPOTECS-copilot
+-infantry +10/15/20% HP
+-Military buildings cost -20%
+-Towers +1 atk
+-Foot archers +1/1 armor
+UU Cloud Warrior(infantry)
+CT-Monte Alban: towers +1 range
+IT-Funerary Pyres: infantry regen 20 hp/min
+
+Cloud warrior
+HP 70
+Atk 10   +3 vs infantry
+Armor 1/2
+Speed 1
+60 F 40 G
+
+CHONTALS
+-all units move 10% faster
+-Foot archers +1 range from Castle Age
+-Eagle scout +1 atk in Feudal Age
+UU Forest Runner(infantry)
+CT-Sentiero: all units move 10% faster
+IT-Ambush: all units get a 4 atk charge
+
+Forest Runner
+HP 55
+Atk 8   +3 vs archers +2 vs villager
+Armor 0/1
+Speed 1.25
+45 F 25 G
+
+MIXTECS-copilot
+-Bracer available in Castle Age
+-Gold mines last 30% longer
+-Monasteries cost -30%
+UU Golden Bowman(archer)
+CT all units cost -10% G
+IT
+
+Golden Bowman
+HP 55
+Atk 7 +3 vs infantry
+Range 6
+Armor 1/1
+Speed 1.0
+45 W 60 G
+
+PUREPECHA-copilot
+-Blacksmith upgrades cost -50%
+-Foot archers +1/2 dmg to cavalry
+-Eagle scout +1/1 armor from Castle Age
+UU Cuachic Rider(cavalry)
+CT-Cuachic Rider +1 atk and +1/1 armor
+
+Cuachic Rider
+HP 80
+Atk 9 +4 vs infantry +2 vs archers
+Armor 2/2
+Speed 1.5
+70 F 20 G
+
+MIXTECS-copilot
+
+-Blacksmith attack upgrades give another +1 attack
+-Skirmishers +1 range, elite upgrade available in Feudal Age
+-Gold and stone mines last 25% longer
+-Barracks,Archery Ranges and Towers cost -30%
+UU Tay Nuu(infantry) Yaha Yahui(monk)
+RU slingers, eagle warriors
+CT-Golden amulets: gold miners work 20% faster
+IT Tilantongo Codex: infantry move 10% faster, unique units +1 atk
+TB Skirmishers attack 10% faster
+
+Tay Nuu: infantry with extra range
+HP 70-80
+Atk 9-11 [18]
+vs archers +4+2
+vs spears +2+1
+vs buildings +2 [4]
+Rof 2.0
+Range 1
+Armor 1/1-2/2 [5/6]
+Speed 1.05 [1.26]
+Cost 50 F 35 G 16-14 sec
+Up cost 900 F 550 G 45 sec
+
+Yaha Yahui: support unit
+HP 30-45 [60]
+Armor 1/1
+Speed 0.9 [1.03]
+Cost 40 F 30 G 20 sec
+Special: enemies in 5 tiles have -1/1 (-2/2 elite) armor
+
+Missing techs:
+A-infantry: champion§
+B-archers: crowwbowman, HC, HA, parthian
+X-cavalry: NOPE
+C-siege: onager, heavy scorpio, capped ram, BC, siege engineers
+B-monks: BP
+C-navy: CG, galleon, FFS, HDS, shipwright
+A-defenses: BT, heated shot, arrowslits
+A-economy: gold shaft mining§, 2-h-saw
+
+CHONTALS-copilot
+
+-fisherman work 15% faster and +5 carry capacity
+-Warships cost -10/15/20%
+-infantry moves 5/10/15/20% faster
+-Houses cost -50%
+UU Chontal javeliner(skirmisher)
+CT-River Lords: galleys +1 range
+IT-Jaguar Masks: infantry +1/1 armor
+TB Transport ships move 5/10/15/20% faster
+
+Chontal javeliner: skirmisher with high attack but low armor
+HP 50-65
+Atk 7-9 [13]
+vs spear +3+1
+vs scout cavalry +2+1
+Rof 2.0
+Range 4-5 [8]
+Armor 0/1-1/1 [4/5]
+Speed 1.15-1.2
+Cost 40 F 35 G 14 sec
+Up cost 900 F 500 G 45 sec
+
+PUREPECHA-copilot
+
+-Units benefit doubly from Blast Furnace, Arson and Bracer
+-Gold mines last 15% longer
+-Barracks and Archery Ranges give 20/30/40/50 G when built
+UU Uacusecha(infantry)
+CT-Copper furnace: infantry +1 atk and +1/1 armor
+IT-Tzintzuntzan's Kingdom: buildings +30% HP
+TB Spearman +1 atk
+
+Uacusecha: heavy infantry
+HP 70-90
+Atk 11-13 [20]
+vs infantry/cavalry +4+2
+vs buildings +4+2 [10]
+Rof 2.0
+Armor 2/1-3/2 [7/7]
+Speed 1.0 [1.1]
+Cost 60 F 40 G 18 sec
+Up cost 1000 F 600 G 50 sec
+
+
+
+
+
+ZAPOTEC-Grok
+-farmers gather food 15% faster
+-Eagle scout-line +20% HP
+-Free Gambeson, it also affects spearman-line
+UU Cloud warrior(infantry)
+Danzantes: Eagle scout hel 10 hp on kill  COST 200 F 150 G
+Mitla Mosaics: Walls +30% HP, towers x2 garrison
+TB Fortifications +1 range
+
+Cloud warrior: champion stats, speed 1.3,  +6-8 dmg vs cavalry
+Aura: allies in 10 tiles get +1/0 (2/0) armor  COST 50 F 30 G
+
+PUREPECHA-Grok
+-fishing ships gather 20% faster
+-Blacksmith upgrades cost -25%
+-Walls, towers, outposts, Castles +30% HP
+UU Cuise(skirmisher)
+Yacata: Castles +1 range COST 300 S
+Alloys: infantry +1 atk and +1/0 armor COST 200 F 200 G
+TB Towers cost -15% S
+
+Cuise: 60 F 30 G, like an elite skirmiehr( +10 HP +1 range) it does
++4 dmg to cavalry and buildings
+
+MIXTEC-Grok
+-Gold miner work 20% faster
+-Stone walls cost -20%
+UU Jaguar Claw(shock infantry)
+Turquoise Mosaic: Towers +1 range COST 250 S
+Nuu Codex: Monks techs cost -25%  COST 300 G 
+TB Trade +15% income
+
+Jaguar Claw: faster version of the eagle warrior
+
+CHONTALS-Grok
+-Fishing ships +2 carry capacity
+-Galleys +15% HP
+Cayuco Raider: 70 W fast skrimisher with extra pierce armor
+Potonchan Hu: Trade carts +20% speed COST 200 G 150 S
+Brick Pyramids: Fortifications are built 25% faster COST 100 W 50 S
+TB Relics generate +20% G
+
+
+
+
+Zapotec Lighting Warrior
+HP 65-80
+Atk 4-5 [9]
+vs cavalry +5-6
+vs infantry +4-5
+vs shock +1
+vs buildings +1 [3]
+Rof 2.0 [1.6]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1] 
+Cost 30 F 45 W
+
+

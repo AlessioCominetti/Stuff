@@ -1,0 +1,470 @@
+STABLE____________
+__________________
+
+Teuton Rider
+HP 80-120 [140]
+Atk 10-12 [16]
+vs buildings +6-8
+vs walls/gates +6-8
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 24 sec
+Up cost 500 F 500 G 50 sec
+Special: can switch to Teuton Archer
+
+Compared to Knight/Paladin: -15 G cost +0.05 speed
+Castle: -20 hp +0.2 rof
+Imperial: -20 hp -2 atk -0/1 armor
+
+Teuton Archer
+HP 80-120 [140]
+Atk 5-6 [10]
+vs buildings +4-5
+Rof 2.0
+Range 4-5 [8]
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 24 sec
+Special: can switch to Teuton Rider
+
+Mace Knight: knight that is effective vs mounted units, weak to camels, spearman and monks
+HP 100-120 [140]
+Atk 10-12 [16]
+vs cavalry +3-7
+vs camels +1-5
+Rof 2.0
+Armor 4/2 [7/6] cavalry armor +2-4
+Speed 1.35 [1.48]
+Cost 60 F 75 G 24 sec
+Up cost 600 F 400 G 50 sec
+
+Vlastela: mounted huskarl
+HP 80-100 [120]
+Atk 10-14 [18]
+vs archers +6-8
+Rof 2.0
+Armor 2/6 [5/10]
+Speed 1.35 [1.48]
+Cost 90 F 45 G 12 sec
+Up cost 1000 F 800 G 60 sec
+
+European Lancer: european version of the steppe lancer
+HP 80-105 [125]
+Atk 11-14 [18]
+Rof 2.0
+Range 1
+Armor 1/1-2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 85 F 50 G 30-25 sec
+Up cost 750 F 700 G 70 sec
+
+Dervisher: cavalry with great attack, but lower armor
+HP 100-140 [160]
+Atk 14-16 [20]
+Rof 1.5
+Armor 1/1-2/2 [5/6]
+Speed 1.5 [1.65]
+Cost 60 F 90 G 30-24 sec
+Up cost 1200 F 700 G 100 sec
+
+Belgae Horseman: medium cavalry with a lot of hit points
+HP 140-160 [180]
+Atk 8-10 [14]
+Rof 2.0
+Armor 2/1-2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 24-20 sec
+Up cost 800 F 500 G 60 sec
+
+Equite: roman light cavalry
+HP 100-120 [140]
+Atk 6-7 [11]
+Rof 2.0
+Armor 0/2 [3/6]
+Speed 1.5 [1.65]
+Cost 40 F 40 G 24-20 sec
+Up cost 600 F 600 G 100 sec
+
+Mounted Swordman: a longswordman on a horse
+HP 60-70 [90]
+Atk 9-12 [16]
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.4 [1.54]
+Cost 60 F 20 G 30-24 sec
+Up cost 750 F 550 G 100 sec
+
+ARCHERS___________
+__________________
+
+Slinger V 2.0
+HP 35-40
+Atk 3-4 [8]
+vs infantry +4
+vs spear +2
+vs siege +2
+Rof 2.0
+Range 5 [8]
+Armor 0/0 [3/4]
+Speed 0.96
+Cost 50 F 25 W 25 sec
+Up cost 350 F 350 G 50 sec
+Special: attack ignore 50% of enemy pierce armor(except siege)
+
+DPS     HC  sling
+Champ   6.0  4.5
+Spear   6.95 5.5
+Arch/HC 3.76 3.0
+Skirm   2.6  2.0
+Hus/HA  3.18 2.5
+Pala    2.9  2.0  (rounded down, from 7 to 4)
+
+Longbowman V 2.0: now available to Scots, Welsh, Gaels, Vikings and Britons
+HP 45-50
+Atk 7-8 [12]
+vs spear +2
+Rof 2.0
+Range 5-6 [9]
+Accuracy 70-80%
+Armor 0/0-1/1 [4/5]
+Cost 45 W 45 G 20 sec
+Up cost 850 F 850 G 60 sec
+
+Crossbowman-Arbalester: new archery Range units.
+Fire slower but deal more damage. The archer-line
+becomes archer-bowman-warbowman
+HP 50-60
+Atk 8-10 [14]
+vs spear +6-8
+Rof 4.2 [3.5]
+Range 6 [9]
+Armor 1/2 [4/8]
+Speed 0.9
+Cost 45 W 45 G 20 sec
+Up cost 450 F 450 G 50 sec
+New techs:
+Windlass: +20% fire rate: 250 F 250 W 40 sec
+Pavise: +0/2 armor: 300 F 300 G 60 sec
+
+Outlaw: cheap archer
+HP 15-20-25
+Atk 4 [8]
+Rof 1.8 [1.5]
+Range 4-5-5 [8]
+Accuracy 50-65-80% [100%]
+Armor 0/0 [3/4]
+Speed 0.72-0.9-0.96
+Cost 20 W 20 G 18-15-12 sec
+Free upgrades
+
+BARRACK____________
+___________________
+
+Shieldbearer: precursor for the huskarl, who is now a regional
+HP 50-60-70
+Atk 7-10-12 [16]
+vs archers +3-6-10
+vs shock +1-2-3
+vs buildings +1-2-3
+Rof 2.0
+Armor 0/4-0/6-0/8 [3/12]
+Speed 1.05 [1.15]
+Cost 75 F 35 G 30-26-22 sec
+Up cost 200 F 100 G 20 sec
+Up cost 1200 F 550 G 40 sec
+
+Soldier: infantry strong vs archers and cavalry, weak to infantry
+HP 50-60-70
+Atk 5-7-9 [13]
+vs cavalry +8-9-14
+vs elephants +8-9-14
+vs camels +2-3-4
+vs archers +1-2-3
+vs siege +1-2-3
+vs buildings +1-2-3 [5]
+Rof 2.0
+Armor 2/2-3/3-4/4 [7/8]
+Speed 0.9 [0.99]
+Cost 60 F 30 G 40-30-24 sec
+Up cost 200 F 200 G 40 sec
+Up cost 800 F 500 G 100 sec
+
+Throwing Axeman V 2.0
+HP 60-70
+Atk 7-8 [12]
+vs shock +1-2
+vs buildings +1-2 [4]
+Rof 2.0
+Range 3-4 [6]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 55 F 25 G 13 sec
+Up cost 850 F 550 G 45 sec
+
+Axeman-Heavy Axeman: regional infantry for the Europeans.
+Slow but with great armor. Similar to the teutonic knight.
+HP 60-75
+Atk 14-18 [22]
+vs shock +4
+vs buildings +4 [6]
+Rof 3.0
+Armor 6/2-8/2 [11/6]
+Speed 0.9 [0.99]
+Cost 60 F 20 G 24 sec
+Up cost 600 F 400 G 100 sec
+
+Maceman: strong infantry unit
+HP 80-90
+Atk 13-18 [22]
+vs buildings +4-8 [10]
+vs shock +4-8
+Rof 2.0
+Armor 2/1 [5/5]
+Speed 0.9 [0.99]
+Cost 60 F 30 G 30 sec
+Up cost 750 F 450 G 100 sec
+
+Berserker V 2.0
+HP 78-90 (65-75 without the bonus)
+Atk 14-17 [21]
+vs shock +3
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.05 [1.15]
+Regen 40 hp/min
+Cost 65 F 35 G 17-15 sec
+Up cost 1000 F 500 G 45 sec
+
+Round Shield: fast infantry, strong vs trash units and archers
+HP 70-80
+Atk 8-12 [16]
+vs archers +2
+vs siege +2
+vs buildings +2-4 [6] 
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.2 [1.32]
+Cost 50 F 30 G 30-24 sec
+Up cost 750 F 450 G 100 sec
+
+Italians: Have condottiero, who have +2-6 dmg vs guns and get +1/1 armor
+
+Bandit: strong in melee, weak vs ranged units
+HP 75
+Atk 10 [14]
+Rof 1.0
+Armor 0/0 [3/4]
+Speed 0.96 [1.05]
+Cost 60 G 30 sec
+Special: generate 3 G per kill
+
+Spy: strong infantry unit with great attack power
+HP 100
+Atk 60
+vs cavalry +60
+vs shock +60
+vs buildings +60
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+
+Strong infantry: gotta find a better name for it
+HP 70-80
+Atk 13-18 [22]
+vs buildings +4-5 [7]
+vs shock +2-3
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 0.92 [1.01]
+Cost 40 F 50 G 30-24 sec
+Up cost 750 F 450 G 60 sec
+
+Super Strong infantry: ditto
+HP 100-120
+Atk 16-22 [26]
+vs buildings +4 [6]
+vs shock +8
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 0.92 [1.01]
+Cost 60 F 50 G 35-28 sec
+Up cost 1000 F 600 G 55 sec
+
+Comparison with teutonic knight: -25 F +20 G cost +0.12 speed +4 dmg vs shock
+Castle: -5/0 armor +2 atk +10 hp
+Imperial: -8/0 armor +5 atk +10 hp
+
+Strong Axeman: more hp,atk,armor than average swordman, but a little bit slower
+HP 70-80
+Atk 18-24 [28]
+vs buildings +5 [7]
+vs shock +5
+Rof 2.4
+Armor 5/2-8/3 [11/7]
+Speed 0.92 [1.01]
+Cost 70 F 30 G 30-24 sec
+
+Comparison with teutonic knight: -15 F cost +0.12 speed +0.4 rof +1 vs buildings/shock
+Castle: +4 atk -2/0 armor 
+Imperial: +7 atk -2/+1 armor
+
+champion: versatile
+spearman: vs cavalry
+soldier: vs cavalry, archers
+huskarl: vs archers
+axeman: vs infantry, cavalry
+jaguar: vs infantry
+roundshield: vs infantry, archers
+
+light cav: vs archers
+knights: versatile
+camels: vs cavalry
+cataphract: vs infantry
+
+archer: versatile
+skirmisher: archers
+hand cannon/slinger: infantry
+bolas/genoses xbow: cavalry
+
+rams: vs buildings, archers
+scorpio: vs infantry, archers
+mangonel/organ gun: vs infantry, archers
+trebuchet: vs buildings
+BC: vs siege, buildings, archers
+
+__________________________
+SHIPS ____________________
+__________________________
+
+Brigantine: small and cheap warship that cost no G
+Effective vs hulks and demo ships. Weak to fire ships
+and Galleys, Siege ships.
+HP 90-100-125
+Atk 4-5-6 [10]
+vs long_range_warships +2-3-4
+vs buildings +4
+vs rams +2
+Rof 2.0
+Range 4-5-6 [9]
+Armor 0/4-0/4-0/6 [0/8] long_range_warship +1
+Speed 1.4 [1.68]
+Cost 100 W 30-22 sec
+
+Galley V 2.0
+HP 110-125-155
+Atk 6-7-9 [13]
+vs long_range_warships +5-6-9
+vs buildings +6
+vs rams +3
+Rof 3.0
+Range 5-6-7 [10]
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.36 [1.61]
+Cost 90[72] W 30 G 36-27 sec
+
+Hulk V 2.0
+HP 100-125-150
+Atk 4 [8]
+vs fire ships +1
+vs buildings -2
+Rof 0.5
+Range 1
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.42-1.52-1.52 [1.82]
+Cost 80[64] W 40 G 42-27 sec
+
+Fire Ship V 2.0
+HP 110-120-140
+Atk 2-3-4
+vs long_range_warships +1
+Rof 0.25
+Range 2.5
+Armor 1/4-2/4-3/7 [3/9]
+Speed 1.42-1.52-1.52 [1.82]
+Cost 75[60] W 45 G 50-27 sec
+
+Demo ship V 2.0
+HP 40-50-70
+Atk 75-100-125
+vs buildings +180-220-280 [392]
+Blast 2.5-3-3.5
+Armor 0/0-1/0-2/0 [2/2]
+Speed 1.42-1.52-1.52 [1.82]
+Cost 60[48] W 60 G 45 sec
+
+Cannon Galleon V 2.0
+HP 125-150
+Atk 50-60
+vs buildings +200-275 [330]
+vs siege +25 [30]
+Blast 0.25-0.3
+Rof 10.0
+Range 13-15 [16]
+Armor 0/5-0/6 [0/8]
+Speed 1.05 [1.25]
+Cost 200[160] W 150 G 45 sec
+
+Catapult Galleon V 2.0
+HP 125-150
+Atk 30-36
+vs buildings +130-180 [216]
+vs siege +10 [12]
+Rof 6.0
+Range 12-13 [14]
+Armor 0/5-0/6 [0/8]
+Speed 1.05 [1.25]
+Cost 225[180] W 100 G 55 sec
+Up cost 600 W 400 G 50 sec
+
+Scorpion Galleon
+HP 125-150
+Atk 12-14 [18]
+vs buildings +65-90 [108]
+vs siege +5 [6]
+Rof 3.0
+Range 10 [14]
+Armor 0/5-0/6 [0/8]
+Speed 1.05 [1.25]
+Cost 225[180] W 100 G 55 sec
+Up cost 600 W 400 G 50 sec
+
+Hulk V 2.0
+HP 100-125-150
+Atk 4 [8]
+vs fire ships +1
+vs buildings -2
+Rof 0.5
+Range 1
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.42-1.52-1.52 [1.82]
+Cost 80[64] W 40 G 42-27 sec
+
+Ram Galley: has a charged attack. Strong vs hulks, fire galleys, galleys.
+Weak vs siege ships, demo ships.
+HP 100-125-150
+Atk 8-10-12 [16]
+Rof 2.0
+Range 1
+Armor 5/1-6/1-7/3 [7/5]
+Speed 1.4 [1.68]
+Cost 100[80] W 50 G 54-36 sec
+Special: get +20% speed and +30/40/50 dmg, CD 30 sec
+
+MISCELLANEAOUS__________
+________________________
+
+Petard V 2.0
+HP 60
+Atk 30
+vs walls/gates +1200 [1800]
+vs buildings +600 [900]
+vs siege +50 [75]
+Blast 0.5
+Armor 0/0 [3/4]
+Speed 0.8 [0.88]
+Cost 80 F 25 G 32[24] sec
+Count as infantry and siege.
+Can be trained at Barracks and Siege Workshops.

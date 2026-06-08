@@ -1,0 +1,568 @@
+GRUPPI
+NORTH EAST
+HAUDENAUSAUNEE: infantry
+WYANDOT: infantry
+LENAPE: archers and monks
+SOUTH EAST
+CREEK: archer
+CHICKSAW: infantry
+CHEROKEE: archer and infantry
+
+
+Mercenary units
+*********
+Seminole archer
+HP 50-60
+Atk 7-8 [12]
+vs spear +3-4
+vs buildings +2
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 0/0 [3/4]
+Speed 1.2
+Cost 40 W 60 G 17-14 sec
+Up cost 800 F 600 G 50 sec 
+***********
+
+
+
+
+Nord american units have some shared characteristics
+-Town centers cost no S, but +125 W
+-Have canoes instead of normal navy
+-Fire archer replace trebuchet and Bombard Cannon, can be trained at Archery Range
+-Mantlet replace Battering Rams, can be trained at Siege Workshops
+-Native Archer replace Archer at the Archery Range
+-Warrior with staff acts as an eagle warrior, trained at the Barracks
+-Forest prowlers replace hand cannons
+-Settlers replace villagers
+-Forts replace Castles for many civs, they cost 500 W and are weaker than Castles
+-Storehouses replace Lumber and Mining camps(same stats)
+-Some civs cannot train gunpowder or mounted units
+
+NEW TECHS
+-Fire arrows: Defensive buildings deal more bonus damage to ships,
+all ranged units get +1 atk, and deal +20% move bonus damage
+(replace chemistry and heated shot)
+650 F 300 G 120 sec
+
+BARRACK
+I -club warrior/tomahawk warrior
+II-spearman
+II-warrior with staff/red lancer
+IV-head hunter
+ARCHERY RANGE
+II-native archer
+II-skirmisher
+III-fire archer
+FORT
+III-unique unit
+III-fire archer
+SIEGE WORKSHOP
+III-mantlet
+III-mangonel
+III-scorpio
+III-siege tower
+
+UNITS
+LAND
+Mantlet(ranged siege unit)
+HP 90-135
+Atk 5-6 [10]
+vs building 40-50
+vs siege 10-12
+Rof 2.0 (+10% fire speed for each garrisoned unit)
+Range 3 [6] Accuracy 50-60%
+Armor 0/100
+Speed 0.6 (+0.1 for each garrisoned unit)
+Garrison 3
+Cost 80 W 40 G 24 sec
+Up cost 1200 F 120 sec 
+
+Fire Archer(archers with long range anti building attack)
+HP 35-40
+Atk 5-6 [10]
+vs ships 8-10
+vs siege 8-10
+Rof 2.0 Accuracy 50% (100 vs buildings)
+Range 10 [13]
+Armor 0/4 [3/8]
+Speed 0.96
+Cost 50 W 50 G 32[24] sec
+Up cost 500 F 500 G 100 sec
+Special: arrows set buildings  on fire,
+dealing 5 dmg/sec for 5 seconds, stack 10 times
+
+Native Archer(cheap foot archer unit)
+HP 30-35-40
+Atk 4-5-6 [10]
+vs spear +2-3-4 [5]
+Rof 2.0
+Range 4-5 [8]
+Armor 0/0 [3/4]
+Speed 1.0
+Cost 25 W 45 F 35-28 sec
+Up cost 200 F 100 W 30 sec
+Up cost 450 F 350 W 50 sec
+
+Warrior with staff(cheap anti archer shock infantry)
+HP 50-55-60
+Atk 6(4 in Dark Age)-7-9 [13]
+vs monks +0+2+2
+vs siege +3+0+2
+vs cavalry +0+3+1
+Rof 2.0
+Armor 0/2-0/3-0/4 [3/8]
+Speed 1.1-1.2-1.3 [1.43]
+Cost 20 F 50 W 50-35 sec
+Up cost 200 F 200 G 50 sec
+Up cost 800 F 500 G 50 sec
+
+Club warrior(replace man-at-arms)
+HP 45-60-75
+Atk 6-9-12 [16]
+vs shock/cavalry +2-3-4
+vs buildings +2-3-4 [6]
+Rof 2.0
+Armor 0/1-1/1-1/2 [4/6]
+Speed 1.0 [1.1]
+
+Head Hunter
+HP 100
+Atk 20 [24]
+Rof 2.0
+Armor 0/0
+Speed 1.3 [1.43]
+Cost 40 F 50 G 30 sec
+Special: heal 10 hp and get +2 atk for each enemy killed, max +5
+
+
+-Settlers(replace villagers, has a ranged bow attack)
+HP 40
+Atk 4 [8]
+Rof 2.0
+Range 3 [6]
+los 4 [7]
+Armor 0/0 [3/4]
+Speed 0.8 [0.96]
+Cost 50 F 25 sec
+Settlers works exactly like villagers, but are affected by
+Archer Armor and Archer attack upgrades.
+For this, these civs lack loom and sappers but start with -50 G.
+
+SHIPS
+Scout canoe (I):
+Small weak warship that excels against the
+boarding canoes and hulk-line, but it is weak
+vs long_range_warships. Replace the fire ship-line.
+Good for scouting.
+HP 60-75-80-100
+Atk 2-3-4-5 [9]
+Rof 2.0
+Armor 0/0 [0/2]
+Speed 1.5 [1.8]
+Cost 50 W 30 G 24-18 sec  0.5 population
+
+Battle canoe (II):
+Replace galley line and catapult galleon.
+Fast small ship that can shoot arrows at units,
+and can shoot at buildings from longer range.
+Cheap and quick to create, but frail.
+HP 75-80-100
+Atk 4-5-6 [10]
+vs long_range_warships +3-4-5
+vs buildings +2-4-6
+Rof 2.0
+Range 5-6-7 [10]  +3 vs buildings
+Armor 0/4-0/4-0/8 [0/10]
+Speed 1.4 [1.68]
+Cost 60 W 20 G 24-18 sec  0.5 population
+
+Boarding Canoe (II):
+Fast warship that replace the hulk-line.
+After bringing down a ship's hp to 20%,
+convert said unit to player.
+HP 65-90
+Atk 4-6 [10]
+Rof 1.0
+Armor 4/1-6/1 [6/3]
+Speed 1.5 [1.8]
+Cost 50 W 20 G 28-18 sec  0.5 population
+Has no Castle Age upgrade, but has an Imperial Upgrade
+
+Incendiary Canoe(II)
+Fast explosive warship that explodes and leaves
+buildings and units on fire, dealing damage over time.
+Replace demo ship line.
+HP 30-50
+Atk 60-80
+vs buildings +140-180 [252]
+Blast 2.5-3.5
+Armor 2/0 [2/2]
+Speed 1.5 [1.8]
+Cost 30 W 50 G 30-20 sec    0.5 population
+Has no Castle Age upgrade, but has an Imperial Upgrade
+Ablaze: units caught in the blast are set on fire for 8/10 seconds.
+Units of fire take 2 dmg, buildings take 20 dmg per second.
+
+
+-------
+Boarding raft-fast boarding raft
+HP 35-45
+Atk 3-4 [8]
+Rof 2.0
+los 5
+Armor 0/0-0/1 [0/3]
+Speed 1.5 [1.8]
+Cost 25 F 35 W 25 sec
+Convert enemy ships with less than 50% HP
+
+War canoe-heavy war canoe
+HP 40-60
+Atk 4-5 [9]
+Rof 1.5
+Range 4-5 [8]
+Armor 0/2-0/3 [0/5]
+Speed 1.5 [1.8]
+Cost 60 W 15 G 30 sec
+No long range ship bonus damage taken
+
+
+
+
+-----------------------------
+
+
+
+-----------------------------
+******NORTH-EAST*****
+Irochesi, Huroni, Delaware
+
+Regionals
+Tomahawl warrior: iro, hur
+Ranged infantry good vs other melee units but
+has weak armor. Fast and good for raiding.
+Tomahawk warrior
+HP 45-60-70
+Atk 5-7-8 [14]
+vs building +1 [3]
+vs cavalry 0(5)
+vs elephants 0(5)
+vs camels 0(4)
+Rof 2.0 Accuracy 50% [100%]
+Range 2-3-4 [6]
+Armor 0/0 [3/4]
+Speed 1.1-1.2-1.25 [1.375]
+Cost 55 F 25 G 40-32-28 sec
+Up cost 250 F 100 G 30 sec
+Up cost 850 F 550 G 90 sec
+-Tech IV: Steel Tomahawks: tomahawk warrios +2 atk and have 100% accuracy
+-Tech III: Lacrosse: tomahawk warriors +2 range
+-Tech IV: Folded Axes: tomahawk warriors +5 damage vs cavalry/elephants, +4 vs camels
+
+-fortified palisades replace stone walls [Dark Age]
+Upgrade each palisade wall into a fortified palisade.
+Cost 10 W 14 sec  HP 300/500/600/750  Armor 2/4-3/5-4/6-5/7 [7/9]
+-Birked palisades is the next upgrade for the palisade wall [Castle Age]
+Cost 30 W 30 sec  HP 1200/1500  Armor 5/7-6/8 [8/10]
+
+-Longhouse, replace house
+Cost 50 W 50 sec HP 1100/1500/1800/1800 Armor 0/7-1/8-2/9-3/10   4x2 tiles
+Provide +15 population, can be garrisoned with 10 villagers.
+
+-Fort replace Castles III
+Cost 500 W 150 sec HP 4800 Armor 8/11 Garrison 20 Atk 8x5 range 8
+Building armor +8. Train unique units.
+
+-Can build totems III
+Cost 150 W 50 sec HP 1500 Armor 3/10 1x1 tiles  max 3
+Allies in 10-12 tiles regen 15/20 hp/min, move 10% faster, attack 10% faster
+
+HAUDODENAUSSANEE (IROQUOIOS)
+infantry civilization
+
+-All units take -25% damage from cavalry and have +1/2/3 los
+-Tomahawk upgrades and their technologies cost -50%
+-Forts, palisades and their upgrades, longhouses cost -20%
+-Trading fee for F and W is 0%
+-Fishing and hunting provide +20% F
+UU Mohawk warrior(infantry)
+CT-Three Sisters: receive 75 F after every reseed COST 200 W 150 G 30 sec
+IT-Clan Mothers: villagers can be trained in Longhouses COST 700 F 400 G 60 sec
+TB-Trees last 15% longer 
+
+Mohawk Warrior
+HP 70-90
+Atk 12-16 [20]
+vs infantry +4-6
+Rof 2.0
+Armor 2/1-3/2 [6/6]
+Speed 1.3 [1.43]
+Cost 55 F 35 G 15-13 sec
+
+Missing techs:
+A-infantry: halberdier*
+B-archers: nothing
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+A-monks: nothing
+B-naval: nothing
+A-economy: all mining upgrades
+D-university: Guard tower, masonry
+
+LENAPE (DELAWARE)
+archer and monks civilization
+
+-Barrack and Archery Range units +5/10/15 HP
+-Some buildings are built 50% faster*
+-Free Bracer, Bodkin, Fletching
+-Start with +1 monk but with -50 F (can't convert or carry relics, heal only)
+-Monks can heal hunted animals to replenish F (50 F/min)
+-Hunters, Shepherds and fishing doesn't require drop off
+UU Lenape archer (archer), Maxkwink(shock infantry)
+CT Turtle amulets: monks +50 Hp
+IT Guantamp: Spearman and foot archers(except skirmisher) +5/0 armor
+TB-Farms provide +2 population
+
+*Houses, Mills, Storehouses, Monasteries, Markets,
+Blacksmiths, Universities, Outposts
+
+Lepane archer(archer)
+HP 50-60
+Atk 5-6 [10]
+vs buildings +4-5
+Rof 2.0 accuracy 100%
+Range 5 [8]
+Armor 2/0 [9/2]
+Speed 1.3
+Cost 50 F 20 G 12-9 sec
+Up cost 650 F 450 G 40 sec
+
+Maxkwink: shock infantry strong vs archers, replace staff warrior
+HP 50(+5)-55(+10)-65(+15)
+Atk 6*-7-8 [12]
+vs archers +2-4-6
+vs buildings +1-2-3 [5]
+Rof 2.0
+Armor 0/2-0/3-1/4 [4/8]
+Speed 1.1-1.15-1.3 [1.43]
+Cost 40 F 35 G 40-28-24 sec
+Up cost 200 F 200 G 50 sec
+Up cost 800 F 500 G 50 sec
+*3 in Dark Age
+
+Missing techs
+C-infantry: longsword, halberdier*, infantry armor III, gambeson*
+A-archer: archer armor III
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+A-navy: nothing
+B-monks: redemption, heresy, atonement, faith, sanctity*
+D-defenses: masonry, guard tower, stone walls, BT, treadmill*
+B-economy: 2-man-saw, all mining techs
+
+WYANDOT (HURONS)
+infantry civilization
+
+-All buildings cannot be converted and take -30% bonus damage
+-Totems also boost villager work speed
+-Tomahawk warriors +1/2/3 atk
+-Monks cost -50 G and +50 F
+-Free guilds and caravan
+UU welachia (infantry), forest skirmisher(skirmisher)
+CT-Artisanery Wendat: All techs and farms cost -50% W COST 300 F 300 W 30 sec
+IT-Skull Dance: foot archers +40 Hp COST 750 F 450 G 60 sec
+TB-Hunt spoil 50% slower
+
+welachia (infantry)
+HP 80-100
+Atk 12-18 [20]
+Rof 2.0
+Armor 2/0-3/1 [5/3]
+Speed 1.3 [1.43]
+Los 5
+Cost 50 F 30 G 20 sec
+Special: gain +3 atk
+for each defeated foe, up to +12
+
+Forest Skirmisher
+HP 50-60
+Atk 5-7 [10]
+vs spear +2
+vs archers +2
+Rof 3.0
+Range 5 [7]
+Armor 1/1-2/2 [5/6]
+Speed 1.2 [1.32]
+Cost 40 W 35 G 13-11 sec
+Up cost 500 F 500 G 50 sec
+
+B-infantry: halberdier, infantry armor III, blast furnace*
+B-archers: parthian tactics, archer armor III
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+B-navy: shipwright
+B-monks: redemption, illumination, atonement, faith, theocracy
+D-defenses: masonry*, BT,guard tower, stone wall
+B-economy: 2-man-saw, all mining
+-----------------------------
+
+-----------------------------
+****SOUTH-EAST*****
+creek, chicksaw, cherokee
+
+longhouse: all 3
+tomahawk warrior: all 3
+red lancer: all 3
+Red Lancer: shock infantry, strong vs cavalry,archers and monks,
+weak vs infantry.
+HP 55-70-90
+Atk 5-7-9 [13]
+vs cavalry +9-12-15
+vs elephants +9-13-17
+vs camels +6-9-12
+vs archers +4-5-6
+vs monks +3-4-5
+Rof 1.8
+Armor 0/2-0/2-0/3 [3/7]
+Speed 1.2-1.3-1.4
+Cost 50 F 20 W 25 sec
+
+CREEK
+archers civilization
+
+-Food sources contain +33% F (except berries)
+-Can upgrade Town Centers to White or Red Town Centers
+in Castle Age, providing different bonuses
+-Blast furnace available in Castle Age for free
+UU Creek archer(foot archer/infantry)
+CT-Iron Confederacy: Free Town Center upgrades  COST 450 F 450 G 45 sec
+IT-River Clans: foot units +15% Hp COST 600 F 400 G 50 sec
+TB-Berries last 30% longer
+
+White Town Center:
+-villagers trained here cost -10%
+-villagers in 12 tiles work 10% faster
+-trade units in 12 tiles move 20% faster
+-hunters don't need drop off
+-monks heal 50% faster in 12 tiles
+Red Town Center:
+-infantry in 12 tiles move and attack 10% faster
+-Military buildings and Docks work 33% faster in 12 tiles
+-Military buildings within 12 tiles produce units that cost -15%
+-Outposts built in 12 tiles cost -60%
+Upgrade cost: 150 W 100 S 50 sec
+Cannot switch Town Center types
+
+Creek Hunter
+Archer/infantry hybrid. Can switch attack modes.
+HP 55-70 [81]
+--Bow--
+Atk 5-7 [11]
+Rof 2.5 [2.1]
+Range 3 [6]
+--Lance--
+Atk 8-11 [15]
+vs cavalry +6
+Rof 2.0
+----
+Armor 0/0 [3/4]
+Speed 1.2
+Cost 40 F 30 G 11-8 sec
+
+Missing techs:
+C-infantry: infantry armor III
+A-archers: nothing
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+C-monks: heresy, faith, BP, theocracy, illumination, sanctity
+A-navy: nothing
+E-defense: Watch Tower, BT, masonry, treadmill*
+B-economy: 2-man-saw, all mining techs, guilds, crop rotation*
+
+CHICKSAW
+infantry civilization
+
+-Infantry units can hunt animals and gather wood
+-Towers cost -20/35/50% if built within los of Town Centers or Forts
+-Each Fort built increase movement speed of all land units by 5% (max +15%)
+-Fort upgrades cost -50%
+UU Chickasaw warrior(infantry)
+CT-Oak Shields: infantry and foot archers +1/1 armor   500 F 350 G
+IT-Ravager's Clan: buildings* refund 50% of their W cost on destruction
+TB infantry units gain +2 charge atk, CD 30 sec
+
+*affect player's buildings and buildings destroyed by the player's units
+
+Chickasaw warrior
+HP 75-90
+Atk 8-11 [15]
+vs archers/spear +3-5
+Rof 1.8
+Armor 1/1 [5/6]
+Speed 1.2 [1.38]
+Cost 50 F 30 G 28 sec
+Up cost 1000[500] F 800[400] G 50 sec
+
+Missing techs:
+A-infantry: squires*
+B-archers: archer armor III*
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+B-monks: heresy, BP, fervor*
+B-navy: shipwright, carening
+C-defense: Keep, BT, masonry, treadmill, stone wall
+B-economy: crop rotation*,2-man-saw, all mining techs, guilds
+
+CHEROKEE
+archer and infantry civilization
+
+-Military buildings act as drop off site for resources
+-military foot units regen 15 hp/min while in combat
+-Palisades and Outposts +50% HP
+-Monks and villagers refund 30% of their cost on death
+UU: Ridger(foot archer), Ani-Kithuwa Warrior(infantry)
+CT-Council of the Seven Clans: infantry provide +1 atk to archers,
+all buildings cost -25% W
+IT-Kituwah Fire: foot units regen +15 hp/min, inside and outside combat
+TB-Team shared units cost -10%, Ridger is shared among all teammates
+
+Ani-Kithuwa Warrior
+HP 65-80
+Atk 11-14 [18]
+vs cavalry +2-3
+vs buildings +2 [4]
+Rof 1.9
+Armor 1/1 [4/5]
+Speed 1.2 [1.32]
+Cost 55 F 25 G 12-10 sec
+Up cost 900 F 450 G 40 sec
+
+Ridger: fast foot archer: team unit that is shared
+HP 60-75
+Atk 6-7 [12]
+vs spear +3
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 0/2 [3/6]
+Speed 1.2
+Cost 50[45] W 50[45] G 14-12 sec
+
+Missing techs:
+B-infantry: nothing
+A-archers: nothing
+X-cavalry: NOPE
+C-siege: mangonel, scorpio, BC
+B-monks: heresy, BP
+B-navy: shipwright, carening
+E-defense: Watch Tower, BT, masonry, treadmill, arrowslits, heated shot
+B-economy: 2-h-saw, crop rotation, both shaft mining, guilds, banking
+
+-----------------------------
+
+
+
+
+
+
+

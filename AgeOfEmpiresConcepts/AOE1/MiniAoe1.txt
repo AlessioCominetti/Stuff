@@ -1,0 +1,301 @@
+UNITS
+
+
+BARRACK
+I-II-III-III
+axeman-swordman-longswordman-paragon
+HP 50-80-100-140
+Atk 5-9-12-14 [20]  +4 vs cavalry in Age I
+Armor 0/0-1/0-2/0-2/0 [8/3]
+Speed 1
+Cost 35 F 15 G 20 sec
+II-III
+spearman-pikeman
+HP 80-110
+Atk 6-10 [16]
+vs cavalry +7-14
+Armor 1/0-2/0 [8/3]
+Speed 1
+Cost 35 F 15 W 20 sec
+II-III
+hoplite-elite hoplite
+HP 120-160
+Atk 18-30 [36]   +2 atk in Age III (hoplite)
+Armor 5/0-8/0 [14/3]  +2/0 armor in Age III (hoplite)
+Speed 1
+Cost 60 F 40 G 40 sec
+
+
+ARCHERY RANGE
+I-II
+archer-elite archer
+HP 45-60
+Atk 3-4 [7]
+Range 6-7 [10]
+Speed 1
+Cost 60 F 20 W 40 sec
+II-III
+horse archer-elite horse archer
+HP 70-80 [96]
+Atk 5-6 [9]
+Range 6-7 [10]
+Armor 0/1 [6/1]
+Speed 1
+Cost 60 F 60 G 40 sec
+III
+elephant archer
+HP 500 [600]
+Atk 4 [7]
+Range 7 [10]
+Armor 0/0 [6/0]
+Speed 1
+Cost 160 F 40 G 50 sec
+I-II
+skirmisher-elite skirmisher
+HP 30-40
+Atk 2-3 [6]
+vs archers +3-4
+Range 4-5 [8]
+Armor 0/2-0/4 [6/7]
+Speed 1
+Cost 40 F 10 W 30 sec
+
+
+STABLE
+I-II
+scout cavalry-light cavalry
+HP 100-150 [180]
+Atk 5-7 [13]
+vs archers +5-7
+Armor 0/0 [6/3]
+Speed 2
+Cost 150 F 40 sec
+II-III-III
+cavalry-heavy cavalry-cataphract
+HP 120-150-230 [276]
+Atk 8-10-14 [20]
+Armor 3/0-5/0-8/0 [14/3]
+Speed 1.5
+Cost 70 F 80 G 40 sec
+III-III
+war elephant-elite war elephant
+HP 500 [600]
+Atk 12 [18]
+Trample 50% tiles 0.75
+Armor 0/0-2/1 [8/1]
+Speed 1
+Cost 160 F 40 G 50 sec
+II-II
+camel rider-elite camel rider
+HP 125-150 [180]
+Atk 8-10 [16]
+vs cavalry +9-18
+Armor 0/0 [6/3]
+Speed 1.5
+Cost 70 F 50 G 40 sec
+II-III
+chariot-elite chariot
+HP 150-180 [216]
+Atk 10-13 [19]
+Trample 25-50% tiles 0.75
+Armor 0/0-2/1 [8/1]
+Speed 1.5
+Cost 60 F 90 W 60 sec
+
+
+SIEGE WORKSHOP
+II-III
+catapult-heavy catapult
+HP 100-150
+Atk 50-60    x3.5 vs buildings, fire 4 times slower
+Range 12-13 [15]
+Armor 0/3
+Speed 0.8
+Cost 180 W 80 G 60 sec
+II-III
+ballista-heavy ballista
+HP 50-60
+Atk 20-45
+Range 9-10 [12]
+Armor 0/0
+Speed 0.8
+Cost 100 W 80 G 50 sec
+II-III
+battering ram-heavy ram
+HP 80-100
+Atk 12     x5 vs buildings
+Armor 10/40-16/50
+Speed 0.8
+Cost 180 W 40 G 50 sec
+
+DOCK
+I
+fishing ship
+HP 25-50-75
+Armor 0/0
+Speed 2
+Cost 50 W 20 sec
+I-II-III
+scout ship-warship-trireme
+HP 120-160-200
+Atk 5-7-10 [13]
+Range 5-6-7 [10]
+Armor 0/1
+Speed 2
+Cost 150 W 30 sec
+II-III
+fire ship-fire galley
+HP 160-200
+Atk 18-24 [30]
+Range 1
+Armor 0/1
+Speed 2
+Cost 120 W 40 G 30 sec
+II-III
+ram ship-quadrireme
+HP 160-200
+Conversion 25%
+Armor 4/1
+Speed 2.5
+Cost 120 W 40 G 30 sec
+II-III
+catapult ship-quinquireme
+HP 160-200
+Atk 50-60    x3 vs buildings,  fire 4 times slower
+Range 10-11 [13]
+Armor 0/1
+Speed 1.5
+Cost 150 W 50 G 50 sec
+
+
+MISCELLANEOUS
+I
+Villager
+HP 40 [80]
+Atk 4 [10]
+Armor 0/0
+Speed 1
+Cost 50 F 20 sec
+
+II
+Priest
+HP 50
+Heal 5 [10]
+Conversion 10%
+Range 9 [12]
+Speed 1
+Cost 100 G 40 sec
+
+TECHS
+Temple--3
+-Afterlife 300 G: priest +3 range
+-Fanaticism 300 G: priest heal, rejuv 100% faster
+-Monotheism 400 G: priest can convert buildings and siege
+Economy--9
+-Wood I,II,III: woodcutter work 20% faster
+-Mine I,II,III:miner work 20% faster
+-farm I,II,III: farms +100 F
+Blacksmith--12
+-Metal I,II,III: melee units +2 atk
+-Bodkin I,II,III: range non siege units +1 atk and range
+-Armor I,II,III: units +2/0 armor
+-Shield I,II,III: most melee units and skirmishers +0/1 armor
+Town Center--6
+-Bloodlines: mounted units +20% HP                 200 F 150 G 50 sec
+-Architecture: buildings +20% HP, build time -33%  200 F 200 W 40 sec
+-Engineering: siege units +2 range                 200 F 100 W 30 sec
+-Town Watch: all buildings and units +2 los        100 F 15 sec
+-Age up II,III: go to the next Age: 800 F 200 G/ 1000 F 1000 G
+
+
+REMOVED: MINOANS, PALMYRIANS
+CIVILIZATIONS 
+Assyrians
+-Horse archers fire 15% faster
+-Siege unit upgrades cost -50%
+Miss: shield I
+Miss: Elephants, Scythe Chariot, elite hoplite
+Babylonians
+-Stone miners work 20% faster
+-Eco techs cost -30%
+-Walls, towers +60% Hp
+-Priest rejuv 30% faster
+Miss: Shield II
+Miss: HHA, Elephants, Heavy cavalry, hoplite, ballista
+Carthaginians
+-Start with +50 of all res
+-Hoplite, elephants, camels +25% HP
+-Fire galley, ram ship +25% Atk
+Miss: astrology, monotheism, fanaticism
+Miss: paragon, elite archer, HHA, Chariot, Cataphract,
+heavy catapult
+Choson
+-Swordman +25% HP
+-Blacksmith techs cost -50%
+-Towers +2 range
+-Priest cost -30%
+Miss: Engineers
+Miss: HHA, elephants, chariots, camels, hoplite
+Egyptians
+-Farms cost -20%
+-Gold miner work 20% faster
+-Chariot +33% HP
+-Priest +2/3 range
+Miss: Shield 3
+Miss: swordman, HA, heavy cavalry, heavy catapult, ballista, hoplite
+Greeks
+-Town Center work 10/15/20% faster
+-Hoplite cost -20%, move 30% faster
+-Ships cost -20%, move 30% faster
+-Free temple techs
+Miss: Nothing
+Miss: paragon, chariots, HA, elephants, cataphract, camels
+Hittites
+-Horse archers +1 atk
+-Catapult +50% HP
+-Trireme, archers +1/2/2 range
+Miss: Monotheism, afterlife, fanatism
+Miss: longswordman, heavy cavalry, ballista, elite hoplite
+Macedonians
+-All units +2 los and resist conversion
+-Siege units cost -25%
+-Hoplite +0/1 armor, +0/2 armor
+Miss: engineers
+Miss: longswordman, chariot, camels, heavy catapult, heavy ballista
+Persians
+-Hunters, foragers and farmers work 15% faster
+-Mounted units move 20% faster
+-Trireme fire 33% faster
+Miss: nothing
+Miss: ballista, chariots
+Phoenicians
+-Woodcutters work 20% faster
+-Elephants cost -25%
+-Catapult ship fire 33% faster
+Miss: Atk3, armor 3
+Miss: HA, heavy cavalry, heavy catapult, ballista
+Romans
+-buildings cost -10%
+-Towers, walls cost -20%
+-swordman attack 50% faster
+-ballista +1 range
+Miss: afterlife
+Miss: elite archer, HA, heavy cavalry, elephants, camels
+Shang
+-villager cost -20%
+-walls cost -40%
+-Cavalry attack 15% faster
+Miss: engineers
+Miss: longswordman, elephants, heavy catapult, hoplite, camels
+Sumerians
+-Catapult attack 33% faster
+-Mounted units +0/1 armor
+Miss: Atk3, Shield 2, afterlife, monotheism
+Miss: paragon, elite archer, elephants, heavy cavalry, ballista
+Yamato
+-fisherman work 20% faster
+-Mounted units cost -20%
+-Ships +15/20/25% HP
+-Stable and Archery Range upgrades cost -30%
+Miss: Astrology, monotheism
+Miss: swordman, chariots, elephants, camels, ballista

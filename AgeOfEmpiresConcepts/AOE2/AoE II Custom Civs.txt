@@ -1,0 +1,1738 @@
+°replaced by another tech
+§replaced by civ bonus
+
+MAPUCHE
+infantry and siege civilization
+
+-Militia-line upgrades are free
+-Military buildings cost -35%
+-Siege tower +10 capacity
+
+UU Welchafe (cavalry)
+RU tomahawk warrior, Selt, battle canoe, boarding canoe
+
+CT Kollellaulin (Infantry and Stable units +5 attack vs archers,
+remove spear-line weakness from spearman)
+IT Lemucaguin Tactics (Siege units (except trebuchet) +50% bonus damage)
+
+Team bonus
+-Infantry +2 Los
+
+Missing techs
+A-infantry: nothing
+B-archers: crossbow, hand cannon, EHA
+B-cavalry: hussar, knight
+A-siege:  BC
+B-navy: dry dock, CG
+C-monks: redemption, sanctity, BP, theocracy, illumination
+C-defense: keep, BT, hoardings, fortified walls, heated shot, architecture
+B-economy: gold shaft mining, guilds, crop rotation
+
+
+Special units
+
+Stone thrower (siege unit)
+HP 25+5+5
+Atk 15+5+5
+anti heavy siege +10+1+1
+anti building +10+4+4
+anti siege +3
+Rof 3
+Range 3-(7+1) (9)
+accuracy 100%
+Los 9+1
+Armor 0/6+0/1+0/1
+Speed 0.6
+Cost 80 W 70 G 24 sec
+Up cost: 400 F 250 G 40 sec
+Up cost: 750 F 500 G 75 sec
+Better used against buildings and other siege units
+
+Fire Archer (archer effective vs buildings)
+HP 40
+Atk 6+4 (10)
+Rof 2-1.8
+Range 10+3 (13) (-3 range when fighting non-buildings)
+los 13+3 (16)
+accuracy 30-45% vs units 100% vs buildings
+Armor 0/2+3/4 (3/6)
+Speed 1.0
+Cost 50 W 50 G 16-12 sec
+Special: attack set on fire building, dealing
+4 damage per 5 seconds for 5 seconds
+Note: masonry, architecture other building
+armor doesn't reduce said damage, fire
+effect can stack up to 20 times.
+Siege units and ships can also be set on fire,
+but take 2 damage instead
+
+
+
+
+
+
+Missing techs
+A-infantry: nothing
+A-archers: arbalester°, Hand cannon, archer armor III
+A-cavalry: hussar, bloodlines°
+B-siege: onager, BC, siege ram
+B-navy: CG, shipwright
+A-monks: heresy
+A-defense: BT
+A-economy: two-man-saw, both shaft mining
+
+
+
+SPECIAL techs
+-Machicolations: castles, towers +20% HP, remove
+minimum range 450 W 300 S 110 sec
+-Artisanery: villager work 15% faster 950 F 550 W 300 sec
+-Deep mining: miner (G/S) work 15% faster 200 F 150 W 60 sec
+-Aratro: farms +25 F, -40 W cost 450 F 450 W 130 sec
+-Royal trading road: remove tribute and trading fee,
+trade units move 25% faster 1000 F 700 G 230 sec
+-Bishop: monk upgrade, +30 HP, +0.1 speed, rejuvenate
+50% faster, +1 healing and conversion range 500 G 190 sec
+-Enable: allows monks to convert, monks, siege, ships and
+buildings, only one monk must rest upon
+a successful conversion 1000 G 165 sec
+-War march: all non siege/ship units +10% movement speed
+250 F 150 G 120 sec
+BLACKSMITH
+UT leather armor (all units +1/1 armor) 350 F 120 sec
+UT steel armor (all units +1/2 armor) 700 F 500 G 180 sec
+UT elite armor (all units +1/2 armor) 900 F 600 G 210 sec
+UT dragon iron casting (melee units +2 attack) 250 F 150 G 90 sec
+UT dragon blast furnace (melee units +3 attack) 350 F 250 G 120 sec
+ARCHERS
+UT Archery practice (increase accuracy at moving targets
+of all ranged unit, also, they fire 18% faster) 300 F 550 W 200 G 105 sec
+UT alchemy (ranged units +1 attack, increase attack bonus
+of towers vs ship by 125%, towers +1/2/3 attack) 900 F 300 G 250 W 160 sec
+SHIPYARD
+UT ship enginers (warships -20% cost, ships do 20% more bonus damage) 1000 W 300 G 60 sec
+UT Warship shattle (warships +20% movement speed, +1/1 armor) 800 W 550 G 120 sec
+
+UNCHANGED
+town watch/town patrol
+masonry/architecture
+conscription
+wheel barrow/hand cart
+hand axe/bow-saw
+gillnets
+herbal medicine
+heresy
+devotion/faith
+illumination
+BP
+forging
+pathian tactics
+feltching/bodkin/bracer
+siege engineers
+bloodlines
+
+
+
+
+
+
+LAMTA
+
+infantry and cavalry civilization
+
+-Storehouse replaces lumber and mining camps
+-Start with +150 W
+-Can build Imperial Tower, which replaces the Tower line.
+-Last Infantry and Cavalry Armor upgrades are free
+-Infantry and cavalry units regen 5/10/15 Hp/min when idle, starting from Feudal Age
+
+UU Lamta warrior(infantry)
+RU dromon
+
+CT-Nepeta Architecture (houses, storehouses, Farms cost -40%, Walls/palisade cost -20%)
+IT-Lamta Auxilia (enable Lamta warriors at Imperial Towers, allies can build Imperial towers,
+and recruit Lamta warriors, barrack and stables work 30% faster)
+
+Team bonus
+-Town Watch and Town Patrol are available one Age earlier, cost -67% F
+
+Storehouse
+A special building that replaces lumber and mining camps.
+Villagers can drop off resources here, from wood,stone and gold.
+Resources dropped here yield +5/10/15% more starting in Feudal Age.
+HP 600/800/1000/1000 (1200)
+Los 4
+Armor 1-2-3-5/7-8-9-10 (7/12)
+Tile 2X2
+Build time 40 sec
+Build cost 150 W
+
+Imperial Tower
+A defensive building that shoots arrows in Feudal and
+Castle Age, and then shoots ballista bolts in Imperial Age.
+Any foot unit can garrison inside it.
+This building upgrades automatically per Age Up.
+Available in Feudal Age.
+HP 1600/2800/4200 (5040)
+Atk 9+2+1 (15)
+anti ship 14+4+2 (20)
+Rof 2.0
+Range 8+1+1 (12)
+Los 10+1+1 (14)
+Accuracy 100%
+Armor 4/7+1/1+1/1 (8/11)
+Tile 2X2
+garrison 10
+Build cost 150 W 150 S
+Build time 150 sec
+
+Lamtian Warrior
+HP 50+10 (60)
+Atk 8+4 (16)
+vs shock +4+4 (8)
+vs building +2+2 (6)
+vs cavalry +5+4 (9)
+Rof 2.0
+Armor 2/3+2/0 (7/7)
+Speed 1.0
+Los 4
+Cost 45 F 25 G 12-10 sec
+Up cost: 650 F 550 G 120 sec
+Special: has a shield that protect
+him from all attacks, 1 charge
+recharge 30-25 seconds.
+
+Missing techs
+A-infantry: halberdier, squires
+D-archers: crossbowman, hand cannon, horse archer, parthian tactics, archer armor II, bracer
+A-cavalry: hussar, paladin, husbandry
+B-siege: BC
+B-navy: HDS, dry dock
+C-monks: heresy, BP, atonement, redemption, faith
+A-defense: BT§, treadmill crane§, arrowslits§, heated shot§,keep§, conscription*
+A-economy: 2-h-saw*, both shaft mining*, crop rotation, coinage, guilds
+
+Note: resources saved from upgrades: 
+eco upgrades: 2175 F 975 W 500 G 660 seconds
+monastery upgrades: 2750 G 550 F 265 seconds
+university upgrades: 1900 F 1650 W 100 G 255 seconds
+blacksmith upgrades: 1350 F 950 G 310 seconds
+Military buildings upgrades: 1125 F 675 G 230 sec
+
+CHRONICLES
+
+-ROMANS-
+
+TIBERIAN DYNASTY
+
+infantry and defense civilization
+
+-Unique buildings( Trading Posts, Arc of Triumph, Storehouses, Fountains,
+Villas, Prefectures, Herbal Shops, Teathre, Acqueducts, Imperial Guard Tower,
+Accademy, Temple)
+-First 5 buildings are built for free and instantly
+-Farms cost twice as much, but don't need to be reseeded as they provide unlimited food
+
+UU Consulatae cohort (infantry)
+
+CTA-Metropolis (houses generate 0.1 W and 0.1 S per second each, caps at 2 W/S per second)
+CTB-Imperial Defense (Imperial tower fires 4 extra arrows, Castle extra 8)
+ITA-Erudition (Trade posts, Monasteries and Universities/Accademies generate 0.5 G per second)
+ITB-Pax Romana (villager work 10% faster)
+
+Team bonus
+-Town Centers generate 6 W/min (max 48 W/min, at 8 town centers)
+
+Missing techs
+A-infantry: squires°, gambeson
+B-archers: crossbowman, HC, HA, thumb ring, parthian tactics
+C-cavalry: knight, husbandry, bloodlines, cavalry armor III
+B-siege: BC
+A-navy: nothing
+C-monks: atonement, redeption, heresy, faith, BP, fervor°
+A-defense: BT°, treadmill crane°
+A-economy: horse collar°, market techs°, 2-man-saw°, both shaft mining°
+
+CLAUDIAN DYNASTY
+
+archer and defense civilization
+
+
+-Unique buildings( Trading Posts, Arc of Triumph, Storehouses, Fountains,
+Villas, Prefectures, Herbal Shops, Teathre, Acqueducts, Imperial Guard Tower,
+Accademy, Temple)
+-Start with +100 G
+-Can build building instantly and for free by using G (2 W <-> 1 G)
+-Houses cost -50%
+-Farms cost twice, but don't need to be reseeded as they provide unlimited food
+
+UU Equestrian cohort (cavalry)
+
+CTA-Military reform (conscription has triple effect, Military buildings cost -50%)
+CTB-Hadrian's wall (Double HP for walls)
+ITA-Erudition (Trade posts, Monasteries and Universities/Accademies generate 0.5 G per second)
+ITB-Pax Romana (villager work 10% faster)
+
+Team bonus
+-Town Centers generate 6 G/min (max 48 G/min, at 8 town centers)
+
+Missing techs
+A-infantry: squires°, gambeson
+B-archers: HC, HA, parthian tactics, thumb ring
+B-cavalry: knight, husbandry
+A-siege: BC
+A-navy: dry dock, CG
+C-monks: atonement, redeption, heresy, faith, BP, fervor°
+A-defense: BT
+A-economy: market techs°, 2-man-saw°, both shaft mining°, horse collar°
+
+OCTAVIAN DYNASTY
+
+infantry and siege civilization
+
+-Unique buildings( Trading Posts, Arc of Triumph, Storehouses, Fountains,
+Villas, Prefectures, Herbal Shops, Teathre, Acqueducts, Imperial Guard Tower,
+Accademy, Temple, Fundus, Working Camp, Auxilia barracks, Equites House, Insula)
+-Farms cost twice, but don't need to be reseeded as they provide unlimited food
+-Can choose a family name to get bonuses:
+Valerii: army
+Lucci: trade
+Fabii: economy
+Giulii: research
+Emilii: agriculture
+
+UU Pretorian guard (heavy infantry) Secutor (heavy infantry)
+
+CTA-Granaries (when F supply is lower than 200, obtain 240 F/min)
+CTB-Great Architects (enable Lighthouse, Library, Arsenal, Sawmill)
+ITA-Roman Efficency (units upgrades cost -50%, next 4 buildings cost -50%)
+ITB-Martial Law (Military buildings work 100% faster)
+
+Team bonus
+-Builder works 100% faster in the first 10 minutes of the match
+
+Missing techs
+A-infantry: squires°, gambeson
+B-archers: crossbowman, HC, HA, thumb ring, parthian tactics, archer armor III
+A-cavalry: husbandry°
+A-siege: BC
+A-navy: CG, dry dock°
+C-monks: atonement, redeption, heresy, faith, BP, fervor°
+A-defense: BT
+S-economy: market techs°
+
+ROMAN BUILDINGS
+Trade Post
+-enable to trade resources at a steady rate that doesn't change
+replaces markets
+
+Arc of Triumph
+-can only be built when reaching Imperial Age. One is available to
+be built for each 50 enemy units defeated.
+When built, all roman units become stronger, permanent dealing
++10% damage and taking -10% damage, effect doesn't stack.
+Secondary effect, increased the work rate of villager by 5%
+for each one built
+
+Fountain
+-Increases work rate of farmers by 10%, needs an
+Acqueduct nearby to be built
+
+Accademy
+-Enable the roman player to research special upgrades
+
+Library
+-Upgraded version of the Library, research better upgrades
+
+Lighthouse
+-Increases Sead trade profits by 25%
+
+Arsenal
+-Upgraded version of the blacksmith, research better upgrades
+
+Sawmill
+-Upgraded version of the lumer/mining camp, working
+as both. Enable to research better upgrades and automatically
+repair nearby buildings in los for a small W cost
+
+Fundus
+-replace town center, can train some military units
+
+Prefecture
+-Automatically repairs buildings in Los for free,
+can train vigiles
+
+Herbal Shop
+-Automatically heals allies in Los with a rate
+of 20/40/60 Hp/min, rate is halved when there are
+foes in Los. Available in Feudal Age
+
+Acqueduct
+-Can only be built on water reserves
+
+Teathre
+-Increase max pop by 10% when built, only one can be built.
+
+Working Camp
+-When built, all builders work 25% faster for 5 minutes,
+disappear once time is over. Cost 20 G, built time, 5 seconds.
+
+Auxilia Barrack
+-Trains mercenaries, same stats and cost as a normal Barrack
+
+Storehouse
+A special building that replaces lumber and mining camps.
+Villagers can drop off resources here, from wood,stone and gold.
+Resources dropped here yield +5/10/15% more starting in Feudal Age.
+HP 600/800/1000/1000 (1200)
+Los 4
+Armor 1-2-3-5/7-8-9-10 (7/12)
+Tile 2X2
+Build time 40 sec
+Build cost 150 W
+
+Imperial Tower
+A defensive building that shoots arrows in Feudal and
+Castle Age, and then shoots ballista bolts in Imperial Age.
+Any foot unit can garrison inside it.
+This building upgrades automatically per Age Up.
+Available in Feudal Age.
+HP 1600/2800/4200 (5040)
+Atk 9+2+1 (15)
+anti ship 14+4+2 (20)
+Rof 2.0
+Range 8+1+1 (12)
+Los 10+1+1 (14)
+Accuracy 100%
+Armor 4/7+1/1+1/1 (8/11)
+Tile 2X2
+garrison 10
+Build cost 150 W 150 S
+Build time 150 sec
+
+Insula/Equite/Villa
+-Upgraded version of the house. Villa can
+also train villagers, 4 times slower.
+ExtraPop +5 pop/ +10 pop
+Up Cost 25 W 25 sec
+Up Cost 50 S 50 sec
+
+ROMAN UNITS
+
+Legionaire (replace militia-line)
+HP 40+10+10+10 (70)
+Atk 4+2+3+3 (16)
+Rof 1.8
+Armor 1/1+1/1+1/1+1/1 (7/8)
+Speed 1.0 (1.1)
+Los 7
+Cost 50 F 25 G 30-20 sec
+
+Velites (replace skirmisher, available in dark Age)
+HP 25+5+5 (35)
+Atk 3+1+1 (9)
+anti archer +1+1+1 (3)
+anti spear +1+1+1 (3)
+Rof 3
+Range 3+1 (7)
+Los 5+1 (9)
+Accuracy 65-70-75%
+Armor 0/2+0/1+0/1 (3/8)
+Speed 1.2 (1.32)
+Cost 30 F 30 W 30-20 sec
+
+Equites (replace light cavalry)
+HP 60+20+20(120)
+Atk 6+2+3 (15)
+Rof 1.8
+Armor 2/3 (5/7)
+Speed 1.5 (1.65)
+Los 8
+Cost 80 F 40 G 42-28 sec
+Special: first hit does +7/10/15 damage
+charge 30 seconds
+
+Consulatae cohort
+HP 60
+Atk 10 (14)
+Rof 2
+Armor 3/3 (6/7)
+Speed 1.0
+Los 8
+Cost 100 G 15-10 sec
+Special: allies in Los
+take -10/15%, cannot stack.
+When in Los of other consulatae
+cohort, obtain +1 attack and +1/1 armor.
+Armor doesn't stack, attack does.
+Cannot have more than 4/8 consulate alive.
+
+Equestrian cohort
+HP 120+40 (180)
+Atk 10+3 (17)
+anti cavalry +4+2 (6)
+anti elephant +4+2 (6)
+anti camel +3+2 (5)
+Rof 2.1
+Armor 3/3 (6/7)
+Speed 1.5 (1.65)
+Los 8
+Cost 100 F 60 G 24-16 sec
+Special: ally cavalry units
+in Los attack 10% faster
+
+Pretorian guard (heavy infantry)
+HP 180
+Atk 12+4 (20)
+Rof 2
+Armor 2/2 (5/6)
+Speed 1.0
+Los 4
+Cost 110 F 100 G 36-24 sec
+Special: when attacked in melee,
+attacker takes 50% of damage
+dealt back to him, pretorian
+takes -50% of said damage
+
+Secutor (heavy infantry)
+HP 320
+Atk 10+4 (18)
+Rof 2
+Armor 2/2 (5/6)
+Speed 0.8
+Los 4
+Cost 90 F 50 G 24-16 sec
+Special: shield, one hit,
+recharge 30 seconds
+
+Hastatus (replace spear-line)
+HP 60+20+20 (100)
+Atk 7+3+2 (16)
+anti cavalry +3+2+2 (7)
+anti elephant +4+4+4 (12)
+anti camel +2+1+1 (4)
+Rof 3
+Armor 2/2+1/1+1/1 (7/8)
+Speed 1.0 (1.1)
+Los 4
+Cost 40 F 40 G 30-20 sec
+
+Gladiator (shock infantry)
+HP 45+10 (55)
+Atk 7+2 (13)
+Rof 1.8
+Armor 0/0 (3/4)
+Speed 1.0 (1.1)
+Los 4
+Cost 35 G 6-4 sec
+Special: occupies half population
+
+AUXILIA (all units here are available at Castle Age)
+
+Slinger
+HP 40+10
+Atk 12+4 (20)
+anti infantry +7+3 (10)
+anti archer +7+3 (10)
+Rof 4
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+Armor 0/2 (3/6)
+Speed 1.2 (1.32)
+Cost 60 F 60 G 30-20 sec
+
+Highlander
+HP 120+40
+Atk 6+2 (12)
+Rof 2
+Armor 0/0 (3/4)
+Speed 1.2 (1.32)
+Los 8
+Cost 50 F 25 G 24-16 sec
+
+Axeman
+HP 60+10
+Atk 14+4 (22)
+anti shock +2+2 (4)
+anti building +2+2 (6)
+Rof 2
+Armor 4/0+3/0 (10/4)
+Speed 1.0 (1.1)
+Los 8
+Cost 50 F 40 G 30-20 sec
+
+Cretes Archer
+HP 50+10
+Atk 6+1 (11)
+anti infantry +1+1 (2)
+Range 5+1 (9)
+Los 7+1 (11)
+Accuracy 100%
+Rof 2
+Armor 2/1 (5/5)
+Speed 1.1 (1.21)
+Cost 45 W 45 G 30-20 sec
+
+Numidian skirmisher
+HP 45+10
+Atk 3+1 (8)
+anti archer +1+1 (2)
+anti spear +1+1 (2)
+Rof 2
+Range 4+1 (8)
+Los 6+1 (10)
+Accuracy 100%
+Armor 0/3+0/1 (3/8)
+Speed 1.2 (1.32)
+Cost 40 F 40 G 30-20 sec
+Special: when HP reaches 0, do a last attack
+that does triple damage
+
+Teuton rider
+HP 80+20 (120)
+Atk 11+4 (19)
+Rof 1.8
+Armor 0/0 (3/4)
+Speed 1.5 (1.65)
+Los 8
+Cost 60 F 60 G 30-20 sec
+Special: first attack do
+full damage AOE, recharge 60 sec
+
+GOD'S FAVORS
+
+Baccus: farmers generate a small tickle of G
+Vulcan: buildings cost -20%
+Fortuna: Temples generates a small tickle of G
+Neptune: warships attack 20% faster and move 20% faster
+Mercury: all land units move 10% faster
+Jupiter: increase resistence by 4 seconds
+Saturn: food income +10%
+Mars: all land melee units +2 attack
+Vesta: Prefectures, Sawmill work 100% faster
+Minerva: Herbal Shops, priest heal 100% faster
+
+
+
+
+
+
+RANDOM UNITS
+
+CARTAGHINIANS
+
+Lybian javelin warrior
+HP 50+10
+Atk 5+1 (10)
+Rof 2
+Range 3 (6)
+Los 5 (8)
+Accuracy 100%
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 60 G 32-24 sec
+Special: attack ignores pierce defense
+
+Numidian cavalry
+HP 60 (80)
+Atk 4 (8)
+anti archer +4
+anti spear +1
+Rof 2
+Range 3 (6)
+Los 5 (8)
+Accuracy 100%
+Armor 0/4 (3/8)
+Speed 1.5 (1.65)
+Cost 120 G 40-30 sec
+
+Numidian infantry
+HP 60
+Atk 6 (10)
+anti cavalry +5
+anti camel +4
+Rof 2
+Armor 2/1 (5/5)
+Speed 1.1 (1.21)
+Los 5
+Cost 45 G 16-12 sec
+Special: when this unit
+dies in melee, deal 30
+damage to unit who killed it
+
+Mauritanina Figther
+HP 50
+Atk 6 (10)
+Rof 2
+Armor 3/0 (6/4)
+Speed 1.0 (1.1)
+Los 5
+Cost 70 G 32-24 sec
+Special: Charge attack +50
+recharge 60 seconds
+
+Maceman
+HP 135
+Atk 6 (10)
+Rof 2
+Armor 0/1 (3/5)
+Speed 0.8 (0.88)
+Los 5
+Cost 90 G 32-24 sec
+Special: foe loses 10%
+of his max HP every hit
+
+Tuareg
+HP 120 (140)
+Atk 10 (14)
+anti cavalry +8
+anti elephant +8
+anti camel +6
+Rof 1.9
+Armor 1/0 (4/4)
+Speed 1.4 (1.54)
+Los 8
+Cost 60 F 60 G 36-27 sec
+Special: regen 40 Hp/min
+
+Cartaghinian War Elephant
+HP 1000 (1020)
+Atk 16 (20)
+anti building +40
+Rof 2
+Trample 100%, 0.5 tiles
+Armor 10/6 (13/10)
+Speed 0.8 (0.88)
+Los 8
+Cost 500 F 500 G 120-90 sec
+Special: regen 40 Hp/min
+Max 4 at any time
+
+Cartaghinian Noble
+HP 100
+Atk 12 (16)
+Rof 2
+Armor 4/3 (7/7)
+Speed 0.8 (0.88)
+Los 5
+Cost 100 G 40-30 sec
+Special: drain HP equal
+to damage dealt per hit
+
+Cartaghinian Hero
+HP 480 (500)
+Atk 13 (17)
+Rof 1.8
+Armor 3/2 (6/6)
+Speed 1.4 (1.54)
+Los 10
+Cost 400 G 120-90 sec
+Special: allies in LOS take -20% damage
+Regen 120 Hp/min
+
+IBERIANS
+
+Militian
+HP 60
+Atk 6 (10)
+Rof 1.8
+Armor 0/1 (3/5)
+Speed 1.0 (1.1)
+Los 5
+Cost 25 G 30 F 20-15 sec
+
+Hunter
+HP 40+10+10
+Atk 4+1+1 (10)
+Rof 2
+Range 4+1+1 (9)
+Los 6+1+1 (11)
+Armor 0/0 (3/4)
+Speed 1.1
+Cost 30 G 30 F 20-15 sec
+
+Slinger
+HP 60+20
+Atk 8+2 (14)
+Rof 2.2
+Range 5+1 (9)
+Los 7+1 (11)
+Armor 0/0 (3/4)
+Speed 1.1
+Cost 100 G 30 F 40-30 sec
+Special: attack destroys
+foe's armor by 1/1 per hit
+
+Defender
+HP 60+20
+Atk 4 (8)
+anti cavalry +4
+Rof 2
+Armor 6/4 (9/8)
+Speed 1.0 (1.1)
+Los 5
+Cost 70 G 30 F 20-15 sec
+
+Cantabrian horseman
+HP 60 (80)
+Atk 7 (11)
+Rof 1.9
+Armor 0/0 (3/4)
+Speed 1.5 (1.65)
+Los 10
+Cost 70 G 30 F 20-15 sec
+Special: Charge attack +80
+recharge 10 seconds
+
+Elite guard
+HP 140
+Atk 5 (9)
+Rof 2
+Armor 4/0 (7/4)
+Speed 1.0 (1.1)
+Los 8
+Cost 150 G 30 F 40-30 sec
+Special: on hit, foe loses
+10% of its max HP
+
+Mountain lord
+HP 140
+Atk 16 (20)
+Rof 2.1
+Armor 1/0 (4/4)
+Speed 1.0 (1.1)
+Los 10
+Cost 100 G 20-15 sec
+Special: +1 atk for each
+defeated foe, invisible
+if not attacking for 10 seconds.
+Loses invisibility when striking
+or nearby enemy structures.
+
+Iberian Hero
+HP 630 (650)
+Atk 10 (14)
+Rof 2
+Armor 4/3 (7/7)
+Speed 1.4 (1.54)
+Los 10
+Cost 400 G 120-90 sec
+Special: allies in Los
+regen 60 Hp/min and get
++2/2 armor
+
+EGYPTIANS
+
+Medjay Warrior
+
+HP 130+35 (165)
+Atk 6 (10)
+Rof 2
+Armor 0/0 (3/4)
+Speed 1.0
+Los 5
+Cost 40 G 20 F
+
+AXe thrower
+HP 100+20
+Atk 4 (8)
+anti archer +8
+anti spearman +8
+Rof 2
+Range 6
+Los 8
+Accuracy 100%
+Armor 2/2 (5/6)
+Speed 0.8
+Cost 90 G 20 F
+
+Horus/Anubis/Guardian
+HP 120+30
+Atk 10 (14)
+Rof 2
+Armor 1/0 (4/4)
+Speed 1.0
+Cost 130 G 20 F
+Special: Obstination, Mortal strike, Deflection
+
+Osiris Chariot
+HP 200 (220)
+Atk 10 (14)
+Rof 2
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+Armor 4/3 (7/7)
+Speed 1.4
+Cost 100 G 100 F
+Special: poison strike
+60 Hp/min
+
+Egyptian Hero
+HP 400 (420)
+Atk 10 (14)
+Rof 2
+Armor 4/3 (7/7)
+Speed 1.4
+Los 10
+Cost 400 G
+Special: allies in Los
+regen 120 Hp/min and
+move 20% faster
+
+GREEKS
+
+Peltast
+HP 65 (71)
+Atk 6 (10)
+anti infantry +2
+anti archer +2
+Rof 2
+Range 3 (6)
+Los 5 (8)
+Accuracy 100%
+Armor 2/2 (5/6)
+Speed 1.0
+Cost 45 G 40 F
+
+Hoplite
+HP 100 (110)
+Atk 4 (8)
+Rof 2
+Armor 6/5 (9/9)
+Speed 0.9
+Los 6
+Cost 80 G 40 F
+
+Heitairoi
+HP 100 (130)
+Atk 14 (20)
+Rof 2
+Armor 3/3 (6/7)
+Speed 1.4
+Los 6
+Cost 90 G 40 F
+
+Hipapist
+HP 130 (143)
+Atk 10 (14)
+anti infantry +6
+Rof 2
+Armor 8/5 (11/9)
+Speed 0.9
+Los 6
+Cost 150 G 40 F
+
+War Chariot
+HP 400 (420)
+Atk 24 (28)
+Rof 2
+Trample 100% 0.5 tile
+Armor 7/7 (10/11)
+Speed 1.4
+Los 10
+Cost 250 G 100 F
+
+Mirmidon
+
+HP 110 (121)
+Atk 8 (12)
+anti archer +12
+anti spear +12
+anti monk +11
+Rof 2
+Range 5 (8)
+Los 7 (10)
+Accuracy 100%
+Armor 7/6 (10/10)
+Speed 0.9
+Cost 165 G 40 F
+
+Greek Hero
+
+HP 400 (420)
+Atk 10 (14)
+Rof 2
+Armor 10/10 (13/14)
+Speed 1.4
+Los 10
+Cost 500 G
+Special: allies in Los
+get +1/1 armor and +2 attack
+
+ROMANS
+
+Hastatus/Princep/Triario/Legionaire
+HP 65+15+15+25
+Atk 5+2+2+2 (15)
+Rof 2
+Armor 1/1+1/1+1/1+2/0 (8/7)
+Speed 1.0
+Los 10
+Cost 100 G 40 F
+
+Auxilia Archer
+HP 40+10+10
+Atk 4+1+1 (10)
+Rof 2
+Range 4+1+1 (9)
+Los 6+1+1 (11)
+Accuracy 100%
+Armor 1/1+1/0 (5/5)
+Speed 1.0
+Cost 40 G 40 F
+
+Velite
+HP 40+20+20
+Atk 7+1+1 (13)
+Rof 2
+Range 3+1 (6)
+Los 4+1 (8)
+Accuracy 100%
+Armor 1/1+1/1 (5/6)
+Speed 1.1
+Cost 60 G 40 F
+
+Equite
+HP 80+20 (120)
+Atk 7+1 (12)
+anti archer +10
+anti monk +6
+Rof 2
+Armor 1/1 (4/5)
+Speed 1.6
+Los 10
+Cost 70 G 40 F
+Special: Charge attack +10
+recharge 60 sec
+
+Cohort Equite
+HP 80+20 (120)
+Atk 9+3 (16)
+anti cavalry +7+3 (10)
+Rof 2
+Armor 2/2 (5/6)
+Speed 1.5
+Los 10
+Cost 50 W 50 F
+
+Skirmisher Equite
+HP 80+20 (120)
+Atk 4+1 (9)
+anti archer +3
+anti spear +3
+Rof 2
+Range 3 (6)
+Los 5 (8)
+Accuracy 75%
+Armor 1/2 (4/6)
+Speed 1.5
+Cost 50 W 50 F
+
+Tribune/Pretorian
+HP 200+40
+Atk 10+2 (16)
+Rof 2
+Armor 2/2+1/0 (6/6)
+Speed 0.8
+Los 10
+Cost 200 G 40 F
+Special: return damage
+to sender in melee/
+attack ignores armor
+
+Gladiator/Liberatus
+HP 120+40
+Atk 10+2 (16)
+Rof 2
+Armor 1/1 (4/5)
+Speed 1.1
+Los 10
+Cost 100 G 40 F
+Special: regen 40 Hp/min
+
+War Chariot
+HP 180 (200)
+Atk 8 (12)
+Rof 2
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+Armor 1/0 (4/4)
+Speed 1.4
+Cost 200 G 40 F
+Special: 5 charge attacks,
+charges are completely restored
+upon defeating a foe. Charge
+attack +8, recharge 50 sec.
+
+Roman Hero
+HP 650 (670)
+Atk 10 (14)
+Rof 1.8
+Armor 4/4 (7/8)
+Speed 1.4
+Los 10
+Cost 650 G
+Special: allies in Los
+get +4 attack, +4/4 armor
+and move 20% faster
+
+GAULS
+
+Swordman
+HP 65
+Atk 1 (5)
+Rof 2
+Armor 0/3 (3/6)
+Speed 1.1
+Los 10
+Cost 30 G 20 F
+Special: attack ignore
+foe's melee armor
+
+Axeman
+HP 75+10
+Atk 14+2 (20)
+Rof 2
+Armor 5/0+2/0 (10/4)
+Speed 0.8
+Los 8
+Cost 80 G 20 F
+
+Spearman
+HP 80+20
+Atk 6+2 (12)
+anti cavalry +6+2 (8)
+Rof 2
+Armor 1/4+0/2 (4/10)
+Speed 1.1
+Los 8
+Cost 75 G 20 F
+
+Horseman
+HP 120+40 (180)
+Atk 10+2 (16)
+Rof 2
+Armor 2/0 (5/4)
+Speed 1.4
+Los 10
+Cost 80 G 20 F
+Special: charge attack +20
+recharge 10 seconds
+
+Woman Swordman
+HP 90+20
+Atk 10+2 (16)
+Rof 2
+Armor 3/2 (6/6)
+Speed 1.1
+Los 10
+Cost 110 G 20 F
+Special: Mortal strike
+
+Fand Warrior
+HP 400
+Atk 24 (28)
+Rof 2
+Armor 4/2 (7/6)
+Speed 1.0
+Los 10
+Cost 500 G
+Special: heal fully
+upon defeating a foe
+Max 4 atany time
+
+Gallic Hero
+HP 650 (670)
+Atk 30 (34)
+Rof 2
+Armor 1/0 (4/4)
+Speed 1.4
+Los 10
+Cost 500 G
+Special: allies in Los
+get +2 attack and +2/2 armor
+
+GERMANS
+
+Swordman
+HP 65
+Atk 8 (12)
+Rof 2
+Armor 0/0 (2/2)
+Speed 1.0
+Los 10
+Cost 70 F
+
+Archer
+HP 65
+Atk 6 (10)
+Rof 2
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+Armor 0/0 (2/2)
+Speed 1.0
+Cost 70 F
+
+Axeman
+HP 100
+Atk 16 (20)
+Rof 2
+Armor 0/0 (2/2)
+Speed 0.8
+Los 10
+Cost 150 F
+
+Huntress
+HP 80
+Atk 10 (14)
+Rof 2
+Range 3 (6)
+Los 5 (8)
+Accuracy 75%
+Armor 0/0 (2/2)
+Speed 0.8
+Cost 230 F
+Special: attack
+ignores pierce armor
+
+Teuton Raider/Archer
+HP 100 (120)
+Mace 12 (16)
+Bow 6 (10)
+Rof 2
+Range 6 (9)
+Los 8 (11)
+Accuracy 100%
+Armor 1/1 (3/3)
+Speed 1.4
+Cost 230 F
+
+Maceman
+HP 200
+Atk 16 (20)
+Rof 2
+Armor 0/0 (2/2)
+Speed 1.0
+Los 10
+Cost 280 F
+
+Valkyre
+HP 140 (160)
+Atk 6 (10)
+anti archer +14
+anti spear +14
+anti monk +14
+Rof 2
+Armor 2/2 (4/4)
+Speed 1.4
+Los 10
+Cost 100 G
+
+German Hero
+HP 500 (520)
+Atk 20 (24)
+Rof 2.1
+Armor 1/1 (3/3)
+Speed 1.4
+Los 10
+Cost 500 G
+Special: allies in Los
+take -20% damage and
+deal +20% damage and
+move 20% faster
+
+BRITONS
+
+Swordman
+HP 50
+Atk 6 (10)
+Rof 2
+Armor 0/0 (3/4)
+Speed 1.0 (1.1)
+Los 8
+Cost 25 G 30 F 20-15 sec
+
+Caledonian Figther
+HP 90
+Atk 4 (8)
+Rof 2
+Armor 9/6 (12/10)
+Speed 1.0 (1.1)
+Cost 70 G 30 F
+
+Briton Spearman
+HP 70
+Atk 4 (8)
+Rof 2
+Armor 4/3 (7/7)
+Speed 1.0
+Cost 80 G 30 F
+Special: attack ignores melee armor
+
+Highlander
+HP 170
+Atk 14 (18)
+Rof 2
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 200 G
+
+Briton javelin warrior
+HP 60
+Atk 6 (10)
+Rof 2
+Range 3 (6)
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 70 G 30 F
+Special: if foe's HP
+is below 50%, one shot
+
+Viking Lord
+HP 400
+Atk 36 (40)
+Rof 2
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 500 G
+Special: heal by
+damage dealt
+Max 4 at any time
+
+Briton Hero
+HP 480 (500)
+Atk 13 (17)
+Rof 2
+Range 6 (9)
+Armor 3/2 (6/6)
+Speed 1.4
+Los 10
+Cost 500 G
+Special: allies in Los
+take -20% damage and
+have a 30% to ignore
+foe's armor
+
+
+Techs I would like to remove from Age of Empires to make the game
+more smooth.
+
+-Hand cart, Wheelbarrow (villager +3 carry +10% speed each age)
+SAVED 475 F 250 W 120 seconds
+-All Market techs  (no tribute fee, no trading fee, carts +speed on Imperial)
+SAVED 1000 F 700 G 230 seconds 
+-Loom,Sappers, Spies/Treason (villager start with 40 HP 1/2 armor)
+SAVED 400 F 200 W 50 G 35 seconds
+-Dry dock, Squires, Husbandry, Arson (all units have +speed, infantry
+gain +2 bonus damage vs buildings on Feudal)
+SAVED 925 F 425 G 165 seconds
+-Rework Monastery, monks cannot convert anymore
+Removed Redemption, Atonement, Heresy, Faith, Devotion, Theocracy
+Fervor, Illumination and Sancitity are free
+SAVED 3385 G 650 F 500 seconds
+-Town Watch, Town Patrol (buildings +4 los aech age)
+SAVED 375 F 100 G 65 seconds
+-Ballistic, Murder holes, Parthian tactics, heated shot,Arrowslits
+are free (ballistics applies on Castle Age, towers have no 
+min range and more bonus damage, horse archers get bonuses with elite upgrade, 
+start with more base armor, bombard tower comes with chemistry)
+SAVED 1000 F 525 G 250 W 100 S 235 seconds
+
+Eco techs left: wood I-III, farm I-III, stone I,II, gold I,II, gillnets
+monk techs: herbal medicine, Block printing
+Blacksmith techs: 15
+University: masonry, architecture, fortified wall, chemistry, BC,
+siege engineers, Guard tower, Keep, treadmill crane
+Archers: Thumb ring
+Barrack: Gambeson
+Stable: Bloodlines
+Dock: Shipwright, Carening
+
+ALL TECHS IN AGE OF EMPIRES 2
+
+FREE EFFECT (16)
+--Town Watch I,II, Conscription, wheel barrow, hand cart
+caravan, coinage I,II, guilds, loom
+--herbal medicine, fervor,
+--squires, parthian tactics, ballistics,husbandry
+
+REMOVED (10)
+--redemption, atonement, heresy, devotionI,II, illumination,theocracy
+--heated shot, sappers, treason/spies
+
+GOOD (48)
+--wood I,II,III farm I,II,III, stone I,II, gold I,II, gillnets,  
+--sanctity, BP,
+--arson, gambeson, all blacksmith techs, thumbring,
+siege engineers, bloodlines
+--dry dock, carening, shipwright
+--Guard tower, Keep, Bombard tower, stone wall, fortified wall
+chemistry,arrowslits, machicolations,Treadmill crane, masonry I,II, hoardings 
+
+ALL TECHS IN AMERICAN CONQUEST
+EUROPE
+--farm I,II,III,IV,V, field I,II,III,IV
+--wood I,II,III
+--mines upgrade, mines reveal, mines I-VI
+--paesant creation I,II,III
+--building armor I,II
+--unlock house II, fortress cost, builder speed,
+--unlock mass healing
+--cavalry creation I,II,III
+--artillery rangeI,II, artillery accuracy I,IIartillery fire rate I,II
+artillery cost I-VI, artillery creation speed I-VI
+--fusilier accuracy, muksetter attack, guns +10% fire power
+guns +fire rate, fusilier +fire rate, unlock offciers 18th
+--units creation speed, armored units armor
+--units +atk, +defense
+--ships movements, ships armor, warships -cost, fishing ship gathering rate
+NATIVES
+--farm I-V, field I-III
+--paesant creation speed I,II
+--temple upgrades
+--unlock house II,III
+--troops Hp,atk,defense
+--builder speed
+--ships movements, ships armor, warships -cost, fishing ship gathering rate
+
+
+REBELS X
+archer and siege civilization
+
+-Cannot build blacksmiths, Monasteries, Universities and Siege workshop.
+They can hire professionals at the Town Center
+-Start with 2 rebel archers instead of scout
+-Military unit upgrades (spearman->pikeman for example) cost -50%
+-Rebel archer upgrades itself for free
+
+UU rebel archer(archer) siege archer(archer)
+RU Mantlet
+
+CT-Follow trough(archers, skirmishers and spearman attack 33% faster)
+IT-Bark Shields(Skirmishers,spearman and siege archer +0/4 armor)
+
+Team bonus
+-Fallen cavalry units drop off a carcass, it can be hunted (80 F for horses,
+60 F for camels, 160 F for elephants)
+
+Professor
+HP 40 Armor 0/0 Speed 1.0 Los 4 cost 100 G 50 sec
+He can research university techs (5 for them)
+
+Blacksmith
+HP 80 Armor 2/2 (4/4) Speed 1.0 Los 4 Cost 100 F 50 G 50 sec
+He can research blacksmith techs (9 for them)
+
+Siege enginer
+HP 60 Armor 2/1 (4/3) Speed 1.0 Los 4 Cost 100 F 100 G 75 sec
+He can build and upgrade siege units (5 siege units)
+
+Chapelan
+HP 50 Armor 0/0 Speed 0.9 Range 9 Los 11 Cost 100 G 50 sec
+He can research monk techs, and also works as a monk (6 for them)
+
+Rebel archer(replace archer)
+HP 25
+Atk 20 (24)
+Rof 2.0 (1.5)
+Range 4 (7)
+Los 6 (9)
+Accuracy 10-14-18-22% vs units 50% vs buildings
+Armor 0/0 (2/2)
+Speed 1.1-1.15-1.2-1.25
+Cost 60 F 20 W 32 sec
+
+Siege archer(trainable at Archery Range/Castle)
+HP 65
+Atk 20 (24)
+Rof 3.2 (2.4) 
+Range 7 (10) +2 vs buildings
+Los 9 (12)
+Accuracy 15% vs units 100% vs buildings
+Armor 0/2 (2/8)
+Speed 1.2
+Cost 50 F 50 W 54/18 sec
+Special: on hit, set building or ship on fire,
+dealing 5 damage per second per 3 seconds
+
+Mantlet(siege unit, high pierce armor, ranged arrow attack)
+HP 100-150
+Atk 9-10 (14)
+vs building 25-35
+vs siege 8-12
+Rof 3.5
+Range 4 (7)
+Los 6 (9)
+Accuracy 100%
+Armor 0/180
+Speed 0.6
+Garrison 6
+Cost 80 W 40 G 18 sec
+Up cost 400 F 100 W 60 sec
+Special: can garrison archers
+to increase fire speed and movement
+speed by 33% and 0.5 respectively
+
+Missing techs
+C-infantry: 2-hand-sword, gambeson°, infantry armor III°,blast furnace
+A-archers: HC, HA, thumb ring°, parthian tactics, archer armor III°
+X-cavalry: NOPE
+A-siege: BC§, trebuchet§
+B-navy: CG, HDS, FFS, shipwright
+B-monks: faith, BP, heresy, sanctity§,fervor§
+C-defense: BT,treadmill crane, masonry, heated shot, strong wall, guard tower
+B-economy: 2-man-saw, both shaft mining, guilds, coinage
+
+ARKEIANS
+infantry and cavalry civilization
+
+-Can train Town guards at the Town Center
+-Stables units +5 attack vs archers
+-Foot archers +2 atk vs infantry, -2 atk vs spears
+-Start with +100 G
+-Infantry and Stable upgrades cost -30%
+-Relics generate 25% more resources
+UU Town Guard(infantry), legionary(infantry), shieldbreaker(infantry),
+Engineers(infantry), Lancer(cavalry), Satnik(cavalry archer)
+CTA-Order of the shield: foot units +20 HP (except villagers)
+CTB-Patriotic Fervor: Shieldbreaker heal 20 HP whenever
+any ally dies in los, all units resist conversion
+ITA-Siege Archery: Skirmishers and Satniks +2 atk, foot archers +3 range
+ITB-Fury of the isles: Shieldbreaker,Engineer +4 atk
+TB-Engineer available at allies castles
+
+Town Guard
+HP 40-45-50-55 (75)
+Atk 4-5-6-7 (11)
+vs cavalry +2+2+2+2 (8)
+vs building +1+1+1+1 (6)
+Rof 2.0
+Armor 1/2 (4/6)
+Speed 1.0 (1.1)
+Cost 50 G 10 sec
+
+Legionary(longswordman upgrade)
+HP 90 (110)
+Atk 14 (18)
+vs shock +4
+vs spear +3
+vs infantry +2
+vs buildings +6 (8)
+Rof 2.0
+Armor 2/2 (5/6)
+Speed 1.0 (1.1)
+Up cost 1000 F 500 G 60 sec
+
+Shieldbreaker
+HP 130 (150)
+Atk 12 (20)
+Rof 2.0
+Armor 2/2 (5/6)
+Speed 1.0 (1.1)
+Cost 70 F 60 G 22-18 sec
+Special: each strike reduce target's armor by 1/1
+until it reaches 0
+
+Engineer
+HP 40 (60)
+Atk 10 (18)
+vs buildings +4 (6)
+Rof 2.0
+Armor 0/0 (3/4)
+Speed 1.0 (1.1)
+Cost 75 G 15 sec
+Special: can repair buildings for free,
+same rate as a villager
+
+Lancer(replace knights)
+HP 100-130 (150)
+Atk 10-14 (18)
+vs archers +4+2 (6) (counted with the civ bonus)
+Rof 2.0
+Armor 2/2 (5/6)
+Speed 1.5 (1.65)
+Cost 60 F 60 G 24 sec
+Special: charge attack +10/15 every 60 seconds
+
+Satnik
+HP 45 (65)
+Atk 5 (10)
+vs spears/ranged +3
+Rof 2.0 accuracy 100%
+Range 4 (6)
+Armor 0/0 (1/1)
+Speed 1.5 (1.65)
+Cost 20 F 60 G 15 sec
+
+Missing techs
+A-infantry: halberdier, gambeson*
+D-archers: crossbowman, HC, elite skirm, archer armor II, thumb ring*, bracer
+A-cavalry: hussar
+B-siege: siege ram, onager, BC
+B-navy: FFS, HDS, CG
+D-monks: redemption, atonement, sanctity*, BP, theocracy, illumination
+B-defenses: BT, treadmill
+A-economy: crop rotation, stone shaft mining
+
+TIMALIANS
+naval and monk civilization
+
+-Fishermen drop 15% more F
+-Monasteries cost -50 W and are built 50% faster
+-Warships move 10% faster
+-Relics generate 50% S in addition to G
+-Farms last 25% longer
+UU War monk(infantry/monk) RU elephants, camels
+CT-Shiva's Temple: Monks and ally's monks make
+allies in 12 tiles regen 15 Hp/min  350 F 250 G 60 sec
+IT-Coral Trade: sea trade generate +25% G 400 W 600 G 50 sec
+TB-Ships can pick up relics nearby shores
+
+War monk
+HP 60
+Atk 8 (12)
+Rof 2.0
+Armor 1/2 (4/6)
+Speed 1.0 (1.1)
+Cost 60 G 40 F 50 sec
+Behaves as a normal monk, but can only convert every min.
+
+Missing techs:
+A-infantry: nothing
+B-archers: arbalester
+A-cavalry: light cav, knight
+B-siege: BC, siege engineers
+A-navy: nothing
+A-monks: fervor*, sanctity*, illumination*
+A-defense: BT
+A-economy; nothing
+
+Units
+Newy
+HP 40-50
+Atk 7-10 (14)
+Rof 1.8
+Armor 0/0 (2/2)
+Speed 1.2-1.3 (1.43)
+Cost 40 F 15 G 8-4-3 sec
+Special: occupy half population space
+When defeated, return 75% of its F cost
+
+
+Shortsword
+HP 40+5 (45)
+Atk 5+2 (11)
+vs shock +3+1 (4)
+vs buildings +1 (3)
+vs cavalry +6 (with tech)
+vs camels +5 (with tech)
+Rof 2.0
+Armor 1/1 (4/5)
+Speed 1.0 (1.1)
+Cost 25 F 10 G 12-9 sec (6-4.5 at castles)
+Up cost 900 F 600 G 40 sec
+
+Yew bowman
+HP 20+5 (25)
+Atk 4 (8)
+Rof 2.0 (1.7)
+Range 4+1 (8) Accuracy 80+5 (100)
+Armor 0/0 (2/2)
+Speed 1.2
+Cost 15 W 20 G 12-9 sec
+Up cost 250 W 150 G 30 sec
+Special: occupy half population space
+
+Spear Scout
+HP 60+10 (90)
+Atk 6+1 (11)
+Rof 2.0
+Armor 2/2+0/1 (5/7)
+Speed 1.4 (1.54)
+Cost 30 F 40 G 15-12 sec
+Up cost: 600 F 300 G 40 sec
+
+
+
+OTHERS REVAMPED
+
+MAPUCHE
+-Light cavalry +1 atk in Castle Age, +2 atk in Imperial Age
+-Horse Archers cost -15%
+-Houses cost -50%
+-Free Hoardings and Sappers
+UU: Rodeador(cavalry)
+CT Araucan Warbands: infantry and stable units move 20% faster
+IT Kultrun: priest provide +1 atk and +1/1 armor to allies in 8 tiles
+TB Infantry +2 damage vs buildings
+
+Rodeador
+HP 60-80 [100]
+Atk 8-11 [15]
+vs siege +6+4 [10]
+vs monks +4+1 [5]
+vs infantry +2+1 [3]
+Rof 2.0
+Armor 1/1-2/2 [5/6]
+Speed 1.5 [1.8]
+Resist Conversion: 8 seconds
+Cost 70 F 30 G 18-16 sec
+Up cost 800 F 600 G 60 sec
+
+Missing techs:
+infantry: squires*
+archers: nothing
+cavalry: paladin, husbandry*
+siege:
+monks:
+navy:
+defense:
+economy:
+
+MUISCA
+-Monks are affected by squires
+-All gold income +10/15/20%
+-Markets cost -75 W, market techs cost -50%
+-Armor upgrades are available one age earlier, cost no G
+UU: Guecha(infantry)
+CT Rituals: military units +15% HP
+IT Tunjo: monks +1 range
+TB Markets and Blacksmiths work 40% faster
+
+Guecha
+HP 60-80 [92]
+Atk 9-12 [16]
+vs cavalry +8+4 [12]
+vs archers +3+2 [5]
+Rof 2.0
+Armor 1/2-2/3 [5/7]
+Speed 1.0 [1.1]
+Cost 55 F 35 G 15-13 sec
+
+Missing techs:
+
+TUPI
+-Houses cost F instead of W
+-Infantry units get a charge attack (4 dmg, 30 sec)
+-Foot archers move 10/15/20% faster
+-Eagle warriors take no bonus damage
+UU: Iacara(archer)
+CT Curuca Poison: archers deal poison damage
+IT Guaranas: militia-line +5 atk
+TB Castles work 10% faster
+
+Iacara
+HP 35-40
+Atk 5-6 [10]
+Rof 1.8
+Range 5 [8]
+Armor 0/0 [2/2]
+Speed 1.2
+Cost 40 W 40 G 14-12 sec
+Up cost 450 F 350 G 40 sec
+Special: poison, 3 dmg per second for 3 seconds, tot 9 dmg
+Need tech to unlock this ability

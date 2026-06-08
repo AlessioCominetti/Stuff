@@ -1,0 +1,67 @@
+Total cost for all technologies
+F 16.325 W 4100 G 9150 S 150 time 3895 Numbers 75
+Total 29.725
+Eco techs 
+F 3175 W 1550 G 700 time 920 Numbers 17
+Monastery techs
+F 650 G 3785 time 590 Numbers 11
+Blacksmith techs
+F 3095 G 1595 time 840 Numbers 15
+Military building techs
+F 1075 W 250 G 475 time 290 Numbers 7
+University techs
+F 3650 W 2875 G 475 S 150 time 645 Numbers 13
+Town Center techs
+F 2675 G 1150 time 570 Numbers 6
+Shipyard techs
+F 1850 G 850 time 170 Numbers 3
+Castle
+F 950 W 600 G 150 time 145 Numbers 3
+
+
+HERO EPIC
+Stage
+1: goblins
+2: goblins wolves
+3: goblins wolves
+4: goblins wolves dwarves
+5: goblin g.warrior
+6: goblin g.warrior wolves
+7: golbin g.warrior
+8: goblin g.warrior dwarves mages
+9: goblin wolves spider
+10: mage spider
+11: g.warrior spider
+12: spider giant
+13: g.warrior spider
+14: spider mummy
+15: mage mummy
+16: g.warrior spider cyclop
+17: wolves skeleton
+18: skeleton
+19: spider mummy cyclop
+20: wolves mage skeleton evil.king
+
+Enemies
+Goblin HP 50 Atk 10 Speed 10
+Wolf HP 30 Atk 10 Speed 25
+Dwarf HP 100 Atk 10 Speed 7 Range 1
+Goblin warrior HP 120 Atk 20 Speed 10 Range 1
+Mage HP 50 Atk 2.5 Speed 5 Range 4
+Spider HP 80 Atk 30 Speed 20 Range 1
+Giant HP 300 Atk 30 Speed 5 Range 1
+Mummy HP 200 Atk 10 Speed 5
+Cyclop HP 400 Atk 40 Speed 10 Range 2
+Skeleton HP 150 Atk 10 Speed 10
+Evil King HP 200 Atk 20 Speed 7 Range 5  Summon 1 skeleton every 20 seconds
+
+Player Units
+Militia HP 100 Atk 10 Speed 10 Cost 15 Respawn 8
+Halberdier HP 200 Atk 20 Speed 10 Cost 100 Respawn 12
+Builder HP 10 Wall 2000 Speed 8 Cost 200 Respawn 20
+Archer HP 100 Atk 20 Speed 10 Range 4 Cost 350 Respawn 24
+Man-at-arms HP 300 Atk 30 Speed 10 Cost 500 Respawn 25
+Priest HP 100 Heal 10 Speed 7 Range 3 Cost 600 Respawn 30
+Battering Ram HP 300 Atk 50 Speed 20 Cost 800 Respawn 40
+Catapult HP 300 Atk 40 Speed 10 Range 5 Cost 1000 Respawn 50
+Units upgrades: +50% Atk +50% HP +50% Speed

@@ -1,0 +1,254 @@
+************
+*SHIPERIANS*
+************
+-Start with 2 citizens and 1 scout cavalry
+-Start with 300 F 250 W 150 G
+-Can collect favour by procuring resources, praying at temples and by
+researching new technologies (20 res -> 1 favour)
+-Shiperian units can be empowered with favour, turning
+them into heroes or myth units
+-Can upgrade buildings many times with resources and favour
+-Warships move 5% faster and have +5% HP
+-Researching a particular deity will make the mages
+of that type cost -10%, be trained 33% faster and have their
+skill recharge 50% faster
+
+BUILDINGS
+I-House, Dock, Wooden Palisade, Temple, Mill, Storehouse
+II-Farm, Blacksmith, Town Center, Market, Tower, Barrack, Stable, Stone Palisade
+III-Castle, Siege Workshop, Mage accademy
+
+I-
+FIRE---DRITE
+-Blacksmith work 100% faster
+-Upgrading units with favour cost -20%
+-Myth units generat favour while in combat
+Tech: Tempered Steel: human soldiers +10% atk
+EARTH---DHEU
+-Storehouses collect resources nearby passively
+-Buildings repair themselves overtime and get +10/20/30/40% HP
+Tech: Rock Armor: all land units +10% HP
+LIGHT---ZJARRI
+-Praying generate +25% favour
+-Myth and hero units occupy -1 population
+-Myth and hero units move 10% faster
+Tech: Priest generate favour over time
+II-
+ICE---AKULL
+-Defensive structures can be empowered temporarily with
+favor to gain +33% fire rate boost and +1 range for 1 minute
+-All land units +10% slash armor
+-Buildings provide a chilling aura, that increases with favour
+Tech: Saregassa: spear units deal pass through damage
+WATER---UJE
+-All ships move 10% faster
+-Docks work 1% faster for each 20 favour stored, max +50%
+-All units +10% pierce armor
+Tech: blessed hull: ships regen 30 hp/min
+WIND---ERA
+-All land units move 10% faster
+-Military buildings work 25% faster(except docks)
+-Dying units return 25% of their favour cost
+Tech: Wind mages deal pass through damage
+III-
+THUNDER---BUBULIMA
+-Mages cost -20% favour, they recharge their skills 33% faster
+-Unlock thunder tower
+-Technologies are researched 50% faster
+Tech: Thunder tower +20% range
+WOOD---DRURI
+-Trees last 50% longer and regen themselves
+-Builder and repairer work 50% faster
+Tech: priest heal 100% faster
+SOUND---TINGULL
+-Magic Accademy produces a small tickle of faith
+-Increase anti myth multiplier by 25%
+Tech: Mages deal 20% true damage
+IV-
+DARK---ERRET
+-Dark mages can apply mind control
+-Mages and citizen +20% HP
+Tech: Mages are trained 50% slower, but produce favour in battle
+TOXIC---OXIARTE
+-Walls are outfitted with thorns
+-Infantry and Cavalry melee attacks inflict poison
+Tech: Increase poison damage by 100%
+METAL---TALIKA
+-Blacksmith techs provide +50% benefits
+-Myth units +10% atk for each 200 favour stores, max +50%
+Tech: Buildings take -30% damage from myth units
+
+TOWN CENTER-
+--Citizen---
+HP 100
+Atk 10 Rof 1   x4 vs towers
+Armor 25/35%
+Speed 4
+Cost 100 F 2 pop 30 sec  max 50
+Work twice as fast as normal villagers
+
+
+
+BARRACK
+---II Spearman---
+HP 90
+Atk 5 Rof 1  x4 vs cavalry
+Armor 35/5%
+Speed 5
+Cost 50 F 35 G 2 pop 14 sec
+---III Halberdier/Polydynastus---
+HP 130-160
+Atk 10 Rof 1 x2 vs cavalry x1.5 vs infantry  
+Armor 35/10%  +5/5
+Speed 4.5
+Cost 75 F 45 G 3 pop 12 sec
+---II Skirmisher---
+HP 60
+Atk 4 Rof 1   x3 vs archers
+Range 18
+Armor 15/40%
+Speed 4
+Cost 65 W 25 G 2 pop 14 sec
+---III Swordman---
+HP 100
+Atk 6 Rof 1   x4 vs infantry
+Armor 35/10%
+Speed 4.5
+Cost 60 F 25 G 2 pop 10 sec
+
+
+
+STABLE
+---II Scout cavalry---
+HP 80
+Atk 4 Rof 1  3x vs archers
+Range 14
+Armor 25/45%
+Speed 6
+Cost 45 W 45 G 2 pop 12 sec
+---III Stradiot---
+HP 150
+Atk 10 Rof 1   1.5x vs archers
+Armor 15/45%
+Speed 6
+Cost 60 F 60 G 3 pop 15 sec
+---III Kapedan---
+HP 200
+Atk 12 Rof 1
+Armor 35/35%
+Speed 5
+Cost 60 F 75 G 3 pop 15 sec
+---III Mage Knight---
+Hero unit. Can use a sword in a pinch.
+HP 180
+Sword 20 Rof 1  3x vs myth
+Fire 72 Rof 1   3x vs myth
+Range 14 blast 2
+Armor 40/40%
+Speed 6
+Cost 300 G 10 favour 4 pop 24 sec
+
+
+SIEGE WORKSHOP
+---III Onager---
+HP 120
+Atk 50/300 Rof 5   2.5x vs ships
+Range 10-30  blast 8
+Armor 30/90%
+Speed 2.4
+Cost 200 W 200 G 5 pop 25 sec
+---III Ballista---
+HP 90
+Atk 33/30 Rof 1   3x vs ships
+Range 4-30  blast 8
+Armor 20/90%
+Speed 2.4
+Cost 150 W 150 G 3 pop 18 sec
+---III Battering Ram---
+HP 300
+Atk 5/60 Rof 1
+Armor 10/90%
+Speed 3.5
+Cost 125 W 125 G 3 pop 12 sec
+
+TEMPLE
+---Priest---
+HP 80-88-96-104
+Heal 8-8-10-12 hp/sec
+Range 10
+Armor 20/20%
+Speed 4
+Cost 80 F 20 G 2 pop 8 sec
+
+MAGE ACCADEMY---
+---II Mage---
+HP 120
+Fire 36 Rof 1
+Range 14 blast 2
+Armor 5/40%
+Speed 4
+Cost 160 G 4 favour 2 pop 12 sec
+---III Mage Fighter---
+Hero unit. Can use a sword in a pinch.
+HP 200
+Sword 20 Rof 1  3x vs myth
+Fire 72 Rof 1   3x vs myth
+Range 14 blast 2
+Armor 40/40%
+Speed 4.5
+Cost 300 G 10 favour 4 pop 24 sec 
+
+Spells:
+-Fire: 36-72 dmg, blast 2, effective vs buildings
+add DOT fire damage,  3x vs ships
+-Ice: 24-48 dmg, blast 1.5 apply -50% slow
++50% HP
+-Wind: 8-16 dmg Rof 0.2 +4 range
++25% speed
+-Light: laser, 40-80 DPS, +8 range
+Enable healing
+-Earth: 36-72 dmg, blast 2.5, effective vs buildings
+-33% Rof, +20/20% armor
+-Thunder: 200-400 dmg, Rof 6, chain attack
++10% speed and Rof
+-Water: 9-18 dmg, blast 8
+Enable healing
+-Dark: 24-48 dmg, drain life
+Enable necromancy
+-Sound: 18-36 dmg, blast 4, allies in 8 tiles get 4x vs myth
+Can boost allies speed and rof by 10% in range
+-Plant: entangle, 4-8 enemies, for 4-8 seconds, inflict stun and poison
++0/30% armor
+-Toxic: 20-40 DPS, true damage, apply -20% slow
+Poison enemies in 8 tiles
+-Metal: 50-100 DPS, slash damage, throwing knives
++30/0% armor
+ 
+
+CASTLE
+Mage Fighter, Mage Knight, Priest, Halberdier/Polydynastus
+
+
+
+DOCK
+---II Liburna---
+HP 300
+Atk 16 Rof 1
+Range 15
+Armor 50/30%
+Speed 6
+Cost 100 W 50 G 3 pop 15 sec
+---II Lembos---
+HP 300
+Atk 16 Rof 1
+Range 2
+Armor 40/20%
+Speed 7
+Cost 100 W 50 G 3 pop 15 sec
+---II Dromon---
+HP 300
+Atk 4/8 Rof 1   2x vs archer ship
+Range 20
+Armor 0/55%
+Speed 5
+Cost 100 W 50 G 3 pop 15 sec

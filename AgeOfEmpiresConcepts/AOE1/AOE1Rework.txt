@@ -1,0 +1,891 @@
+fvg UNITS AVAILABILITY: [] signifies elite upgrade
+
+BARRACK
+Longswordman: Assyrians, Babylonians, Carthaginians, Choson, Lac Viet, Minoans, Persians, Phoenicians, Romans, Sumerians
+[Legion]: Assyrians, Babylonians, Choson, Persians, Phoenicians, Romans
+Composite Archer: Babylonians, Carthaginians, Choson, Egyptians, Lac Viet, Macedonians, Minoans, Palmyrians, Persians, Phoenicians, Romans, Shang, Yamato
+Composite elite Archer:  Babylonians, Egyptians, Lac Viet, Macedonians, Minoans, Palmyrians, Persians, Phoenicians, Shang, Yamato
+°[Longbowman]: Egyptians, Minoans, Palmyrians, Persians
+°Skirmisher/elite skirmisher: everyone
+slinger: Babylonians, Carthaginians, Egyptians, Phoenicians, Romans
+Hoplite: Carthaginians, Greeks, Hittites, Macedonians, Minoans, Palmyrians, Phoenicians, Romans, Sumerians, Yamato, Assyrians
+Elite Hoplite: Carthaginians, Greeks, Hittites, Macedonians, Minoans, Palmyrians, Phoenicians, Romans, Sumerians, Yamato
+[Chosen Hoplite]: Carthaginians, Greeks, Macedonians, Minoans, Phoenicians, Romans, Sumerians, Yamato
+
+STABLE
+Chariot: Assyrians, Babylonians, Egyptians, Hittites, Lac Viet, Palmyrians, Phoenicians, Shang, Sumerians, Romans*
+[Scythed Chariot]: Babylonians, Egyptians, Hittites, Lac Viet, Palmyrians, Phoenicians, Shang, Sumerians, Romans
+Horse Archer: Assyrians, Babylonians, Carthaginians, Choson, Hittites, Lac Viet, Macedonians, Palmyrians, Persians, Shang, Sumerians, Yamato
+[Heavy Horse Archer]: Hittites, Lac Viet, Macedonians, Palmyrians, Persians, Shang, Sumerians, Yamato
+War Elephant: Carthaginians, Egyptians, Hittites, Lac Viet, Persians, Phoenicians, Macedonians*, Palmyrians*, Sumerians*
+[Elite War Elephant]: Carthaginians, Hittites, Lac Viet, Macedonians, Palmyrians, Persians, Phoenicians
+°Heavy camel rider: Assyrians, Babylonians, Carthaginians, Egyptians, Hittites, Minoans, Palmyrians, Persians, Phoenicians, Shang, Sumerians
+°[Elite camel rider]: Babylonians, Carthaginians, Egyptians, Palmyrians, Persians, Phoenicians, Sumerians
+Cavalry: Assyrians, Carthaginians, Choson, Greeks, Lac Viet, Macedonians, Palmyrians, Persians, Shang, Yamato, Romans, Phoenicians, Babylonians (Hittites, Minoans removed)
+Heavy Cavalry: Assyrians, Carthaginians, Choson, Greeks, Lac Viet, Macedonians, Palmyrians, Persians, Shang, Yamato, Romans**
+[Cataphract]: Assyrians, Choson, Macedonians, Persians, Shang, Yamato
+Elite Light cavalry: Assyrians, Palmyrians, Romans, Shang, Carthaginians, Greeks, Choson, Macedonians, Yamato, Persians
+
+SIEGE WORKSHOP
+Catapult: Assyrians, Babylonians, Greeks, Hittites, Lac Viet, Macedonians, Minoans, Palmyrians, Persians, Romans, Shang, Sumerians
+[Heavy Catapult]: Assyrians, Babylonians, Greeks, Hittites, Lac Viet, Minoans, Palmyrians, Romans, Sumerians
+Ballista: Assyrians, Carthaginians, Choson, Greeks, Lac Viet, Macedonians, Minoans, Palmyrians, Romans, Shang
+[Heavy Ballista]: Assyrians, Carthaginians, Choson, Greeks, Minoans, Romans, Shang
+°Capped Ram: Assyrians, Carthaginians, Greeks, Romans, Shang, Babylonians, Egyptians, Hittites, Lac Viet, Macedonians, Persians, Phoenicians
+°[Siege Ram]: Assyrians, Carthaginians, Greeks, Romans, Egyptians, Hittites
+°Siege Tower: everyone
+
+SHIPYARD
+Trireme: everyone
+Fire Galley: Assyrians, Babylonians, Carthaginians, Greeks, Hittites, Palmyrians, Shang, Sumerians
+Ramming Ship: everyone
+Siege Trireme: everyone
+[Elite Siege Trireme]: Egyptians, Greeks, Minoans, Persians, Phoenicians, Romans, Yamato
+
+TOWERS
+Guard Tower: all but Minoans and Yamato (added Romans)
+Ballista Tower: all but Lac Viet, Minoans, Persians, Romans, Shang and Yamato
+Fortified Wall: all but Carthaginians, Macedonians, Minoans and Yamato
+
+*get ranged attack
+**added
+°new unit
+
+TECH AVAILABILITY
+All civs have all eco techs: farm, wood, stone, gold.
+Melee attack III: all but Carthaginians, Greeks, Palmyrians, Phoenicians, Sumerians
+Melee armor III: all but Carthaginians, Choson, Phoenicians
+Pierce armor II: all but Assyrians, Babylonians, Choson, Egyptians, Sumerians (Assyrians, Egyptians get shield I)
+Pierce armor III: all but Assyrians, Babylonians, Choson, Egyptians, Lac Viet, Palmyrians, Sumerians, Yamato
+Archer Range III: all but Macedonians, Palmyrians, Persians, Sumerians
+All civs have Theocracy and Polytheism effect. Sacrifice and Zealotry are removed.
+Hittites, Lac Viet, Minoans, Palmyrians, Sumerians, Yamato and Macedonians have healers
+who replace priests. They don't have the same techs as the priest, hence they are
+excluded from the tech tree.
+Mysticism: everyone
+Astrology: all but Carthaginians and Romans
+Afterlife: all but Romans
+Monotheism: all but Carthaginians and Greeks
+Fanaticism: everyone (added Carthaginians)
+Medicine: everyone
+Bloodlines: all but Assyrians and Macedonians
+Architecture: all but Assyrians, Hittites and Phoenicians
+Aristocracy: all but Assyrians, Choson, Lac Viet, Palmyrians, Persians and Shang
+Ballistics: everyone
+Alchemy: everyone (added Romans, Choson and Carthaginians)
+Siege engineering: all but siege engineerings, Lac Viet, Macedonians, Palmyrians and Shang
+Conscription: everyone (added Greeks, Macedonians, Romans and Shang)
+
+UNITS
+militia-swordman-longswordman-paragon
+axeman-heavy axeman-elite axeman
+hoplite-elite hoplite-chosen hoplite
+archer-composite archer-elite composite archer-longbowman
+skirmisher-elite skirmisher
+slinger-elite slinger
+
+scout cavalry-light cavalry-elite light cavalry
+cavalry-heavy cavalry-cataphract
+war elephant-elite war elephant
+camel rider-heavy camel rider-elite camel rider
+chariot-scythed chariot
+horse archer-heavy horse archer
+
+stone thrower-catapult-heavy catapult
+ballista-heavy ballista
+battering ram-capped ram-siege ram
+siege tower
+
+scout ship-war galley-trireme
+siege trireme-elite siege trireme
+ramming galley-ramming trireme
+fire galley-fast fire galley
+fishing ship
+trade ship
+
+villager
+priest/healer
+trade cart
+
+scout tower-watch tower-guard tower-ballista tower
+stone wall-reinforced wall-fortified wall
+TECHS
+farm I-III
+wood I-III
+stone I-III
+gold I-III
+melee attack I-III:
+melee armor I-III:
+pierce armor I-III:
+archer range I-III:
+Astrology: 
+afterlife:
+monotheism:
+recovery(fanatcism+medicine):
+Bloodlines: 
+Architecture: 
+Aristocracy:
+Ballistics: 
+Siege engineering: 
+Conscription:
+Alchemy:
+Age up to Bronze Age:
+Age up to Iron Age:
+BUILDINGS
+Tool Age:House, Farm, Mill, Storehouse, Blacksmith, Shipyard, Barrack, Market
+Bronze Age: Temple, Stable, Siege Workshop. Town Center
+Iron Age: Wonder
+
+CIVILIZATIONS
+
+***EGYPTIAN ARCHITECTURE SET***
+ASSYRIANS
+archers and siege civilization
+-villager move 10% faster
+-Horse archers attack 33% faster
+-Siege unit upgrades cost -50%
+UU: Assyrian Horse Archer(horse archer)
+TB Siege workshop work 20% faster
+Miss: Shield II, Bloodlines, Architecture, Aristocracy
+MU: skirmisher, heavy horse archer, elephants, scythed chariot, elite hoplite
+
+Assyrian Horse Archer
+HP 60
+Atk 8 [9]
+Range 6 [9]
+Armor 0/1 [6/1]
+Speed 2.0
+Cost 50 F 70 G 40 sec
+Compared to HA: +1 atk, -1 range
+
+EGYPTIANS
+chariots and priest civilization
+-Gold miner work 20% faster
+-Farms cost -20%
+-Chariots +33% HP
+-Priest +2/3 range
+UU Kopesh warrior(infantry)
+TB Priest +1/1 armor
+Miss: Shield II, siege engineers
+MU: Swordman, horse archer, cavalry, catapult, ballista, hoplite
+
+Kopesh warrior: infantry unit that is effectivs vs other infantry units
+HP 100-120
+Atk 15-20 [26]
+vs infantry +10+10
+Armor 5/1-6/2 [12/3]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 800 F 400 G 100 sec
+
+HITTITES
+chariots and navy civilization
+-horse archers +1 atk
+-Catapults +50% HP
+-Trireme +1/2/2 range
+-Free wheel
+UU: Hittite's Chariot(chariot)
+TB Towers +4 population
+Miss: Mysticism, Afterlife, Monotheism
+MU: skirmisher, longswordman, elite composite archer, heavy cavalry, ballista, chosen hoplite
+
+Hittite's Chariot: unique variant of the chariot, has extra attack and defense
+HP 150-180 [216]
+Spear 10-14 [20]
+Bow 4-5 [6]
+Range 6-7 [10]
+Armor 0/0-2/1 [8/1]
+Speed 1.8
+Cost 60 F 90 W 60 sec
+Up cost 1400 W 1000 G 200 sec
+
+KUSHITES
+archers and elephants civilization
+-Foot archers cost -30%
+-Trade ships cost -30%
+-Elephants +1/1 armor
+-Government center techs cost -30%
+UU: Lion warrior (infantry)
+TB Free composite archer and elite composite archer upgrade
+Miss: siege engineering, monotheism
+MU: longswordman, hoplite, heavy cavalry, chariots, catapult, ballista
+
+Lion warrior: infantry with high attack but slow movement
+HP 120-150
+Atk 15-24 [30]
+Armor 5/0-9/0 [15/3]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+Up cost 1500 F 750 G 150 sec
+Special: kill in one hit enemy units with less than 50% HP
+
+***BABYLONIAN ARCHITECTURE SET***
+BABYLONIANS
+chariots and priests civilization
+-stone miner work 20% faster
+-Eco techs cost -30%
+-Walls and towers +60% HP
+-Priest rejuvenates 30% faster
+-Chariot +1/1 armor
+UU: Uruk spearman (infantry)
+TB Builder work 20% faster
+Miss: nothing
+MU: Heavy horse archer, heavy cavalry, elephants, hoplite, ballista
+
+Uruk spearman: infantry with damage bonus vs cavalry
+HP 80-120
+Atk 9-11 [18]
+vs cavalry +5+5
+Armor 2/0-4/0 [10/3]
+Speed 1.0
+Cost 40 F 10 G 24 sec
+Up cost 1000 F 500 G 150 sec
+
+PERSIANS
+cavalry and navy civiliation
+-Hunters work 30% faster
+-Elephants move 25% faster
+-Trireme fire 20/25/30% faster
+-Walls cost -20%
+UU: Savaran (cavalry), immortal (infantry)
+TB Stable works 20% faster
+Miss: ballista tower, archer range III, siege engineers
+MU: Chariots, heavy catapult, ballista, hoplite
+
+Savaran: cataphract replacement, has more armor but slightly lower hitpoints
+HP 200 [240]
+Atk 14 [20]
+vs light infantry +6
+Armor 8/1 [14/4]
+Speed 1.7
+Up cost 1600 F 600 G 150 sec
+
+Immortal: infantry that can switch to a bow
+HP 80-120
+Lance 9-14 [20]
+Bow 3 [4]
+Range 6-7 [10]
+Armor 1/0-2/0 [8/3]
+Speed 1.0
+Cost 35 F 15 G 25 sec
+Up cost 1400 F 600 G 100 sec
+
+
+SUMERIANS
+camels and siege civilization
+-villagers +15 HP
+-Catapult fire 33% faster
+-Farms +125 F
+-Camels +1/1 armor
+UU: Karda (infantry)
+TB Town Centers cost -25%
+Miss: metallurgy, archer range III, astrology, afterlife, monotheism
+MU: swordman, composite archer, cavalry, ballista, hoplite
+
+Karda: infantry with high defense but low hitpoints
+HP 80-100
+Atk 16-26 [30]
+Armor 8/1-11/2 [17/5]
+Speed 1.0
+Cost 50 F 50 G 50 sec
+
+ELAMITES
+Light cavalry and siege civilization
+-Light cavalry cost -30%
+-Unit upgrades cost -30%
+-Siege units fire 20% faster
+-Villager work 5% faster
+UU: Elamite soldier (infantry)
+TB Repairer work 25% faster
+Miss: Shield III
+MU: horse archer, cavalry, elephants, hoplite
+
+Elamite soldier: infantry that is effectivs vs cavalry
+HP 80-120
+Atk 8-10 [16]
+vs cavalry +10+10
+Armor 1/0-2/0 [8/3]
+Speed 1.0
+Cost 30 F 20 W 25 sec
+Up cost 500 F 300 W 50 sec
+
+***ASIAN ARCHITECURE SET***
+CHOSON
+infantry and priest civilization
+-Sillian guard replace swordman
+-Blacksmith techs cost -50%
+-Towers +2 range
+-Priest cost -32%
+UU: Sillan guard (infantry)
+TB Buildings +2 los
+Miss: siege enginnering
+MU: elephants, chariots, camels, hoplite, catapult
+
+Sillan guard: durable but slow infantry, with bonus damage vs cavalry and buildings
+HP 50-90-150
+Atk 5-9-14 [20]
+vs cavalry +2+2+2
+vs buildings +2+2+2
+Armor 0/0-2/0-4/0 [10/3]
+Speed 1.0
+Cost 35 F 15 G 20 sec
+Up cost 1400 F 600 G 150 sec
+
+LAC VIET
+archers civilization
+-Foragers work 15% faster
+-Military units are created 25% faster
+-Archers, ballista +2/0 armor
+-Cavalry and horse archers cost -25% G
+UU: Rattan archer(archer) 
+TB Houses and farms are built 50% faster
+Miss: Aristocracy, Mysticism, afterlife, monotheism, shield III, siege engineers
+MU: hoplite, paragon, camels, cataphract, chariots, heavy ballista, ballista tower
+
+Rattan Archer: archer with heavy armor, effective vs other archers
+HP 60-75
+Atk 6-7 [8]
+Range 6-7 [10]
+Armor 2/1-4/2 [10/2]
+Speed 1.0
+Cost 60 F 40 G 50 sec
+Up cost 200 F 200 W 80 sec
+
+SHANG
+cavalry and archer civilization
+-villager cost -20%, start with -40 F
+-Walls +60% HP
+-Cavalry attack 10% faster
+UU: Qi spearman (infantry), chu ko nu (archer)
+TB Town Centers provide +4 population
+Miss: Ballista tower, aristocracy, siege engineering
+MU: longswordman, elephants, heavy catapult, hoplite, ballista
+
+Qi spearman: cheap infantry who takes half pop space and
+he's effective vs cavalry
+HP 80-120
+Atk 8-10 [16]
+vs cavalry +10+10
+Armor 1/0-2/0 [8/3]
+Speed 1.0
+Cost 30 F 20 W 25 sec
+Up cost 500 F 300 W 50 sec
+
+Chu ko nu: archer who fires multiple bolts in quick succession, take half pop space
+HP 25-30
+Atk 6-7 [10] fire three times faster than normal archers
+Range 6-7 [10]
+Armor 0/0
+Speed 1.0
+Cost 50 W 40 G 30 sec
+Up cost 1800 F 1200 W 200 sec
+
+YAMATO
+cavalry, archers and navy civilization
+-Fisherman and fishing boats work 20% faster
+-Dojo replace all military buildings
+-Ships +15/20/25% HP
+UU: Samurai (infantry/archer), Mounted Samurai(cavalry/cavalry archer)
+TB Mounted units are trained 20% faster
+Miss: fortified wall, guard tower, Astrology, mistycism, monotheism
+MU: swordman, chariots, elephants, camels, catapult, ballista
+
+Samurai: heavy infantry with along range bow attack
+HP 120-150
+Lance 17-30 [37]
+Bow 6-7 [8]
+Range 6-7 [10] +2 vs buildings
+vs buildings +15+5
+Armor 5/0-8/0 [14/3]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 2000 F 700 G 200 sec
+
+Mounted samurai: heavy cavalry that can use a bow
+HP 150-230 [276]
+Lance 8-14 [20]
+vs light infantry +5+6
+Bow 7-8 [9]
+Range 6-7 [10]
+Armor 2/0-5/0 [11/3]
+Speed 1.6
+Cost 60 F 70 G 50 sec
+Up cost 1200 F 500 G 200 sec
+
+Dojo can train the following units:
+I-militia, archer, skirmisher, scout cavalry
+II-samurai, mounted samurai
+
+***GREEK ARCHITECTURE SET***
+ATENIANS
+infantry and navy civilization
+-Town Centers work 10/15/20% faster
+-Hoplite cost -20%, move 30% faster
+-Trireme cost -20%, move 30% faster
+-Other ships move 20% faster
+-Free Astrology
+UU: Strategos (infantry)
+TB Market cost -50%
+Miss: Monotheism
+MU: swordman, composite archer, chariots, horse archer, elephants, cataphract, camels
+
+Strategos
+HP 120-160
+Atk 17-30 [27]
+Armor 5/0-8/0 [14/3]
+Speed 1.0
+Cost 100 F 50 G 60 sec
+Up cost 1600 F 700 G 150 sec
+Special: melee allied units get +1 atk and +1 melee armor, aura doesn't stack
+
+SPARTANS
+infantry civilization
+-Hoplites, swordmen +2/0-4/0 armor
+-All food income +5%
+-Hoplite upgrades cost -50%
+-Battering rams attack 33% faster
+UU: Hippeus (infantry)
+TB Barracks work 20% faster
+Miss: Monotheism, archer range III
+MU: composite archer, horse archers, elephants, chariots, camels
+
+Hippeus: heavy infantry with high pierce armor
+HP 100-120
+Atk 20-30 [37]
+Armor 7/3-12/4 [18/7]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+Up cost 1200 F 600 G 150 sec
+
+MINOANS
+archers and navy civilization
+-Cretean archer replace archer
+-Ships cost -20/25/30%
+-Farmers work 10% faster
+-Cavalry deal +6 dmg vs cavalry
+UU: Cretean archer (archer)
+TB Shipyards cost -20%
+Miss: fortifed wall, guard tower, astrology, mysticism, afterlife, monotheism
+MU: paragon, chariots, horse archer, elephants, heavy cavalry, camels
+
+Cretean Archer: foot archer with long range, especially effective
+vs other infantry and archer units. Weak to cavalry and siege.
+HP 50-60-70
+Atk 5-6-7 [8]
+Range 7-8-9 [12]
+Armor 1/1 [7/1]
+Speed 1.0
+Cost 65 F 35 G 50 sec
+Up cost 200 F 100 W 50 sec
+Up cost 400 F 200 W 100 sec
+
+PHOENICIANS
+elephants and navy civilization
+-Woodcutter work 15%faster
+-Elephants cost -25%
+-Catapult trireme fire 33% faster
+-Docks +150 HP and +4 los
+UU: Balearic slinger(archer)
+TB Archers +2 los
+Miss: nothing
+MU: horse archer, heavy cavalry, catapult, ballista
+
+Balearic Slinger: ranged unit with high pierce attack, but
+his attack isn't affected by blacksmith archer attack upgrades.
+Deal more damage to mounted units and buildings
+HP 40-45
+Atk 15-20
+vs cavalry +4
+vs buildings +5
+Range 8-10
+Armor 0/0 [6/3]
+Speed 1.0
+Cost 50 W 40 G 25 sec
+Up cost 1200 W 1200 F 200 sec
+
+***ROMAN ARCHITECTURE SET***
+CARTHAGINIANS
+cavalry and navy civilization
+-start with +50 of all resources
+-Mounted units +25% HP
+-Fire galley and quadrireme attack 20% faster
+-Free Bloodlines
+UU: Noble (infantry)
+TB Shipyards work 20% faster
+Miss: Siege engineers, Astrology, Monotheism
+MU: Paragon, composite bowman, chariots, heavy horse archer, cataphract, catapult
+
+Noble: heavy infantry
+HP 150-200
+Atk 20-30 [36]
+Armor 6/0-8/0 [14/3]
+Speed 1.0
+Cost 50 F 50 G 50 sec
+Up cost 2000 F 1000 G 200 sec
+Special: regain 50 Hp per kill
+
+MACEDONIANS
+infantry and cavalry civilization
+-All melee units +2 los
+-Hoplite +0/1-0/2 armor
+-Siege units cost -25%
+-All units resist conversion 4 times
+UU: Phalangite (infantry)
+TB Houses +50 HP
+Miss: archer range III, siege engineers, bloodlines
+MU: longswordman, chariots, camels, heavy catapult, heavy ballista
+
+Phalangite: infantry with a long range polearm
+HP 100-135
+Atk 12-18 [25]
+Range 2
+Armor 5/0-8/0 [14/3]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+Up cost 1500 F 750 G 150 sec
+
+PALMYRIANS
+camels and elephants civilization
+-villager cost +20%, but work 20% faster, have +15 HP and +1/2 armor, start with +25 F
+-Camels move 25% faster
+-Trade units generate +20% G
+-Elephants attack 15% faster
+UU: Camel archer (mounted archer)
+TB Techs are researched 50% faster
+Miss: archer range III, siege engineers, monotheism, mysticism
+MU: longswordman, cataphract, heavy ballista, chosen hoplite, horse archer
+
+Camel Archer: archer on top of a camel, effectivs vs other mounted archers
+HP 60-80 [96]
+Atk 7-8 [9]
+vs horse archer +6+2
+Range 6-7 [10]
+Armor 2/1 [8/1]
+Speed 1.6 [2.0]
+Cost 50 F 70 G 50 sec
+Up cost 1500 F 600 G 150 sec
+
+ROMANS
+infantry and siege civilization
+-buildings cost -10%
+-Towers and walls cost -20%
+-Free Tower upgrades
+-Swordman attack 50% faster
+-Ballista +1 range
+UU: legionary (infantry), centurion (infantry)
+TB Priest heal 50% faster
+Miss: ballista tower, afterlife
+MU: composite archer, horse archer, elephants, camels, cataphract
+
+Legionary: infantry with a charged javelin attack
+HP 120
+Atk 13 [20] x1.5
+Javelin 20 recharge 60 sec
+Armor 4/1 [10/4]
+Speed 1.0
+Cost 35 F 15 G 25 sec
+Up cost 1200 F 600 G 100 sec
+
+Centurion: roman upgrade for the elite hoplite
+HP 160
+Atk 30 [36]
+Armor 10/1 [16/4]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 1800 F 800 G 200 sec
+Special: legionaries and other centurions in 10 tiles get +2 atk, aura doesn't stack
+
+****CELTIC ARCHITECTURE SET****
+GAULS
+infantry and siege civilization
+-Free armor and shield upgrades
+-Infantry +25% HP
+-Siege units +33% HP
+-All buildings cost -20% W, they are built 25% faster but have -20% HP
+UU: gaesatae (infantry)
+TB Blacksmith work 100% faster
+Miss: architecture, alchemy, monotheism
+MU: elephants, chariots, camels, composite archer
+
+Gaesatae: infantry with great hitpoints and attack but low armor
+HP 180-240
+Atk 20-30 [36]
+Armor 3/0-5/0 [11/3]
+Speed 1.2
+Cost 70 F 30 G 40 sec
+Up cost 2000 F 1000 G 200 sec
+
+BRITONS
+infantry and chariots civilization
+-Chariots and foot archers cost -20/30%
+-Warships +1/1 armor
+-Blacksmith melee attack upgrades grant another +1
+-All buildings cost -20% W, they are built 25% faster but have -20% HP
+UU: Essedarius (chariot)
+TB Huntables provide +25% F
+Miss: Metallurgy III, architecture, alchemy, monotheism
+MU: elephants, camels, horse archers
+
+Essedarius: briton's special version of the chariot, has higher hp and more
+ranged attack but shorter range.
+HP 160-200 [240]
+Spear 10-14 [20]
+Bow 5-6 [7]
+Range 4-5 [8]
+Armor 0/0-1/1 [7/1]
+Speed 1.8
+Cost 60 F 90 W 60 sec
+Up cost 1400 W 1000 G 200 se
+
+GERMANS
+infantry civilization
+-Villager remotely deposit resources, doesn't build storage pits or mills
+-Foot military units move 5/10/15% faster
+-Mounted units +1/1 armor
+-All buildings cost -20% W, they are built 25% faster but have -20% HP
+UU: maceman (infantry)
+TB Trees last 20% longer
+Miss: architecture, alchemy, monotheism, afterlife
+MU: elephants, camels, horse archers, chariots
+
+Maceman: infantry with great hitpoints and armor piercing attack
+HP 200-250
+Atk 13-20 [26]
+Armor 2/0-4/0 [10/3]
+Speed 1.0
+Cost 80 F 20 G 40 sec
+Up cost 1800 F 900 G 200 sec
+
+GOTHS
+infantry and cavalry civilization
+-swordman, axeman and skirmisher cost -20/25/30%
+-Melee units deal +5/10/15 bonus damage to buildings (essentially, +1/2/3 damage)
+-Hunter and Forager work 10% faster
+-All buildings cost -20% W, they are built 25% faster but have -20% HP
+UU: huskarl (infantry)
+TB Houses provide +1 population
+Miss: siege engineering, afterlife, monotheism, mysticism, architecture, alchemy
+MU: chariots, elephants, camels, catapult, ballista, elite composite archer
+
+Huskarl: infantry with great pierce armor, but weak to other melee units
+HP 80-100
+Atk 10-14 [20]
+Armor 1/3-2/4 [8/7]
+Speed 1.2
+Cost 30 F 20 G 25 sec
+Up cost 1200 F 800 G 100 sec
+
+****MESOAMERICAN ARCHITECTURE SET****
+OLMECS
+archer civilization
+-War Hut replace Barracks and Archery Ranges
+-Start with +100 W
+-Resources last 15% longer
+-Start with +1 villager but -50 F
+UU: plumed archer (archer)
+TB Walls cost -20%
+Miss: bloodlines
+MU: stable, elephants, chariots, camels, scout cavalry, cavalry, ballista tower, fire galley
+
+Plumed archer: foot archer with good hipoints and movement speed
+HP 65-85
+Atk 6-7 [8]
+Range 6-7 [10]
+Armor 0/1 [6/1]
+Speed 1.5
+Cost 40 W 40 G 50 sec
+Up cost 400 W 400 F 100 sec 
+
+MEXICA
+infantry and priest civilization
+-villager carry +4 resources
+-Priest +10 HP for each temple tech researched (max +50)
+-Barracks cost -33%
+-Start with +100 G
+UU: jaguar warrior (infantry), eagle warrior (infantry)
+TB All military units are created 10% faster
+Miss: bloodlines, architecture
+MU: stable, elephants, chariots, camels, scout cavalry, ballista tower, fire galley
+
+Jaguar warrior: heavy infantry, replace axeman, great damage and armor,
+effective vs other melee units. Weak vs ranged units and priests
+HP 100-130
+Atk 18-30 [36]
+Armor 6/1-10/1 [16/4]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 1500 F 900 G 200 sec
+Special: gain +2 atk for each kill, max +8
+
+Eagle warrior: fast moving light armed infantry unit, acting as a replacement for
+the scout cavalry line. Strong vs archers, priests, siege and light cavalry.
+Weak vs strong melee units.
+HP 80-120
+Atk 8-10 [16]
+vs cavalry +2+2
+vs archers +2+2
+vs light infantry +2+2
+Armor 3/2-6/3 [12/6]
+Speed 1.5
+Cost 80 F 20 G 40 sec
+Up cost 1600 F 600 G 200 sec
+
+WARI
+infantry civilization
+-Villagers are affected by blacksmith infantry techs
+-All military units cost -25% F
+-Start with +100 F
+-Houses provide +4 population
+-Free slinger upgrades
+UU: kamayuk (infantry)
+TB Towers and walls are built 50% faster
+Miss: bloodlines, zealotry
+MU: stable, elephants, chariots, camels, scout cavalry, ballista tower, fire galley
+
+Kamayuk: infantry with a long polearm, effective in pitched battles
+HP 80-120
+Atk 8-10 [16]
+vs cavalry +4+4
+Range 1
+Armor 1/0-2/0 [8/3]
+Speed 1.0
+Cost 40(30) F 15 G 25 sec
+Up cost 1200 F 600 G 100 sec
+
+PUEBLOS
+infantry and siege civilization
+-Start with +150 S
+-all units and buildings +10% HP (except unique unit)
+-Aging up cost -30%
+-Siege units are affected by infantry armor upgrades
+-Fortified Town Centers replace town centers and all military buildings,
+cannot build storehouses, mills, any other military building, governement center or temple
+UU: Cloud Spearman (infantry)
+TB Barrack provide +4 population
+Miss: bloodlines
+MU: stable, elephants, chariots, camels, scout cavalry, ballista tower, fire galley, skirmisher
+
+Fortified town centers train:
+I-villager, archers, cloud spearman
+II-catapult, slingers
+III-ballista, battering ram
+
+Cloud spearman: balanced infantry unit with solid armor and above average speed
+HP 80-120-160
+Atk 10-18-26 [32]
+Armor 1/0-4/0-8/1 [14/4]
+Speed 1.2
+Cost 70 F 30 G 40 sec
+Up cost 200 F 10 G 50 sec
+Up cost 1000 F 800 G 100 sec
+
+****WEST EUROPEAN ARCHITECTURE SET****
+ARMENIANS
+cavalry and priest civilization
+
+-Animals contain +50% F
+-Horse archers +1 range
+-Temple techs cost -50%
+-Stone and gold miners generate F in addition to minerals
+UU: Ayrudzi (cavalry/horse archer)
+TB: mounted units +2 los
+
+DACIANS
+infantry civilization
+
+-Free mining upgrades
+-Swordman upgrades are free
+-Walls and towers cost -20%
+UU: Falxman (infantry)
+TB: Aging up is done 33% faster
+
+ILLYRIANS
+infantry and navy civilization
+
+-Ships move 10% faster
+-Trireme cost -20%
+-Blacksmith upgrades are available one age earlier
+-Stone and gold miner work 10% faster
+UU: Polydynastus (infantry)
+TB: Ships +2 los
+
+THRACIANS
+infantry and skirmisher civilization
+
+-Scout cavalry, skirmisher and spearman +1 atk, are trained 25% faster
+-Skirmisher upgrades are free
+-Start with +150 F
+UU: Romphaia (infantry)
+TB: infantry +4 los
+
+****INDIAN ARCHITECTURE SET****
+GUPTA
+cavalry and siege civilization
+
+-Stables cost -50%, research techs 100% faster
+-Free farm upgrades, they are available one age earlier
+-Composite bowman avaialble in Age II
+UU: Maharaja (elephant archer)
+TB: elephants +2 los
+
+MAURYANS
+elephants civilization
+
+-Hunts and trees last 25% longer
+-Free Herbal medicine, it is twice as effective
+-Battle elephants +2 atk
+-Free Light cavalry upgrades
+UU: Chakram thrower (infantry)
+TB: trade units yield 30% F in addition to G
+
+NANDA
+elephants civilization
+
+-Free wood upgrades
+-Towers cost -40%
+-Chariots cost -20%
+-Elephants and chariots move 10 faster
+UU: Mahamatra (cavalry)
+TB: woodcutter generate F in addition to W
+
+****NOMADIC ARCHITECTURE SET****
+HUNS
+cavalry and cavalry archer civilization
+
+-Don't nedd houses, start with -150 W
+-Don't need storehouses, instead, start with a mule cart
+-Horse archers cost -25%
+-Light cavalry +33% HP
+UU: Tarkan (cavalry)
+TB: Stables work 20% faster
+
+SCYTHIANS
+cavalry and cavalry archer civilization
+
+-No buildings are required for aging up
+-Mule carts replace storehouses
+-Mounted units +1/1 armor
+-Hunters work 30% faster
+UU: Amazon (horse archer)
+TB: Mines last 5% longer
+
+PARTHIANS
+cavalry civilization
+
+-Units upgrades cost -50% G
+-Mounted units are trained 15/25/35% faster
+-Villagers cost -15/20/25%
+UU: Grivpanvar (cavalry)
+TB: Military buildings +4 los
+
+
+
+NUBIANS
+NUMIDIANS
+PONTUS
+IBERIANS
+JUDEANS
+SELEUCIDS
+SYRACUSANS
+PICTS
+

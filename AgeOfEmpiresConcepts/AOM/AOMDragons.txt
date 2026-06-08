@@ -1,0 +1,91 @@
+*********
+*DRAGONS*
+*********
+-Start with 1 dragon hunter and 1 kobold
+-Start with 300 F 300 G
+-Doesn't gather wood, nor can they use it, buildings cost only G
+-Collect favour by losing dragon units (any ways) (100 resources -> 10 favour)
+-Only have 1 god, but it can choose between different techs
+-Doesn't need houses, as population is already capped
+-Dragon Den units count as myth units
+
+BUILDINGS
+I-Dock, Temple
+II-Animal Pen, Blacksmith, Town Center, Dragon Den, Stone wall, Tower
+III-Fortress
+
+TOWN CENTER
+---Dragon Hunter---
+HP 200
+Atk 20 Rof 1
+Range 18
+Armor 30/30%
+Cost 200 F 4 pop 60 sec max 20
+Can only hunt, but hunts 4 times as faster
+as a normal villager. Can build eco buildings:
+Dock, Temple, Animal Pen, Town Center
+---Kobold---
+HP 100
+Atk 10 Rof 1
+Armor 30/30%
+Speed 4
+Cost 100 F 2 pop 30 sec max 10
+Can only gather G, but work 3 times as fast as normal villager.
+Can build Military buildings: Blacksmith, Dragon Den, Stone wall, Tower, Fortress
+
+DRAGON DEN
+---II Dragon soldier---
+Melee dragon effective vs mounted units, great armor
+HP 480
+Atk 32    1.25x vs cavalry
+Armor 40/20%
+Speed 4.5
+Cost 200 F 160 G 8 pop 48 sec
+
+---II Dragon sentinel---
+Ranged dragon effective vs other ranged units and siege
+HP 180
+Atk 24   1.25x vs infantry  2x vs archers
+Range 18
+Armor 40/40%
+Speed 4
+Cost 200 W 160 G 8 pop 60 sec
+
+---III Dragon Swordmaster---
+Melee dragon with great damage, effective vs infantry and heroes
+HP 400
+Atk 20/60  5x vs infantry  2x vs heroes
+Armor 40/10%
+Speed 4.5
+Cost 200 F 160 G 8 pop 48 sec
+
+---III Dragon rider---
+Flying ranged dragon, who rides on another dragon, weak to archers,
+strong vs melee units and buildings and heroes(except ranged ones)
+HP 640
+Atk 48    x2 vs myth/heroes
+Range 12
+Armor 30/30%
+Speed 6
+Cost 400 F 50 favour 8 pop 40 sec
+Javelin: throw a javelin, dealing 250 pierce damage in range 12, CD 10 sec
+
+---IV Great Dragon---
+Incredibly strong mth unit, almost equivalent to a titan, great
+vs buildings and melee units, weak to heroes, especially ranged ones
+HP 4000 [8000]
+Atk 320   x2 vs myth  x0.5 vs heroes x2.5 vs titan
+Breath: cone of 3x12 tiles, 80 true damage
+Armor 20/40% [58/69%]
+Speed 4 [5]
+Cost 1250 F 1250 G 250 favour 30 pop 100 sec
+Burning: breath attack deal 3 true damage over 5 seconds
+not stackable
+
+Medium-Heavy-Champion Dragons:
+improve dragons trained at the Dragon Den.
++10/15/20% HP and atk and -10/15/20% train time
+
+TEMPLE
+---II Dragon Shaman---
+Support unit, with healing and true damage attacks, effective vs other myth units

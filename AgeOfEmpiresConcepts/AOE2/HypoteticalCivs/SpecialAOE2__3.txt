@@ -1,0 +1,205 @@
+INUITS
+naval and archers civilization
+
+-Fisherman, fishing boat and Hunter work 15% faster
+-Can build Docks inland, and garrison them with villagers
+to produce a tickle of food, cannot build mills or farms.
+-Storehouse replace Lumber and Mining camps. Their upgrades grant
++2 carry capacity for wood/stone/gold respectively
+UU Kayak(ship), Dogsled(archer), Inuit Warrior(infantry)
+CT-Songline: military land units regen 15 Hp/min when away from enemies in 10 tiles
+IT-Harpoons: Archers, Dogsleds, Kayak, inuit warrior +1 atk
+TB-Fishing ships +5 carry capacity
+
+Kayak: warship that replace galley. Cheaper and occupies
+half population space.
+HP 60-65-75
+Atk 4-5-6 [10]
+vs long-range-ships +4-4-5
+vs buildings +3
+Rof 3.0
+Range 5-6-7 [10]
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.4 [1.68]
+collision size 0.25
+Cost 45[36] W 15 G 18-14 [9] sec
+
+Boarding Kayak: replace fire ships and carracks, defeating them both.
+Occupies half population.
+HP 45-55-70
+Atk 4 [8]
+vs fire ships +2
+Rof 1.0
+Range 0.5
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.5 [1.8]
+collision size 0.25
+Cost 40[32] W 15 G 21-14 [9] sec
+
+Dogsled: an archer that, thanks to his dogsled, is very fast.
+Doesn't take anti cavalry damage, take -50% anti archer
+damage, and move 10% faster in snowy terrain.
+HP 70-80
+Atk 5-6 [11]
+vs spear +4+2 [6]
+Rof 2.0 [1.7]
+Range 4 [7] 
+Accuracy 50-80% (100%)
+Armor 2/2-4/2 [7/6]
+Speed 1.4 (1.54 in snow)
+Cost 60 F 40 W 15-12 sec
+Up cost 1000 F 500 W 30 sec
+
+Inuit warrior: trainable at the War Hut
+Effective vs siege and archers, weak to infantry.
+HP 50-55-60
+Atk 4-8-10 [15]
+vs siege +3
+vs cavalry +0-2
+vs camels +0-1
+vs buildings +0-1-2-3 [5]
+Rof 2.0
+Armor 0/2-0/3-0/4 [3/8]
+los 8 (5* in dark age)
+Speed 1.1-1.25-1.4
+Cost 40 F 30 G 80-40-28-24 sec
+Up cost 150 F 150 G 30 sec
+Up cost 850 F 450 G 50 sec
+
+Barrack
+I Inuit Warrior (also starting scout)
+II spearman
+Archery Range
+II archer
+II skirmisher
+III Dogsled
+III fire archer
+
+Missing techs:
+B-infantry: gambeson*, squires*
+A-archers: HC, parthian tactics
+X-cavalry: NOPE
+X-siege: NOPE
+B-monks: atonement, redemption, heresy, faith
+A-navy: nothing
+E-defense: Watch tower, masonry, arrowslits, heated shot, treadmill, BT
+B-economy: 2-h-saw, both shaft mining, guilds, all farm upgrades*
+-------
+AINU & NIVKHE
+infantry, skirmisher and naval civilization
+
+-Advancing to Feudal Age cost -30% F
+-Can upgrade Town Centers to Fortified Town Centers
+-Shipwright is available in Castle Age and cost -50% F
+-Barrack units take -50% bonus damage and deal +25% bonus damage
+UU Matagi(foot archer)
+CT Iyomate: skirmishers and archers +1 atk and +10 HP COST 400 F 250 G 40 sec
+IT Attush Weaving: infantry and archers +1/1 armor COST 450 F 300 G 40 sec
+TB Lumber/Mining camps and Mills work 80% faster
+
+Matagi
+HP 30-35 [45]
+Atk 5-6 [11]
+vs spear +2
+Rof 2.0 [1.7]
+Range 5 [8]
+Armor 0/0 [4/5]
+Speed 1.3
+Cost 40 W 30 G 10-8 sec
+Up cost 400 W 400 G 30 sec
+
+Missing techs:
+A-infantry: champion*, halberdier*
+B-archers: crossbowman*, HC, HA, parthian
+C-cavalry: hussar, knight, cavalry armor II
+D-siege: onager, heavy scorpio, siege ram, BC, siege engineers
+A-navy: nothing
+B-monks: BP
+C-defense: guard tower, BT, arowslits, masonry, treadmill
+B-economy: 2-h-saw, both shaft mining
+
+RYUKYUANS
+infantry and naval civilization
+
+-Barrack units +1/0 armor each age (+4/0 max)
+-Transport ships +50% garrison capacity
+-Dock techs cost -50% and are available one Age earlier
+-Warships gain 5 G per enemy ship killed
+-Spear-line +2 damage to spearman and skirmishers
+UU Karateka(infantry) Yukatchu(infantry)
+CT-Haijin: fishing ships generate G  COST 300 F 300 W
+IT-Hachiman: archers +3 atk and +2 archer armor COST 700 F 550 G
+TB-villager build 15% faster (except Wonders)
+
+Karateka: infantry unit effective at dealing vs other infantry units
+HP 60
+Atk 6 (10)
+vs infantry +8
+Rof 1.6
+Armor 0/0 (3/4)
+Speed 1.15 (1.26)
+Cost 45 F 45 W
+
+Yukatchu: infantry which deal 1 Aoe attack every 30-20 seconds
+HP 65-75
+Atk 11-15 (19)
+vs shock +4
+Rof 1.8
+Armor 3/2-3/3 (6/7)
+Speed 1.15-1.2 (1.32)
+Cost 55 F 30 G 14 sec
+Up cost 650 F 550 G 45 sec
+
+Missing techs:
+A-infantry: gambeson
+B-archers: parthian tactics, bracer
+B-cavalry: hussar, bloodlines, cavalry armor III
+A-siege: nothing
+B-monks: redemption
+A-navy: bracer
+A-defenses: BT
+A-economy: crop rotation
+----
+
+
+RUTENI
+infantry and cavalry civilization
+
+-Fervor and Sanctity are doubly effective
+-Iron Casting and Blast furnace are available one Age earlier and cost -50%
+-Spearman,skirmisher,light cavalry are trained 33% faster
+UU Druzhinnik(infantry), Striltsi(foot archer)
+RB Folwark
+CT-Ruthenian Rite: monks +3/1 armor, spawn a relic from each Monastery, max +3
+IT-Druzhina Veche: infantry deal trample damage
+TB-Mounted units +1 los
+
+Druzhinnik
+HP 60-75
+Atk 9-14 [18]
+vs cavalry +9-14
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 15 sec
+Up cost 850 F 450 G 45 sec
+
+Striltsi: replace Arbalester
+HP 40
+Atk 5 [9]
+vs spear +3
+Rof 1.75 [1.52]
+Range 5 [8]
+Armor 1/0 [4/4]
+Speed 0.96
+Up cost 500 F 300 G 50 sec
+
+Missing techs:
+A-infantry: nothing
+A-archers: HC
+A-cavalry: paladin
+B-siege: siege onager, siege ram, BC, siege engineers
+A-monks: nothing
+B-navy: FFS, HDS, shipwright
+B-defense: BT, heated shot, treadmill, architecture
+A-economy: both shaft mining, guilds

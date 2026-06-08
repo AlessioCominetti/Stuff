@@ -1,0 +1,225 @@
+BENIN
+infantry and archers civilization
+
+-Infantry +1/2/3 atk
+-Walls and towers cost -20%
+-skirmishers +1/2 range
+-Market's techs cost -50%
+UU Iwu Warrior(skirmisher)
+CT-Bronze Armor: infantry +1/1 armor
+IT-Oba Guards: militia, archer, knights and Iwu Warrior cost -10 G
+TB-Markets +100% HP
+
+Iwu Warrior
+HP 45-50
+Atk 4-5 [9]
+vs archers +3-4
+vs spear +3-4
+vs horse archers +2
+Rof 3.0
+Range 5 [10]
+Armor 0/4 [3/8]
+Speed 1.0
+Cost 50 W 20[10] G 12-10 sec
+Up cost 400 W 400 G 40 sec
+
+Missing technologies:
+A-infantry: arson*
+A-archers: HC, HA, thumb ring, parthian
+C-cavalry: knight, hussar, cavalry armor III
+B-siege: siege onager, heavy scorpio, BC, siege engineers
+B-navy: Galleon, shipwright, CG
+C-monk: heresy, atonement, redemption, BP, faith, fervor, sanctity
+B-defense: BT, treadmill, architecture
+B-economy: crop rotation, 2-h-saw, stone shaft mining
+
+HAUSA
+cavalry and archers civlization
+
+-Markets and houses are built 100% faster
+-Light cavalry and horse archers +1/1 armor from Castle Age
+-All buildings cost -25 W (except houses, farms, walls)
+UU Zarko Rider(cavalry)
+RB Caravanserai
+CT-Kano Dye Trade: trade units yield +20% G
+IT-Emir's Cavalry: light cavalry +10 HP
+TB-Caravanserai available to allies
+
+Zarko Rider
+HP 80-100 [130]
+Atk 8-9 [13]
+vs archers +8-10
+vs monks +8-10
+Rof 1.8
+Armor 0/0 [4/5]
+Speed 1.6 [1.76]
+Cost 80 F 20 G 10-8 sec
+
+Missing technologies:
+C-infantry: 2-h-swordman, halberdier, infantry armor III, gambeson
+A-archers: nothing
+B-cavalry: knights
+A-siege: siege onager, siege engineers
+B-navy: nothing
+B-monk: heresy, BP, atonement, redemption
+A-defense: heated shot
+A-economy: crop rotation, 2-h-saw
+
+
+SHONA/ZIMBABWE
+infantry civilization
+
+-Gold mines last 20/30/40/50% longer
+-infantry +1/1 armor from Castle Age
+-Farmers work 5/10/15/20% faster
+-Free Arrowslits, Murder Holes and Heated Shot
+UU Mawambo(infantry)
+UB Saltern
+CT-Enclosures: fortifications +20% HP and +3 atk
+IT-Salt miner: enable Salterns
+TB-gold miner work 5% faster
+
+Mawambo
+HP 70-80
+Atk 8-12 [14]
+vs cavalry +10-15
+vs elephants +10-15
+vs camels +8-12
+vs buildings +2 [4]
+vs shock +2
+Rof 2.0
+Armor 2/2-3/3 [7/8]
+Speed 0.9 [0.99]
+Cost 50 F 50 G 20 sec
+Up cost 900 F 450 G 45 sec
+
+Missing technologies:
+A-infantry: halberdier*,blast furnace
+C-archers: crossbowman, HA, HC, parthian, thumb ring
+D-cavalry: hussar, knights, cavalry armor II, blast furnace, bloodlines, husbandry
+B-siege: heavy scorpio, BC, siege engineers
+C-navy: FFS, HDS, Carrack, Galleon, shipwright, CG
+C-monk: redemption, atonement, sanctity, BP
+A-defense: BT
+A-economy: crop rotation, 2-h-saw
+
+
+NOVGORODS
+cavalry and archers civilization
+
+-Foot archers +1/2/3 atk
+-Defensive structures are built 50% faster
+-Light cavalry move 5/10/15/20% faster
+-Eco techs cost -33%
+UU Druzhina Rider(cavalry)
+CT-Veche: trade carts regen 30 hp/min
+IT-Foresters: cavalry +1/0 armor, +2 atk
+TB-Trade cogs move 10% faster
+
+Druzhina Rider
+HP 80-100 [120]
+Atk 8-10 [16]
+vs archers +5-7
+vs monks +5-7
+Rof 2.0
+Armor 1/2 [5/6]
+Speed 1.5 [1.8]
+Cost 65 F 35 G 15 sec
+Up cost 600 F 600 G 50 sec
+
+Missing technologies:
+B-infantry: nothing
+A-archers: HC, bracer*
+A-cavalry: husbandry*
+B-siege: BC, siege engineers
+C-navy: Galleon, FFS, HDS, Carrack, shipwright, bracer
+B-monk: heresy
+B-defense: BT, treadmill, bracer
+S-economy: nothing
+
+
+SILESIANS
+infantry civilization
+
+-Gold and stone deposits last 30% longer
+-Blacksmith upgrades are available one age earlier, cost -50% F
+-Architecture/Masonry are free
+UU Imperial Halberdier(spearman), Raurbritter(cavalry)
+CT-Silver Mining: gold/stone miner drop off 10% more resources
+IT-Piast Armor: infantry +1/1 armor
+TB-Villagers are trained 10% faster
+
+Imperial Halberdier
+HP 65
+Atk 8 [12]
+vs cavalry +32
+vs elephants +28
+vs camels +26
+vs buildings +4 [6]
+vs shock +2
+Rof 3.0
+Armor 1/0 [5/5]
+Speed 1.0 [1.1]
+Up cost 500 F 700 G 100 sec
+
+Raurbritter
+HP 125-150 [170]
+Atk 11-14 [18]
+Rof 2.0
+Armor 6/1-11/2 [14/6]
+Speed 1.3 [1.43]
+Cost 80 F 75 G 20 sec
+Up cost 1200 F 800 G 60 sec
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HA, parthian, thumb ring
+A-cavalry: hussar
+B-siege: siege onager, heavy scorpio, siege engineers
+C-navy: Galleon, FFS, HDS, Carrack, shipwright
+B-monk: heresy
+A-defense: nothing
+A-economy: 2-h-saw
+
+
+WELSH
+archers civilization
+
+-Farms cost -40%
+-Double attack bonus from higher elevation
+-Houses provide +5 population
+UU Welsh longbowman(archer), Teulu Champion(infantry)
+CT-Bardic Tradition: foot archers and monks +1 range
+IT-Marcher Lords: Fortifications +1 range and +25% fire rate
+TB-Starting scout unit +2 los
+
+Welsh longbowman
+HP 45-50
+Atk 7-8 [12]
+Rof 2.0
+Range 7-8 [12]
+Armor 1/0 [4/4]
+Speed 0.9
+Cost 45 W 45 G 20 sec
+Up cost 900 F 900 G 60 sec
+
+Teulu Champion
+HP 70
+Atk 16 [20]
+vs cavalry +4
+vs shock +6
+vs buildings +2 [4]
+Rof 2.0
+Armor 1/1 [4/6]
+Speed 1.05 [1.15]
+Up cost 900 F 450 G 100 sec
+
+Missing technologies:
+A-infantry: nothing
+A-archers: HHA, HC, parthian, thumb ring
+B-cavalry: hussar, cavaliers, cavalry armor III
+B-siege: heavy scorpio, BC, siege engineers
+B-navy: Carrack, FFS, HDS, shipwright
+B-monk: heresy, theocracy
+A-defense: BT, treadmill
+A-economy: stone shaft

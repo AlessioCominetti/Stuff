@@ -1,0 +1,172 @@
+Civs che entrano in Age of Empires 2 Chronicles
+
+ASSYRIANS
+archer and siege civilization
+
+-Archers, horse archers and ranged chariots attack 11/22/33% faster
+-land military units and villager move 10% faster
+-Siege units upgrades cost -50%
+UU: assyrian rider(horse archer)
+CTA War wheels: chariots +10% movement and speed +1/0 armor
+CTB Ninive's Archives: university techs cost -30%, are researched 50% faster
+ITA Assyrian Warfare: catapults cost -15%, battering rams +20% HP and +20% bonus damage
+ITB Raids: horse archers +1 range
+TB Siege workshops work 20% faster
+
+Assyrian rider
+HP 60-70 [90]
+Atk 7-8 [12]
+vs spears +2+1 [7]
+vs villagers +3
+Rof 2.0 [1.5]
+Range 3 [7]
+Armor 2/1 [6/7]
+Speed 1.6 [1.76]
+Cost 70 F 80 G 20-17 sec
+Up cost 1200 F 600 G 80 sec
+
+Missing techs:
+B-infantry: champion, halberdier, squires*
+A-archers: arbalester*, hand cannon, skirmisher, thumb ring*
+B-cavalry: light cavalry, husbandry*
+A-siege: BC
+B-monks: nothing
+B-navy: shipwright
+C-defense: masonry, arrowslits, heated shot, hoardings, treadmill
+B-economy: nothing
+
+BABYLONIANS
+defense and chariot civilization
+
+-Walls, towers +60% HP
+-priest rejuvenates 30% faster
+-stone miner work 20% faster
+-Eco techs and Universities cost -30%
+-Chariots and foot archers +0/1 armor
+UU: babilonian spearman(spearman)
+CTA Caldean astronomy: all units +2 los
+CTB Ishtar's Gate: allies passing through gates recover 30 hp/min
+ITA Hummarabi's Code: villager +2/2 armor
+ITB Fertile Moon: farms last 20% longer
+TB Builder work 10% faster
+
+Babilonian spearman
+HP 70-80
+Atk 6-8 [12]
+vs cavalry +14+6
+vs elephants +14+6
+vs camels +10+5 
+Rof 2.0
+Armor 4/1 [5/2]
+Speed 1.0
+Cost 50 F 30 G 12 sec
+Up cost 400 F 500 G 50 sec
+
+Missing techs:
+C-infantry: infantry armor II
+A-archers: HC, HHA, parthian tactics
+B-cavalry: knight, light cav
+B-siege: scorpio, BC
+A-monks: nothing
+C-navy: galleon, shipwirght, fire raft
+S-defense: nothing
+B-economy: nothing
+
+HITTITES
+archers and siege civilization
+
+-catapult +50% HP
+-chariot archers and horse archers +1 atk
+-Free wheelbarrow and handcart
+-Galley +1/2/3 range
+UU: Imperial Chariot(chariot upgrade)
+CTA Folded Metallurgy: melee units +2 atk
+CTB Qadesh's Treaty: monks convert 33% faster
+ITA Besiegers: catapult +2 range
+ITB Hittite's Forging: infantry and cavalry +1/1 armor
+TB Towers +4 population
+
+Imperial chariot give +20 HP and +1/0 armor.
+Cost 1000 W 1000 G 150 sec
+
+Missing techs:
+D-infantry: longsword, pikeman, squires, gambeson*
+B-archers: arbalester, HC, skirmisher
+B-cavalry: cavalier, light cav
+B-siege: scorpio, BC, siege engineers*
+F-monks: all techs but herbal medicine and devotion
+B-navy: galleon*, demo ship, shipwright
+B-defense: nothing
+B-economy: nothing
+
+PALMYRIANS
+camels and elephant civilization
+
+-Trade income +20%
+-Villagers occupy -20% population
+-Start with +1 villager
+-Camels and elephants move 20% faster
+UU: palmyrian cataphract(cavalry)
+CTA Silk Road: Trade units cost -25%
+CTB Zenobia's Kingdom: light cavalry +10 HP and +0/1 armor
+ITA Trade units generate F equal to 30% G
+ITB Trade units generate W equal to 30% G
+TB Techs are researched 30% faster (except aging up)
+
+Palmyrian cataphract(upgrade for cavalier)
+HP 160 [180]
+Atk 15 [19]
+vs spearman +8
+Rof 2.0
+Armor 5/3 [8/7]
+Cavalry armor 16
+Speed 1.3
+Up cost 1600 F 800 G 150 sec
+
+Missing techs:
+C-infantry: longsword, pikeman
+B-archers: HC
+A-cavalry: hussar, husbandry*
+B-siege: BC, siege engineers
+B-monks: heresy, faith
+B-navy: shipwright
+A-defenses: nothing
+A-economy: wood 3
+
+SUMERIANS
+siege and camel civilization
+
+-Loom is free and grant +10 HP
+-catapult fire 33% faster
+-Farms +125 F
+-camels +0/1 armor in III, +1/2 armor in IV
+UU: Uruk soldier(infantry)
+CTA Cuneiform writing: all units and buildings +1 los, military
+techs and upgrade are researched 50% faster and cost -20%
+CTB Gilgamesh's Kingdom: all military units +10% HP
+ITA Sumerian Camels: camels regen 30 Hp/min
+ITB Bricklayers: Replace 40% S cost of buildings with W
+TB Town Centers cost -25%
+
+Uruk soldier(replace man at arms)
+HP 45-55-65 [72]
+Atk 6-9-12 [16]
+vs cavalry +4+4+4
+vs elephants +4+4+4
+vs camels +3+3+3
+Rof 1.8
+Armor 1/1-2/1-2/1 [3/2]
+Speed 1.0 [1.1]
+Up cost 100 F 50 G 20 sec
+Up cost 200 F 100 G 30 sec
+Up cost 300 F 150 G 40 sec
+
+Missing techs:
+B-infantry: spearman*, infantry armor II, arson, gambeson
+C-archers: crossbowman, HC, archer armor II, thumb ring
+B-cavalry: knight, light cavalry
+B-siege: scorpio, BC
+F-monks: all but herbal medicine and devotion
+B-navy: shipwright
+A-defense: nothing
+A-economy: nothing

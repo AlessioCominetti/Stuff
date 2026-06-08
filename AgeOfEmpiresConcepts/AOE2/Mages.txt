@@ -1,0 +1,99 @@
+Fire mage (replace mangonel)
+HP 50-70
+Atk 45-60 (melee)
+vs buildings +35-50
+vs siege +10
+vs heavy siege +30-40
+Blast 1.0-1.5
+Rof 10.0
+Range 8-9  Min range 3
+Armor 1/2 (4/6)
+Speed 0.9
+Cost 150 G 24 sec
+Up cost 1100 F 750 G 120 sec
+Special: uni caugth in the blast take
+2 fire damage every second for 10 seconds,
+also applies to buildings
+Meteor: unleash a long range attack, which
+deals double damage and has +5 range, but fires
+three times slower. Mode can be toggled on and off.
+
+Ice mage
+HP 60-80
+Atk 10 (pierce)
+vs cavalry +4
+Rof 3.0
+Range 6
+Armor 1/2 (4/6)
+Speed 0.9
+Cost 90 G 20 sec
+Up cost 650 F 450 G 70 sec
+Special: ice attacks apply slow down to targeted unit,
+it moves and attack 30% slower for 5 seconds, effects is reapplied
+everytime the unit is struck, effect stack twice.
+Special: ice mages gain +4/2 armor if there are no allies in 3 tiles
+Freeze: can freeze a unit for 10 seconds, frozen units take
+-50% damage from all attacks, CD 50 sec
+
+wind mage (replace scorpio)
+HP 55-65
+Atk 7-9 (melee)
+vs archers +3
+Rof 1.5
+Range 6
+Armor 1/2 (4/6)
+Speed 1.35
+Cost 90 G 20 sec
+Up cost 650 F 450 G 70 sec
+Special: launch an attack that does +5 atk, does
+50% pass trough damage and knockback units by 1 tile, CD 25 sec
+
+thunder mage (replace Trebuchet/Bombard Cannon)
+HP 50-60
+Atk 100
+vs cavalry +100
+Rof 20.0-18.0
+Range 12-14
+Armor 0/0 (3/4)
+Speed 1.0
+Cost 200 G 25 sec
+Up cost 1000 F 800 G 120 sec
+Special: overkill damage goes to the
+nearest enemy unit in 3 tiles
+Cannot damage buildings, set ships on fire,
+dealing 4 damage per second for 20 seconds
+Deal -80% damage to siege units
+Units struck by thunder are stunned for 2-3 seconds,
+if they survive
+
+water mage
+HP 70
+Atk 8 (true damage)
+Rof 3.0
+Range 6
+Armor 1/2 (4/6)
+Speed 1.0
+Cost 100 G 20 sec
+Special: can heal allies in groups of 3, at 40 Hp/min
+Can swim, when in contact with water, +50% movement speed
+and regen 120 Hp/min
+
+earth mage (replace ram)
+HP 100-140
+Atk 10-13 (17) (melee)
+vs building +18-25 (27)
+Rof 2.0
+Armor 7/6 (10/10)
+Speed 0.8 (0.88)
+Cost 120 G 20 sec
+Up cost 650 F 60 sec
+Special: take -50% damage from other siege units,
+take no fire,ice,wind,thunder damage, but take
+full damage from water attacks and armor piercing
+Can mine and build fortifications 100% faster than
+a normal non-upgraded villager
+Harden: take -30% damage from all sources but -50%
+movement speed, mode can be toggled on and off
+Boulder: throw a special projectile with atk 20,
+and range 4, it has blast 1.0 and applies slow down
+of 20% for 5 seconds, CD 16 sec

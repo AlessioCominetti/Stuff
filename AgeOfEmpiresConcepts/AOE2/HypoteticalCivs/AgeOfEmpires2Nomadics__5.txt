@@ -1,0 +1,257 @@
+GRUPPI
+VANDALS: cavalry and naval
+KAZARIANS: cavalry and siege
+ALANS/AVARS: cavalry and monks
+AZERIS: cavalry and cavalry archer
+UZBEKS/UYGURS/PECHENEGS: cavalry and cavalry archers
+
+REGIONAL UNITS
+Steppe scout:
+replace starting scout, become steppe lancer.
+HP 45
+Atk 4
+Rof 2.0 (2.4 in Dark Age)
+Range 1
+Armor 0/1
+los 4
+Speed 1.45 (1.2 in Dark Age)
+
+
+
+VANDALS
+cavalry and naval civilization
+
+-Farms cost 2x but last 4x times longer
+-Demo ships and Dromons cost -30%
+-Free Bloodlines
+-Obtain 300 W once reached Feudal Age
+UU Froia (cavalry)
+RU Dromon (ship), huskarl (infantry), camels, steppe lancers
+CT Unified Kingdom (RU are trained 40% faster) COST 250 F 250 W 30 sec
+IT Dominion Maris (Warships move 25% faster for 1 minute,
+after that, apply a +10% movement speed buff) COST 500 G 500 F 30 sec
+TB Mounted units +2 damage vs buildings and monks
+
+Froia
+HP 120 [140]
+Atk 8-9 [13]
+Rof 2.0
+Range 4
+Armor 1/1-2/2 [5/6]
+los 5-7
+Speed 1.3 [1.43]
+Cost 75 F 75 G 22 sec
+Up cost 500 W 400 G 50 sec
+Special: destroyed buildings in los provide G
+Camps/Towers +10 G
+Military production +15 G
+Blacksmiths/Markets/Monasteries/Universities +25 G
+Town Centers +40 G
+Castles +50 G
+
+Missing techs
+B-infantry: halberdier, infantry armor III
+B-archers: crossbowman, hand cannon
+A-cavalry: nothing 
+B-siege: heavy scorpio, BC
+S-navy: nothing
+C-monks: illumination, BP, theocracy
+B-defense: all but chemistry,ballistics,muder holes,heated shot
+B-economy: both shaft mining, 2-man-saw, guilds
+
+KAZARIANS
+Cavalry and siege civilization
+
+-Rams cost -40/60% G, can be garrisone with mounted units
+-Unit upgrades and Market techs cost -50% G
+-Shepherd, fishing ships and fishermen drop off +10%
+-Siege and archer units are trained 33% faster
+-Monastery techs cost -80% but take four times the research time
+UU Arsiyah (cavalry archer)
+RU camel rider, steppe lancer, dromon
+RB Caravanserai, mule cart
+CT Peytral Bulwark (Mounted units take -33% bonus damage) 400 W 300 G
+IT Royal Road (Trade carts move 10% faster, caravanserai
+also boost villager walking speed by 10%) 500 G 400 S
+TB-Trade units +20 HP
+
+Arsiyah (cavalry archer)
+HP 65-80 [100]
+Atk 5-6 [10->13]
+vs spear +2-3 [5]
+Range 4 [7]
+Rof 2.0 [1.7]
+accuracy 80% [100%]
+Armor 1/1-1/2 [5/8]
+Speed 1.4 [1.54]
+Cost 75 W 45 G  15-12 sec
+Up cost 900 W 800[400] G 60 sec
+Special: gain +1 atk for each 25% HP missing, up to +3
+
+Missing techs
+C-infantry: champion, halberdier, gambeson, infantry armor III
+A-archers: HC
+A-cavalry: paladin
+A-siege: BC
+A-navy: FFS, dry dock, shipwright
+S-monks: nothing
+B-defense: BT, treadmill
+A-economy: crop rotation, stone shaft mining
+
+COMPARED TO ROBBY LAVA
+lose champion, infantry armor III, hussar, cavalry armor III
+FFS, dry dock, BP
+
+gain arbalester, fervor, sanctity, fortified wall, Keep,
+architecture, hoardings, heated shot, arrowslits, gold shaft,
+guilds, 2-man-saw
+
+ALANS and AVARS
+cavalry and monk civilization
+
+-Obtain 100 G when building TCs, excluding the first, and 300 G for each Castle built
+-Melee cavalry +1/2/3 atk
+-Monks +15 Hp per age, starting from Castle Age
+-Monks and eco techs are researched 100% faster
+UU Asud (cavalry archer), Alaunt (war dog), Cimmerian rider(cavalry)
+RU camels, steppe lancers, catapult galley
+RB fortified church, mule carts
+CT-Sarmatian rituals: mounted units heal 20% hp after killing enemy mounted units
+COST 500 F 500 W 30 sec
+IT-Right alan guard: stable units and Asud cost -25% teamwide
+COST 1000 F 850 G 50 sec
+TB-UUs are trained 20% faster
+
+Asud
+HP 60-70
+Atk 6-8 [12]
+vs building +3-6
+vs stone defenses +4-8
+vs spear +1-2 [4]
+Rof 2.5 [2.0]
+Range 4 [7]
+Accuray 80-85% [100%]
+Armor 0/1-1/2 [5/8]
+Speed 1.5 [1.65]
+Cost 60[45] W 80[60] G 15 sec
+Up cost 850 W 950 G 60 sec
+
+Alaunt
+HP 65-75
+Atk 13-15 [20]
+vs infantry 10
+vs villager 8
+Rof 1.8
+Armor 0/0 [3/4]
+cavalry armor 10
+Speed 1.5 [1.65]
+Cost 60 F 20 G 12 sec
+Up cost 600 F 500 G 30 sec
+Trained at town centers
+
+Cimmerian rider: Avars unique unit, effective
+vs buildings and archers, weak to spearman and camels
+HP 120-150
+Atk 10-13 [22]
+vs buildings +5-7
+vs archers +6
+Rof 1.8
+Armor 2/4-6/4 [9/8]
+Speed 1.45 [1.6]
+Cost 60 F 90 G 16 sec
+Up cost 1250 F 750 G 60 sec
+Special: gain +1 atk for each defeated unit, max +4
+
+Missing techs
+C-infantry: champions, halberdier, blast furnace, infantry armor III
+A-archers: HC
+B-cavalry: hussar, paladin, blast furnace*, bloodlines
+B-siege: siege onager, BC, siege engineers
+A-navy: HDS
+B-monks: sanctity*, redemption, theocracy, heresy
+C-defense: fortified walls, guard tower, BT, architecture
+B-economy: stone shaft mining
+
+
+
+
+AZERIS
+cavalry and cavalry archer civilization
+
+-Horse archers +1/2 range in Castle/Imperial Age
+-Town Centers,Houses,Stables and Archery Ranges cost -25%
+-Stable units +1/2/3 dmg vs archers
+UU Qizilbash warrior(cavalry)
+RU steppe lancer, camels
+RB caravanserai, mule cart
+CT-Silk Road: Caravanserai cost -50%          COST 300 F 300 G 30 sec
+IT-Caucasian horses: mounted units +1/1 armor COST 500 F 450 G 50 sec
+TB-Fortifications deal +25% bonus damage and +2 los
+
+Qizilbash warrior
+HP 100-140 [160]
+Atk 9-12 [16]
+vs archers +3-6
+vs infantry +2-4
+Rof 2.0
+Armor 1/1 [5/6]
+cavalry armor +12-16
+Speed 1.45 [1.6]
+Cost 45 F 60 G 20 sec
+Up cost 850 F 600 G 50 sec
+[Copilot told me to give +3-4 atk, +1/1-2/2 armor]
+Compared to the original: +1 atk +3 bonus damage
+vs archers, +4 bonus damage vs infantry
+
+Missing techs:
+B-infantry: champion, gambeson
+A-archers: crossbowman, bracer*, thumb ring, HC
+A-cavalry: paladin, hussar
+B-siege: siege onager, BC
+B-monks: heresy, BP
+B-navy: Galleon, shipwright, bracer
+A-defense: BT, bracer
+B-economy: guilds
+
+UZBEKS and UYGURS and PECHENEGS
+cavalry and cavalry archer civilization
+
+-Light cavalry and Hussar available one age earlier, cost -50%
+-Husbandry and Cavalry armor affect Trade carts
+-Military units generate 2.4 W/min
+UU Khagan Guard(cavalry)
+RU steppe lancer, camel rider
+RB mule cart, caravanserai, pasture
+CT Turk Script: light cavalry +1/1 armor and +3 atk    COST 500 F 400 G 40 sec
+IT Composite Bow: foot and mounted archers +1 atk and range  COST 750 F 500 G 50 sec
+TB Stable and Archery Range techs cost -10%
+
+Khagan Guard:
+heavy cavalry/horse archer hybrid
+HP 100-140 [160]
+--lance--
+Atk 9-13 [17]
+vs archers +3
+vs monks +4-6
+Rof 1.8
+--bow--
+Atk 5-6 [11]
+vs monks +2
+vs infantry +0 [1 with bonus]
+Rof 2.0 [1.6]
+Range 4 [8]
+--
+Armor 1/2 [4/6]
+Speed 1.45 [1.59]
+Cost 70 F 50 G 30-24 sec
+Up cost 1200 F 600 G 60 sec
+
+Missing techs:
+C-infantry longswordman, halberdier, infantry armor I
+A-archers: arbalester*, HC
+A-cavalry: knight
+C-siege: onager, heavy scorpion, BC
+C-navy: Galleon, carrack, FFS, HDS, shipwright, carening, clinker
+C-monks: BP, heresy, redemption, atonement, fervor
+D-defense: masonry, guard tower, BT, arrowslits, treadmill, heated shot
+B-economy: 2-h-saw*, both shaft mining

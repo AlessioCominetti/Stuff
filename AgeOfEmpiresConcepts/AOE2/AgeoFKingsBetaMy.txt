@@ -1,0 +1,456 @@
+CIVS
+
+BRITONS
+-foot archers +1/2 range
+-Shepherd work 25% faster
+-Town Centers cost -30%
+UU longbowman, huskarl
+UT foot archers +1 range
+TB foot units are trained 20% faster
+FRANKS
+-mounted units +10% HP
+-Forager work 25% faster
+-Free farm upgrades
+UU Throwing axeman, frankish paladin
+UT Stables work 40% faster
+TB Mounted units +2 los
+TEUTONS
+-Monks have double healing range
+-Farms cost -40%
+-Towers, Castles, Town Centers garrison +5/10/10
+UU teutonic knight, teutonic paladin
+UT Castles +3 range
+TB Units resist conversion
+DANES
+-Infantry +10% HP
+-Ships cost -20%
+-Free Wheelbarrow and hand cart
+UU varangian guard, longboat
+UT infantry +5 anti cav damage
+TB ships are trained 20% faster
+BYZANTINES
+-buildings +10/20/30% HP
+-spearman,light cav,skirmisher,camels cost -25%
+-Advancing to Imperial Age cost -33%
+UU cataphract, fire thrower
+UT fire ship +1 range and fire 20% faster
+TB monks heal 100% faster
+SARACENS
+-Galleys attack 25% faster
+-Camels +25% HP
+-Markets cost -100 W
+UU mameluke, camel archer
+UT monks heal allies in range
+TB mounted units are trained 20% faster
+TURKS
+-Hand cannon, bombard canon +25% HP
+-Free chemistry
+-gold miner work 25% faster
+-Light cavalry +0/1 armor
+-Free light cavalry upgrade
+-Start with +50 F and +50 W
+UU jannissary, sipahi
+UT bombard cannon/galleon +2 range
+TB guns are trained 25% faster
+CHINESE
+-start with +3 vils, -150 F
+-Techs cost -20%
+-Town Centers +10 population
+UU chu ko nu
+UT walls +30% HP
+TB farms +10% F
+JAPANESE
+-Mills/storehouses cost -50%
+-fisherman/fishing ships work 20% faster
+-infantry attack 33% faster
+UU samurai
+UT towers, castles, Town Centers fire 40% faster
+TB ships +4 los
+MONGOLS
+-Start with maxed pop, but -100 W and cannot build houses
+-Hunter work 40% faster
+-Horse Archers fire 25% faster
+UU tarkan, mangudai
+UT siege units move 50% faster
+TB Start with +1 herdable
+VANDALS
+-infantry cost -25/30/35%
+-siege units fire 25% faster
+-Hunt last 25% longer
+UU lankar
+UT Siege units +40% HP
+TB infantry units +2 damage vs buildings
+
+
+SPANISH
+-builder work 30% faster
+-Blacksmith upgrades cost no G
+-Guns fire 20% faster
+UU Conquistador, missionary
+UT villagers +40 HP, +6 atk, +2/2 armor
+TB Trade +25% income
+MAYANS
+-resources last 20% longer
+-Foot archers cost -10/20/30%
+-Land units move 10% faster
+UU plumed archer
+UT mace scout +40 HP
+TB walls, gates cost -40%
+AZTECS
+-Monks +10 Hp per monk tech researched
+-Military buildings work 20% faster
+-start with +50 G and +50 S
+-villager carry +4 resources
+UU jaguar warrior, eagle warrior
+UT infantry +4 atk
+TB relics generate +33% G
+KOREANS
+-stone miners work 20% faster
+-Barrack and Archery Range units cost -50% W
+-Towers +2 range
+UU war wagon, turtle ship
+UT mangonels +1 range
+TB villagers +3 los
+
+SLAVS
+-farmer work 15% faster
+-siege units cost -15%
+-free melee attack upgrades
+UU boyar, cossack
+UT infantry deal trample damage
+TB siege units are trained 20% faster
+ITALIANS
+-Advancing to the next Age cost -20%
+-Guns cost -20%
+-Fishing ships cost -20%
+-University and Dock techs cost -50%
+-Foot archers +1/1 armor
+UU Genoese crossbowman, condottiero
+UT trade units cost -50%
+TB Condottieri available at allies Barracks
+INDIANS
+-vilalgers cost -15/20/25%
+-Stable units +0/1-0/2 armor
+-Guns +1/1 armor
+UU Ghulam
+UT gold income +10%
+TB mounted units +4 damage vs buildings
+INCAS
+-buildings cost -15%
+-villager benefit from blacksmith infantry upgrades
+-Military units cost -15/20/25% F
+UU kamayuk
+UT unique units, mace scout, slinger +1/2 armor
+TB monks are trained 20% faster
+
+-----
+Many techs are free. Dark Age removed, player start at Feudal Age
+with 4 villagers and 1 scout. American civs get a mace scout
+instead of a normal scout. Start with 200 F 200 W 100 G 100 S.
+Techs made free the moment the player reaches an Age:
+Loom, Town Watch, Town Patrol, Squires, Arson, Gambeson,
+Thumb Ring,Parthian Tactics, Husbandry, Bloodlines, Hoardings,
+Machicolations, Heated shot, Ballistics, treadmill crane,
+conscription, caravan, coinage, banking, guilds, herbal medicine,
+fervor, devotion, illumination, theocracy.
+TECHS LEFT
+Architecture, Masonry, arrowslits, chemistry, siege engineers
+Wheelbarrow, handcart
+wood I-III, farm I-III, stone/gold I-III, gillnets
+redemption, atonement, heresy, sanctity, faith, block printing
+all blacksmith techs
+carening, dry dock, shipwright
+
+UNITS
+TOWN CENTER
+-villager----
+HP 40
+Atk 3
+Rof 2.0
+Armor 1/2
+Speed 1.0
+Cost 50 F 25 sec
+
+*******
+BARRACK
+*******
+-swordman----
+HP 60-80-90-100
+Atk 8-13-17-20 [24]
+Rof 2.0
+vs buildings +3+1+1+1
+Armor 1/1-2/2-2/2-2/2 [5/6]
+Speed 1.0 [1.1]
+Cost 70 F 30 G 30 sec
+Up cost 150 F 50 G 40 sec
+Up cost 200 F 100 G 50 sec
+Up cost 650 F 350 G 90 sec
+-spearman----
+HP 50-65-70
+Atk 4-5-6 [10]
+vs cavalry +10+5+5
+vs camels +8+3+3
+vs buildings +2+1+1
+Rof 2.0
+Range 0.3
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Cost 35 W 35 F 25 sec
+Up cost 150 F 100 G 40 sec
+Up cost 300 F 600 G 50 sec
+-mace scout----
+HP 50-55-60
+Atk 7-8-9 [13]
+vs siege +3+1+1
+vs cavalry +2+1+1
+vs monks +7+1+2
+vs buildings +2+2+0
+Rof 2.0
+Armor 0/2-1/3-1/4 [4/8]
+Speed 1.2-1.3-1.4
+Cost 35 F 40 G 36 sec
+Up cost 200 F 200 G 50 sec
+Up cost 800 F 500 G 50 sec
+*************
+ARCHERY RANGE
+*************
+-archer----
+HP 35-40-45
+Atk 5-6-7 [11]
+Rof 2.0
+Range 4-5-6 [9]
+Armor 0/0 [3/4]
+Speed 1.0
+Cost 40 W 40 G 36-28 sec
+Up cost 200 F 100 G 40 sec
+Up cost 450 F 350 G 50 sec 
+-crossbowman----
+HP 40-50
+Atk 8-10 [14]
+Rof 4.0
+Range 7
+Armor 1/4 [4/8]
+Speed 0.9
+Cost 45 W 45 G 32 sec
+Up cost 450 F 350 G 50 sec
+Special: projectile deal 1 passthrough damage up to 2 targets
+-skirmisher----
+HP 35-40
+Atk 3-4 [8]
+vs archers +3+2
+Rof 3.0
+Range 4-5 [8]
+Armor 0/3-0/4 [3/8]
+Speed 1.0
+Cost 35 W 35 F 25 sec
+Up cost 200 W 100 G 50 sec
+-Hand cannoner----
+HP 40
+Atk 20
+vs infantry +7
+Rof 4.0
+Range 7
+Armor 1/0 [4/4]
+Speed 1.0
+Cost 50 F 50 G 34 sec
+******
+STABLE
+******
+-scout----
+HP 80-100-120
+Atk 5-9-10 [14]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.8
+Cost 100 F 36 sec
+Up cost 150 F 50 G 45 sec
+Up cost 500 F 300 G 45 sec
+-knight----
+HP 130-160-200
+Atk 11-13-16 [20]
+Rof 1.8
+Armor 2/2-2/2-2/3 [5/7]
+Speed 1.5
+Cost 70 F 80 G 32 sec
+Up cost 300 F 300 G 80 sec
+Up cost 1300 F 700 G 180 sec
+-horse archer----
+HP 70-80
+Atk 6-7 [11]
+Rof 2.0
+Range 5 [8]
+Armor 2/2 [5/6]
+Speed 1.5
+Cost 40 W 60 G 40-32 sec
+Up cost 900 F 500 G 50 sec
+-camel rider----
+HP 120-140-160
+Atk 7-8-9 [13]
+vs cavalry +8+8+2
+Rof 2.0
+Armor 1/0-2/1-2/1 [5/5]
+Speed 1.6
+Cost 60 F 60 G 24 sec
+Up cost 350 F 350 G 100 sec
+Up cost 500 F 500 G 120 sec
+*****
+SIEGE
+*****
+-battering ram----
+HP 200-250-300
+Atk 5
+vs buildings +150+10+40 [240]
+vs siege +40+10+10 [72]
+Rof 5.0
+Armor 0/100
+Speed 0.5 (+0.05for each garrisoned unit)
+Garrison 10
+Cost 160 W 80 G 36 sec
+Up cost 300 F 50 sec
+Up cost 500 F 300 W 75 sec
+-ballista----
+HP 40-50-60
+Atk 11-13-14
+vs buildings +3+2+2
+Rof 4.0
+Range 7 [8]
+Armor 1/8
+Speed 0.8
+Cost 75 W 75 G 30 sec
+Up cost 200 F 200 W 20 sec
+Up cost 600 F 600 W 30 sec
+Deal pass through damage
+-catapult----
+HP 50-60-75
+Atk 50-60-75
+vs buildings +35+10+15 [72]
+vs siege +15 [18]
+Blast 1.0-1.25-1.5
+Rof 6.0
+Range 7-8-8 [9]
+Armor 0/6-0/7-0/8
+Speed 0.6
+Cost 200 W 100 G 50 sec
+Up cost 800 F 500 G 75 sec
+Up cost 1500 F 1000 G 150 sec
+-trebuchet----
+HP 200
+Atk 200
+vs buildings +250 [300]
+Rof 10.0
+Range 16 [17]
+Armor 2/30
+Speed 0.8
+Cost 200 W 200 G 50 sec
+-siege tower----
+HP 200
+Armor 0/30
+Speed 1.0
+Garrison 10
+Cost 150 W 50 G 36 sec
+-Bombard cannon----
+HP 80
+Atk 40
+vs buildings +200 [240]
+vs ships +50 [60]
+Rof 7.0
+Blast 1.0
+Range 12 [13]
+Armor 2/5
+Speed 0.7
+Cost 200 W 200 G 50 sec
+********
+SHIPYARD
+********
+-fishing ship----
+HP 75 
+Armor 0/6
+Speed 1.5
+Cost 75 W 25 sec
+-galley----
+HP 150-175-200
+Atk 6-7-8 [12]
+vs ships +8+1+2
+vs buildings +6+1+1
+Rof 2.4
+Range 5-6-7 [10]
+Armor 2/6-3/7-4/8 [6/10]
+Speed 1.5
+Cost 120 W 30 G 60-36 sec
+Up cost 80 W 40 G 15 sec
+Up cost 400 F 400 W 75 sec
+Fire ship
+HP 125-150-175
+Atk 1 [-10 charge attack] 
+vs ship 7-10-12
+vs building 2-4-6
+Rof 0.5
+Blast 0.4-0.5-0.6
+Explosion 55-65-75 Blast 2.0-2.5-3.0
+Range 2.5
+Armor 2/4-3/6-4/8 [6/10]
+ship armor 6-7-9
+Speed 1.75
+Cost 100 W 50 G 60 sec (36 from Castle Age)
+Up cost 80 W 40 G 15 sec
+Up cost 300 W 250 G 50 sec
+Boarding ship
+HP 140-170-200
+Range 0.5
+Armor 2/4-3/6-4/8 [6/10]
+ship armor 6-8-10
+Speed 1.75
+Boarding time: 12-9-7.5 seconds
+Cost 100 W 100 G 80 sec (48 form Castle Age)
+Up cost 80 W 40 G 15 sec
+Up cost 300 W 300 G 60 sec
+Demo ship
+HP 60-75-90
+Atk 110-135-175
+vs building 210-275-350
+Blast 2.5-3.0-3.5
+Armor 2/2-3/3-4/5 [6/7]
+ship armor 1-3-5
+Speed 2.0
+Cost 90 W 60 G 50 sec (30 from Castle Age)
+Up cost 80 W 40 G 15 sec
+Up cost 200 W 300 G 50 sec
+Cannon Galleon
+HP 160-200
+Atk 50-60
+vs building 200-300 [360]
+vs siege 25
+Blast 0.25-0.35
+Rof 10.0
+Range 13-15 [16] (min range 3)
+Armor 2/6-4/8 [6/10]
+Speed 1.35
+Cost 200 W 200 G 50 sec
+Up cost 500 W 500 G 30 sec
+Catapult Galley
+HP 140
+Atk 10 [12]
+projectile 5
+vs building 30 [36]
+vs wall/gate 14 [17]
+Blast radius 1.25
+Rof 8.0
+Range 3-12 [13]
+Armor 4/6 [6/8]
+Speed 1.5
+Cost 150 W 150 G 60 sec
+******
+OTHERS
+******
+-trade cart/cog----
+HP 100
+Armor 0/0 (0/6 for trade cog)
+Speed 1.5
+Cost 100 W 50 G 50 sec
+-monk----
+HP 30 [50]
+Healing 150 Hp/min
+Range 9 [12]
+Armor 0/0
+Speed 1.0
+Cost 100 G 50 sec

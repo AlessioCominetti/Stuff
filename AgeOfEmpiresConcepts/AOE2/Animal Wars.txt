@@ -1,0 +1,526 @@
+ARAVIANS
+-Flying units move 5/10/15% faster
+-Camel riders +0/1 armor in Castle, +0/2 armor in Imperial
+-Buildings cost -25% W, are built 25% faster but have -20% hp
+-Doesn't need houses, start with -100 W
+CT-Dune Raiders: camels and fliers attack 20% faster
+IT-Corvinian Army: replace G cost of all military land non siege units with extra F or W
+Falcon Knight: flying melee unit
+Eagle Archer: flying ranged unit
+Thunderbird: flying magic caster
+Corvinian Pikeman: improved pikeman with extra speed and armor, but weaker attack
+TB-Camels and fliers +2 los
+
+Eagle archer: an archer capable of flying.
+Great movement and range, but weak vs other ranged attacks.
+Can only be attacked by ranged attack with 6 range or more.
+HP 70-80
+Atk 6-7 [11]
+vs spearman +2-3
+Rof 2.0 [1.6]
+Range 5 [8]
+Armor 2/0-2/1 [5/5]
+Speed 1.6 [1.84]
+Cost 60 W 60 G 40 sec
+Up cost 1000 F 600 G 80 sec
+
+Falconknight: a melee unit that can fly but also fight on land.
+Strong ve light infantry and other fliers. Weak vs heavy melee units.
+HP 80-100
+Atk 10-12 [16]
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 1.6 [1.84]
+Cost 60 F 60 G 40 sec
+Up cost 500 F 500 G 50 sec
+
+Thunderbird: a flying support unit. Can cast lighting bolts
+to strike down foes. Vulnerable to archers. Cannot
+attack buildings, siege or ships.
+HP 50
+Atk 100
+Rof 10.0
+Range 9
+Armor 0/0
+Speed 1.6 [1.84]
+Cost 100 G 50 sec
+
+Corvinian pikeman: replace pikeman.
+HP 60-70
+Atk 5-6 [10]
+vs cavalry +16-25
+vs elephants +14-23
+vs camels +12-18
+Rof 2.4
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+
+Missing technologies:
+B-infantry: nothing
+A-archers: HC, horse archer, parthian
+B-cavalry: knights
+C-siege: onager, siege ram, BC
+B-monks: nothing
+B-navy: shipwright, CG
+B-defense: BT, treadmill
+B-economy: stone shaft mining
+
+ATLANTIANS
+-Ship techs* cost -50% and are 50% more effective
+-Other university techs cost -75% F
+-Fisherman and fishing ships work 15% faster
+-Forging, Iron Casting and Blast furnace provide +1 atk
+-Stone deposits last 30% longer
+CT-Abyssal Surge: warships and Guardians attack 20% faster
+IT-Pearl Armor: foot units +1/2 armor
+Abyssal Guardian:
+Mirmidon:
+Mermaid Knight:
+Sharkzerker
+TB-Fishing ships and docks +2 los
+
+*Carening, Dry Dock, Carvel Hull, Clinker Construction, Shipwright, Gillnets, Fishlines
+
+Abyssal Guardian: infantry with a charged ranged attack.
+HP 80-100
+Atk 11-14 [18]
+vs cavalry +5-8
+Rof 2.0 [1.67]
+Armor 2/1 [6/7]
+Speed 1.05 [1.15]
+Cost 60 F 50 G 18-15 sec
+Special: charged 4 range, 15-20 dmg, CD 40 sec
+
+Mermaid Knight: foot archer unit that can move across water and land
+at different speed. Not affected by ship upgrades.
+HP 70-80
+Atk 7-8 [12]
+vs spearman +4-6
+Rof 2.0
+Armor 3/2 [7/8]
+Speed 1.4 [1.54]   -25% on land
+Cost 70 W 40 G 30 sec
+
+Mirmidon: powerful skirmisher. Once defeated, resume fighting once again.
+HP 70-80
+Atk 5-6 [10]
+vs archers +8-10
+vs spearman +8-10
+vs horse archers +2
+Rof 3.0
+Range 4 [7]
+Armor 1/2 [5/8]
+Speed 1.0 [1.15]
+Cost 65 F 55 G 20 sec
+Special: once defeated, comes back to fight(only once).
+
+Sharkzerker: stronger berserker, attack faster the longer he remains in combat
+HP 100-120
+Atk 14-18 [22]
+vs shock +3
+vs buildings +3-4 [6]
+Rof 2.0-1.0
+Armor 1/0 [5/6]
+Speed 1.1 [1.21]
+Regen 60 hp/min
+Cost 90 F 30 G 20-18 sec
+Up cost 1200 F 600 G 50 sec
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HA, HC, parthian, thumb
+X-cavalry: NOPE
+B-siege: siege onager, siege ram, BC
+B-monks: BP, faith, illumination
+S-navy: CG, demo raft
+A-defense: BT
+B-economy: crop rotation, 2-h-saw, banking 
+
+WINTER WOLVES
+-Houses provide +5 population
+-Hunters work 40% faster and carry +10 meat
+-Wood and Mining camp upgrades cost no F
+-Free Squires, arson and gambeson
+-Unit upgrades are researched 100% faster
+CT-Bloodfangs: infantry inflict bleeding (9 dmg over 3 seconds)
+IT-Pack Hunting Strategies: meleee units get +1 atk for each 7 other melee units, max +5
+Wolf Swordman: infantry good vs other infantry units
+Wolf Huskarl: infantry good vs ranged units and buildings
+Wolf Knight: heavy cavalry
+Fox Archer: fast moving ranged unit
+TB-Scout cavalry +2 los
+
+Wolf Swordman
+HP 50-60-85-100
+Atk 6-9-13-18 [27]
+vs shock +0-3-6-9
+vs buildings +0-3-6-9 [11]
+Rof 2.4
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Cost 60 F 30 G 30 sec
+Up cost 100 F 40 G 10 sec
+Up cost 150 F 60 G 20 sec
+Up cost 900 F 500 G 60 sec
+Special: first hit applies 5 seconds of bleeding
+to enemies in 1.5 tiles. Bleed damage: 4 dmg/sec.
+Attack animation last 4 sec. CD 20 sec
+
+Wolf Huskarl
+HP 50-60-70
+Atk 8-10-12 [21]
+vs archers +6-8-10
+vs buildings +2-5-8 [10]
+Rof 2.0
+Armor 0/4-0/5-0/6 [3/10]
+Speed 1.2 [1.32]
+Cost 55 F 45 G 32 sec
+Up cost 200 F 200 G 30 sec
+Up cost 500 F 600 G 50 sec
+
+Wolf Knight
+HP 100-140 [160]
+Atk 10-12 [21]
+Rof 1.8
+Armor 2/2-3/3 [6/7]
+Speed 1.35 [1.48]
+Cost 65 F 65 G 30-24 sec
+Up cost 300 F 300 G 25 sec
+
+Fox Archer
+HP 35-40-45
+Atk 4-5-6 [10]
+vs spears +2-3-4
+Rof 2.0
+Range 4-5-5 [8]
+Armor 2/0 [5/4]
+Speed 1.1
+Cost 45 W 25 G 35-28 sec
+Up cost 150 F 100 G 10 sec
+Up cost 250 F 150 G 20 sec
+Special: can place bear traps. Each trap cost 5 G and deal 5 dmg
+with 5 seconds of bleeding( 4 dmg/sec). Can place as many traps as G allows.
+
+
+Missing technologies:
+S-infantry: nothing
+A-archers: HC
+A-cavalry: hussar
+B-siege: siege onager, heavy scorpio, BC, siege engineers
+B-monks: BP, heresy
+C-navy: Galleon, FFS, HDS, Carrack, CG, Shipwright
+C-defense: Keep, BT, treadmill, heated shot, architecture
+B-economy: crop rotation, banking
+
+SPANTERANS/KAJHIT DYNASTY
+-Animals contain +100% F
+-Lumber camps, Mining camps, Mills, Docks provide +5 population
+-Infantry deal +1/2/3 dmg to isolated targets
+-Foot units move up to 20% faster the less hp they have left
+-Foot units regen 5 hp/min while outside combat
+CT-Lionian Lances: spear units +0.5 range
+IT-Ivory bows: horse and foot archers +1 atk
+Spanteran: heavy infantry, with modest attack range
+Lion Warrior: heavy infantry, good vs infantry, can dash
+Cat assassin: sneaky inflitrator, strong vs ranged units and monks
+Snow Lancer: heavy cavalry
+TB-infantry +2 dmg vs archers
+
+Spanteran:
+HP 80-100
+Atk 11-14 [18]
+vs buildings +3-4 [6]
+vs cavalry +8-12
+vs camels +6-10
+vs elephants +18
+Rof 2.0
+Range 0.5 [1.0]
+Armor 1/1-2/2 [9/6]
+Speed 0.9 [1.08]
+Cost 75 F 45 G 21-18 sec
+Up cost 900 F 750 G 60 sec
+Special: gain +1/0 armor for each
+other spanteran in 4 tiles, up to +4
+
+Missing technologies:
+A-infantry: squires*
+A-archers: HC
+B-cavalry: hussar
+B-siege: siege onager, heavy scorpio, siege ram, BC, siege engineers
+B-monks: fervor*, heresy, BP, illumination
+B-navy: CG, demo raft
+B-defense: Keep, BT, architecture, treadmill, heated shot
+B-economy: crop rotation, 2-h-saw, guilds
+
+DRAGONS
+-Blacksmith upgrades cost -50%
+-Siege units +25% HP
+-Pastures replace farms, they cost 20 G
+-Cannot gather W, all buildings and upgrades cost S
+CT-Dragon Scales: foot units +1/1 armor
+IT-Draconic Alchemy: ranged units and buildings deal blast damage (0.5 tiles)
+Wyvern Rider:
+Dragon Baron:
+Great Dragon:
+TB-Buildings +2 los
+
+Missing technologies:
+A-infantry: gambeson*, squires*
+A-archers: HC, HA, parthian
+X-cavalry: NOPE
+B-siege: BC, siege engineers
+C-monks: fervor*, heresy, redemption, atonement, BP, illumination
+B-navy: Galleon, CG, shipwright, clinker
+B-defense: BT, treadmill, heated shot*
+B-economy: wood*
+
+LIZARDS
+-land non siege units regen 10/20/30/40 hp/min
+-Monks and foot archers move 10/15/20% faster
+-Free masonry and architecture
+-Villagers don't get attacked by wild animals
+CT-Pulque: villagers can heal at half rate of a monk (75 hp/min)
+IT-Colossal Temple: Castles double as monasteries, +40% HP
+Lizard Warrior
+Lizard Shaman
+Iguana Ranger
+Crocodile Warrior
+TB-infantry +2 los
+
+Missing technologies:
+A-infantry: gambeson*
+A-archers: HA, parthian
+X-cavalry: NOPE
+X-siege: NOPE
+A-monks: fervor*
+B-navy: Galleon, CG, shipwright
+A-defense: BT, hoardings*
+A-economy: 2-h-saw
+
+INSECTA
+-All units cost -10% and are trained 10/20/30/40% faster
+-All buildings provide +5 population
+-Start with +50 F and +50 W
+-Towers and Castles act as drop oof point for resources
+-Wild animals cannot attack villagers
+-Woodcutter produce a small tickle of F while working (5 W->1 F)
+CT-Swarm Tactics: all melee units obtain +1 atk for every other 10 allies within 12 tiles, max +5
+IT-Chitin Armor: infantry +3/1 armor
+Legionary Ant
+Wasp Warrior
+Mantis Ninja
+Grass Hopper Shooter
+Cicada Archer
+Halbeerdier
+Centipede Centurion
+Bombardier Beetle
+Scorpion Warrior
+TB-Builder work 10% faster
+
+legionary ant: replace swordline, extra effective vs buildings and archers.
+HP 40-45-55-65
+Atk 4-6-8-10 [17]
+vs archers +0-2-4-6
+vs shock +0-2-4-8
+vs buildings +0-2-4-6 [8]
+Rof 2.0
+Armor 1/1-2/2-3/3-4/4 [7/8]
+Speed 1.0 [1.1]
+Cost 50 F 20 G 24 sec
+
+Wasp figther: flying melee units. Strong vs fliers and archers.
+Weak vs heavy infantry.
+HP 80-120
+Atk 10-12 [17]
+vs archers +8-10
+Rof 1.8
+Armor 4/3-6/4 [9/8]
+Speed 1.5 [1.65]
+Cost 60 F 60 G 40 sec
+
+Mantis Ninja
+
+Cicada archer: ranged unit with high fire rate but squishy.
+Effectivs vs infantry and monks
+HP 30-35-40
+Atk 4-5-6 [10]
+vs monks +0-3-5
+vs infantry +1
+Rof 2.0
+Range 4-5-5 [8]
+Armor 1/0 [4/4]
+Speed 1.0 [1.1]
+Cost 45 W 35 G 40-32 sec
+
+Halbeerdier: replace spearman.
+HP 45-55-65
+Atk 4-5-6 [13]
+vs cavalry +8-12-16 
+vs elephants +7-10-14
+vs camels +6-9-12
+Rof 2.4
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Cost 30 F 30 W 24 sec
+
+Centipede Centurion
+
+Bettle Bombardier: slow moving infantry/siege unit. Effective
+vs buildings at close range. Weak vs melee units.
+HP 180-240
+Atk 10 [15]
+vs buildings +80-120
+vs siege +25-30
+Trample 1 tiles, 100% damage
+Rof 2.5
+Range 0.5
+Armor 2/96 [5/100]
+Speed 0.8 [0.88]
+Cost 120 F 80 G 50 sec
+
+Scorpion Warrior
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HC, HA, parthian
+X-cavalry: NOPE
+X-siege: NOPE
+B-monks: BP
+B-navy: Galleon, CG, shipwright
+A-defense: BT, treadmill
+S-economy: nothing
+
+RODENS
+-villagers move 5/10/15/20% faster
+-All buildings cost -20% W
+-Military units cost -10/20/30/40% F
+CT-Saw teeth: infantry +3 dmg vs buildings
+IT-Urbanization: foot units occupy -20% population
+Rat Warrior
+Rabbit Rogue
+Shrew
+Squirrel Raider
+Bat Warrior
+TB-villager +1/1 armor
+
+Rat Warrior: cheap and weak infantry unit.
+Occupies 0.5[0.4] population space.
+HP 35-45
+Atk 7-9 [14]
+Rof 1.8
+Armor 0/0 [3/4]
+Speed 1.2 [1.5]
+Cost 35[28] F 15[12] G 4-3 sec
+
+Missing technologies:
+A-infantry: nothing
+B-archers: HA, parthian, thumb ring
+X-cavalry: NOPE
+A-siege: nothing
+B-monks: nothing
+B-navy: nothing
+B-defense: nothing
+B-economy: nothing
+
+SIMIANS
+-All land units +10% HP
+-Villagers +2 carry capacity
+-Military buildings cost -33%
+-All foot units can mvoe through trees, with -50% speed penalty
+CT-Chieftain: infantry +5 atk, +5 dmg to cavalry, +4 to camels
+IT-Disclosure: research one enemy bonus/team bonus or unique tech
+Gorilla Guard
+Simian Skirmisher
+TB-Trees last 15% longer
+
+Missing technologies:
+A-infantry: nothing
+A-archers: HA, parthian, thumb ring
+X-cavalry: NOPE
+B-siege: BC
+B-monks: BP, illumination
+B-navy: galleon, FFS, HDS, CG, shipwright, clincker
+B-defense: Keep, BT
+B-economy: stone shaft, gold shaft
+
+URSANS
+-Infantry +10/20/30/40 HP
+-Military buildings +20% HP
+-villager +3 carry capacity
+CT-Hibernate: infantry regen 30 hp/min when 10 tiles away from enemies
+IT-Ice Armor: Bears +2/2 armor, other infantry +1/1 armor
+Nanoq War Bear
+Panda War Monk
+TB-All units resist conversion
+
+Nanoq War Bear: slow armored bear good vs buildings, siege and archers
+HP 100-130
+Atk 6-8 [12]
+vs buildings +30-40 [42]
+vs siege +6-8
+Rof 2.0
+Armor 2/120 [5/124]
+Speed 0.9
+Cost 80 F 40 G 24 sec
+Up cost 900 F 300 G 50 sec
+
+Panda War Monk: trained at the Monastery. Can fight and heal, affected
+by infantry and monk upgrades
+HP 120-140 [155]
+Atk 11-14 [18]
+vs buildings +2 [4]
+Rof 2.0
+Healing 180 hp/min, range 4
+Armor 1/1 [4/5]
+Speed 1.0 [1.15] 
+Cost 60 F 60 G 40 sec
+
+Missing technologies:
+A-infantry: champion*, halberdier*, gambeson, squires
+C-archers: crossbowman, HA, HC, parthian, thumb ring
+X-cavalry: NOPE
+X-siege: NOPE
+D-monks: BP, illumination, heresy, theocracy, redemption, atonement
+B-navy: Galleon, FFS, demo raft, CG, shipwright
+C-defense: Guard tower, BT, heated shot, treadmill, masonry 
+B-economy: crop rotation, both shaft mining, banking
+
+BOVINES
+-Farms cost -50%
+-Villager +5/10/15/20 HP
+-Arson provide +2 dmg to infantry and cavalry
+CT-Stampede: cavalry gain a charge attack (+3 atk, +20% speed, CD 30 sec)
+IT-Horned Armor: cavalry +1/2 armor
+Bison Knight:
+Minotuar:
+TB-cavalry +2 dmg vs archers
+
+Missing technologies:
+B-infantry: champion, blast furnace, infantry armor III 
+D-archers: archer, HC, HA, parthian, thumb ring, archer armor III
+A-cavalry: hussar, husbandry
+C-siege: mangonel, scorpio, BC, siege engineer
+B-monks: BP
+B-navy: Galleon, FFS, demo raft, CG, shipwright
+C-defense: Keep, BT, architecture, heated shot
+A-economy: both shaft mining, 2-h-saw, guilds, banking
+
+SUINI
+-Foragers work 25% faster
+-Town Centers periodically spanw boars
+-Squires provide +10% move speed
+CT-Boar Tusks: infantry +4 atk
+IT-Double Layered Armor: infantry +1/1 armor
+Boarserker:
+Behemot:
+TB-Hunters +8 carry capacity
+
+Missing technologies:
+A-infantry: blast furnace*
+B-archers: HC, HA, parthian, thumb ring
+X-cavalry: NOPE
+A-siege: BC
+B-monks: fervor, faith, redemption
+B-navy: Galleon, FFS, demo raft, CG, shipwright
+B-defense: BT, architecture
+B-economy: nothing

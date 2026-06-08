@@ -1,0 +1,300 @@
+MINI_MINI_VERSION
+-There is no Dark Age, start at Feudal Age.
+Barrack train swordman,spearman and archer.
+Stable train Horse Archer, hussar and knight.
+Castle train unique unit, battering ram and bombard.
+Monks have more Hp, but less move.
+Town Center research blacksmith upgrades.
+
+CIVS
+---China--- infantry, archers
+-start with 1 more villager
+-walls +50% HP
+-Barrack units +1/2/3 attack
+Miss: Paladin
+POINTS 2550
+
+---Holy Roman Empire--- infantry, cavalry, defense
+-villager build 33% faster, +20% HP
+-Town center work 20% faster
+-Knight-line +50/100/200 HP
+UU: teutonic Knight
+Miss: hussar, horse archer, arbalester
+POINTS 1600
+
+---Golden Horde--- cavalry
+-Stable units cost -30%
+-Start with +350 G
+Miss: Stone walls
+POINTS 3000
+
+---Arabs--- siege, cavalry
+-bombards cost -30%
+-free stable units upgrade, available in Castle Age
+-Blacksmith upgrades cost -50%
+-Knight-line +2/0-4/0 armor
+UU: Mameluke
+Miss: arbalester, 2-h-swordman
+POINTS 4000
+
+---Aztecs--- infantry
+-Buildings cost -30%
+-Barrack units cost -30%
+UU: jaguar warrior, eagle warrior, arrow knight
+Miss: Stable, bombard
+POINTS 1650
+
+TECHS:
+-Age up to Castle/Imperial Age:  1000 F 200 G 120 sec / 1500 F 300 G 180 sec
+-Armor upgrades +1/1: 600 F/ 900 G/ 300 F 900 G  150 sec each 
+-Attack upgrades +1: 400 F / 600 G / 200 F 600 G 150 sec each
+-Stone/Fortified Wall: 500 F 700 G 120 sec / 700 F 900 G 180 sec
+-Passion: monks +100% HP, +50% healing power  200 G 60 sec
+-Faith: monks +33% range, all units +50% resistence 500 F 500 G 60 sec
+-Theocracy: only one monk need to rest after conversion  600 F 300 G 60 sec
+
+Units NOT availability:
+Paladin: China, Aztecs
+Hussar: HRE, Aztecs
+Horse Archer: HRE, Aztecs
+Heavy Bomb: Aztecs
+Arbalester: HRE
+
+
+BUILDINGS
+---
+-Tower: can be upgrade up to lvl 2 and 3   50/100/100 G 1x1 tile
+-Wall: defensive barrier                           10 G 1x1 tile
+-Barrack: train foot units                        100 G 4x4 tiles
+-Stable: train mounted units                      100 G 4x4 tiles
+-Castle: train and develop unique and siege units 600 G 5x5 tiles
+-Monastery: train and develop monks               200 G 5x5 tiles
+-Town Center: train villager and develop upgrades --- G 5x5 tiles
+
+Exploration Tower: HP 2000 los 20
+Arrow Tower Lvl1: HP 5000 Atk 12 range 10 Rof 1.25
+Arrow Tower Lvl2: HP 5000 Atk 15 range 10 Rof 1.25
+Castle            HP 10.000 Atk 12 range 15-18 Rof 1.25
+Town Center Lvl1-2-3-4: HP 10000-15000-20000 Atk 12-15-18 range 12 Rof 1.25
+Others:           HP 5000
+
+ROF of units
+1.0 villager, battering ram
+1.25 most units
+
+UNITS
+---COMMON---
+***
+Villager (infantry)
+HP 100
+Atk 5
+Rof 1.0
+Armor 0
+Speed 24 los 8
+Cost 50 F 18 sec
+M: x4 buildings x10 walls
+Dmg: 20 to buildings 50 to walls
+DPS: 20/50
+Better suited for farming, mining, building, can occasionally destroy enemy buildings and walls
+***
+Swordman (infantry)
+HP 160-200-260
+Atk 6-8-12
+Rof 1.25
+Armor 1/1-2/2-2/2
+Speed 24
+los 10
+Cost 65 F 35 G 10 sec (+33% pop efficency)
+Up cost 300 F 300 G
+Up cost 700 F 1100 G
+M: x2 builings
+Dmg: 24 to buildings
+DPS: 30
+All around infantry unit, good at destroying buildings, weak to archers
+***
+Spearman (spearman)
+HP 105-140-210
+Atk 5-7-10
+Rof 1.25
+Armor 0-1/1-2/2
+Speed 22 
+los 10
+Cost 75 F 10 sec (+36% pop efficency)
+Up cost 200 F 250 G
+Up cost 400 F 550 G
+M: x3 cavalry x0.5 archers
+Dmg: 24 to cavalry 4 to archers
+DPS: 24/3
+Weak infantry effective vs cavalry and other infantry units, but weak to
+all ranged attacks
+***
+Archer (archer)
+HP 70-90-140
+Atk 8-10-14  
+Rof 1.25
+Armor 0-1/1-2/1
+Speed 22  
+Range 8-9-10  
+los 12-13-15
+Cost 40 F 60 G 16 sec (+33% pop efficency)
+Up cost 300 G
+Up cost 700 G
+M: x1.5 vs spearman/horse archer  x0.75 vs cavalry x0.5 vs walls
+Dmg: 18 to spearman/horse archers 8 to cavalry 7 to walls
+DPS: 21.25/16.25/23.375/10/7.5
+Ranged foot unit that excels at figthing other infantry units.
+Weak to cavalry, siege and enemy buildings.
+***
+Light cavalry (cavalry)
+HP 140-210
+Atk 6-8 
+Rof 1.25
+Armor 1/2-1/3
+Speed 30  
+los 15  Res 600
+Cost 100 F 20 sec  (+42% pop efficency)
+Up cost 400 G
+M: x3 vs monks/siege
+Dmg: 33 to monks/siege
+DPS: 41.25
+Cheap and affordable cavalry unit, effective at harassing enemy villagers, monks and siege
+unit, and quite resilient to archers, but weak to all other melee units.
+***
+Heavy Cavalry (cavalry)
+HP 170-190-240
+Atk 8-9-12
+Rof 1.25
+Armor 1/2-2/2-2/3
+Speed 28 
+los 12
+Cost 80 F 45 G 15 sec
+Up cost 400 G
+Up cost 550 F 950 G
+No multipliers
+All around melee figther, effective at many tasks, but weak to the spearmen and conversion.
+***
+Horse Archer (cavalry, horse archer)
+HP 80-100
+Atk 10-14
+Rof 1.25
+Armor 1/1-2/1
+Speed 28 
+Range 9-10  
+los 14-15
+Cost 55 F 65 G 13 sec
+Up cost 700 F 600 G
+M: x0.5 vs archers x0.3 vs walls x1.4 vs spearman
+Dmg: 8 to archers 5 to walls 21 to spearman
+DPS: 8/5/21
+Ranged cavalry, effective at dealing with enemy infantry, but weak to all other
+ranged units.
+***
+Monk (monk)
+HP 80-120
+Heal 20-30  
+Rof 1.25
+Armor 0/1
+Speed 20 (24) 
+Range 12-15 
+Los 15-18
+Cost 100 G 25 sec (+25% pop efficency)
+Good at converting, especially enemy knights, and at healing wounded allies,
+but weak to ranged units, light cavalry and shock infantry
+***
+Battering Ram (siege)
+HP 290-340-400
+Atk 100-120-140
+Rof 1.0
+Armor 0
+Speed 16 
+los 10
+Cost 20 F 160 G 48 sec 2 population
+Up cost 450 G
+Up cost 650 G
+Take doule damage from all melee attacks (except spearman)
+Can only damage buildings
+Effective vs buildings, immune to arrow fire, but it's very slow and
+crumbles to melee fighters.
+***
+Bombard (siege)
+HP 30-35
+Atk 60-75 
+Rof 1.25
+Armor 0/7-0/8
+Speed 22 
+Range 14 
+los 20
+Cost 80 F 220 G 36 sec  2 population
+Up cost 800 G
+M: x0.4 vs swordman x10 vs walls x4 vs buildings
+Dmg: 30 to swordman 36 to siege 750 to walls 300 to buildings
+DPS: 37.5/45/937.5/375
+Siege unit that is effective at dealing with opposing enemy buildings, but is very weak
+to all other units, except spearman at range.
+***
+
+---UNIQUE---
+Teutonic Knight (infantry)
+HP 315-455 (+130 HP to champion)
+Atk 14-22 (+7 atk to champion)
+Rof 1.25
+Armor 1/2-2/3 (+0/1 armor)
+Speed 22 (-2 speed)
+los 10
+Cost 75 F 50 G 18 sec (+25% pop efficency and cost to champion)
+Up cost 500 F 500 G
+No multipliers
+
+Mameluke (cavalry)
+HP 120-160
+Atk 13-16
+Rof 1.25
+Armor 1/0-2/0
+Speed 28
+Range 6-7
+los 8-9
+Cost 60 F 60 G 18 sec
+Up cost 600 F 600 G
+M: x2 vs cavalry
+Dmg: 28 to cavalry
+DPS: 35
+
+Eagle Warrior (infantry)
+HP 220-320
+Atk 9-12
+Rof 1.25
+Armor 0/5-1/6
+Speed 27 
+los 15
+Cost 45 F 55 G 14 sec
+Up cost 950 F 150 G  <------cheap on gold
+M: x1.33 vs monks/siege x2 vs walls
+Dmg: 20 to monks/siege 30 to buildings
+DPS: 25/37.5
+
+Jaguar Warrior (infantry)
+HP 110-200
+Atk 10-14
+Rof 1.25
+Armor 4/1-5/2
+Speed 25
+los 10
+Cost 55 F 45 G 15 sec
+Up cost 500 F 500 G
+M: x2 vs buildings/walls
+Dmg: 34 to buildings/walls
+DPS: 35/52.5
+
+Arrow Knight (archer)
+HP 150-180
+Atk 8-10
+Rof 1.25
+Armor 1/1-2/2 
+Speed 24 
+Range 12-14 
+los 18-20
+Cost 120 F 18 sec (+20% pop efficency)
+Up cost 500 F 500 G
+M: x0.5 vs walls
+Dmg: 5 to walls
+DPS: 6.25

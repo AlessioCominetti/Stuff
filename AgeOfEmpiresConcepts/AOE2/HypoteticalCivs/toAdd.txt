@@ -1,0 +1,870 @@
+REBELS
+infantry and archers civilization
+
+-Woodcutter generate a small tickle of S (20 W -> 1 S)
+-University techs cost no F (saves 1750 F)
+-Advancing to Feudal Age cost -30% (saves 150 F)
+-Archery Range units deal +40/60% bonus damage
+UU Aelette (infantry), imperial slinger(skirmisher)
+RB Settlement
+CT-Loyal Levies: replace G cost of champi line and archers with additional F or W
+IT-Master Carpenters: villagers who repair buildings/ships/siege generate G and F
+TB-villagers +3 dmg vs cavalry
+
+Barrack:
+mace warrior, spearman, maceman
+Archery Range:
+archer, skirmisher, slinger
+Siege Workshop:
+Mangonel, Battering ram, scorpio, siege tower
+Dock:
+fish, trade, transport, galley, hulk, fire galley, demo ship, catapult galley
+
+Maceman-2 handed maceman: trained at Barracks, strong vs massed infantry
+HP 75-90
+Atk 10-14 [16]
+vs buildings +10-12 [14]
+Rof 3.0
+Trample 50% dmg 0.5 tiles
+Armor 2/1 [5/5]
+Speed 0.9
+Cost 60 F 30 G 30-27 sec
+Up cost 700 F 500 G 40 sec
+
+Aelette: trained at castle, effective vs cavalry, can throw a projectile
+from range every so often.
+HP 80-90
+Atk 9-12 [14]
+vs cavalry +10-15
+vs elephants +15-20
+vs camels +8-12
+Rof 2.0
+Range 0.5
+Armor 2/2-3/3 [6/7]
+Speed 0.9
+Cost 60 F 30 G 15-12 sec
+Up cost 600 F 400 G 40 sec
+Special: throw a projectile, who deal 10 true damage, CD 30 sec
+
+Imperial Slinger: imperial upgrade for the slinger
+HP 45
+Atk 5 [9]
+vs infantry +5 [8]
+vs monks +5 [8]
+vs siege +5 [8]
+Rof 2.0
+Range 5 [8]
+Armor 0/1 [3/5]
+Speed 0.96
+Up cost 600 F 500 G 50 sec
+
+Missing technologies:
+A-infantry: gambeson, squires, blast furnace
+A-archers: arbalester, thumb ring, parthian, HA
+X-cavalry: NOPE
+B-siege: onager, heavy scorpio, BC, siege engineers 
+B-monks: heresy, faith, BP
+C-navy: FFS, demo raft, carvel hull, syphons, shipwright
+B-defenses: treadmill, architecture, heated shot, BT
+B-economy: 2-h-saw, both shaft mining, crop rotation, banking
+
+
+
+CIRCASSI
+cavalry civilization
+
+-Stable techs and heavy horse archer upgrade cost -50%
+-Can train villagers at markets, 100% slower
+-Free Archer attack upgrades
+-Obtain 1 villager for each Town Center tech researched
+UU Cherkess(cavalry)
+RU steppe lancer, camels
+CT Adyghe Guards: Can train Cherkess at Stables,
+they cost -5% for each Relic garrisoned, max -25%
+IT Shamshir: militia-line, light cav and Cherkess +3 atk
+TB Villagers +3 dmg to mounted units
+
+Cherkess
+HP 80-100 [120]
+Atk 10-11 [16]
+vs archers +8
+vs monks +7
+vs siege +3
+Rof 1.8
+Armor 1/2 [5/6]
+Speed 1.5 [1.65]
+Cost 70 F 45 G 18-16 sec
+Up cost 800 F 600 G 50 sec
+Special: charge dodge shield vs ranged attacks, 4-5 charges, CD 20 sec
+
+Missing technologies:
+C-infantry: champion, halberdier, blast furnace*
+A-archers: arbalester, HC
+A-cavalry: knight, blast furnace*
+C-siege: siege ram, onager, heavy scorpio, BC, siege engineers
+B-monks: heresy
+D-navy: shipwright, dry dock, hull, FFS, HDS, Carrack
+C-defenses: Keep, BT, heated shot, masonry, treadmill, arrowslits
+B-economy: crop rotation, 2-h-saw, both shaft mining
+
+
+
+
+
+
+
+SOGDIANS
+cavalry and trade civilization
+
+-Markets and Stables cost -75 W
+-Market, Archery Range, Barracks, Stable techs cost -20%
+-Light cavalry attack 25% faster, starting from Castle Age
+-Trade units occupy -30% population space
+UU Sogdian cataphract(cavalry)
+CT Samarcanda's Letters: trade units +1/1 armor
+IT Sogdian armor: mounted units +1/1 armor
+TB Sogdian cataphract available at allies Stables from Castle Age
+
+Sogdian Cataphract
+Heavy cavalry, strong vs archers and siege, weak vs camels and spearman
+HP 90-110 [130]
+Atk 10-13 [17]
+vs archers +6
+Rof 2.0
+Armor 0/4 [4/9]
+Speed 1.45 [1.59]
+Cost 75 F 50 G 28-24 [18] sec
+
+
+
+
+Mace Thrower
+Unit that can lob maces against the target.
+Effective vs infantry, light cavalry and skirmishers.
+Weak vs archers from afar, heavy cavalry, hand cannoners.
+Classified as ranged infantry.
+HP 60-70
+Atk 4-5 [9]
+vs infantry +2
+Rof 2.0
+Range 5-6
+Armor 2/2 [5/6]
+Speed 1.05 [1.15]
+Cost 50 F 50 G 16-14 sec
+Up cost 750 F 550 G 60 sec
+Special: gain +5 atk when the target is within 1 tile of the unit
+
+Axe Raider
+Infantry unit with good movement and posses a ranged attack.
+Good versus infantry, buildings, siege and light cavalry.
+Weak vs ranged units, heavy cavalry and monks.
+HP 65-80
+Atk 8-11 [15]
+vs shock +4-5
+vs buildings +3-4 [6]
+Rof 2.0
+Range 2 Accuracy 100%
+Armor 1/2 [4/6]
+Speed 1.1 [1.21]
+Cost 40 F 40 G 14-12 sec
+Up cost 750 F 450 G 45 sec
+
+Ivory Archer
+Foot archer with great damage and range but poor accuracy.
+Powerful but expensive.
+HP 50-60
+Atk 7-8 [12]
+vs spear +4
+Rof 2.0
+Range 6-7 [10]
+Accuracy 75-80%
+Armor 0/0 [3/4]
+Speed 0.92
+Cost 40 W 65 G 42-36 sec
+Up cost 700 F 350 G 40 sec
+
+Amazon Warrior
+Strong infantry unit who can use three weapons.
+A bow, a poleaxe and a pike. Can change weapons with a command.
+HP 100-125
+--Poleaxe--
+Atk 10-14 [18]
+vs shock +3-4
+vs buildings +3-4 [6]
+Rof 2.0
+-0.2 rof for each consecutive strike, up to 1.2 rof
+--Pike--
+Atk 12-16 [20]
+vs cavalry +10-12
+vs elephants +10-12
+vs camels +8-10
+Rof 2.0
+Range 1
+--Bow--
+Atk 7-9 [13]
+vs spear +4-5
+vs infantry +1
+Rof 2.0
+Range 6 [9]
+Accuracy 75%
+----
+Armor 2/2 [5/6]
+Speed 1.1 [1.21]
+Cost 60 F 60 G 20-17 sec
+Up cost 1200 F 600 G 60 sec
+
+Jungle Archer
+Replace archer line for the America civilizations:
+Aztecs, Mayans, Incas, Muisca, Mapuche, Tupi
+HP 40-50-60
+Atk 4-5-6 [10]
+vs spear +2
+Rof 1.5 [1.3]
+Range 4-5-5 [8]
+Accuracy 80-85-90% [100%]
+Armor 1/0 [4/4]
+Speed 1.0
+Cost 30 W 60 G 45-36 sec
+Up cost 200 F 100 G 30 sec
+Up cost 400 F 200 G 50 sec
+
+Mounted Crossbowman
+Horse archer with high damage but low rate of fire.
+Unaffected by parthian tactics or thumb ring.
+Available for the Franks, Burgundians, Teutons, Italians, Serbians, Moldavians,
+Croats, Albanians, Bosnians, Vlachs, Byzantines.
+HP 65-80 [80]
+Atk 9-11 [15]
+vs spear +6-9
+Rof 3.0
+Range 4 [7]
+Accuracy 90-100%
+Armor 2/2 [5/6]
+Speed 1.35 [1.48]
+Cost 60 W 60 G 40-32 sec
+Up cost 1000 F 600 G 100 sec
+
+Guecha Warrior
+Tweaked Stats. Musica get the last archer armor upgrade.
+HP 50-60
+Atk 6-8 [12]
+vs archers +3-4
+vs spear +2
+vs horse archers +2
+Rof 2.5
+Range 4 [7]
+Armor 2/4 [5/8]
+Speed 1.0 [1.15]
+Cost 50 W 50 G 17-15 sec
+Up cost 750 W 600 G 45 sec
+Heal on death becomes 10 hp over 3 seconds.
+Affected by Herbalism
+
+Compared to Horse Archers:
+-20 HP -0.39 speed +0.8 Rof -6 dmg vs spear
++0/1 atk +0/2 armor +3/4 dmg vs archers +2 dmg vs horse archers
++10 W -10 G cost
+
+HA
+HP 50-60 [80]
+Atk 6-7 [11]
+vs spear +6-8
+Rof 2.0 [1.7]
+Range 4 [7]
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 40 W 60 G 30 sec
+Up 900 F 500 G 100 sec
+
+Storm knight
+Cheap cavalry unit. Occupies half population space.
+HP 40-70 [90]
+Atk 6-8 [12]
+vs cavalry +1-2
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 30 F 35 G 14-12 sec
+Up cost 800 F 500 G 50 sec
+
+Landstalker
+Fast moving swordman that has a charge attack. Effective
+vs archers, monks, siege. Weak vs cavalry, infantry and buildings.
+HP 70-80
+Atk 10-14 [18]
+vs archers +5-6
+vs monks +3-7
+Rof 1.8
+Armor 2/2-4/3 [7/7]
+Speed 1.0 [1.1-1.43]
+Cost 70 F 30 G 17-14 sec
+Up cost 600 F 500 G 50 sec
+Special: gain +30% speed and +20 dmg, CD 30-24 sec
+
+Axeman
+Heavy infantry, essentially, a mini teutonica knight.
+Available at Barracks from Feudal Age.
+HP 45-60-80
+Atk 6-9-12 [16]
+vs shock +2
+vs buildings +2-3-4 [6]
+Rof 2.2
+Armor 3/1-6/2-8/2 [11/6]
+Speed 0.9 [0.99]
+Cost 60 F 20 G 24 sec
+Up cost 150 F 50 G 30 sec
+Up cost 850 F 450 G 100 sec
+
+
+------
+
+
+MIRAGINE WAR
+1 pop
+Trainee
+HP 78 Atk 11 +2 light   Rof 1.8 Range 1   Speed 2.3 Cost 32 G
+Veteran
+HP 85 Atk 8 +6 heavy    Rof 2.0 Range 1   Speed 2.3 Cost 33 G
+Samurai H
+HP 88 Atk 6 x3 light    Rof 1.8 Range 1   Speed 2.3 Cost 33 G
+Swordman H
+HP 100 Atk 10 +12 heavy Rof 1.55 Range 1  Speed 2.4 Cost 40 G
+Zombie H
+HP 128 Atk 15           Rof 1    Range 1  Speed 2.3 Cost 40 G
+Dagger thrower
+HP 75 Atk 15 +6 vs light Rof 0.8 Range 2.1 Speed 2.6 Cost 45 G
+Ninja
+HP 100 Atk 9 +13 light  Rof 1.6 Range 1.2 Speed 3.2 Cost 50 G
+Novice
+HP 65 Atk 12            Rof 0.75 Range 4.2 Speed 2.3 Cost 50 G
+Boy
+HP 120 Atk 23           Rof 1.32 Range 1.1 Speed 2.8 Cost 55 G Rebound: do 6 dmg to ranged attackes
+Boar Fighter H
+HP 130 Atk 12 +22 light Rof 1.26 Range 1.2 Speed 2.3 Cost 57 G
+Cat Fighter
+HP 125 Atk 9 +18 heavy  Rof 1.6  Range 1   Speed 3 Cost 60 G
+Skeleton
+HP 126 Atk 12 +16 light Rof 1.25 range 1   Speed 2.4 Cost 60 G  Revive 30%
+Crossbowman H
+HP 100 Atk 9 +23 heavy  Rof 0.7 Range 2    Speed 2.1 Cost 60 G
+Heavy Swordman H
+HP 170 Atk 14           Rof 1.55 Range 1   Speed 2.3 Cost 62 G   Armor 1/1
+
+
+2 pop
+Monk
+HP 222 Atk 18 +24 heavy Rof 1.55 Range 1   Speed 2.7 Cost 125 G  Armor 1/1
+Lancer H
+HP 230 Atk 15 +30 heavy Rof 1.46 Range 1.4 Speed 2.3 Cost 130 G Armor 1/1
+Vampire
+HP 130 Atk 27           Rof 0.8  Range 4.2 Speed 2.3 Cost 135 G
+Beast
+HP 230 Atk 22 +22 light Rof 1.7 Range 1.1  Speed 3 Cost 140 G  Armor 1/1
+Horseman H
+HP 240 Atk 30           Rof 1.67 Range 1   Speed 3.8 Cost 150 G  Armor 1/1
+Centaur H
+HP 270 Atk 30 +10 light Rof 1.5 Range 1   Speed 3.2 Cost 164 G  Armor 1/1
+Archer
+HP 160 Atk 20 +20 light Rof 0.9 Range 4.2 Speed 2.4 Cost 180 G Longshot: double range for 10 sec, CD 100 sec
+Wonder Woman
+HP 270 Atk 32 +10 light Rof 1.65 Range 1.2 Speed 2.7 Cost 190 G
+Brave Warrior
+HP 280 Atk 36           Rof 1.5 Range 1.1 Speed 2.6 Cost 205 G Armor 1/1 First strike deal +250% atk
+Immortal H
+HP 340 Atk 20 +35 heavy Rof 1.5  Range 1.1 Speed 2.3 Cost 210 G  Armor 1/1  last blood: survive lethal hit if hp>1
+Blade Guard
+HP 300 Atk 30 +30 heavy Rof 1.6 Range 1.2 Speed 2.6 Cost 230 G Armor 1/1
+Mage
+HP 200 Atk 20 +30 heavy Rof 0.9  Range 4.2 Speed 2.3 Cost 240 G
+Golden Cavalry H
+HP 320 Atk 50           Rof 1.5 Range 1.2 Speed 3.2 Cost 250 G Armor 1/1
+Iron King H
+HP 380 Atk 26 +34 light Rof 1.75 Range 1.2 Speed 2.4 Cost 260 G Armor 2/2
+
+
+4 pop
+Harpy 
+HP 610 Atk 40 +52 heavy Rof 1.67 Range 1.3 Speed 3.2 Cost 560 G Armor 2/2
+Sheriff
+HP 600 Atk 88           Rof 1.34 Range 1.2 Speed 2.6 Cost 600 G Armor 2/2 allies +8% dodge for 10 sec, CD 120 sec
+Werewolf
+HP 650 Atk 40 +50 light Rof 1.8  Range 1.2 Speed 2.6 Cost 630 G Armor 2/2 Leap to an effective enemy, CD 90 sec
+Axe Warrior H
+HP 750 Atk 90 +16 heavy Rof 1.25 Range 1.4 Speed 2.4 Cost 700 G Armor 2/2 push enemies for 7 sec, CD 120 sec
+Stone Golem H
+HP 800 Atk 50 +70 light Rof 1.35 Range 1.2 Speed 2.4 Cost 700 G Armor 5/5 Resist 30% damage for 10 sec, CD 110 sec
+Executioner H
+HP 850 Atk 90           Rof 1.4  Range 1.3 Speed 2.5 Cost 750 G Armor 3/3
+Palace Guard 
+HP 750 Atk 78 +20 heavy Rof 1.33 Range 1.5 Speed 2.6 Cost 780 G Armor 3/3
+Priest
+HP 510 Atk 53 x2 light  Rof 1.0  Range 4.5 Speed 2.3 Cost 800 G Armor 1/1  Heal 75 hp, CD 120 sec
+Pandaren
+HP 920 Atk 55 +45 light Rof 1.56 Range 1.4 Speed 2.6 Cost 850 G Armor 3/3
+Shadow Warrior
+HP 850 Atk 74           Rof 1.83 Range 1.3 Speed 3   Cost 860 G Armor 2/2
+Assassin
+HP 850 Atk 75 +35 heavy Rof 1.5  Range 1.3 Speed 2.8 Cost 880 G Armor 2/2
+Drago H
+HP 900 Atk 60 x2 heavy Rof 1.5  Range 1.4  Speed 2.5 Cost 870 G Armor 4/4
+Centurion H
+HP 910 Atk 80 +15 light Rof 1.57 Range 1.4 Speed 2.4 Cost 890 G Armor 3/3
+Samurai Leader H
+HP 940 Atk 105          Rof 1.3  Range 1.4 Speed 2.5 Cost 940 G Armor 3/3
+
+8 pop: all cost 1500 G
+Great King H
+HP 1220 Atk 160         Rof 1.3 Range 1.4 Speed 2.5  Armor 5/5
+Paladin
+HP 1150 Atk 95 +50 light Rof 1.64 Range 1.4 Speed 2.6 Armor 5/5 each kill +1% damage dealt, -1% damage taken, heal 1% HP
+Archmage
+HP 760 Atk 66           Rof 0.8 Range 5  Speed 2.6  Armor 3/3  Ice blast: -80% speed for 10 sec, CD 150 sec
+Judicator
+HP 1220 Atk 150         Rof 1.4 Range 1.4 Speed 3 Armor 5/5
+Dark Knight H
+HP 1150 Atk 120 +30 light Rof 1.46 Range 1.4 Speed 2.7 Armor 5/5  Leech: heal by 12% of damage dealt
+Oppressor H
+HP 1300 Atk 120 +60 heavy Rof 1.32 Range 1.4 Speed 2.5 Armor 5/5   Wind splitter: enemies deal -10% damage for 10 sec, CD 180 sec
+Dragon Lancer H
+HP 1250 Atk 142          Rof 1.4  Range 1.4 Speed 2.4 Armor 5/5  Deal blast damage in a straight line, CD 180 sec
+Diviner
+HP 840 Atk 170          Rof 1.1  Range 2.4  Speed 2.5 Armor 3/3  allies +10% attak for 10 sec, CD 180 sec
+Terror King H
+HP 1300 Atk 110  +60 light Rof 1.55 Range 1.4 Speed 2.5 Armor 5/5
+Duke H
+HP 1350 Atk 105 +70 heavy Rof 1.4 Range 1.4 Speed 2.4 Armor 6/6
+Admiral H
+HP 1200 Atk 148          Rof 1.4 Range 1.4 Speed 2.5 Armor 5/5
+Commander
+HP 1200 Atk 140          Rof 1.4 Range 1.5 Speed 3 Armor 5/5
+Swordmaster
+HP 1200 Atk 130          Rof 1.56 Range 1.4 Speed 2.5 Armor 5/5
+War saint H
+Hp 1220 Atk 112 +48 heavy Rof 1.5 range 1.4 Speed 2.5 Armor 5/5
+
+
+MIRAGINE -> AOE2
+CALIBRATED DPS all Rof -> 1
+Commander
+Cavalry unit who improve the attack of other soldiers
+HP 100-130 [150]
+Atk 14-20 [27]
+vs archers +4-6
+Rof 1.8
+Armor 3/3 [6/7]
+Speed 1.35 [1.48]
+Cost 90 F 90 G 30-24 sec
+Up cost 1500 F 1000 G 80 sec
+Special: allies in 10 tiles attack 10-15% faster
+
+Diviner
+Monk who damage foes instead of converting them
+HP 90 [105]
+Atk 24
+Rof 2.0
+Range 3
+Armor 3/3
+Speed 1.1 [1.25]
+Cost 150 G 60 sec
+
+Admiral
+HP 75
+Atk 11 [15]
+Rof 2.0
+Armor 3/3 [6/7]
+Speed 1.1 [1.21]
+Cost 90 G 15 sec
+Special: heal 2 hp per hit
+
+Golden Cavalier
+HP 100 [120]
+Atk 16 [23]
+Rof 1.8
+Armor 1/1 [4/5]
+Speed 1.45 [1.6]
+Cost 60 F 75 G 30 sec
+
+Brave Warrior
+HP 70
+Atk 14 [18]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.2 [1.31]
+Cost 50 G
+First strike deal +250% damage, CD 60 sec
+
+Archer
+HP 40
+Atk 5 [9]
+vs spear +5
+Rof 2.4 [2.0]
+Range 4 [7]
+Armor 0/0 [3/4]
+Speed 1.2
+Cost 45 G
+
+Crossbowman
+HP 50
+Atk 3
+vs heavy +10
+Rof 2.0
+Range 2 [5]
+Armor 0/0 [3/4]
+Speed 1.05
+Cost 30 G
+
+Blade Guard
+HP 75
+Atk 12 [16]
+vs infantry +12
+vs cavalry +12
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.2 [1.32]
+Cost 55 G
+
+Lancer
+HP 125
+Atk 10
+vs cavalry +20
+vs infantry +20
+Rof 2.0
+Range 0.5
+Armor 1/1 [4/5]
+Speed 1.1 [1.21]
+Cost 50 G
+
+Swordman
+HP 85
+Atk 11 [15]
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.05 [1.15]
+Cost 30 G
+
+Dagger thrower
+HP 75
+Atk 12 [16]
+vs spear +5
+vs archers +5
+Rof 2.0
+Range 2
+Armor 0/0 [3/4]
+Speed 1.2 [1.32]
+Cost 40 F 45 G
+
+Ninja
+HP 50
+Atk 7 [11]
+vs spear +10
+vs archers +10
+Rof 2.0
+Armor 0/0 [3/4]
+Speed 1.45 [1.6]
+Cost 50 G
+
+Samurai
+HP 80
+Atk 7 [11]
+vs spear +12
+vs archers +12
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.05 [1.15]
+Cost 60 G   
+
+Veteran
+HP 85
+Atk 16
+vs cavalry +12
+vs heavy infantry +12
+Rof 2.0
+Armor 1/1 [4/5]
+Speed 1.05 [1.15]
+Cost 65 G
+
+Levy
+HP 40
+Atk 9 [13]
+vs archers +2
+Rof 1.8
+Armor 0/0 [3/4]
+Speed 1.3 [1.43]
+Cost 35 G
+
+
+
+
+
+MIRAGINE
+infantry and cavalry civilization
+
+-Monks convert 33% faster
+-All buildings provide +5 population (except farms)
+-Stable units +1/2/3 atk
+-2-h-swordman is available one age earlier and cost -50%
+UU Dagger thrower(infantry), Golden cavalier(cavalry)
+CT-Tariffs: defeated units return 30% of their G cost, trade units produce +15% more G
+IT-Glyphs: all units attack 12% faster
+TB spearman +5 dmg vs monks
+
+Dagger thrower
+HP 60-75
+Atk 10-12 [16]
+vs spear +3-5
+vs shock +3-5
+vs archers +3-5
+Rof 2.0 [1.8]
+Range 2
+Armor 0/0 [3/4]
+Speed 1.2 [1.32]
+Cost 40 F 45 G 14-12 sec
+
+Golden cavalier: replace paladin upgrade
+HP 140 [160]
+Atk 16 [23]
+Rof 1.8 [1.6]
+Armor 2/2 [5/6]
+Speed 1.45 [1.6]
+Up cost 1200 F 800 G 100 sec
+
+Missing technologies:
+A-infantry: nothing
+C-archers: archer armor III, HC, HA, parthian, thumb ring*
+A-cavalry: hussar
+B-siege: siege ram, siege onager, siege engineers
+B-monks: heresy, atonement, BP, illumination
+B-navy: FFS, HDS, shipwright
+A-defenses: treadmill
+B-economy: both shaft mining, 2-h-saw, crop rotation
+
+
+
+Slav Guard:
+slavic heavy infantry. Strong vs cavalry, infantry, skirmishers and buildings.
+Weak to archers, hand cannoners and monks.
+HP 80-90
+Atk 11-16 [20]
+vs buildings +6-8 [10]
+vs cavalry +4-5
+Rof 2.2
+Armor 5/2-7/3 [10/7]
+Speed 0.9 [0.99]
+Cost 65 F 35 G 30 sec
+Up cost 1050 F 750 G 50 sec
+
+Medium Cavalry:
+Regional cavalry available to European civilizations
+HP 80-100 [120]
+Atk 9-10 [14]
+vs monks +4
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.5 [1.65]
+Cost 70 F 30 G 30 sec
+Up cost 700 F 500 G 100 sec
+
+Sworn One:
+Unique unit of the Aztecs, replace the Jaguar Warrior at the castle,
+the latter has become a regional unit.
+Heavy infantry with trample damage that produces and aura
+that reduces the fire rate of enemies within 4 tiles
+HP 90-110
+Atk 13-16 [24]
+vs infantry +2-3
+vs buildings +4-6 [8]
+vs stone +4-6
+Trample 50% damage 0.5 tiles
+Rof 2.0
+Armor 3/3-4/4 [7/8]
+Speed 0.96 [1.05]
+Cost 70 F 40 G 20-18 sec
+Up cost 1200 F 800 G 60 sec
+Special: enemies within 4 tiles attack 20% slower
+
+Long Pikeman:
+spearman with longer attack range
+HP 55-60
+Atk 5-6 [10]
+vs cavalry +6-9
+vs elephants +14
+vs camels +4-6
+Rof 2.0
+Range 1
+Armor 1/1 [4/5]
+Speed 1.0 [1.1]
+Cost 35 F 25 W 24 sec
+Up cost 600 F 300 G 60 sec
+
+Flame Thrower:
+Siege weapon which spew fire constantly.
+Effectivs vs fortifications, rams, infantry and monks.
+Weak to cavalry, Bombard cannons and long range units.
+HP 160
+Atk 4
+vs stone +10 [12]
+vs infantry +2
+vs archers +2
+Rof 0.25
+Range 5 Accuracy 75%
+Armor 2/2
+Speed 0.6
+Cost 130 W 50 G 32 sec
+
+Canoe: 
+Small long_range_warship. Fires one extra projectiles
+HP 70
+Atk 7 [11]
+vs long_range_warships +9
+vs buildings +7
+vs rams +4
+Rof 3.0
+Range 5 [8]
+Armor 0/6 [0/8]
+Speed 1.5 [1.8]
+Cost 60 W 20 G 25 sec
+
+European Lancer:
+An stronger and expensive variant of the Steppe Lancer.
+HP 80-105 [125]
+Atk 11-14 [18]
+Rof 2.0-1.9
+Range 1
+Armor 1/1-1/2 [4/6]
+Speed 1.4 [1.54]
+Cost 85 F 50 G 30-25 sec
+Up cost 750 F 750 G 70 sec
+
+Compared to Knight-line:  -25 F +25 G cost
+General: +1/1 armor        -1 range -0.05 speed
+Knight: +20 HP -0.2 rof    -1 atk
+Paladin: +55 HP -0.1 rof  
+
+Medium cavalry:
+Stat-line between hussar and paladin
+HP 80-120 [140]
+Atk 9-11 [15]
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.45 [1.6]
+Cost 70 F 40 G 24-20 sec
+Up cost 1200 F 750 G 150 sec
+
+Mounted grenadier:
+Mounted ranged gunpowder unit, with great splash damage, but very weak in melee.
+HP 65-80 [100]
+Atk 3-4 True damage
+Rof 3.0
+Range 6
+Armor 1/0 [5/6]
+Speed 1.4 [1.54]
+Cost 65 W 60 G 40 sec
+Up cost 1000 F 600 G 100 sec
+
+NAVAL TRIANGLE
+           strong vs                weak vs
+Galley:  Carrack, Demo         Fire Ship, Galleon
+Carrack: Fire Ship, Galleon    Galley, Demo
+Fire Ship: Galley, Galleon     Carrack, Demo
+Demo:    Fire Ship, Carrack    Galley, Galleon
+Galleon: Galley, Demo          Fire Ship, Carrack
+
+In order to keep the triangle consistent,
+Cannon Galleons and the like get +100% damage
+to Galley-line and their projectiles are more accurate.
+Also, Demo ships deal -20% damage to Cannon Galleons.
+Cannon Galleons and the like get +0/4 armor
+
+NEW UNIT
+Lembos:
+small warships that doesn't cost G, effective only
+vs fire ships and carracks. Available since Dark Age.
+Attack is affected by blacksmith melee attack upgrades
+HP 60-70-80-90
+Atk 3-4-4-4 [8]
+vs close_range_warships +1-2-3-4
+Rof 1.0
+Armor 2/1 [2/3]
+Speed 1.3-1.4-1.5-1.55 [1.86]
+Cost 80 W 24-18 sec
+Free upgrade in Feudal
+
+Boarding Galley:
+Convert ships, same thing as a monk, but on water.
+Quite fast but vulnerable to melee attacks.
+HP 120
+Range 1
+Armor 1/5-3/8 [3/10]
+Speed 1.5-1.6 [1.92]
+Cost 60 W 60 G 30 sec
+
+NEW TRIANGLE
+           strong vs                               weak vs
+Galley:  Carrack, Demo,Lembos                  Fire Ship, Galleon, Boarding
+Carrack: Fire Ship, Galleon, Boarding          Galley, Demo, Lembos
+Fire Ship: Galley, Galleon, Boarding           Carrack, Demo, Lembos
+Demo:    Fire Ship, Carrack, Lembos, Boarding  Galley, Galleon
+Galleon: Galley, Demo, Lembos                  Fire Ship, Carrack, Boarding
+Lembos:  Fire Ship, Carrack, Boarding          Galley, Demo, Galleon
+Boarding:Galley, Galleon                       Fire Ship, Demo, Carrack, Lembos
+
+UNIQUE SHIPS
+Axe Galley:
+Long range warship that throws axes at range, effective vs galleys and fireships,
+weak to carracks and demo ships. Get damage from blacksmith melee
+attack upgrades but doesn't get extra range.
+HP 110-140
+Atk 4-5 [9]
+Rof 2.0
+Range 8
+Armor 1/6-1/8 [1/10]
+long_range_warship +2-3
+Speed 1.3 [1.56]
+Cost 80 W 40 G 27 sec
+
+Scorpio Galley:
+Long range warship that shoot scorpion's bolts, effective vs carracks,
+demo ship and Lembos, weak to Galleys and okay vs fire ships and Cannon Galleons.
+HP 125-150
+Atk 7-9 [13]
+vs long_range_warships +2-4
+vs buildings +7-9
+Rof 3.0
+Range 6-7 [10]
+Armor 2/5-3/6 [3/8]
+Speed 1.4 [1.68]
+Cost 90 W 45 G 30 sec
+
+Siege Canoe:
+Regional long_range_warship available to America civilizations.
+Long range anti-building attack. Weak to fireships and galleys.
+Fires burning arrows at buildings and normal arrows at ships.
+HP 80-100
+Atk 6-8 [12]
+vs buildings 50-65 [78]
+vs siege +15 [18]
+vs long_range_warships +6-8
+Rof 3.0
+Range 10-12 [16]
+Armor 0/6 [0/8]
+Speed 1.0 [1.2]
+Cost 140 W 100 G 31 sec
+Up cost 350 W 325 G 30 sec
+
+War Junk:
+Regional long_range_warship for the Asian civilizations.
+Galley with extra damage to buildings.
+HP 100-110-140
+Atk 6-7-9 [13]
+vs long_range_warships +6-6-9
+vs buildings +13-26-39
+vs siege +2-3-4
+vs rams +3-4-5
+Rof 3.0
+Range 5-6-7 [10]
+Armor 1/5-1/5-1/7 [1/9]
+Speed 1.4 [1.68]
+Cost 70 W 50 G 50-27 sec
+---------------
+
+

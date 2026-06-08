@@ -1,0 +1,612 @@
+Unità:
+GAULS
+Celtic Swordman
+HP 45-60-70
+Atk 3-4-5 [9]
+vs archers +3-3-4
+vs buildings +1-2-3 [5]
+Armor 0/1 [3/5]
+Speed 1.0 [1.2]
+Cost 50 F 10 G 10 sec
+
+Celtic Archer
+HP 40-45-50
+Atk 4-5-6 [10]
+Range 4-5-5 [8]
+Armor 0/0 [2/2]
+Speed 0.96
+Cost 35 W 40 G 20 sec
+
+Celtic Axeman
+HP 55-65-75
+Atk 8-10-12 [16]
+Armor 3/0-5/0-7/0 [11/4]
+Speed 0.8 [0.96]
+Cost 60 F 20 G 16 sec
+
+Celtic Spearman
+HP 55-65-75
+Atk 4-5-6 [10]
+vs cavalry +5-7-9
+Armor 0/2-0/3-0/4 [3/8]
+Speed 1.0 [1.2]
+Cost 40 F 20 W 12 sec
+No anti spear bonus damage taken
+
+Celtic Horseman
+HP 100-130 [150]
+Atk 8-10 [12]
+Armor 1/0 [4/4]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 30 sec
+Charge: +20/25 dmg over 20 sec
+
+Celtic Woman Warrior
+HP 70-85
+Atk 8-10 [14]
+vs shock +1
+vs buildings +4-6 [8]
+Armor 2/1-3/1 [6/5]
+Speed 1.0 [1.2]
+Cost 40 F 40 G 20 sec
+Triple damage when target hp<50%
+
+Viking Lord
+HP 250-300
+Atk 22-26 [30]
+Armor 0/0 [3/4]
+Speed 1.0 [1.2]
+Cost 100 F 100 G 50 sec
+Special: Heal by damage dealt to enemies, 1 dmg=1 hp, max 4 at any moment
+
+Hero
+HP 300 [320]
+Atk 10 [14]
+Armor 3/3 [6/7]
+Speed 1.2 [1.32]
+Cost 400 F 400 G 50 sec
+Special: allies in 10 tiles move 10% faster and regen 30 hp/min
+
+
+ROMANS
+Arbalester
+Legionary
+Knight
+
+Gladiator
+HP 70-80
+Atk 5-6 [8]
+Armor 0/1 [3/5]
+Speed 1.05 [1.15]
+Cost 50 F 20 G 20 sec
+Special: attack ignore armor
+
+Pretorian
+HP 160
+Atk 8 [10]
+Armor 0/0 [3/4]
+Speed 0.8 [0.88]
+Cost 50 F 40 G 32 sec
+Special: attacker in melee takes 100% damage dealt
+
+Liberatus (modifed woad rider)
+HP 150
+Atk 10 [12]
+Armor 0/0 [3/4]
+Speed 1.2 [1.32]
+Cost 50 F 50 G 20 sec
+Special: trample damage (5 true)
+
+TEUTONS
+teuton rider
+HP 100-120 [140]
+Atk 10-14 [18]
+Armor 2/2 [5/6]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 30 sec
+
+teuton archer
+HP 100-120 [140]
+Atk 4-5 [9]
+vs buildings +4
+Armor 1/1 [4/5]
+Range 5 [8]
+Speed 1.4 [1.54]
+Cost 60 F 60 G 30 sec
+
+CHARACTERS (all regen 30 hp/min)
+Larax
+HP 750
+Atk 21 [25]
+Armor 7/7 [10/11] cavalry armor 16
+Speed 1.2 [1.32]
+Special: allies in 10 tiles get +1/1 armor and get +2 atk
+Charge: +20 dmg every 20 sec
+
+Maios
+HP 80
+Speed 0.8
+
+Taranix
+HP 400
+Atk 10 [14]
+Armor 3/3 [6/7] cavalry armor 16
+Speed 1.2 [1.32]
+
+Leldoryn
+HP 140 [155]
+Armor 0/5
+Speed 0.8
+
+Thoric
+HP 450
+Atk 30 [34]
+Armor 0/2 [3/6]
+Speed 1.0 [1.1]
+
+Cesar
+HP 750
+Atk 10 [14]
+Armor 4/4 [7/8] cavalry armor 16
+Speed 1.2 [1.32]
+
+Milred
+HP 700
+Atk 20 [24]
+Armor 4/4 [7/8] cavalry armor 16
+Speed 1.2 [1.32]
+
+SPECIAL ENEMIES
+Tainted Swordman  21
+HP 180
+Atk 8 [12]
+Armor 2/5 [4/9]
+Speed 1.0 [1.1]
+Tainted Axeman 12
+HP 190
+Atk 14 [18]
+Armor 9/3 [12/9]
+Speed 0.8 [0.88]
+Tainted Horseman 2
+HP 130 [150]
+Atk 8 [12]
+Armor 5/2 [8/6]
+Speed 1.4 [1.54]
+
+Cursed Wolf 35
+HP 45
+Atk 16
+Armor 6/8
+Speed 1.5
+Cursed Wolf Pup  4
+HP 30
+Atk 7
+Armor 6/6
+Evil Wolf  2
+HP 300
+Atk 12
+Armor 2/2
+Evil Summoner  1
+HP 650
+Atk 22
+Armor 8/10
+
+Isle Sniper   40
+HP 30
+Atk 16 [20]
+Armor 0/0 [3/4]
+Speed 1.0
+Range 5 [8]
+
+Delvania's Pretorian   7
+HP 230
+Atk 21 [25]
+Armor 2/1 [5/5]
+Speed 0.8 [0.88]
+Delvania's Archer   36
+HP 135
+Atk 17 [21]
+Armor 3/0 [6/4]
+Speed 1.0
+Range 5 [8]
+Delvania's Chief   3
+HP 210
+Atk 26 [30]
+Armor 1/4 [4/8]
+Speed 1.0 [1.1]
+
+Royal Archer 22
+HP 45
+Atk 14 [18]
+Armor 1/0 [3/2]
+Speed 1.0
+Range 5 [7]
+Royal Gladiator 20
+HP 65
+Atk 12 [16]
+Armor 0/2 [3/6]
+Speed 1.0 [1.1]
+Royal Scout 20
+HP 50 [70]
+Atk 13 [17]
+Armor 0/0 [3/4]
+Speed 1.5 [1.65]
+
+Bandit Sperman 12
+HP 55
+Atk 12 [16]
+Armor 5/9 [8/13]
+Speed 1.0 [1.1]
+Bandit Archer 10
+HP 55
+Atk 10 [14]
+Armor 0/0 [3/4]
+Speed 1.0 [1.1]
+Range 5 [8]
+Bandit Axeman 6
+HP 55
+Atk 16 [20]
+Armor 7/1 [10/5]
+Speed 0.8 [0.88]
+
+
+
+
+
+
+
+
+CAMPAIGN
+
+Notes:
+-no gunpowder units
+-no fast fire ships
+-no trebuchet
+-Villages produce an automatic tickle of F as long as they belong to the player(watch tower)
+-Gold and Wood forts produce a tickle of G/W as long as they belong to the player.
+They get captured if their hp goes below 1000 HP, then they get restore to full
+to the player who brought it down
+-Romans can train arbalesters, pretorians, gladiators and woad raiders
+-Gauls (Goths) can train throwing axeman and viking lords
+
+REVENGE Chp1 + Chp2
+Max Pop: 75
+Start Age: Dark Age
+Final Age: Feudal Age
+Enemies: Teutons
+
+Kormaris is under attack by the Teutons. He has to Avenge his wife's death.
+-Larax escape to the gates, facing many teutons and under attack groups of units
+Groups: 2 axeman, 3 spearman, 1 horse 4 swordman, 3 swordman, 6 archers, 3 axeman
+-Larax goes to Taranix, facing many teutons.
+Groups: 14 teuton raiders, 10 axeman, 15 archers, 10 spearman, 15 swordman
+-Larax goes to the nearby fort to free some paesants
+Groups: 14 teuton raiders, 5 villagers
+-Group goes to the gate of Datia, group gets ambushed. Rod comes for the rescue.
+Group: 20 teuton raiders, 10 swordman, 12 archers,8 swordman
+-After the group reaches the gates, the chief, CHIEF_1 gives them some tasks
+to do before enabling Larax to reach the final fortress
+Task 1: destroy Castle
+Task 2: protect Town Center from destruction
+Task 3: destroy enemy Town Center
+-Then, CHIEF_1 will have Larax grant the permission to defeat the final tents
+Task 4: destroy all enemies and tents in the marked teuton accampament
+CHIEF_1 will give warrios to Larax:
++12 huskarls +9 archers +8 axeman +6 spearman
+Rod will also support the player. He has a small base but he'll
+constantly send Knights and spearman.
+
+Side objectives:
+Free recruits in the woods
+Free Mill with food
+
+Villages: 3
+Gold Fort: 0
+Food Fort: 3
+
+___________________
+
+
+HEART OF THE MOUNTAIN Chp3 + Chp 4
+Max Pop: N/A
+Start Age: Feudal Age
+Final Age: Feudal Age
+Enemies: Teutons, Rebel tribes(Gauls), Rebel Gauls
+
+Larax is unable to construct building or villagers, he will get
+all the units for free when he needs it.
+-Larax has to find the druid sanctuary, for that, he has to
+ask for directions to villagers.
+Find merchants, find bandit lair, defeat bandits
+-Larax finds the druid and ask for directions for the Teutons.
+The druid instruct him to find Leldoryn and send him to the other
+zone.
+-Larax find a village, fends off some teutons (12) then goes
+to the heart of the mountain
+-Larax reaches the mountain and talks to the druid
+then Larax has to defeat some evil priests
+-Larax meets up with Nolin and ask him for help,
+Larax has to then defeat an enemy tribe
+Larax will get some warriors by simply
+clicking on CHIEF 1, CHIEF 2, CHIEF 3
+1) +5 swordman
+2) +3 horseman +5 archers
+3) +5 spearman
+
+Side objectives:
+free recruits in an island
+free horse archers somewhere in the mountains
+free stat boosters
+
+Villages: 3
+Gold Fort: 0
+Food Fort: 0
+
+__________________
+
+BIBRACTE Chp 5
+Max Pop: N/A
+Start Age: Feudal Age
+Final Age: Feudal Age
+Enemies: Teutons, Spirits(Celts)
+
+Larax reaches Bibracte, where he needs to recapture
+all forts before the time runs out.
+He's granted a huge army for this.
+-Army: 15 axeman, 7 horseman, 7 spearman, 10 archers, 10 swordman
+-Allied's army: 20 axeman, 20 swordman
+The enemies are all mounted teuton units
+
+Side objectives:
+Find missing son to unlock an army
+-Army: 7 horseman, 10 spearman, 10 axeman, 8 archers
+Find missing chief to unlock an army:
+-Army: 9 woman warriors
+
+Villages: 0
+Gold Fort: 0
+Food Fort: 3
+
+
+________________
+
+DECATIA Chp 6
+Max Pop: 50
+Start Age: Feudal Age
+Final Age: Castle Age
+Enemies: Teutons, Villagers(Celts)
+
+Larax gets captured. He's imprisoned but he has
+to escape south. While escaping, he finds 4 legionaries
+that will fight off the 4 teuton riders following Larax.
+Larax finds a Mill with a Town Center and a Castle,
+where he recruits an army. Goal is to free the imprisoned druid Midox.
+Thoric joins the party.
+
+Side objective
+destroy 30 teuton rider's camp to obtain 1500 G.
+
+Villages: 1
+Gold Fort: 0
+Food Fort: 1
+
+_______________
+
+EDUI AND AVERNI Chp 7
+Max Pop: N/A
+Start Age: Castle Age
+Final Age: Castel Age
+Enemies: Teutons, Spirits(Celts)
+
+Larax goes to Gergovia in order to find allies to fight off the Teutons.
+After uniting two tribes, he attack the fort and captures it.
+Task 1: protect both Town Centers for 10 minutes
+Task 2: defeat all evil spirits, 8 priests, 10 wolves
+Task 3: defeat 50 teuton riders
+Task 4: recruit the bandits: 3 axeman, 3 archers, 3 spearman, 3 swordman, 1 woad rider
+Fort's Garrison: 6 spearman, 6 archers, 12 teuton riders
+
+Villages: 2
+Gold Fort: 1
+Food Fort: 2
+
+_______________
+
+EVIL FORTRESS Chp 8
+Max Pop: N/A
+Start Age: Castle Age
+Final Age: Castel Age
+Enemies: Teutons, Romans, Villages(Goths)
+
+Larax start with 2 priests, 4 trebuchets and 10 horseman, and he has
+to capture all enemy buildings before the time runs out. Then, he has
+to go to the valley up north to reunite with his allies and the romans
+and defeat Milred once and for all.
+Fort 1: 6 teuton riders, 6 archers
+Fort 2: 5 spearman
+Fort 3: 5 axeman
+Fort 4: 4 horseman
+Village 1: 10 teutons, 10 swordman, 7 spearman
+Village 2: 16 teutons,
+Village 3: 20 teutons,
+Passage 1: 10 archers, 8 swordman, 2 axeman, 3 spearman, 4 horseman
+Passage 2: 20 teutons
+Milred Army: 13 archers, 13 teutons, 10 axeman, 10 spearman, 10 horseman
+Roman Army: 15 legionaries, 1 centurion
+Allied Army: 5 woman warrior, 5 axeman, 5 archers, 5 spearman, 5 horseman
+
+Villages: 3
+Gold Fort: 0
+Food Fort: 5
+
+________________
+
+CESAREA Chp 9
+Max Pop: 150
+Start Age: Castle Age
+Final Age: Imperial Age
+Enemies: Gauls(Celts), Romans
+Start with 0 resources
+
+Larax has to capture back the city of Cesarea who was taken
+by the rebel gauls. In order to do so, the player is
+given a small army (6 horseman, 4 spearman, 4 axeman) to take the city back.
+He can get more soldiers by tributing 500 F to the Roman player.
+-Mercenaries: 13 arbalesters, 6 woad riders, 7 legionaries
+After taking back the city and the villages, the player has to
+defend the city for 30 minutes from all enemies.
+Player will lose if the Castle or the Town Center gets destroyed.
+Player will get 5000 F 5000 W 3000 G after capturing the city.
+Player will get F by capturing villages by destroying the watch towers.
+After the 30 minutes have passed, the Roman army will arrive.
+Then, defeat all enemies in order to win.
+Gaul army: 50 crossbowman, 10 horseman, 10 spearman, 20 swordman, 10 axeman every 5 minutes
+Roman army: 18 legionaries, 8 gladiators, 8 arbalesters, 11 light cavalry, 8 pretorians
+
+Villages: 3
+Gold Fort: 2
+Food Fort: 2
+
+________________
+
+MINERVA Chp 11
+Max Pop: 200
+Start/Final Age: Imperial Age
+Enemies: Gauls(Celts), Guards(Celts)
+Start with 500 G 500 F 500 W 100 S
+
+Larax has to take back two enemy cities and destroy and altar located in the
+middle of the Map. Docks are enabled.
+Villages: 9
+Gold Fort: 3
+Food Fort: 4
+
+Side objectives
+defeat the enemy mercenaries to obtain 500 G: 10 elite axeman
+
+________________
+
+TRATUA Chp 12
+Max Pop: 200
+Start/Final Age: Imperial Age
+Enemies: Gauls(Celts), Gauls(Celts), Gauls(Celts), Druids(Celts), Roman allies, Fugitives(Celts)
+Start with 4000 G 4000 F 4000 W 1000 S
+12 villagers 12 woad riders 8 horseman
+
+Larax has to capture all towns.
+He can ask for help to Boris.
+By tributing G to Roman allies, he'll get this soldiers
+5000 G small army: 2 squads
+10000 G medium army: 4 squads
+15000 G large army: 6 squads
+25000 G huge army: 10 squads
+Larax also has to defeat the druids, otherwise they'll make nefarious spells
+
+Villages: 9
+Gold Fort: 2
+Food Fort: 6
+Towns: 2 Romans 5 Celts
+
+__________________
+
+TURN COAT Chp 13-14
+Max Pop: 200
+Start/Final Age: Imperial Age
+Enemies: Gauls(Celts), Gauls(Celts), Allied Gauls(Celts), Romans
+Start with  2000 G 2000 F 2000 W 500 S
+10 villagers, 5 legionaries, 5 arbalesters
+
+Larax has to capture 2 enemy cities. After that, Larax will
+betray the Romans, ally with Vercingetorix and has to
+evacaute 50 villagers to the escape zone, before the Roman army
+will chase the player down.
+
+Villages: 26
+Gold Fort: 7
+Food Fort: 10
+Towns: 1 Roman 3 Celts
+
+_____________________
+
+WINTER WAR Chp 15
+Max Pop: 200
+Start/Final Age: Imperial Age
+Enemies: Romans
+Start with 10000 G 10000 F 10000 W 1000 S
+8 woman warrios, 10 crossbowman
+
+Larax has to capture 4 enemy forts in order to sabotage
+the roman food supply before 60 minutes.
+He gets to control the town of Decatia.
+After 40 minutes, reinforcements will arrive to
+aid the player.
+Reinforcements: 25 archers, 25 knights, 13 woman warriors
+
+Villages: 4
+Gold Fort: 0
+Food Fort: 4
+Towns: 1 Celt 
+
+________________
+
+CHOSEN ONE Chp 16
+Max Pop: 200
+Start/Final Age: Imperial Age
+Enemies: Romans, Rebel Gauls(Celts), Bandits(Celts), Roman Guards
+Start with 10000 F 10000 G 10000 W 1000 S
+8 horseman 8 spearman, 8 archers, 8 swordman 20 villagers
+
+Allied gauls have: 1 complete Town, 30 villagers,
+10 swordman, 10 archers, 5 axeman, 5 spearman
+
+Larax has to free Luthal from the Romans.
+
+Villages: 5
+Gold Fort: 2
+Food Fort: 2
+Towns: 4 Celts 1 Roman
+
+Side objectives
+Defeat bandits to obtain 9000 G and 8 villagers
+
+_______________
+
+SABOTAGE Chp 17-18
+Max Pop: N/A
+Start/Final Age: Post Imperial
+Enemies: Romans, Roman Guards, Roman Reinforcements, Evil Spirits(Celts), Teutons
+Start with 5 horseman, 3 spearman, 3 priests
+
+Larax has to get rid of all roman supplies.
+He won't be able to build or train villagers, but he can get some
+reinforcements by sending F to the Teutons.
+He can get F by capturing a village.
+Defeat all roman units.
+Alternatively, he can send the three priests to perform a ceremony
+that will last 20 minutes, in order to win the map
+Send 1000 F-> 5 knights, 5 archers
+
+_____________
+
+BATTLE OF GERGOVIA Chp 19
+Max Pop: N/A
+Start/Final Age: Post Imperial
+Enemies: Romans, Roman Guards, Gaul Allies(Celts)x4
+
+Larax has to defeat Caesar and his troops.
+Battle mode, cannot build or repair, but he gets units
+preiodically. Defeat Caesar and his guards.
+Make sure all gaul heroes and castles don't get defeated/destroyed
+Player will receiver reinforcements every 10 minutes up to 40 minutes.
+Player: 12 knights, 12 woman warriors
+Aedui: 15 archers, 15 swordman, 5 spearman, 5 axeman
+Averni: 8 archers, 8 spearman, 8 swordman, 10 horseman, 5 axeman
+Luthal: 10 archers, 10 horseman, 10 spearman
+Women: 25 woman warriors, 5 viking lords
+
+Romans 1: 10 archers, 10 legionaries
+Romans 2: 25 knights, 25 woad riders, 25 pretorians, 25 legionaries
+Romans 3: 25 legionaries, 20 woad riders, 15 gladiators, 10 archers
+Roman Guards: 25 archers, 25 legionaries, 4 centurions
+Caesar Guards: 3 priests, 6 archers, 8 legionaries, 12 pretorians
+

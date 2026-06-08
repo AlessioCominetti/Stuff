@@ -1,0 +1,471 @@
+GROUPS
+TUSCANIANS: infantry and cavalry
+VENETIANS: naval
+CAMPANIANS: cavalry and naval
+APULIANS: naval and counter
+SARDINIANS: infantry and naval
+UMBRI: infantry, skirmishers and monks
+LOMBARDS: infantry and cavalry
+
+HA-HHA: horse archer, heavy horse archer
+HC: hand cannoner
+BC: bombard cannon
+BT: bombard tower
+FS-FFS: fire ship, fast fire ship
+DS-HDS: demo ship, heavy demo ship
+CG-ECG: cannon galleon, elite cannon galleon
+
+
+Changes:
+-Loggia dei Mercanti(Imperial Age)
+Market upgrade. Can garrison 10 villager/monk/trade carts
+and produce 8 G/min (can stack with tech).
+Garrisoning this building with villagers add
+a 50% increment in production, from 8->48 G/min
+Can train unique units at half creation speed (twice training time)
+Research cost: 500 W 500 G 50 sec
+Available to all but Sardinians, Sicilians, Romans and Lombards.
+
+-Catedral(Imperial Age)
+Monastery upgrade: work 25% faster and heal 15 hp/min to
+allies within 10 tiles. Has +600 Hp and +3/1 armor.
+Research cost: 250 W 250 S 50 sec
+
+
+TUSCANIANS
+infantry and cavalry civilization
+
+-Stable units cost -10/15/20% in Feudal/Castle/Imperial Age
+-Market techs cost no G (saves 800 G)
+-Imperial armor upgrades are available in Castle Age
+-Loggia dei Mercanti generate F (same rate)
+UU Feditore(cavalry)
+CT-Renaissence: all buildings +10% HP +1/1 armor +3 building armor,
+fortifications +1 range 
+COST 400 F 300 G 40 sec
+IT-Medici's Bankers: Trade units generate G even while standing,
+Loggia dei Mercanti and trade units generate +25% G
+COST 600 G 300 S 60 sec
+TB-Siege units and monks are trained 10% faster
+
+Feditore
+Heavy cavalry with a charged area attack
+HP 105-140 [160]
+Atk 9-13 [17]
+Rof 2.0
+Armor 2/2 [5/6]
+Speed 1.35 [1.48]
+Cost 60 F 60 G 16-14 sec
+Up cost 1000 F 600 G 100 sec
+Charge: first hit deal 100% trample damage in 0.6 tiles, CD 40 sec
+
+Missing techs:
+A-infantry: nothing
+A-cavalry: hussar, paladin
+B-archers: HHA, parthian tactics, thumb ring
+A-monks: nothing
+A-siege: heavy scorpio
+A-naval: nothing
+A-defense: nothing
+S-economy: nothing
+
+
+VENETIANS
+naval civilization
+
+-Ship techs* cost -33% and are more effective overall**
+-Monks resist conversion (+7)
+-Can optionally train villagers for 50 G
+-Trade cogs can trade with the edge of the map
+-Markets can train villagers at 1/3 the rate of a Town Center
+UU Galeotto(infantry), Galleas(warship), Cannon Galleas(warship)
+UB Arsenale
+CT-Patto della Laguna: Arsenale can fire projectiles,
+allied units in los of your buildings +1/1 armor
+COST 400 W 300 G 45 sec
+IT-Serrata del Maggior Consiglio: Town centers
+behave like Markets and generate 20 G/min
+COST 500 G 300 S 60 sec
+TB-Town Center and houses are built 50% faster
+
+*Medium/Heavy Warships, Clinker/Carvel Hull,
+Careening/Dry Dock, Shipwright
+**Shipwright wood discount goes to -30% and ships are built 80% faster
+Clinker and Carved Hull provide +12% speed instead of 10%
+Carening and Dry Dock increase ships hp by 2% each while also
+increasing the pierce armor
+
+Galeotto
+Swordman with good armor and the ability to reapair ships
+HP 75-90
+Atk 10-14 [18]
+vs ships +6
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 2/2-3/3 [6/7]
+Speed 0.96 [1.05]
+Cost 40 F 50 G 15-12 sec
+Up cost 850 F 450 G 50 sec
+Special: can repair ships at 90 Hp/min
+
+Comparison with Militia-line: +30 G -10 F
+Longswordman: +15 HP +1 atk +1/0 armor
+Champion: +20 HP +2/1 armor
+
+Galleas: replace Galley-line.
+HP 180-205-250 [260]
+Atk 7-9-11 [15]
+vs long_range_ships +8-8-12
+vs buildings +6-6-8
+vs rams +4
+Rof 2.0
+Range 5-6-7 [10]
+Armor 1/4-1/4-2/6 [2/8]
+long_range_ship_armor +2-2-4
+Speed 1.3 [1.56]
+Cost 180[108] W 60 G 72-54[30] sec
+
+Cannon Galleas: replace cannon galleon.
+Available in Castle Age at Docks and Arsenale.
+HP 125-150
+Atk 30-42
+vs buildings +120-165 [198]
+vs siege +15
+Rof 6.0
+Blast 0.25
+Range 13-15 [16]  Min Range 3
+Armor 1/5-2/6 [2/8]
+Speed 1.2 [1.44]
+Cost 225[157] W 125 G 48[27] sec
+Up cost 500 G 500 W 30 sec
+
+Arsenal 200 W 150 G 100 sec
+Train Galeotto and ships. Automatically
+repair ships in los (30 hp/min), and research navy techs
+and upgrades. Work twice as fast as normal Docks.
+
+Missing technologies:
+B-infantry: nothing
+B-archers: horse archer, parthian, thumb ring
+B-cavalry: paladin, hussar
+B-siege: siege onager, siege ram
+B-monks: faith, fervor, atonement
+S-navy: nothing
+A-defenses: nothing
+B-economy: 2-h-saw, both shaft mining
+
+CAMPANIANS
+cavalry and naval civilization
+
+-Villager and fishing ship procure food 10% faster
+-Catedral also grant +15% fire rate to allies within los
+-Loggia dei Mercanti and Catedral upgrades are free
+-Stable units +1/0 armor each age, starting in Feudal Age (max +3)
+UU Feluca(warship), Scutario(infantry)
+CT-Cola's Revolt: Knights are trained 100% faster and cost 150 F (remove G cost)
+COST 500 F 300 G 40 sec
+IT-Kingdom of two Sicilies: ships +20% Hp, stable units +0/1 armor 
+COST 800 W 800 G 90 sec
+TB-Food sources(animals,bushes,fishes,farms) last 15% longer
+
+Scutario
+Huskarl-like soldier with slower speed but greater melee armor
+HP 65-75
+Atk 8-11 [15]
+vs archers +2-3
+vs spearman +2-3
+vs buildings +2-3 [5]
+Rof 2.0
+Armor 2/5-3/6 [6/10]
+Speed 0.9 [0.99]
+Cost 45 F 25 G 14-10 sec
+Up cost 800 F 500 G 40 sec
+
+Feluca: Cheap warship with transport capacity.
+Can garrison 10 units inside.
+HP 80-100 [120]
+Atk 5-6 [10]
+vs long_range_warships +3-4
+vs buildings +2
+Rof 2.0
+Range 5-6 [9]
+Armor 0/4 [0/6]
+Speed 1.5 [1.8]
+Cost 60 W 20 G 18 sec
+
+
+Missing techs:
+A-infantry: nothing
+A-cavalry: hussar*,paladin*
+B-archers: HHA, parthian tactics, thumb ring, arbalester
+A-monks: heresy
+B-siege: siege onager, siege engineers
+A-navay: FFS*, HDS*, ECG*, carening*
+S-economy: nothing
+A-university: nothing
+
+APULIANS
+naval and counter-unit civilization
+
+-Light cavalry, spearman and skirmisher attack 25% faster
+-Trading fee for buying/selling stone is 0%
+-Loggia dei Mercanti can train skirmishers and spearman
+-Each Dock built spawn a small fish pond (100 F)
+UU Tarantine cavalry(cavalry), Trabaccolo(ship), Svevian Knight(cavalry)
+UB Masseria(mill)
+CT-Apulian Commanders: Stable and Barrack units +1/1 armor  
+COST 500 F 300 G 40 sec
+IT-Terra d'Otranto: infantry and knights deal +4 dmg vs infantry 
+COST 750 F 500 G 60 sec
+TB-light cavalry, skirmisher and spearman +1 los
+
+Champion: +1/1 armor, +4 dmg vs infantry
+Halberdier: +1/1 armor, +25% attack rate, +4 dmg vs infantry
+Skirmisher: +25% attack rate
+Hussar: +1/1 armor, +25% attack rate
+Knight: +1/1 armor
+
+Tarantine cavalry
+Mounted skirmisher that cost gold
+HP 70-80 [100]
+Atk 5-6 [10]
+vs archers +5-6
+vs spearman +3
+vs horse archers +2
+Rof 3.0
+Range 4
+Armor 2/4 [5/8]
+Speed 1.45 [1.6]
+Cost 60 F 40 G 12 sec
+Up cost 600 F 600 W 40 sec
+
+Trabaccolo: replace trade cog, can trade and transport units
+HP 120
+Armor 4/8 [4/10]
+Speed 1.6 [1.92]
+Garrison 20
+Cost 125[100] W 50 G 50[32] sec
+
+Svevian Knight: replace cavalier upgrade
+HP 140 [160]
+Atk 12 [16]
+vs infantry +2 [6]
+Rof 2.0
+Armor 3/2 [7/7]
+Speed 1.35 [1.48]
+Up cost 1000 F 600 G 100 sec
+
+
+Masseria: replace Mill, farms built nearby last 30% longer.
+More over, farmers drop off +5% food here from all sources.
+Provide +5 population. Double HP. 3x3 tiles.
+Can be garrisoned with 10 villagers, monks or trade carts.
+Cost 200 W 50 sec.
+
+Missing techs:
+S-infantry: nothing
+B-archers: arbalester, HA, parthian, thumb ring
+A-cavalry: nothing
+B-monks: heresy
+B-siege: siege onager, siege enginers
+A-naval: nothing
+A-university: nothing
+A-economy: 2-h-saw, guilds*
+
+
+SARDI
+infantry and naval civilization
+
+-Shepherds work 15% faster and sheeps don't spoil
+-Fishing and transport ships cost -15% and move 10% faster
+-Can build Nuraghe since Feudal Age
+-Gain +50 S for each blacksmith upgrade completed
+UU: Mamulone(infantry), Fusta(warship)
+UB: Nuraghe(fortification, eco)
+CT-Pastorals: enable sheep training at Nuraghi COST 200 F 200 G 20 sec
+IT-Giudicati: Castles and Nuraghe can garrison one relic, which reduce
+damage taken from siege units by 30%, militia-line is
+trained 50% faster  COST  450 S 200 G 30 sec
+TB Outposts, Watch towers, Donjons, Krepost, Castles and Nuraghe +3 los
+
+Mamulone: replace Longswordman and Champion
+HP 60-70
+Atk 9-14 [18]
+vs cavalry +3+2
+vs buildings +3-4 [6]
+Rof 2.0
+Armor 3/2-4/2 [7/6]
+Speed 0.96 [1.05]
+Up cost 800 F 600 G 50 sec
+Special: once struck, -50% damage taken for 3/4 seconds, CD 60 sec
+
+Fusta: replace Galley-line
+HP 100-110-140
+Atk 5-6-7 [11]
+vs long_range_warships +4-4-6
+vs buildings +4
+vs rams +2
+Rof 2.0
+Range 5-6-7 [10]
+Armor 0/4-0/4-0/6 [0/8]
+Speed 1.4 [1.68]
+Cost 80 W 25 G 30-24 sec
+
+Nuraghe: special building, replace Towers for the Sardinians.
+Affected by Hoardings, Arrowslits and heated shot.
+Acts as drop off point for resources, can train sheeps
+and barrack units: Can spawn a sheep for 25 W 20 sec.
+Upgrades automatically each age.
+Provide +20 population.
+HP 1800-3000-4050 [5711]
+Garrison 10
+Atk 5-7-8 [15] x2
+vs ships +7-9-11
+vs spear +2
+Rof 1.0
+Range 7-8-9 [12]
+los 8-10-12 [15]
+Armor 2/7-3/8-4/9 [6/11]
+Tiles 3x3
+Cost 250 S 175 W 125 sec
+
+Missing techs:
+A-infantry: gambeson*
+B-archers: arbalester, HA, thumb ring, parthian tactics
+B-cavalry: hussar, paladin, husbandry
+B-siege: siege onager
+B-monks: fervor
+S-navy: nothing
+B-defense: BT, Towers*, treadmill crane*
+A-economy: nothing
+
+
+UMBRIANS
+infantry, skirmisher and monk civilization
+
+-Military land units refund 40% of their W cost on death
+-Monastery techs cost -20% for each garrisoned relic (max -60%)
+-Loggia dei Mercanti generate W(same rate)
+-Monastery,Blacksmiths,Markets and Universities act as a drop off point for resources
+-Skirmisher and spearman +1 atk starting from Feudal Age
+UU Saino(infantry)
+CT Iguvine Tablets: monks regen 90 hp/min COST 300 F 200 G 30 sec
+IT Forest Raiders: light cavalry, spearman and skirmishers get a ranged charge attack
+(+5 atk, CD 30 sec) and are trained 25% faster COST 500 F 400 G 40 sec
+TB-Boars and similar animals contain +50% F
+
+Saino: infantry with a javelin attack and great los.
+HP 50-60
+Atk 7-9 [13]
+vs cavalry +8-16
+vs siege +3-5
+vs archers +3-5
+Rof 2.0
+Armor 1/3-1/4 [4/8]
+los 12
+Speed 1.2 [1.32]
+Cost 45 F 25 G 20[16] sec
+Up cost 800 F 400 G 40 sec
+Special:  Throw a javelin at range 6, dealing 9 true damage, CD 30-20 sec.
+
+
+Missing techs:
+A-infantry: nothing
+B-archers: arbalester, HA, parthian, thumb ring
+B-cavalry: hussar, paladin
+A-siege: siege onager
+A-monks: nothing
+B-navy: ECG, shipwright
+A-defenses: nothing
+A-economy: crop rotation
+
+LOMBARDS
+Infantry and cavalry civilization
+
+-Feudal Age Blacksmith Techs are researched instantly and cost -50% (saves 275 F 25 G)
+-Rams +2 garrison space in Castle Age, +4 in Imperial Age, have +25/50 hp in Castle/Imperial Age
+-Start with 3 Arimannus and 1 oathtaker
+-Obtain 10/15/25 G for each completed Military building from Feudal Age
+UU Arimannus (spearman/villager)
+RU oathtaker
+CT-Gairethinx (infantry/cavalry gain +2/2 armor for 2 minutes,
+can be researched multiple times) 
+COST 200 W 200 G 30 sec (+50 W/G each time, max +300/300 W/G)
+IT-Farae (Military buildings spawn units when they are not working°) 
+COST 400 W 300 G 40 sec
+TB-Infantry +2 dmg vs cavalry starting from Feudal Age
+
+°Barrack spawn 1 militia-line, 1 arimannus-line every 5 minutes
+Archery Ranges spawn 1 horse archer-ine every every 4 minutes
+Stables spawn 1 knight-line every 5 minutes
+Siege Workshops spawn 1 ram-line every 10 minutes
+Castles spawn 1 trebuchet every 5 minutes
+
+Arimannus:
+villager that doubles as spearman, available at the Barracks and
+Town Center. Replace spearman-line. Upgrades to Feudal is free.
+HP 40-45-55-60
+Atk 4-5-6-7  [11]
+anti cavalry +0-6-12-16 [without the bonus it would be +0-4-10-14]
+anti elephant +0-6-12-16
+anti camel +0-5-8-12
+vs buildings +1 [3]
+Rof 1.8
+los 4 [6]
+Armor 1/1 [4/6]
+Speed 0.8 [1.04]
+Cost 50 F 10 G 30 seconds, trainable at Town Centers
+Up cost 150 F 50 G 30 sec
+Up cost 600 F 300 G 60 sec
+Benefit from gambeson. Replace villager and spearman.
+Wheel barrow and hand cart affect this unit.
+Take anti spear bonus damage.
+
+DPS       Feudal Castle Imperial
+Spear:
+light cav   6.3  8.7     13
+knight      --   8.0     12.3
+camel       --   7.3     11
+elephant    --   14      21.7
+buildings   2.0  1.3     2.7
+Arimannus:
+light cav   6.1  9.9    13.3
+knight      --   8.8    12.2
+camel       --   7.7    11.1
+elephant    --   14.9   21.1
+buildings   3.3  4.4     5.0
+
+Shieldbearer/Oathtaker: precedent version of the huskarl, available to
+Lonmbards, Goths, Vandals, Vikings and Britons at the Barracks.
+These civs might get a renamed version
+Replace startig scout for these civilizations.
+HP 50-60-70
+Atk 6*-10-12 [16]
+vs archers +4-8-12
+vs shock +1-2-3
+vs buildings +2-3-6 [8]
+Rof 2.0
+los 7**
+Armor 0/3-0/4-0/5 [3/10]
+Speed 1.05 [1.15]
+Cost 50 F 25 G 40-28-24 sec
+Up cost 300 F 150 G 30 sec
+Up cost 1200 F 500 G 80 sec
+Benefit from gambeson
+*3 in dark age
+**5 in dark age
+Goths lack final armor upgrade and gambeson.
+The huskarl now has a reduced cost.
+For the Goths: no discount bonus, but they get
++0/1 armor per Age starting from Feudal Age.
+So, they get +0/1 in Feudal and Castle, same in Imperial.
+
+Missing techs
+A-infantry: nothing
+B-archers: HC, archer armor III, parthian tactics, thumb ring
+B-cavalry: hussar, paladin, cavalry armor III*
+A-siege: heavy scorpio
+B-navy: FFS, HDS, shipwright
+C-monks: faith, redemption, block printing, theocracy, sanctity
+C-university: hoardings, architecture, BT, keep, treadmill crane, fortified walls, sappers*
+B-economy: gold shaft, 2-h-saw

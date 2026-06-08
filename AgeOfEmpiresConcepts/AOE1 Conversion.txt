@@ -1,0 +1,897 @@
+Imagine if Age of Empires 1 civilizations were put into Age of Empires 2 design.
+
+General notes:
+-No military Accademy. Hoplites are trained at the Barracks.
+-Blacksmith research unit upgrades
+-Market can trade and produce trade units
+-can build and upgrade walls and gate
+-Governement Center can be used to develop many more upgrades
+-Granary develop farm upgrades
+-Storage pit develop wood, stone and gold upgrades
+-Governement Center develop towers and walls upgrades
+-Added new units
+-Added more civilizations (+14)
+-Added unique units and 4 unique techs for each civilization
+
+CVILIZATIONS
+
+EGYPTIANS ARCHITECTURE  6
+
+Assyrians: archers and siege
+-villager move 10% faster
+-Archers fire 25% faster
+-Siege Workshop upgrades cost -50%
+UU: Assyrian horse archer(horse archer)
+TB: Siege Workshop work 20% faster
+Miss tech: bloodlines, architecture
+Miss units: all elephants, longbowman
+
+Egyptians: chariots and priests
+-Farms cost -20%
+-Gold miners work 20% faster
+-Chariots +33% hp
+-Priest +2/3 range
+UU: Medjay warrior(infantry)
+TB: priest +0/1 armor
+Miss tech: NA
+Miss units: longswordman, horse archer, cavalry, heavy catapult, ballista
+
+Palmyrians: camels and trade
+-villagers cost +20% F but work 20% faster and have +20% hp
+-Camels move 10% faster
+-Trade units yield +20% G
+UU: Camel skirmisher(camel)
+TB: techs are researched 30% faster
+Miss tech: metallurgy, tower shield, engineering, mysticism, polytheism,
+monotheism
+Miss units: longswordman, cataphract, heavy ballista
+
+Nubians: archers and camels
+-Free ballistics
+-Archery Range units +10/15/20 hp
+-Camels cost -20%
+-Free Archer armor upgrades
+UU: Nubian archer(foot archer)
+TB: Archery Ranges work 20% faster
+Miss tech: metallurgy, tower shield
+Miss units: paragon, cavalry, ballista
+
+Kushans: archers and priests
+-Archery Range and Temple techs cost -50%
+-Start with +100 G
+-Trade units cost -20%
+-villager is affected by caravan
+UU: Lion warrior(infantry)
+TB: priests move 10% faster
+Miss tech:
+Miss units:
+
+Sabeans:  cavalry and priests
+-Trade units cost -30%
+-Afterlife and Monotheism are free
+-All buildings +30% hp
+-Camels and light cavalry +1 atk
+UU: Desert horseman(cavalry), desert swordman(infantry)
+TB: Markets work 100% faster
+Miss tech: 
+Miss units: chariots, elephants, ballista, ballista tower
+ 
+MESOPOTAMIAN ARCHITECTURE  5
+
+Babylonians: defense
+-Stone miner work 20% faster
+-Eco techs cost -30%
+-Walls and towers +60% hp
+-Priest rejuvenate 50% faster
+-Chariots +0/1 armor
+UU: Uruk spearman(infantry)
+TB: builder work 10% faster
+Miss tech: NA
+Miss units: horse archer, all elephants, heavy cavalry, ballista
+
+Persians: cavalry and naval
+-Hunters work 30% faster
+-Elephants move 10% faster
+-Arrow Galley fire 25% faster
+-Walls cost -20%
+UU: Immortal(infantry/foot archer)
+TB: Stables work 20% faster
+Miss tech: siegecraft
+Miss units: heavy catapult, ballista
+
+Sumerians: economy and siege
+-villagers +20 hp
+-Siege units fire 33% faster
+-Farms have +125 F
+-Camels and siege units +1/1 armor
+UU: iron guard(infantry)
+TB: Town Centers cost -25%
+Miss tech: metallurgy, tower shield, astrology, afterlife, monotheism
+Miss units: paragon, improved bowman, elephants, cavalry
+
+Hittites: archers and naval
+-Horse archers and chariot archers +1 atk
+-Catapults and catapult trireme +50% HP
+-Arrow Galley +1/2/2 range
+-Wheel cost -50% and -50% research time
+UU: imperial chariot(chariot)
+TB: Towers provide +4 population
+Miss tech: mysticism, polytheism, afterlife, monotheism
+Miss units: longswordman, heavy cavalry, ballista
+
+Scythians: cavalry and cavalry archers
+-Doesn't need drop off sites, resources are dropped off remotely
+-no building required to advance to the next age
+-Mounted units +1/1 armor
+UU: Khagan chieftain(cavalry)
+TB: horse archers are trained 25% faster
+Miss tech:
+Miss units:
+
+ROMAN ARCHITECTURE  4
+
+Carthaginians: cavalry and naval
+-Start with +50 in all 4 resources
+-Hoplites and mounted units +25% hp
+-Fire galley and boarding galley +25% atk
+-Free Cavalry armor upgrades
+UU: noble(infantry), war elephant(elephant)
+TB: elephants and camels are trained 25% faster
+Miss tech: siegecraft, astrologist, monotheism
+Miss units: paragon, composite bowman, chariots, heavy catapult
+
+Numidians: cavalry
+-Stable units cost -30% F
+-Start with +100 F
+-all land units move 5% faster
+UU: numidian skirmisher(cavalry/skirmisher), numidian cavalry(cavalry)
+TB: mounted units are trained 15% faster
+Miss tech:
+Miss units:
+
+Romans: infantry and siege
+-All buildings cost -10% (except walls and Wonders, towers cost -20%)
+-Free Tower and wall upgrades
+-Swordman attack 50% faster
+-Ballista and catapult +1 range
+UU: legionary(infantry), centurion(cavalry)
+TB: Priests heal 50% faster
+Miss tech: astrology, afterlife
+Miss units: composite bowman, horse archer, elephants, camels
+
+Etruscans: cavalry and defense
+-Architecture provide double boost
+-Government Center and Dock techs cost -30%
+-Cavalry +2/1 armor in Bronze Age, +3/2 armor in Iron Age
+-Gold and stone miner work 10% faster
+UU: satellites(infantry)
+TB: Governement Centers cost -25%
+Miss tech:
+Miss units:
+
+GREEK ARCHITECTURE  7
+
+Atenians: infantry and naval
+-Hoplites and spearman cost -20%, move 20% faster
+-All ships move 20% faster
+-Free Polytheism and Astrology
+-Town Center work 10% faster
+UU: strategos(infantry)
+TB: Market cost -50%
+Miss tech: monotheism
+Miss units: paragon, improved bowman, chariots, horse archer,
+all elephants, cataphract, camels
+
+Spartans: infantry
+-Barrack units attack 25% faster
+-All food income +10%
+-skirmishers and warships +1/1 armor
+-Barrack upgrades cost -50%
+UU: hippeus(infantry)
+TB: Barracks work 20% faster
+Miss tech: monotheism
+Miss units: improved bowman, chariots, horse archer,
+all elephants, cataphract, camels
+
+Macedonians: infantry and cavalry
+-All melee units +1/0 armor and +2 los
+-Hoplites +0/1 armor in Bronze Age, +1/2 armor in Iron Age
+-Siege units cost -15%
+-All units are 2 times more resistent to conversion
+UU: phalangite(infantry), companion cavalry(cavalry)
+TB: Houses +100% hp
+Miss tech: siegecraft, bloodlines, afterlife, monotheism
+Miss units: paragon, chariots, camels
+
+Minoans: archers and naval
+-Warships cost -15/20/25/30%
+-Foot archers +1/2 range
+-Farmers work 15% faster
+UU: cretan archer(foot archer)
+TB: Docks cost -20%
+Miss tech: guard tower, fortified wall, astrology, mysticism, afterlife,
+monotheism
+Miss units: paragon, stable, horse archer
+
+Phoenicians: elephants and naval
+-Woodcutter work 20% faster
+-Elephants cost -20%
+-Catapult and catapult trireme fire 25% faster
+-Docks +150 hp and +4 los
+UU: balearic slinger(foot archer)
+TB: ranged units +2 los
+Miss tech: metallurgy, siegecraft, architecture
+Miss units: horse archer, cavalry, ballista
+
+Syracusans: siege and naval
+-Catapult galley cost -40%
+-Government Center and Blacksmiths cost -50%
+-Eco techs cost no F
+UU: Oxybeles(siege)
+TB: farm upgrades provide +50% F
+Miss tech:
+Miss units:
+
+Illirians: infantry and naval
+-Arrow Galley cost -10/20/30/40%
+-Gold and stone deposits last 20% longer
+-Barrack units +1/2/3 atk
+UU: Polydynastus(infantry)
+TB: ships +2 los
+Miss tech:
+Miss units:
+
+ASIAN ARCHITECTURE  5
+
+Choson: infantry and monks
+-Swordman +25% hp
+-Blacksmith techs cost -50%
+-Towers +2 range
+-Priests cost -32%
+UU: Hwarang(infantry)
+TB: Buildings +2 los
+Miss tech: alchemy, engineering
+Miss units: all elephants, chariots, camels, heavy catapult
+
+Lac Viet: archers
+-forager work 20% faster
+-All military units are trained 25% faster
+-Ranged units +1/0 armor
+UU: Rattan archer(foot archer)
+TB: houses and farms are built 50% faster
+Miss tech: mysticism, polytheism, afterlife, monotheism, siegecraft
+Miss units: paragon, camels, cataphract, heavy ballista
+
+Shang: economy and cavalry
+-villagers cost -20%, start with -40 F
+-Walls +60% hp
+-Cavalry attack 10% faster
+UU: Zu ghe nu(foot archer)
+TB: Town Centers provide +4 population
+Miss tech: siegecraft, engineering
+Miss units: longswordman, elephants, heavy catapult
+
+Yamato: cavalry and naval
+-fishing boats and fishermen work 20% faster
+-Mounted units cost -20%
+-Ships +25% hp
+-Stable and Archery Range upgrades cost -30%
+UU: Samurai(infantry/foot archer)
+TB: Military buildings cost -20%
+Miss tech:
+Miss units:
+
+Huns: cavalry and cavalry archers
+-Doesn't build houses, start at capped pop, but with -100 W
+-Horse archers cost -20%
+-Light cavalry +33% hp
+-hunter and forager work 10% faster
+UU: tarkan(cavalry), mangudai(horse archer)
+TB: mounted units +2 los
+Miss tech:
+Miss units:
+
+CELTIC ARCHITECTURE  4
+
+Gauls: infantry and siege
+-Military foot units move 10% faster
+-Free infantry armor upgrades
+-Mule cart cost -25%
+UU: Ambaxtoi(infantry), gaesatae(infantry)
+TB: foot units are trained 15% faster
+Miss tech:
+Miss units:
+
+Britons: infantry and cavalry
+-Blacksmith techs cost no G
+-Barrack units +20% hp
+-hunter and fisherman work 10% faster
+-All military building techs cost -20%
+UU: caledonian fighter(infantry), highlander(infantry)
+TB: military buildings provide +4 population
+Miss tech:
+Miss units:
+
+Germans: infantry
+-Woodcutter and forager work 10% faster
+-Mule cart is trained 25% faster
+-Barrack units cost -15/20/25/30%
+-Palisades +50% hp
+UU: comitus(infantry), maceman(infantry)
+TB: All techs cost -20% F
+Miss tech:
+Miss units:
+
+Iberians: infantry and skirmishers
+-Free farm upgrades
+-skirmishers fire 33% faster
+-Start with +100 S
+UU: elite guard(infantry), Cantabrian horseman(cavalry)
+TB: Swordman and skirmishers cost -10%
+Miss tech:
+Miss units:
+
+
+
+
+BUILDINGS (all military buildings cost 200 W)
+(stage=number of level ups)
+Barrack: 
+Swordman 5 stages
+Spearman 3 stages
+Regional unit(hoplite, axeman, kopesh, dao) 2 stages
+Archery Range:
+archer 3 stages
+skirmisher 2 stages
+chariot archer 2 stages
+horse archer 2 stages
+elephant archer 2 stages
+camel archer 2 stages
+Stable:
+light cavalry 2 stages
+cavalry 3 stages
+chariot 2 stages
+elephant 2 stages
+camel rider 2 stages
+Siege Workshop:
+catapult 3 stages
+ballista 2 stages
+battering ram 3 stages
+Dock:
+Arrow Galley 3 stages
+Catapult Galley 2 stages
+Fire Galley 2 stages
+Boarding Galley 2 stages
+Incendiary Galley 2 stages
+Fishing ship 2 stages
+Temple:
+priest
+Town Center:
+villager
+
+
+TECHNOLOGIES
+(Writing, Logistics, aristocracy, urbanization are free, alchemy is moved to ranged attack)
+resources saved (in total) 55 F 110 G 250 W 125 S 40 sec
+
+Blacksmith:
+-Range attack: ranged units +1 atk and range  cost 50 F 40 sec / 150 F 100 G 70 sec / 250 F 200 G 100 sec
+-Melee attack: melee units +1/1/2 atk         cost 100 F 40 sec / 200 F 100 G 70 sec / 300 F 200 G 100 sec
+-Melee armor: military units +1/0 armor       cost 300 F 90 sec / 375 F 150 G 180 sec / 450 F 300 G 270 sec
+-Pierce armor: military units +0/1 armor      cost 150 F 200 G 40 sec / 200 F 300 G 70 sec / 250 F 400 G 100 sec
+Government Center:
+-Bloodlines: mounted units +20% hp                 cost 200 F 125 G 70 sec
+-Architecture: buildings +20% hp, -33% build time  cost 200 F 200 W   50 sec
+-Town Watch: buildings +4 los                      cost 100 F 20 sec
+-Conscription: all military units are trained 25% faster  cost 450 F 250 G 60 sec
+-Ballistics: better accuracy at moving targets     cost 200 F 50 G  60 sec
+-Siege Engineering: ranged siege +2 range          cost 200 F 100 W 70 sec
+-Wall up. improve wall hp                  cost 200/300 F  100/150 S 60/80 sec
+-Tower up. improve tower hp atk and range  cost 100/300/1800 F 50/100/750 S 30/100/150 sec
+Eco techs:
+-farm: farms contain +75/100/125 F   cost 150/250/350 F 50/75/100 W 40/70/100 sec
+-wood: woodcutter work 20% faster    cost 120/180/240 F 75/150/225 W 60/80/100 sec
+-stone: stone miner work 20% faster  cost 100 F 50 S 30 sec
+-gold: gold miner work 20% faster    cost 100 F 50 G 40 sec
+-wheel: villager move 20% faster     cost 200 F 100 W 75 sec
+-caravan: trade units move 20% faster  cost 200 F 100 G 30 sec
+Temple:
+-Mysticism: priest +20 hp +20% move speed   250 G 100 sec
+-Astrology: priest heal/convert 30 % faster 150 G  50 sec
+-Medicine: priest heal 100% faster          150 G  50 sec
+-Monotheism: priest can convert priests and buildings 350 G 75 sec
+-Afterlife: priest +3 conversion range      300 G 75 sec
+-Theocracy: only one priest need to rest    400 G 100 sec
+-Fanaticism: priest rejuvenate 50% faster   150 G 60 sec
+
+Town Center:
+-Age up: reach the next age 500 F / 800 F 200 G / 1000 F 800 G   100/140/180 sec
+
+Tech NOT availability:
+Ranged attack 3: Macedonians, Palmyrians, Persians, Sumerians
+Melee attack 3: Palmyrians, Phoenicians, Sumerians
+Melee armor 3: Phoenicians
+Pierce armor 3: Lac Viet, Palmyrians
+Bloodlines: Assyrians, Macedonians
+Architecture: Assyrians, Phoenicians
+Siege engineering: Choson, Lac Biet, Palmyrians, Shang
+Fortified wall: Minoans, Yamato
+Guard tower: Minoans, Yamato
+Ballista tower: Lac Viet, Persians, Shang
+Wood 3: Macedonians, Palmyrians
+Stone 3: Carthaginians, Lac Viet, Macedonians, Persians, Shang
+Mysticism: Hittites, Lac Viet, Palmyrians, Yamato
+Astrology: Carthaginians, Minoans, Romans, Sumerians, Yamato
+Medicine: Hittites, Yamato
+Monotheism: Carthaginians, Greeks, Hittites, Lac Viet, Minoans, Palmyrians, Sumerians, Yamato
+Afterlife: Hittites, Lac Viet, Minoans, Romans, Sumerians
+Theocracy: Hittites, Minoans, Palmyrians, Yamato
+Fanaticism: Carthaginians, Hittites, Lac Viet, Minoans, Sumerians, Yamato
+
+UNITS
+villager
+HP 40 Atk 3 [7]
+Armor 0/0 Speed 1.0 [1.2]
+Cost 50 F 20 sec
+
+Priest
+HP 25 [50] Heal 3 [6]
+Range 9 [12] Speed 0.8 [0.96]
+Cost 125 G 50 sec
+
+BARRACK
+Clubman-Axeman-Short swordman-long swordman-paragon
+HP 40-50-80-100-140
+Atk 4-5-8-10-12 [16]
+Armor 0/0-0/0-0/0-1/0-1/0 [4/3]
+Speed 1.0
+Cost 35 F 15 G 20 sec
+
+Spearman-pikeman-elite pikeman
+HP 45-60-75
+Atk 3-6-8 [12]
+vs cavalry +6-9-12
+Armor 0/0 [3/3]
+Speed 1.0
+Cost 30 F 20 W 20 sec
+
+Hoplite-Elite hoplite
+HP 120-160
+Atk 17-30 [34]
+Armor 4/0-7/0 [10/3]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+
+Axeman-Elite axeman
+HP 90-120
+Atk 18-28 [32]
+Armor 5/1-8/1 [11/4]
+Speed 1.0
+Cost 65 F 35 G 40 sec
+
+Kopesh-Elite kopesh
+HP 120-160
+Atk 12-18 [22]
+vs infantry +10-14
+Armor 5/0-7/0 [10/3]
+Speed 1.0
+Cost 55 F 45 G 40 sec
+
+Dao swordman-Elite dao swordman
+HP 60-80
+Atk 15-20 [24]
+vs cavalry +5-10
+Armor 6/1-10/1 [13/4]
+Speed 1.0
+Cost 70 F 30 G 40 sec
+
+ARCHERY RANGE
+Archer-Improved bowman-composite bowman
+HP 40-50-60
+Atk 2-3-4 [7]
+Range 5-6-7 [10]
+Armor 0/0 [3/0]
+Speed 1.0
+Cost 50 F 30 G 40 sec
+
+Skirmisher-Elite skirmisher
+HP 40-50
+Atk 2-3 [6]
+vs archers +3-6
+vs buildings +3-6
+vs horse archers +2
+Range 4-5 [8]
+Armor 0/2-0/3 [3/6]
+Speed 1.0
+Cost 40 F 40 W 40 sec
+
+Chariot Archer-Elite chariot archer
+HP 75-90 [108]
+Atk 3-4 [7]
+Range 6-7 [10]
+Armor 0/0 [3/0]
+Speed 1.8
+Cost 80 W 50 F 48 sec
+
+Horse Archer-Elite horse archer
+HP 70-80 [96]
+Atk 5-6 [9]
+Range 6-7 [10]
+Armor 0/0 [3/3]
+Speed 2.0
+Cost 60 F 60 G 50 sec
+
+Elephant archer-Elite elephant archer
+HP 400-500 [600]
+Atk 3-4 [7]
+Range 6-7 [10]
+Armor 0/0 [3/0]
+Speed 1.0
+Cost 180 F 45 G 60 sec
+
+Camel archer-Elite camel archer
+HP 70-80 [96]
+Atk 3-4 [7]
+vs archers +2
+vs horse archers +2
+Range 6-7 [10]
+Armor 0/0 [3/3]
+Speed 1.8
+Cost 70 F 50 G 50 sec
+
+STABLE
+Scout cavalry-Ligth cavalry
+HP 100-125 [150]
+Atk 5-7 [11]
+vs archers +5-7
+Armor 0/0 [3/3]
+Speed 2.0
+Cost 150 F 50 sec
+
+Cavalry-Heavy cavalry-Cataphract
+HP 150-180-230 [276]
+Atk 8-10-12 [16]
+Armor 1/0-2/0-4/0 [7/3]
+Speed 1.6
+Cost 70 F 80 G 40 sec
+
+Chariot-Scythed Chariot
+HP 150-180 [216]
+Atk 9-12 [16]
+Armor 0/0 [3/3]
+Speed 1.8
+Cost 90 W 60 F 48 sec
+Gain 50% trample damage on scythed version
+
+War elephant-Elite war elephant
+HP 400-500 [600]
+Atk 10-12 [16]
+vs buildings +7-10
+Trample 50%
+Armor 0/0-1/1 [4/1]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+
+Camel rider-Heavy camel rider
+HP 120-150 [180]
+Atk 6-8 [12]
+vs cavalry +9-18
+Armor 0/0 [3/0]
+Speed 1.8
+Cost 60 F 60 G 40 sec
+
+SIEGE WORKSHOP
+Light Catapult-Medium Catapult-Heavy Catapult
+HP 100-150-200
+Atk 50-60-70
+vs buildings +140
+Range 10-12-13 [15]
+Armor 0/3-0/4-0/5
+Speed 0.8
+Cost 180 W 80 G 60 sec
+
+Ballista-Heavy Ballista
+HP 50-60
+Atk 30-42 [45]
+Range 9-10 [12]
+Armor 0/2-0/3
+Speed 0.8
+Cost 100 W 80 G 50 sec
+
+Battering Ram-Capped Ram-Siege Ram
+HP 175-200-250
+Atk 1-2-3
+vs buildings +70-80-100
+Armor 0/30-1/40-2/45
+Speed 0.8
+Cost 180 W 80 G 60 sec
+
+DOCK
+Medium warship: improve all warships cost 200 F 100 W 60 sec
+Heavy warships: improve all warships cost 550 F 200 W 100 sec
+
+Fishing boat-Fishing Ship
+HP 45-75 Armor 0/0 Speed 1.0-1.5
+Cost 50 W 12 sec
+
+Scout Galley-War Galley-Trireme
+HP 120-160-200
+Atk 5-7-9 [12]
+Range 5-6-7 [10]
+Armor 0/0 Speed 1.5
+Cost 150 W 30 sec
+
+Fire Galley-Fast Fire Galley
+HP 160-200
+Atk 24-30
+Range 2 
+Armor 0/0 Speed 1.8
+Cost 120 W 40 G 30 sec
+
+Incendiary galley-Heavy Incendiary galley
+HP 80-100
+Atk 80-100
+Explosion radius 2.5-3
+Armor 0/2-0/3 Speed 2.0
+Cost 60 W 60 G 30 sec
+
+Boarding galley-Quadrireme
+HP 160-200
+Atk 20-25
+Range 1
+Armor 0/2-0/3 Speed 1.8
+Cost 150 W 30 sec
+
+Catapult Galley-Quinquireme
+HP 160-200
+Atk 30-40
+vs buildings +150
+Range 10-12 [14]
+Armor 0/0 Speed 1.2
+Cost 150 W 50 G 40 sec
+
+
+
+
+UNIQUE UNITS
+Assyrian horse archer
+HP 50-60 [72]
+Atk 6-7 [10]
+Range 6-7 [10]
+Armor 0/0 [3/3]
+Speed 2.2
+Cost 60 F 60 G 50 sec
+
+Medjay Warrior
+HP 120-150
+Atk 16-24 [28]
+vs infantry +8-12
+Armor 4/0-7/0 [10/3]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+
+Camel skirmisher
+HP 125-150 [180]
+Atk 2-3 [6]
+vs archers +4-6
+vs cavalry +2-4
+vs buildings +3-6
+Range 4-5 [8]
+Armor 0/2-0/3 [3/6]
+Speed 1.8
+Cost 60 F 40 G 40 sec
+
+Nubian archer
+HP 65-75
+Atk 5-6 [9]
+Range 9-10 [13]
+Armor 1/0 [4/0]
+Speed 1.0
+Cost 80 F 40 G 40 sec
+
+Lion warrior
+HP 100-120
+Atk 12-18 [22]
+Trample 50%
+Armor 5/1-8/1 [11/4]
+Speed 1.2
+Cost 40 F 60 G 40 sec
+
+Desert horseman
+HP 100-125 [150]
+Atk 6-8 [12]
+vs archers +5-6
+vs buildings +5-8
+Armor 0/1 [3/4]
+Speed 2.0
+Cost 150 F 50 sec
+
+Desert swordman
+HP 75-120
+Atk 8-12 [16]
+Armor 1/1 [4/4]
+Speed 1.2
+Cost 30 F 20 G 20 sec
+
+________
+
+Uruk spearman
+HP 60-80
+Atk 7-10 [14]
+vs cavalry +8-10
+Armor 1/1 [4/4]
+Speed 1.2
+Cost 30 F 20 G 20 sec
+
+Immortal
+HP 60-75
+Speed 1.0
+Cost 60 F 40 G 40 sec
+
+Lance version
+Atk 16-24 [28]
+vs cavalry +4-8
+Armor 6/3-9/3 [12/6]
+
+Bow version
+Atk 4-5 [8]
+Range 6-7 [10]
+Armor 0/0-3/0 [6/0]
+
+Iron guard
+HP 60-80
+Atk 12-16 [20]
+vs cavalry +6-12
+Armor 7/2-10/3 [13/6]
+Speed 1.0
+Cost 50 F 50 G 40 sec
+
+Imperial chariot
+HP 200 [240]
+Atk 12 [16]
+Trample 100%
+Armor 2/0 [5/3]
+Speed 1.8
+Unique upgrade: cost 1500 W 1200 G 100 sec
+
+Kaghan chieftain
+cavalry unit. Same stats as cavalry/cataphract but it has +2/0 armor. Cost +30 G.
+When it dies, player mounted units within 10 tiles attack 20% faster for 10 seconds.
+Can stack up to 5 times.
+
+________
+
+Noble
+Reskinned hoplite. Recover 40 hp with each kill. Cost +20 G and +8 seconds of train time.
+
+War elephant
+HP 800-1000 [1200]
+Atk 12-16 [20]
+vs buildings +15-20
+Trample 50%
+Armor 0/0-1/1 [4/1]
+Speed 1.0
+Cost 240 F 120 G 80 sec
+
+legionary
+HP 100-150
+Atk 8-12 [16]
+Armor 1/0-3/1 [6/4]
+Speed 1.0
+Cost 50 F 10 G 24 sec
+Special: gain +1/1 armor for each 5 legionaries within 5 tiles, stack up to +3 times
+
+centurion
+HP 200-300 [360]
+Atk 12-16 [20]
+Armor 2/0-4/0 [7/3]
+Speed 1.6
+Cost 100 F 100 G 50 sec
+Special: make legionaries within 12 tiles move 20% faster and attack 20% faster, doesn't stack
+
+Numidian skirmisher
+HP 60-80 [96]
+Atk 2-3 [6]
+vs archers +4-6
+vs buildings +4-6
+vs horse archers +2
+Range 4-5 [8]
+Armor 0/2-0/3 [3/6]
+Speed 2.2
+Cost 80 F 40 W 40 sec
+
+Numidian cavalry
+HP 150-200 [240]
+Atk 7-10 [14]
+vs cavalry +3-4
+vs archers +3-4
+Armor 0/1 [3/4]
+Speed 2.2
+Cost 90 F 60 G 40 sec
+
+satellites
+HP 105-140
+Atk 15-20 [24]
+Armor 0/0 [3/3]
+Speed 1.2
+Cost 80 F 20 G 40 sec
+Special: gain +1/0 armor for each buildins within 12 tiles, max +10
+
+_______
+
+Strategos
+Special: make player infantry attack 33% faster in 12 tiles
+
+Hippeus
+Special: make player infantry get +1/1 armor in 12 tiles
+
+Phalangite
+HP 80-100
+Atk 9-15 [19]
+Range 2
+Armor 4/0-7/0 [10/3]
+Speed 1.0
+Cost 65 F 35 G 40 sec
+
+Companion cavalry
+HP 150-200 [240]
+Atk 10-14 [18]
+vs cavalry +3-5
+Armor 2/0-5/1 [8/4]
+Speed 1.5
+Cost 70 F 80 G 40 sec
+
+Cretan archer
+HP 60-70
+Atk 4-5 [8]
+vs infantry +2
+Range 8-9 [12]
+Armor 0/0 [3/0]
+Speed 1.0
+Cost 50 W 40 G 40 sec
+
+Balearic slinger
+HP 70-80
+Atk 1-2 [5]
+Range 6-7 [10]
+Armor 0/2-0/3 [3/6]
+Speed 1.0
+Cost 60 W 30 G 40 sec
+Attack ignores all armor, even buildings
+
+Oxybeles
+HP 50-60
+Atk 8-9
+Range 9-10 [12]
+Armor 0/3
+Speed 0.8
+Cost 120 W 80 G 50 sec
+Special: fires 5 projectiles. Each projectile deal bonus damage equal to 2% of the target cost in resources.
+Example. Oxybeles fires at a Catapult. Ech projectile will deal 5 extra damage (2% of 260, rounded down).
+
+Polydinastus
+HP 120-160
+Atk 15-20 [24]
+Range 1
+Armor 4/0-7/0 [10/3]
+Speed 1.0
+Cost 65 F 35 G 40 sec
+Special: lance pierce multiple targets
+
+_______
+
+Hwarang
+Rattan archer
+Zu ghe nu
+Samurai
+
+_______
+
+Ambaxtoi
+Gaesatae
+Caledonian fighter
+Highlander
+Comitus
+Maceman
+Elite guard
+Cantabrian horseman

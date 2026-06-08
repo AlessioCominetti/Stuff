@@ -1,0 +1,135 @@
+THELUGUS: defense
+DECCANIS: siege, gunpowder, elephants and defense
+CHOLANS: elephants and naval
+
+
+THELUGUS
+Defense civilization
+
+-Villager +5 HP each Age, starting from Dark Age
+-Farms cost -50% in Imperial Age
+-Gunpowder units +15% accuracy
+UU Pallegallu (infantry) Gudachari (spy)
+RU elephant archer, siege elephant, battle elephant
+CT Nitisara Book (Castle gain +2 range when positioned
+in Los of each other, they also take -20% bonus damage) COST 350 W 150 G
+IT Nayamkara System (Military units cost -20% and are
+trained 25% faster) COST 600 F 450 G
+TB-all gold and stone deposits are revealed from the start
+
+Pallegallu (infantry)
+HP 40-50
+Atk 7-8 [12]
+Rof 1.5
+Armor 0/1-0/2 [2/4]
+Los 6
+Speed 1.2-1.3 [1.43]
+Cost 25[20] F 50[40] G 13-10 sec
+Special: dodge shield (any attack)
+charges 3, recharge 30 sec
+Up cost 1000 F 800 G 90 sec
+
+Gudachari (spy)
+HP 75
+Armor 0/0
+Speed 1.1
+Los 4
+Invisible to units outside 3 tiles
+Can produce fake military units
+take half pop, but have HP/5
+and deal 0 damage. They can still distrupt villagers
+and trigger alarm. Ideal to annoy players
+Cost 120 G 30 sec
+
+Missing techs
+B-infantry: infantry armor III
+B-archers: arbalester, parthian tactics
+C-cavalry: hussar, cavalier
+A-siege: siege onager
+B-navy: FFS, HDS, shipwright
+A-monks: atonement, heresy
+A-defense: nothing
+A-economy: nothing
+
+
+DECCANIS
+Siege, gunpowder, elephants and Defense civilization
+
+-Walls and siege units have +3 Los
+-Can garrison scorpions and mangonel in towers and castles
+-Fortifications and elephants attack 25% faster
+-Spawn 3/4/5 villagers on Feudal/Castle/Imperial Age from the First Town Center
+UU Habshi (gunpowder), bombard elephant(elephant/siege/gunpowder)
+RU elephant archer, battle elephant, siege elephant
+CT Afaqi Influence (Research one enemy Team bonus) 500 G
+IT Sthatapis (Enable masterworks) 800 W 400 S
+TB-Gunpowder units and elephants are created 20% faster
+
+Habshi (gunpowder)
+HP 85-100 
+Atk 20-23 
+Range 7
+Los 10-12
+Rof 3.2
+Accuracy 85%
+Armor 2/1-2/2 [5/6]
+Speed 1.0
+Cost 75 F 90 G 36-30 sec
+Up cost: 750 F 500 G 60 sec
+Special: gunpowder units in 5/6 Los
+attack 33/42% faster (doesn't affect other Habshi)
+
+Bombard elephant: replace bombard cannon
+HP 300 [320]
+Atk 60
+vs buildings +200 [240]
+vs stone +40 [48]
+vs ships +40 [48]
+vs heavy siege +40 [48]
+Rof 7.5
+Range 5-12 [13]
+Armor 0/2 [3/6]
+Speed 0.8 [0.88]
+Cost 200 F 200 G 48[40] sec
+
+
+Masterwork are special buildings that can be placed adiacent
+to universities. They take 3 times more to build, but
+they have double HP and work 25% faster, no extra resource cost.
+
+
+Missing techs
+C-infantry: champion, gambeson, infantry armor III
+B-archers: crossbowman, bracer
+B-cavalry: paladin
+A-siege: nothing
+B-navy: FFS, carening, shipwright
+B-monks: heresy, theocracy
+A-defense: nothing
+B-economy: heavy plow, bone saw
+
+---------------
+Already in game
+---------------
+
+CHOLANS
+naval and elephants civilization
+
+-Start with +50 of all resources
+-Techs and unit upgrades cost -20% G (except Monastery)
+-Fishing ships +5 carry capacity
+UU phisician (medic) flamethrower (siege)
+RU battle elephant, elephant archer, siege elephant
+CT-Posubar shipyards (galley +1 attack and range) 450 W 450 G 60 sec
+IT-Chinese trebuchet (trebuchet fires two extra projectiles) 900 W 800 G 90 sec
+TB-Elephants are trained 25% faster
+
+Missing techs
+A-infantry: squires
+A-archers: parthian tactics
+B-cavalry: hussar, paladin, bloodlines
+B-siege: elite siege elephant, siege onager, BC, siege engineers
+A-navy: FFS, HDS, shipwright
+B-monks: BP, redemption, heresy
+B-defense: BT, fortified wall, arrowslits, treamill crane
+A-economy: stone shaft mining

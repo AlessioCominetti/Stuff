@@ -1,0 +1,233 @@
+Norwegians, Swedens, Danes: infantry and naval
+Finnish: infantry and archers
+
+
+REGIONAL UNITS
+Viking: available to Danes, Norwegians and Swedens, available at Barracks and
+act as the starting scout
+HP 40-45-55-65
+Atk 4-6-9-12 [16]
+vs shock +0-2-3-4
+vs buildings +0-2-3-4 [6]
+Rof 2.0
+Armor 0/1 [3/5]
+los 5-6-7-8
+Speed 1.0 [1.1]
+Cost 55 F 15 G 50-35-28-24 seconds
+Upgrade cost 100 F 40 G 15 sec
+Upgrade cost 150 F 60 G 45 sec
+Upgrade cost 500 F 600 G 55 sec
+Special: can build houses, lumber/mining camps, outposts, docks, repair ships
+
+Jarl: replace knights for Danes, Norwegians and Swedens.
+HP 90-140 [160]
+Atk 10-14 [18]
+vs buildings +3-5
+Rof 2.2
+Range 3
+Armor 2/2 [5/6]
+Speed 1.3 [1.43]
+Cost 60 F 70 G 40-30 sec
+Up cost 1300 F 700 G 120 sec
+
+Scandinavian Raider: replace horse archers.
+Mounted skirmisher, strong vs archers, siege and spearman.
+Weak to camels, buildings and cavalry. Not affected by
+parthian tactic or thumb ring.
+HP 50-60 [80]
+Atk 4-5 [9]
+vs archers +4-5
+vs spear +4-5
+vs siege +3
+Rof 3.0
+Range 4 [7] Accuracy 100%
+Armor 1/3 [4/7]
+Speed 1.4 [1.54]
+Cost 40 W 50 G 30-24 sec
+Up cost 800 F 450 G 80 sec
+
+Long Ship: replace Galley-line and tranports ships.
+Can garrison 20 units inside, and works exactly like a trasnport ship,
+albeit that can fight like a galley. Fires 50% faster than galleys.
+HP 75-110-125-150
+Atk 3-4-5-6 [10]
+vs long_range_warships +3-5-6-7
+vs buildings +4 (0 in dark age)
+vs rams +0-2-3-4
+Rof 2.0
+Range 4-5-6-7 [10]
+Armor 0/3-0/4-0/4-1/6 [1/8]
+Speed 1.2-1.3-1.45-1.45 [1.74]
+Cost 100 W 50 G 50-36-27-24 sec
+Free upgrade in Feudal Age
+
+Drekki: replace Fire ship-line.
+Affcted by blacksmith melee attack upgrade.
+HP 110-125-150
+Atk 11-13-14 [18]
+vs long_range_warships +12-16-20
+Rof 2.0
+Range 1
+Armor 0/4-1/4-2/7 [2/9]
+Speed 1.3-1.4-1.45 [1.74]
+Cost 75 W 45 G 50-27-24 sec
+
+The unique technology Detinets, is now a reginal tech, replacing hoardings.
+The Slavs get Ortodoxy as their unique technology.
+
+FINNISH
+infantry and archers civilization
+
+-Land units can move trough forest with -75% speed penalty
+-Monks can convert while moving and resist conversion (+3)
+-Hussar upgrade is free and provide +5 HP
+-Woodcutter, fisherman, forager, hunter, shepherd work 8% faster
+-Free Detinets
+UU Hisi guard(infantry)
+CT-Kalevala: Infantry units +5 damage vs cavalry, regen 24 Hp/min  400 F 300 G 30 sec
+IT-Sisu: all foot units +10% HP  750 F 450 G 60 sec
+TB-Spearman, skirmishers, light cavalry +1 los
+
+Hisi Guard
+HP 85-100 [110]
+Atk 11-14 [18]
+vs cavalry +2-3 [8]
+Rof 2.0
+Armor 2/1-3/1 [7/6]
+Speed 1.0 [1.1]
+Cost 60 F 40 G 16-13 sec
+Up cost: 850 F 550 G 55 sec
+Special: immune to conversion
+
+Missing techs:
+A-infantry: nothing
+A-archers: nothing
+B-cavalry: cavalier
+C-siege: BC, siege onager
+A-monks: nothing
+B-naval: shipwright
+B-defenses: BT, architecture, treadmill
+B-economy: nothing
+
+
+
+
+
+
+NORWEGIANS
+infantry and naval civilization
+
+-Wheel barrow and hand cart are free
+-Infantry +10/15/20/25% HP
+-Warhips cost -10/15/20%
+UU Berserker(infantry)
+CT Markamen (infantry and foot archers +40 Hp/min regen) 450 F 450 W
+IT Konungstekja (Infantry +5 damage vs buildings) 100 F 250 G
+TB-Docks work 20% faster
+
+Berserker (infantry)
+HP 75-84 [105]
+Atk 18-21 [25]
+vs buildings +4 [11]
+Rof 2.0
+Armor 2/1-3/2 [6/6]
+Speed 1.05 [1.15]
+Cost 85 F 35 G 20-17 sec
+Up cost 1000 F 500 G 50 sec
+Special: when unit HP is brought down
+to 0, keeps on fighting for 2/3 sec.
+If unit is healed while under Hp, unit is saved
+
+Compared to Teutonic Knight
+General: +31% speed +5 G cost
+Castle: +4 atk  -5/1 armor
+Imperial: +4 atk -7/0 armor  +5 dmg vs buildings
+
+Compared to Jaguar Warrior
+General: +5% speed +25 F +5 G cost
+Castle: +25 HP +3 atk  -5 dmg vs infantry  +1/-1 armor +2 dmg vs buildings
+Imperial: +30 HP +2 atk -6 dmg vs infantry  +1/0 armor +7 dmg vs buildings
+
+Missing techs
+A-infantry: nothing
+C-archers: hand cannon, EHA, parthian tactic, archer armor III
+B-cavalry: bloodlines, hussar
+A-siege: BC
+A-navy: HDS
+B-monks:  redemption, heresy, faith
+C-defense: Keep, BT, fortified walls, architecture, treadmill
+A-economy: crop rotation
+
+SWEDES
+infantry and naval civilization
+
+-Can train two ships at the same time at Docks
+-Heresy and Faith cost -50%
+-researching heresy unlock halberdier and give 25% more bonus damage to infantry
+Also, keep all regional units
+-researching faith unlock hussar and 15 Hp/min regen to all units
+Also, substitute all regional units
+-Eco techs cost -50% F
+UU Varangian guard (heavy infantry)
+UT Skegg (warships attacks do splash/trample damage) 450 W 250 G
+UT Decree of Alsno (Jarl/Knight cost -75% F) 600 F 300 G
+TB-Coinage and Banking spawn 1/2 free villagers to the market
+
+Varangian guard
+HP 75-90
+Atk 12-14 [18]
+vs buildings +4 [6]
+vs non/unique +4
+Rof 2.0
+Armor 3/3-5/5 [8/9]
+los 6
+Speed 0.9 [0.99]
+Cost 25-75 F 30-90 G 14-10 seconds, cost increases
+per each unit in the field, up to 40 units
+Upgrade cost 750 F 600 G 45 sec
+
+Missing techs
+A-infantry: halberdier*
+B-archer: HHA, thumb ring, parthian tactics
+B-cavalry: bloodlines, hussar*, cav armor III
+C-siege: siege onager, siege ram, heavy scorpio, BC,  siege enginers
+A-navy: f fire ship
+B-monks: illumination, sanctity, theocracy
+B-defenses: BT , architecture
+A-economy: guilds
+
+DANES
+infantry and naval civilization
+
+-Town centers may train villagers while researching techs
+Doesn't apply to Aging Up
+- +15% enemy commodity trading fee
+-Gain 1 spearman 1 skirmisher for every Town Center built (except first)
+-Spearman, skirmisher, light cav +10/20% HP
+UU danish axeman
+UT Danegeld (steal 5% of your opponent G income, longships cost -40% G) 500 F 450 G
+UT Leithing (spearman, skirmisher, light cav are trained 100% faster) 750 W 400 G
+TB Ships are repaired 100% faster
+
+Danish Axeman (infantry)
+HP 60-70
+Atk 10-12 [16]
+Trample: 50% damage 0.3 tiles
+Rof 2.4
+Armor 0/0 (3/4)
+los 6
+Speed 1.0 (1.1)
+Cost 50 F 50 W 11-9 sec
+Upgrade Cost 750 F 900 G 50 sec
+anti levies +4+1 (spearman, light cav, skirmishers)
+anti building +4+1 (7)
+
+Missing techs
+B-infantry: nothing
+B-archers: bracer
+B-cavalry: husbandry, cavalry armor III
+B-siege: heavy scorpio, siege onager, siege engineer
+B-navy: bracer
+B-monks: atonement, theocracy, faith, illumination
+A-defense: nothing
+A-economy: two-man-saw

@@ -1,0 +1,678 @@
+CIVILIZATIONS
+
+Han Dynasty
+archer and infantry civilization
+
+-Start with +1 villager
+-Walls +35% HP
+-Spearman cost -20%
+UU: chu ko nu, guan dao
+Miss: Paladin, high priest, camels
+
+Golden Horde
+cavalry civilization
+
+-Stable units cost -20%
+-Hussar upgrade available in Castle Age
+-Doesn't need to build houses
+-Towers cost -40%
+-Free archer attack upgrades
+Miss: Castle, stone walls, high priest, camels
+
+Aztec Empire
+archer and infantry civilization
+
+-Free melee attack upgrades
+-Archers cost -20%
+-Military units are trained 20% faster
+UU: Jaguar warrior, eagle warrior
+Miss: Stables, guns
+
+Holy Roman Empire
+infantry and cavalry civilization
+
+-Towers attack 30% faster
+-Castles are built 30% faster
+-Infantry, cavalry, villagers are trained 10% faster
+UU: Teutonic knight, teutonic swordman
+Miss: hussar, siege ram, camels, horse archers
+
+Gaels
+infantry civilization
+
+-Has +5 population cap
+-Spearman cost -20%
+-Swordman cost -30%
+-Swordman +2 speed
+-Can upgrade to pikeman in Feudal Age
+UU: Gallowglass
+Miss: paladin, hussar, high priest, camels, horse archers
+
+Ottomans
+cavalry and siege civilization
+
+-Artillery cost -30%
+-Free Light cavalry upgrades
+-Towers cost -40%
+-Free melee attack upgrades
+UU: jannissary, mameluke
+Miss: paladin, arbalester, 2-h-swordman
+
+Eastern Roman Empire
+infantry and cavalry civilization
+
+-Free Wheel barrow and hand cart
+-Free wall upgrades
+-Free Logisitcs
+UU: cataphract, varangian guard
+Miss: nothing
+
+Britons
+archers civilization
+
+-Towers cost -40%
+-Towers, Town Centers and Castles +30% range
+-Barracks works 25% faster
+UU: longbowman
+Miss: high priest, horse archer, camels
+
+Spaniards
+cavalry civilization
+
+-Villager build 25% faster and have +50% HP
+-Knights cost -10%, have +60 HP
+-Free armor upgrades
+UU: conquistador, arquebusier
+Miss: siege ram, arbalester, fortified wall, camels, horse archer
+
+Franks
+cavalry civilization
+
+-Knights cost -20%
+-Castles cost -25%
+-Blacksmith upgrades cost -25%
+UU: Frankish Paladin
+Miss: siege ram, arbalester, camels, horse archers
+
+****DLC****
+Italians
+archers and siege civilization
+
+-Bombard tower and artillery cost -20%
+-All techs (including advancing to the next age) cost -20%
+-Archers +2/2 armor
+UU: genoese crossbowman, swiss guard
+Miss: paladin, horse archer, camels
+
+Slavs
+infantry and cavalry civilization
+
+-Siege units cost -20%
+-Military buildings cost -20% (Barrack, Stable, Siege WorkShop)
+-Priest +2/2 armor
+-Free melee attack upgrade
+UU: boyar, winged hussar
+Miss: arbalester, camels, tower lvl 3, heavy artillery, siege ram
+
+Deli Sultanate
+archers and cavalry civilization
+
+-All units cost -20% F
+-Archers +40 HP
+-Free Temple techs
+-Advancing to the next age is 50% faster
+UU: chakram thrower, ghulam
+Miss: knight, 2-h-swordman, halberdier, siege ram
+
+Mali Empire
+archers and infantry civilization
+
+-Archers fire 20% faster
+-Free Pikeman upgrade
+-Buildings cost -10%
+-spearman, swordman +2/2 armor
+UU: Dahomey warrior
+Miss: paladin, heavy artillery, siege ram, hussar, horse archer
+********
+
+BUILDINGS
+I-40-House: grant +10 population space
+I-50-Storehouse: drop site for resources
+I-50-Tower: defensive structure Upgrade lvl 2 +100 G Upgrade lvl 3 +100 G
+I-100-Blacksmith: research unit upgrades
+III-4000 G 4000 F Wonder: used for Wonder Victory
+III-200-Town Center: train villager and eco upgrades
+
+I-10-Wall: defensive barrier
+I-150-Barrack: train foot units [swordman, spearman, archer, axeman]
+II-150-Stable: train mounted units [light cavalry, heavy cavalry, horse archer, camel rider]
+II-150-Siege Workshop: train siege units [battering ram, artillery, catapult, ballista]
+II-200-Temple: train priests
+II-600-Castle: train unique units
+
+
+TECHS
+Melee attack upgrade I-III: melee units +2 atk: 200 F / 300 G / 100 F 300 G 60 sec
+armor upgrade I-III: military units +2/2 armor: 600 F / 900 G / 300 F 900 G 180 sec
+Ranged attack upgrade I-III: ranged units +2 atk: 200 F / 300 G / 100 F 300 G 60 sec
+Wall upgrade I-II: improve wall hp: 500 F 700 G 120 sec / 700 F 900 G 180 sec
+Logistics: reduce population cost for some units: 400 F 30 sec
+Wheel barrow/Hand Cart: villager work 20% faster: 150 G 30 sec / 350 G 60 sec
+Age up Castle/Imperial: 1000 F 90 sec / 1500 F 120 sec
+Passion: monks +100%HP, +50% healing power, +25% speed: 200 G 60 sec
+Faith: monks +33% range, all units +50% resistence*: 500 F 500 G 60 sec
+Theocracy: only one monk needs to rest after conversion: 600 F 800 G 60 sec 
+
+*all units have 134 resistence, buildings, siege, light cavalry and shock infantry have 3
+times as much. Monks deplete 25 resistence per second.
+
+UNITS
+armor classes: [villager, infantry, spearman, archer, cavalry, horse archer, siege, gun,
+priest, shock, wall, building]
+
+Rof: Rate of Fire
+1.0:: Axeman, Conquistador, Arquebusier, Ballista
+1.25:: most units
+2.5 :: chu ko nu, guan dao
+
+Villager [villager]
+HP 180
+Atk 8
+Rof 1.25
+los 15
+Armor 0/0
+Speed 24
+Cost 50 F 20 sec
+m: x4 vs buildings x10 vs walls
+
+BARRACK
+Militia-Swordman-Long Swordman-2 Handed Swordman-Champion [infantry]
+HP 160-230-300-350-400
+Atk 8-10-12-15-18 [24]
+Rof 1.25
+los 21
+Armor 0/0-2/1-3/2-3/3-4/4 [10/10]
+Speed 25
+Cost 50 F 25 G 8 sec  Pop 1->0.75
+Up cost 200 F 100 G (4 units)
+Up cost 300 F 300 G (8 units)
+Up cost 300 F 450 G (10 units)
+Up cost 400 F 650 G (14 units)
+m: x2 vs buildings x1.2 vs shock
+Player start with Militia only in special matches
+LUE(Last Upgrade Effect): +14% Hp, +20% atk, +1/1 armor, repays 70 units
+
+Spearman-Pikeman-Halberdier [infantry,spearman]
+HP 160-220-330
+Atk 8-10-15 [21]
+Rof 1.25
+los 21
+Armor 0/0-1/1-3/3 [9/9]
+Speed 25
+Cost 60 F 8 sec  Pop 1->0.6
+Up cost 200 F 250 G (8 units)
+Up cost 400 F 550 G (16 units)
+m: x2.2 vs cavalry x0.25 vs archers x0.7 vs priest x0.6 vs walls
+LUE: +50% Hp, +50% Atk, +2/2 armor, repays 32 units
+
+Archer-Crossbowman-Arbalester [archer]
+HP 110-140-210
+Atk 13-17-24 [30]
+Rof 1.25
+los 24-27-30
+Range 16-18-20
+Armor 1/1-2/2-3/3 [9/9]
+Speed 25
+Cost 30 F 45 G 9 sec  Pop 1->0.75
+Up cost 300 G (4 units)
+Up cost 700 G (9 units)
+m: x1.25 vs infantry x1.5 vs gun/horse archers
+x0.75 vs cavalry/shock x0.3 vs walls x0.5 vs siege x0.2 vs jaguar pet
+LUE: +50% Hp, +41% Atk, +1/1 armor, repays 18 units
+
+Axeman-Elite Axeman [shock]  (uses previous woad rider stats)
+HP 330-450
+Atk 16-21 [27]
+Rof 1.0
+los 21
+Armor 2/3-3/4 [9/10]
+Speed 28
+Cost 75 F 7 sec Pop 1->0.75
+Up cost 450 F 450 G (12 units)
+m: x1.4 vs spearman x2 vs walls/buildings
+LUE: +36% Hp, +31% Atk, +1/1 armor, repays 36 units
+
+STABLE
+Knight-Cavalier-Paladin [cavalry]
+HP 340-390-420
+Atk 16-18-21 [27]
+Rof 1.25
+los 24
+Armor 2/4-3/4-3/6 [9/12]
+Speed 28
+Cost 80 F 45 G 10 sec
+Up cost 400 G (3 units)
+Up cost 550 F 950 G (11 units)
+m: x0.7 vs spearman
+LUE: +8% Hp, +17% Atk, +0/1 armor, repays 88 units
+
+Light cavalry-Hussar [cavalry]
+HP 200-300
+Atk 8-12 [18]
+Rof 1.25
+los 30
+Armor 2/2-3/3 [9/9]
+Speed 30
+Cost 75 F 10 sec Pop 1->0.75
+Up cost 400 G (5 units)
+m: x3.5 vs priest x2.5 vs siege
+resist conversion x3
+LUE: +50% Hp, +50% Atk, +1/1 armor, repays 10 units
+
+Horse Archer-Heavy Horse Archer [cavalry, horse archer]
+HP 200-240
+Atk 19-27 [33]
+Rof 1.25
+los 27-30
+Range 18-22
+Armor 2/2-3/3 [9/9]
+Speed 28
+Cost 55 F 65 G 9 sec
+Up cost 600 F 600 G (10 units)
+m: x0.6 vs archers x0.2 vs walls x1.3 vs spearman x1 vs cavalry/shock
+x0.2 vs jaguar pet
+LUE: +20% Hp, +42% Atk, +1/1 armor, repays 30 units
+
+Camel Rider-Heavy Camel Rider [cavalry]
+HP 240-320
+Atk 28-35 [41]
+Rof 1.25
+los 21
+Armor 1/0-3/2 [9/8]
+Speed 28
+Cost 60 F 40 G 10 sec
+Up cost 500 F 500 G (10 units)
+m: x1.5 vs cavalry x0.75 vs archers
+LUE: +33% Hp, +25% Atk, +2/2 armor, repays 30 units
+
+SIEGE WORKSHOP
+Battering Ram-Capped Ram-Siege Ram [siege]
+HP 450-530-600
+Atk 110-140-170
+Rof 1.25
+los 21
+Armor 0/0
+Speed 16
+Cost 20 F 115 G 28 sec
+Up cost 450 G (3 units)
+Up cost 650 G (5 units)
+Can only hit buildings, take double damage from all melee attacks
+LUE: +13% Hp, +21% Atk, repays 15 units
+
+Artillery-Heavy Artillery [siege, gun]
+HP 60-75
+Atk 120-150
+Rof 1.25
+los 36
+Range 28
+Armor 0/3-0/5
+Speed 22
+Cost 75 F 225 G 28 sec Pop 1.5
+Up cost 800 G (3 units)
+m: x0.4 vs infantry x0.5 vs siege x9 vs walls 
+x3 vs buildings x0.2 vs jaguar pet
+LUE: +25% Hp, +25% Atk, +0/2 armor, repays 12 units
+
+Catapult-Heavy Catapult [siege]
+HP 120-150
+Atk 160-200
+Blast 2-3
+Rof 1.25
+los 36
+Range 28
+Armor 0/3-0/5
+Speed 16
+Cost 100 F 300 G 40 sec Pop 2
+Up cost 600 F 600 G (3 units)
+m: x10 vs walls x3 vs buildings x0.5 vs infantry/siege x0.2 vs jaguar pet
+LUE: +25% Hp, +25% Atk, +0/2 armor, repays 12 units
+
+Ballista-Heavy Ballista [siege]
+HP 200-260
+Atk 18-24 [30]
+Rof 1.0
+los 24-30
+Range 18-24
+Armor 0/4-2/6 [8/12]
+Speed 22
+Cost 40 F 60 G 20 sec
+Up cost 350 F 350 G (7 units)
+m: x0.4 vs buildings x0.25 vs walls x0.75 vs cavalry x0.2 vs jaguar pet
+LUE: +30% Hp, +33% Atk, +2/2 armor, repays 21 units
+
+TEMPLE
+Priest-High Priest [priest]
+HP 100-150 [300]
+Heal 16-20 [30]
+Rof 1.25
+los 30 [40]
+Range 27 [36]
+Armor 0/4
+Speed 20 [25]
+Cost 100 G 25 sec
+m: none
+
+
+
+
+
+----
+UNITA UNICHE
+----
+Chu ko nu [archer]
+HP 180-240
+Atk 13-17 [23]
+Rof 2.5
+los 24-27
+Range 18-21
+Armor 2/4-3/5 [9/11]
+Speed 25
+Cost 55 F 45 G 15 sec
+Up cost 650 F 750 G (14 units)
+m: x1.25 vs infantry x1.5 vs gun/horse archers
+x0.75 vs cavalry/shock x0.3 vs walls x0.5 vs siege x0.2 vs jaguar pet
+LUE: +33% Hp, +30% Atk, +1/1 armor, repays 42 units
+
+Guan dao [infantry]
+HP 440-535
+Atk 14-20 [26]
+Rof 2.5
+los 21
+Armor 2/2-3/3 [9/9]
+Speed 25
+Cost 60 F 40 G 15 sec
+Up cost 400 F 400 G (8 units)
+m: x2 vs buildings
+LUE: +21% Hp, +42% Atk, +1/1 armor, repays 27 units
+----
+Eagle Warrior [shock]
+HP 320-480
+Atk 14-19 [25]
+Rof 1.25
+los 27
+Armor 2/3-3/4 [9/10]
+Speed 28
+Cost 35 F 40 G 10 sec Pop 1->0.75
+Up cost 950 F 150 G (14 units)
+m: x1.5 vs priest x2 vs walls
+LUE: +50% Hp, +35% Atk, +1/1 armor, repays 28 units
+
+Jaguar Warrior [infantry]
+HP 240-400
+Atk 20-28 [34]
+Rof 1.25
+los 21
+Armor 2/3-4/4 [10/10]
+Speed 25
+Cost 65 F 55 G 16 sec
+Up cost 500 F 500 G (8 units)
+m: x2 vs walls/buildings x1.5 vs infantry
+Comes with a jaguar pet, it doesn't occupy extra population
+LUE: +67% Hp, +40% Atk, +2/1 armor, repays 16 units
+
+Jaguar Pet [infantry]
+HP 280-400
+Atk 15-20 [26]
+Rof 1.25
+los 21
+Armor 0/1-1/2 [7/8]
+Speed 28
+m: x0.25 vs walls x0.75 vs infantry
+LUE: +42% Hp, +33% Atk, +1/1 armor, repays 20 units
+----
+Teutonic Swordman [infantry]
+HP 450-650
+Atk 25-33 [39]
+Rof 1.25
+los 21
+Armor 2/4-3/5 [9/11]
+Speed 22
+Cost 60 F 40 G 15 sec
+Up cost 500 F 500 G (10 units)
+m: none
+LUE: +44% Hp, +32% Atk, +1/1 armor, repays 20 units
+
+Teutonic Knight [cavalry]
+HP 600-720
+Atk 16-20 [26]
+Rof 1.25
+los 21
+Armor 2/4-3/6 [9/12]
+Speed 22
+Cost 80 F 40 G 12 sec
+Up cost 450 F 350 G (7 units)
+m: x0.7 vs spearman
+LUE: +20% Hp, +25% Atk, +1/2 armor, repays 28 units
+----
+Gallowglass [shock] (uses previous huskarl stats)
+HP 320-430
+Atk 14-18 [24]
+Rof 1.25
+los 21
+Armor 2/5-3/6 [9/12]
+Speed 25
+Cost 40 F 30 G 9 sec  Pop 1->0.75
+Up cost 600 F 600 G (17 units)
+m: x2 vs buildings/walls
+LUE: +34% Hp, +29% Atk, +1/1 armor, repays 51 units
+----
+Jannissary [gun]
+HP 180-250
+Atk 40-54 [60]
+Rof 1.25
+Cooldown 3
+los 27-30
+Range 21-24
+Armor 1/0-3/2 [9/8]
+Speed 25
+Cost 55 F 65 G 17 sec
+Up cost 350 F 600 G (8 units)
+m: x1.2 vs infantry x0.35 vs walls x0.2 vs jaguar pet
+LUE: +38% Hp, +35% Atk, +2/2 armor, repays 21 units
+
+Mameluke [cavalry]
+HP 240-320
+Atk 32-40 [46]
+Rof 1.25
+los 15-18
+Range 12-15
+Armor 1/0-3/2 [9/8]
+Speed 28
+Cost 60 F 60 G 17 sec
+Up cost 600 F 600 G (10 units)
+m: x1.4 vs cavalry x0.7 vs archers x0.8 vs teutonic swordman
+LUE: +33% Hp, +25% Atk, +2/2 armor, repays 40 units
+----
+Cataphract [cavalry]
+HP 360-440
+Atk 15-21 [27]
+Rof 1.25
+los 21
+Armor 1/3-3/6 [9/12]
+Speed 28
+Cost 50 F 40 G 12 sec
+Up cost 350 F 350 G (8 units)
+m: x2 vs spearman
+Take no anti cavalry bonus damage, but take normal damage from archers
+LUE: +22% Hp, +40% Atk, +2/3 armor, repays 20 units
+
+Varangian Guard [infantry]
+HP 260-355
+Atk 17-23 [29]
+Rof 1.25
+los 21
+Armor 3/3-4/4 [10/10]
+Speed 25
+Cost 65 F 35 G 12 sec
+Up cost 500 F 500 G (10 units)
+m: none
+regen 9 hp per seconds, take -50% damage from buildings
+LUE: +36% Hp, +35% Atk, +1/1 armor, repays 30 units
+----
+Longbowman [archer]
+HP 240-300
+Atk 13-16 [22]
+Rof 1.25
+los 36-39
+Range 24-28
+Armor 2/3-3/3 [9/9]
+Speed 25
+Cost 100 F 14 sec
+Up cost 500 F 500 G (10 units)
+m: x0.8 vs buildings/walls x0.2 vs jaguar pet
+LUE: +25% Hp, +22% Atk, +1/0 armor, repays 40 units
+----
+Conquistador [cavalry, gun]
+HP 200-240
+Atk 42-54 [60]
+Rof 1.0
+Cooldown 3
+los 27
+Range 20
+Armor 1/0-3/0 [9/6]
+Speed 28
+Cost 65 F 55 G 16 sec
+Up cost 500 F 500 G (8 units)
+m: x1.2 vs eagle warriors x0.35 vs walls x0.2 vs jaguar pet
+LUE: +20% Hp, +28% Atk, +2/0 armor, repays 32 units
+
+Arquebusier [gun]
+HP 240-300
+Atk 24-32 [38]
+Rof 1.0
+los 21
+Range 16
+Armor 3/1-3/3 [9/9]
+Speed 25
+Cost 50 F 50 G 15 sec
+Up cost 500 F 500 G (10 units)
+m: x1.3 vs infantry x0.8 vs walls x0.2 vs jaguar pet
+LUE: +25% Hp, +33% Atk, +0/2 armor, repays 30 units
+----
+Frankish Paladin [cavalry]
+HP 380-480
+Atk 16-21 [27]
+Rof 1.25
+los 24
+Armor 2/4-3/6 [9/12]
+Speed 28
+Cost 75 F 50 G 15 sec
+Up cost 750 F 750 G (12 units)
+m: x0.7 vs spearman
+Resist conversion x3
+LUE: +26% Hp, +32% Atk, +1/1 armor, repays 36 units
+****DLC****
+Genoses Crossbowman [archer]
+HP 190-280
+Atk 19-27 [33]
+Rof 1.25
+los 27-30
+Range 18-20
+Armor 3/3-4/4 [10/10]
+Speed 23
+Cost 40 F 60 G 16 sec
+Up cost 700 F 700 G (14 units)
+m: x1.5 vs infantry/cavalry/gun
+x0.75 vs shock x0.3 vs walls x0.5 vs siege x0.2 vs jaguar pet
+LUE: +47% Hp, +42% Atk, +1/1 armor, repays 30 units
+
+Swiss guard [infantry]
+HP 400-540
+Atk 15-24 [30]
+Rof 1.25
+los 21
+Armor 3/3-4/4 [10/10]
+Speed 25
+Cost 65 F 35 G 16 sec
+Up cost 500 F 500 G (10 units)
+m: x2 vs building/cavalry x1.2 vs shock
+LUE: +35% Hp, +60% Atk, +1/1 armor, repays 20 units
+----
+Boyar [cavalry]
+HP 480-600
+Atk 16-20 [26]
+Rof 1.25
+los 21
+Armor 4/5-6/8 [12/14]
+Speed 22
+Cost 80 F 40 G 12 sec
+Up cost 450 F 450 G (8 units)
+m: x0.7 vs spearman
+LUE: +25% Hp, +25% Atk, +2/3 armor, repays 32 units
+
+Winged Hussar [cavalry]
+HP 280-400
+Atk 10-15 [21]
+Rof 1.25
+los 30
+Armor 2/2-3/3 [9/9]
+Speed 30
+Cost 100 F 20 sec
+Up cost 150 F 450 G (6 units)
+m: x4 vs priest x3 vs siege
+resist conversion x3
+LUE: +42% Hp, +50% Atk, +1/1 armor, repays 12 units
+----
+Chakram Thrower [archer]
+HP 180-240
+Atk 8-10 [16] pass through damage up for 4 targets, full damage
+Rof 1.25
+los 24-27
+Range 18-21
+Armor 2/4-3/5 [9/11]
+Speed 25
+Cost 55 F 45 G 15 sec
+Up cost 750 F 650 G (14 units)
+m: x1.2 vs infantry/spearman x1.5 vs gun
+x0.75 vs cavalry/shock x0.5 vs walls/siege x0.2 vs jaguar pet
+LUE: +33% Hp, +25% Atk, +1/1 armor, repays 45 units
+
+Ghulam [shock] (uses previous huskarl stats)
+HP 300-450
+Atk 14-18 [24]
+Rof 1.25
+los 21
+Armor 2/5-3/6 [9/12]
+Speed 25
+Cost 40 F 30 G 9 sec  Pop 1->0.75
+Up cost 600 F 600 G (17 units)
+m: x2 vs buildings/walls
+LUE: +50% Hp, +28% Atk, +1/1 armor, repays 51 units
+----
+Dahomey warrior [infantry]
+HP 210-280
+Atk 20-26 [32]
+Rof 1.25
+los 21
+Range 12-15
+Armor 2/2-3/3 [9/9]
+Speed 28
+Cost 50 F 50 G 15 sec
+Up cost 500 F 500 G (10 units)
+m: x1.25 vs infantry
+LUE: +33% Hp, +30% Atk, +1/1 armor, repays 30 units
+
+
+DISCARDED UNITS
+Dark Knight  [cavalry]
+HP 300-400
+Atk 15-20 [26]
+Rof 1.25
+los 21
+Armor 7/10-10/14 [16/20]
+Speed 22
+Cost 80 F 40 G 12 sec
+Up cost 450 F 450 G (8 units)
+m: x0.7 vs spearman
+LUE: +33% HP, +33% Atk, +3/4 armor, repays 24 units
+

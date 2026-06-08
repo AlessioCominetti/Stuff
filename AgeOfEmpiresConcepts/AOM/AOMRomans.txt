@@ -1,0 +1,88 @@
+********
+*ROMANS*
+********
+
+Buildings
+I-House, Storehouse, Mill, Palisade, Dock, Temple
+II-Town Center, Stone Wall, Tower, Barrack, Archery Range, Stable, Blacksmith, Market, Farm
+III-Castrum, Siege Workshop
+
+TOWN CENTER
+--Villager--
+HP 80
+Atk 6  Rof 1  4x vs towers  2x vs siege
+Armor 0%
+Speed 4
+Cost 50 F 1 pop 18 sec  max 100
+
+BARRACK
+--Hastatus/Princep/Triarius--
+55 F 35 G 2 pop 12 sec
+HP 100 Speed 4 armor 50/30%  Atk 10 rof 1     (2x vs cavalry with power)
+Upgrade himself after every level up: +20% Hp/atk per upgrade
+--Legionarius-- Available only through Marian Reforms, replace hastatus
+50 F 30 G 2 pop 5 sec
+HP 100 Speed 4 armor 50/30% Atk 6 rof 1   True damage
+--Pretorian-- Available only through Imperial Reform
+100 F 80 G 4 pop 16 sec
+HP 240 speed 4 armor 40/20%  Atk 20  rof 1
+--Secutor--
+80 F 80 G 4 pop 10 sec
+HP 200 speed 3.2 armor 50/70%  Atk 8  rof 1   6x vs building 2x vs infantry
+--Milite--  Also available at Town Centers
+70 F 1 pop 3 sec
+HP 90 speed 5 armor 10/10% (40/40 with power) 
+Atk 4  rof 1   1.25x vs archers  2x vs cavalry
+
+ARCHERY RANGE
+--Sagittarius--
+60 W 30 G 2 pop 14 sec
+HP 60 Speed 4 armor 25/25%   
+Atk 5 rof 1 range 16 (20 with power) 1.5x vs infantry
+--Velite--
+60 W 20 G 2 pop 10 sec
+HP 50 Speed 5 armor 30/50%   
+Atk 5 rof 1.5 range 18  4x vs archer
+--Balearic Slinger--
+60 W 40 G 2 pop 6 sec
+HP 55 speed 4 armor 10/10%  
+Atk 4  rof 1  range 24   True damage
+
+STABLE
+--Auxilia Eques--
+40 F 80 G 3 pop 15 sec
+HP 150 speed 5.5 armor 25/50%  Atk 10 rof 1   1.5x vs archer   2x vs buildings
+--Pretorian Cavalry--
+70 F 50 G 3 pop 12 sec
+HP 150  speed 6 armor 25/40%  Atk 7  rof 1   3x vs cavalry   1.5x vs archers
+--Numidian Eques---
+45 W 45 G 2 pop 10 sec
+HP 100 speed 7 armor 25/50%   Atk 6  rof 1  range 14    2x vs archers
+--Cataphract--
+50 F 100 G 3 pop 12 sec
+HP 200 speed 5 armor 25/50%   Atk 10 rof 1  1.5x vs infantry
+
+SIEGE WORKSHOP
+--Onager--
+240 W 240 G 6 pop 30 sec
+HP 150 speed 2.4 armor 30/90% Atk 50/300  rof 4  range 10-28  blast 8  2.5x vs ship
+--Scorpio--
+150 W 150 G 3 pop 18 sec
+HP 90 speed 3.2 armor 20/90%  Atk 22/20 rof 0.6  range 10-28  3x vs ships  50% pierce
+--Siege Tower--
+375 W 240 G 6 pop 30 sec
+HP 720 Speed 3.2 armor 10/90%   Atk 6/30  rof 1  range 10  Garrison 6
+--Battering ram--
+240 W 240 G 6 pop 30 sec   Garrison 10   +5% atk for each garrisoned unit
+HP 600 speed 3.2 armor 10/90% Atk 10/120  rof 1
+
+SHIPYARD
+--Trireme--Arrow ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 5.5 armor 50/30%  Atk 16 rof 1  range 15
+--Quadrireme--Hammer ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 7 armor 40/25%    Atk 50 rof 3  range 2
+--Quinquireme--Catapult ship
+100 W 50 G 3 pop 15 sec
+HP 300 speed 4.8 armor 0/50%  Atk 16  rof 1  range 20    2x vs archer ship

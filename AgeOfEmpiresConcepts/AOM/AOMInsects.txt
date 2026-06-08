@@ -1,0 +1,124 @@
+*********
+*INSECTA*
+*********
+-Start with 3 worker ants, 2 legionary ants and a Queen
+-Start with 200 F 200 W
+-Obtain favor by feeding the Queen with F
+-Can sell W for F at a constant 3 -> 2 ratio
+-Fortress is constructable in Feudal Age, train all units and develop upgrades
+-Towers act as drop off point
+
+COMMON UNITS
+
+--worker ant--
+70 F 1 pop 26 sec 75 max
+HP 75
+Atk 8 Rof 1   4x vs towers
+Armor 25/35%
+Speed 4
+Work 33% faster than normal villagers
+FORTRESS
+--Legionary ant--
+90 F 2 pop 12 sec
+HP 100
+Atk 10 Rof 1     [50% true damage with ] [1.5x vs cavalry with ] [2x vs infantry with ]
+Armor 50/30%
+speed 4.5
+--Wasp Lancer-- flier
+90 W 2 pop 12 sec
+HP 100
+Atk 10 Rof 1
+Range 1
+Armor 20/50%
+Speed 6
+---Cicada Archer--
+90 W 2 pop 15 sec
+HP 60
+Atk 6 Rof 1   [2x vs archers with ]
+Range 15 [18 with ]
+Armor 30/30%
+Speed 5
+ELITE CHAMBERS
+--Centipede Centurion--
+200 G 5 pop 15 sec
+HP 250
+Atk 10 Rof 1   6x vs buildings 3x vs archers/siege
+Armor 50/70%
+Speed 4
+--Mantis Swordman--
+200 G 5 pop 15 sec
+HP 200
+Atk 12 Rof 1   2x vs infantry/cavalry
+Armor 50/30%
+Speed 5.5
+Fury: +10% atk for each consecutive hit, up to +100% [+150% with ],
+bonus disappear when unit stops fighting for over 3 seconds 
+--Halbeerdier--
+200 G 5 pop 20 sec
+HP 300
+Atk 15 Rof 1  3x vs cavalry
+Armor 20/20%
+Speed 5
+--Bettle Bombardier--
+300 F 3 pop 12 sec
+HP 150
+Atk 7/75 Rof 1
+Armor 55/95%
+Speed 3.6
+--Palintone--
+400 W 400 G 10 pop 50 sec
+HP 300
+Atk 100/600 Rof 5   2.5x vs ships
+Range 12-32    Blast 8
+Armor 30/90%
+Speed 2.0
+HEROES CHAMBERS
+--Queen--
+Become stronger for every 100 units of F given to her, cannot grow more than
+the age she's currently in. Age up by using F. At most 1, 2 with a special god's power.
+HP 180-390-780-1650
+Atk 4-20-30-52 Rof 1   10x vs myth
+Range 1-4-10-12
+Armor 40/40%
+Speed 4.4
+Age up I 300 F 30 sec
+Age up II 500 F 60 sec
+Age up III 750 F 120 sec
+Birth Giver: when not in battle, she summon one worker ant every minute
+Birth Giver+: she can be toggled to summon legionary ants
+--Shaman--
+200 G 4 pop 20 sec   5 max
+HP 110-125-150
+Atk 4-6-8 Rof 1   5x vs myth
+Range 12-16-20
+Heal 20 HP/sec Range 10
+Armor 40/40%
+Speed 4
+MYTH CHAMBERS
+--Parasitic Spider--
+300 G 5 pop 30 favour 25 sec
+HP 625
+Atk 25 Rof 1   2x vs myth  0.5x vs heroes
+Armor 60/70%
+Speed 6
+Off spring Burst: explode a unit with less than 500 hp, spawning 2 spiderlings [4 with ], CD 20 sec
+--Spiderling--
+HP 100
+Atk 10 Rof 1
+Armor 20/20%
+Speed 5
+Last 20 seconds after hatching
+--Spider Warrior--
+300 G 5 pop 25 favour 30 sec
+HP 500
+Atk 25 Rof 1   2x vs myth 0.5x vs heroes
+Armor 50/50%
+Speed 5
+Poison Talon: apply 300 hp/min poison for 15 seconds, doesn't stack
+--Tarantula Mage--
+400 G 5 pop 35 favour 30 sec
+HP 1250
+Atk 30/20 Rof 1  3x vs myth  0.5x vs heroes
+Armor 30/60%
+Speed 5
+Stun Spell: enemies in 8 tiles gets stunnes for 4 seconds, CD 30 sec

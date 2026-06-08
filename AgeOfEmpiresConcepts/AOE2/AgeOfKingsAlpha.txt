@@ -1,0 +1,327 @@
+UNITS
+Villager
+HP 25
+Atk 3
+Armor 0/0 [1/1]
+Speed 0.8 [0.88]
+Cost 50 F 20 sec
+
+BARRACK
+Swordman-Man-at-arms-2-h-sword-Champion
+HP 50-60-70-160
+Atk 5-7-9-13 [20]
+Armor 0/1-1/1-2/1-3/1 [10/4]
+Speed 1.0 [1.15]
+Cost 75 F 15 G 25 sec (cost 75 F in Dark Age)
+Up cost 120 F 50 G 25 sec
+Up cost 140 F 50 G 30 sec
+Up cost 1400 F 600 G 35 sec
+
+Spearman
+HP 40-50-50-100
+Atk 3-7-9-13 [20]
+vs cavalry +2+4+2+2 [10]
+Armor 0/0-1/0-3/1-4/1 [11/4]
+Range 1
+Speed 1.0 [1.15]
+Cost 75 F 20 G 20 sec (cost 60 F in Dark Age)
+Up cost 180 F 90 G 25 sec
+Up cost 300 F 100 G 30 sec
+Up cost 1800 F 700 G 35 sec
+
+ARCHERY RANGE
+Archer
+HP 45-55
+Atk 5-7 [11]
+Armor 0/0 [3/3]
+Range 5-6 [9]
+Speed 1.0
+Cost 40 F 20 G 16 sec (cost 50 F 20 W in Dark Age)
+Up cost 140 F 80 W 30 sec
+
+Crossbowman
+HP 50-55
+Atk 8-10 [14]
+Armor 0/0-1/0 [4/3]
+Range 7 [10]
+Speed 1.0
+Cost 60 F 40 G 20 sec
+Unlock 180 F 100 W 40 sec
+Up cost 500 F 1000 G 50 sec
+
+Horse archer
+HP 60-90
+Atk 8-9 [13]
+Armor 0/2 [3/5]
+Range 5-6 [9]
+Speed 1.5 [1.8]
+Cost 60 F 90 G 32 sec
+Up cost 1650 F 800 G 40 sec
+
+STABLE
+Scout
+HP 60
+Atk 3 [10]
+Armor 0/0 [7/6]
+Speed 1.5 [1.8]
+Cost 100 F 20 sec
+
+Knight
+HP 150-150-180
+Atk 8-10-12 [19]
+Armor 0/0-1/1-3/1 [10/7]
+Range 1
+Speed 1.5 [1.8]
+Cost 70 F 80 G 35 sec (cost 50 F 60 W in Castle Age)
+Unlock 200 F 40 sec
+Up cost 350 F 125 G 40 sec
+Up cost 2000 F 850 G 40 sec
+
+CHURCH
+Monk
+HP 30
+heal 2
+Armor 0/0
+Range 7
+Speed 0.8
+Cost 150 G 25 sec
+
+SIEGE WORKSHOP
+Battering ram
+HP 200-250
+Atk 100-150   fire/2
+Armor 5/8-7/11
+Speed 0.4
+Cost 150 W 50 G 25 sec
+Up cost 400 F 400 G 50 sec
+
+Mangonel 
+HP 100-150
+Atk 40-50
+Armor 0/0
+Range 10-14
+Speed 0.8
+Cost 200 W 95 G 25 sec
+Unlock 175 F 300 W 30 sec
+
+Bombard Cannon
+HP 150
+Atk 50
+Armor 0/0
+Range 14
+Speed 0.8
+Cost 230 W 80 G 25 sec
+Unlock 350 F 300 W 100 sec
+
+Hand cannon
+HP 60
+Atk 17
+Armor 2/2
+Range 11
+Speed 1.0
+Cost 100 G 180 F 35 sec
+Unlock 750 F 900 W 100 sec
+
+Scorpio
+HP 60
+Atk 40
+Armor 0/0
+Range 9
+Speed 0.8
+Cost 120 W 70 G 25 sec
+Unlock 200 W 150 F 35 sec
+
+Trebuchet
+HP 250
+Atk 60
+Armor 0/0
+Range 15
+Speed 0.7
+Cost 450 W 150 G 15 sec
+Unlock 400 G 1300 W 100 sec
+
+SHIPYARD
+Fishing ship
+HP 45
+Speed 1.5
+Cost 50 W 20 sec
+
+Trade ship
+HP 75
+Speed 2.0
+Cost 300 W 200 G 15 sec
+
+Transport ship
+HP 250
+Speed 2.0 
+garrison 10
+Cost 100 W 30 sec
+
+Galley
+HP 120-160
+Atk 8-12 [16]
+Armor 0/0
+Range 7-9 [12]
+Speed 2.0
+Cost 150 W 20 G 30 sec (cost 135 W in Feudal Age)
+Up cost 200 W 150 F 50 sec
+
+Cannon Galley
+HP 200
+Atk 50
+Armor 0/0
+Range 11
+Speed 1.5
+Cost 200 W 100 G 40 sec
+Unlock 250 F 300 W 100 sec
+
+UNIQUE
+Cataphract
+HP 210
+Atk 14 [21]
+Armor 6/4 [13/7]
+Speed 1.2 [1.44]
+
+Chu ko nu
+HP 90
+Atk 9 [13]
+Armor 1/0 [4/3]
+Range 4 [7]
+Speed 1.0
+
+Dervisher
+Hp 165
+Atk 18 [25]
+Armor 3/1 [10/4]
+Speed 1.0 [1.15]
+
+Longbowman
+HP 90
+Atk 6 [10]
+Armor 1/0 [4/3]
+Range 7 [10]
+Speed 1.0
+
+Gothic guard
+HP 300
+Atk 17 [24]
+Armor 0/0 [7/3]
+Speed 1.3 [1.5]
+
+Persian cavalry
+HP 210
+Atk 10 [17]
+Armor 3/2 [10/8]
+Range 0 [3]
+Speed 1.5 [1.8]
+
+Samurai
+HP 150
+Atk 15 [22]
+Armor 6/1 [13/4]
+Speed 1.0 [1.15]
+
+Jannissary
+HP 240
+Atk 16
+Armor 7/1 [10/4]
+Range 4 [7]
+Speed 1.0
+
+Teutonic Knight
+HP 180
+Atk 22 [29]
+Armor 7/2 [14/5]
+Speed 0.7 [0.8]
+
+Axe thrower
+HP 160
+Atk 24 [31] fire/3
+Armor 2/1 [9/4]
+Range 3
+Speed 1.0 [1.15]
+
+Viking
+HP 75
+Atk 10 [17]
+Armor 0/0 [7/3]
+Speed 1.0 [1.15]
+
+Woad Rider
+HP 150
+Atk 12 [19]
+Armor 0/0 [7/3]
+Speed 1.5 [1.72]
+
+Mobile Scorpio
+HP 75
+Atk 30
+Armor 0/0
+Range 7
+Speed 1.0
+
+BUILDINGS
+House cost 30 W HP 350
+Mill 120 W HP 1000
+Blacksmith 120 W HP 1000
+Market 150 W HP 1000 Garrison 15 Atk 5 Range 9
+Trade Workshop 150 W HP 1000 Garrison 10
+Dock 100 W HP 1000
+Farm 100 W HP 125  provide +300 F
+Barrack 125 W HP 1000 Garrison 10 Atk 10 Range 7
+Archery Range 125 W HP 1000 Garrison 10 Atk 10 Range 7
+Stable 150 W HP 1000
+Siege workshop 200 W HP 1000
+Town Center200 W HP 1200 Garrison 5-10-15-20 Atk 5 Range 11
+University 200 W HP 1000
+Church 200 W HP 1000 Garrison 10 Atk 10 Range 7
+Palisade 5 W HP 200
+Stone wall 5 S HP 800
+Castle 900 W 750 S HP 4500 Garrison 50-75 Atk 10 Range 11
+Wonder 1000 W 700 S 800 G  HP 1200
+Watch/Guard/Keep/Bombard
+Cost 150 S / 120 S 150 F/ 300 S 500 F / 800 S 1800 F
+HP 1000-1200-1400-1400 Atk 4-6-8-25/2  Range 9-10-10-10
+
+TECHS
+-loom: villagers +1/1 armor  100 F 25 sec
+-town watch: buildings +2 los  100 F 25 sec
+-wheel: villager +10% speed  300 F 25 sec
+-Cartography: share allies los  100 G 25 sec
+-Feudal/Castle/Imperial Age  500/800/1000 F 0/400/800 G 80/100/200 sec
+
+-farm I,II,II: farmer +30/40/50% work rate, +2 carry capacity
+200/250/300 F 50/75/100 W 20/40/50 sec
+-wood I,II: woodcutter work 10% faster, +2 carry capacity
+120/150 F 75/175 W 25/50 sec
+-Nets: fishing ships/fisherman work 15% faster 100 F 30 sec
+
+-shields I,II,III: infantry +0/1 armor 
+50/100/150 F 50/100/200 G 30/35/50 sec
+-armor I,II,III: infantry +2/0 armor, final upgrade +3/0 but -20% speed
+125/175/200 F 90/180/250 G 30/35/50 sec
+-barding I,II,III: cavalry +2/2 armor, final upgrade +3/2
+200/300/400 F 100/300/500 G 30 sec
+-forging I,II,III: melee units +2/2/3 attack
+100/200/300 F 0/120/180 G 20/40/60 sec
+-padded I,II,III: archers +1/1 armor
+125/250/575 F 85/150/315 G 25/35/50 sec
+-fletching I,II,III: archers +1 atk and range
+200/350/350 F 0/100/180 G 25/35/50 sec
+
+-Squires: infantry +15% movement speed 200 F 30 sec
+-Tracking: infantry +2 los 200 F 25 sec
+-Husbandry: mounted units +20% movement speed 300 F 50 sec
+-Conversion: monk can convert units 150 G 35 sec
+
+-Mining I,II: miner work 10% faster, +2 carry capacity
+115/175 F 75/100 W 20/25 sec
+-Chemistry: ranged units +1 atk 200 F 40 sec
+-Unlock gunpowder units 500 F 200 G 50 sec
+-Architecture: buldings +20% HP, villager build 20% faster
+150/150/800 F 175/175/0 W 30/40/75 sec 
+-Unlock Wonder: 500 W 100 sec
+
+CIVS
+Britons, Celts, Franks, Goths, Teutons, Vikings,
+Byzantins, Persians, Saracens, Turks, Chinese, Japanese, Mongols

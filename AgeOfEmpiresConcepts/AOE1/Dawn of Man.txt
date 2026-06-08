@@ -1,0 +1,709 @@
+
+*****GREEK STYLE ARCHITECTURE*******
+GREEKS   +mino
+infantry and naval civilization
+
+-Hoplites and ships cost -20% and move 20% faster
+-Foot archers +2 range
+-Town Center and Docks work 5/10/15/20% faster
+-Farmer work 10% faster
+-Free Astrology
+TB Market and Blacksmiths cost -50%
+Miss: monotheism, paragon, chariots, HA, elephants, camels, cataphract
+
+ROMANS
+infantry and siege civilization
+
+-towers, walls, farms cost -20%, all other buildings cost -10%
+-Swordman attack 50% faster
+-hoplite attack 20% faster
+-Free tower upgrades
+-Ballista +1 range
+TB Priest heal 50% faster
+Miss: afterlife, chariots, elephants, camels, cataphract
+
+MACEDONIANS
+infantry and cavalry civilization
+
+-Hoplite +0/1 armor in III, +0/2 armor in IV
+-All units resist conversion and get +2 los
+-Siege units cost -20%
+-Free Melee armor tech
+TB Houses +50 HP
+Miss: bloodlines, siege engineers, longswordman, chariots, camel rider
+
+CARTHAGINIANS  +palm
+cavalry and naval civilization
+
+-Hoplite, elephants and camels +25% HP
+-Start with +50 in all resources
+-Warships attack 20% faster
+-Free Bloodlines
+TB Techs are researched 30% faster
+Miss: astrology, monotheism, paragon, chariots, cataphract
+
+PHOENICIANS
+elephants and naval civilization
+
+-Catapults and siege trireme fire 33% faster
+-Hoplites +2/4 attack
+-Elephants cost -20%
+-Woodcutter work 20% faster
+TB Archers +2 los
+Miss: siege engineers, HA, heavy lancer, ballista
+
+
+
+***MIDDLE EAST STYLE ARCHITECTURE*****
+EGYPTIANS
+priest and chariots civilization
+
+-chariots and guardian +33% HP
+-gold miner and trading +20% income
+-priest +2/3 range
+-Farms cost -20/30/40%
+TB Temple work 25% faster
+Miss: shield 1, siege engineers, longswordman, HA, heavy catapult, ballista
+
+BABILONIANS  +sumer
+chariots and priests civilization
+
+-priest rejuvenate 100% faster
+-Market techs cost -30%
+-Buildings +20/40/60% HP
+-Chariots, camels and guardian +0/1 armor
+-Stone miner work 20% faster
+TB Builder work 10% faster
+Miss: HHA, elephants, heavy lancer, ballista
+shield 2, astrology, aftrelife, mono,  paragon, elephants, cavalry, ballista
+
+HITTITES
+archers and naval civilization
+
+-Trireme-line +2 range
+-Horse archers and ranged chariots +1 atk
+-Catapult +50% HP
+-guardian attack 50% faster
+TB Military buildings provide +4 population
+Miss: Afterlife, Monotheism, longswordman, heavy lancer, ballista
+
+PERSIANS
+cavalry and archers civilization
+
+-Mounted units move 10% faster
+-Hunter work 30% faster
+-Trireme fire 25% faster
+-guardian +3/6 atk
+TB Military buildings cost -20%
+Miss: chariots, heavy catapult, ballista
+
+ASSYRIANS
+archers and siege civilization
+
+-Villager and guardian move 10% faster
+-Siege upgrades cost -50%
+-Chariot archers fire 20% faster
+-Free archer-line and horse archer upgrades
+TB Wheel cost -50%
+Miss: shield 1, elephants
+
+*****ASIAN STYLE ARCHITECTURE****
+SHANG
+cavalry civilization
+
+-villager cost -20%, start with -40 F
+-Walls cost -40%
+-Mounted units and halberdier attack 10% faster
+TB Town Centers and towers +4 popoulation
+Miss: longswordman, elephants, heavy catapult, camels
+
+CHOSON
+infantry and priests civilization
+
+-Blacksmith and Barrack techs cost -50%
+-Barrack units +1/0 armor in II, +2/1 armor in III, +4/1 armor in IV
+-Priests cost -32%
+-Towers +2 range
+TB Buildings +2 los
+Miss: siege engineers, HHA, elephants, chariots, camels, heavy catapult
+
+YAMATO
+cavalry and naval civilization
+
+-Mounted units cost -20%
+-Ships and halberdier +10/15/20/25% HP
+-Fishing +20%
+-Archery Range and Stable upgrades cost -50%
+TB Town Centers cost -25%
+Miss: shield 3, astrology, monotheism, longswordman, chariots, elephants, camels, ballista
+
+LAC VIET
+archer civilization
+
+-Forager work 20% faster
+-Military buildings work 25% faster
+-Ranged units +2/0 armor
+-Halberdier cost -20%
+TB Houses and farms are built 50% faster
+Miss: afterlife, monotheism, shield 3, siege engineering, camels, cataphract, heavy ballista, paragon
+
+HUNS
+cavalry and siege civilization
+
+-Doesn't need houses, start with -50 W and pop capped
+-Cavalry +25% HP
+-Hunter and forager work 15% faster
+-halberdier and siege units move 20% faster
+TB Mounted units +2 los
+Miss: afterlife, monotheism, camels, elephants, chariots, longswordman, architecture
+
+*****CELTIC STYLE ARCHITECTURE******
+GAULS
+infantry and siege civilization
+
+-Buildings cost -20%, but have -20% HP
+-Free melee attack upgrades
+-Siege weapons fire 25% faster
+-Axeman +2/1 armor - +4/2 armor
+TB swordmen cost -10%
+Miss: elephants, camels, heavy lancer, chariots
+
+GERMANS
+infantry civilization
+
+-Cannot build storehouses, resources are dropped remotely
+-Barrack units cost -20/25/30/35%
+-Aging up is 50% faster
+TB Blacksmith upgrades cost -10%
+Miss: elephants, camels, lancer, ballista, heavy catapult, chariots
+
+BRITONS
+infanty and chariot civilization
+
+-Priest +2/2 armor
+-Blacksmith techs cost no G
+-Barrack, Archery Range, Stable techs cost -20%
+-Barrack units +1/2/3 atk
+-Chariots +2/0 armor - +4/1 armor
+TB Military buildings provide +4 population
+Miss: elephants, camels, ballista, heavy catapult, cataphract
+
+IBERIANS
+infantry and skirmisher civilization
+
+-Free farm and wall upgrades
+-Skirmishers +1 atk
+-Barrack units move 10% faster
+-Farms +125 F
+-Mounted units +0/1 armor
+TB Skirmishers cost -10%
+Miss: elephants, camels, chariots, lancer, ballista, heavy catapult
+
+ILLIRIANS
+infantry and naval civilization
+
+-Barrack units +25% HP
+-Free shield upgrades
+-Gold and stone miner work 10% faster
+-Fishing ships cost -30%
+-Trireme and foot archers +1 atk
+TB Ships move 10% faster
+Miss: elephants, camels, chariots, cataphract, heavy catapult, heavy ballista
+
+UNITS
+villager
+priest
+BARRACK
+axeman-swordman-longswordman-paragon
+spearman-pikeman-elite pikeman
+hoplite-elite hoplite  (regional for greek architecture)
+guardian-elite guardian (regional for egyptians architecture)
+halberdier-elite halberdier (regional for asian architecture)
+axeman-elite axeman (regional for celtic architecture)
+ARCHERY RANGE
+archer-composite bowman-elite composite bowman
+skirmisher-elite skirmisher
+horse archer-elite horse archer
+chariot archer-elite chariot archer (regional for egyptian architecture and PHO, SHA)
+elephant archer (regional for MAC, PHO, CAR, EGY, PER)
+STABLE
+scout cavalry-light cavalry
+lancer-heavy lancer-cataphract
+chariot-scythed chariot (regional for egyptian architecture and PHO, SHA)
+war elephant-elite war elephant (regional for MAC, PHO, CAR, EGY, PER)
+camel rider-heavy camel rider (regional for egyptian architecture and PHO,CAR)
+SIEGE WORKSHOP
+catapult-heavy catapult
+ballista-heavy ballista
+battering ram-heavy ram
+SHIPYARD
+fishing ship
+scout ship-galley-trireme
+ram galley-quadrireme
+siege galley-quinquireme
+
+TECHS
+-Market-
+Wood I-III: woodcutter work 20% faster, carry +2 wood  120/180/240 F 75/150/225 W 60/80/100 sec
+Food I-III : farms contain +75/100/125 F    150/250/350 F  50/75/100 W  40/70/100 sec
+Stone I-III: stone miner work 20% faster, carry +2 stone  50/100/150 F 50 S 30 sec
+Gold I-III: gold miner work 20% faster, carry +2 gold 50/100/150 F 50 G 30 sec
+Wheel: villager move 40% faster  150 F 50 W 60 sec
+-Blacksmith-
+Melee armor I-III: military non siege units +2/0 armor   300/375/450 F 0/150/300 G  75/150/225 sec
+Melee attack I-III: melee units +2 atk    100/200/300 F 50/100/150 G  50/75/100 sec
+Pierce armor I-III: units with shields +0/1 armor  150/200/250 F 200/300/400 G 50/75/100 sec
+Ranged attack I-III: ranged units +1 atk and range  50/150/250 F 50/100/150 G 30/60/90 sec
+-Temple- 
+Mysticism: priest +30 HP, +40% speed   COST 240 G   100 sec
+Astrology: priest convert/heal/rejuvenate 30% faster COST 300  100 sec
+Afterlife: priest +3 range  COST 300 G  75 sec
+Monotheism: priest convert buildings and siege COST 300 G  75 sec
+-Accademy-
+Architecture: buildings +25% HP, -33% build time  COST 150 F 200 W 60 sec
+Bloodlines: mounted units +20% HP  COST 175 F 125 G  75 sec
+Ballistics: better aim at moving target COST 200 F 50 G  60 sec
+Siege engineers: ranged siege +2 range  COST 200 F 100 W  75 sec
+Conscription: military buildings work 33% faster  COST 450 F 250 G  60 sec
+Logitstic: swordman occupy -50% population, all infantry units move 20% faster COST 250 F 150 G 60 sec
+
+TECHS availability [not available]
+Shield I: Egyptians
+Shield II: Babylonians, Assyrians
+Shield III: Yamato, Lac Viet
+Ranged attack III: Macedonians
+Astrology: Carthaginians, Romans, Yamato
+Afterlife: Romans, Lac Viet, Hittites, Huns
+Monotheism: Carthaginians, Greeks, Yamato, Lac Viet, Hittites, Huns
+Architecture: Phoenicians, Huns
+Siege engineers: Choson, Macedonians, Shang, Lac Viet
+UNITS
+longswordman:  Egyptians, Macedonians, Shang, Yamato, Hittites, Huns
+paragon: Carthaginians, Greeks, Lac Viet
+elite composite archer: Carthaginians, Choson, Romans
+horse archer: Egyptians, Greeks, Phoenicians, Romans
+heavy horse archer: Babylonians, Choson
+chariot archer: Carthaginians, Choson, Greeks, Macedonians, Romans, Yamato
+elephant archer: Babylonians,, Choson, Greeks, Romans, Shang, Yamato, Assyrians
+chariot: Carthaginians, Choson, Greeks, Macedonians, Yamato, Huns
+cavalry: Egyptians, Babylonians
+heavy cavalry: Phoenicians, Hittites
+Cataphract: Carthaginians, Greeks, Lac Viet
+camel rider: Choson, Greeks, Macedonians, Romans, Yamato, Lac Viet, Huns
+War elephant: Babylonians, Choson, Greeks, Romans, Shang, Yamato, Assyrians, Huns
+Heavy catapult: Carthaginians, Choson, Egyptians, Persians, Phoenicians, Shang, Yamato
+ballista: Babylonians, Egyptians, Persians, Phoenicians, Yamato, Hittites
+
+BUILDINGS
+---
+House
+Cost 25 W 20 sec  2x2 tiles  HP 80
+Provide housing for 4 people
+---
+Town Center
+Cost 200 W 50 sec  4x4 tiles   HP 480
+Train villagers, perform age up, drop off point
+---
+Farm
+Cost 75 W 10 sec  4x4 tiles   HP 100
+Provide 250 F to harvest
+---
+Mill/Storehouse
+Cost 125 W 20 sec 4x4 tiles  HP 320
+drop off point for resources
+---
+Blacksmith/Market/Accademy   HP 320
+Cost 200 W 50 sec 4x4 tiles
+Develop upgrades
+---
+Barrack/Archery Range/Stable/Siege workshop/Temple/Shipyard  HP 320
+Cost 200 W 50 sec   4x4 tiles
+Train units and upgrade them
+---
+Wonder
+Cost 1000 W/S/G 1000 sec  6x6 tiles   HP 480
+Needed for Wonder Victory
+---
+Wall
+Cost 5 S 10 sec 1x1 tiles
+Block units
+HP 200-300-400 [500]
+Armor 0/3-0/4-0/5
+---
+Tower
+Cost 150 S 100 sec  2x2 tiles
+Defensive building
+HP 120-180-240 [300]
+Atk 3-4-6-9 [12]
+Range 5-6-7 [10]
+Armor 0/3-0/4-0/5
+
+
+
+
+
+UNITS
+villager
+HP 40
+Atk 3
+Speed 1.0 [1.4]
+Cost 50 F 20 sec
+Shang: -20% cost
+
+priest
+HP 30 [60]
+Heal 3 [4]
+Range 9 [12]
+Speed 0.8 [1.12]
+Cost 150 G 60 sec
+Roman and allies: +50% heal rate
+Egyptians: +3 range
+Babylonians: +100% rejuvenation
+Choson: -32% cost
+Britons: +2/2 armor
+
+BARRACK
+axeman-swordman-longswordman-paragon
+HP 50-80-100-140
+Atk 5-9-12-14 [20]
+Armor 0-1/0-2/0-2/0 [8/3]
+Speed 1.0 [1.2]
+Cost 35 F 15 G 20 sec
+Up cost 100 F 40 G 20 sec
+Up cost 140 F 60 G 30 sec
+Up cost 200 F 100 G 40 sec
+Up cost 1400 F 600 G 90 sec
+Roman: +50% fire rate
+Choson: +4/1 armor
+Gauls: -10% cost
+Illirians: +25% HP
+Germans: -35% cost
+Britons: +3 atk
+Iberians: +10% speed
+
+spearman-pikeman-elite pikeman
+HP 50-70-100
+Atk 4-7-8 [14]
+vs cavalry +6-10-16
+Armor 0/0-1/0-2/0 [8/3]
+Speed 1.0 [1.2]
+Cost 40 F 10 W 20 sec
+Up cost 100 F 100 W 20 sec
+Up cost 300 F 200 W 40 sec
+Choson: +4/1 armor
+Illirians: +25% HP
+Germans: -35% cost
+Britons: +3 atk
+Iberians: +10% speed
+
+hoplite-elite hoplite  (regional for greek architecture)
+HP 120-160
+Atk 17-30 [36]
+Armor 5/0-8/0 [14/3]
+Speed 1.0 [1.2]
+Cost 60 F 40 G 40 sec
+Up cost 2100 F 800 G 120 sec
+Greek: -20% cost, +20% speed
+Roman: +20% fire rate
+Cartha: +30/40 HP
+Phoeni: +2/4 atk
+Macedon: +0/1 armor - +0/2 armor
+
+guardian-elite guardian (regional for egyptians architecture)
+HP 100-120
+Atk 14-20 [26]
+vs infantry +6-10
+Armor 5/0-8/0 [14/3]
+Speed 1.0 [1.2]
+Cost 70 F 30 G 40 sec
+Up cost 700 F 300 G 40 sec
+Egypt: +33/40 HP
+Babylon: +0/1 armor
+Persia: +3/6 atk
+Assyria: +10% movement speed
+Hittites: +50% fire rate
+
+halberdier-elite halberdier (regional for asian architecture)
+HP 100-120
+Atk 14-20 [26]
+vs cavalry +6-10
+Armor 5/0-8/0 [14/3]
+Speed 1.0 [1.2]
+Cost 70 F 30 G 40 sec
+Up cost 2100 F 800 G 120 sec
+Shang: +10% fire rate
+Choson: +2/1 armor - +4/1 armor
+Yamato: +25/30 HP
+Lac Viet: -20% cost
+Huns: +20% speed
+
+axeman-elite axeman (regional for celtic architecture)
+HP 90-120
+Atk 15-24 [30]
+vs cavalry +2-4
+Armor 6/1-10/1 [16/4]
+Speed 1.0 [1.2]
+Cost 50 F 50 G 40 sec
+Up cost 2100 F 800 G 120 sec
+Illirians: +25% HP
+Germans: -35% cost
+Britons: +3 atk
+Iberians: +10% speed
+Gauls: +4/2 armor
+
+ARCHERY RANGE
+archer-composite bowman-elite composite bowman
+HP 40-50-60
+Atk 2-3-4 [7]
+Range 5-6-7 [10]
+Armor 0/0 [6/0]
+Speed 1.0
+Cost 55 F 25 G 30 sec
+Up cost 120 F 80 W 15 sec
+Up cost 180 F 120 W 30 sec
+Greek: +2 range
+Lac Viet: +2/0 armor
+Illirians: +1 atk
+
+skirmisher-elite skirmisher
+HP 50-60
+Atk 2-3 [6]
+vs archers +6-9
+Range 4 [7]
+Armor 0/2-0/4 [6/7]
+Speed 1.0
+Cost 80 F 20 W 40 sec
+Up cost 300 F 200 W 45 sec
+Lac Viet: +2/0 armor
+Iberians: +1 atk
+
+horse archer-elite horse archer
+HP 60-80 [96]
+Atk 5-6 [9]
+Range 6-7 [10]
+Armor 0/1 [6/1]
+Speed 2.0
+Cost 60 F 60 G 50 sec
+Up cost 1600 F 800 G 75 sec
+Hittites: +1 atk
+Persians: +10% movement speed
+Lac Viet: +2/0 armor
+Shang: +10% fire rate
+Yamato:-20% cost
+Huns: +25% HP
+
+mounted skirmisher-elite mounted skirmisher (regional for celtic architecture)
+HP 60-80 [96]
+Atk 3-4 [7]
+vs archers +6-9
+Range 4 [7]
+Armor 0/2-1/4 [7/7]
+Speed 2.0
+Cost 80 F 40 G 50 sec
+Up cost 1500 F 750 G 75 sec
+Illirians: +1 atk and +0/1 armor
+
+chariot archer-elite chariot archer (regional for egyptian architecture and PHO, SHA)
+HP 100 [120]
+Atk 4 [7]
+Range 7 [10]
+Armor 0/0 [6/0]
+Speed 1.7
+Cost 60 F 90 W 60 sec
+Hittites: +1 atk
+Assyrians: +20% fire rate
+Egyptians: +33% HP
+Persians: +10% movement speed
+Lac Viet: +2/0 armor
+Shang: +10% fire rate
+Britons: +4/1 armor
+Babylonians: +0/1 armor
+
+elephant archer (regional for MAC, PHO, CAR, EGY, PER)
+HP 500 [600]
+Atk 4 [7]
+Range 7 [10]
+Armor 0/0 [6/0]
+Speed 1.0
+Cost 180 F 60 G 60 sec
+Carthage: +25% HP
+Phoenician: -20% cost
+Persians: +10% movement speed
+Lac Viet: +2/0 armor
+
+STABLE
+scout cavalry-light cavalry
+HP 100-150 [180]
+Atk 5-7 [13]
+vs archers +5-7
+Armor 0/0 [6/3]
+Speed 2.0
+Cost 150 F 50 sec
+Up cost 300 F 30 sec
+Persians: +10% movement speed
+Shang: +10% fire rate
+Yamato:-20% cost
+Huns: +25% HP
+Iberians: +0/1 armor
+
+lancer-heavy lancer-cataphract
+HP 150-180-230 [276]
+Atk 8-12-14 [20]
+vs swordman +4-5-6
+Armor 1/0-2/0-5/0 [11/3]
+Speed 1.7
+Cost 70 F 80 G 50 sec
+Up cost 300 F 100 G 45 sec
+Up cost 1600 F 600 G 75 sec
+Persians: +10% movement speed
+Shang: +10% fire rate
+Yamato:-20% cost
+Huns: +25% HP
+
+chariot-scythed chariot (regional for egyptian architecture and PHO, SHA)
+HP 150-180 [216]
+Atk 10-12 [18]
+vs swordman +1-2
+vs archers +1-3
+Trample 0.25-0.5 tiles  25-50% damage
+Armor 0/0-2/0 [8/0]
+Speed 1.7
+Cost 60 F 90 W 50 sec
+Up cost 1400 W 1000 G 75 sec
+Persians: +10% movement speed
+Egyptians: +33% HP
+Babylonians: +0/1 armor
+Shang: +10% fire rate
+Britons: +4/1 armor
+
+war elephant-elite war elephant (regional for MAC, PHO, CAR, EGY, PER)
+HP 500 [600]
+Atk 10-12 [18]
+vs buildings +25-35
+Trample 0.5 tiles 50% damage
+Armor 0/0-2/1 [8/1]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+Up cost 1000 F 1200 G 75 sec
+Carthage: +25% HP
+Phoenicia: -20% cost
+Persians: +10% movement speed
+
+camel rider-heavy camel rider (regional for egyptian architecture and PHO,CAR)
+HP 150-200 [240]
+Atk 7-8 [14]
+vs cavalry +10-20
+Armor 0/0 [6/0]
+Speed 1.7
+Cost 80 F 70 G 50 sec
+Up cost 400 F 400 G 30 sec
+Carthage: +25% HP
+Persians: +10% movement speed
+Babylonians: +0/1 armor
+
+SIEGE WORKSHOP
+catapult-heavy catapult
+HP 75-150
+Atk 60   rof/4
+vs buildings +140
+Range 10-13 [15]   blast 1.0-2.0
+Armor 0/3-0/5
+Speed 0.8
+Cost 180 W 80 G 60 sec
+Up cost 2100 F 900 W 150 sec
+Phoenicia: +33% fire rate
+Macedonia: -20% cost
+Hittites: +50% HP
+Lac Viet: +2/0 armor
+Huns: +20% speed
+Gauls: +25% fire rate
+
+ballista-heavy ballista
+HP 50-60
+Atk 30-40
+Range 9-10 [12]
+Armor 0/2
+Speed 0.8
+Cost 100 W 80 G 50 sec
+Up cost 1200 F 1000 W 100 sec
+Roman: +1 range
+Macedonia: -20% cost
+Lac Viet: +2/0 armor
+Huns: +20% speed
+Gauls: +25% fire rate
+
+battering ram-heavy ram
+HP 120-150
+Atk 1
+vs buildings +40-50
+Armor 6/30-10/40
+Speed 1.0
+Cost 180 W 40 G 50 sec
+Up cost 1200 F 100 sec
+Macedonia: -20% cost
+Huns: +20% speed
+Gauls: +25% fire rate
+
+SHIPYARD
+fishing ship
+HP 50-80
+Speed 1.5-2.0
+Cost 100 W 20 sec
+Greek: -20% cost, +20% speed
+Yamato: +25% HP
+Illirians: -30% cost
+
+scout ship-galley-trireme
+HP 120-160-200
+Atk 4-6-10 [13]
+Range 5-6-7 [10]
+Speed 1.2-1.4-1.6
+Cost 150 W 40 sec
+Greek: -20% cost, +20% speed
+Carthage: +20% fire rate
+Persia: +25% fire rate
+Hittites: +2 range
+Yamato: +25% HP
+Illirians: +1 atk
+
+ram galley-quadrireme
+HP 160-200
+Atk 24-30
+Speed 1.6-2.0
+Cost 120 W 30 G 40 sec
+Greek: -20% cost, +20% speed
+Carthage: +20% fire rate
+Yamato: +25% HP
+
+siege galley-quinquireme
+HP 160-200
+Atk 35   rof/4
+vs buildings +140
+Range 10-12 [14]
+Speed 1.2-1.4
+Cost 150 W 50 G 50 sec
+Greek: -20% cost, +20% speed
+Carthage: +20% fire rate
+Phoenicia: +33% fire rate
+Yamato: +25% HP
+
+
+
+Choson Legion  / RL  / RL+4/1 armor  +++number of hits
+16      22   /   18  / 35
+20      16   /   12  / 18             
+20+6    11   /   8   / 10
+37      8    /   5   / 6
+5p      55   /   70  / 140
+6p      44   /   47  /  70
+7p      37   /   35  /  47
+9p      28   /   24  /  28
+13p     19   /   14  /  16
+45p      5   /   4   /  4
+60       4   /   3   /  3
+
+Chariot dmg   chariot/scyth
+vs sword/ele    6  /  8
+vs ranged       7  /  10
+vs heavy cav    7  /  5
+vs hoplite      2  /  2  

@@ -1,0 +1,67 @@
+ARCHERY RANGE
+FEUDAL    CASTLE    IMPERIAL
+Archer SLOT 1
+archer-war bowman  -elite war bowman
+archer-jungle arche-elite jungle archer
+Crossbowman SLOT 2
+-------crossbowan  -arbalester
+Skirmisher SLOT 3
+skirmisher-slite skirmisher
+Horse Archer SLOT 4
+-------horse archer   -heavy horse archer
+-------elephant archer-elite elephant archer
+-------Samurai Knight -elite Samurai Knight
+Anti infantry SLOT 5
+-------slinger     -elite slinger/hand cannoner-arquebusier
+BARRACK
+Militia SLOT 1
+m-at-arms    -longswordman   -2-h-swordman        -champion
+champi runner-champi warrior -elite champi warrior
+viking raider-viking warrior -elite viking warrior
+kopesh militi-kopesh warrior -elite kopesh warrior
+Spearman SLOT 2
+spearman     -pikeman        -halberdier/heavy pikeman
+holcan spear -holcan pikeman -elite holcan pikeman
+Shock infantry SLOT 3
+eagle scout  -eagle warrior  -elite eagle warrior
+--------------fire lancer    -elite fire lancer
+shieldman    -guard          -elite guard
+SLOT 4
+axeman       -heavy axeman   -elite heavy axeman
+--------------maceman        -elite maceman
+SLOT 5
+footman      -soldier        -elite soldier
+STABLE
+Light cavalry SLOT 1
+scout cavaly -light cavalry  -hussar/winged hussar
+Heavy cavalry SLOT 2
+--------------knight         -cavalier        -paladin/savar
+--------------Sahel rider    -Lifidi Knight
+--------------Jarl           -elite Jarl
+--------------Samurai Knight -elite Samurai Knight
+--------------Druzhina rider -elite Druzhina rider
+Camels SLOT 3
+camel scout  -camel rider    -heavy camel rider -imperial camel rider
+Elephants SLOT 4
+--------------battle elephant-elite battle elephant
+Lancers SLOT 5
+--------------Steppe lancer  -elite Steppe lancer
+--------------Desert lancer  -elite Desert lancer
+--------------Lancer         -elite Lancer
+SIEGE WORKSHOP
+CASTLE   IMPERIAL
+SLOT 1
+mangonel-onager-siege onager
+rocket kart-heavy rocket cart
+SLOT 2
+battering ram-capped ram-siege ram
+armored elephant-siege elephant
+SLOT 3
+Scorpion-heavy scorpion
+War chariot-elite war chariot
+SLOT 4
+----------Bombard cannon-Houfnice
+SLOT 5
+Mantlet-Siege Mantlet
+SLOT 6
+Siege Tower-Armored Siege Tower

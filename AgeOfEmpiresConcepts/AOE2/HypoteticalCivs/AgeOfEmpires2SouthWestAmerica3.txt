@@ -1,0 +1,323 @@
+SOUTH WEST
+ANASAZI: infantry and siege
+MISSISSIPIANS: archers and monks
+HOHOKAN: monks and counter
+
+South West Nord american units have some shared characteristics
+-Have canoes instead of normal navy
+-Fire archer replace trebuchet and Bombard Cannon, can be trained at Archery Range
+-Mantlet replace Battering Rams, can be trained at Siege Workshops
+-Settlers replace villagers
+-No gunpowder or horses
+
+NEW TECHS
+-Fire arrows: Defensive buildings deal more bonus damage to ships,
+all ranged units get +1 atk, and deal +20% move bonus damage
+(replace chemistry and heated shot)
+650 F 300 G 120 sec
+
+BARRACK
+I -club warrior
+II-spearman
+II-selt
+IV-head hunter
+ARCHERY RANGE
+II-archer
+II-skirmisher
+III-fire archer
+SIEGE WORKSHOP
+III-mantlet
+III-mangonel
+III-scorpio
+III-siege tower
+
+UNITS
+LAND
+Mantlet(ranged siege unit)
+HP 90-140
+Atk 5-6 [10]
+vs building 30-40 [48]
+vs siege 8-10 [12]
+Rof 2.0 (+10% fire speed for each garrisoned unit)
+Range 3 [7] Accuracy 50-60%
+Armor 0/100
+Speed 0.6 (+0.1 for each garrisoned unit)
+Garrison 3
+Cost 80 W 40 G 24 sec
+Up cost 1200 F 120 sec 
+
+Fire Archer(archers with long range anti building attack)
+HP 35-40
+Atk 5-6 [10]
+vs ships 8-10 [12]
+vs siege 8-10 [12]
+vs buildings 15-20 [24]
+Rof 2.0 Accuracy 45% (100 vs buildings)
+Range 9 [12]
+Armor 0/4 [3/8]
+Speed 1.0
+Cost 50 W 50 G 32-24 sec
+Up cost 500 F 500 G 100 sec
+Special: arrows set buildings  on fire,
+dealing 5 damage per second for 10 seconds, doesn't stack
+
+Club warrior(replace man-at-arms)
+HP 45-60-75
+Atk 6-9-12 [16]
+vs shock +2-3-4
+vs buildings +2-3-4 [6]
+Rof 2.0
+Armor 0/1-1/2-1/2 [4/6]
+Speed 1.0 [1.1]
+
+War Selt(shock infantry)
+HP 55-65-75
+Atk 5-8-11 [15]
+vs archers +5-6-8
+vs spearman +1-2-3
+vs monks +3-5-8
+Rof 2.0
+Armor 0/2-1/3-2/4 [5/8]
+Speed 1.1-1.15-1.3 [1.43]
+Cost 50 F 40 W 60-35-30 sec
+Up cost 200 F 200 G 40 sec
+Up cost 900 F 450 G 120 sec
+Resist conversion
+
+Head Hunter
+HP 100
+Atk 20 [24]
+Rof 2.0
+Armor 0/0
+Speed 1.3 [1.43]
+Cost 40 F 50 G 30 sec
+Special: heal 10 hp and get +2 atk for each enemy killed, max +5
+
+
+-Settlers(replace villagers, has a ranged bow attack)
+HP 40
+Atk 4 [8]
+Rof 2.0
+Range 3 [6]
+los 4 [7]
+Armor 0/0 [3/4]
+Speed 0.8 [0.96]
+Cost 50 F 25 sec
+Settlers works exactly like villagers, but are affected by
+Archer Armor and Archer attack upgrades.
+For this, these civs lack loom and sappers but start with -50 G.
+
+SHIPS
+Scout canoe (I):
+Small weak warship that excels against the
+boarding canoes and hulk-line, but it is weak
+vs long_range_warships. Replace the fire ship-line.
+Good for scouting.
+HP 60-75-80-100
+Atk 2-3-4-5 [9]
+Rof 2.0
+Armor 0/0 [0/2]
+Speed 1.5 [1.8]
+Cost 50 W 30 G 24-18 sec  0.5 population
+
+Battle canoe (II):
+Replace galley line and catapult galleon.
+Fast small ship that can shoot arrows at units,
+and can shoot at buildings from longer range.
+Cheap and quick to create, but frail.
+HP 75-80-100
+Atk 4-5-6 [10]
+vs long_range_warships +3-4-5
+vs buildings +2-4-6
+Rof 2.0
+Range 5-6-7 [10]  +3 vs buildings
+Armor 0/4-0/4-0/8 [0/10]
+Speed 1.4 [1.68]
+Cost 60 W 20 G 24-18 sec  0.5 population
+
+Boarding Canoe (II):
+Fast warship that replace the hulk-line.
+After bringing down a ship's hp to 20%,
+convert said unit to player.
+HP 65-90
+Atk 4-6 [10]
+Rof 1.0
+Armor 4/1-6/1 [6/3]
+Speed 1.5 [1.8]
+Cost 50 W 20 G 28-18 sec  0.5 population
+Has no Castle Age upgrade, but has an Imperial Upgrade
+
+Incendiary Canoe(II)
+Fast explosive warship that explodes and leaves
+buildings and units on fire, dealing damage over time.
+Replace demo ship line.
+HP 30-50
+Atk 60-80
+vs buildings +140-180 [252]
+Blast 2.5-3.5
+Armor 2/0 [2/2]
+Speed 1.5 [1.8]
+Cost 30 W 50 G 30-20 sec    0.5 population
+Has no Castle Age upgrade, but has an Imperial Upgrade
+Ablaze: units caught in the blast are set on fire for 8/10 seconds.
+Units of fire take 2 dmg, buildings take 20 dmg per second.
+
+*******SOUTH-WEST*****
+anasazi, missisipians, hohokam
+
+ANASAZI
+infantry and siege civilization
+
+-Can upgrade Town Centers to Towns
+-Towers cost -20/30/40%
+-All land units and buildings +10% HP
+-Receive +200 S when advancing to the next Age
+UU Falcon warrior(infantry)
+CT-Flying shields: trash units are created 40% faster (spearman,skirmisher,selt,light cav)
+IT-Siege of Acoma: mangonel is affected by ballistics
+TB-Town Centers, Castles and all drop off points provide +5 population
+
+Town: unique building for the Anasazi.
+Can upgrade Town Centers to Towns, who act both as Town Centers and Castles.
+Can be upgraded to work as a Monastery and a University, working x3 times faster
+than average. 
+HP 4800 [7248]
+Atk 11 [15]
+Rof 2.0
+los 11 [20]
+Range 8 [11]
+Armor 8/11 [10/13]
+Garrison 20  Population 20 [+5 with bonus]
+Cost 275 W 400 S 200 sec   5x5 tiles
+Up cost from Town Center: 300 S 50 sec
+Add Monastery: 100 W 25 sec
+Add University: 100 W 25 sec
+
+Falcon warrior
+HP 70-80 [88]
+Atk 10-12 [16]
+Rof 2.0
+Armor 2/3-3/4 [6/8]
+Speed 1.3 [1.43]
+Los 8
+Cost 30 F 70 G 9-6 sec
+Up cost 900 F 500 G 60 sec
+Special: elevation bonuses are twice as effective (+/- 25% damage dealt/taken)
+
+Missing techs:
+A-infantry: gambeson
+A-archer:  nothing
+X-cavalry: NOPE
+A-siege: nothing
+A-monk: nothing
+B-navy: shipwright, HDS
+S-defense: Keep, BT
+S-economy: 2-man-saw
+
+MISSISIPIANS
+archers and monks civilization
+
+-First Castle cost -40%, the second one in Imperial Age cost -60%
+-From Castle Age, dying units yield 6/8 S
+-Foot units move 20% faster when in los of enemies
+-Ballistics free (doesn't need university, as it is already researched the
+moment you hit Castle Age)
+UU: Chunkey player(skirmisher),birdman(infantry/monk), caway(archer)
+CT-Urbanization: all non-siege land units occupy -15% population COST 500 F 300 G 40 sec
+IT-Sun Ritual: military non siege units regen 20 hp/min  COST 700 F 500 G 60 sec
+TB Make new farm techs available to allies and player
+
+Chunkey player: trained at the castle
+HP 60
+Atk 4 [8]
+Rof 4.0
+Range 6 [9]
+Armor 0/0 [2/2]
+Speed 1.2
+Cost 50 W 40 G 20 sec
+Special: mark enemies, they take
++3 damage from all sources for 4 seconds
+
+Birdman: trained at the monastery
+HP 45 [60]
+Atk 5 [7]
+Rof 2.0
+Armor 0/0 [2/2]
+los 7
+Speed 1.0 [1.25]
+Cost 30 F 90 G 75 sec
+Can pick up relics.
+Allies in los get +10% spd and fire rate
+
+Caway: replace starting scout, replace the archer-line
+HP 35-45-50
+Atk 5-7-7 [11]  (4 in Dark Age)
+Rof 3.0 [2.5]
+Range 5-7-8 [11]
+Armor 0/0 [2/2]
+los 8-10-10 [13] (5 in Dark Age)
+Accuracy 50-75-80-85% [100%]
+Speed 1.1-1.1-1.2
+Cost 25 W 50 G 25-20 sec
+Up cost 200 F 100 G 20 sec
+Up cost 700 F 500 G 60 sec
+
+Mayze cultivation II-III-IV:
+farms provide +150/200/250 F, farmer work 3% faster
+
+Missing techs:
+B-infantry: club warrior IV, halberdier, infantry armor III, blast furnace
+A-archers: archer armor III
+X-cavalry: NOPE
+C-siege: scorpio, mangonel, siege engineers
+A-monks: BP
+B-navy: carening
+A-defense: BT, Keep, architecture, arrowslits, treadmill
+A-economy: both shaft mining, 2-h-saw, guilds
+
+HOHOKAM
+monk and counter unit civilization
+
+-Can build water canals and Extensions.
+-Spearman, skirmisher, Selt cost -10/15/20%
+-Eco buildings are constructed 50% faster
+UU Silt Runner(infantry)
+CT-Sinkra Canals: water canals generate 2 G/min 400 W 300 G
+IT-Ambushers: Infantry units +3 atk while not moving 
+for more than 10 seconds 650 F 350 G
+TB-Units nearby monks get +10% movement speed
+
+Silt Runner
+HP 60-70 [77]
+Atk 7-9 [14]
+vs archers +4+2
+Rof 2.0 [1.8]
+Armor 0/3 [4/8]
+Speed 1.3 [1.43]
+Cost 50 F 20 G 12-10 sec
+
+Water Canal 5 W 10 sec
+A new type of structre that can be build nearby other
+canals or to a water source. It conveys water which
+improve farmers productity. Farm connected to
+a water canal replenish 18 F/min.
+
+Extensions: buildings +20% HP +2 los +2/2 armor
+Military buildings/Monasteries produce units with
+these cumulative bonuses:
+Dark Age: +1 los
+Feudal Age: +10% HP
+Castle Age: +10% fire/healing rate
+Imperial Age: +1/1 armor
+Extensions are free but take the building time
+equal to building time of original building
+
+Missing techs
+B-infantry: blast furnace*, gambeson*
+B-archer: nothing
+X-cavalry: NOPE
+C-siege: onager, scorpio, siege engineers
+S-monks: sanctity*
+B-navy: shipwright
+S-defense: BT, masonry*, treadmill*
+S-economy: horse collar*

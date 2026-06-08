@@ -1,0 +1,102 @@
+********
+*WOLVES*
+********
+-Start with a mule cart, a tamed wolf, 2 settlers
+-Start with 200 F 150 W 100 G
+-Favor is generated y killing myth units
+-Buildings cost -20% W, have -20% HP
+
+FENRIR
+-start with an additional settler
+-all settlers cost -10%
+-Blacksmith technologies are 50% more effective and cost -20%
+FAFNIR
+-Hunter gather 10% faster
+-All units and buildings +5 los
+-All human and hero units regen 30 hp/min
+-Myth units and promotion cost -20% favor
+ERDIRMIR
+-All units +20% bonus damage
+-Builder work 10% faster
+-Mule carts cost -50%
+-Hero Promotion cost -25% (except favor)
+
+COMMON UNITS
+
+--Settler--
+100 F 2 pop 36 sec 50 max
+HP 100
+Atk 12 Rof 1   4x vs towers
+Armor 32/42%
+Speed 4
+Hunters +100% faster, wood cutter +50% faster, gold miner +50% faster, builder +50% faster
+BARRACK
+--Swordman--
+90 F 30 G 3 pop 21 sec
+HP 150 [195 with ]
+Atk 9 Rof 1  4x vs infantry [6x myth for hero version] [1.33x cavalry with ]
+Armor 35/10%
+Speed 5
+--Halberdier--
+60 F 60 G 3 pop 21 sec
+HP 150
+Atk 7 Rof 1  4x vs cavalry  [6x myth for hero version]
+Armor 35/10%
+Speed 5
+--Round Shield--
+120 W 60 G 3 pop 21 sec
+HP 180
+Atk 10 Rof 1  2x vs archers  [5x myth for hero version]
+Armor 10/60%
+Speed 5
+--Hunter--
+120 W 60 G 3 pop 24 sec
+HP 120
+Atk 9 Rof 1   [3x vs myth for hero version]
+Range 18
+Armor 20/20%
+Speed 5
+STABLE
+--EihenJarl--
+100 F 100 G 5 pop 25 sec
+HP 250
+Atk 20 Rof 1   1.5x vs archers  [2x myth for hero version]
+Armor 40/50%
+Speed 5
+--Black Rider--
+100 F 80 G 4 pop 30 sec
+HP 120
+Atk 8  Rof 1   3x vs infantry   [3x myth for hero version]
+Range 12
+Armor 30/30%
+Speed 6
+--Axe Rider--
+80 F 100 G 4 pop 20 sec
+HP 200
+Atk 14 Rof 1  2x vs archers/buildings  [2x vs myth for hero version]
+Armor 20/40%
+Speed 6
+--EisenJarl-- [special version of the EihenJarl]
+100 F 100 G 5 pop 20 favor 30 sec  max 1
+HP 300
+Atk 30 Rof 1   2x myth
+Armor 40/50%
+Speed 5
+Warchief: allies in 12 tiles attack 20% faster
+
+HEROES
+Dark Guardian
+HP 300
+Atk 30 Rof 1  2x vs myth
+Blast 2.0
+Armor 50/65%
+Speed 3
+Max 3   Respawn 20 sec
+Arknight
+240 W 120 G 6 pop 12 favour 24 sec Max 4
+HP 240
+Atk 18 Rof 1  3x vs myth
+Range 18
+Armor 20/20%
+Speed 4
+Arrow Rain: deal 100 pierce damage over an area of 3, CD 15 sec

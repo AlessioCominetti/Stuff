@@ -1,0 +1,309 @@
+CIVILIZATIONS 17
+
+TECHS REMOVED 18
+arson, squires, parthian, husbandry
+murder holes, heated shot, ballistics, town watch, town patrol, treadmill crane
+hoardings, conscription 
+herbal medicine, theocracy, fervor
+coinage, banking, caravan 
+
+IRISH
+infantry and siege civilization
+
+-Woodcutter work 15% faster
+-Siege units fire 25% faster
+-Barrack units cost -15/20/25/30%
+UU Gallowglass
+CT Captains: land foot units occupy -10% population
+IT Furor: siege units +40% HP
+TB Siege Workshop work 20% faster
+
+ENGLISH
+archers and siege civilziation
+
+-Town Centers cost -25%
+-Shepherd, hunters work 25% faster and carry +15 F
+-Infantry and foot archers move 10% faster
+UU longbowman, huskarl
+CT Yeomen: foot archers +1 range
+IT Stronghold: Castles and towers fire 33% faster
+TB Archery Ranges work 20% faster
+
+BYZANTINES
+defense civilization
+
+-Buildings +10/20/30/40% HP
+-Camel riders, spearman, skirmishers cost -25%
+-Fire ships and catapult galley fire 25% faster
+-Advancing to Imperial Age cost -30%
+UU Cataphract
+CT Greek Fire: fire ships +1 range
+IT Lamellar armor: mounted units +3/0 armor
+TB Monks heal 100% faster
+
+CHINESE
+archer and gunpowder civilization
+
+-Start the game with +3 villager but with -200 F, -50 W
+-Town Centers support 15 population and have +7 los
+-Techs cost -5/10/15/20%
+-Stone walls +10/20/30% HP
+UU Chu ko nu
+CT Paper Money: woodcutters generate G while working
+IT Rocketry: scorpions, Rocket Carts, Cannon Galleons +25% attack
+TB All food sources contain +10% F
+
+FRANKS
+cavalry civilization
+
+-Free farm upgrades
+-All buildings cost -15/25% S
+-Free bloodlines
+-Forager work 20% faster
+UU throwing axeman
+CT Bearded Axe: throwing axeman +2 range
+IT Hauberk: knights +1/1 armor
+TB Stables work 20% faster
+
+JAPANESE
+infantry and naval civilization
+
+-Fishing work 20% faster
+-infantry attack 11/22/33% faster
+-Mills, Lumber, Mining camps cost -50%
+UU Samurai Knight, Samurai Warrior
+CT Shigeto no Yumi: foot archers fire 18% faster
+IT Sengoku: trebuchet fire, unpack 33% faster, towers
+and Castles fire extra arrows (+2)
+TB Barracks work 20% faster
+
+MONGOLS
+cavalry civilization
+
+-Start with -150 W but doesn't need to build houses
+-Horse archers attack 25% faster
+-Start with a mule cart
+-Light cavalry +1/2/3 atk
+UU Tarkan, Mangudai
+CT Drill: siege units move 50% faster
+IT Scourge of God: all units resist conversion,
+halves wonder and relic victory time, halves
+relic generation, disable healing of enemies when
+they are in los of cavalry units
+TB Mounted units +2 los
+
+SARACENS
+cavalry and naval civilization
+
+-villager move 10% faster
+-Stables units cost -15/20%
+-Ships move 10% faster
+-Galleys attack 25% faster
+UU Camel archer, Mameluke
+CT Kasbah: castles work 25% faster
+IT Maghrebi Camels: camel units regen 15 hp/min
+TB Commodity trading fee is 5%
+
+GERMANS
+infantry and defense civilization
+
+-Monks have double healing range
+-Farms cost -40%
+-Towers, castles, Town Centers +10 garrison
+-All military units +1/0 - +2/0 - +3/0 armor
+UU Teutonic Knight
+CT Bagains: Barrack units +0/2 armor
+IT Crenellation: Castles +2 range
+TB All units resist conversion
+
+TURKS
+gunpowder civilization
+
+-Start with +50 F and +50 W
+-Town Centers work 5/10/15/20% faster
+-Chemistry is free
+-Gold miner work 25% faster
+-Free Light cavalry upgrades
+-Scout cavalry +0/1 armor
+UU Jannissary, Savaran
+CT Sipahi: horse archers +20 HP
+IT Artillery, bombard towers, bombard cannons,
+cannon galleons +2 range
+TB Gunpowder units are created 25% faster
+
+DANES
+infantry and naval civilization
+
+-Free wheelbarrow and handcart
+-Warships cost -10/15/20%
+-infantry +20% HP
+UU varangian guard, longboat
+CT Chieftain: infantry +5 dmg vs cavalry,
+generate G when killing units
+IT Bogsveigar: archers and galleys +1 atk
+TB Docks work 20% faster
+
+KOREANS
+defense and naval civilization
+
+-Stone miners work 20% faster
+-Free archer armor and tower upgrades
+-Archer and infantry units cost -50% W
+-Warships cost -20% W
+UU War Wagon, Turtle Ship
+CT Eupseong: towers +2 range
+IT Shinkichon: rocket carts and turtle ships +1 range
+TB villagers +3 los
+
+SPANISH
+monks and gunpowder civilization
+
+-Blacksmith upgrades cost no G
+-Gunpowder units fire 20% faster
+-Receive 25 G for each technology researched
+UU Conquistador, Missionary
+CT Inquisition: all units resist conversion,
+monks and missionaries convert 33% faster
+IT Supremacy: villager +6 atk, +2/2 armor and +40 HP
+TB Trade units generate +25% G
+
+HINDUSTANIS
+camels and gunpowder civilization
+
+-Villagers cost -20%, start with -50 F
+-Camels attack 25% faster
+-Hand cannoner +1/1 armor
+-Trade units move 10% faster
+UU Ghulam, Imperial camel rider
+CT Grand Trunk Road: all gold income +10%
+IT Shatagni: hand cannoners +2 range
+TB Stable units +2 dmg vs buildings
+
+ITALIANS
+archers and naval civilization
+
+-Advancing to the next Age cost -15%
+-Dock and University techs cost -33%
+-Fishing ships cost -20%
+-Gunpowder units cost -20%
+UU Genoese crossbowman, condottiero
+CT Silk Road: trade units cost -50%
+IT Pirotecnia: hand cannoners deal 25% pass through damage
+TB Condottieri available at allies Barrack
+
+RUS
+infantry, cavalry and siege civilization
+
+-Free melee attack upgrades
+-Free pikeman upgrade and gambeson
+-Farmer work 15% faster
+-Siege units cost -15%
+-All buildings cost -15% W
+UU Boyar, cossak
+CT Detinets: replace 40% S cost of Castles and towers with W
+IT Druzhina: melee units deal trample damage (4)
+TB Monasteries work 20% faster
+
+PORTUGESE
+naval and gunpowder civilization
+
+-All units cost -20% G
+-All ships +5/10/15/20% HP
+-Foragers generate W in addition fo F (3 F-> 1 W)
+UU Organ Gun, arquebusier
+CT Circumnavigation: explore all map, ships are built 33% faster
+IT Arquebus: hand cannoner can be upgraded to arquebusier
+TB All techs are researched 33% faster (except Aging up)
+
+POLES
+cavalry and infantry civilization
+
+-idle units regen 10/15/20 hp/min while not in combat
+-stoner miners generate G in addition to S (3 S-> 1 G)
+-Stables upgrades cost -50%
+-Start with +100 F
+UU Obuch, Winged Hussar
+CT Szlachta Privileges: Knights cost -60% G
+IT Tower shields: skirmishers +0/2 armor
+TB Infantry units +2 los
+
+
+
+TECH AVAILABLE  [Display the civs who lacks said tech]
+Masonry: Byzantines*, Mongols
+Architecture: Saracens, Byzantines*, Irish, Hindustanis, Japan, Slavs
+Tower I-II-III: Saracens 3, Hindu 3, Mongols 1
+Bombard Tower: Saracens, Irish, Mongols, Japan, Slavs, Danes
+Wheelbarrow: all
+hand Cart: all
+Wood I-II-III:
+Farm I-II-III:
+Gold I-II-III:
+Stone I-II-III:
+Fish I-II-III: all
+
+Redemption: English, Irish, Chinese, Franks, Mongols, Koreans, Turks, Danes
+Atonement: English, Irish, Franks, Hindu, Koreans, Slavs, Poles, Turks,
+Heresy: English, Chinese, Irish, Hindu, Ita, Japan, Koreans, Poles, Slavs
+Sanctity: Saracens, Mongols, Turks, Danes
+Devotion-Faith: all
+Illumination: Irish, Koreans, Mongols, Turks, Poles, Portu, Danes
+Block printing: Irish, Mongols, Turks
+
+Gambeson: Saracens, Chinese, Hindu, Mongols, Turks
+Bloodlines: English, Koreans, Danes
+Melee attack I-II-III: Byzantines 3, Koreans 3
+infantry armor: Hindu 3, Mongols 3
+archer armor: Franks 3, Mongols 3
+cavalry armor: Irish 3, Koreans 3, Danes 3
+Ranged attack: Irish 3, Franks 3
+Thumb ring: Britons, Irish, Franks, Germans, Danes
+Arrowslits: all
+Chemistry: all
+Siege engineers: Franks, Hindu, Spanish, Turks
+Counter weights: Italians, Turks
+
+Ship armor I-II: Mongols 2
+Ship speed I-II: Mongols 2, German 2
+Shipwright: Franks, Hindu, Mongols, Poles, Germans, Danes
+
+Aging Up I-II-III:
+
+UNITS AVAILABLE
+swordman: Mongols 5, Turks 4
+spearman: Hindu 3, Mongols 3, Saracens 3, Turks 3
+archer: Irish 3, Franks 3, Hindu 3, Slavs 3, Spanish 3, Germans 3, Turks 3
+crossbowman: Irish, Japanese, Mongols, Saracens, Danes, Hindu, Slavs
+skirmisher: all
+horse archer: Italians 2, Portuguese 2, Germans 2, Danes 2,
+hand cannoner: Irish, Mongols, Poles, Slavs, Danes
+mounted skirmisher: Saracens, Mongols, Turks, Spanish
+light cavalry: English 3, Danes 3, Chinese 3, Japanese 3, Portugese 3, Germans 3
+knight: English 3, Koreans 3, Danes 3, Chinese 3, Hindu 3, Italians 3, Portguese 3
+camel rider for... Byz, Saracens, Hindu, Mongols, Turks
+lancer: Irish, Hindu, Danes
+battering ram: Saracens 3, English 3, Franks 3, Italians 3, Japan 3, Korean 3, Portu 3
+mangonel: English 3, Byz 3, Franks 3, Hindu 3, Ita 3, Poles 3, Slavs 3, Turks 3, Portu 3, Spanish 3, Danes 3
+ballista: Hindu 2, Korean 2, Poles 2, Portu 2, Sara 2, Spanish 2
+siege tower: all
+bombard cannon: Irish, Chinese, Mongols, Slavs, Danes
+trebuchet: all
+galley: all
+fire ship: Irish, Hindu, Mongols, Saracens, Turks, Danes
+demo ship: Hindu, Ita, Japan, Korea, Poles, Slavs, Danes, Portu
+boarding ship: English, Mongols
+cannong galleon: Irish, Byz, Chinese
+catapult ship: all
+
+
+outposts +3 los and cost no S
+
+
+
+
+
+
+
+
+CIVS a cui mancano campagne
+Vikings, Chinese, Japanese, Turks, Mayans, Koreans, Khitans, Jurchens

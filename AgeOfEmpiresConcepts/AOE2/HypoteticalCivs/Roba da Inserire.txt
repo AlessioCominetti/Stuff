@@ -1,0 +1,148 @@
+
+ROBA DA INSERIRE
+
+AXEMAN
+HP 55-65-75
+Atk 10-14-18 [22]
+vs buildings +6+2+2 [12]
+Rof 2.4
+Armor 3/0-5/1-7/1 [10/5]
+Speed 0.9 [0.99]
+Cost 50 F 30 G 30 sec
+Up cost 100 F 100 G 27 sec
+Up cost 500 F 400 G 50 sec
+
+ALBANIANS
+Light cavalry +20% HP  (ESISTE GIA)
+---in civ bonuses, modidifca classe Light cavalry con un multiplier 1.2
+Woodcutter and Stone miner work +10% (DONE)
+---In work rate modifica le classi woodcutting e stone miner
+Military buildings cost -20% (DONE)
+---In buildings applica un cost multiplier 0.8
+No limiti building on elevation (ESISTE GIA)
+---Imposta Build on Slopes TRUE
+Plate infantry armor in Castle Age (DONE)
+---Sposta la tech da Imperial/Castle Switch
+TECH Letzhe Leagye 500 G 400 F (DONE)
+Barrack units cost -15% and +5% movement speed
+---Modifica tech esistente
+TECH Skanderberg's Gambit 300 G 300 W  (DONE)
+Light cavalry +3 atk
+---Modifica Farimba
+TB Light cav +2 los
+---Modifica un altro TB
+
+Stratiot
+HP 90-110 (130)
+Atk 8-10 (14)
+vs archers +3+2
+vs spears +3+2
+Rof 3.0
+Range 4 (7)
+Armor 2/2 (5/6)
+Speed 1.5 (1.65)
+Cost 60 F 50 G 34-28 sec
+Up cost 900 F 500 G 60 sec
+
+Kapedan (replace cavalier upgrade)
+HP 140 (160)
+Atk 14 (18)
+Rof 2.0
+Armor 3/4 (6/8)
+Speed 1.35 (1.48)
+Upcost 900 F 700 G 60 sec
+
+Miss: champion, halberdier, arbalester, thumb ring, parthian tactics, HCA,
+siege ram, siege onager, crop rotation, 2-man-saw
+
+
+
+
+
+
+BONUS ALTERNATIVI
+Serbians
+-Stable units +1/0 armor in Castle Age, +2/0 armor in Imperial Age
+-Monasteries cost -30%
+-Siege weapons +20% Hp
+-Castles +1 range
+UU Vlastelin: heavy cavalry, strong vs infantry and archers
+Croatians
+-Warships move 10/15/20% faster
+-Towers +1 atk
+-Farms cost -40%
+-Barracks work 20% faster
+UU Schiavone: heavy infantry, strong vs cavalry
+Bosnians
+-Gold mines last 30% longer
+-Stable units +10% Hp
+-Castles cost -15%
+-Villagers +5 hp
+UU Stephan knight: heavy cavalry, strong vs buildins and siege
+Albanians
+-Light cavalry +15% speed
+-Infantry +1 atk
+-Houses +5 population
+-Monasteries cost -20%
+UU Stradiot: mounted skirmisher, strong vs archers and monks
+Moldavians
+-Towers and castles +20% Hp
+-Gunpoweder units +1 range
+-Horse archers +1 atk
+-Monks +1/1 armor
+UU Viteazul Archer: mounted archer, strong vs cavalry and infantry
+
+
+
+BONUS ALTERNATIVI 2
+Croatians
+-Coinage and banking are free
+-Carening, Dry Dock, Carved Hull, Clanker construction cost no G.
+These and masonry, architecture and are available one age earlier
+-Fortification upgrades are available one age earlier, their
+upgrades cost -50%
+-Forging, Iron Casting and Blast furnace provide +1/0 armor
+to Barrack and Stable units
+UU
+CT
+IT
+TB Markets and military buildings +5 los
+Serbians
+-stone and gold miners work 10% faster
+-Siege engineers and treadmill crane are free
+-Walls, gates, castles and towers +20/30% HP
+-Knights and Longswordman onwards, get +1/1 armor,
+starting in Castle Age
+UU
+CT
+IT
+TB Petards available at Siege Workshop
+Bosnians
+-gold miners produce a small tickle of S
+-Castles and Towers cost -20% S
+-Stable upgrades cost no G
+-Mining upgrades are 60% more effective
+UU
+CT
+IT
+TB Stone mine last 15% longer
+Albanians
+-Buildings and units in higher elevation take -10% damage
+and deal +10% damage
+-Light cavalry upgrades are free
+-Blast furnace is free and available in Castle Age
+-Stone miners and woodcutters work 10% faster
+UU
+CT
+IT
+TB Blacksmiths, Universities and Markets are built 100% faster
+Moldavians
+-Gunpowder units are created 33% faster
+-Light cavalry and horse archers cost -10/15%
+-Caravan is 50% more effective
+-Monasteries,Markets,Universities and Blacksmiths cost -50 W
+-Castles can garrison relics
+UU
+CT
+IT
+TB Lumber, Mining, Mill are built 100% faster

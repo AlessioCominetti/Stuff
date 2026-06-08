@@ -1,0 +1,65 @@
+***********
+*SUMERIANS*
+***********
+Strong economy, ancient magic, slow and
+durable myth units, elemental forces,
+warrior priests
+
+-Sumer build temples, who can be dedicated
+to a specific god, to receive different bonuses
+-Can summon myth units and heroes with an increase
+in resource cost, instead of using favour
+
+Major gods: 
+Enlil: god of wind and storms
+-Myth units move 15% faster
+-Military techs cost -20%
+-Storm: spell
+-Anzu: eagle-lion, myth unit, ranged wind attack
+Enki: god of water, wisdom and magic
+-Farmer work 10% faster
+-Spells recharge 33% faster and cost -25%
+-Buildings repair themselves
+-Abzu: water spirit, healer, splash damage
+Inanna: god of war, love and Chaos
+-infantry move 15% faster
+-military land units, except siege, attack 1% faster for each
+2% hp lost, cap at +30%
+-Priests can convert enemies
+-Lamastu: female demon, scare enemies, debuff enemy attack
+
+Minor gods:
+Nergal: Death
+Utu: Sun and Justice
+Ninhursag: Earth
+
+BARRACK
+---Gishgigal Spearman---
+strong vs cavalry only
+---Archer---
+strong vs infantry
+---Slinger---
+strong vs archers
+
+TEMPLE
+---Apkallu Priest---
+Can heal and buff allies, hero, strong vs myth
+
+STABLE
+---Ur Chariot---
+strong vs archers, weak to sperman
+---Camel rider---
+strong vs cavalry, weak to spearman
+---Scythe Chariot---
+strong vs infantry, weak to archers
+
+SIEGE WORKSHOP
+---Onager---
+---Siege Tower---
+---Battering Ram---
+
+FORTRESS
+---Lugal Warrior---
+strong vs infantry, good armor, weak to cavalry
+---Warrior Priest---
+Hero unit, can heal and drain life from enemies, strong vs myth

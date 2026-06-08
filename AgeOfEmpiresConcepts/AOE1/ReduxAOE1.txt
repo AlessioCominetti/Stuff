@@ -1,0 +1,274 @@
+CIVILIZATIONS
+
+GREEKS
+archers, infantry and naval
+
+-Towers, triremes and foot archers +1/2/2 range
+-Barrack units cost -20%
+-Fisherman work 25% faster
+Miss: horse archer, elephants, long swordman, cataphract
+
+EGYPTIANS
+monks and elephant
+
+-Gold miner work 20% faster
+-Priest +2/3 range
+-Elephants +1/1 armor
+-Farms contain +50/100/150 F
+Miss: hoplite, ballista, long swordman
+
+ROMANS
+infantry, siege and naval
+
+-Towers, walls and farms cost -20%, all other buildings cost -10%
+-Swordman attack 50% faster
+-Ballista +1 range
+-Warships attack 25% faster
+Miss: horse archer, elephants, composite archer, cataphract
+
+CHINESE
+cavalry, monk and naval
+
+-Cavalry and horse archers cost -20%
+-villager cost -20%
+-Warships cost -30%
+-Priest cost -30%
+Miss: hoplite, elephants
+
+SELEUCIDS
+infantry and siege
+
+-Hoplite move 20% faster and get +0/1 armor in Bronze Age and +0/2 armor in Iron Age
+-Start with +50 F/W/G
+-Catapult attack 33% faster
+Miss: long swordman
+
+PHOENICIANS
+infantry, elephants and naval
+
+-Hoplite, swordman, ships +25% HP
+-Elephants cost -20%
+-Woddcutter work 20% faster
+Miss: horse archer, cavalry, ballista
+
+BABILONIANS
+siege and defense
+
+-All techs cost -30%
+-Farmer work 10% faster
+-Walls, towers, catapults +60% HP
+Miss: hoplite, elephants
+
+ARABIANS
+cavalry and horse archers
+
+-Hunters work 33% faster
+-Horse archers +1 atk
+-All units move 15% faster
+-Cavalry +1/1 armor
+Miss: elephants, ballista, paragon
+
+BUILDINGS (take -75% damage, except towers, who take -80%)
+House: cost 50 W    120 HP    provide +8 population
+Storehouse: cost 125 W  320 HP  drop off point for all resources, develop unit upgrades
+Town Center: cost 200 W 600 HP  drop off point, train villager and research eco upgrades
+Tower: cost 150 G  120-180-240 HP 3-4-6-11 [12] Atk 5-6-7 [10] range  attack nearby enemy units
+Wall: cost 5 G   200-300-400 HP  impassable barrier
+Barrack: cost 200 W 320 HP train foot units
+Stable: cost 200 W 320 HP train mounted units
+Siege Workshop: cost 200 W 320 HP train siege units
+Dock: cost 200 W 320 HP train ships
+Government Center: cost 200 W 320 HP develop upgrades
+Temple: cost 200 W 320 HP train and upgrade priests
+Farm: cost 100 W  80 HP provide 250 F up to 700 F
+Wonder: cost 2000 W 2000 G  500 HP   required for Wonder Victory
+
+TECHNOLOGIES
+Storehouse
+Melee attack I-III: melee units +1 atk: 100 F - 200 F 100 G - 300 F 200 G
+Melee armor I-III: military units +1/0 armor: 300 F - 375 F 150 G - 450 F 300 G
+Pierce armor I-III: infantry units, cavalry and skirmisher +0/1 armor: 150 F 200 G - 200 F 300 G - 250 F 400 G
+Archer attack I-III: ranged units +1 atk and range: 50 F 50 G - 150 F 100 G - 250 F 150 G
+---
+Town Center
+Wood I-III: woodcutter work 20% faster: 100 F 50 W - 200 F 100 W - 250 F 150 W
+farm I-III: farms contain +125/150/175 F: 150 F 50 W - 250 F 75 W - 350 F 100 W
+stone I-III: stone miner work 20% faster: 100 F 50 S - 150 F 75 S - 200 F 100 S
+gold I-III: gold miner work 20% faster: 100 F 50 G - 150 F 75 G - 200 F 100 G
+---
+Temple
+Medicine: priest heal 100% faster: 150 G
+sanctity: priest +100% Hp and +25% speed: 240 G
+conversion: enable the priest ability to convert: 325 G
+afterlife: priest +3 conversion range: 300 G
+fervor: priest rejuvenate, convert 30% faster: 300 G
+---
+Government Center
+bloodlines: mounted units +20% HP: 200 F 150 G
+architecture: buildings +25% HP, -33% build time: 200 F 200 W
+Age up to Bronze/Iron Age: 1000 F - 1000 F 1000 G  100/200 sec
+
+REMOVED TECHS
+aristocracy, writing, logistics, ballistics, siege engineering, wheel, zealotry, sacrifice
+Saves: 1155 F 870 G 175 W
+
+UNITS
+BARRACK
+I)axeman-swordman-elite swordman-paragon  [light infantry, infantry]
+HP 50-80-100-140
+Atk 5-8-10-12 [15]
+vs cavalry +4-1-0-0
+Armor 0/0 [3/3]
+Speed 1.0
+Cost 35 F 15 G 20 sec [0.5 population]
+Up cost 100 F 50 G 30 sec
+Up cost 250 F 100 G 50 sec
+Up cost 1400 F 600 G 100 sec
+
+II)Hoplite-elite Hoplite [heavy infantry, infantry]
+HP 120-160
+Atk 16-28 [31]
+Armor 4/0-6/0 [9/3]
+Speed 1.0
+Cost 60 F 40 G 40 sec
+Up cost 2000 F 800 G 120 sec
+
+I)Archer-composite archer [archer]
+HP 60-75
+Atk 4-5 [8]
+Range 5-7 [10]
+Armor 0/0 [3/0]
+Speed 1.0
+Cost 70 F 30 G 40 sec
+Up cost 300 F 300 W 80 sec
+
+I)Skirmisher-elite skirmisher [archer]
+HP 40-50
+Atk 3-4 [7]
+vs archers +3-6
+vs buildings +3-4
+Range 4-5 [8]
+Armor 0/3-0/5 [3/8]
+Speed 1.0
+Cost 50 F 50 W 50 sec
+Up cost 500 F 200 W 120 sec
+
+STABLE
+II)Heavy cavalry-Cataphract [cavalry]
+HP 150-230 [276]
+Atk 8-12 [15]
+vs light infantry +4-6
+Armor 0/0-3/0 [6/3]
+Speed 1.7
+Cost 70 F 80 G 50 sec
+Up cost 1800 F 750 G 120 sec
+
+III)Horse archer-Heavy Horse archer [archer, cavalry, horse archer]
+HP 60-80 [96]
+Atk 5-6 [9]
+Range 6-7 [10]
+Armor 0/1 [3/1]
+Speed 2.0
+Cost 60 F 60 G 50 sec
+Up cost 1800 F 800 G 100 sec
+
+Unlock elephants: 1200 F 1000 G 150 sec
+III)Elephant archer [archer, cavalry, horse archer]
+HP 500 [600]
+Atk 4 [7]
+Range 7 [10]
+Armor 0/0 [3/0]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+
+III)War Elephant [cavalry]
+HP 500 [600]
+Atk 10 [13]
+vs buildings +15
+Armor 0/1 [3/1]
+Speed 1.0
+Cost 160 F 40 G 60 sec
+
+SIEGE WORKSHOP
+II) Catapult-Heavy Catapult
+HP 100-200
+Atk 70-80     Rof/4
+vs buildings +200
+Blast 1.0-1.5
+Range 10-12 [15]
+Armor 0/3-0/4
+Speed 0.8
+Cost 240 W 100 G 80 sec
+Up cost 2100 F 1200 W 150 sec
+
+III) Ballista-Heavy Ballista
+HP 50-60
+Atk 30-42 [45]
+Range 9 [12]
+Armor 0/0
+Speed 0.8 
+Cost 100 W 80 G 50 sec
+Up cost 1200 F 1000 W 100 sec
+
+II) Battering Ram-Heavy Ram
+HP 200-300
+Atk 5
+vs buildings +60-80
+Armor 0/40
+Speed 0.8
+Cost 160 W 80 G 60 sec
+Up cost 1200 F 100 sec
+
+TEMPLE
+II) Priest
+HP 25 [50]
+Heal 2.5 [5]
+Range 9 [12]
+Speed 0.8 [1.0]
+Cost 100 G 50 sec
+
+TOWN CENTER
+I) Villager
+HP 40
+Atk 3 [6]
+vs buildings +3-6-10
+Armor 0/0
+Speed 1.0
+Cost 50 F 20 sec
+
+DOCK
+All warships can garrison 10 units inside
+I) Scout ship-War ship-Trireme
+HP 120-160-200
+Atk 4-6-9 [12]
+Range 5-6-7 [10]
+Armor 0/0
+Speed 1.5
+Cost 150 W 30 sec
+Up cost 150 F 100 W 30 sec
+Up cost 250 F 150 W 50 sec
+
+II) Siege ship-Quinquireme
+HP 160-200
+Atk 32-36   Rof/4
+vs buildings +120-160
+Blast 1.0-1.5
+Range 9-10 [13]
+Armor 0/0
+Speed 1.2
+Cost 150 W 50 G 40 sec
+Up cost 1600 F 800 W 100 sec
+
+II) Ram ship-Quadrireme
+HP 160-200
+Atk 40-50
+Armor 0/0
+Speed 2.0
+Cost 120 W 30 G 30 sec
+Up cost 400 F 200 G 50 sec
+
+I) Fishing ship
+HP 45-60-75
+Armor 0/0 
+Speed 1.5 
+Cost 50 W 20 sec

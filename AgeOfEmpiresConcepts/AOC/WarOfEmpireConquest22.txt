@@ -1,0 +1,249 @@
+CIVILIZATIONS
+
+Han Dynasty
+infantry civilization
+
+-Start with +1 villager
+-Walls +35% HP
+-Pikeman upgrade available in Feudal Age for free
+-Swordman +2/4/6 atk
+Miss: Paladin
+
+Golden Horde
+cavalry civilization
+
+-Stable units cost -25%
+-Hussar upgrade available in Castle Age
+-Doesn't need to build houses
+-Stable unit upgrades cost -35%
+Miss: walls
+
+Aztec Empire
+archer and infantry civilization
+
+-Barrack unit upgrades cost -30%
+-Barrack units cost -25%
+-Buildings cost -10%
+-Villager build 25% faster and have +50% HP
+UU: Jaguar warrior, eagle warrior
+Miss: Stables
+
+Holy Roman Empire
+infantry and cavalry civilization
+
+-Towers, Town Centers, Castles +30% range
+-Barrack, Stable and siege unit upgrades cost -40%
+-Knights +25% Hp
+UU: teutonic swordman
+Miss: hussar, horse archers
+
+Ottomans
+cavalry and archer civilization
+
+-Siege units cost -30%
+-Free Hussar, Cavalier and Paladin upgrades
+-Towers cost -40%
+UU: mameluke
+Miss: 2-h-swordman
+
+Eastern Roman Empire
+infantry and cavalry civilization
+
+-Free Swordman-line upgrades
+-swordman regen 4 hp per sec
+-Knights +4/0 armor
+Miss: nothing
+
+
+BUILDINGS
+I-40-House: grant +10 population space
+I-50-Tower: defensive structure Upgrade lvl 2 +100 G Upgrade lvl 3 +100 G
+III-200-Town Center: train villager and Age up
+I-10-Wall: defensive barrier
+
+I-100-Barrack: train foot units [swordman, spearman, archer]
+II-100-Stable: train mounted units [light cavalry, heavy cavalry, horse archer]
+II-200-Temple: train priests
+II-600-Castle: train unique and siege units [battering ram, artillery]
+
+
+TECHS
+Age up Castle/Imperial: 1000 F 200 G 120 sec / 1500 F 300 G 180 sec
+
+**all units have 134 resistence, buildings, siege, light cavalry and shock infantry have 3
+times as much. Monks deplete 25 resistence per second.
+
+UNITS
+armor classes: [villager, infantry, spearman, archer, cavalry, horse archer, siege,
+priest, shock, wall, building]
+
+Villager [villager]
+HP 90
+Atk 4
+los 5
+Armor 0/0
+Speed 1.2
+Cost 50 F 20 sec
+m: x4 vs buildings x10 vs walls
+
+BARRACK
+Swordman-Long Swordman-2 Handed Swordman [infantry]
+HP 150-200-260
+Atk 7-8-12
+los 7
+Armor 1/1-2/2-2/2
+Speed 1.2
+Cost 65 F 35 G 16 sec
+Up cost 300 F 300 G (6 units)
+Up cost 700 F 900 G (16 units)
+m: x2.4 vs buildings x1.25 vs shock
+LUE(Last Upgrade Effect): +30% Hp, +50% atk, repays 40 units
+
+Spearman-Pikeman-Halberdier [infantry,spearman]
+HP 75-100-160
+Atk 4-5-8
+los 7
+Armor 0/0-1/1-2/2
+Speed 1.2
+Cost 60 F 12 sec  Pop 0.5
+Up cost 200 F 250 G (7.5 units)
+Up cost 400 F 550 G (16 units)
+m: x3 vs cavalry x0.25 vs archers x0.5 vs walls/priest
+LUE: +60% Hp, +60% Atk, +2/2 armor, repays 30 units
+
+Archer-Crossbowman-Arbalester [archer]
+HP 70-90-140
+Atk 9-11-15
+los 8-9-10
+Range 5-6-7
+Armor 0/0-1/1-2/2
+Speed 1.2
+Cost 40 F 60 G 16 sec
+Up cost 300 G (3 units)
+Up cost 700 G (7 units)
+m: x1.25 vs infantry x1.5 vs horse archers x0.75 vs cavalry/shock x0.3 vs walls
+LUE: +55% Hp, +38% Atk, +1/1 armor, repays 15 units
+
+STABLE
+Knight-Cavalier-Paladin [cavalry]
+HP 170-200-240
+Atk 8-9-12
+los 8
+Armor 1/2-2/2-2/3
+Speed 1.4
+Cost 80 F 45 G 15 sec
+Up cost 400 G (3 units)
+Up cost 550 F 950 G (12 units)
+m: none
+LUE: +20% Hp, +33% Atk, +1/2 armor, repays 36 units
+
+Light cavalry-Hussar [cavalry]
+HP 140-210
+Atk 5-8
+los 10
+Armor 1/1-2/2
+Speed 1.5
+Cost 100 F 20 sec
+Up cost 400 G (4 units)
+m: x4 vs priest/siege
+resist conversion x3
+LUE: +50% Hp, +50% Atk, +1/1 armor, repays 8 units
+
+Horse Archer-Heavy Horse Archer [cavalry, horse archer]
+HP 90-120
+Atk 11-15
+los 9-10
+Range 6-7
+Armor 1/1-2/2
+Speed 1.4
+Cost 55 F 65 G 13 sec
+Up cost 600 F 600 G (10 units)
+m: x0.5 vs archers x0.2 vs walls x1.25 vs infantry
+LUE: +33% Hp, +42% Atk, +2/2 armor, repays 25 units
+
+CASTLE
+Battering Ram-Capped Ram-Siege Ram [siege]
+HP 225-300-350
+Atk 55-75-100
+los 7
+Armor 0/0
+Speed 0.8
+Cost 25 F 130 G 24 sec
+Up cost 450 G (3 units)
+Up cost 600 G (4 units)
+Can only hit buildings, take double damage from all melee attacks
+and -80% damage from all ranged attacks
+LUE: +21% Hp, +33% Atk, repays 15 units
+
+Onager-Heavy Onager [siege]
+HP 40-50
+Atk 40-50
+los 12
+Range 9
+Armor 0/2-0/3
+Speed 1.0
+Cost 100 F 300 G 27 sec Pop 2
+Up cost 1200 G (3 units)
+m: x2 vs archers x18 vs walls x6 vs buildings
+LUE: +25% Hp, +25% Atk, +0/3 armor, repays 12 units
+
+TEMPLE
+Priest-High Priest [priest]
+HP 80-160
+Heal 10-15
+los 13
+Range 12
+Armor 0/2
+Speed 1.2
+Cost 100 G 25 sec
+Up cost 500 F 700 G (12 units)
+m: none
+LUE: +100% Hp, +50% Heal, repays in 16 units 
+
+UNITA UNICHE
+----
+Eagle Warrior [shock]
+HP 200-300
+Atk 9-12
+los 9
+Armor 1/2-2/3
+Speed 1.4
+Cost 50 F 50 G 12 sec
+Up cost 850 F 150 G (10 units)
+m: x2 vs walls/buildings/priest x1.5 vs spearman
+LUE: +50% Hp, +33% Atk, +1/1 armor, repays 25 units
+
+Jaguar Warrior [infantry]
+HP 180-270 
+Atk 11-17
+los 7
+Armor 1/2-2/3
+Speed 1.2
+Cost 60 F 60 G 16 sec
+Up cost 600 F 600 G (10 units)
+m: x2 vs walls/buildings x1.5 vs infantry
+Comes with a jaguar pet, it doesn't occupy extra population
+LUE: +50% Hp, +55% Atk, +2/2 armor, repays 20 units
+----
+Teutonic Swordman [infantry]
+HP 200-300
+Atk 11-17
+los 7
+Armor 2/2-3/3
+Speed 1.0
+Cost 60 F 40 G 15 sec
+Up cost 500 F 500 G (10 units)
+m: none
+LUE: +50% Hp, +50% Atk, +1/1 armor, repays 20 units
+----
+Mameluke [cavalry, horse archer]
+HP 120-160
+Atk 11-15
+los 5-6
+Range 4-5
+Armor 1/1-2/2
+Speed 1.4
+Cost 60 F 60 G 17 sec
+Up cost 600 F 600 G (10 units)
+m: x2 vs cavalry x1.4 vs buildings/spearman
+LUE: +33% Hp, +37% Atk, +2/2 armor, repays 30 units

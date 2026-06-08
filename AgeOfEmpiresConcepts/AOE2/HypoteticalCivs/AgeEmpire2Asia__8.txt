@@ -1,0 +1,623 @@
+Pacific Ocean
+TAGALOG: infantry and naval
+POLYNESIA: infantry, skirmisher and naval
+ABORIGINS: archers and monks
+South Asia Group
+THAI-SIAM-SINHAI: elephants, archers and monks
+MONS: monks and archers
+CHAM: cavalry and naval
+North Asia Group
+Doesn't have regional canoes
+NANZHAO: cavalry and monks
+TIBETANS: cavalry and monks
+
+Pacific Ocean updates
+
+NEW
+-Catapult Galleon replace Cannon Galleon
+-fire archers replace trebuchet and bombard cannons, they are trained at Archery Ranges
+-All civs lack cavalry, gunpowder, gambeson and parthian tactics
+(with the exception being the Tagalog, who have elite cannon galleon)
+
+Barrack: Sharktooth warrior, spearman
+Archery Range: archer, skirmisher, fire archer, slinger (hand cannon for Tagalog)
+Siege Workshop: Mantlet, mangonel, scorpio, siege tower
+Dock: Battle canoe, Boarding canoe, Incendiary canoe, Outrigger, Siege canoe
+
+UNITS
+
+Sharktooth warrior: infantry with good movement and armor.
+Strong vs archers and siege. Weak to swordmen and cavalry.
+Replace man-at-arms and onwards.
+HP 45-55-65
+Atk 4-7-11 [15]
+vs shock +2-4-8
+vs buildings +2-3-4 [6]
+vs siege +0-2-3
+Rof 2.0
+Armor 0/2-0/3-0/4 [3/8]
+Speed 1.1 [1.21]
+Up cost 150 F 60 G 30 sec
+Up cost 750 F 500 G 90 sec
+Special: bleed damage 3 dmg over 3 seconds,can stack 5 times
+
+Elite pikeman: replace the halberdier upgrade.
+Attack faster and has more hitpoints, but lower attack. 
+HP 70
+Atk 5 [9]
+anti cav +18
+anti ele +18
+anti camel +15
+Rof 2.0
+Range 0.5
+Armor 1/0 (4/4)
+Speed 1.0 [1.1]
+Up cost 750 F 350 G 60 sec
+
+SHIPS
+Karakoa/Catamaran: unique warship, can garrison units,
+effective vs galley-line and demo-ship line.
+Replace Galley-line
+HP 100-110-140
+Atk 4-5-6 [10]
+vs long_range_warship +6-6-8
+vs buildings +4
+vs siege +2
+Rof 2.0
+Range 4-5-6 [9]
+Armor 0/6-0/6-0/8 [0/10]
+Speed 1.5 [1.8]
+Cost 80 W 40 G 36-27 sec
+
+Incendiary canoe
+Explosive ship. Replace demo-ship
+HP 40-50-70
+Atk 65-85-110
+vs buildings +150-200-250 [350]
+Blast 2.5-3.0-3.5
+Armor 2/0 [2/2]
+Speed 1.5 [1.8]
+Cost 45 W 75 G 45-30 sec
+Fire: apply 4 dmg/sec to ships and 20 damage/sec to buildings for 5 seconds, stack twice
+
+Boaring canoe
+Replace Hulk-line.
+Strong vs fire-ships and outrigger, weak vs arrow_ships.
+HP 100-110-150
+Atk 4 [8]
+Range 0.5
+Rof 0.5
+Armor 4/1-5/1-6/1 [6/3]
+Speed 1.5 [1.8]
+Cost 75 W 45 G 42-27 sec
+
+Outrigger
+Fast scouting ship. Replace fire ship.
+Strong vs arrow_ships, weak vs boarding galleys and hulks.
+HP 80-90-105
+Atk 4 [8]
+vs lon_range_ships +2
+Rof 0.5
+Range 0.5
+Armor 1/5-2/5-4/8 [4/10]
+Speed 1.5 [1.8]
+Cost 75 W 45 G 42-27 sec
+
+Siege Canoe
+Long range siege warship
+HP 120-150
+Atk 7-8 [12]
+vs buildings +65-90 [108]
+vs siege +15 [18]
+vs ships +10 [12]
+Rof 3.0
+Range 9-10 [13]
+Armor 0/6 [0/8]
+Speed 1.1 [1.32]
+Cost 200 W 100 G 42 sec
+Up cost 500 W 500 G 30 sec
+
+
+TAGALOG
+infantry and naval civilization
+
+-infantry and villagers get +1 atk for every 25% HP missing
+-Clinker Construction and Carved Cull are free
+-Fishing ships, Fish trapds and Docks refund 25% of their cost over 5 minutes
+-Can upgrade Town Centers to Fortified Town Centers (Pa) in Feudal Age
+UU Baraw Warrior(infantry)
+UB Fortified Town Center(Pa)
+CT-Dulawan: infantry attack 25% faster and move 10% faster  COST 400 F 350 G 40 sec
+IT-Lantaka: Cannon Galleon and hand cannon +33% atk COST 800 W 600 G 60 sec
+TB-Docks can be garrisoned with 10 foot units, shooting arrows at land units
+
+Baraw Warrior: infantry unit with good movement
+Effective vs other infantry units
+HP 65-80
+Atk 9-12 [16]
+vs cavalry/shock +4
+vs buildings +2-3 [5]
+Rof 2.0 [1.6]
+Armor 1/1-2/2 [5/6]
+Speed 1.1 [1.32]
+Cost 50 F 25 G 12-10 sec
+Up cost 700 F 375 G 45 sec
+Special: target struck by this unit cannot be healed or repaired
+
+Pa: fortified Town Center, have +1000 HP, count as stone fortification,
+hence, they benefit from fortification upgrades (hoardings, arrowslits, heated shot)
+and can train Unique and Barrack units. Work 20% faster than normal Town Center.
+Provide +10 population. +1/1 armor and +3 los.
+Upgrade cost: 125 W 100 S 50 sec
+
+Missing techs:
+A-infantry: nothing
+B-archers: HA, parthian
+B-monks: faith, heresy, BP
+B-siege: siege onager, siege engineer
+S-naval: nothing
+C-defenses: Keep, treadmill crane, arrowslits, masonry
+B-economy: 2-man-saw, crop rotation, both shaft mining
+
+POLYNESIANS
+infantry, skirmisher and naval civilization
+
+-Shipwright is available in Feudal Age from Docks and cost 200 W 150 G 50 sec
+-Carved hull, clinker, dry dock and carening cost -50%
+-Start with a small pond of fish (300 F)
+-Infantry and skrimisher +20/30/40% HP
+-Ships +1/2/3/4 los
+UU Haka(infantry), Toa(infantry)
+CT-Navigation of Skies: Siege Canoe +2 range  COST 200 F 200 G 30 sec
+IT-Mana o te Moana: infantry regen 30 hp/min, resources in los of buildings
+slowly regen (0.25 per node per second)  COST 400 W 300 G 40 sec
+TB-Reveal all water and coast tiles at the start of the game
+
+Haka: elite shock infantry
+HP 80-100 [140]
+Atk 12-18 [20]
+vs spearman/shock +5
+vs buildings +2-3 [5] 
+Rof 1.8
+Armor 0/0 [2/2]
+Speed 1.2 [1.32]
+Cost 55 F 25 G 12-10 sec
+Up cost 800 F 400 G 50 sec
+
+Toa: fast infantry
+HP 60-75 [105]
+Atk 8-11 [13]
+vs buildings +2-3 [5]
+Trample 25% dmg 0.5 tiles
+Rof 1.8
+Armor 0/3-0/5 [2/7]
+Speed 1.3 [1.43]
+Cost 55 F 35 G 10-8 sec
+Up cost 700 F 350 G 40 sec
+
+Missing techs
+B-infantry: blast furnace, infantry armor III
+C-archers: crossbowman, thumb ring, archer armor III
+C-siege: mangonel, scorpio, siege engineers
+A-navy: nothing
+B-monks: BP, heresy, illumination, faith
+C-defense: watch tower, BT, stone wall, arrowslits, masonry, treadmill
+B-economy: crop rotation, all mining, 2-h-saw, guilds
+
+
+
+ABORIGINS
+archers civilization
+
+-Technologies and unit upgrades cost -50% F
+-Fisherman and fishing ship +5 carry capacity, generate W (10 F->1 W)
+-Town Centers provide +5/10/15/20 population
+UU Boomerang warrior(archer)
+CT-Woomera: skirmishers +1 range and attack 50% faster  COST 300 G 300 F 50 sec
+IT-Walkabout: barrack units cost -30%                   COST 500 F 400 G 60 sec
+TB-Military buildings cost -10%
+
+Boomerang warrior: archer with pass through damage
+who also applies slow, and it is effective vs cavalry
+and other archers.
+HP 35-40
+Atk 4-5 [9]
+vs archers +2-3
+vs shock +2-3
+vs cavalry +2-3
+Rof 2.0
+Range 4 [7]
+Armor 0/1 [3/5]
+Speed 1.2
+Cost 35 F 35 W 15-12 sec
+Up cost 400 W 300 G 30 sec
+Special: deal 50% pass through damage and
+apply -15% slow for 10 seconds on hit, refresh with each hit
+
+Missing techs:
+B-infantry: elite sharktooth warrior, blast furnace, infantry armor II
+A-archers: crossbowman
+X-siege: NOPE
+B-monks: illumination*, redemption, heresy
+B-navy: nothing
+E-defenses: Watch tower, masonry, arrowslits, heated shot, treadmill, BT
+B-economy: 2-h-saw, both shaft mining, guilds
+
+
+
+*********************
+*******ASIA**********
+*********************
+South Asia Updates
+UNITS
+-War monk: infantry/monk unit which is effective vs other monks and infantry.
+Cannot convert or heal, can carry relic and fight, trained at the Monastery
+HP 60-75 [90]
+Atk 10-14 [18]
+vs monks +7
+vs infantry +6
+Rof 2.0
+Armor 2/2-4/3 [7/7]
+Speed 0.84 [1.05]
+Cost 50 F 50 G 50 sec
+Up cost 1000 F 500 G 50 sec
+Resist conversion
+
+-Elephant scout: precursor to the Battle elephant
+HP 200
+Atk 8 (1 damage in dark age)
+vs buildings +3 (1 in dark age)
+Blast radius 0.4 tiles 25% damage
+Rof 2.0
+Armor 0/2
+los 7 (6 in dark age)
+Speed 0.9
+Up cost 200 F 200 G 40 sec
+
+They all have some regional technologies
+Irrigation->Floating rice
+Replace Heavy-plow and crop rotation
+Farm regen 6-10 F/min
+Makes farm last 42-100% longer
+Compared to the previous techs
+Farm +1  325 F  last 16.5 min
+Farm +2  450 F  last 22.5 min
+Farm +3  625 F  last 31.5 min
+Farm +1+Ir      last 23.5 min 
+Farm +1+Ir+FR   last 33.0 min
+Farms replenish F even while no villager is working
+Same cost and research time
+
+-Catamaran, incendiary canoe, boarding canoe, outrigger, Siege canoe
+
+THAI-SIAM-SINHAI
+Elephant, monks and archers civilization
+
+-Town center improves work rate of other buildings by 25% in Los
+-Free Irrigation and Floating Rice
+-Villager +10 HP and work 10% faster in Imperial Age
+-Elephants +25% HP
+-Elephants can build and repair palisades and outposts (same rate as villager)
+UU Imperial battle elephant(elephant), Ayutthaya archer(foot archer)
+RU siege elephant, battle elephant, elephant archer
+CT-Ka tu sya: elephants and foot archers +1/1 armor COST   600 W 400 G 30 sec
+IT-Chatusadom (Fortifications and TC heal all allies unit in Los
+60 Hp/min, doesn't stack, increase conversion resistance
+of all units by 3) COST 850 F 650 G 60 sec
+TB-First Monastery built give 250 G instantly
+
+Imperial Battle Elephant (upgrade for battle elephant)
+HP 320 [400]   
+Atk 16 [20]
+vs buildings +7
+vs stone +7
+vs unique units +6
+Blast 1.0 tiles 25% trample
+Rof 2.0
+Armor 3/3 [7/8]
+Speed 0.9 [0.99]
+Cost 1000 F 1400 G 200 sec
+
+Ayutthaya archer
+HP 40-45
+Atk 7-8 [12]
+vs infantry +2
+Rof 2.0 [1.7]
+Range 5-6 [9]
+Accuracy 70-75% [100%]
+Armor 0/0 [4/5]
+Speed 0.96
+Cost 55 W 55 G 16-14 sec
+Up cost 650 F 450 G 40 sec
+
+Missing techs
+C-infantry: champion, squires, infantry armor III
+B-archers: arbalester, parthian tactics*
+A-cavalry: hussar, knight, bloodlines*
+B-siege: siege onager
+A-navy: nothing
+B-monks: redemption, heresy
+A-defense: nothing
+A-economy: both shaft mining*, 2-man-saw*
+
+Battle elephant: +42/80 HP, +2/1 armor
+Elephant archer: +38/50 HP, -0/1 armor
+Siege elephant: +25/35 HP, +1/1 armor
+
+
+
+MONS
+monk and archers civilization
+
+-Towers cost -50 S +65 W
+-Stone and gold miner produce a small tickle of W (10 S/G -> 1 W)
+-Monks gain +0.5 range for each monastery tech researched (+4 max) (saves 200 G)
+-Archer attack and armor upgrades cost -50% (saves 550 F 375 G)
+UU Mon Archer(archer)
+RU battle elephant, siege elephant, elephant archer, camel rider
+CT-Golden Pagoda: summon a relic in each monastery until the player
+has 4 garrisoned relics, disable Relic Victory for this player
+IT-Theravada Buddism: monks G cost is replaced with W
+TB-Archery Range and Barrack techs cost W instead of G*
+
+*arson, gambeson, parthian, saves 325 G
+
+Mon Archer: slow archer who is very strong against infantry but he's
+vulnerable to everything else
+HP 50-60
+Atk 6-7 [11]
+vs infantry +2-3
+Rof 2.0 [1.7]
+Range 4 [7]
+Armor 3/0-4/0 [7/4]
+Speed 0.9
+Cost 35 W 65 G 15-12 sec
+Up cost 700 F 500 G 40 sec
+
+Missing techs:
+B-infantry: champion, squires
+A-archers: HC
+B-cavalry: knight, cavalry armor III, husbandry
+B-siege: BC, siege onager
+A-monks: BP*, heresy, sanctity
+B-navy: nothing
+A-defenses: BT
+A-economy: nothing
+
+
+CHAM
+cavalry and naval civilization
+
+-Fire ships and Hulks move 5/10% faster
+-Light cavalry and battle elephants attack 25% faster
+-Woodcutter drop off 10% more wood
+-Hoardings affect Town Centers
+UU Chambraer(light cavalry)
+RU Battle elephant, elephant archer, siege elephant
+CT-Sea Wolves: fire ships, hulks and towers attack 25% faster
+COST 300 F 300 G 40 sec
+IT-Temple Cities: Castles double as Monasteries, 
+all units resist conversion (+2)
+COST 400 F 500 G 50 sec
+TB-Docks +4 los
+
+Chambraer
+HP 80-100 [120]
+Atk 9-11 [15]
+vs buildings +3-4
+vs villager +4-6
+vs monks +5-8
+Rof 2.0
+Armor 1/2 [4/6]
+Speed 1.5 [1.65]
+Cost 60 F 40 G 17-15 sec
+Up cost 600 F 750 G 50 sec
+Resist conversion
+
+Missing techs:
+B-infantry: champion, gambeson
+A-archers: arbalester, HC
+A-cavalry: knight
+B-siege: siege onager, BC, siege engineers
+A-navy: nothing
+B-monks: heresy
+A-defenses: BT
+A-economy: 2-h-saw*, guilds
+
+
+******NORTH ASIA*******
+NANZHAO
+cavalry and monk civilization
+
+-Mounted units deal +25% more damage on elevation (with upwards and downwards elevation)
+-Light cavalry refund 30% of their cost over 4 minutes (6 F/min)
+-All buildings produce 4 W/min passively
+-Castle Age monastery techs cost -70%
+UU Bai rider(mounted skirmisher), Yi Guard(infantry)
+RU Steppe lancers
+CT-Spirit Cult: units in los of monks take -10% damage  
+COST 300 F 400 G 30 sec
+IT-Sik Zhaos Kingdom: land unique units +10% HP (also applies to allies)
+COST 500 F 400 G 50 sec
+TB Towers, Outposts, Castles and other fortifications +2 los
+
+Bai Rider: available at Archery Ranges
+HP 70-80 [108]
+Atk 5-6 [10]
+vs archers +3-5
+vs horse archers +2
+vs monks +2-5
+Rof 3.0
+Range 4 [7]
+Armor 2/4 [5/8]
+Speed 1.45 [1.6]
+Cost 60 F 40 G 20-17 sec
+Up cost 800 F 500 G 45 sec
+
+Yi Guard
+HP 60-70 [77]
+Atk 8-12 [14]
+vs cavalry +10-14
+vs elephants +10-14
+vs camels +8-10
+vs buildings +4-5 [7]
+Rof 1.8
+Armor 2/2-3/3 [5/5]
+Speed 0.96 [1.05]
+Cost 55 F 25 G 14-10 sec
+Up cost 500 F 400 G 40 sec
+Special: take -3 damage from stable units
+
+Missing technologies:
+C-infantry: longsword*, halberdier*, blast furnace, infantry armor III
+B-archers: arbalester, HC
+A-cavalry: knight, blast furnace
+B-siege: siege onager, BC
+A-monks: BP, heresy
+B-navy: FFS, HDS, dry dock, carening
+C-defenses: BT, Keep, fortified walls, arrowslits, heated shot, treadmill
+B-economy: crop rotation, guilds
+
+
+
+TIBETANS
+monk and cavalry civilization
+
+-Military buildings yield 10/20/35/50 F and G when built
+-Can build pastures. Shepherd generate G while working (0.8/min)
+-Gompa replace Universities and Monasteries (300 W, work 15% faster than University/Monastery)
+-Gompa techs are 33% more effective (with some exceptions)
+*unique blacksmith techs
+UU Takhrab Paidungpa (cavalry/cavalry archer), Sgar Dpon (cavalry)
+RU steppe lancer, Catapult Galleon
+CT-Brog Pa: Pastures +1 animal, each garrisoned relic make all military units
+train 22% faster, max +3, enable Takhrab Paidungpa at Stables   COST 300 W 200 S 40 sec
+IT-Thag Amol: Buildings receive -10% damage and deal +15% damage when built
+on elevation, all units and buildings +2 los   COST 400 W 400 S 60 sec
+TB Monks + 2 healing range, -20% train time
+
+Fervor: +20% movement speed
+Sanctity: +20 HP
+Faith/devotion: +33% resistence
+BP: +4 range
+Illumination: +160% rejuvenation
+Herbal medicine: garrisoned units heal 8 times faster
+Heresy/Atonement/Redemption/Theocracy: no bonus
+
+Masonry/Architecture: +15% HP, +1/1 armor, +4 building armor
+Arrowslits: +4 dmg to Keeps
+Siege Engineers: +30% bonus damage
+Treadmill crane: +30% build speed, +20% for Wonders
+Heated shot: +175% bonus damage
+Murder Holes/Ballistics/Chemistry/Guard/Keep/Bombard/Fortified Wall: no bonus
+No effect on ship techs
+
+BLACKSMITH
+UT leather armor (all units +1/1 armor) 300 F 125 sec
+UT steel armor (all units +1/1 armor) 600 F 300 G 175 sec (-100 G +5 sec)
+UT elite armor (all units +1/2 armor) 900 F 600 G 225 sec (+10 sec)
+
+Takhrab Paidungpa: multi purpose cavalry, that can switch weapons
+with a special command. Can be trained at the Stables with the unique
+tech Brog Pa. Need 6 seconds cooldown to switch weapons.
+HP 90-120 [140]
+---Sword---
+Atk 10-14  [18]
+anti building +1-2
+Rof 1.8
++1/1->2/2 armor
+---Lance---
+Atk 10-13 [17]
+Rof 2.0
+Range 1.0
+---Bow---
+Atk 6-7 [11]
+anti spear +2-4 [8]
+Rof 2.2 [1.9]
+Range 4 [7]
+Accuracy 80-90% [100%]
+---
+Armor 3/2  [8/8]
+Speed 1.2 [1.32]
+Los 6 [9]
+Cost 75 F 55 G 12-6 [24-12 Stable] sec
+Up cost: 900 F 900 G 100 sec
+Can switch weapons
+Parthian tactics gives bonus damag vs spearman, but not extra armor
+
+Sgar Dpon: replace knights at the Stable
+HP 110-160 [180]
+Atk 10-14 [18]
+Rof 1.8
+Armor 3/2-4/3 [7/7]
+Speed 1.3 [1.43]
+Cost 55 F 75 G 24-12 sec
+Up cost 1300 F 900 G 100 sec
+Generate 30 F/min while fighting units
+
+Compared to Knight-line:
+General: -0.05 speed -5 F cost
+Knight: +10 HP +1/0 armor
+Paladin: +2/0 armor
+
+Barrack: champion, halberdier
+Archery Range: archer, heavy horse archer, elite skirmisher
+Stable: hussar, Sgar Pon, elite steppe lancer, Takhrab Paidungpa
+Siege Workshop: onager, capped ram, heavy scorpio, siege tower
+
+Missing techs
+A-infantry: nothing
+B-archers: crossbowman, HC
+A-cavalry: nothing
+C-siege: siege onager, siege ram, BC
+D-navy: FFS, galleon, Carrack, carening, clinker, shipwright
+S-monks: nothing
+S-defense: BT*
+A-economy: 2-h-saw
+
+
+
+
+
+DISCARDED
+Powai Tau (infantry)
+HP 40+5+5+5 (55)
+Atk 4+1+2+3 (12)
+Rof 1.75
+Armor 0/0 (3/4)
+Speed 1.1+0.05+0.1+0.1 (1.48)
+Los 4+1+1
+Cost 35 F 35 G 12-10 sec
+Can swim for 10/15/20/25 sec
+Overswimming cause 5 hp/sec bleed
+Projectile shield: 2/3/4/5 charge
+recharge in 15 seconds
+anti building +2+2+4+2 (12)
+anti siege +2+2+4+2 (10)
+Elite Up. Cost 550 F 1100 W 50 sec
+
+Fire Darter (replace trebuchet) Version I
+HP 55
+Atk 6 (7)
+Rof 3.5
+Range 10 (13)
+Los 11
+Armor 0/0 (2/2)
+Speed 0.9
+accuracy 35% (100 vs buildings)
+Cost 70 W 70 G 50-35 sec
+anti building +45
+anti ship +15
+
+Fire Darter (Version II)
+HP 30
+Atk 6 (10)
+Rof 2.0
+Range 10 (13)
+Los 2.0
+Armor 0/0 (2/2)
+Speed 0.9
+accuracy 35% (100 vs buildings)
+Cost 25 W 45 G 25-17 sec
+anti building +13
+anti ship +4

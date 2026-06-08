@@ -1,0 +1,976 @@
+Technologies
+GOVERNMENT CENTER
+Bronze Age
+-Horse riding: 175 F 100 G Mounted units (except elephants) +20% HP
+-Architecture: 175 W 50 S builders work 50% faster, buildings +20% HP
+-Logistic: 200 F 100 G Foot units (except heavy infantry) take half population,
+they are also created 20% faster
+-Urbanization: 300 W 100 S houses +5 population each
+Iron Age
+-Ballistic: 50 W 50 G ranged units aim at where the target
+is moving to. Enable ballista tower upgrade
+-Alchemy: 250 F 200 G +1 attack to ranged unit, +6 atk to fire galley
+-engineering: 200 F 100 W siege units +2 range/los
+-Conscription: 500 F 400 G military units are created 25% faster
+
+Aging up
+Tool age 500 F
+Bronze Age 800 F
+Iron Age 1000 F 800 G
+
+Writing is free. Aristocracy upgrade is merged with Centurion upgrade.
+
+ECONOMY
+-woodworking/artisanship/craftsmanship 120/180/240 F 75/125/175 W
+woodcutter +20% work rate, carry +2 wood
+-Stone mining I/II/III 100 F 50 S each
+stone miner +20% work rate, carry +2 stone
+-Gold mining I/II/III 100 F 50 W 50 G each
+gold miner +20% work rate, carry +2 gold
+-Domestication/Plow/Irrigation 175/300/400 F 50/75/100 W
+farms +100 F, farmer work 10% faster
+
+wheel is free, effect applies on bronze age
+
+RELIGIOUS
+-Monoteism: 350 G priest convert other buildings and priests
+-Afterlife: 300 G priest +3 range/los
+-Astrology: 350 G priest convert, heal and rejuvenate 50% faster
+
+Theocracy is free, comes with the Arch-Priest upgrade
+Zealotry is free, villager automatically gets benefit
+from blacksmith melee attacks. He gets more HP, on Bronze and Iron Age.
+
+Polyteism,mysticism and theocracy are free.
+Poly+misty is an upgrade for priest. arch priest-Cost 800 G
+Priest
+HP 25+25
+Range 10
+Los 12
+Armor 0/0
+Heal 150/300 Hp/min
+Speed 0.7+0.3
+Cost 125 G 50 sec
+
+Healer(for Macedonians and other civs who don't have temples)
+HP 25
+Range 10
+Los 12
+Armor 0/0
+Heal 240 Hp/min
+Speed 1.0
+Cost 100 G 40 sec
+Needs to be unlocked by paying 300 G
+
+MILITARY
+-tool working/metal working/metallurgy 100/200/300 F 0/100/200 G
+melee units +2/2/3 attack
+-infantry armor I/II/III 75/100/125 F 0/50/100 G
+infantry +2/0 armor
+-Bronze/Iron/Tower shield 150/200/250 F 200/300/400 G
+infantry/cavalry/slinger/skirmisher +0/1 armor
+-cavalry armor I/II/III 125/150/175 F 0/50/100 G
+cavalry +2/0 armor
+-archer armor I/II/III 100/125/150 F 0/50/100 G
+archers +2/0 armor
+-Fletching/Bodkin/Bracer 100/125/150 F 0/50/100 G
+ranged units +1 range/los. 
+
+City watch is free. Buildings get +3 Los on Tool Age automatically
+
+---Tech availability---
+-Architecture is missing from Assyrians, Phoenicians (hittites get it)
+-Alchemy is missing from Choson, Shang (Romans get it)
+-Engineering is missing from Choson,Lac Viet, Macedonians, Palmyrians and Shang
+-Urbanization is missing from Choson, Hittites, Lac Viet, Minoans, Phoenicians, Yamato
+-Nobility is given to Macedonians and Assyrians
+-Palmyrian get logistic
+-Aristocacy is merged with the centurion upgrade.
+This doesn't change a thing for Assyrians, Choson, Lac Viet, Palmyrian, Persians, Shang
+-Greeks, Macedonians, Romans, Shang and Yamato don't get Conscription
+-Everybody get Writing and Ballistics
+
+-Macedonians, Palmyrians, Persians and Sumerian don't get Wood III and Bracer
+-Palmyrians, Persians and Hittites don't get Irrigation (Romans do)
+-Cartaginians, Lac Viet, Persians, Phoenicians, Egyptians and Shang don't get Stone III
+(Macedonians do)
+
+NOTE: Macedonians, Hittites, Yamato, Lac Viet and Minoans have healers,
+which replace the priest for these civilizations.
+-Cartaginians, Romans and Sumerians don't get Astrology
+(hittites and Lac viet lose the healing/conversion boost)
+-Palmyrians don't get the Arch-priest upgrade
+-Romans and Sumerians don't get Afterlife
+-Cartaginians, Greeks, Palmyrians and Sumerians don't get Monotheism
+-Palmyrians get Medicine
+-Greeks get the theocracy effect, Lac Viet loses it
+NOTE: Palmyrians and Sumerians have awful priests.
+----
+Palmyrians have only Astrology and Afterlife.
+Sumerians have only the priest upgrade.
+----
+
+-Cartaginians, Palmyrians, Phoenicians,Greeks and Sumerians don't
+-Assyrian and Egyptian get Shield I
+-Assyrian, Egyptians,Babylonians, Choson and Sumerians don't get shield II (and III)
+-Lac Viet and Palmyrians don't get shield III (Yamato get it)
+-Cartaginian, Choson and Phoenicians don't get the final unit armor upgrade
+(infantry,archer,cavalry armor III).
+-Lac Viet also get the last infantry armor upgrade.
+
+
+UNITS
+
+Villager
+HP 25+15+10+15 (65)
+Atk 3 (10)
+anti building +2
+Rof 1.5
+Armor 0/0
+Speed 1.0 (1.4)
+Los 4
+Cost 50 F 20 sec
+
+ARCHERS
+
+Skirmisher
+HP 25+10 (35)
+Atk 3+2 (6)
+anti archer 3+3 (6)
+Range 4 (7)
+Rof 1.5
+Armor 0/3+0/2 (6/8)
+Speed 1.0
+Los 6 (9)
+Cost 40 F 10 W 36-27 sec
+Up cost: 200 F 100 W 60 sec
+
+Slinger
+HP 25+10 (35)
+Atk 3+2 (6)
+Range 4 (7)
+Rof 3
+Armor 0/3+0/2 (6/8)
+Speed 1.0
+Los 6 (9)
+Cost 40 F 10 S 36-27 sec
+Up cost: 200 F 100 S 60 sec
+Special: attack ignores pierce armor
+
+Archer
+HP 35+5+5 (45)
+Atk 3+1+1 (6)
+anti light infantry+2-1-1
+Rof 1.5
+Range 5+1+1 (10)
+Los 7+1+1 (12)
+Armor 0/0 (6/0)
+Speed 1
+Cost 40 F 20 W 30-22 sec
+Up cost: 60 F 20 sec
+Up cost: 120 F 100 W 80 sec
+Upgrade II is not available to Assyrians, Greeks, Hittites and Sumerians
+Upgrade III is not available to Cartaghinians, Choson and Romans
+
+Horse archer
+HP 60+25 (102)
+Atk 7+1 (9)
+Rof 1.5
+Range 7 (10)
+Los 9 (12)
+Armor 0/0+0/1 (6/1)
+Speed 2
+Cost 50  70 G 40-30 sec
+Up cost: 1750 F 800 G 150 sec
+Not available to Egyptians, Greeks, Minoans, Phoenicians and Romans
+Elite upgrade not available to Assyrians, Babilonians, Cartaghinians, Choson
+
+
+INFANTRY
+
+Swordman
+HP 40+10+10(automatic in Bronze Age)+20+20+40 (140)
+Atk 3+2+2(automatic in Bronze Age)+2+2+2 (20)
+Rof 1.5
+Armor 0/0+0/0+1/0(automatic in Bronze Age)+0+1/0 (8/3)
+Speed 1.0
+Los 4
+Cost 30 F 20 G 27-18 sec
+Up cost: 100 F 40 sec 
+Up cost: 150 F 50 G 90 sec 
+Up cost: 250 F 100 G 90 sec
+Up cost: 1400 F 600 G 150 sec
+Upgrade II is not available to Egyptians and Yamato
+Upgrade III is not available to Hittites, Palmyrians and Shang
+Upgrade IV is not avaialable to Cartaghinians, Lac Viet, Minoans, Sumerians
+(Greeks and Macedonians get it)
+
+Heavy infantry
+HP 120+40 (160)
+Atk 17+3(automatic in Iron Age)+10 (37)
+Rof 1.5
+Armor 5/0+2/0(automatic in Iron Age)+1/0 (14/3)
+Speed 0.9+0.2 (1.1)
+Los 4
+Cost 60 F 40 G 36-27 sec
+Up cost: 2000 F 800 G 240 sec
+Upgrade II is not available to Assyrians, Babylonians, Choson, Egyptians, Lac Viet, Persians and Shang
+Upgrade III is not available to Hittites, Palmyrians
+
+Spearman
+HP 50+20+30 (100)
+Atk 5+2+2 (16)
+anti cavalry +4+4+4 (12)
+Rof 1.5
+Armor 0/1+3/0+3/0 (12/4)
+Los 4
+Cost 30 F 20 W 27-18 sec
+Up cost: 150 F 50 G 60 sec
+Up cost: 1500 F 700 G 120 sec 
+Upgrade III is not available to Egyptians, Hittites, Palmyrians, Shang, Yamato,
+Cartaghinians, Lac Viet, Minoans and Sumerians
+
+CAVALRY
+
+Scout
+HP 60+20 (96)
+Atk 3+2 (12)
+anti archer +3+2 (5)
+Rof 1.5
+Armor 0/0 (6/3)
+Speed 1.7
+Los 7
+Cost 80 F 30-22 sec
+Up cost: 200 F 20 sec
+
+Heavy cavalry
+HP 150+20+60 (276)
+Atk 8+2+3 (20)
+anti light infantry +5+1+1
+Rof 1.5
+Armor 0/0+2/0+3/0 (11/3)
+Speed 1.7
+Los 4
+Cost 70 F 80 G 40 sec
+Up cost: 350 F 125 G 90 sec
+Up cost: 1600 F 600 G 150 sec
+Not available to Egyptians and Sumerians
+Upgrade I not available to Babylonians, Hittites, Minoans, Phoenicians
+Upgrade II not available to Greeks, Lac Viet, Palmyrians (Romans and Cartaghinians get it)
+
+Camel rider
+HP 120+10 (156)
+Atk 7+1 (15)
+anti cavalry +8+7 (15)
+Rof 1.5
+Armor 0/0+1/0 (7/3)
+Speed 1.7
+Los 4
+Cost 70 F 60 G 30 sec
+Up Cost: 200 F 100 G 30 sec
+Not available to Choson, Greeks, Lac Viet, Macedonians, Romans, Yamato
+(Shang loses them)
+
+War elephant
+HP 600
+Atk 15+3 (18)
+anti building +25+10 (35)
+Bow 5+1 (7)
+Range 7 (10)
+Rof 1.5
+Blast 1.0
+Armor 0/0+2/0 (8/3)
+Speed 1.0
+Los 9 (12)
+Cost 180 F 60 G 60-45 sec
+Up cost: 1000 F 1200 G 150 sec
+Special: can switch to a bow
+Trample 100%
+Not available to Assyrians, Babylonians, Choson, Greeks, Minoans, Romans, Shang, Yamato
+Upgrade I not availalbe to Egyptians, Sumerians
+(Macedonians, Palmyrians, Sumerians get the Bow upgrade)
+
+Chariot
+HP 120+20 (168)
+Atk 9+2 (18)
+Bow 4 (5)
+Range 7 (10)
+Rof 1.5
+Armor 0/0+1/0 (7/3)
+Speed 1.7
+Los 9 (12)
+Cost 60 F 60 W 40-30 sec
+Up cost: 1400 W 100 G 200 sec
+Special: trample damage 50%
+Can switch to a bow
+Chariot is not available to Cartaghinians, Choson, Greeks, Macedonians, Minoans, Yamato
+(Persians get it)
+Upgrade I is not available to Assyrians (Romans get the bow ability for chariots)
+
+SIEGE
+
+Stone Thrower
+HP 75+25+50 (150)
+Atk 50+10 (60)
+anti building +140
+anti tower +50
+Blast 0.8+0.45+0.25 (1.5)
+Rof 5.4
+Range 3-10+2+1 (15)
+Los 13+2+1 (8)
+Armor 0/3+0/1+0/1 (0/5)
+Speed 0.7
+Cost 180 W 60 G 60-45 sec
+Up cost: 300 F 250 W 100 sec
+Up cost: 1800 F 900 W 150 sec
+Upgrade I not available to Cartaghinians, Choson, Egyptians, Phoenicians, Yamato
+Upgrade II not available to Persians, Shang (Macedonians get it)
+
+Ballista
+HP 60
+Atk 40+5
+Rof 2.7-0.9 (1.8)
+Range 3-9+1 (12)
+Los 11+1 (14)
+Armor 0/0
+Speed 0.7
+Cost 100 W 80 G 50-38 sec
+Up cost: 1200 F 1000 W 150 sec
+Not available to Babylonians, Egyptians, Hittites, Persians, Phoenicians, Sumerians, Yamato
+Upgrade I not available to Lac Viet, Macedoanians, Palmyrians
+
+Battering Ram
+HP 200+80 (280)
+Atk 3
+anti building +32+8 (40)
+anti tower +32+8 (40)
+anti siege +45+15 (60)
+Rof 5
+Armor 0/40
+Speed 0.6
+Los 3
+Cost 160 W 80 G 60-45 sec
+Up cost: 1000 F 75 sec
+Special: can be garrisoned
+by 10 foot units, to increase
+speed by 0.04 and attack
+rate by 5%
+Not available to Minoans, Lac Viet, Palmyrians, Phoenicians, Yamato, Choson
+
+NAVY
+
+Arrow galley
+HP 120+40+40 (200)
+Atk 5+1+1 (11)
+Rof 1.5
+Range 5+1+1 (10)
+Los 7+1+1 (12)
+Armor 0/0
+Speed 1.8
+Cost 150 W 70-49-42-35 sec
+Up cost:150 F 75 W 60 sec
+Up cost:250 F 100 W 100 sec
+Special: can garrison 10 land units
+Upgrade II not available to Babylonians and Shang (Hittites get it)
+
+Siege galley
+HP 150+50 (200)
+Atk 35
+anti building +140
+anti tower +50
+Blast 1+0.2 (1.2)
+Range 9+1 (12)
+Los 12+1 (15)
+Rof 6-0.6 (5.4)
+Armor 0/0
+Speed 1.5
+Cost 150 W 50 G 90-45 sec
+Up cost: 1300 F 700 W 100 sec
+Special: can garrison 10 land units
+Not available to Assyrians, Babylonians, Choson, Hittites, Palmyrians, Shang, Sumerians
+(Cartaghinians get it)
+Upgrade I not available to Lac Viet
+(Macedonians get it)
+
+Fire Galley
+HP 200
+Atk 24+6 (30)
+Rof 1
+Range 1
+Los 8
+Speed 2
+Cost 120 W 40 G 30 sec
+Special: can garrison 10 land units
+Not available to Choson, Egyptians, Lac Viet, Minoans, Persians, Phoenicians, Yamato
+(Romans and Macedonians get it)
+
+Fishing Ship
+HP 100
+Armor 0/0
+Speed 2
+Los 6
+Cost 50 W 40-30-20 sec
+
+Merchant Ship
+HP 200
+Armor 0/0
+Speed 2.5
+Los 4
+Cost 75 W 60 G 50-30-25 sec
+
+OTHERS
+
+Trade Cart
+HP 100
+Armor 0/0
+Speed 1.5
+Los 7
+Cost 75 W 60 G 50 sec
+
+Priest
+HP 25+25
+Range 10
+Los 12
+Armor 0/0
+Speed 0.7+0.3
+Cost 125 G 50 sec
+Up cost: 700 G
+
+Pharaoh (egyptian unique priest)
+HP 150 (+100 from High Priest)
+Range 6 (12) (-4 from High Priest)
+Los 8 (14)
+Armor 3/3 (+3/3 from High Priest)
+Speed 1.0
+Cost 125 G 50 sec
+
+BUILDINGS
+
+Tower
+HP 120+60+70 (300)
+Atk 4+1+1 (10)
+Rof 1.5
+Range 6+1+1 (11)
+Los 8+1+1 (13)
+Armor 0/3+0/1+0/1 (0/5)
+Cost 150 S 60 sec
+Up cost: 120 F 50 S 30 sec
+Up cost: 300 F 100 S 75 sec
+Up cost: 1800 F 750 S 150 sec unlock special
+Special: Upgrade III, ignores half of foe
+pierce armor
+
+Wall
+HP 200+100+100 (480)
+Armor 0/3+0/1+0/1 (0/5)
+Cost 5 S 7 sec
+Up cost: 200 F 100 S 60 sec
+Up cost: 300 F 175 S 75 sec
+Upgrade II not available to Minoans and Yamato
+(Cartghinians and Macedonians get it)
+
+Town Center
+HP 600
+Los 7
+Cost 200 W 60 sec
+Support 10 population
+
+Barrack/Blacksmith/Storehouse/Granary/Archery Range/
+Stable/Market/Government Center*/Temple*/Siege workshop*
+HP 350
+Los 5
+Cost 125 W 30 sec
+*cost 200 W 60 sec
+
+Dock
+HP 350
+Los 5
+Cost 100 W 50 sec
+
+House
+HP 100
+Los 2
+Cost 40 W 25 sec
+Support 5 population
+
+Farm
+HP 50
+Los 3
+Cost 75 W 24 sec
+Provide 250 F (up to 550)
+
+Wonder
+HP 500
+Los 4
+Cost 1000 W 100 S 1000 G 8000 sec
+Win the game after 1000 sec (16 min and 40 sec)
+
+CIV BONUSES
+
+ASSYRIANS
+archer and siege civilization
+
+-villager move 10% faster
+-Archers and horse archers fire 33% faster
+-Siege units upgrade cost -50%
+
+Team bonus
+-siege workshop work 20% faster
+
+BABYLONIANS
+defense civilization
+
+-stone miner work 20% faster
+-Eco tech cost -30%
+-Walls and towers +60% HP
+-Priest rejuvenate 30% faster
+
+Team bonus
+-builder work 20% faster
+
+CARTAGINIANS
+cavalry and naval civilization
+
+-start with +50 in all resources
+-Heavy infantry, Elephants, Camels +25% HP
+-Fire galley +25% attack
+-Nobility is free
+
+Team bonus
+-Heavy infantry is trained 20% faster
+
+CHOSON
+infantry civilization
+
+-Swordman +50% HP
+-Blacksmith upgrdes cost -40%
+-Towers +2 range
+-Priest cost -32%
+-Heavy cavalry +0/2 armor in Iron Age
+
+Team bonus
+-Buildings +2 Los
+
+EGYPTIANS
+priest and cavalry civilization
+
+-farms cost -20%
+-gold miner work 20% faster
+-Chariot +40 HP
+-Priest +3 range
+
+Team bonus
+-priest +0/1 armor
+
+GREEKS
+infantry and naval civilization
+
+-Town center works 10% faster
+-Heavy infantry cost -20% and move 20% faster
+-Ships move 20% faster
+-Monk techs cost -20%
+
+Team bonus
+-Market cost -50%
+
+HITTITES
+archer and siege civilization
+
+-archers +1 attack
+-Catapult +50% HP
+-Trireme +1/2/3 range
+-Train Healer instead of priest
+
+Team bonus
+-towers +4 population
+
+LAC VIET
+archer civilization
+
+-forager work 20% faster
+-Military units are created 25% faster
+-Archery range units and Ballista +2/0 armor
+-Train Healer instead of priest
+
+Team bonus
+-Houses are built 100% faster
+
+MACEDONIANS
+infantry and siege civilization
+
+-all melee units +2 Los
+-Heavy infantry +0/1 armor in Bronze, +0/2 in Iron
+-Siege units cost -25%
+-Cannot build temple, all units are 4 times more
+resistent to conversion
+-Train Healer instead of priest, can be trained at the
+barracks, and can be unlocked for free
+
+Team bonus
+-Houses +50 HP
+
+MINOANS
+archer and naval civilization
+
+-Ships cost -15/20/25/30 %
+-Archer +1/2 range
+-Farmers work 10% faster
+-Train Healer instead of priest
+
+Team bonus
+-Dock cost -20%
+
+PALMYRIANS
+cavalry civilization
+
+-villager cost +25% but work 25% faster, start with +50 F
+-Camel rider moves 25% faster
+-Trade units return +20% gold
+
+Team bonus
+-Techs are researched 30% faster
+
+PERSIANS
+cavalry and naval civilization
+
+-Hunters work 30% faster
+-Elephants move 22% faster
+-Trireme fires 33% faster
+-Walls cost -20%
+
+Team bonus
+-Stable works 20% faster
+
+PHOENICIANS
+cavalry and naval civilization
+
+-Woodcutter works 20% faster
+-Elephants cost -25%
+-Catapult trireme fires 33% faster
+-Docks +150 HP and +4 Los
+
+Team bonus
+-Archers +2 Los
+
+ROMANS
+infantry and naval civilization
+
+-Buildings cost -10%
+-Towers cost -40%
+-Swordman attack 50% faster
+-Ballista +1 range
+
+Team bonus
+-Priest +50% heal speed
+
+SHANG
+cavalry civilization
+
+-villager cost -20%
+-start with -40 F
+-Walls +60% HP
+-Heavy cavalry attack 10% faster
+
+Team bonus
+-Town center +4 population
+
+SUMERIANS
+siege civilization
+
+-villager +15 HP
+-catapult attack 45% faster
+-farms +125 F
+
+Team bonus
+-Town centers cost -25%
+
+YAMATO
+cavalry and naval civilization
+
+-fisherman work 20% faster
+-mounted units cost -15%
+-Ships +10/15/20/25% HP
+-Stable and archery range upgrades cost -30%
+-Train Healer instead of priest
+
+Team bonus
+-Stables and archery ranges cost -33%
+
+
+NEW CIVS
+
+GAULS
+infantry and cavalry civilization
+
+-All food income comes 5% faster
+-Infantry units move 10% faster
+-Heavy cavalry +30% HP
+-Blacksmith upgrades cost -50% G
+
+Team bonus
+-Houses cost -20%
+
+ICENI
+archer civilization
+
+-Chariot +1 bow range, cost -33% W
+-Archers cost -20/25/30%
+-Fishing boats cost -10/20/30/40%
+
+Team bonus
+-Docks +4 population
+
+IBERIANS
+infantry and defense civilization
+
+-Sworman +1/2/3 attack
+-Skirmisher +1/2 attack
+-Skirmisher, Spearman -10% cost
+-All buildings +3 building armor
+
+Team bonus
+-Tower upgrades cost -50%
+
+GERMANS
+infantry civilization
+
+-Buildings cost -20%, and are built 25% faster, but have -20% HP
+-Mounted units move 10% faster
+-Swordman +0/1 armor in Bronze, +0/2 in Iron
+-Priest provide +1 attack to allies in range
+-Hunters work 10% faster for each Blacksmith attack upgrade
+-Swordman upgrades cost -50%
+
+Team bonus
+-Villager carry +1 resource of all types
+
+SCYTHIANS
+cavalry archer civilization
+
+-Cavalry archers cost -20/30 %
+-villager remotely deposit resources
+-Heavy cavalry +1/1 armor in Bronze, +2/2 in Iron
+-Nobility affect villager
+
+Team bonus
+-Villagers occupy -10% population
+
+DACIANS
+infantry civilization
+
+-Infantry +1/2/3 attack
+-Military buildings cost -33%
+-Priest are affected by infantry armor upgrades
+-Towers cost -40% S
+-Miner work 10% faster (S/G)
+
+Team bonus
+-Barracks work 20% faster
+
+
+
+
+MOD-MARIS MEDITERRANEUM
+This mod include only italian and Greek civilizations
+Elephants, Chariots, camels, Fire galley are removed.
+Logistics, Ballistics and Urbanizations are free upgrades.
+There are only 3 Ages. Stone,Bronze and Iron Age.
+Tool Age is fused with Stone Age. Houses cost +10 W.
+Alchemy is removed. Government center is missing, its techs
+are moved to the Town Center. Moved horse archer to the stable.
+
+CIVILIZATIONS
+
+1-ROMANS
+infantry, siege and naval civilization
+
+-Infantry +25% HP
+-Towers cost -40%, walls, farms, Docks -20%, others -10%
+-Siege units +1 range, affected by infantry armor upgrade
+-Warships cost -10/20/30 %
+
+Team Bonus
+-Military buildings work 25% faster
+
+Missing techs:
+Afterlife, Astrology, Archer II, Horse archer
+
+2-GREEKS
+infantry and naval civilization
+
+-Infantry +20% movement speed, cost -20%
+-All units and buildings +2 Los
+-Warships move 20% faster
+-Temple upgrades cost -30%
+-Docks +150 HP
+
+Team bonus
+-builder work 10% faster
+
+Missing techs:
+Monotheism, Metallurgy, Archer II, horse archer, Cataphract
+
+3-SIRACUSANS
+siege and naval civilization
+
+-All food income +5%
+-Warship and siege units attack 33% faster
+-Echo techs cost -30%
+-Walls,Towers +60% HP
+-Trade units +20% more gold
+
+Team bonus
+-market, military buildings cost -20%
+
+Missing techs:
+Metallurgy, Cataphract, Sword IV, Heavy infantry III, horse archer
+
+4-SARDINIANS
+infantry and naval civilization
+
+-Miner works 10% faster
+-Blacksmith techs cost -40%
+-Tower are affected by engineers
+-Warships +25% HP
+-Foot units +2/0 armor
+
+Team bonus
+-Houses +50 HP
+
+Missing techs:
+Cataphract, horse archer, Sword IV, archer III
+
+5-ETRUSCANS
+defense and cavalry civilization
+
+-Stone miner work 20% faster
+-Cavalry cost -15%
+-Town center works 10% faster
+-Free Horse Riding and Architecture
+-Houses, Farms, Towers and Walls are built 50% faster
+-forager work 20% faster
+
+Team bonus
+-Towers, Town Center +4 population
+
+Missing techs:
+Sword III, Heavy infantry III, spearman III, Ram
+
+6-APULIANS
+archer and naval civilization
+
+-farmer work 10% faster
+-archers +1/2 range
+-Trireme +1/2/3 range
+-Start with +1 villager -50 F
+
+Team bonus
+-Priest +0/1 armor
+
+Missing techs:
+Sword III, Heavy infantry, spearman II, Ram, Ballista, Cataphract, Horse archer
+
+7-SAMNITI
+infantry civilization
+
+-Villager work 25% faster, but cost +20 F, start with +100 F
+-Infantry +1/2 attack
+-Farms upgrade are free
+-Cavalry +2/0 armor
+
+Team bonus
+-Storehouse, Blacksmith, Temple cost -32%
+
+Missing techs:
+Archer III, cataphract, Ram
+
+8-PERSIANS
+archer and cavalry civilization
+
+-Archers fire 33% faster
+-Cavalry attack 15% faster
+-Archery and Stable upgrades are 30% cheaper
+-fisherman work 20% faster
+-Start with +50 in all resources
+
+Team bonus
+-Town Center cost -25%
+
+Missing techs:
+Sword III, heavy infantry III, spearman III,
+
+9-GAULS
+infantry and cavalry civilization
+
+-Hunter works 30% faster
+-Villager move 10% faster
+-Infantry attack 33% faster
+-Priest cost -32%
+
+Team bonus
+-Villager +15 HP
+
+Missing techs:
+Archer III, Cataphract, Ballista, Ram
+
+10-DACIANS
+infantry and siege civilization
+
+-gold miner work 20% faster
+-siege upgrade and siege units -25% cost
+-Heavy infantry +0/1 +0/2 armor
+-Towers, Walls are affected by blacksmith infantry armor upgrades
+
+Team bonus
+-Priest heal 50% faster
+
+Missing techs:
+Archer II, Cataphract, Horse archer
+
+11-IBERIANS
+infantry and defense civilization
+
+-Woodcutter work 20% faster
+-Priest +3 range
+-Skirmisher +1/2 attack
+-Start with +100 S, gain +100 S in Bronze and Iron Age
+
+Team bonus
+-Techs are researched 30% faster
+
+Missing techs:
+Archer II, Cataphract
+
+NABATEANS
+-trade units move 20% faster
+-Buildings cost -10% S
+-Towers are affected by siege engineers
+TB Storehouses produce 2 F/min
+
+Miss: heavy cavalry, elephants, catapult, composite bowman
+Metallurgy, Centurion, Iron shield, Chain mail
+
+KALINGA
+-Elephants +10% HP, cost -15%
+-Monks convert 25% faster
+-Farms +10% HP
+TB Elephants +1/1 armor
+
+Miss: Chariots, Horse Archers, Heavy cavalry
+Enginnering,Alchemy, Centurion, Metallurgy
+
+LIGURIANS
+-Towers and Walls cost -25%
+-Houses cost -50%
+TB Skirmishers, Slingers +1 atk
+
+Miss: Chariots, Elephants, Horse archer, Siegecraft, Catapult
+Nobility, Iron shield, Engineering, Metallurgy
+
+GARAMANTI
+-Farmers work 10% faster
+-Foot soldiers move 10% faster
+TB Storhouses produce 1 G/min
+
+Miss: Elephants, Catapult, Composite bowman, heavy cavalry,
+Enginnering, Alchemy, Chain Mail, Metallurgy, Centurion
