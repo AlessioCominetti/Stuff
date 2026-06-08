@@ -1,0 +1,1316 @@
+Cossack Work rate/sec
+Food 2.3 - 14.3
+Wood 5.6 - 11.2
+Stone 5.7 -  22.8
+Minerals 2
+
+American Conquest Work rate/sec
+Farm 2.5 - 20  (Natives 2 - 10)
+Fish 20 - 60
+Hunt 5.5
+Wood 6.7 - 20   (Natives 4 - 8)
+Minerals 2
+
+Cossack Upgrades
+Mine: from lvl 1 to lvl 7   Cost 82.250 G and 38.230 I
+lvl 1 5    G 1250         time 125 sec
+lvl 2 10   G 7750         time 388 sec
+lvl 3 18   G 6250 I 22230 time 173 sec 617 sec
+lvl 4 28   G 20000 I 7000 time 357 sec 125 sec
+lvl 5 40   G 21000 I 9000 time 262 sec 113 sec
+lvl 6 55   G 26000        time 236 sec
+lvl 7 95   ----  tot 1540 sec 855 sec
+
+ACCADEMY
+Wood +100%: 550 G 5500 F
+Buildings +50/100% HP: 350 G 20000 S 900 I / 13500 W 1150 G 8000 S
+Buildings -75% construction time: 9050 G
+Walls,Towers +70% HP: 1500 G 16200 S
+Repairs all artillery: 350 W 100 G 250 C
+Heal all units: 200 G 200 C
+Reveal map and mining deposits: 2250 G
+Stone +200/400%: 1550 G 3000 I / 1550 G 4200 F 12600 C
+
+BLACKSMITH
+mounted units +200% build speed: 3650 G 5300 I 8200 C
+cavalry +5 atk: 500 G 7900 I
+armored units +2/2 defense: 7000 G  / 12000 G 3000 I
+Shot power +20/50%: 13000 G  /  33000 G
+Musketters cost -50%: 1550 G 3700 C
+Pistols +35/35% fire rate: 300 G 2000 I /  5500 G 21200 C
+Melee attack +7: 12750 G
+Grenadier +25% attack: 43200 G
+
+SHIPYARD
+Fishing +100%: 12400 W 2520 G
+Unlock frigate: 12400 W 7040 G
+Unlock battleship: 32300 W 6800 G 9000 I 12800 C
+Boats cost -85%: 7300 W 1220 G
+Vessel speed +40%: 65400 W 24050 G
+Vessel +200% build speed: 2300 W 1150 G 58700 S
+
+MILL
+Grain +140/120/35%: 250 G 750 F  /  3350 G 40600 F 2900 I  /  45000 W 3200 G
+Field +200/200% durability: 400 W 100 G  / 1400 W 500 G
+
+ARTILLERY
+Artillery cost -35%:
+Artillery +200% build speed:
+Artillery range +15%: 9000 G 27200 I 47250 C
+Artillery +150% HP: 500 G 3830 I 1500 C
+Artillery +30/35% accuracy: 3540 W 2000 G 7250 C  /  9540 W 12000 G 65200 C
+Unlock multi-barreled cannon: 1500 G 2500 C
+
+
+
+
+
+
+
+
+American Conquest Upgrades
+Mine: from lvl 1 to lvl 7
+lvl 1 5    G 250 W 1000 F 1000    time 25 sec
+lvl 2 10   G 1000 W 5000 F 25000  time 50 sec -500 W for Gold Mine
+lvl 3 18   G 2200 W 22230 F 41250 time 62 sec -2230 W for Gold Mine
+lvl 4 28   G 7000 I 7000 F 15000  time 250 sec -500 G -1000 I for Gold Mine 
+lvl 5 40   G 25000 I 9000 F 23000 time 425 sec +1000 G -1000 I for Gold Mine
+lvl 6 55   G 29000 F 60300        time 255 sec -1000 G for Gold Mine
+lvl 7 95   ----  tot time 1067 sec
+
+Aztecs Exception
+lvl 2  -200 G                    time 40 sec  for Gold Mine
+lvl 3  -1400 G                   time 24 sec  for Gold Mine   -90% W/F for Stone Mine
+lvl 4  -4000 G -4800 I           time 90 sec  for Gold Mine   -90% G/I -10000 F fro Stone Mine 25 sec
+lvl 5  -22900 G +3900 I -18000 F time 188 sec  for Stone Mine
+lvl 6  -10000 G -54000 F         time 173 sec  for Stone Mine
+tot time: Gold Mine 859 sec    Stone Mine 523 sec
+
+EUROPEANS
+
+TOWN CENTER
+Reveal all deposits and unlock mining upgrades: 2000 G
+paesant +15% creation speed: 69000 W 86000 F 2300 G  (+50% effect, 29000 W 50000 F 4300 G for Russia)
+Buildings +3 armor: 28000 W 6000 S   (Not Russia)
+Military buildings +5 armor: 65000 W 10000 S (6300 S for Russia)
+Construction time -50%: 20000 W 500 S
+Unlock House II: 4000 W 4000 G 1400 G
+Unlock Hospital: 6300 G 4000 W 4000 S
+-Heal all infantry: 200 G 200 I
+-Heal all mounted units: 400 G 400 C
+-Heal all artillery: 2000 W 100 G
+Fusilier -20% scatter: 26000 G 7000 I 3500 C
+Unlock 18th officiers, fusilier +100% creation speed: 1900 G 9000 I (Free for Russia)
+Fusiliers +35% rate of fire: 3000 I 11500 C
+All shooter +10% fire power: 1200 G 6200 C                          (Not for Russia)
+All shooters +35% fire rate: 6200 G 3500 I 9000 C
+Musketters, arquebusiers, fusiliers +5 melee attack: 1750 G 4800 I  (Not for Russia)
+
+BLACKSMITH
+armored units +3/3 armor: 900 G 4000 I / 20500 W 650 G 2150 I   (Not Russia)
+halberdier +100% creation speed: 950 G 7500 W 5000 F 2400 I
+pikeman +100% creation speed: 2000 G 33500 W 5000 F  16000 I
+spearman +100% creation speed: 18000 W 1800 G 4200 I
+arquebus +100% creation speed: 85000 W 55000 F 5000 C  (Not Russia)
+strelet +100% creation speed: 40000 F 28000 W 1250 G 5000 C (only Russia)
+musketter +100% creation speed: 3000 G (Not Russia)
+fusilier +100% creation speed: 65000 G (35000 G for Russia)
+
+MILL
+Food +100%: 6000 W 10600 F
+Food +100%: 2100 G 1400 I  (+2500 I for Russia)
+Food +100%: 11200 W 60000 F 
+Field +100%: 2400 W 400 G 400 I  (+4000 W +3200 I +550 G for Russia)
+Field +100%: 25000 W 200 G
+Field +100%: 14000 W 25000 F
+Base Field Durability: 60  -> 240
+Base Work Rate: 5 -> 20
+
+STOREHOUSE
+wood +50%: 550 G 5500 F     (1750 G for Russia)
+wood +50%: 4100 G 90500 F
+Base Work Rate: 10 -> 20
+
+SHIPYARD
+ships +40% movement speed: 1650 G 8250 W
+Warships cost -20%: 5000 G
+Warships +100% creation speed: 33000 W 3300 G
+Fishing ships +100% capacity and work rate: 5000 W 2500 G (-2000 G for Aztecs)
+Fishing ships +100% capacity and work rate: 2000 W 6000 G 5000 I
+Fishing ships +100% capacity and work rate: 5000 G 6000 I 20000 W
+
+STABLE
+unlock dragoon 17th: 20000 W
+unlock m.officier 17th: 30000 W
+unlock dragoon 18th: 30000 W
+unlock m.officier 18th: 63000 W
+Cavalry +100% creation speed: 2800 G 70000 W 18000 S (-300 G -9000 W for Russia)
+
+ARTILLERY
+rate of fire -70%:  11500 G 4300 I 8700 C
+accuracy +70%:  2900 G 12000 I 22800 C
+range +25%: 9100 G 9150 I 12150 C
+Artillery cost -30%: 128400 W 6550 G
+Artillery +120% creation speed: 13330 I 7700 C
+
+Unit upgrades
+Upgrade cost for Halberdier/pikeman/spearman-line
+spearman +2/3/3 atk, +4/4/4 armor
+pikeman +3/3/4 atk, +4/6/8 armor
+halberdier +2/3/4 atk, +5/6/9 armor
+AtkI      50 G   3500 F
+AtkII    160 G  34000 F
+AtkIII   200 G 125300 F
+DefI     190 G    450 F 
+DefII    800 G  14000 F 
+DefIII  1400 G 112000 F
+
+Upgrade cost for Arquebusier-line
+arquebusier +2/3/4 atk, +3/3/2 armor
+AtkI      50 G    150 F
+AtkII    700 G   1000 F
+AtkIII  2000 G  23000 F
+DefI     190 G    800 F  
+DefII    800 G   3400 F 
+DefIII   600 G   5300 F 
+
+Upgrade cost for Musketter-line
+musketter +3/3/3 atk, +5/6/10 armor
+AtkI     500 G  13000 F
+AtkII    150 G  44000 F
+AtkIII 18200 G  43200 F
+DefI    1100 G   4350 F
+DefII    650 G  15000 F
+DefIII  7750 G  90000 F 12000 C 2700 I
+
+Upgrade cost for Fusilier-line
+fusilier +3/7/5 atk, +3/8/7 armor 
+AtkI     500 G  13000 F
+AtkII    700 G  44000 F
+AtkIII 19500 G  43100 F
+DefI     250 G   1350 F
+DefII    950 G  15000 F
+DefIII  2000 G  72800 F
+
+Upgrade cost for Dragoon-line
+dragoon +7/6/3 atk, +5/5/5 armor
+AtkI     300 G  20000 F  
+AtkII    500 G  74000 F 
+AtkIII 15000 G  22300 F
+DefI    1000 G  24200 F 
+DefII    800 G  73000 F 
+DefIII  1800 G  72600 F 
+
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+
+Upgrade cost for Conquistador/knight-line
+conquistador/knight +5/5/2 atk, +7/7/4 armor
+AtkI     320 G  12800 F
+AtkII   1700 G  42000 F
+AtkIII   700 G  92600 F
+DefI     100 G  12800 F
+DefII    100 G  37000 F
+DefIII   100 G  72600 F
+
+Upgrade cost for Lancer-line
+lancer +3/4/5 atk, +3/4/5 armor
+AtkI     150 G  18800 F
+AtkII    750 G  42000 F
+AtkIII  1450 G  92600 F
+DefI     100 G  11200 F
+DefII    750 G  37000 F
+DefIII  1500 G  72600 F
+
+
+NATIVES
+
+TOWN CENTER
+Spearman +100% creation speed: 8000 W 25000 S (+40000 S for Aztecs)
+Slinger +100% creation speed: 600 G
+Melee units +5 atk: 15000 W 4000 I  (also SIOUX and PUEBLO)
+All military units +10% HP: 1000 I
+archers -70% scatter: 24000 W 5000 G (-10000W -3500 G for HAIDA) (-95% for Incas)
+Improve projectile protection of some units: 15000 W 5000 I  (2600 W 2600 I for PUEBLO)
+Improve lance protection of some units: 60000 F 10000 G (-60000 F for SIOUX -7000 G for PUEBLO)
+Villager +40% creation speed: 20500 W 10800 S  (37000 W for N.A.  14000 W for HAIDA)
+Building -50% construction time: 9000 G  (12000 W 2000 G for SIOUX) (W instead of G for HAIDA)
+Buildings +6 armor: 57000 W 12000 S  (Aztecs, Mayans, Incas)
+Towers cost -50%: 1250 W 1250 G (Aztecs, Mayans, Incas)
+Unlock House II: 4000 W 4000 S 1400 G 
+Unlock House III: 40000 W 25000 G 7000 S (Mayans, Incas)
+N.A:
+Unlock House II: 20000 W 3000 G (+10000 W DEL) (Not for Sioux)
+Unlock Stables: 25000 W (for Dela,Iro,Huro,Pueblo)
+Tomahawk +150 atk (400 for Hur) +100% precision: 1250 G 20000 F (Hur,Iro,Sioux)
+Shooters -35% scatter: 4000 F  (+20000 F +2400 G for HAIDA and DEL)
+Shooters +25% fire power: 5000 I 5000 C  (only HUR)
+Improve unit HP: 30000 W 48000 G HUR/IROQ  60000 G DEL  7000 G 65000 F PUEBLO
+Mounted lancer +25% creation time: 45000 W 10000 G  (10000 W 5200 G for PUEBLO)
+Armored warrior -50% cost: 27000 W 3000 I (only HAIDA)
+Canoes +15 projectile armor: 18000 W 2500 G (only HAIDA)
+Totem -50% building time: 2000 G
+Shooter and Mounted shooter +50% creation speed: 
+23000 W 12000 G SIOUX
+16500 G 4000 C  PUEBLO
+Archers and Mounted archers +60% creation speed: 
+25000 W 6300 G 60000 F SIOUX
+34600 W 18200 G PUEBLO
+
+TEMPLE
+Shaman +200% HP: 12000 G
+Shaman +100% creation speed: 2000 G
+Shaman +50% Healing: 2000 G
+
+MILL
+Food +100%: 200 G 750 F
+Food +100%: 300 W 200 I 10000 F (-90% F for Aztecs) (+3500 G +15300 F for N.A.) (2400 G 5200 I 25000 F for HAIDA)
+Food +100%: 10000 W 800 G (-80% W -700 G for Aztecs) (-60% W for PUEBLO) (1200 G for HAIDA)
+Field +100%: 14000 W 2000 S  (-90% for Aztecs) (+3000 W -2000 S for N.A.) (-5000 W -1800 S for PUEBLO)
+Field +100%: 20000 W 150 G 500 I (-90% G/I for Aztecs) (+12000 W -5000 I for HAIDA)
+Field +100%: 2000 W 400 G (+900 W -400 G for N.A.) (-400 G for PUEBLO)
+Base Field Durability: 50 - 200
+Base Work Rate: 2.5 -  10
+
+STOREHOUSE
+Wood +30%: 28000 F 750 G  (+1350 G for DEL) (50%   15000 F 2000 G SIOUX) (+450 G for PUEBLO) (80% 4250 G 12500 W for HAIDA)
+
+S.A.
+Upgrades cost for spear-line 
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for macamba/blowpipe line
+AtkI   200 G 12000 F
+AtkII  400 G 12000 F
+AtkIII 200 G 20000 F
+DefI   300 G 15000 F
+DefII  800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+
+
+N.A.
+Upgrade cost for Archer-Hunter
+AtkI   10.000 F
+AtkII  10.000 F
+AtkIII 12.000 F
+DefI    5.000 F
+DefII  34.000 F
+DefIII 10.000 F
+
+Upgrade cost for Sioux Mounted pikeman
+AtkI    400 G 22.000 F
+AtkII   500 G 20.000 F
+AtkIII  400 G 30.000 F
+DefI    500 G 22.000 F
+DefII   500 G 22.000 F
+DefIII  500 G 32.000 F
+
+Upgrade cost for Horse Archer-line
+AtkI         20.000 F
+AtkII 3500 G 20.000 F
+AtkIII       25.000 F
+DefI           3000 F
+DefII        13.000 F
+DefIII         9000 F
+
+Upgrade cost for Horse shooter-line
+AtkI    2000 G 10.000 F
+AtkII   6500 G 10.000 F
+AtkIII  2000 G 30.000 F
+DefI    3000 G 15.000 F
+DefII   4000 G 30.000 F
+DefIII  1000 G 10.000 F
+
+Upgrade cost for chief-line/Mounted chief-line
++3/7/50 atk, +11/15/19 armor
+AtkI    500 G  1500 F
+AtkII   600 G  4000 F
+AtkIII  100 G 80000 F
+DefI    250 G  2000 F
+DefII   550 G 15000 F
+DefIII  500 G 80000 F
+
+Upgrade cost for tomahawk
++2/4/6 atk, +6/7/7 armor
+AtkI   250 G
+AtkII  250 G
+AtkIII 700 G 30000 F
+DefI   640 G  
+DefII  900 G 20000 F
+DefIII 30.000 W
+
+Upgrade cost for archer-line
++2/2/2 atk, +3/4/3 armor
+AtkI 3   50 G  500 F
+AtkII   200 G 1000 F
+AtkIII  200 G 2000 F
+DefI    200 G  500 F
+DefII   200 G 1000 F
+DefIII  300 G 4000 F
+
+Upgrade cost for shooter-line
++2/2/2 atk, +2/2/2 armor
+AtkI    200 G 22000 F
+AtkII   400 G 12000 F
+AtkIII  200 G 10000 F
+DefI    500 G 16000 F
+DefII   500 G 15000 F
+DefIII  300 G 30000 F
+
+Upgrade cost for horseman
++3/5/2 atk, +3/4/8 armor
+AtkI   100 G  5.000 F
+AtkII  100 G 10.000 F
+AtkIII 200 G 10.000 F
+DefI   400 G  3.000 F
+DefII  500 G 16.000 F
+DefIII       16.000 W 
+
+Upgrade cost for settler
++2/5/2 atk, +3/4/11 armor
+AtkI     50 G    5000 F
+AtkII   200 G  50.000 F
+AtkIII  200 G 100.000 F
+DefI    350 G  80.000 F 4000 W
+DefII   200 G 130.000 F
+DefIII        130.000 F
+
+Upgrade cost for Delaware spearman-line
++2/2/2 atk, +7/8/9 armor
+AtkI     50 G  200 F
+AtkII    50 G  200 F
+AtkIII  100 G  200 F
+DefI    150 G 2000 F
+DefII   200 G 2000 F
+DefIII  400 G 1000 F
+
+Upgrade cost for Haida armored warrior-line
++4/4/4 atk, +4/4/4 armor
+AtkI    200 G 10000 F
+AtkII   900 G 40000 F
+AtkIII 3000 G  2000 F
+DefI    250 G 20000 F
+DefII   750 G  7000 F
+DefIII 4000 W 30000 F
+
+
+BALANCE CHANGES
+
+EUROPEANS
+-European Fort  +25 garrison  
+Fort cost 250 W 125 S  mul 60
+2 cost: 15000 W 7500 S - 100.000 W 20.000 S
+3 cost: 900k W 450k S  - 20 million W   4 million S
+-Frigate G cost becomes 25k G
+Fire same rate as a caravel, but fires 4 shots at the same time
+-Trappers and Bucanners cost only 50 G,  +20 HP
+-France, Protugal, Dutch: musketter G cost decreased to 10
+-France: aruebusier G cost decreased to 2
+-Dwelling I: 50 W 10 S
+-Dutch: Officer 17th G cost decreased to 50
+-Portugal: get Conquistadro from Fortress
+-Britain: get 3rd wood upgrade
+-USA: fusilier get +4 bonus xp
+-Russia: new tech that halves cost of fusiliers
+
+INDIANS
+-Villager double creation time
+-Horseman -50% creation time, cost increased to 3000 F
+-Tomahwak double storm force
+-All Villagers cost 50 F, have at least 50 HP
+-Fortress +50 garrison
+-Native Barrack cost 250 W mul 15
+2 cost: 3750   -7500
+3 cost: 56250  -225.000
+4 cost: 843750 -6.750.000
+-All Shaman cost 45 G
+
+DELAWARE
+-pikeman +45 HP +4 atk +4 storm force
+-Skull dance: +100% HP +50% creation speed
+-House I: -15 extra population
+
+HURONS
+-get 2nd wood upgrade
+-House I: +5 garrison
+
+SIOUX
+-archer-hunter cost -20 G
+-Mounted shooter cost -70 G -35 I
+-Tomahwak warriors are available for them
+-House I +5 garrison +20 population
+-Wigwam of the Wise count as barrack, cost -50%
+
+PUEBLO
+-Town cost reduced, count as Native Fortress
+-Added Stables and Mine upgrades
+
+AZTECS
+-Reduced multiplier of Fortress, now same as Mayans, Incas and Pueblos
+
+
+TRADING
+Buy 1000 F ^ 500 W ^ 250 S ^ 125 I/C for 100 G
+Sell 100 F for 5 G
+Sell 100 W for 10 G
+Sell 100 S for 15 G
+Sell 100 I/C for 40 G
+************
+§§§§§§§§§§§§
+°°°°°°°°°°°°
+
+
+NEW VERSION
+
+
+EUROPEANS
+-Base units:
+spearman-pikeman-halberdier
+archer-crossbowman-bucanner
+arquebusier-musketter-fusilier
+swordman-2hswordman
+lancer-knight
+dragoon 17-18 th
+officiers
+priests
+villager
+artillery-howitzer
+caravel-galleon-carrack-frigate-battleship
+rowboat-fishing boat-ferry
+-Base buildings:
+15th: House I, Mill, Storehouse, Blacksmith, Mine, Barrack, Stable, Market, Shipyard, Stone Wall
+16th: Fort, Fortress, Town Center, Church, Blockhouse I, Artilery Deposit
+17th: House II, Blockhouse II
+
+SOUTH AMERICANS
+-Base units:
+spearman-pikeman-halberdier-maceman
+archer-slinger-blowpipe
+villager-chief-shaman
+battle canoe-fishing canoe-incendiary canoe
+-Base buildings:
+Ancient: House I, Mill, Storehouse, Blacksmith, Mine, Barrack, Market, Shipyard, Stone Wall, Scout tower
+Classic: House II, Fortress, Town Center, Temple, Tower
+Imperial: House III
+
+NORTH AMERICANS
+-Base units:
+spearman-tomahawk-archer-shooter
+horseman-horse archer-mounted shooter
+villager-chief-shaman
+battle canoe-fishing canoe-incendiary canoe
+-Base buildings:
+Ancient: House I, Mill, Storehouse, Barrack, Shipyard, Totem
+Imperial: House II, Market, Stable, Town Center, Temple
+
+ASIA
+-Base units:
+spearman-pikeman-halberdier
+archer-crossbowman
+arquebusier-musketter
+swordman
+lancer-cataphract
+officiers
+priests
+villager
+artillery
+Galley-Outrigger-Siege Galley-Incendiary ship
+archer boat-fishing boat-ferry
+-Base buildings:
+15th: House I, Mill, Storehouse, Blacksmith, Mine, Barrack, Stable, Market, Shipyard, Stone Wall
+16th: House II, Fort, Fortress, Town Center, Church, Blockhouse I, Artilery Deposit
+17th: Blockhouse II
+
+AFRICA
+-Base units:
+spearman-pikeman
+archer
+arquebusier-musketter-fusilier
+swordman
+mameluke-sipahi-camel rider
+horse archer-camel archer
+officiers
+priests
+villager
+artillery-howitzer
+yatch-Ketch-Qebec-battleship
+rowboat-fishing boat-ferry
+-Base buildings:
+15th: House I, Mill, Storehouse, Blacksmith, Mine, Barrack, Stable, Market, Shipyard, Stone Wall
+16th: Fort, Fortress, Town Center, Church, Blockhouse I, Artilery Deposit
+17th: House II, Blockhouse II
+
+
+EUROPE/ASIA/AFRICA
+
+Buildings:
+House I:    30 W   30 S      5000 HP mul 3 cap 7   5/45
+Mill:       200 W 100 S      5000 HP mul 4 cap 5   15
+Storehouse: 15 W   75 S      5000 HP mul 5 cap 5   15   Require Mill and House to be built
+Blacksmith: 50 W  100 S      5000 HP mul 5 cap 5   10   Require storehouse to be built
+Mine:      100 W             5000 HP                    Require Blacksmith
+Barrack:   500 W  500 S      25k  HP mul 10 cap 3  100  Require Blacksmith
+Stable:   9000 W 1500 S 500 G 45k HP mul 10 cap 3  50/50 Require Barrack
+Market:   1000 W             5000 HP mul 10 cap 3  25   Require Barrack
+Shipyard:  250 W  250 S      25k  HP mul 10 cap 3  50   Require Blacksmith
+StoneWall: 1000 S            5000 HP                    Require Barrack
+Fort:      500 W  100 S      25k  HP mul 50 cap 2  100  Require Barrack
+Town Cnt: 2500 W 5000 S      25k  HP mul 10 cap 2  25   Require Barrack
+Church:    600 W 3000 S      50k  HP mul 5  cap 2  50   Require Town Center
+House II: 2000 W  150 S      15k  HP mul 3  cap 7  25/200  Require T.C. upgrade
+Art Depot: 500 W  500 S 500 I 45k HP mul 10 cap 3  50   Require T.C.
+Fortress: 2000 W 3000 S 2000 G 45k HP mul 10 cap 3 300/200  Require Fort
+Block I:   300 W  300 S      25k  HP mul 6  cap 4  20   Require Fort
+Block II: 1700 W 1700 S 400 I/C 35k HP mul 2 cap 7 30   Require Fortress
+
+-When Town Center is built: unlock mine upgrade and revel deposits on map
+-Fusiliers get -20% scatter in 17th
+-Russia get more techs
+
+TOWN CENTER: 11 techs
+paesant +25% creation speed: 29000 W 50000 F 4300 G
+Buildings +3 armor: 28000 W 6000 S
+Military buildings +5 armor: 65000 W 10000 S (6300 S for Russia)
+Construction time -50%: 20000 W 500 S
+Unlock House II: 4000 W 4000 G 1400 G
+Unlock Hospital: 6300 G 4000 W 4000 S
+-Heal all units: 600 G 400 I 400 C 
+Unlock 18th officiers, fusilier +100% creation speed: 2000 G 9000 I
+Fusiliers +35% rate of fire: 3000 I 11500 C
+All shooter +10% fire power: 1000 G 6200 C                         
+All shooters +35% fire rate: 6000 G 3500 I 9000 C
+Musketters, arquebusiers, fusiliers +5 melee attack: 2000 G 4800 I
+
+BLACKSMITH: 5 techs
+armored units +3/3 armor: 900 G 4000 I / 20500 W 650 G 2150 I   (Not Russia)
+infantry +100% creation speed:
+SPAIN/POR:  1000 G 10000 W 2400 I
+RUS/POL/UK: 2000 G 18000 W 4000 I
+OTHER:      2000 G 36000 W 16000 I
+arquebus +100% creation speed: 90000 W 45000 F 3000 C  (Not Russia)
+strelet +100% creation speed:  48000 W 1250 G 5000 C (only Russia)
+fusilier/musketter +100% creation speed: 70000 G (35000 G for Russia)
+
+MILL 8 techs
+Food +100%: 6000 W 10600 F
+Food +100%: 2000 G 1500 I  (+2500 I for Russia)
+Food +100%: 10000 W 3000 I 
+Field +100%: 2400 W 400 G 400 I  (+4000 W +3200 I +550 G for Russia)
+Field +100%: 20000 W 200 G
+Field +100%: 20000 W 500 G
+Hunt +100%: 1000 F
+Hunt +100%: 2000 W 1500 G
+Base Field Durability: 60  -> 240
+Base Work Rate: 10 -> 40
+
+STOREHOUSE 2 techs
+wood +50%: 600 G 6000 F     (+800 G for Russia)
+wood +50%: 4000 G 90000 F
+Base Work Rate: 20 -> 40
+
+SHIPYARD 6 techs
+ships +40% movement speed: 1650 G 8250 W
+Warships cost -20%: 5000 G
+Warships +100% creation speed: 33000 W 3300 G
+Fishing ships +100% capacity and work rate: 5000 W 2500 G
+Fishing ships +100% capacity and work rate: 2000 W 6000 G 5000 I
+Fishing ships +100% capacity and work rate: 5000 G 6000 I 20000 W
+
+STABLE 5 techs
+unlock dragoon 17th: 20000 W
+unlock m.officier 17th: 30000 W
+unlock dragoon 18th: 30000 W
+unlock m.officier 18th: 63000 W
+Cavalry +100% creation speed: 2800 G 70000 W 18000 S
+
+ARTILLERY 5 techs
+rate of fire -70%:  11500 G 4500 I 8500 C
+accuracy +70%:  3000 G 12000 I 22800 C
+range +25%: 9000 G 9000 I 12300 C
+Artillery cost -30%: 128400 W 6550 G
+Artillery +120% creation speed: 13000 I 8000 C
+
+Ammo:
+arrow 2 W 2 S
+arquebus/hunting rifle 8 C 4 I
+muskett 6 C 3 I
+rifle/native shooter 4 C 2 I
+dart 2 G
+sling 2 S
+javelin 10 W 4 I
+
+
+Villager
+HP 100
+Knife 14 Fr 30  Storm 20
+Cost 100 F 400[320] Fr    2 population
+Cost 200 F  for Maya,Aztecs,Inca,Sioux
++10 atk  SIOUX
+Can gather food from farms, fishes and animals
+Can chop wood and mine minerals
+Native villagers can hunt with bows
+Bow 40 Range 12 Fr 80
+European villagers can obtain a rifle on later age
+
+Trapper/Bucanner/Hunter skirmisher
+HP 100
+Knife 14 [20]  Fr 60  bx +1
+Rifle 600 [660]  Range 15  Fr 640 [396]
+Armor 0/0 [12/12]  Storm 20
+Cost 100 G 400 Fr
+Base Work Rate: 5 - 20
+
+Minuteman
+HP 100
+Knife 12 Fr 50  bx +1
+Rifle 360 [396]  Range 11  Fr 640 [396]
+Cost 60 F  Fr 50   salary 0.5 G/sec
+
+Spearman
+HP 100
+Lance 7 [16]  Fr 20  bx +1
+Armor 0/0 [12/12]  Storm 15
+Cost 70 F 10 W 5 I 100[50] Fr
+
+Pikeman
+HP 100
+Lance 10 [20] Fr 20  bx +1
+Armor 4/4 [28/28]  ^150 [160]^   gunp 70   Storm 20
+Cost 125 F 12 I 200[100] Fr
+
+Halberdier
+HP 125
+Lance 14 [24]  Fr 30  bx +1
+Armor 4/4 [28/28]  ^175 [180]^  gunp 85  Storm 30
+Cost 125 F 25 I  200[100] Fr
+
+Arquebusier
+HP 100
+Sword 8 [24] Fr 80  bx +1
+Rifle 300 [330] Range 11  Fr 640
+Armor 8/0 [24/16]  ^155 [160]^  gunp 60  Storm 20
+Cost 50 F 4 G   60[30] Fr
+France: -10 HP +50% swing speed -8 sword armor -155 arrow armor  
+
+Musketter/Streltsy
+HP 100
+Sword 15 [30]  Fr 50  bx +1
+Rifle 400 [440]  Range 14  Fr 640[474]
+Armor 0/0 [20/20] ^100 [105]^  Storm 20
+Cost 240 F 12 G  80[40] Fr
+
+Fusilier
+HP 125
+Lance 10 [28]  Fr 70  bx +10
+Rifle 600 [660] Range 20  Fr 550[324]
+Armor 0/0 [18/18]  Storm 50   salary 0.025 G/sec
+Cost 300 F 25 G  400[133] Fr
+USA: +25 lance attack  +100% fire rate  +65 G cost  +20% train time
+RUS: +180 F +65 G cost  130[96] Fr   no salary
+
+Officier
+HP 150
+Sword 50 [90] Fr 50
+Armor 0/0 [30/30]  Storm 100
+Cost 300 F 200 G 300 Fr
+
+Drummer/Standard
+HP 100
+Armor 0/0 [30/30] Storm 100
+Cost 300 F 500 G 300 Fr
+
+Priest
+HP 100
+Heal 50 Range 4 Fr 100  Storm 50
+Cost 600 F 10 G  Fr 1800
+
+Knight/Conquistador/Black Rider
+HP 400
+Sword 20 [40]  Fr 60  bx +10
+Rifle 200 [220] Range 5  Fr 100
+Armor 20/6 [40/26]  ^125 [130]^  gunp 50  Storm 100
+Cost 6000 F 200 W 100 G  100[50] Fr
+
+Dragoon 17-18th
+HP 350-400
+Sword 12 [28] Fr 60  bx +20
+Rifle 350-400 [440] Range 14  Fr 375-275[204]
+Armor 0/10 [20/30]  Storm 100   salary 0.125 G/sec
+Cost 3000 F 150 G 600[300] Fr
+
+Mounted Officier
+HP 600
+Sword 80 [120] Fr 60
+Rifle 200 [220]  Range 5  Fr 100
+Armor 0/0 [24/24] Storm 100
+Cost 4000 F 400 G 1200[600] Fr
+
+Mounted Standard
+HP 400
+Armor 0/0 [32/32] Storm 100
+Cost 1250 F 150 G 600[300] Fr
+
+Cossack/Lancer
+HP 600
+Lance 12 [24] Fr 36  bx +5
+Armor 6/0 [20/14]  Storm 20
+Cost 500 F 50 W 25 I  1200[600] Fr
+
+Cannon
+HP 2000
+Shot 4000 Range 100[125]  Fr 845[380]
+Cost 2500 W 1000[700] I 200[140] G 3000[629] Fr   mul 1.4
+
+
+Rowboat
+HP 2500
+Rifle 700 [770] Range 20  Fr 40   Armor 160
+Cost 1200 W 400 G 100 I  2000 Fr   mul 1.02
+
+Caravel
+HP 50000
+Shot 4000 Range 40 [50] Fr 100 [45]
+Cost 3200 W 1300 G 500 I 500 C  2000 Fr  mul 2
+
+Galleon
+HP 60000
+Shot 4000 Range 48 [60]  Fr 90 [40]
+Cost 10.000 W 7000 G 2000 I 2000 C  3000 Fr  mul 2
+
+Frigate
+HP 75000
+Shot 4000  Range 80 [100]  Fr 80 [36]
+Cost 75000 W 25000 G 5000 I 5000 C   5000 Fr  mul 2
+
+Ferry
+HP 65000  Garrison 250
+Cost 100 W 50 I 25 G  400 Fr  mul 5  max 4
+
+Fishing Ship
+HP 3000
+Capacity 1000 [15000] Gather rate: 40 [80] Armor 160 [175]
+Cost 1600 W  2000 Fr  mul 1.04   2 population
+
+SOUTH AMERICA
+
+Buildings:
+House I:   20 W  20 S 10000 HP mul 3 cap 7 25/20
+House II: 200 W 100 S 15000 HP mul 2 cap 9 35/145  Require T.C. upgrade
+House III: 400 W 100 S  25k HP mul 3 cap 7 45/205  Require T.C. upgrade
+Mill:       125 W 125 S 10k HP  mul 5 cap 4 20     
+Storehouse: 125 W 125 S 10k HP  mul 5 cap 4 20     Require House and Mill
+Blacksmith: 50 W  100 S 5000 HP mul 5 cap 5   10   Require Storehouse
+StoneWall: 1000 S       5000 HP                    Require Blacksmith
+Market:    1000 W       5000 HP mul 10 cap 3  25   Require Barrack
+Shipyard:   750 W  250 S 25k  HP mul 3 cap 6  50  (-500 W +500 S for Maya, no garrison) Require Blacksmith
+Barrack:   500 W  500 S  25k  HP mul 10 cap 3  100  Require Blacksmith
+Fortress: 3000 W 3000 S  40k  HP mul 10 cap 2  150/150 Require Barrack
+Town C.:  2500 W 5000 S  25k  HP mul 10 cap 2  25   Require Barrack
+Temple:  250 W 750 S   75k HP mul 20 cap 2  75/75   Require T.C.
+Scout t: 50 W 50 S   4000 HP mul 1.4 cap 18  5      Require Storehouse
+Tower: 300 W 300 S  15000 HP mul 1.4 cap 18 30 (40 for Incas) Require Fortress
+
+TOWN CENTER 7 techs
+archers -70% scatter: 24000 W 5000 G (-95% for Incas)
+Villager +40% creation speed: 20000 W 11000 S
+Building -50% construction time: 9000 G 
+Buildings +6 armor: 60000 W 12000 S 
+Towers cost -50%: 1250 W 1250 S 
+Unlock House II: 4000 W 4000 S 1400 G (+19000 W +5000 S for Aztecs)
+Unlock House III: 40000 W 25000 G 7000 S (Mayans, Incas)
+
+BLACKSMITH 5 techs
+Spearman +100% creation speed: 5000 W 25000 S
+Slinger +100% creation speed: 600 G
+Melee units +5 atk: 15000 W 5000 I 
+Improve projectile protection of some units: 15000 W 5000 I 
+Improve lance protection of some units: 60000 F 10000 G 
+
+TEMPLE 3 techs
+Shaman +200% HP: 12000 G
+Shaman +100% creation speed: 2000 G
+Shaman +50% Healing: 2000 G
+
+MILL 8 techs
+Food +100%: 750 F
+Food +100%: 200 I 10000 F (-90% for Aztecs)
+Food +100%: 10000 W 1000 G (-90% for Aztecs)
+Field +100%: 2000 W 400 G 
+Field +100%: 14000 W 2000 S  (-90% for Aztecs)
+Field +100%: 20000 W 1500 G 5000 I (-90% for Aztecs) 
+Hunt +100%: 1000 F
+Hunt +100%: 2000 W 1500 G
+Base Field Durability: 50 - 200
+Base Work Rate: 5 -  20
+
+STOREHOUSE 2 techs
+Wood +50%: 750 G
+Wood +50%: 7000 G
+Base Work Rate: 4-8
+
+SHIPYARD 5 techs
+ships +40% movement speed: 1650 G 8250 W
+Battle Canoes +100% creation speed: 33000 W 3300 G
+Fishing ships +100% capacity and work rate: 5000 W 2500 G (-2000 G for Aztecs)
+Fishing ships +100% capacity and work rate: 2000 W 6000 G 5000 I
+Fishing ships +100% capacity and work rate: 5000 G 6000 I 20000 W
+
+Maya Spearman
+HP 100 [110]
+Lance 7 [22]  Fr 70 bx +1
+Armor 12/0 [30/18]  Storm 20
+Cost 200 F 14 W 2 S  100[50] Fr
+
+Aztec Spearman
+HP 100 [110]
+Lance 15 [30]  Fr 60 bx +2
+Javelin 100  Range 6  Fr 60
+Armor 0/0 [18/18]  ^100 [175]^  Storm 30
+Cost 10 F 10 W 200[100] Fr
+
+Inca Spearman
+HP 100 [110]
+Lance 15 [30]  Fr 44  bx +1
+Armor 0/0 [18/18]  Storm 20
+Cost 200 F 20 W 16 I  80[40] Fr
+
+Aztec/Inca Archer
+HP 120 [132]
+Knife 12 [28] Fr 60   bx +3
+Bow 200 Range 13 [20 aztec]  Fr 80 [60 incas]
+Armor 6/6 [20/20]  ^30^  Storm 30
+Cost 100 F 30 G (-30 G for aztec) 120 Fr
+
+Blowpipe Warrior
+HP 100 [110]
+Knife 4 [14]  Fr 60  bx +1
+Dart 1  Range 6  Fr 80
+Armor 0/0  [12/12]  Storm 10
+Cost 100 F  25 Fr
+
+Slinger
+HP 100 [110]
+Atk 8 [20] Fr 20  bx +1
+Sling 100  Range 10  Fr 100
+Armor 0/0 [20/20] ^150 [175]^  Storm 30
+Cost 450 F 60[40] Fr    3 population
+
+Mace Warrior
+HP 110 [121]
+Mace 5 [16]  Fr 26  bx +5
+Armor 1/6 [8/18]  ^170 [180]^  Storm 10
+Cost 400 F 30 W 10 S  20 Fr   2 population
+
+Staff Chief
+HP 150
+Lance 30 [90] Fr 50
+Armor 0/0 [45/45] ^0 [100]^ Storm 100
+Cost 400 F 100 G 400 Fr
+
+Fishing Canoe
+HP 1500
+Bow 200  Range 12  Fr 30   Armor 160 [175]
+Capacity 500 [7500] Gather rate: 20 [40]
+Cost 800 W  1000 Fr  mul 1.02
+
+Battle Canoe
+HP 3000
+Bow 200  Range 40  Fr 30  Armor 160 [175]
+Cost 2000 W 500 G 250 I  2000[1000] Fr  mul 1.02
+
+NORTH AMERICA
+
+Buildings:
+House I Del/Sioux:  30 W  5000 HP mul 3 cap 7  10/20 
+House I Iro/Hur:    50 W  5000 HP mul 7 cap 4  25/50
+House I Haida:      300 W 5000 HP mul 10 cap 3 25/50
+House II:           500 W 15k HP  mul 3 cap 7  45/205  Require T.C. upgrade
+Mill:               200 W 5000 HP mul 6 cap 4  35 
+Storehouse:          75 W 5000 HP mul 5 cap 5  20      Require House and Mill
+Market:            1000 W 5000 HP mul 10 cap 3 25      Require T.C.
+Barrack:            250 W 45k HP  mul 16 cap 3 100     
+Stable:             250 W 25k HP  mul 10 cap 4 100     Require Barrack and T.C. (not for HAIDA)
+Shipyard:           600 W 45k HP  mul 3  cap 6 45      Require Storehouse
+Town Center:       1250 W 25k HP  mul 10 cap 3 25      Require Storehouse
+Temple:            7500 W 25k HP  mul 10 cap 3 45 (75 for Haida) Require T.C.
+Totem:              300 W  5000 HP mul 3 cap 6         Require T.C.
+
+-Totems are built 100% faster when the first Town Center is built
+-Archers start with more base hp, but cost slightly more
+
+TOWN CENTER 14 techs
+Melee units +5 atk: 15000 W 5000 I
+archers -70% scatter: 24000 W 5000 G (-10000W -3500 G for HAIDA)
+Improve projectile protection of horseman: 2600 W 2600 I
+Improve lance protection of some units: 10000 G
+Building -50% construction time: 9000 G  (12000 W 2000 G for SIOUX) (W instead of G for HAIDA)
+Unlock House II: 20000 W 3000 G (Not for SIOUX)
+Tomahawk +150 atk (400 for Hur) +100% precision: 2500 G (Hur,Iro,Sioux,Pueblo)
+Shooters -35% scatter: 1200 G  (+2400 G for HAIDA and DEL)
+Shooters +25% fire power: 5000 I 5000 C  (only HUR)
+Armored warrior -50% cost: 27000 W 3000 I (only HAIDA)
+Canoes +15 projectile armor: 18000 W 2500 G (only HAIDA)
+Spearman +100% HP: 10000 G (only DEL)
+Villager +20% HP: (only for HUR/IROQ)
+Archers +4 melee attack: 900 G (only for IROQ/DEL)
+Shooters +50% range: 1000 G (only for IROQ)
+
+Improve unit HP: 13500 G HUR/IROQ  13500 G DEL  7700 G PUEBLO
+
+STABLE 3 techs
+Unlock horse archer:    (only SIOUX and PUEBLO)
+Unlock mounted shooter: (only SIOUX and PUEBLO)
+Unlock mounted chief:   (only SIOUX)
+
+BARRACK 6 techs
+Unlock archers:
+Unlock shooter:
+Unlock chief:
+Spearman and mounted spearman +25% creation speed: 45000 W 10000 G (-35000 W -1000 G for PUEBLO)
+Archers and Mounted archers +60% creation speed:  25000 W 9500 G (+10000 W +9000 G for PUEBLO)
+Shooters and Mounted shooters +50% creation speed: 14500 G (+5000 G for PUEBLO)
+
+TEMPLE 3 techs
+Shaman +200% HP: 12000 G
+Shaman +100% creation speed: 2000 G
+Shaman +50% Healing: 2000 G
+
+MILL 8 techs
+Food +100%: 750 F
+Food +100%: 10000 W 1000 G (-100% W for PUEBLO)
+Food +100%: 25000 F 4000 G (-2500 G for HAIDA)
+Field +100%: 3000 W
+Field +100%: 16000 W
+Field +100%: 20000 W 5500 G
+Hunt +100%: 1000 F
+Hunt +100%: 2000 W 1500 G
+Base Field Durability: 50 - 200
+Base Work Rate: 5 -  20
+
+STOREHOUSE 2 techs
+Wood +50%: 25000 F 1200 G  (+900 G for DEL) (15000 F 2000 G SIOUX)
+Wood +50%: 3200 G (only for HAIDA)
+Base Work Rate: 8-16
+
+SHIPYARD 5 techs
+ships +40% movement speed: 1650 G 8250 W
+Battle Canoes +100% creation speed: 33000 W 3300 G
+Fishing ships +100% capacity and work rate: 5000 W 2500 G (-2000 G for Aztecs)
+Fishing ships +100% capacity and work rate: 2000 W 6000 G 5000 I
+Fishing ships +100% capacity and work rate: 5000 G 6000 I 20000 W
+
+
+Archer Del/Iroq
+HP 100 [110]
+Knife 9 [24]  Fr 60  bx +1
+Bow 200   Range 12    Fr 80
+Armor 0/0 [10/10]   Storm 10
+Cost 200 F 10 W 10 G  40[25] Fr
+
+Archer Hur/Pueblo/Haida/Maya
+HP 100 [110]
+Knife 3 [14]  Fr 60  bx +1
+Bow 200  Range 12  Fr 80
+Armor 0/0 [10/10]  Storm 10
+Cost 100 F 10 W  40[25] Fr
+
+Sioux Archer-Hunter
+HP 100 [110]
+Knife 14 [25]  Fr 60  bx +1
+Bow 220  Range 17  Fr 80
+Armor 0/0 [16/16]  Storm 50
+Cost 50 W 50 G   360[225] Fr
+
+Tomahawk Warrior
+HP 100 [110]
+Knife 12 [24]  Fr 60  bx +2
+Axe 250 [400] Range 4  Fr 60
+Armor 0/0 [20/20]  Storm 20
+Cost 100 F 200 Fr
+
+Spearman
+HP 50 [110]
+Lance 5 [16]  Fr 70    bx +5
+Armor 0/0 [24/24] Storm 5
+Cost 3 W 1 S  30[24] Fr
+
+Armored Warrior
+HP 130 [143]
+Knife 5 [22] Fr 33   bx +5
+Armor 2/3 [14/20] ^100^   Storm 30
+Cost 200 F 20[10] G  100 Fr   2 population
+
+Shooter
+HP 100 [110]
+Knife 7 [12]   Fr 60  bx +1
+Rifle 400 [500]  Range 12 Fr 560
+Armor 4/2 [10/8] ^125^   storm 10
+Cost 250 F 60 W 20 G  240[160] Fr
+
+Pueblo-Shooter
+HP 100 [110]
+Knife 10 [25]  Fr 60  bx +3
+Rifle 400  Range 12 Fr 560
+Armor 0/0 [18/18]  Storm 20
+Cost 150 F 10 G  90[60] Fr
+
+Shaman
+HP 50 [150]
+Knife 50  Fr 50
+Heal 50 [70]  Range 8  Fr 100   Storm 100
+Cost 400 F 90 G  600[300] Fr  (200-100 Fr for PUEBLO/AZTEC)
++5 range for IROQ,HAIDA
+1800[900] Fr for Maya
+
+Mounted Chief (SIOUX)
+HP 600
+Lance 35 [105]  Fr 70
+Armor 0/0 [45/45] Storm 100
+Cost 6000 F 750 G 400 Fr
+
+Rifle Chief
+HP 150
+Knife 30 [90]  Fr 60
+Rifle 600  Range 12  Fr 360
+Armor 0/0 [45/45] Storm 100
+Cost 1250 F 100 G  1600 Fr
+
+Horseman
+HP 400 [440]
+Lance 10 [30] Fr 36  bx +20
+Armor 0/0 [20/25] ^100^ Storm 100
+Cost 3000 F 50 W 3000[2400] Fr
+
+Sioux mounted pikeman
+HP 600
+Lance 12 [36]  Fr 36  bx +5
+Armor 0/0 [12/12]  Storm 100
+Cost 3000 F 50 W 800[640] Fr
+
+Mounted Archer
+HP 300
+Knife 7 [20]  Fr 20  bx +3
+Bow 220  Range 17  Fr 100
+Armor 0/0 [12/12]  Storm 50
+Cost 1000 F 100 W 400[252] Fr
+
+Mounted Shooter
+HP 240
+Knife 11 [30]  Fr 60   bx +5
+Rifle 400  Range 12  Fr 180
+Armor 11/0 [20/14]  Storm 50
+Cost 3200 F 100 G  600[400] Fr
+
+
+
+SPECIAL
+
+FLORANS
+-Villagers are free, but take longer time to build
+-Doesn't require Iron o Coal, cannot build Iron or Coal mines
+-Buildings base cost is higher, but multiplicator is lower
+-Fewer but cheaper upgrades
+
+Buildings:
+House I:    200 W 100 S 5000 HP  mul 3 cap 7 25/20  Can be upgraded:
+II Build more houses: +10 garrison +90 population +10000 HP  cost: 5000 W 1500 S
+III Build more houses: +10 garrison +90 population +10000 HP cost: 9000 W 4500 S
+Mill:       200 W 200 S  10k HP  mul 4 cap 5  20     
+Storehouse: 200 W 200 S  10k HP  mul 4 cap 5  20   Require House and Mill
+Blacksmith: 200 W 200 S 5000 HP  mul 20 cap 2  10  Require Storehouse
+StoneWall: 1000 S       5000 HP                    Require Blacksmith
+Market:    1000 W       5000 HP mul 10 cap 3  25   Require Barrack
+Shipyard:  750 W  250 S 25k  HP mul 3 cap 6  50    Require Blacksmith
+Barrack:   300 W  300 S  25k HP mul 10 cap 3  100  Require Blacksmith
+Fortress: 3000 W 3000 S  40k HP mul 10 cap 3  150/150 Require Barrack
+Temple:   1000 W 5000 S  75k HP mul 10 cap 2  75/75   Require T.C.
+Scout t:  60 W 60 S   4000 HP mul 1.4 cap 21   5    Can be upgraded:
+II Improve fortification: +25 garrison +11000 HP    cost: 250 W 250 S
+
+
+
+BLACKSMITH 6 techs
+archers -70% scatter: 24000 W 5000 G
+Building -50% construction time, +6 building armor: 9000 S 
+Military units +100% creation speed: 5000 W 25000 S 6000 G
+Melee units +5 atk: 15000 W 5000 S 
+Improve projectile protection of some units: 15000 W 5000 S 
+Improve lance protection of some units: 10000 G 
+
+TEMPLE 3 techs
+Shaman +200% HP: 2000 G
+Shaman +100% creation speed: 2000 G
+Shaman +50% Healing: 2000 G
+
+MILL 4 techs
+Food +100%: 4000 W 
+Food +100%: 10000 W 1200 G 
+Field +100%: 6000 W 1000 G  
+Field +100%: 20000 W 4000 G
+Base Field Durability: 100 - 200
+Base Work Rate: 10 -  20
+
+STOREHOUSE 1 tech
+Wood +100%: 8000 G
+Base Work Rate: 4-8
+
+SHIPYARD 6 techs
+ships +40% movement speed: 2500 G
+Battle Canoes +100% creation speed: 6500 G
+Canoes +15 protection: 18000 W 2500 G
+Fishing ships +100% capacity and work rate:  5000 W  2500 G
+Fishing ships +100% capacity and work rate:  2000 W 11000 G
+Fishing ships +100% capacity and work rate: 20000 W 11000 G
+
+HOUSE
+Villager
+HP 100  Atk 12 Fr 30  Storm 20  
+Cost Free Fr 320   2 population
+
+MINE
+Mine: from lvl 1 to lvl 5
+lvl 1 5    G 250   W 18000 time 25 sec     
+lvl 2 10   G 7600  W 42000 time 190 sec
+lvl 3 20   G 18000 W 10000 time 225 sec
+lvl 4 30   G 54000 W 24000 time 450 sec       
+lvl 5 50   ----  tot time 890 sec
+
+
+Spearman
+HP 100
+Lance 1 [12] Fr 34  bx +2
+Armor 6/1 [24/24]  ^25 [125]^  Storm 5
+Cost Free  Fr 400   2 population
+
+BARRACK
+Pikeman
+HP 110
+Lance 7 [22]  Fr 34  bx +1
+Armor 12/1 [30/24]  ^100 [125]^  Storm 30
+Cost 120 F 10 W 4 S  Fr 200[100]   2 population
+
+Archer
+HP 30
+Knife 3 [9]  Fr 60  bx +1
+Bow 200  Range 10  Fr 80
+Armor 0/0 [10/10] Storm 10
+Cost 10 W Fr 100[50]
+Arrows inflict poison
+
+Staff Warrior
+HP 120
+Mace 5 [16]  Fr 25  bx +5
+Armor 1/8 [8/20]  ^170 [180]^  Storm 10
+Cost 200 F 30 W 10 S  Fr 100   2 population
+
+Slinger
+HP 100
+Atk 8 [20] Fr 20  bx +1
+Sling 100  Range 10  Fr 100
+Armor 5/0 [20/20] ^150 [160]^  Storm 30
+Cost 250 F Fr 80[40]    3 population
+
+Halberdier
+HP 150
+Lance 15 [40] Fr 30  bx +5
+Armor 5/0 [45/45] ^0 [100]^ Storm 50
+Cost 200 F 50 G Fr 400[200]
+
+Chief
+HP 200
+Lance 30 [60] Fr 34
+Armor 5/0 [45/45] ^50 [150]^  Storm 100
+Cost 125 G  Fr 400
+While making formations: provide +4 atk and def to units
+
+FORTRESS
+Arrow Knight
+HP 120
+Knife 8 [20] Fr 30 bx +2
+Bow 200  Range 20  Fr 80
+Armor 5/0 [15/15]  ^0 [100]^  Storm 40
+Cost 40 W 20 G  Fr 400[200]    4 population
+
+Cypera Sentinel
+HP 200
+Lance 15 [30]  Fr 30  bx +2
+Javelin 100  Range 6  Fr 60
+Armor 6/1  [24/24]   ^150 [180]^  Storm 50
+Cost 100 W  Fr 400[200]   2 population
+
+Maceman
+HP 250
+Mace 25 [55] Fr 50   
+Siege 200  Fr 50
+Armor 5/0 [45/45]  Storm 100   
+Cost 200 G Fr 800    2 population
+Deal area damage to units in front of him
+
+Mantlet
+HP 500  Armor 250
+Cost 1500 W 500 S Fr 800  mul 1.4  max 5 per Fortress
+
+Battering Ram
+HP 5000
+Siege 500 Fr 50   Armor 30/30 ^175^
+Cost 3000 W 500 G  Fr 600  mul 1.4  max 5 per Fortress
+
+TEMPLE
+Shaman
+HP 50 [150]
+Knife 50  Fr 50
+Heal 50 [70]  Range 8  Fr 100   Storm 100
+Cost 200 F 100 G  600[300] Fr
+
+SHIPYARD
+Ferry
+HP 25.000 [65.000]  Armor 150   Garrison 250
+Cost 25 W 15 G 400 Fr  mul 10  max 4
+
+Fishing Canoe
+HP 1500
+Bow 200  Range 12  Fr 30   Armor 160 [175]
+Capacity 500 [7500] Gather rate: 20 [40]
+Cost 800 W  1000 Fr  mul 1.02
+
+Battle Canoe
+HP 3000
+Bow 200  Range 40  Fr 30  Armor 160 [175]
+Cost 2000 W 750 G  2000[1000] Fr  mul 1.02
+
+Tlaloc Canoe
+HP 12000
+Bow 200 Range 40  Fr 6  Armor 165 [180]
+Siege attack: 1000 Fr 80
+Cost 10000 W 4000 G  10000[5000] Fr  mul 1.1    5 population

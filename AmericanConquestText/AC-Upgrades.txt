@@ -1,0 +1,722 @@
+EUROPEANS
+Fort: build arsenal: fort +10.000 HP, enable officers 1000 F  (2000 C RUS)
+Spearman
+Conduct a fencing drill, +2 attack    1000 F 500 G
+Conduct a fencing drill, +3 attack    5000 F 700 G
+Conduct a fencing drill, +4 attack   125.000 F 200 G
+Conduct a physical training, +4 defense  5000 F 200 G
+Conduct a physical training, +4 defense  20.000 F 800 G
+Conduct a physical training, +4 defense  65.000 F 1400 G
+Pikeman
+Conduct a fencing drill, +2 attack    3800 F 50 G
+Conduct a fencing drill, +3 attack   34.000 F 160 G
+Conduct a fencing drill, +2 attack   125.000 F 200 G
+Conduct a physical training, +3 defense  4000 F 200 G
+Conduct a physical training, +5 defense  18.000 F 800 G
+Conduct a physical training, +8 defense  112.000 F 1400 G
+Halberdier
+Conduct a fencing drill, +2 attack    3800 F 50 G
+Conduct a fencing drill, +3 attack   34.000 F 160 G
+Conduct a fencing drill, +4 attack   125.000 F 200 G
+Conduct a physical training, +5 defense  1000 F 100 G
+Conduct a physical training, +6 defense  14.000 F 350 G
+Conduct a physical training, +6 defense  112.000 F 1400 G
+Arquebusier
+Conduct a fencing drill, +2 attack    150 F 50 G
+Conduct a fencing drill, +3 attack    700 F 700 G
+Conduct a fencing drill, +4 attack   23.000 F 2000 G
+Conduct a physical training, +3 defense  800 F 200 G
+Conduct a physical training, +3 defense 3600 F 800 G
+Conduct a physical training, +3 defense 29.000 F 600 G
+Musketter
+Conduct a fencing drill, +2 attack    12.000 F 500 G
+Conduct a fencing drill, +2 attack    44.000 F 350 G
+Conduct a fencing drill, +2 attack    44.000 F 18.000 G
+Conduct a physical training, +5 defense  4500 F 1000 G
+Conduct a physical training, +6 defense  15.400 F 1500 G
+Conduct a physical training, +10 defense 90.000 F 7000 G 2700 I 12000 C
+Strelet (RUS)
+Conduct a fencing drill, +2 attack    150 F 50 G
+Conduct a fencing drill, +3 attack   7000 F 700 G
+Conduct a fencing drill, +4 attack   17.000 F 2000 G
+Conduct a physical training, +5 defense 1000 F 600 G
+Conduct a physical training, +6 defense 17.000 F 2400 G
+Conduct a physical training, +10 defense 92.000 F 3000 G 4200 I 9600 C
+Officers
+Conduct a fencing drill, +27 attack  12.000 F 1600 G
+Conduct a physical training, +24 defense 40.000 F 1800 G (30.000 F 1200 G RUS)
+Blacksmith:
+Purchase agricultural tools: field +200% durability 200 W 200 G (550 G 2500 I RUS)
+increase halberd production: halberdier +65%/45% creation speed 500 W 5000 F/ 7000 W 3500 I
+increas pike production: pikeman +40%/80% creation speed 500 W 5000 F/33.000 W 16.000 I 2000 G
+increase spear production: spearman +45%/45% creation speed 1800 G/25.000 W 4100 I
+increase arquebusier production: arquebusier +60% creation speed 85.000 W 55.000 F 5000 C
+FOR RUS, strelet +90% creation speed  28.000 W 40.000 F 5000 C 1250 G
+increase muskets production: musketter +50% creation speed 3000 G (NOT RUS)
+increase rifle production: fusilier +100% creation speed 55.000 G (+35% speed 30.000 G RUS)
+increase armor production: armored units +3 defense 1000 G 4000 I (NOT RUS)
+purchase army uniforms: armored units +3 defense 20.000 W 500 G 2200 I (NOT RUS)
+Storehouse:
+build sawmills: wood +40%   600 G 6000 F (+100%  4000 S 2000 I RUS)
+increase carpenter's salary: wood +60% 1500 G 25.000 F (NOT RUS)
+buy carpetnry tools: wood +100% 2900 G 65000 F (NOT RUS)
+Mill:
+improve grain treatment: food +120%  1050 F
+improve metods of grain storage: food +250% 6000 W 10.000 F (+9000 W RUS)
+invite agronomost from europe: food +130% 2100 G 1400 I (2100 G 3900 I RUS)
+cultivate new types of wheat: food +90% 8000 W 40.000 F (NOT RUS)
+purchase agricultural equipment: food +80% 3200 W 20.000 F (NOT RUS)
+dig canals for field irrigation: field +300 % durability 2400 W 250 G 400 I (6400 W 550 G 1100 I RUS)
+dig canals for field irrigation: field +300 % durability 25.00 W 200 G
+carry out field melioration: field +200% durability 14.000 W 25.000 F (NOT RUS)
+TownCenter:
+Set up guard houses: paesant +15% creation speed 2600 G 69.000 W 77.000 F 
+(+50% speed, 29000 W 4500 G 50.000 F RUS)
+increase builder's salary: unlock house II, 4000 W 4000 S 1500 G
+invite geologist from europe: enable mine upgrades, reveal all deposits on map 1500 G
+invite fortification specialist from europe: fortress -50% cost  65.000 W 23.000 F (NOT RUS)
+Purchase new building materials: buildings +3 defense, +100% construction speed 48.000 W 6500 S
+invite architects from europe: fort, fortress, log cabins +5 defense 65.000 W 10.000 S 
+( 2000 G 4000 S RUS)
+Build church: enable infantry healing 2000 G  (heal 10% 400 G) 
+Introduce veterinary service: enable cavalry healing 4000 G (heal 10% 800 G)
+Develop artillery repair crew: enable artillery healing 5000 W 3500 S (heal 10% 2000 W 100 G)
+Increas fusilier salary: fusilier -20% scatter  25.000 G 7000 I 3500 C
+Purchase flint muskets: fusilier, musketter +35% fire rate, 3000 I 11500 C
+Purchase new rapiers: arquebusier, musketter +5 melee attack 1500 G 5000 I (NOT RUS)
+Purchase new european fire arms: all shooter +10% fire power 1000 G 6000 C (NOT RUS)
+Introduce cartridge loading: all shooter except arquebusier, +35% fire rate 6400 G 3500 I 9000 C
+Fortress:
+build stable: enable cavalry, +10.000 HP, 2000 W 5000 S
+build artillery deposit: enable cannons, +15.000 HP, 10000 W 2000 S
+build artillery and stable: enable cavalry and cannons 5.000 W 3500 G 12.000 S (20.000 W 1000 G RUS)
+Invite distinguished officers: enable officer 18th, fusilier +100% creation speed 2000 G 9000 I (NOT RUS)
+Introduce bags of lead foil: artillery +35% rate of fire; I,II  5000 G 9000 C/ 6400 G 4000 I
+Import gunpowder from europe: artillery +10/15% range: 4000 G 9000 I/ 5000 G 12000 C
+purchase artillery sight system: artillery +35% accuracy; I,II 
+1200 G 4800 I 12000 C/ 1800 G 7200 I 10800 C
+Foundry mechanization: artillery cost -30%   129.000 W 6500 G
+develop new metalwroking methods: artillery +200% creation speed  13300 I 7700 C
+Fusilier
+Conduct a fencing drill, +3 attack   12.000 F 500 G
+Conduct a fencing drill, +7 attack   44.000 F 1200 G
+Conduct a fencing drill, +3 attack   38.000 F 19.000 G
+Conduct a physical training, +4 defense  1000 F 200 G
+Conduct a physical training, +8 defense  15.000 F 1000 G
+Conduct a physical training, +6 defense  73.000 F 2000 G
+Stable:
+Purchase thorough breds: cavalry +100% creation speed 2800 G 70.000 W 18.000 S 
+(61.000 W 18.000 S 2500 G RUS)
+Purchase horses from europe: enable dragoon 17th  20.000 W (NOT RUS)
+Form regular subdivision: enable m. officer 17th 20.000 W (NOT RUS)
+Purchase european flint fuses for dragoons: enable dragoon 18th 40.000 W (NOT RUS)
+develop regular subdivision: enable m. officer 18th 64.000 W
+Conquistador
+Conduct a fencing drill, +5 attack   13.000 F 300 G
+Conduct a fencing drill, +5 attack   44.000 F 2000 G
+Conduct a fencing drill, +2 attack   92.000 F 600 G
+Conduct a physical training, +7 defense  13.000 F 200 G
+Conduct a physical training, +7 defense  40.000 F
+Conduct a physical training, +4 defense  70.000 F
+Lancer/Cossack
+Conduct a fencing drill, +3 attack   20.000 F 100 G
+Conduct a fencing drill, +4 attack   44.000 F 800 G
+Conduct a fencing drill, +6 attack   92.000 F 1400 G
+Conduct a physical training, +3 defense  12.000 F 100 G
+Conduct a physical training, +4 defense  37.000 F 750 G
+Conduct a physical training, +6 defense  72.000 F 1500 G
+Dragoon 17th (NOT FOR RUS)
+Conduct a fencing drill, +7 attack    7000 F 300 G
+Conduct a fencing drill, +6 attack   73.000 F 700 G
+Conduct a fencing drill, +3 attack   24.000 F 18.000 G
+Conduct a physical training, +3 defense  24.000 F 1000 G
+Conduct a physical training, +4 defense  73.000 F 800 G
+Conduct a physical training, +3 defense  73.000 F 1800 G
+Dragoon 18th
+Conduct a fencing drill, +7 attack   20.000 F 300 G
+Conduct a fencing drill, +6 attack   73.000 F 150 G
+Conduct a fencing drill, +3 attack   24.000 F 18.000 G
+Conduct a physical training, +5 defense  24.000 F 100 G
+Conduct a physical training, +5 defense  73.000 F 150 G
+Conduct a physical training, +5 defense  73.000 F 150 G
+Mounted officer
+Conduct a fencing drill, +30 attack  14.000 F 1600 G
+Conduct a physical training, +30 defense 80.000 F 1800 G
+Shipyard:
+Hire sailors: ships +20% movement speed 8000 W 1600 G
+Hire naval engineers: warships cost -20%  5000 G
+
+NATIVE AMERICANS
+SUD
+Fortress:
+improve fortifications: enable archers, tower, +10.000 HP 4500 F 100 G (AZTEC 3000 F 300 G)
+build new barracks: enable warrior with staff, +10.00 HP 55000 F 150 G (NOT AZTEC)
+build improved barracks: enable chief, +10.000 HP 65.000 F 300 G (AZTEC +500 G)
+Spearman
+Conduct a fencing drill, +3 attack    300 G 15.000 F
+Conduct a fencing drill, +5 attack    1600 G 21.000 F
+Conduct a fencing drill, +2 attack    3300 G 76.000 F
+Conduct a physical training, +3 defense  1000 G 14.000 F
+Conduct a physical training, +4 defense  800 G 19.000 F
+Conduct a physical training, +10 defense 130.000 F 16.000 W
+Archer
+Conduct a fencing drill, +2 attack  350 G 9000 F
+Conduct a fencing drill, +2 attack (+1 INCA) 200 G 75.000 F
+Conduct a fencing drill, +2 attack (+9 INCA) 200 G 130.00 F
+Conduct a physical training, +2 defense (+1 INCA) 200 G 1000 F
+Conduct a physical training, +2 defense (+2 INCA) 500 G 15.000 F
+Conduct a physical training, +2 defense (+5 INCA) 80.000 F
+Staff/Blowpipe warrior
+Conduct a fencing drill, +2 attack  250 G 22.000 F
+Conduct a fencing drill, +2 attack  250 G 68.000 F
+Conduct a fencing drill, +2 attack  250 G 130.000 F
+Conduct a physical training, +2 defense 300 G 16.000 F 
+Conduct a physical training, +2 defense 500 G 37.000 F
+Conduct a physical training, +2 defense 500 G 130.000 F
+Slinger
+Conduct a fencing drill, +3 attack  500 G 2000 F
+Conduct a fencing drill, +4 attack 1600 G 10.000 F
+Conduct a fencing drill, +5 attack 2000 G 80.000 F
+Conduct a physical training, +4 defense 600 G 3250 F
+Conduct a physical training, +4 defense 2500 G 18.000 F
+Conduct a physical training, +7 defense 3000 G 100.000 F
+Chief
+Conduct a fencing drill, +65 attack   4200 G 92.000 F
+Conduct a physical training, +48 defense 6300 G 148.000 F
+INCA
+build special barracks: enable all other troops, +10.000 HP (300 F 250 G)
+build temple: enable shamans, +10.000 HP (4500 F 100 G)
+build town center: enable upgrades, +10.000 HP (700 W 700 S)
+Mill:
+improve grain storage: food +120%  750 F 200 G
+improve grain treatment: food +140% 10.600 F 500 G (-9000 F AZTEC)
+cultivate new types of grain: food +40% 2000 W 100 G
+purchase agricultural equipment: food +90%  9000 W 700 G (NOT AZTEC)
+field melioration: field +300% durability 14.000 W 2000 S (-90% AZTEC)
+dig canals for irrigation: field +300% durability 20.000 W 1500 G 5000 I (-1350 G -4500 I AZTEC)
+slashand burn: field +200% durability 3000 W 360 G
+TownCenter:
+Hire overseer in settlements: paesant +40% creation speed 20.000 W 10.800 S
+Archery practice: archers -70% scatter 24.000 W 5000 G (300 W 300 G INCA)
+Purchase new building materials: buildings +6 defense 56.600 W 12.000 S (AZTEC)
+Train fortification specialists: towers -50% cost 2000 W 1000 S (AZTEC)
+qualify construction workers: enable house II 4000 W 4000 S 100 G
+increase architect's salary: enable house III 40.000 W 25.000 G 7000 S (NOT AZTEC)
+Train builder: building construction speed +100%   10.000 G
+Improve cotton armor: archer, staff warrior +5 lance defense  65.000 F 10.000 G (NOT INCA)
+Improve shields: increase arrow defense for some units 15.000 W 5000 I
+Improve steel: +5 melee attack to all soldiers, 15.000 W 4000 I
+build combat school: spearman +100% creation speed 8.000 W 25.000 S (+5000 W +40.000 S AZTEC)
+increase sling production: slinger +50% creation speed 300 G 3000 F
+Temple:
+Develop writing: shaman +100% creation speed 2500 G
+Celebrate priest ritual: shaman +120 HP  12.000 G
+Study herbal medicine: shaman +15 Healing 2500  G
+Shipyard:
+build house: +120 Pop, +20.000 HP 300 G 3000 HP (AZTEC)
+Hire sailors: ships +20% movement speed 8000 W 1600 G
+Improve canoe builders: war canoe +90% creation speed 33.000 W 3300 G
+Buy new fishnets: fishing canoe +100% capacity I,II,III 
+5000 W 3500 G/ 5000 I 2000 W 6000 G/ 6000 I 20.000 W 5000 G
+House II INCA:
+build house: +80 pop +10.000 HP 11.000 F
+build another house: +80 pop +10.000 HP 1500 G 45.000 F
+
+NORD
+PUEBLO Fortress:
+build town center: enable upgrades, +10.000 HP 300 W 350 S
+build temple: enable shamans, +10.000 HP 15.000 W
+build stable: enable cavalry, +10.000 HP 500 W 1250 S
+Barrack:
+buy tomahawks: enable tomahawks 150 G
+buy bows: enable archers 1000 W 1000 F 100 G (2000 G 60.000 F DEL) (6000 W 200 G 9000 F HAI)
+buy rifles from europeans: enable shooters 4000 G (2700 G 65.000 F DEL) (2400 C PUEBLO)
+create military unions: enalbe chief 47.000 F 20.000 G (3200 G 65.000 F DEL) 
+(23.000 W 12.000 G PUEBLO) (500 G 6000 F HAI)
+Spearman
+Conduct a fencing drill, +3 attack  70 G 100 F
+Conduct a fencing drill, +3 attack  70 G 200 F 
+Conduct a fencing drill, +3 attack  70 G 400 F
+Conduct a physical training, +7 defense 750 G 8000 F
+Conduct a physical training, +8 defense 20.000 G 75.000 F
+Conduct a physical training, +9 defense 34.000 G 130.000 F
+Armored warrior
+Conduct a fencing drill, +3 attack  100 G 11.000 F
+Conduct a fencing drill, +4 attack  2000 G 40.000 F
+Conduct a fencing drill, +5 attack  2000 G 100.000 F 40.000 W
+Conduct a physical training, +5 defense 1000 G 22.000 F
+Conduct a physical training, +3 defense 14.000 W 37.000 F
+Conduct a physical training, +4 defense 50.000 W 100.000 F
+Tomahawk warrior
+Conduct a fencing drill, +3 attack    300 G 15.000 F
+Conduct a fencing drill, +5 attack    1600 G 21.000 F
+Conduct a fencing drill, +2 attack    3300 G 76.000 F
+Conduct a physical training, +3 defense  1000 G 14.000 F
+Conduct a physical training, +4 defense  800 G 19.000 F
+Conduct a physical training, +10 defense 130.000 F 16.000 W
+Archer
+Conduct a fencing drill, +2 attack  350 G 9000 F
+Conduct a fencing drill, +2 attack  200 G 75.000 F
+Conduct a fencing drill, +2 attack  200 G 130.00 F
+Conduct a physical training, +2 defense 200 G 1000 F
+Conduct a physical training, +2 defense 500 G 15.000 F
+Conduct a physical training, +2 defense 80.000 F
+Shooter
+Conduct a fencing drill, +2 attack  250 G 22.000 F
+Conduct a fencing drill, +2 attack  250 G 68.000 F
+Conduct a fencing drill, +2 attack  250 G 130.000 F
+Conduct a physical training, +2 defense 300 G 16.000 F 
+Conduct a physical training, +2 defense 500 G 37.000 F
+Conduct a physical training, +2 defense 500 G 130.000 F
+Chief
+Conduct a fencing drill, +65 attack   4200 G 92.000 F
+Conduct a physical training, +48 defense 6300 G 148.000 F
+Mill:
+improve grain storage: food +120%  750 F 200 G
+improve grain treatment: food +140% 25.000 F 4000 G (10.000 F 500 G PUEBLO)
+cultivate new types of grain: food +40% 2000 W 100 G (150 G HAI)
+purchase agricultural equipment: food +90%  9000 W 700 G (-8000 W PUEBLO) (1200 G HAI)
+field melioration: field +300% durability 17.000 W (-8000W PUEBLO) 
+dig canals for irrigation: field +300% durability 20.000 W 1500 G 5000 I (+9.000 W -5000 I HAI)
+slashand burn: field +200% durability 2500 W
+TownCenter:
+Hire overseer in settlements: paesant +50% creation speed 37.000 W (NOT PUEBLO) (14.000 W HAI)
+Archery practice: archers -70% scatter 24.000 W 5000 G 
+Shooting practice: shooters -35% scatter 4000 W (60.000 F DEL) (2300 G 24.000 F HAI)
+Train builder: building construction speed +100%   10.000 G (12.000 W 2000 G SIOUX/HAI) (NOT PUEBLO)
+purchase metal axes: tomahawk +125 power (+400 for HUR) +100 % accuracy 1250 G 20.000 F
+qualify construction workers: enable house II 20.000 W 3000 G (10.000 W 125 G SIOUX) 
+(30.000 W 2000 G HAI)
+Skull dance: increase archer HP (spearman HP DELA)  30.000 W 35.000 G 12.000 I (60.000 G DEL) 
+(7000 G 65.000 F PUEBLO)
+Allocate resources to train shooters: shooter +25% fire power  5000 I 5000 C
+buy metal knives: archers +5 melee attack 900 G
+Improve steel: +5 melee attack to all soldiers, 15.000 W 4000 I (SIOUX,PUE)
+build combat school: lancer +25% creation speed 45.000 W 10.000 G (SIOUX)
+catch wild mustang: cavalry +60% creation speed 10.000 W 5000 G (PUEBLO)
+horse shield: lancer +5 lance armor 10.000 G (SIOUX, 3000 G 65.000 F PUE)
+conduct a parade: lancer +arrow defense 3000 W 500 G 2000 I (PUEBLO)
+Improve armor production: armored warrior G cost -50% 27.000 W 3000 I HAI
+increase bow production: archers +60% creation speed 25.000 W 62.000 F 6300 G SIOUX 
+34.000 W 18.000 G PUEBLO
+increase rifle production: shooters +50%/120% creation speed 23.000 W 12.000 G SIOUX 
+14.000 G 7500 C PUEBLO
+Storehouse:
+increase carpentry tool production: wood +30% 28.000 F 750 G HUR/IRO
+(+1450 G +1000 F DEL) (+50% 2000 G 15.000 F SIOUX) (1200 G 29.000 F PUEBLO) 
+(+80% 4250 G 12.500 W HAI)
+House: 
+Paesant 
+Conduct a fencing drill, + 10 attack    400 G 200.000 F
+Conduct a physical training, +17 defense  4500 G 340.000 F 3000 W
+Sun dance: paesant +90 HP  18.400 G 98.000 F
+Hunter's tepee
+improve meat storing: meat +120% 1300 F
+pemmican: meat +140% 10.000 F
+Archer-hunter
+Conduct a fencing drill, +2 attack 6000 F
+Conduct a fencing drill, +2 attack 10.000 F
+Conduct a fencing drill, +2 attack 13.000 F
+Conduct a physical training, +3 defense 8000 F
+Conduct a physical training, +4 defense 34.000 F
+Conduct a physical training, +9 defense 110.000 F
+Stable:
+tame horse: enable lancer 25.000 W
+horse archery: enable horse archers 100 G 4500 F
+rifle riders: enable mounted shooters 10.000 G
+military chieves: enable mountd chieves 10.000 G 65.000 F
+Lancer
+Conduct a fencing drill, +3 attack  100 G 25.000 F
+Conduct a fencing drill, +5 attack  100 G 80.000 F
+Conduct a fencing drill, +2 attack 200 G 122.000 F
+Conduct a physical training, +3 defense 400 G 24.000 F
+Conduct a physical training, +4 defense 800 G 86.000 F
+Conduct a physical training, +10 defense 16.000 W 130.000 F
+Sioux lancer
+Conduct a fencing drill, +4 attack  300 G 20.000 F 
+Conduct a fencing drill, +9 attack  3000 G 60.000 F
+Conduct a fencing drill, +8 attack  1500 G 130.000 F
+Conduct a physical training, +4 defense  1000 G 20.000 F
+Conduct a physical training, +9 defense  4000 G 42.000 F
+Conduct a physical training, +8 defense  4000 G 73.000 F
+Horse archer
+Conduct a fencing drill, +2 attack  20.000 F
+Conduct a fencing drill, +4 attack 3500 G 80.000 F
+Conduct a fencing drill, +2 attack 125.000 F
+Conduct a physical training, +2 defense 3000 F
+Conduct a physical training, +2 defense 13.000 F
+Conduct a physical training, +2 defense 48.000 F
+Horse shooter
+Conduct a fencing drill, +3 attack  2000 G 120.000 F
+Conduct a fencing drill, +5 attack  6000 G 120.000 F
+Conduct a fencing drill, +6 attack 12.000 G 120.000 F
+Conduct a physical training, +2 defense 4000 G 100.000 F
+Conduct a physical training, +4 defense 10.000 G 125.000 F
+Conduct a physical training, +6 defense 20.000 G 125.000 F
+Horse chief
+Conduct a fencing drill, +65 attack   4200 G 92.000 F
+Conduct a physical training, +48 defense 6300 G 148.000 F
+Temple:
+Develop writing: shaman +100% creation speed 2500 G (12000 W HAI)
+Celebrate priest ritual: shaman +120 HP  12.000 G
+Study herbal medicine: shaman +15 Healing 2500  G (40.000 F HAI)
+Shipyard:
+Hire sailors: ships +20% movement speed 8000 W 1600 G
+Improve canoe design: canoe +15 defense 18.000 W 2500 G HAI
+Improve canoe builders: war canoe +90% creation speed 33.000 W 3300 G
+Buy new fishnets: fishing canoe +100% capacity I,II,III 
+5000 W 3500 G/ 5000 I 2000 W 6000 G/ 6000 I 20.000 W 5000 G
+
+MINE
+
+
+
+
+
+COSSACKS UPGRADES
+Accademy:
+food +20%: 200 W 320 G
+food +15%: 12.400 W 1500 G
+food +10%: 32.400 W 1400 G
+field durability+200%: 1400 W 500 G
+boat fishing +100%: 12.400 W 2500 G
+unlock frigate: 12.400 W 7000 G
+boats cost -85%: 7300 W 1200 G
+wood +100%: 550 G 5500 F
+buildings +80% HP: 13.500 W 1200 G 9000 S
+builder work +300%: 9000 G
+walls, towers +70% HP: 1500 G 16.200 S
+fire power+10%: 7000 G
+Show power +60%: 39.000 G
+artillery +15% range: 9000 G 27.200 I 48.000 C
+artillery +150% HP: 500 G 3800 I 1500 C
+unlock multi barrel cannon: 1500 G 2500 C
+artillery +65% accurcy: 13.000 W 14.000 G 72.750 C
+repair all artillery: 350 W 100 G 250 C
+Reveal all deposits: 500 G
+stone +200%: 1550 G 3000 I
+stone +400%: 1550 G 4200 F 12.500 C
+heal all units: 200 G 200 C
+ships +40% movement speed: 65.400 W 24.050 G
+unlock battleship: 32.300 W 6800 G 9000 I 12.800 C
+vessel +1000% building speed: 2300 W 1150 G 59.000 S
+fire arms +35% fire rate: 350 G 2000 I
+musketter -50% cost: 1550 G 3700 C
+fire arms +35% fire rate: 5500 G 21.200 C
+armored units +2 defense: 7000 G
+all units +7 melee attack: 12.700 G
+unlock grenadier: 43.200 G
+Blacksmith:
+building +50% HP: 350 G 20.000 S 900 I
+cavalry +400% creation speed: 3600 G 5200 I 8200 C
+cavalry +5 melee attack: 550 G 8000 I
+armored soldier +2 defense: 12.000 G 3000 I
+17th pikeman attack: 50 G 200 F
+17th pikeman defense: 50 G 150 F
+17th musketter attack: 100 G 2000 F
+17th musketter defense: 250 G 200 F
+officer attack: 850 G 1100 F
+officer defense: 800 G 4500 F
+drummer defense: 100 G 1500 F
+rider attack: 100 G 500 F
+rider defense: 450 G 200 F
+17th dragoon attack: 150 G 500 F
+17th draggon defense: 150 G 900 F
+18th pikeman attack: 800 G 2000 F
+18th pikeman defense: 500 G 1500 F
+18th musketter attack: 800 G 1000 F
+18th musketter defense: 350 G 3000 F
+18th dragoon attack: 100 G 2000 F
+18th draggon defense: 1000 G 750 F
+grenadier attack: 800 G 2000 F
+grenadier defense: 350 G 3000 F
+cuirassier attack: 600 G 12.000 F
+duirassier defense: 359 G 1750 F 3000 I
+hussar attack: 350 G 1750 F 3000 I
+hussar defense: 100 G 2000 F
+artillery -7% cost: 700 G 2100 F
+artillery +50% creation speed: 700 G 1300 C
+tower +20% fire rate: 250 G
+Town Center:
+advance to 18th century: 10.000 G 50.000 F 5000 I
+food +140%: 250 G 750 F
+food +120%: 3350 G 40.600 F 2900 I
+increase mine capacity: 1250 G 1000 F
+field durability+100%: 400 W 100 G
+
+UNITS
+Cannon 
+HP 5000
+Cost 200 W 250 G 150 S 100 I 225 C   8000 Fr
+Attack 49
+ammo 25 I 35 C
+Upkeep 0.6 G
+Multibarreled cannon
+HP 2000
+Cost 200 W 250G 150 S 100 I 225 C  1500 Fr
+Attack 500
+ammo 5 I 15 C
+Upkeep 0.25
+Howitzer
+HP 150
+Cost 450 G 150 I   10.000 Fr
+Attack 70
+ammo 70 I 115 C
+Upkeep 0.06
+Mortar
+HP 100
+Cost 150 W/G/S/I/C    800 Fr
+Attack 700
+ammo 4 I 9 C
+Upkeep 0.1
+
+Pikeman 17th
+HP 100
+Cost 25 F 20 I  150 Fr
+Attack 8
+Pikeman 17th (Poland)
+HP 100
+Cost 45 F   100 Fr
+Attack 7
+Pikeman 17th (Turkey,Algeria)
+HP 100
+Cost 55 F 2 I   150 Fr
+Attack 9
+Pikeman 18th
+HP 85
+Cost 15 F 1 G  25 Fr
+Attack 8 (10 Austria) (11 Sweden)
+Roundshier (Austria)
+HP 100
+Cost 25 F 10 I  125 Fr
+Attack 6
+Spearman (Russia)
+HP 100
+Cost 55 F 15 I   180 Fr
+Attack 9
+Ligth Infantry (Turkey,Algeria)
+HP 55
+Cost 35 F 1 I   50 Fr
+Attack 6
+
+Musketter 17th (France,Piemonte,Portugal,Prussia,Saxony,Venice,Spain)
+HP 85
+Cost 4 G 40 F 12 I  560 Fr
+Attack 9
+ammo 1 I 1 C
+Musketter 17th (England)
+HP 50
+Cost 6 G 45 F 10 I  400 Fr
+Attack 9
+ammo 1 I 1 C
+Musketter 17th (Austria)
+HP 55
+Cost 14 G 50 F 5 I   600 Fr
+Attack 10
+ammo 1 I 1 C
+Musketter 17th (Netherlands)
+HP 65
+Cost 10 G 50 F  400 Fr
+Attack 7
+ammo 1 I 1 C
+Musketter 17th (Poland)
+HP 95
+Cost 3 G 48 F  640 Fr
+Attack 9
+ammo 1 I 1 C
+Musketter 18th
+HP 100
+Cost 45 G/F/I  960 Fr (160 Fr Austria/Denmark) (35 G 80 F 45 I 250 Fr Bavaria) 
+(200 G 90F/I Denmark)
+Melee attack 18 (9 Bavaria/Denmark)
+Ranged Attack 22 (12 Austria(Bavaria/Denmark)
+ammo 2 I 2 C
+Musketter 18th (Prussia)
+HP 100
+Cost 240 G 90 F/I  250 Fr
+Melee Attack 24
+Ranged attack 12 
+ammo 2 I 2 C
+Grenadier
+HP 100
+Cost 90 G/F  200 Fr (100 Saxony)
+Melee Attack 22 (25 Saxony)
+Ranged attack 12 (15 Saxony)
+ammo 1 I 1 C
+Chassuer (France)
+HP 85
+Cost 60 F   300 Fr
+Attack 20
+ammo 1 I 1 C
+Highlander (England)
+HP 100
+Cost 50 F 8 I  250 Fr
+Attack 17
+ammo 1 I 1 C
+Pandur (Austria)
+HP 85
+Cost 25 F 5 I  300 Fr
+Attack 18
+ammo 1 I 1 C
+Strelet (Russia)
+HP 85
+Cost 60 F 15 I 5 G  480 Fr
+Attack 11
+ammo 3 I 4 C
+Serdiuk (Ukraine)
+HP 85
+Cost 70 F 15 I 3 G   600 Fr
+Attack 10
+ammo 1 I 1 C
+Jannissary (Turkey)
+HP 55
+Cost 45 F   400 Fr
+Attack 12
+ammo 3 I 3 C
+Archer
+HP 30
+Cost 10 F  25 Fr
+Attack 150
+ammo 2 W
+
+Rider
+HP 350
+Cost 100 F 25 I  3000 Fr (150 F 20 I Sweden/Venice)
+Attack 12 (11 Sweden)
+Cuirassier
+HP 350
+Cost 125 F 50 I  1750 Fr
+Attack 15
+Hussar 
+HP 250
+Cost 110 F 8 G  960 Fr (640 Prussia)
+Attack 11 (8 Prussia)
+Croat (Austria)
+HP 250
+Cost 75 F 7 G   1750 Fr
+Attack 9
+Winged Hussar (Poland)
+HP 240
+Cost 150 F 25 I   2500 Fr
+Attack 13
+Light rider (Poland)
+HP 280
+Cost 45 F 3 G   800 Fr
+Attack 8
+Vityaz (Russia)
+HP 400
+Cost 130 F 40 I   3000 Fr
+Attack 11
+Don Cossack (Russia)
+HP 240
+Cost 50 F  1200 Fr
+Attack 12
+Sich Cossack (Ukraine)
+HP 300
+Cost 200 F 15 G   1200 Fr
+Attack 12
+Hetman (Ukraine)
+HP 450
+Cost 150 G/F  900 Fr
+Attack 30
+Cavalry guards (Saxony)
+HP 400
+Cost 150F 15 I  1500 Fr
+Attack 16
+Spah (Turkey)
+HP 340
+Cost 100 F  640 Fr
+Attack 10
+Mameluke (Algeria)
+HP 400
+Cost 75 F 10 G  700 Fr
+Attack 12
+
+
+Dragoon 17th
+HP 300
+Cost 150 F 35 G   3600 Fr
+Attack 11
+ammo 4 I 4 C
+Dragoon 18th
+HP 320 (120 France)
+Cost 60 G/F   3600 Fr   (45 G/I  150 F  1800 Fr France)
+Attack 18  (7 France)
+ammo 2 I 2 C
+King's musketter (France)
+HP 320
+Cost 30 G/I 200 F   7000 Fr
+Attack 100
+ammo 2 I 2 C
+Horse archer
+HP 300
+Cost 100 F   500 Fr
+Attack 46
+ammo 2 W
+
+Yatch  
+HP 32.000  (36.000 Turkey)
+Cost 600 W 450 G 350 I    3000 Fr   (900 W 400 G/I Turkey)
+Attack 30 (100 Turkey)
+ammo 4 I 8 C
+upkeep 0.06 G (2 G Turkey)
+Galley
+HP 50.000
+Cost 10.000 W 1000 G/I  3000 Fr
+Attack 30
+ammo 4 I 8 C
+upkeep 1 G
+Frigate
+HP 50.000
+Cost 5000 W 1200 G/I/C 15.000 Fr
+Attack 30
+ammo 25 I 35 C
+upkeep 0.2 G
+Battleship (Xebec-Turkey/Algeria, Ship of the line-England, 18th Frigate-France, Galleas-Venice)
+HP 65.000
+Cost 9000 W 4500 G/I/C  25.000 Fr  (65.000 W 4500 G 5000 I/C Turkey/Algeria) 
+(12.000 W 1000 G/I 3000 Fr Venice)
+Attack 30 (100 Venice)
+ammo 5 I 15 C
+upkeep 10 G
+Cutter
+HP 20.000
+Cost 4500 W 150 G/I/C 1000 Fr
+Attack 30
+ammo 4 I 8 C
+upkeep 0.06 G
+Ketch
+HP 40.000
+Cost 5000 W/G/I  1200 Fr
+Attack 30
+ammo 4 I 8 C
+upkeep 1 G
+Ferry
+HP 60.000
+Cost 300 W 50 G 100 I  200 Fr
+Capacity 80
+Fishing boat
+HP 100 
+Cost 50 W
+Capacity 1000 F
+
+Paesant
+HP 50
+Cost 100 F   400 Fr
+Attack 30
+Priest/Pope/Padre
+HP 100 
+Cost 50 F 150 G  750 Fr
+Heal
+Mullah
+HP 75
+Cost 50 F   750 Fr
+Heal
+Officer
+HP 150
+Cost 250 G 50 F   200 Fr
+Attack 150
+upkeep 0.06 G
+Drummer
+HP 100
+Cost 50 F

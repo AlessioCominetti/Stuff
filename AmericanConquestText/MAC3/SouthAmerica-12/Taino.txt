@@ -1,0 +1,145 @@
+TAINO
+Carribean civilization with good navy and economy
+-Villager work10% faster
+-Shipyard upgrades cost no W
+-Fishing ships upgrade fish capacity over time
+-Temple upgrades are cheaper
+-Can train Shamans at the Town Hall
+-Can build shipyard on land, can gather F even without canoes
+
+UU Gusabara(spearman)
+UT Manati: archers +10% fire power, canoes +20% range
+
+Buildings
+Barrack 250 W mul 10 MAX 5 HP 15.000  MaxInside 100 MaxPop 100
+unlock archers 1000 G 6000 F 1000 W
+unlock slingers 1000 G 2000 F 2000 W
+unlock chieves 500 G 6000 F
+
+House 300 W mul 10 caps 4 MAX 8 HP 5000 MaxInside 25 MaxPop 150
+Improve house: +150 Pop, +20 inside, +10.000 HP  500 G 20.000 F
+
+Shipyard 200 W mul 6 MAX 6 HP 15.000 MaxInside 45 MaxPop 75
+fish +100%  2000 W 500 G (automatic over 10 seconds)
+fish +100%  5000 W 8000 G (automatic over 20 seconds)
+fish +100%  6000 G 9000 I (automatic over 200 seconds)
+fish +100%  20000 W 2000 I (automatic over 50 seconds)
+battle canoe +100% creation speed 3500 G
+ferry +100% speed 1500 G
+
+Storehouse 30 W mul 5 MAX 8 HP 5000 MaxInside 20 MaxPop 20
+
+Town Hall 5000 W MAX 1 HP 25.000 MaxInside 25 MaxPop 75
+^^^paesant creation +20% 10.000 W
+^^^archers -70% scatter 12.000 W 5000 G
+^^^archers +20% range -30% scatter 3000 G
+---
+^^^shaman creation +100%  2000 W
+^^^shaman healing +15     2000 G
+^^^shaman +120 HP         10.000 G
+
+Market 7500 W mul 100 MAX 2 MaxInside 25 MaxPop 25
+
+Total Max Population 3635
+Total max inside 1305
+Total number of buildings 30
+
+Units
+Villager
+HP 100
+Sword 12 Fr 30 storm 20
+F 200 Fr 300-250  Population 2
+
+---
+Woodcutter 10
+hunter 20
+---
+
+Gusabara
+HP 120
+Lance 15-30 Fr 60 bx 2
+Javelin 100 Fr 60 range 6 ammo 10 W 5 S accuracy 50%
+Recharge 400 javelins 4
+D 0-20/0-20 175 arrow protection  storm 30
+F 200 W 30 Fr 150
+
+Archer
+HP 120
+Sword 14-24 Fr 60
+Bow 200-220 Fr 80 range 12.5->15 ammo 2 W 2 S  accuracy 10-15-23-33%
+D 0-16/0-16  storm 10
+F 200 W 10 Fr 150
+
+Slinger
+HP 90-99
+sword 8-20  Fr 20    
+sling 80  Fr 80  Range 10   ammo 2 S accuracy 10-15-23-33%
+D 6-16/1-16    arrow 1175  storm 30
+F 450      Fr 60-36   Population 3
+
+chief
+HP 125
+lance 25-95   Fr 50
+D 0-45/0-45  arrow 50-125  storm 100
+F 360 G 100 Fr 400
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 8
+storm 100  
+F 200 G 100 Fr 300-150
+
+Upgrades cost for gusabara-line 
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160-175
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160-175
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

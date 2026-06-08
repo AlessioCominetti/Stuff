@@ -1,0 +1,98 @@
+GOLDEN HORDE
+-Nomad: population is already capped at 2000
+-Cannot build mills: has to hunt or build pastures to procure F
+-Gurt produces settlers
+-Great Gurt produces military units and upgrades
+-Can train mule cart
+
+Shared units: Settler, nomadic lancer, nomadic horse archer,
+nomadic pikeman, nomadic shooter, shaman, nomadic chief
+
+MONGOLS
+
+-Siege units move 50% faster
+-Lancers +30% HP
+-Hunter works 40% faster
+-Cavalry archers fire 25% faster
+UU Mangudai
+UT cavalry archers cost -25%
+
+TATARS
+
+-Trebuchet +20% range, +35% accuracy
+-Animals contain +50% F
+-Start with 2 sheep, +1 for every completed building 
+UU Keshik, flaming camel
+UT mountd units +2 defense, +25 arrow protection
+
+HUNS
+
+-Archers and mounted archers cost -25%
+-Stable work 25% faster
+-First Pasture is free and built instantly
+UU Tarkan
+UT enemy gold income -25%
+
+CUMANS
+
+-Stables cost -50% W
+-Cavalry +15% movement speed
+-Palisade +50% HP
+-Siege units are available one age earlier
+UU Kipchak
+UT Summon 10 Kipchak
+
+Buildings
+Gurt 80 W mul 3 caps 12 MAX 16 HP 5000 Maxinside 5
+
+--Mule cart 250 F 100 W 250 G mul 2.2 MAX 12 HP 1000
+wood +100% 
+wood +50%
+miner works +100%
+miner works +50%
+
+--Pasture 200 W mul 4 MAX 5 HP 5000 Maxinside 15
+generates domestic animals that can be gathered from
+food +100%
+food +100%
+food +100%
+
+--Blacksmith 250 W 250 S 50 I MAX 1 HP 5500 maxInside 10 MaxPop 10
+field +100% 150 W 150 G
+armored units +6 armor  20500 W 2000 G 6200 I
+pikeman +100% creation speed 35.000 W 16.000 I
+shooter +100% creation speed  85.000 W 55.000 F 5000 C 70.000 G
+
+--Great Gurt 2500 W MAX 1 HP 5000 Maxinside 25 MaxPop 25
+shooter +35% fire rate 3200 I 11500 C
+shooter +10% power 1000 G 6200 C 
+archers -70% scatter 20.000 W 5000 G
+shooter +35% fire rate 6200 G 3500 I 9000 C
+unlock shooters
+unlock shamans
+
+--Shipyard 2000 W mul 5 caps 4 MAX 8 HP 25.000 MaxIn 50 MaxPop 50
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 G
+
+--Stable 9250 W 1500 G 2520 S mul 10 MAX 4 MaxIn 50 Maxpop 50
+HP 55.000
+cavalry +25% creation speed 3000 G
+
+--Market 3000 W 3000 S MAX 1 MaxIn 25 MaxPop 25
+Generate G equal to 20 miners. Can trade resources.
+
+--Outpost 50 W 50 S mul 2 MAX 10 HP 4000 MaxIn 5 MaxPop 5
+
+--Palisade 100 W HP 1000
+
+-Siege Workshop 5000 W 3000 S 3000 G mul 10 MAX 4 HP 25.000 MaxIn 50 MaxPop 50
+unlock ballista
+unlock siege ram
+unlock siege tower
+unlock mantlet
+
+Total max inside 865
+Total number of buildings 72 (62 without outposts)
+
+Units

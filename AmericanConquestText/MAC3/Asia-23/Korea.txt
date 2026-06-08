@@ -1,0 +1,4 @@
+KOREA
+-militray units cost -50% W
+-Stone miner works 20% faster
+-Armor, Tower and Dock ugrades cost -90%

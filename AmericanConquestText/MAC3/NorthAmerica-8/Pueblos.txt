@@ -1,0 +1,218 @@
+PUEBLOS
+-Create all units at Towns
+-Max 200 paesants at any time
+-Max 30 horsemen
+
+UT-Integrated Kingdom: enable construction of houses,
+totems, mines, stables and barracks. Expand villager
+cap to 1000.
+
+Buildings
+Town: a special building unique to the Pueblos.
+Train all units and develop all technologies.
+HP 25000 mul 60 MAX 3
+Garrison 200 +Pop 200
+Cost 500 W 500 S
+Enable barrack, +10.000 HP:  100 W  100 S
+Enable shamans, +10.000 HP: 5000 W 4000 S
+Enable stable, +10.000 HP:  1250 W 1250 S
+Enable upgrades, +10.000 HP: 1000 W 1000 S 100 G
+---
+archers -70% scatter: 24.000 W 5000 G   
+shooters -35% scatter: 4000 W 
+troops +10% HP, cavalry +20% HP: 1000 G   
+archers +20% range: -30% scatter 2000 G
+shooter +20% fire rate: 4000 C 2000 I
+---
+shaman creation +100%  2000 G  
+shaman healing +15     2000 G  
+shaman +120 HP        12000 G
+---
+
+Blacksmith: develop military unit upgrades
+HP 10000 MAX 1
+Garrison 20
+Cost 250 W 250 S 50 I
+lancer +5 lance defense:  3000 G 65.000 F
+units +5 melee atk: 15000 W 5000 I 
+horseman +50% creation speed: 5000 G 9000 W
+rifleman +120% creation speed:  4650 C 10.500 G
+archer +60% creation speed: 35.000 W 13.800 G 
+horseman, staff warrior +50 arrow protection: 2600 W 2000 G 
+
+Shipyard: train and develop ships
+HP 15000 mul 3 MAX 7
+Garrison 35
+Cost 750 W 250 S
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+Market: trade resources and generate a small tickle of G
+HP 5000 mul 10 MAX 3
+Garrison 25
+Cost 7500 W
+generate G equal to 5 miners (+20 G/sec)
+
+Mill: produce and improve grain
+HP 10000 mul 5 MAX 6
+Garrison 30
+Cost 125 W 125 S
+food +70% 10800 F 500 G 
+food +80% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 34000 W 2000 S 1500 G 5000 I 
+
+Storehouse: drop off point for wood, improve wood
+HP 10000 mul 5 MAX 6
+Garrison 20
+Cost  125 W 125 S
+wood +30% 1200 G 30.000 F
+
+--Mine 1000 W 5->50 (can upgrade stone mines to lvl 5, others to lvl 4)
+Lvl Miners  Upgrade cost      Upgrade Time
+1    5        2000 W            30 sec
+2    10       5000 W 25.000 F   45 sec
+3    15      22.000 W 41.000 F  45 sec
+4    25      7000 G/I 15.000 F  45 sec
+5    50      30.000 G/I 83.000 F 45 sec
+
+These buildings are unlocked after researching the unique tech.
+House: produce villager, increase population cap
+HP 25000 mul 3 MAX 8
+Garrison 25 +Pop 125
+Cost 50 W 50 S
+
+Stable: train military mountd units
+HP 25000 mul 10 MAX 8 caps 4
+Garrison 100
+Cost 2500 W
+unlock horseman 25.000 W 
+unlock horse archer 100 G
+
+Totem: boost morale of all units nearby
+HP 500 mul 10 MAX 4
+Cost 300 W
+
+Barrack: train military foot units.
+HP 25000  mul 10 MAX 4
+Garrison 100
+Cost 300 W 300 S
+
+Total Max Pop 1840 (3840 after UT)
+Tot max inside 1240 (2240 after UT)
+tot number of buildings 26 (46 after UT)
+
+UNITS
+paesant
+HP 100
+Sword 3 Fr 30  As 10
+F 100  Fr 40 (80 from houses)
+---
+Farmer 8->20
+Woodcutter 8->10.4
+Miner 4
+Hunter 20
+---
+
+Staff warrior
+HP 100 [110]
+sword 5-16 fr 26 bx 10
+D 2/7 [10/20]  P 150 [175]  As 10
+F 400 W 30 S 10  Fr 20  Population 2
+
+Archer 
+HP 100 [110]
+sword 6-12  Fr 24  bx 1
+Bow 200    Fr 80   range 10->12  accuracy 12-18-24-36%  ammo 2 W 2 S
+D 6/1 [16/16]  As 20
+F 320 W 20 G 14  Fr 90-60  Population 2
+
+Shooter 
+HP 100 [110]
+Sword 12-24  Fr 60 bx 2
+Rifle 600   Fr 480-400  range 12  ammo 5 I 5 C
+D 6/1 [20/20]     As 30   
+F 150 G 12      Fr 125-60
+
+Horseman
+HP 400 [480]
+Lance 10-30  Fr 36   bx 20
+D 0/5 [20/30]  P 50 [100] As 100
+F 1200 Fr 1200-800
+
+Chief
+HP 150
+Sword 25-95 Fr 50
+D 0/0 [45/45] As 100
+F 1250 G 90 Fr 1600
+
+Shaman
+HP 30 [150]
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 8
+storm 100
+F 400 G 90 Fr 200-100
+
+
+Upgrades cost for shooter-line/staff warrior
+staff warrior +2/2/2 atk, +2/3/3 armor
+shooter +2/2/3 atk, +4/5/5 armor
+AtkI    100 G  5000 F
+AtkII   100 G 10000 F
+AtkIII  200 G 10000 F
+DefI    500 G  3000 F
+DefII   800 G 10000 F
+DefIII        10000 F
+
+Upgrade cost for archer-line
++2/2/2 atk, +3/4/3 armor
+AtkI 3   50 G  500 F
+AtkII   200 G 1000 F
+AtkIII  200 G 2000 F
+DefI    200 G  500 F
+DefII   200 G 1000 F
+DefIII  300 G 4000 F
+
+Upgrade cost for chief-line
++3/7/55 atk, +11/15/19 armor
+AtkI    500 G  1500 F
+AtkII   600 G  4000 F
+AtkIII  100 G 80000 F
+DefI    250 G  2000 F
+DefII   550 G 15000 F
+DefIII  500 G 80000 F
+
+Upgrade cost for horseman
++5/5/5 atk, +4/5/6 armor
+AtkI   100 G  5.000 F
+AtkII  100 G 10.000 F
+AtkIII 200 G 10.000 F
+DefI   400 G  3.000 F
+DefII  500 G 16.000 F
+DefIII       16.000 W 
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

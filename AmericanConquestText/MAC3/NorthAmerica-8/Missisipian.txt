@@ -1,0 +1,165 @@
+MISSISIPIANS
+-units move 25% faster in allied territory
+-all units and upgrades don't need gold
+-Market generates S instead of G
+-Can build stone mines
+-Fort recruits all military units and shaman
+
+UU Selt
+UT Maize cultivation (better farm upgrade)
+
+Castle: train units and develop technologies
+HP 50000 mul 50 MAX 3
+Garrison 100 +Pop 400
+Cost 500 W 500 S
+unlock archers 100 S +10.000 HP
+unlock chieves 5000 S +10.000 HP
+unlock shamans 3000 W 3000 S +10.000 HP
+---
+archers +20% range -75% scatter: 28000 W 5000 S 
+shaman creation +100%  2000 S  
+shaman healing +15     3000 S  
+shaman +120 HP         6000 S
+
+House: train settlers, raise populatin cap
+HP 5000 mul 4 MAX 6
+Garrison 30 +Pop 170
+Cost 250 W
++200 pop, +10.000 HP: 3000 W 1250 S
+
+Mill: produce grain and develop farm upgrades
+HP 5000 mul 6 MAX 5
+Garrison 30
+Cost 250 W 
+food +80%  11.000 W           
+food +70%  25.000 F  
+food +50%  5.000 W (maise cultivation)         
+field +100% 20.000 W 
+field +100% 20.000 W 
+
+Storehouse: drop off site for wood and develop wood upgrades
+HP 5000 mul 5 MAX 10 caps 6
+Garrison 20
+Cost 30 W
+wood +50% 2000 S 25.000 F
+  
+---Mine 1000 W 5->50 (can only build stone mines)
+Lvl Miners  Upgrade cost      Upgrade Time
+1    5        2000 W            30 sec
+2    10       5000 W 25.000 F   45 sec
+3    15      22.000 W 41.000 F  45 sec
+4    25      12.000 S 5000 F    60 sec
+5    40      20.000 S 11.000 F  60 sec
+
+Market: Trade resources and produce a small tickle of G
+HP 5000 mul 10 MAX 3
+Garrison 25
+Cost 7500 W
+Produce Gold equal to 5 paesants (+20 G/sec)
+
+Shipyard: train and develops canoes and ferries
+HP 15000 mul 3 MAX 7 
+Garrison 50 Pop+ 20
+Cost 1200 W
+fish +100%  2000 W
+fish +100%  5000 W
+fish +100%  6000 W
+fish +100%  20000 W
+battle canoe +100% creation speed 33000 W
+ferry +100% speed 8250 W
+
+Total Max Population 4815
+total max inside     1255
+total max buildings   34
+
+Units
+
+UNITS
+North American settler
+HP 100 Sword 3-12  Fr 30    
+Bow 40  Fr 80  Range 10->12 accuracy 10-15-22-33% ammo 2 W 2 S
+D 0/0 [18/18]  As 2
+F 100   Fr 120  Population 2
+---
+Work rate
+Farmer 8->24
+Woodcutter 8->12
+hunter 20
+miner 5
+---
+
+Archer 
+HP 100
+sword 16-22  Fr 30 bx 2
+Bow 200  Fr 80 range 10->12  accuracy 10-15-22-33% ammo 2 W 2 S 
+D 0/0 [14/14]  As 10
+F 200 W 10 S 10  Fr 80
+
+chief
+HP 100
+sword 25-95   Fr 50
+D 0/0 [45/45]  As 100
+F 1250 S 100 Fr 1600
+
+spearman 
+HP 100
+Lance 14-20  Fr 35 bx 10
+D 0/0 [24/24] P 150 As 10
+F 100 W 2 S 3 Fr 80  Population 2
+
+Shaman
+HP 30 [150]
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 8
+storm 100
+F 400 S 100 Fr 600-300
+
+Upgrade cost for archer-line
++2/2/2 atk, +4/5/5 armor
+AtkI 3   50 S  500 F
+AtkII   200 S 1000 F
+AtkIII  200 S 2000 F
+DefI    200 S  500 F
+DefII   200 S 1000 F
+DefIII  300 S 4000 F
+
+Upgrade cost for chief-line
++3/7/55 atk, +11/15/10 armor
+AtkI    500 S  1500 F
+AtkII   600 S  4000 F
+AtkIII  100 S 80000 F
+DefI    250 S  2000 F
+DefII   550 S 15000 F
+DefIII  500 S 80000 F
+
+Upgrade cost for spearman-line
++2/2/2 atk, +6/8/10 armor
+AtkI     50 G  200 F
+AtkII    50 G  200 F
+AtkIII  100 G  200 F
+DefI    150 G 2000 F
+DefII   200 G 2000 F
+DefIII  400 G 1000 F
+
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

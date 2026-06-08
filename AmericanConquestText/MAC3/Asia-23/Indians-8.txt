@@ -1,0 +1,61 @@
+INDIANS
+-Cannot hunt
+RU: Elephants, camels
+
+HINDUSTANIS
+-Villagers cost -50%
+-Camels attack 20% faster
+UU Ghulam
+UT All gold income +10%
+
+DRAVIDIANS
+-Fishing ships +15% carry capacity
+-Swordman phisical training and fencing drill cost -50%
+-Siege units cost -40% W
+-Skirmishers attack 25% faster
+UU Urumi swordman
+UT melee unit attacks ignore armor
+
+DECCANI
+-All buildings +20% los
+-Can garrison siege and ships inside buildings
+-Fortificatins fire 20% faster
+-Spawn 10 villager for each Military building built
+UU Habshi
+UT Can steal another enemy's Unique technology
+
+GURJARA
+-Can garrison docks with fishing ships
+-Can garrison mills with animals to produce food
+-MOunted units deal 50% more bonus damage
+UU Chakram thrower,  Shrivamsha rider
+UT Military units cost -25% F
+
+BENGALI
+-Elephants received -25% bonus damage
+-Town centers produce villager automatically every minute
+-Ships regen 1500 Hp/min
+-Healer +6 defense
+UU Ratha(war chariot)
+UT Rathe and elephants attack 20% faster
+
+THELUGUS
+-Villagers are upgraded to Militians
+-Mills cost -50%
+-Shooters -15% scatter
+UU Pallegallu
+UT Military units cost -20% and are created 20% faster
+
+KMER
+-All builngs are available from the beginning of the game
+-Cannot build storehouses. Resources are deposited remotely
+UU Ballista elephant
+UT Mounted units +4 attack
+
+BURMESE
+-wood upgrades are free
+-Elephants +2 defense +25 arrow defense
+-Infantry units +4 attack
+-Free monk techs
+UU Arambai
+UT Cavalry +4 attack

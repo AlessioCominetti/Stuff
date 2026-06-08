@@ -1,0 +1,255 @@
+IROQUOIOS
+-Shaman +5 healing range, double movement speed
+-Can place houses together to make long houses
+-Shooters have +6 range
+
+WYANDOTT
+-Shooters cost more but have armor
+-stronger tomahawk upgrades
+-Houses, Barracks and Town Centers don't fire arrows, but
+units inside take -50% damage from projectiles
+
+LENAPE
+-generic shooter
+-shamans are trained 100% faster
+-Houses cost -50%, +50 pop each
+
+BUILDINGS
+Barrack: train military foot units.
+HP 45000  mul 20 MAX 4
+Garrison 100
+Cost 250 W
+unlock tomahawks: 70 G 700 F
+unlock archers: 1000 W 1000 F (2000 G for Lenape)
+unlock shooters: 2000 G 2000 I  (3000 G for Lenape)
+unlock chieves: 20.000 G 47.000 F (3000 G for Lenape)
+
+House: train settlers and raise population cap.
+HP 5000 mul 5 MAX 20 caps 5
+Garrison 25 Pop+ 50
+Cost 200 W
++75 population, +10 garrison: 5000 W
+
+Mill: produce grain and develop farm upgrades
+HP 5000 mul 6 MAX 5
+Garrison 30
+Cost 250 W 
+food +80%  11.000 W 800 G          
+food +70%  25.000 F 4000 G          
+field +100% 20.000 W 
+field +100% 20.000 W 1500 G 5000 I  
+
+Storehouse: drop off site for wood and develop wood upgrades
+HP 5000 mul 5 MAX 10 caps 6
+Garrison 20
+Cost 30 W
+wood +30% 2000 G 
+
+Stable: train military mountd units
+HP 25000 mul 10 MAX 8 caps 4
+Garrison 100
+Cost 2500 W
+unlock horseman 25.000 W 
+unlock horse archer 100 G
+
+Town Center: research technologies
+HP 5000 MAX 1
+Garrison 25
+Cost 2500 W
+settler +50 Hp: 24000 G
+settler +50% creation speed: 37.000 W 
+builder work +50%:  4000 G
+Unlock house upgrades: 20.000 W 200 G  
+---
+archers -70% scatter: 24.000 W 5000 G 
+archers +20% range -30% scatter: 2000 G
+archers +100% creation speed: 30000 W 3000 G
+---
+shooters +50% fire rate: 20.000 W
+shooters -50% scatter: 4000 W
+cavalry +50% creation speed: 5000 G 10.000 W
+---
+tomahawk +125/400 power +100% accuracy:  1250 G  
+troops +10% HP:  1000 G
+military units +5 melee attack: 15000 W 4000 I
+
+Market: Trade resources and produce a small tickle of G
+HP 5000 mul 10 MAX 3
+Garrison 25
+Cost 7500 W
+Produce Gold equal to 5 paesants (+20 G/sec)
+
+Totem: boost morale of all units nearby
+HP 500 mul 10 MAX 4
+Cost 300 W
+
+Temple: train and develop shamans
+HP 5000 MAX 1
+Garrison 50
+Cost 12000 W
+shaman creation +100%  2000 G  
+shaman healing +15     1750 G  
+shaman +120 HP        12000 G
+
+Shipyard: train and develops canoes and ferries
+HP 15000 mul 3 MAX 7 
+Garrison 50 Pop+ 20
+Cost 1200 W
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+Total Max Population 5190 (6190 Lenape)
+total max inside 2750
+total max buildings 63
+
+UNITS
+North American settler
+HP 100 Sword 3-12  Fr 30    
+Bow 40  Fr 80  Range 10->12 accuracy 10-15-22-33% ammo 2 W 2 S
+D 0/0 [18/18]  As 2
+F 100   Fr 180-120  Population 2
+---
+Work rate
+Farmer 8->20
+Woodcutter 8->10.4
+hunter 20
+---
+
+Tomahawk warrior
+HP 100 [110]
+Sword 12-24   Fr 60  bx 2
+Axe 250 [375/650]  Fr 80 range 4 accuracy 50-100% ammo 10 S->I
+D 0/0 [20/20]   As 10
+F 100 G 10  Fr 200
+
+Spearman
+HP 100 [110]
+Lance 4-15 Fr 35 bx 5
+D 0/0 [24/24] As 1
+F 100 I 3 Fr 40
+
+Archer 
+HP 100 [110]
+sword 7-18  Fr 60 bx 2
+Bow 200  Fr 80 range 10->12  accuracy 10-15-22-33% ammo 2 W 2 S 
+D 0/0 [10/10]  As 10
+F 200 W 30 G 5  Fr 50-25
+LENAPE +6 melee attack, +5 G cost, +3% accuracy
+
+Shooter 
+HP 100 [110]
+Sword 7-18    Fr 60  bx 2
+Rifle 400-500   Fr 480-360  range 12  accuracy 10-20% ammo 2 C 2 I
+D 0/0 [6/6]   As 10 
+F 250 G 30   Fr 200  
+HAUDODENAUSSAUNE +6 range
+WYANDOT +60 W cost, +125 arrow protection +4/4 armor, -6 range
+
+rifle chief
+HP 100 [110]
+sword 15-75   Fr 50
+rifle 500-600  Fr 600-400 range 18  accuracy 100%  ammo2 C 2 I
+D 0/0 [45/45] As 100
+F 1250 G 90 Fr 1600
+
+Horseman
+HP 400 [440]
+Lance 15-30  Fr 36   bx 20
+D 0/5 [20/30]  P 50 [100] As 100
+F 1200 Fr 1200-800
+
+Shaman
+HP 30 [150]
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 13
+As 100
+F 100 G 90 Fr 300-150
+
+Upgrade cost for tomahawk
++2/4/6 atk, +6/7/7 armor
+AtkI   250 G
+AtkII  250 G
+AtkIII 700 G 30000 F
+DefI   640 G  
+DefII  900 G 20000 F
+DefIII 30.000 W
+
+Upgrade cost for archer-line
++2/2/2 atk, +3/4/3 armor
+AtkI 3   50 G  500 F
+AtkII   200 G 1000 F
+AtkIII  200 G 2000 F
+DefI    200 G  500 F
+DefII   200 G 1000 F
+DefIII  300 G 4000 F
+
+Upgrade cost for chief-line
++3/7/50 atk, +11/15/19 armor
+AtkI    500 G  1500 F
+AtkII   600 G  4000 F
+AtkIII  100 G 80000 F
+DefI    250 G  2000 F
+DefII   550 G 15000 F
+DefIII  500 G 80000 F
+
+Upgrade cost for shooter-line
++2/2/2 atk, +2/2/2 armor
+AtkI    200 G 22000 F
+AtkII   400 G 12000 F
+AtkIII  200 G 10000 F
+DefI    500 G 16000 F
+DefII   500 G 15000 F
+DefIII  300 G 30000 F
+
+Upgrade cost for horseman
++3/5/2 atk, +3/4/8 armor
+AtkI   100 G  5.000 F
+AtkII  100 G 10.000 F
+AtkIII 200 G 10.000 F
+DefI   400 G  3.000 F
+DefII  500 G 16.000 F
+DefIII       16.000 W 
+
+Upgrade cost for settler
++2/5/2 atk, +3/4/11 armor
+AtkI     50 G    5000 F
+AtkII   200 G  50.000 F
+AtkIII  200 G 100.000 F
+DefI    350 G  80.000 F 4000 W
+DefII   200 G 130.000 F
+DefIII        130.000 F
+
+Upgrade cost for spearman-line
++2/2/2 atk, +7/8/9 armor
+AtkI     50 G  200 F
+AtkII    50 G  200 F
+AtkIII  100 G  200 F
+DefI    150 G 2000 F
+DefII   200 G 2000 F
+DefIII  400 G 1000 F
+
+NAVAL UNITS
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20  accuracy 10-15-22-33% ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 MAX 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 20  accuracy 10-15-22-33% ammo 2 W
+-Fire damage 200 (arrow) range 40
+-Fire explosion 15.000
+-Melee damage 200 (boarding) Fr 20
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 MAX 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 MAX 4

@@ -1,0 +1,538 @@
+BUILDINGS
+Fort: train military units and research upgrades.
+Defensive building.
+HP 25.000 mul 100 MAX 3
+Garrison 75 Pop+ 25
+Cost 500 W 500 S
+unlock officiers, +10.000 HP: 1000 W
+
+Barrack: train militry foot units.
+HP 25.000 mul 10 MAX 4
+Garrison 50
+Cost 500 W 500 S
+unlock archers: 2000 G
+unlock crossbowman: 2000 G 4000 I
+unlock shooters: 3000 G
+unlock officiers: 1000 W
+
+House: train villager and increase population cap
+HP 5000 mul 3 MAX 8
+Garrison 5 Pop+ 50
+
+Mill: produce food and develop grain upgrades
+HP 5000 mul 4 MAX 6
+Garrison 15
+Cost 200 W 100 S
+food +100%: 6000 W 12000 F
+food +100%: 2000 G 1500 I
+food +100%: 11000 W 60000 F
+field +100%: 14000 W 25000 F
+field +100%: 28000 W 900 G
+
+Storehouse: drop off point for wood, develop wood upgrades
+HP 5000 mul 5 MAX 6
+Garrison 15
+Cost 25 W 125 S
+wood +50%: 700 G 7000 F
+wood +50%: 1400 G 24000 F
+wood +50%: 2600 G 65000 F
+
+Blacksmith: develop military unit upgrades
+field +100%: 150 W 150 G
+armored units +6 armor: 20500 W 1500 G 6200 I
+armored units +25 pierce armor: 15000 W 5000 I
+archers, crossbowman +10% arrow damage: 20000 W 5000 I
+spearman-line +100% creation speed: 35000 W 2500 G 16000 I
+arquebus +100% creation speed: 85000 W 55000 F 5000 C
+musketter +100% creation speed: 3000 G
+fusilier +100% creation speed: 65000 G
+archer +100% creation speed: 35000 W 15000 G
+crowwbowman +100% creation speed: 30000 W 3000 G
+swordman +100% creation speed: 10000 I 5000 G
+axeman +100% creation speed: 10000 W 5000 I
+musketter, arquebusier, halberdiers, swordman, axeman +5 melee attack: 2000 G 4800 I
+
+Mine: a place where villager can gather minerals
+HP 5000 Cost 100 W
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+Fortress/Castle: advanced building. Great defenses.
+Can train and develop special units.
+HP 40000 mul 10 MAX 3
+Garrison 300
+Cost 2500 W 2000 G 3000 S
+unlock cavalry +10000 HP: 3500 G 5000 S
+unlock artillery +10000 HP: 5000 S
+unlock officiers 18th, fusiliers +100% creation speed: 2000 G 9000 I
+
+Stable: train military mounted units.
+HP 50.000 mul 10 MAX 4
+Garrison 50
+Cost 9000 W 1500 G 2500 S
+unlock dragoon 17th: 20000 W
+unlock m.officier 17th: 30000 W
+unlock dragoon 18th: 30000 W
+unlock m.officier 18th: 63000 W
+cavalry +100% creation speed: 2800 G 70000 W 18000 S
+
+Siege workshop: train siege units.
+HP 50.000 mul 10 MAX 4
+Garrison 50
+Cost 5000 W 3000 S 3000 G
+artillery -70% scatter: 2900 G 12000 I 22800 C
+artillery +25% range: 9100 G 9150 I 12150 C
+artillery +70% fire rate: 11500 G 4300 I 8700 C
+siege units +140% creation speed: 13330 I 7700 C
+siege units -30% cost: 128400 W 6550 G
+
+House II: an elite version of the house.
+HP 15000 mul 3 MAX 18 caps 7
+Garrison 30 Pop+ 250
+Cost 2000 W 50 S
+
+Town Center: develop upgrades.
+HP 25000 MAX 1
+Garrison 25
+Cot 5000 S 2400 W
+paesant +15% creation speed: 2600 G 69.000 W 108.800 F
+enable mine upgrades, reveal deposits: 2000 G
+buildings +3 armor, builder +50% speed: 48000 W 10000 S
+blockhouses, Fort/Fortresses/castles +5 armor: 65000 W 10000 S
+unlock houses II: 4000 W 4000 S 1500 G
+musketter, dragoon +35% fire rate, fusilier +70% fire rate: 6700 I 20400 C 6200 G
+shooters +10% fire power: 1000 G 6200 C
+fusilier -20% scatter: 15000 G 7500 I 3500 C
+archers -70% scatter: 24000 W 5000 G
+archers +100% range: 150000 W 15000 I
+
+
+Church: train and develop priests
+HP 35000 mul 10 MAX 3
+Garrison 50
+Cost 150 W 600 S
+Build hospital: 6000 G 4000 W
+->heal all units by 10%: 700 G 2000 W 600 S
+
+Shipyard: train and develop ships
+HP 25000 mul 5 MAX 8 caps 4
+Garrison 50
+Cost 1000 W 1000 S
+fish +100%:  2000 W 500 G 
+fish +100%:  5000 W 8000 G 
+fish +100%:  6000 G 9000 I 
+fish +100%:  20000 W 2000 I 
+ships +20% movement speed, ferry +100% movement speed: 8000 W 1700 G
+warships cost -20%: 5000 G
+ships +25 armor: 18000 W 2500 G
+warships +100% creation time: 30000 W 3000 G
+
+Market: trade resources. Can be garrisoned with villagers to generate gold
+at a steady rate.
+HP 25000 MAX 1
+Garrison 25
+Cost 3000 W 3000 S
+
+Outpost->Tower: defensive building. Upgrade become expensive with each tower built.
+HP 4000-10.000 mul 1.25 MAX 50
+Garrison 5-10
+Cost 50 W 50 S
+Upgrade: 250 W 250 S
+
+Blockhouse: defensive building. Upgrade become expensive with each blockhouse built.
+HP 25.000-35.000 mul 2 MAX 12
+Garrison 20-30
+Cost 500 W 500 S
+Upgrade: 1500 W 1500 S 400 I 400 C
+
+Palisade-Stone wall: defensive barrier.
+HP 1000-5000
+Cost 100 W
+Upgrade: 100 S
+
+Hunting Lodge: train hunters and develop hunt upgrades.
+HP 15.000 mul 10 MAX 4
+Garrison 25
+Cost 1000 W
+hunt +100%: 11000 F
+hunt +100%: 9000 W 1000 G
+
+Total maxpopulation 8845
+total max inside 4755
+total number of buildings 134 (84 without towers)
+
+
+UNITS
+Paesant
+HP 100 Sword 14 Fr 30 As 20
+F 100 Fr 400-360 Pop 2
+---
+Farmer 10->40
+Woodcutter 10->40
+Miner 4
+---
+BARRACK
+
+Spearman
+HP 100 Lance 8-16 Fr 20 bx 1
+D 0/6 [12/18] As 15
+F 100 W 10 I 5 Fr 100-50
+
+Pikeman
+HP 100 Lance 10-20 Fr 20 bx 1
+D 4/4 [28/28] P 125 [150] As 20
+F 130 I 15 G 2 Fr 200-100
+
+Halberdier
+HP 125 Lance 14-28 Fr 30 bx 1
+D 4/4 [30/30] P 150 [175] As 30
+F 125 I 25 G 1 Fr 200-100
+
+Arquebusier
+HP 100 Sword 11-25 Fr 80 bx 1
+Rifle 300-330 Fr 600 range 12 accuracy 10% ammo 4 I 8 C
+D 8/2 [22/16] P 125 [150] As 20
+F 100 Fr 50-25
+
+Musketter
+HP 100 Sword 14-28 Fr 50 bx 1
+Rifle 400-440 Fr 540-440 range 15 accuracy 15% ammo 3 I 6 C
+D 1/5 [28/32] P 125 [150] As 25
+F 240 G 10 C 10 Fr 60-30
+
+Fusilier
+HP 125 Lance 12-24 Fr 30 bx 5
+Rifle 600-660 Fr 560-360 range 20 accuracy 20-25% ammo 2 I 4 C
+D 0/0 [18/18] storm 50  salary 1/80
+F 300 G 15 Fr 400-133
+
+Grenadier
+HP 150 Lance 20-40 Fr 30 bx 5
+Rifle 600-660 Fr 560-360 range 20 accuracy 20-25% ammo 2 I 4 C
+Bomb 100 Fr 100 range 8 ammo 10 I 20 C
+D 0/0 [24/24] As 100 salary 1/16
+F 300 G 50 Fr 450-150
+
+Officier 17/18 th
+HP 125 Sword 50-75 -> 150-175 Fr 50
+D 0/0 [28/28] As 100
+F 300 G 50-200 Fr 150
+
+Drummer 17/18 th
+HP 100 D 0/0 [21/21] As 100
+F 100 G 10-300 Fr 150
+
+Standard Bearer 17/18 th
+HP 100 D 0/0 [21/21] As 100
+F 100 G 20-500 Fr 150
+
+Hunter
+HP 100 Sword 20 Fr 30
+Rifle 400-440 Fr 440-274 range 15 accuracy 10% ammo 3 I 6 C
+D 0/0 [12/12] As 20
+G 150 Fr 800-400
+---
+Hunt 20->60
+---
+
+Archer
+HP 100 Sword 14-20 Fr 50
+Bow 200-220 Fr 60-80 range 10-20 accuracy 10-22-33% ammo 2 W 2 I
+D 0/0 [12/12] P 100 [125] As 30
+
+Crossbowman
+HP 100 Sword 14-20 Fr 50 bx 1
+Bow 250-275 Fr 300 range 15 accuracy 20-44-66% ammo 2 W 4 I
+D 8/2 [22/16] P 150 [175] As 30
+F 200 W 50 I 30 Fr 100-50
+
+Swordman
+HP 125 Sword 18-30 Fr 50 bx 5
+D 4/4 [30/30] P 155 [180] As 30
+F 200 I 100 Fr 200-100
+
+2-handed Swordman
+HP 150 Sword 24-40 Fr 50 bx 5
+D 4/4 [30/30] P 155 [180] As 100
+Trample in 1 range
+F 500 I 200 Fr 400-200
+
+Axeman
+HP 125 Sword 35-70 Fr 50 bx 5
+D 12/0 [22/10] As 50
+F 100 I 25 W 50 Fr 200-100
+
+Skirmisher
+HP 100 Lance 10-16 Fr 20
+Javelin 200 Fr 100 range 6 accuracy 40-80% ammo 10 W 4 I
+D 0/0 [12/12] P 150 [175] As 20
+F 100 W 40 Fr 200-100
+
+CHURCH
+
+Priest
+HP 30 Heal 100 Fr 100 range 4
+F 600 G 10 Fr 1800
+
+Missionary
+HP 300 Heal 100 Fr 100 range 4
+F 1200 G 10 Fr 1800
+
+STABLE
+
+Dragoon 17/18 th
+HP 300-400 Sword 12-28 Fr 50 bx 20
+Rifle 350-385 -> 400-440 Fr 240-180 range 15 accuracy 10% ammo 2 I 4 C
+D 5/15 [20/30] As 100 salary 1/16
+F 2000-5000 G 20-50 Fr 600-300
+
+Mounted officer
+HP 600 Sword 50-75/80-120 Fr 50
+Rifle 200 Fr 100 range 5 accuracy 50% ammo 2 I 4 C
+D 0/0 [24/24] As 100
+F 4000 G 450 Fr 1200-600
+
+Mounted Standard
+HP 300 D 0/0 [28/28] As 100
+F 1250 G 150 Fr 400-200
+
+Conquistador
+HP 400 Sword 20-32 Fr 50 bx 10
+Rifle 200 Fr 100 range 5 accuracy 50% ammo 2 I 4 C
+D 16/0 [40/24] P 150 [175] As 100
+F 6000 G 50 W 150 I 50 Fr 200-100
+
+Lancer
+HP 600 Lance 12-24 Fr 36 bx 5
+D 6/2 [18/14] As 20
+F 600 W 35 I 25 Fr 800-640
+
+Knight
+HP 500 Lance 30-60 Fr 50 bx 10
+D 16/0 [40/24] P 150 [175] As 100
+F 5000 G 50 W 150 I 50 Fr 800-640
+
+Horse Archer
+HP 240 Sword 12-24 Fr 50 bx 2
+Bow 200-220 Fr 75-100 range 12 accuracy 10-22-33% ammo 2 W 2 I 
+D 0/0 [12/12] As 100
+F 2000 W 200 Fr 800-400
+
+SIEGE WORKSHOP
+
+Onager-Trebuchet
+HP 5000 Siege 20000 Fr 1200 range 70-100 accuracy 10% ammo 750 S
+W 5000 I 2400 Fr 6000-2000 mul 1.7 MAX 12 (+3 for each siege workshop)
+Buildings don't catch fire when hit by its projectiles.
+
+Bombard Cannon-Artillery
+HP 2000
+Gun 4000 Fr 800-440 range 80-100 [125] accuracy 10-22-33% ammo 50 I 100 C
+W 2500 G 200 I 1000 Fr 3000-1000
+mul 1.3 MAX 20 (+5 for each siege workshop)
+
+Battering Ram
+HP 4800 Siege 1000 Fr 120 Garrison 20
+(+5% movement speed and attack speed for each garrisoned unit)
+D 30/30  P 200
+W 5000 I 1200 Fr 5000-1700 mul 1.7 (+3 for each siege workshop)
+
+Siege Tower
+HP 25000 Siege 5000 Fr 120 garrison 100
+(+1% movement speed and attack speed for each garrisoned unit)
+(can fire arrows, 200 power, 20 range, like a building)
+Armor 200
+W 30000 I 5000 G 5000 mul 8 MAX 2
+
+Mantlet
+HP 1200 Arrow 200 Fr 75-100 Garrison 5
+D 0/0 P 200
+W 2500 I 600 Fr 2500-850 mul 1.3 (+5 for each siege workshop)
+
+Ballista
+HP 2000 Siege 300 Fr 300 range 40 [50] accuracy 10-22-33% ammo 10 W 10 I
+W 2000 I 1000 Fr 1500-500 mul 1.3 (+5 for each siege workshop)
+Can attack ground,naval and flyin units with 100% accuracy.
+Buildings don't catch fire when hit by its projectiles.
+Ballista bolts can inflict pass-through damage up to 20 targets.
+
+SHIPYARD
+
+Fishing ship
+HP 3000
+Arrow 200 Fr 20 Range 10-20  accuracy 10-22-33% ammo 2 W 2 I
+Defense 160 Fishing rate 120/sec
+W 2000 Fr 2000 mul 1.037 MAX 50
+
+Ferry
+HP 20.000->50.000 Garrison 250
+Cost 100 W 10 G 1000 Fr mul 10 MAX 4
+
+Archer/Row Boat
+HP 2500
+Bow 200-220 Fr 40 Range 10-20
+Rifle 700-780 Fr 40 Range 20 ammo 10 I 10 C
+Defense 160 Garrison 10
+2000 W 400 G 100 I Fr 2000-1000 mul 1.02 MAX 100
+
+Galley
+HP 30.000
+Arrow 200 Fr 4 Range 20-40 accuracy 10-22-33% ammo 2 W 2 I
+Siege damage 200  Defense 160 Garrison 20
+W 10.000 G 2000 I 500 Fr 4000-2000  mul 1.2 MAX 10
+
+Ramming Ship
+HP 50.000 Ram 1000 Fr 20
+Defense 160 Garrison 20
+W 5000 G 2000 I 2000 Fr 4000-2000 mul 2 MAX 4
+
+Incendiary Ship
+HP 50.000 Fire 500 Fr 10
+Defense 160 Garrison 20
+W 5000 G 2000 I 2000 Fr 4000-2000 mul 2 MAX 4
+
+Caravel
+HP 50.000
+Cannon 4000 Fr 200 Range 50 ammo 50 I 100 C
+Defense 160 Garrison 20
+W 5000 G 2500 I 1500 C 500 Fr 4000-2000 mul 2 MAX 4
+
+Carrack
+HP 60.000
+Cannon 4000 Fr 100 Range 10-70 ammo 50 I 100 C
+Defense 160 Garrison 40
+W 10.000 G 7500 I 3000 C 1000 Fr 6000-3000 mul 2 MAX 4
+
+Frigate
+HP 75.000
+Cannon 4000 Fr 10 Range 30-100 ammo 50 I 100 C
+Defense 160 Garrison 40
+W 75.000 G 25.000 I 7500 C 2500 Fr 10.000-5000 mul 2 MAX 4
+
+Brigantine
+HP 25.000
+Cannon 4000 Fr 400 Range 40 ammo 50 I 100 C
+Defense 160 Garrison 25
+W 2500 G 1000 Fr 2000-1000 mul 1.4 MAX 8
+
+Galleon (SPAIN,POR,ARAGON)
+HP 80.000
+Cannon 4000 Fr 100 Range 10-70 ammo 50 I 100 C
+Defense 160 Garrison 80
+W 20.000 G 10.000 Fr 8000-4000 mul 2 MAX 4
+
+Catapult Galley
+HP 60.000
+Catapult 2000 * 5 projectiles Fr 200 Range 50 ammo 150 S
+Defense 160 Garrison 40
+W 60.000 G 20.000 Fr 10.000-5000 mul 2 MAX 4
+
+Demo Ship
+HP 10.000
+Explosion 27.000
+W 10.000 G 2500 Fr 4000-2000 mul 1.1 MAX 20
+
+Unit upgrades
+Upgrade cost for Halberdier/pikeman/spearman-line
+spearman +2/3/3 atk, +4/4/4 armor
+pikeman +3/3/4 atk, +4/6/8 armor
+halberdier +2/3/4 atk, +5/6/9 armor
+AtkI      50 G   3500 F
+AtkII    160 G  34000 F
+AtkIII   200 G 125300 F
+DefI     190 G    450 F 
+DefII    800 G  14000 F 
+DefIII  1400 G 112000 F
+
+Upgrade cost for Arquebusier-line
+arquebusier +2/3/4 atk, +3/3/2 armor
+AtkI      50 G    150 F
+AtkII    700 G   1000 F
+AtkIII  2000 G  23000 F
+DefI     190 G    800 F  
+DefII    800 G   3400 F 
+DefIII   600 G   5300 F 
+
+Upgrade cost for Musketter-line
+musketter +3/3/3 atk, +5/6/10 armor
+AtkI     500 G  13000 F
+AtkII    150 G  44000 F
+AtkIII 18200 G  43200 F
+DefI    1100 G   4350 F
+DefII    650 G  15000 F
+DefIII  7750 G  90000 F 12000 C 2700 I
+
+Upgrade cost for Fusilier-line
+fusilier +3/7/5 atk, +3/8/7 armor 
+AtkI     500 G  13000 F
+AtkII    700 G  44000 F
+AtkIII 19500 G  43100 F
+DefI     250 G   1350 F
+DefII    950 G  15000 F
+DefIII  2000 G  72800 F
+
+Upgrade cost for Dragoon-line
+dragoon +7/6/3 atk, +5/5/5 armor
+AtkI     300 G  20000 F  
+AtkII    500 G  74000 F 
+AtkIII 15000 G  22300 F
+DefI    1000 G  24200 F 
+DefII    800 G  73000 F 
+DefIII  1800 G  72600 F 
+
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+
+Upgrade cost for Conquistador/knight-line
+conquistador/knight +5/5/2 atk, +7/7/4 armor
+AtkI     320 G  12800 F
+AtkII   1700 G  42000 F
+AtkIII   700 G  92600 F
+DefI     100 G  12800 F
+DefII    100 G  37000 F
+DefIII   100 G  72600 F
+
+Upgrade cost for Lancer-line
+lancer +3/4/5 atk, +3/4/5 armor
+AtkI     150 G  18800 F
+AtkII    750 G  42000 F
+AtkIII  1450 G  92600 F
+DefI     100 G  11200 F
+DefII    750 G  37000 F
+DefIII  1500 G  72600 F
+
+Upgrade cost for Horse Archer-line
+horse archer +4/4/4 atk, +4/4/4 armor
+AtkI           20.000 F
+AtkII   3500 G 20.000 F
+AtkIII         25.000 F
+DefI             3000 F
+DefII          13.000 F
+DefIII           9000 F
+
+Upgrade cost for Swordman/2-handed-swordman/axeman-line
+swordman +2/2/3 atk, +6/6/8 armor
+2-h-swordman +3/3/5 atk, +6/6/8 armor
+axeman +10/10/10 atk, +3/3/4 armor
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for Archer/Hunter/Crossbowman/Skirmisher-line
+archer, skirmisher, hunter +2/2/2 atk, +4/4/4 armor
+crossbowman +2/2/2 atk, +2/3/3 armor
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F

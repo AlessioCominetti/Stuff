@@ -1,0 +1,220 @@
+Civiliation with great enphasis on ranged attacks.
+Can build and gather wood faster. Lack cavalry.
+
+Work rate
+farmer 10-22
+Hunter 20
+Woodcutter 8-20
+Miner 4
+
+MaxPop 16000
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+archery practice
+herbal medicine
+block printing
+sanctity
+Ship movement
+Ship armor
+Ship cost
+machicolations
+paesants creation speed
+shooter upgrades
+
+BUILDINGS
+
+--Barrack 250 W mul 10 cap 4 HP 25.000 Maxin 50
+unlock ranged units +10.000 HP 250 S mul 10 cap 4
+unlock chieves +10.000 HP 4000 W 3000 S 
+
+--House I->House II->House III
+50 W 50 S mul 3 cap 7 HP 5000 Maxin 15 MaxPop 45
+Upgrade: 150 W 150 S mul 3 cap 7 +10000 HP +10 maxin +75 pop
+Upgrade: 150 W mul 3 cap 7 +10000 HP +5 maxin +125 pop
+
+--Mill 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 30 Max Pop 30
+food +50% 10800 F 500 G 
+food +70%  8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 34000 W 2000 S 1500 G 5000 I 
+
+--Storehouse 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 20 Max Pop 20
++50% wood    2000 G
++100% wood   4000 G
+
+Blacksmith 1250 W 250 I MAX 1 HP 10.000 Maxinside 20
+slingers +5 range  2000 G
+skirmishers +6 range 2000 G
+melee units +5 atk 15000 W 5000 I
+armored units +5 defense +25 arrow protection 15000 W 10000 I
+slingers +50% creation speed 400 G
+archers +50% creation speed 20000 W 20000 G
+spearman +100% creation speed 8000 W 25000 S
+shooter +25% creation speed 
+
+--Mine 1000 W in 5->50
+Lvl Miners  Upgrade cost      Upgrade Time
+1    5        2000 W            30 sec
+2    10       5000 W 25.000 F   45 sec
+3    15      22.000 W 41.000 F  45 sec
+4    25      7000 G/I 15.000 F  45 sec
+5    50      30.000 G/I 83.000 F 45 sec
+
+Town Center 2500 W MAX 1 HP 25.000 Maxin 25
+^^^Unlock house II 4000 W 4000 S 125 G
+^^^Unlock house III 40.000 W 40.000 S 2000 G
+^^^Paesant creation +50% 20.000 W
+^^^archers -70% scatter 1250 W 1250 G
+^^^buildings +6 armor 10000 W 4000 S
+^^^builder work +100% 2000 G
+^^^shooter +200 fire power
+^^^shooter +70% fire rate
+^^^shooter +5 range, -50% scatter
+
+Temple 1500 W 7500 S MAX 1 HP 75.000 Maxin 75
+^^^shaman creation +100%  2000 G
+^^^shaman healing +25  2000 G
+^^^shaman +120 HP  12.000 G
+^^^shaman +4 healing range 4000 G
+
+Scout tower->Stone tower
+50 W 50 S mul 1.4 cap 19 HP 5000 Maxin 5
+Upgrade to stone tower: 100 W 100 S mul 1.4 cap 19 +10.000 HP +25 maxin
+
+Palisade 100 W 1000 HP
+
+--Shipyard 750 W 250 S mul 3 cap 7 HP 15.000  maxinside 25
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+--Market: 3000 W 3000 S MAX 1  HP 10.000 Inside 25
+Generate 30 G/sec, enable trading
+
+UNITS
+
+paesant
+HP 100
+Sword 12 Fr 30 storm 20
+F 200 Fr 360-240 Population 2
+
+simian spearman
+HP 100
+lance 15-30   Fr 55  bx 1
+D 2-20/2-20  storm 15
+F 200 I 10  Fr 60-30
+
+simian slinger
+HP 100
+sword 8-25  Fr 20    
+sling 100 Fr 100  Range 10->15   ammo 5 S  accuracy 10-33%
+D 1-16/1-16    arrow 125-175  storm 30
+F 200 S 30   Fr 60-40   Population 3
+
+simian archer
+Hp 120
+sword 12-30   Fr 60   bx 2
+Bow 200-220   Fr 60 range 15  ammo 2 W 2 I accuracy 10-33%
+D 5-20/5-20  arrow 75-100 storm 30
+F 200 G 30     Fr 125
+
+simian blowpipe
+HP 100
+sword 8-25   Fr 30    
+dart 1  Fr 80 range 8   ammo 5 G  accuracy 20-30-46-67%
+D 0-12/0-12    storm 20  poison 2 Hp/20 Fr
+F 200     Fr 50  Population 2
+
+simian scout
+HP 120
+sword 5-16  Fr 26   bx 5
+D 0-12/8-20  arrow 150-180   storm 10
+F 200 W 50 S 20  Fr 20  Population 2
+
+Gorilla guard
+HP 1000
+sword 150 Fr 50 trample 50%
+D 0-45/0-45 arow 100-150 storm 1000
+F 3200 G 800 Fr 3200 Population 8
+
+simian chief
+HP 125
+sword 25-100   Fr 50
+D 0-45/0-45  arrow 50-125  storm 100
+F 400 G 100 Fr 400
+
+simian shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 4-8 storm 100  
+F 200 G 100 Fr 200-100 
+
+simian shooter
+HP 100
+Rifle 400(600) Fr 440(280) Range 15-20 ammo 2 I 4 C accuracy 10-20%
+Sword 8-25 Fr 30
+D 0-12/0-12 storm 20
+F 500 G 60 Fr 300 (240)
+
+Upgrades cost for spear-line 
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief/guard-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for mace scout/blowpipe/shooter line
+AtkI   200 G 12000 F
+AtkII  400 G 12000 F
+AtkIII 200 G 20000 F
+DefI   300 G 15000 F
+DefII  800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+SHIPS(canoes) SIEGE(unchanged)

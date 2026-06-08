@@ -1,0 +1,174 @@
+Uses wisps to collect resources, hence, they don't use mines or storehouses.
+Quality over quantity. Great defenses, but units take a long time to be trained.
+There's a cap over wisps and elves. Legends says that an elven ranger is
+as strong as 10 men. Wisps cannot gather resources, but they
+are used to construct buildings. Wisps can be tasked to be
+garrisoned inside specific buildings to do certain functions.
+Garrison to Blacksmiths to research blacksmith upgrades.
+Garrison to Universities to research upgrades.
+Garrison to Shipyard/Barracks/Fortress to produce units.
+Garrison to Markets to produce G, so that they might trade with other players.
+The more the Wisps, the better the garrison
+Upgrades and units only take times, as they don't use
+resources, all upgrades are free. Wisps are limited by
+the number of Temples. Houses create basic Elf units,Wisps and increase population.
+Wisps count as 10 villagers. Lower Population cap.
+Elves don't consume resources for upkeep.
+
+Wisp limit
+Initial 5 Max 200
+Soldiers 3000
+
+Technologies
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+unlock house II,III
+bloodlines
+herbal medicine
+block printing
+sanctity
+hospitals
+Ship movement
+Ship armor
+Ship cost
+machicolations
+artillery upgrades
+shooter upgrades
+
+BUILDINGS
+
+--Barrack (Time: 1 unit of time equals to 20 frames, aka, 1 second)
+Cost 25 mul 30 Cap 3  MaxInside 25 HP 25.000
+Enable officers: cost 10 HP +10000 unlock officiers
+Max cost 22.500
+
+--House I->House II
+Cost 10 mul 3 cap 6 MaxInside 5 MaxPop 15 HP 5000 Wisp limit +4
+Upgrade to House II, cost 10 mul 3 cap 6 MaxInside +10 MaxPop +35 HP +15000 Wisp limit +16
+Max cost 14.580
+
+--Fortress
+Cost 130 mul 10 cap 4 MaxInside 75 MaxPop 50 HP 40000
+Upgrade to Stable cost 50 HP +20000 unlock cavalry
+Upgrade to Artillery cost 50 HP +20000 unlock artillery
+Purchase pure breeds: Cavalry units are trained 100% faster Time 1000 (13.5sec)
+Buy new guns: Upgrade shooters +200 firepower, +100% reload speed Time 1000 (13.5 sec)
+Assign new officer: unlock officiers Time 1000
+Assign new crewmembers: artillery +25% range -70% scatter Time 1000
+Improve reloading mechanism: artillery +70% fire rate Time 1000
+Improve forging methods: artillery cost -30%, created 100% faster Time 1000
+Max cost 130.000
+
+--Blacksmith
+Cost 50 mul 10 cap 3 MaxInside 10 HP 1000
+Increase weapon production: Barrack work 100% faster  Time 1200 (120 sec)
+Increase armor production: armored soldiers +8 defense Time 600 (60 sec)
+Increase shield production: armored soldiers +30 arrow resistence Time 600
+Produce quality steel: melee attacks +10 Time 600
+Max cost 5000
+
+--Town Center
+Cost 100 mul 10 cap 3 MaxInside 10 HP 25000
+Elite conjuring: wisps are created 25% faster
+Improve architectures: buildings +8 armor Time 600 (60 sec)
+Unlock House II: Time 600
+Build hospitals: unlock healing upgrades Time 600
+Max cost 10.00
+
+--Temple
+Cost 150 mul 10 cap 4 MaxInside 15 HP 45000
+Max cost 15.000
+
+--Market
+Cost 15 mul 100 cap 3 Maxinside 25 HP 15000
+Can be garrisoned with wisps to produce G.
+1 Wisp -> 40 G per seconds
+Max cost 150.000
+
+--Tower
+Cost 500 mul 1.4 cap 15 MaxInside 5 HP 10000
+Improve tower: +5 max inside +10.000 HP  Cost 100 mul 1.4 cap 15
+Max cost 32.000
+
+--Shipyard
+Cost 50 mul 5 cap 4 MaxInside 10 HP 25000
+Elvish Shipwright: Warships move 20% faster and cost -10%  Time 200 (20 sec)
+Max cost 6250
+
+UNITS
+
+Wisp
+HP 1000
+Cannot attack
+Time 100 (80)
+
+Elven ranger
+HP 150
+Bow 250 Fr 60 Range 24 Accuracy 100%
+Sword 20-40 Fr 25
+D 8/8 +20  ArrowRes 100-130  Assault 125
+Time 400 (200)
+Atkup 80
+Defup 125
+
+Elven guard
+HP 200
+Lance 20-36 Fr 20
+D 12/12 +18 Arrow Res 160-190  Assault 125
+Time 200 (100)
+Atkup 420
+Defup 375
+
+Elven shooter
+HP 150
+Rifle 400 (600) Fr 360 (180) Range 20 Accuracy 100%
+Sword 30-60 Fr 25
+D 12/12 +20 ArrowRes 100-130 Assault 200
+Time 320 (160)
+Atkup 770
+Defup 330
+
+Elven lancer knight
+HP 600
+Lance 30-50 Fr 36 bx 20
+D 30/18 +20 ArrowRes 160-190 Assault 200
+Time 2800 (1400)
+Atkup 470
+Defup 300
+
+Elven horse archer
+HP 500
+Bow 250 Fr 100 Range 24 Accuracy 100%
+Sword 30-50 Fr 25
+D 8/8 +20 ArrowRes 100-130 Assault 125
+Time 1000 (500)
+Atkup 250
+Defup 35
+
+Elven priestess
+HP 125
+Sword 50-75 Fr 50 Assault 125
+D 8/8 +10
+Time 150
+Atkup 100
+Defup 100
+
+Elven Officier
+HP 150
+Sword 150-175 Fr 25
+D 12/12 +24 Assault 400  Formation size: 9/18/30/48
+Time 1000 (500)
+Atkup 40
+Defup 100
+
+SHIPS
+
+Archer ship
+HP 5000 D 160
+Arrow 250 Fr 20 Range 20 Accuracy 100%
+Time 150 (135) mul 1.04 MAX 50
+
+Elven Galley
+HP 75.000 D 160 Garrison 50
+Cannon 4000 Fr 10 Range 30-100 Accuracy 100%
+Time 600 (540) mul 2 MAX 5

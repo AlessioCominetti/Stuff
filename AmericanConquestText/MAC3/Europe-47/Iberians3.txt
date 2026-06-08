@@ -1,0 +1,27 @@
+SPAIN
+-Blacksmith upgrades are cheaper
+-Builder work 50% faster
+-Infantry +10 arrow resistence
+UU missionary, Conquistador, cosolete
+UT Inquisition: priest heal 100% faster
+
+PORTUGAL
+-Units cost -20% G
+-Techs are researched 100% faster
+-Warships +20% HP
+UU missionary, Conquistador, Organ gun
+UT Carrack: warships +50 armor
+
+ARAGON
+-Astilleros replace Shipyards
+:Astilleros Have greater defenses, can improve warships
+individually but cost more
+-Each Church built increase work rate of
+all villagers by 5% (max 15%)
+UU almogavar
+UT Fueros: villagers +50 HP and cost -80%
+
+Shared tech: reconquista: infantry +10% HP, +2 D +10 arrow resistence
+
+
+

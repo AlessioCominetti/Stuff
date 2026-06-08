@@ -1,0 +1,179 @@
+Civilization who putsquantity over quality.
+Can swarm the enemy dead with thousands of units, but
+units are individually weak.
+Average defenses and technologies. Lack cavalry.
+Great siege equipment.
+Paesants are created extremely quickly.
+
+Work rate
+Farmer 5-10
+Hunter 5
+Woodcutter 2-4
+Miner 2
+
+Max pop 16000
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+archery practice
+herbal medicine
+block printing
+sanctity
+hospitals
+Ship movement
+Ship armor
+Ship cost
+machicolations
+artillery upgrades
+shooter upgrades
+
+BUILDINGS
+
+--Barrack 500 W 500 S mul 10 MAX 4 HP 25.000 MaxInside 50 MaxPop 50
+unlock archer +5000 HP 2000 W
+unlock crossbowman +5000 HP 2000 W 2000 S
+unlock shooters +5000 HP 2000 G 2000 W 2000 S
+unlock officiers +5000 HP 5000 F 5000 G
+
+--House 50 W 50 S mul 3 caps 7 HP 5000 MaxInside 5 MaxPop 50
+Upgrade: 1950 W 50 S mul 3 cap 7 +10.000 HP +10 maxin +200 maxpop
+
+--Mill 200 W 100 S mul 4 MAX 6 HP 5000 MaxInside 35 MaxPop 15
+food +60%  6000 W 12.000 F
+food +40%  3200 G 11.000 W 60.000 F
+field +50% 14.000 W 25.000 F
+field +50% 28.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 MAX 6 HP 5000 MaxInside 15 MaxPop 15
+wood +100%  5000 G 96.000 F
+
+--Blacksmith 250 W 250 S 50 I MAX 1 HP 5500 maxInside 10 MaxPop 10
+field +100% 150 W 150 G
+armored units +6 armor  20500 W 7000 I
+halberdier/pikeman/spearman +50% creation speed 100.000 W 16.000 I
+archers/crossboeman +50% creations speed 20.000 W 10.000 G
+shooter +100% creation speed  80.000 G
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    10        5000 W 25.000 F 1000 G     25 sec
+2    20      20.000 W 41.000 F 2500 G    25 sec
+3    30      7000 G/I 15.000 F           25 sec
+4    40      24.000 G 9000 I 23.000 F    25 sec
+5    60      30.000 G 60.000 F           25 sec
+6   100
+
+--Fortress/Castle 4500 W 4000 G 5500 S mul 5 MAX 3 MaxInside 300 MaxPop 300
+HP 40.000
+unlock artillery +20.000 HP 10.000 S 10.000 S
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+--Town Center 5000 S 2400 W MAX 1  HP 25.000 MaxIn 25 MaxPop 25
+paesant +15% creation speed 2600 G 69.000 W 108.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  28300 W 6000 S
+---
+blockhouses, Fortress/Fort/Castle +5 armor  65.000 W 10.000 S
+construction speed +75% 20.000 W 4000 S
+unlock house II 4000 W 10.000 S 1320 G 
+---
+shooter +70% fire rate 6400 I 20500 C 7000 G
+shooter +100 fire power 1000 G 6200 C 
+fusilier -20% scatter  15500 G 7300 I 3200 C
+---
+
+--Temple 1500 W 6000 S MAX 1 HP 35.000 MaxIn 50 MaxPop 50
+Build hospital  7500 G
+Heal all units by 10%: 1500 G
+
+--Shipyard 1000 W 1000 S mul 5 caps 4 MAX 8 HP 25.000 MaxIn 50 MaxPop 50
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 G
+warships +20 defense 18000 W 2500 G
+warships +20% movement speed 3000 G
+
+--Outpost->Tower 50 W 50 S mul 1.4 cap 19 HP 5000 Maxin 5
+Upgrade: 250 W 250 S mul 1.4 cap 19 +10.000 HP +25 maxin
+
+--Palisade->Stone wall->Fortified wall
+W 100 HP 1000
+S 100 HP 3000
+S 100 I 100 HP 5000
+
+UNITS
+Paesant
+HP 10
+Sword 10 Fr 50 storm 5
+F 50 Fr 60
+
+Spearman
+HP 50
+Lance 1-7 Fr 20 storm 5
+D 0-24/0-24
+W 10 I 5 Fr 30-20
+
+Archer
+HP 10
+Sword 4-10 Fr 50
+Bow 100 Fr 60 Range 8 ammo 1 W 1 I
+D 0-6/0-6 storm 5
+F 50 W 10 Fr 30-20
+
+Crossbowman
+HP 10
+Sword 4-10 Fr 50
+Bow 240 Fr 200 Range 12 ammo 2 W 4 I
+D 0-6/0-6 storm 5
+F 50 W 30 I 10 Fr 30-20
+
+Shooter
+HP 50
+Sword 4-10 Fr 50
+Rifle 300 Fr 440 Range 12 ammo 4 I 8 C
+D 0-6/0-6 storm 10
+F 50 I 12 Fr 80-40
+
+Officier
+HP 50
+Sword 25-50 Fr 50
+D 0-24/0-24 storm 15
+F 50 G 25 Fr 100
+
+Shaman
+HP 50
+Sword 25-50 Fr 50
+Healing 25-50 Fr 100 Range 4  storm 50
+F 70 G 25 Fr 200-100
+
+Assassin
+HP 100
+Sword 40-70 Fr 40
+D 0-24/0-24 storm 50
+F 150 G 100 Fr 800
+
+SIEGE/SHIP same as europeans
+

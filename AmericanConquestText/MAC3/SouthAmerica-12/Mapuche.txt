@@ -1,0 +1,216 @@
+MAPUCHE/ARAUCANS
+-Can train cavalry units at the stable
+-Cheaper military buildings, except fortress
+-Cheaper infantry upgrades, but each individual unit is slightly more expensive
+
+UT Kollellaullin: infatry +25 arrow protection
+UT Mapuche Ad-mapu: all units(even allies) -10% G
+
+Buildings
+---Fortress 300 W 300 S mul 10 MAX 4 HP 25.000 MaxInside 100 MaxPop 100
+unlock archers and slinger +10.000 HP 250 W 250 S
+unlock town center +10.000 HP 750 W 750 S 250 G
+unlock shamans +10.000 HP 100 G 1000 W
+unlock chieves +10.000 HP 2000 S 2000 W
+Upgrades
+^^^archers -70% scatter 250 W 250 G
+^^^buildings +6 armor 10.000 W 4000 S
+^^^builder work +100% 2000 G
+---
+^^^atlat: javelin +6 range 2000 G
+^^^melee units +5 atk 15.000 W 4000 I
+^^^Kollellaullin: mace scout,spearman,chieves +25 arrow protection 15.000 W 5000 I
+---
+^^^archers +20% range -30% scatter 2000 G
+^^^spearman +100% creation 5.000 S
+^^^all units (except archers) +5 lance armor 13.000 W
+---
+^^^troops 10% HP
+^^^Mapuche Ad-mapu: all allies units cost -10% G  2500 F 2500 G
+---
+^^^shaman creation +100%  2000 G
+^^^shaman healing +25  2000 G
+^^^shaman +120 HP  12.000 G
+---
+
+---House I 20 W 20 S mul 3 caps 10 MAX 20 HP 10.000  Inside 25 MaxPop 90
+Improve house: +90 pop, 10 inside, +10.000 HP
+(I  500 G 2000 W, II  1000 G 9000 W, III 4000 W 4000 S)
+
+--Mill 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 30 Max Pop 30
+food +70% 10800 F 500 G 
+food +80% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 27.000 W 500 G 
+
+--Storehouse 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 20 Max Pop 20
++25% wood    2000 G
+
+--Barrack 250 W 250 S mul 10 MAX 4 HP 25.000 Inside 50 MaxPop 50
+--Stable 250 W 250 S mul 10 MAX 4 HP 25.000 Inside 50 MaxPop 50
+
+--Mine 1000 W in 5->50 (cannot build coal mines)
+Lvl Miners  Upgrade cost      Upgrade Time
+1    5        2000 W            30 sec
+2    10       5000 W 25.000 F   45 sec
+3    15      22.000 W 41.000 F  45 sec
+4    25      7000 G/I 15.000 F  45 sec
+5    50      30.000 G/I 83.000 F 45 sec
+
+--Shipyard Inca 750 W 250 S mul 3 MAX 7 HP 15.000  Inside 50 Max Pop 25
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+--Tower: 150 W 150 S mul 1.4 MAX 20 HP 10.000  Inside 40 Max Pop 40
+
+--Market: 3000 W 3000 S MAX 1  HP 10.000 Inside 25 Max Pop 25
+Generate gold equivalent to 15 miners.
+
+Total Max Population 9300
+total max inside  3375
+Total number of buildings 74
+
+Units
+Paesant
+HP 60
+sword 20  Fr 30  storm 20 
+F 200 Fr 180-120 Population 2
+
+---
+Farmer 8->20
+Woodcutter 8->10
+Miner 4->5
+Hunter 20
+---
+
+Mace scout
+Hp 110-121
+sword 5-16  Fr 26   bx 5
+D 0-10/5-20  arrow 150-180   storm 10
+F 500 W 30 S 10  Fr 20  Population 2
+
+Slinger
+HP 90-99
+sword 8-25  Fr 20    
+sling 80  Fr 80  Range 10->15   ammo 2 S accuracy 10-15-23-33%
+D 6-16/1-16    arrow 125-175  storm 30
+F 600      Fr 60-36   Population 3
+
+Blowpipe
+HP 100-110
+sword 8-25   Fr 30    
+dart 1  Fr 80 range 5->6   ammo 5 G  accuracy 20-30-46-67%
+D 6-12/1-12    storm 20  poison 2 Hp/20 Fr
+F 300     Fr 50  Population 2
+
+chief
+HP 125
+sword 25-100   Fr 50
+D 0-45/0-45  arrow 50-125  storm 100
+F 400 G 100 Fr 400
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 4
+storm 100  
+F 200 G 100 Fr 400-200 
+
+Inca spearman (Upgrade to Kamayuk)
+HP 100-110
+lance 15-30   Fr 60  bx 1
+D 5-20/0-20  storm 10
+F 200 W 20 I 12   Fr 60-30 
+
+KAMAYUK
+HP 100-110
+lance 15-30  Fr 20  bx 1 range 1    
+D 6-24/1-24  arrow 125-150   storm 30
+F 600 W 60 I 36  Fr 180-90  Population 3
+
+Jungle archer
+HP 120-132
+sword 12-30   Fr 60   bx 2
+Bow 200-220   Fr 60 range 13  ammo 2 W 2 I accuracy 10-15-22-33%
+D 5-20/5-20  arrow 50-75 storm 30
+F 250 G 30     Fr 125
+
+Horseman
+HP 400-440
+lance 10-30 fr 36 bx 20
+D 0-20/5-30  100-150 arrow protection  100 storm
+F 1250 Fr 500
+
+Upgrades cost for spear-line 
+AtkI     50 G  
+AtkII   150 G 
+AtkIII  200 G  
+DefI    350 G  
+DefII   800 G 
+DefIII  600 G 
+
+Upgrade cost for archer-line
+AtkI   850 G  
+AtkII  200 G  
+AtkIII 200 G 
+DefI   250 G 
+DefII  250 G 
+DefIII 250 G 
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 100 G
+DefI   200 G
+DefII  100 G
+DefIII 100 G
+
+Upgrade cost for macamba/blowpipe line
+AtkI   200 G  
+AtkII  400 G  
+AtkIII 200 G
+DefI   300 G  
+DefII  800 G  
+DefIII 300 G
+
+Upgrade cost for slinger-line
+AtkI    500 G  
+AtkII  1600 G 
+AtkIII 2000 G 
+DefI    300 G  
+DefII  2500 G 
+DefIII 3500 G
+
+Upgrade cost for horseman
+AtkI   100 G  
+AtkII  100 G 
+AtkIII 200 G 
+DefI   400 G  
+DefII  500 G 
+DefIII 1000 G
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

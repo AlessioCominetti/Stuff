@@ -1,0 +1,122 @@
+TURKS
+-Gold miner work 25% faster
+-Shooters +25% HP
+-Shooter techs cost -50%
+-Scout atk/def upgrades are free
+UU jannissary, sipahi, nizam, azap, ambaraci, imam, great cannon
+UT Artillery engineers: artillery +20% range
+
+
+Buildings
+--Fort 500 W 100 S mul 100 max 3 HP 25.000 MaxInside 75 MaxPop 75
+unlock officers +10.000 HP  1000 W
+
+--Barrack 500 W 500 S mul 10 MAX 4 HP 25.000 MaxInside 50 MaxPop 50
+unlock archer
+unlock crossbowman
+unlock shooters
+unlock officiers
+
+--House 50 W 50 S mul 3 max 8 HP 5000 MaxInside 5 MaxPop 50
+
+--Mill 200 W 100 S mul 4 max 6 HP 5000 MaxInside 15 MaxPop 15
+food +100% 6000 W 12.000 F
+food +70%  2000 G 1500 I
+food +130% 11.000 W 60.000 F
+field +100% 14.000 W 25.000 F
+field +100% 28.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 MAX 6 HP 5000 MaxInside 15 MaxPop 15
+wood +100%  2100 G 31.000 F
+wood +50%   2600 G 65.000 F
+
+--Blacksmith 250 W 250 S 50 I MAX 1 HP 5500 maxInside 10 MaxPop 10
+field +100% 150 W 150 G
+armored units +6 armor  20500 W 1500 G 6200 I
+halberdier/pikeman/spearman +100% creation speed 35.000 W 2500 G 16.000 I (900 G 12.500 W Spain7Germany) 
+arquebus +100% creation speed  85.000 W 55.000 F 5000 C
+musket +100% creation speed 3000 G
+fusilier +100% creation speed  65.000 G
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+--Fortress/Castle 4500 W 4000 G 5500 S mul 5 max 3 MaxInside 300 MaxPop 300
+HP 40.000
+unlock cavalry +10.000 HP 3500 G 5000 S     
+unlock artillery +10.000 HP 10.000 W 7000 S
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+--House II 2000 W 50 S mul 3 caps 9 MAX 20 HP 15.000 MaxInside 30 MaxPop 250
+Improve housing: this building +250 pop, +15.000 HP  1000 G 2000 W
+
+--Town Center 5000 S 2400 W MAX 1 HP 25.000 MaxIn 25 MaxPop 25
+paesant +15% creation speed 2600 G 69.000 W 108.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  28300 W 6000 S
+---
+blockhouses, Fortress/Fort/Castle +5 armor  65.000 W 10.000 S
+construction speed +75% 20.000 W 4000 S
+unlock house II 4000 W 4000 S 1320 G
+---
+enable officers 18th century, fusilier +100% creation 2000 G 8750 I
+musket,arquebus +5 attack  2000 G 4800 I  
+musket, fusilier, draggon +35% fire rate 6200 G 3500 I 8900 C
+---
+fusilier +35% fire rate 3200 I 11500 C
+shooter +10% power 1000 G 6200 C 
+ballistics 10.000 G
+fusilier -20% scatter  15500 G 7300 I 3200 C
+---
+
+
+--Church 150 W 600 S mul 10 max 3 HP 35.000 MaxIn 50 MaxPop 50
+Build hospital  6200 G 4300 W
+Heal all units by 10%: 700 G 2000 W 600 S
+
+--Shipyard 1000 W 1000 S mul 5 caps 4 max 8 HP 25.000 MaxIn 50 MaxPop 50
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 G
+
+--BlockHouse I 500 W 500 S mul 5 MAX 6 HP 20.000 maxIN 20 MaxPop 20
+--Blockhouse II 2000 W 2000 S 400 I 400 C mul 4 caps 4 MAX 8 HP 30.000 MaxIn 30 MaxPop 30
+--Hunting Lodge 1000 W mul 10 max 4 HP 15.000 Maxin 25 Maxpop 25
+
+--Stable 9000 W 1500 G 2500 S mul 10 MAX 4 MaxIn 50 Maxpop 50
+HP 55.000
+unlock draggon 17 20000 W
+unlock draggon 18 26000 W
+unlock officer m17 34000 W
+unlock officer m18 63000 W
+cavalry +100% creation speed 2800 G 70.000 W 18.000 S
+
+--Market 3000 W 3000 S MAX 1 MaxIn 25 MaxPop 25
+Generate G equal to 20 miners. Can trade resources.
+
+--Tower 300 W 300 S mul 1.25 caps 19 MAX 50 HP 5000 MaxIn 10 MaxPop 5
+
+--Outpost 50 W 50 S mul 2 MAX 10 HP 4000 MaxIn 5 MaxPop 5
+
+--Stone Wall 100 S HP 5000
+
+--Palisade 100 W HP 1000
+
+-Siege Workshop 5000 W 3000 S 3000 G mul 10 MAX 4 HP 25.000 MaxIn 50 MaxPop 50
+unlock ballista
+unlock siege ram
+unlock siege tower
+unlock mantlet
+
+Total maxpopulation 8645
+total max inside 4285
+total number of buildings 140 (80 without towers)

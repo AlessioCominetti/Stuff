@@ -1,0 +1,136 @@
+Middle eastern like faction.
+Has a penalty to gather minerals, but are good at trading.
+Offers a lot of flying units.
+Great Navy and discounts on technologies.
+Corvinian paesants can fish without building fishing ships.
+
+work rate
+fisher 4->20
+mill 4->20
+hunter 20
+wood 10->20
+miner 3
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+
+Techs
+Food I-III
+Wood I-III
+Mine I-III
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+archery practice
+herbal medicine
+block printing
+sanctity
+hospitals
+Ship movement
+Ship armor
+Ship cost
+machicolations
+shooter upgrades
+
+---BUILDINGS---
+
+--Barrack 15.000 HP 300 W 300 S mul 10 max 4 inside 50
+unlock archer:
+unlock shooter:
+unlock officers:
+
+--House 5000 HP 70 W 15 S mul 3 max 8 inside 5+20
+upgrade to house II: +10.000 HP +20 pop  150 G
+
+--Mill 5000 HP 200 W 100 S mul 4 max 5 inside 15
+food+100%: 3000 F 100 G
+food+100%: 16.000 W 9.000 F
+food+25%:  2200 G 100 I
+field+100%: 950 W 400 G
+field+100%: 4000 W 200 G
+field+100%: 10.000 W 400 G
+
+--Storehouse 5000 HP 25 W 25 S mul 3 max 6 inside 15
+wood+100%: 9500 F 2500 G
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+--Blacksmith 5000 HP 100 W 100 S 100 I mul 10 max 3 inside 10
+improve armor: armor +5
+increase bow production: archer +60% creation speed
+purchase european rifles: shooter +60% creation speed
+increase spear production: spearman +60% creation speed
+
+--Castle 40.000 HP 2000 W 2500 S 2500 G mul 10 max 3 inside 100+100 
+unlock artillery: +10.000 HP
+unlock thunderbirds: +15.000 HP
+
+--Temple 25.000 HP 250 W 250 S mul 10 max 3 inside 35
+build hospital: 4000 W 4000 S
+
+--Market 5000 HP 250 W 250 S mul 10 max 3 inside 25
+
+--Tower 5000 HP 250 W 250 S mul 1.4 max 18 inside 30
+
+--Accademy 5000 HP 250 W 500 S mul 10 max 3 inside 25
+paesant +20% creation speed:
+buildings +3 armor:
+builder +25% working speed:
+artillery +70% firing speed:
+artillery +25% range:
+artillery +70% accuracy:
+shooter +35% firing speed:
+shooter +100 fire power:
+shooter, archer +60% accuracy:
+
+--Shipyard 15.000 HP 250 W 250 S mul 10 max 3 inside 25
+warships -20% cost: 5000 G
+warships +50% creation speed: 30.000 W 3000 G
+warships +30% movement speed: 8000 W 4000 G
+
+---UNITS---
+
+Corvinian paesant
+HP 100
+Sword 18 Fr 50
+F 100 Fr 240-200
+
+Corvinian pikeman
+HP 100
+Lance 12-20 Fr 20
+D 8-24/8-24/150-155 storm 20
+F 100 W 20 I 12 Fr 50-32
+
+Corvinian archer
+
+Corvinian shooter
+
+Owl shaman (fly)
+
+Falcon warrior (fly)
+
+Eagle warrior (fly)
+
+Owl warrior (fly)
+
+Officer (fly)
+
+Thunderbird (fly)
+
+SIEGE/SHIPS same as europeans without fishing ships

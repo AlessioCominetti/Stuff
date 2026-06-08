@@ -1,0 +1,171 @@
+Nomadic civilization with great offensive powers
+but weak defenses. Better suited for flanking or raiding.
+Cannot farm or fish. Nomad, pop is already capped.
+
+Work rate
+hunter 20-40
+Woodcutter 20-40
+Miner 4
+
+MaxPop 16000
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+bloodlines
+archery practice
+herbal medicine
+block printing
+sanctity
+Ship movement
+Ship armor
+Ship cost
+paesants creation speed
+artillery upgrades
+shooter upgrades
+
+BUILDINGS
+
+--Barrack 500 W 500 S mul 10 MAX 4 HP 25.000 MaxInside 50 MaxPop 50
+unlock archers
+unlock shooters
+unlock sappers
+unlock officiers 500 G 2000 I
+Fortifications +8 armor: 60.000 W 10.000 S
+
+--House 200 W 5 S mul 3 cap 9 HP 5000 Maxinside 10 MaxPop 200
+Hunt +100%: 4500 G
+
+--Storehouse 5 W 25 S mul 1 caps 7 HP 5000 MaxInside 15 MaxPop 15
+wood +100%  4500 G
+
+--Blacksmith 250 W 250 S 50 I MAX 1 HP 5500 maxInside 10 MaxPop 10
+armored units +6 armor  20500 W 1500 G 6200 I
+orc grunt/halberdier +100% creation speed 20.000 W 2500 G 16.000 I
+archer +100% creation speed  55.000 F
+shooter +100% creation speed 3000 G
+shooter +70% fire rate 10.000 G 10.000 I 10.000 C
+shooter +200 fire power 3500 I 7000 C
+shooter/archers -70% scatter 5000 I 10.000 C 10.000 G
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+--Temple 150 W 600 S mul 10 MAX 3 HP 35.000 MaxIn 50 MaxPop 50
+Build hospital  6200 G 4300 W
+Heal all units by 10%: 700 G 2000 W 600 S
+
+--Stable 10.000 W 1600 G 2500 S mul 10 caps 4 MaxIn 50 Maxpop 50
+HP 55.000
+unlock chieftain 
+cavalry +100% creation speed 800 G 20.000 S
+
+Scout tower->Stone tower
+
+--Market 3000 W 3000 S MAX 1 MaxIn 25 MaxPop 25
+Generate 40 G/sec. Can trade resources.
+
+--Shipyard 750 W 250 S mul 3 MAX 7 HP 15.000  Inside 50 Max Pop 25
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+warships +100% creation speed 15000 W
+ferry +100% speed 8250 W 1650 G
+warships cost -20% 5000 G
+warships +20 defense 18000 W 2500 G
+warships move 20% faster 3000 G
+
+palisade wall->stone wall
+
+UNITS
+
+orc peon
+HP 100
+Sword 20 fr 30 storm 20
+F 100 Fr 300 Population 2
+
+goblin warrior
+HP 55
+Lance 10-22 Fr 36 bx 1
+D 12-30/0-18 storm 15
+F 120 W 15 I 5 Fr 40
+
+orc grunt
+HP 150
+Sword 20-28 Fr 30 bx 2
+D 4-30/4-30 arrowresistence 160-180 storm 50
+F 250 I 50 Fr 240-120 Population 2
+
+orc archer
+HP 150
+Bow 220-242 Fr 80 Range 20 ammo 4 I accuracy 5-16%
+Sword 16-24 Fr 30 bx 2
+D 0-20/0-20 arrowresistence 100 storm 50
+F 250 G 60 Fr 240-120 population 2
+
+orc shooter
+HP 150
+Rifle 400-600 Fr 480-320 Range 20 ammo 2 I 4 C accuracy 5-16%
+Sword 16-24 Fr 30 bx 2
+D 0-20/0-20 arrowresistence 100 storm 100
+F 500 G 50 Fr 640-320 Population 2
+
+orc halberdier
+HP 200
+Lance 16-32 Fr 30 bx 3
+D 4-30/4-30 arrowresistence 160-180 storm 100
+F 300 I 80 Fr 360-180 Population 3
+
+golbin sapper
+HP 30 Explosion 4000
+F 100 G 150 Fr 400 Max 50
+
+orc marauder
+HP 600
+Sword 30-50 Fr 50 bx 10
+D 16-40/2-26 arrowresistence 160-185 storm 100
+F 6000 G 300 Fr 400-200 Population 2
+
+orc chieftain
+HP 600
+Sword 50-120 Fr 50
+D 16-40/2-26 arrowresistence 160-185 storm 100
+F 4000 G 500 Fr 1200-600 Population 2
+
+orc shaman
+HP 300
+Sword 50 Fr 50 bx 10
+Healing 200 Fr 100 range 13
+F 400 G 200 Fr 1800 Population 2
+
+troll
+HP 25.000
+Sword 175 Fr 80 bx 20
+D 12-40/0-24 arrowresistence 150-175
+Siege attack 2000 Fr 50
+G 15.000 Fr 15.000 Max 10
+
+SHIPS/SIEGE same as humans

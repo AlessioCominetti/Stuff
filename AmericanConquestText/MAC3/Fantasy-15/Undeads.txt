@@ -1,0 +1,130 @@
+Undead units don't consume food, but the necromancer requires
+a steep upkeep. Necromancers don't count as undead.
+There is no cap for undead units, but there is for the necromancers.
+Each necromancer increases the cap for undead units.
+If upkeep isn't met, necromancers will revolt and all
+the undead units will die. Woodcutter doesn't need a drop off point.
+
+BUILDINGS
+
+Necropolis: train all undead units and develop
+artillery upgrades.
+HP 35.000 mul 50 MAX 3
+Garrison 200
+Cost 600 W 600 S 
+
+Dark temple: train and increasethe necromancer cap by 15
+HP 35.000 mul 10 MAX 5
+Garrison 50
+Cost 250 W 250 S
+
+Blacksmith: research military unit upgrades 
+5000 HP MAX 1
+Garrison 10
+Cost 250 W 250 S 50 I
+Armor upgrades
+Attack upgrades
+Archery practice
+
+Mine: a place where villager can gather minerals
+HP 5000 Cost 100 W
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+Outpost->Tower: defensive building. Upgrade become expensive with each tower built.
+HP 4000-10.000 mul 1.25 MAX 50
+Garrison 5-10
+Cost 50 W 50 S
+Upgrade: 250 W 250 S
+
+Palisade-Stone wall: defensive barrier.
+HP 1000-5000
+Cost 100 W
+Upgrade: 100 S
+
+Shipyard: train and develop ships
+HP 25000 mul 5 MAX 8 caps 4
+Garrison 50
+Cost 1000 W 1000 S
+ships +20% movement speed, ferry +100% movement speed: 8000 W 1700 G
+warships cost -20%: 5000 G
+ships +25 armor: 18000 W 2500 G
+warships +100% creation time: 30000 W 3000 G
+
+MaxUndeads 15000
+Max Necromancers 75
+Total max inside 1760
+total max buildings 67 (17 without towers)
+
+
+UNITS
+undead worker (gather W and minerals)
+HP 50 Sword 14 Fr 60 
+P 175 As 10
+Fr 20
+---
+Wood 10
+Mine 4
+---
+
+zombie pikeman
+HP 100
+Lance 8-20 Fr 20
+D 8/8 [32/32] P 175 As 20
+I 30 Fr 120-60
+
+skeleton archer
+HP 30
+Bow 100 Fr 80 Range 10  accuracy 20-67% ammo 2 W 2 I
+D 0/0 [6/6] P 190  As 5
+W 100 Fr 80-40
+
+skeleton warrior
+HP 70
+Sword 10-22 Fr 80 bx 4
+D 0/8 [12/20] P 190 As 15
+Wood 100 G 10 Fr 80-40
+
+undead shooter
+HP 100
+Gun 400(600) Fr 440 (280) Range 20 ammo 2 I 4 C accuracy 20-25%
+D 0/0 +20 Arow resistence 150-175 storm 30
+Wood 250 G 60 Fr 500 (250) 
+
+necromancer max 80
+HP 200
+Sword 50 Fr 50
+Healing 100 Fr 100 Range 13
+D 0/0 [24/24] P 100 As 100
+G 150 Fr 3000
+Only unit that can heal undead, +200 undead cap.
+
+Black Knight
+HP 800
+Lance 35-70 Fr 40
+D 12/12 +33 ArrowResistence 160-180 Storm 100
+G 800 Fr 600 (400) Population 2
+
+Death knight
+HP 200
+Bow 220 Fr 100 Range 17 ammo 10 W 5 I accuracy 30-98%
+Lance 12-24 Fr 30 bx 5
+D 12/12 +12  ArrowResistence 150-175  storm 50
+G 120 Fr 300 (200) Population 2
+
+Vampiric ghoul
+HP 2000 Drain 1 HP every second from all living creatures in 8 range max(+100)
+Defeated foes return as allied undead units
+D 20/20 P 195 As 100
+G 3000 Fr 6000 Population 100 max 10
+
+Undead sapper
+HP 30 Explosion 4000 D 20/20
+G 300 Fr 400 max 100
+
+SIEGE UNITS/SHIPS (same as europeans)

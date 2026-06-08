@@ -1,0 +1,271 @@
+AZTECS
+-paesants carry +40% resources
+-Farms, Temple upgrades cost-80%
+-Killing villagers generate 50 G each
+UU Jaguar warrior, eagle warrior, coyote warrior
+UT Garland war: infantry +5 attack
+
+ZAPOTECS
+-shamans, chieves cost no G
+-buildings have 10 armor
+-Shaman upgrades cost -75%
+-Houses provide +10% population
+UU Macaw warrior, owl warrior
+UT Pulche; villager heal 10 hp per 5 seconds
+
+MIXTECS
+-villagers can be trained optionally with 10 S cost
+-Towers cost -50%
+-Fortress, Noble Hut multiplier goes to 50
+-Mill and archery upgrades cost -80%
+UU Yuchi Yutun, Yaha Yahui
+UT Yucunduta: towers act as drop off point
+
+Fortress: train military units, defensive building
+HP 350000 mul 100 (50 for mixtecs) MAX 3
+Garrison 100
+Cost 300 W 300 S
+unlock archer +10.000 HP: 300 S 600 W
+unlock chieves +20.000 HP: 300 S 7500 W
+unlock staff warrior +10.000 HP: 500 S 500 W
+unlock slingers +10.000HP: 1000 S 3000 W
+
+Noble Hut: train elite units
+HP 35000 mul 100 (50 for mixtecs) MAX 3 
+Garrison 50
+Cost 300 W 300 S
+
+Blacksmith: research military unit upgrades
+HP 5000 MAX 1 
+Garrison 10
+Cost 250 W 250 S 50 I 
+melee units +5 Atk: 15000 W 4000 I
+mace scout, spearman, chief +25 arrow armor: 15000 W 5000 I
+slinger +50% creation speed:  300 G 800 W
+spearman +100% creation speed: 8000 W 25.000 S
+all units (except archers) +5 lance armor: 13.000 W
+
+House I: train villagers and raise population cap
+HP 25.000 mul 10 MAX 5
+Garrison 25 +Pop 50
+Cost 100 W 100 S 
+
+House II: elite house
+HP 25.000 mul 10 caps 4 MAX 15 
+Garrison 50 +Pop 250
+Cost 500 W 500 S
++300 population, +50 inside, +25.000 HP:  2000 G
+
+Mill: produce and improve grain
+HP 10.000 mul 5 MAX 6 
+Garrison 30
+Cost 125 W 125 S
+food +70% 1080 F 50 G 
+food +30% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 3400 W 200 S 150 G 500 I
+
+Storehouse: drop off point for wood, increase wood working rate
+HP 10.000 mul 5 MAX 6 
+Garrison 20
+Cost 125 W 125 S 
+wood +25%: 20000 F
+
+Town Center: develop technologies
+HP 25000 MAX 1
+Garrison 25
+Cost 3000 W 3000 S
+^^^Unlock house II 4000 W 9000 S 125 G
+^^^Paesant creation +50% 21.000 W 11.000 S
+^^^Troops +10% HP   1000 G
+^^^archers -70% scatter 24000 W 5000 G
+^^^buildings +6 armor 56000 W 12000 S
+^^^Garland War: melee units +5 Atk (Aztec)  2000 G
+^^^Atlat: javelin +6 range   2000 G
+
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 900 G      25 sec
+2    10      20.000 W 41.000 F 2000 G    25 sec (for Stone mines: 2000 W 21.000 F 1700 G)
+3    15      7000 G/I 15.000 F           25 sec (for Stone mines: 1400 G only, Gold mines: -4000 G)
+4    20      24.000 G 9000 I 23.000 F    25 sec (for Stone mines: 1000 G 8.000 I)
+5    30      30.000 G 60.000 F           25 sec (for Stone mines: 20.000 G)
+6    50
+
+--Temple 7500 W 12.500 S mul 10 MAX 3  HP 75.000  Inside 75 Max Pop 75
+shaman creation +100%  200 G
+shaman healing +25  200 G
+shaman +120 HP  1200 G
+
+--Shipyard Aztec 750 W 250 S mul 3 MAX 7 HP 15.000  Inside 35 Max Pop 35
+Aztec only : +40 pop +10.000 HP 50 G 100 W      +80 pop +10.000 HP 250 G 500 W
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+--Scout tower: 100 W 100 S mul 1.4 MAX 20 HP 4000 Inside 5 Max Pop 5
+
+--Tower: 150 W 150 S mul 1.4 MAX 20 HP 10.000 Inside 30 Max Pop 30
+
+--Market: 3000 W 3000 S MAX 1  HP 10.000 Inside 25 Max Pop 25
+Generate gold equivalent to 15 miners.
+
+Total MaxPop 12.345 ---- 12.800   (1015 from shipyards)
+Total max inside 2610 (245 from shipyards)
+total number of buildings 91
+
+Units
+Paesant
+HP 60
+sword 20  Fr 30  storm 20
+F 200 Fr 360-240 Population 2
+---
+Farmer 8->16
+Woodcutter 8->10
+Miner 4->5
+Hunter 20
+---
+
+Slinger
+HP 90-99
+sword 8-25  Fr 20    
+sling 80  Fr 80  Range 10->15   ammo 2 S accuracy 10-15-23-33%
+D 6-16/1-16    arrow 125-175  storm 30
+F 450      Fr 60-36   Population 3
+
+Blowpipe
+HP 100-110
+sword 8-25   Fr 30    
+dart 1  Fr 80 range 5->6   ammo 5 G  accuracy 20-30-46-67%
+D 6-12/1-12    storm 20  poison 2 Hp/20 Fr
+F 200     Fr 50  Population 2
+
+chief
+HP 125
+sword 25-100   Fr 50
+D 0-45/0-45  arrow 50-125  storm 100
+F 360 G 100 Fr 400
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 4
+storm 100  
+F 150 G 100 Fr 300-150 
+
+Aztec spearman
+HP 110-121
+lance 12-30     Fr 60  bx 2
+javelin 100    Fr 80   range 6->12  ammo 10 W 5 I accuracy 50-100%
+D 7-20/2-20   arrow 150-175   storm 30
+F 200 W 20    Fr 180-90
+
+Aztec archer
+HP 120-132
+sword 8-24    Fr 60  bx 2
+Bow  200    Fr 80   range 20  ammo 2 W 2 I accuracy 5-7.5-11%
+D 0-10/0-15   arrow 30-125 storm 10
+F 200 W 20   Fr 90
+
+Jaguar warrior (promotion from spearman)
+HP 120-132
+Sword 40-80 Fr 40 bx 5
+D 12-30/7-30 arrow protection 150-175   storm 100
+F 800 G 200 Fr 800-400  Population 4
+
+Eagle warrior (prmotion from spearman)
+HP 120-132
+lance 12-30 Fr 20 bx 2
+javelin 200-240  Fr 80   range 7->14  ammo 10 W 5 I   accuracy 44%
+D 2-20/2-25 arrow protection 175-190 storm 100
+F 1000 W 100 Fr 800-400 Population 4
+
+Coyote scout (replace mace scout)
+HP 110-121
+sword 9-25 bx 5 Fr 24   
+D 0-10/5-20   arrow 150-180   storm 10
+F 400 W 30 S 10  Fr 20  Population 2
+
+Macaw warrior (promotion from spearman)
+HP 100-110
+sword 30-50 Fr 50 bx 1
+D 15-45/10-45  arrow protection 175-190  storm 100
+F 200 I 50 Fr 360-180
+
+Owl warrior (promotion from spearman)
+HP 100-110
+lance 14-25  Fr 30  bx 2
+D 12-30/2-25  arrow protection 178-193  storm 20
+F 200 W 30 Fr 360-180
+
+Puma warrior (promotion from spearman)
+HP 100-110
+lance 12-30 Fr 30 bx 2  range 1
+D 7-20/2-20 arrow protection 150-175  storm 50
+F 200 W 40 Fr 360-180
+
+Upgrades cost for spear-line
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for coyote warrior/blowpipe line
+AtkI   200 G 12000 F
+AtkII  400 G 12000 F
+AtkIII 200 G 20000 F
+DefI   300 G 15000 F
+DefII  800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

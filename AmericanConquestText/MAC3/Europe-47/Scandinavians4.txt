@@ -1,0 +1,27 @@
+FINNISH
+-foot units can move trough elevatin faster
+-Healers can healwhile moving
+-Scout cavalry cost -30%
+UU Hisi
+UT healers +50% heal
+
+NORWEGIANS
+-paesants +100 HP
+-foot units +25% HP
+-Free dock upgrades
+UU Berseker
+UT foot units regen 30 Hp/min
+
+SWEDENS
+-Can build Torb
+-Can either unlock halberdier or lancers
+-Mining upgrades cost -50%
+UU Varangian guard
+UT Heavy cavalry cost -75% F
+
+DANES
+-Town centers work 50% faster
+-Increase enemies trade fee by +15%
+-Buildings are built with spearmen inside (20% of maxinside)
+UU Danish axeman
+UT Steal 5% of enemies G income

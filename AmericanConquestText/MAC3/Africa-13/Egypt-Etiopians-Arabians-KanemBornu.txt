@@ -1,0 +1,28 @@
+Buildings cost -50% W, +20% HP and cosntruction time
+
+EGYPT (Fatimidis)
+--Better prices at the market
+--Each Church reduce tech cost by 10% (up to -30%)
+--Archers +4 melee attack
+UU Abtal, mameluke
+UT Furusiyya: archers and Cavalry +10% HP
+
+ETIOPIAN
+--Archers fire 20% faster
+--Spearline upgrades cost -50%
+UU Shotel
+UT Heirs: Infantry and Cavalry +3/3 D
+
+SARACENS
+--Better prices at the market
+--Galleys attacks 25% faster
+--Camels +25% HP
+UU Mameluke
+UT Counterweights: siege units(except ballista/mantlet attack 15% faster)
+
+VANDALS
+--Can dismantle buildings to move them away
+--Demo ship cost -50%
+--Ferry has a weak melee attack
+UU Froia
+UT Dominion Maris: reveal all sea zones, warships +25% movement speed

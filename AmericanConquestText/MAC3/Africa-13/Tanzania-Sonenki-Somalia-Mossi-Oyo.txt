@@ -1,0 +1,142 @@
+S.A.
+Build packed horses instead of mines and storehouses
+Can upgrade Houses I to Houses II
+Can train Sahel Riders from Town Centers
+RU: Sifidi knight, camel riders, tribal spearman,
+akan shooter, akan swordman, griot
+
+TANZANIA(Swahili-Ajuran)
+--10% of all resources collected are turned into G
+--Better Market prices
+--Warships have -15% multiplier
+UU Haramia, Mtepe (boat)
+UT Jeshi: military units cost -30% F, are trained 30% faster
+
+
+SONENKI (GHANA)
+--All units +10% HP
+--Camels cost -33% G
+--Reveal all deposits from start
+--Periodically spawn a packed horse at Stables (1 every 5 minutes)
+UU Mangu (camel)
+UT Janmu: all units gain +1 attack for each 5000 G in the back (up to +4)
+UT Moodini: enemies attack 25% slower when under attack by fortifications
+
+
+SONGHAI
+--Villager can drop resources at Market
+--Shipwright cost -80%
+--Cavalry +25 arrow protection
+--Frist Shipyard built spawn a demo raft
+UU Wuragu (cavalry)
+UT Hi Koy: Cavalry +30 HP, warships take -25% damage from buildings
+UT Balama: Mounted units attack 33% faster
+
+
+MOSSI
+--Spawn a herdable with each Barrack and Stable built
+--Skirmishers +25% javelin power
+--Cavalry +15% movement speed
+UU Nakomse (cavalry archer)
+UT Dimas: all units cost -20%
+UT Tengabisi (stone/iron/coal miner produce 10% gold in addition)
+
+
+
+Buildings
+
+Barrack 250 W 250 S mul 10 cap 4 HP 25.000 Inside 50 maxpop 50
+-infantry creation speed
+
+Stable 1000 W 1000 S mul 10 cap 3 HP 25.000 Inside 50 maxpop 50
+-cavalry creation speed
+
+House 50 W 50 S mul 10 cap 4 HP 5000 Inside 10 maxpop 75
+-upgrade to house II +10.000 HP +100 maxpop 5000 W 5000 S
+
+Mill 200 W 100 S mul 4 cap 4 HP 5000 inside 15 maxpop 15
+-food
+-food
+-food
+-field
+-field
+-field
+
+Blacksmith 100 W 100 S 50 I mul 25 cap 2 HP 5000 inside 10 maxpop 10
+-armored
+-shooter power
+-shooter fire rate
+-shooter scatter
+-archer scatter
+-wood
+
+Castle 4000 W 6000 S 4000 G mul 5 cap 3 HP 35.000 inside 150 maxpop 200
+enable stable: +10.000 HP
+enable artillery: +10.000 HP
+enable temple: +10.000 HP
+-cannon upgrade
+
+Towncenter 2500 W 7500 S mul 10 cap 2 HP 25.000 inside 25 maxpop 25
+-paesant creation speed
+-enable house upgrades
+-increase building durability
+-builder work
+-infantry HP
+-reduce tower cost
+
+Temple 250 W 500 S mul 10 cap 3 HP 35.000 inside 25 maxpop 25
+-build hospitals
+-herbal medicine
+-shaman creation speed
+-shaman HP
+
+Tower 300 W 300 S mul 2 cap 8 HP 25.000 inside 20 maxpop 20
+
+Palisade 1000 W
+
+Shipyard 250 W 250 S mul 10 cap 3 HP 25.000 inside 25 maxpop 25
+-fish
+-shipwright
+-sailors
+-carening
+
+Market 2500 W 2500 S mul 10 cap 3 HP 25.000 inside 25 maxpop 25
+
+UNITS
+paesant
+
+tribal spearman
+
+archer
+
+Sahel rider
+
+Sifidi knight
+
+camel rider
+
+camel archer
+
+akan shooter
+
+akan swordman
+
+armored spearman
+
+cannon
+
+shaman
+
+chief
+
+SHIPS
+
+Mbete
+
+fishing ship
+
+transport ship
+
+galleon
+
+yatch

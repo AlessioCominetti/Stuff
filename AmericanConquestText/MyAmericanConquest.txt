@@ -1,0 +1,1617 @@
+
+South American   (Maya-Tlaxacala, Aztecs-Zapotecs, Incas-Texcoco)  [6]
+
+MAYANS
+-Can train plumed archers at Fortress
+-Can train Huangariecas at Town Centers
+-Shipyards cannot be captured
+
+ZAPOTECS
+-Shamn tecnologies are free
+-Can train Macaw and Owl warrior from Fortress
+-Towers built on elevation take -25% damage
+-Town Center technologies cost -50% G
+
+TLAXACALA
+-Military units are trained 50% faster
+-Farms upgrades cost -90%
+-Archers cost -50&
+
+AZTECS
+-paesant carry +20 resources
+-Farms, Shipyard upgrades cost -90%
+-Fortress work 10% faster for each Temple built
+-Shaman are created 100% faster
+-Double effect from iro forging
+
+INCAS
+-Paesant can be upgraded for extra attack and defense
+-Start with +20% F
+-Archer and towers upgrades cost -90%
+
+TEXCOCO
+-Military units cost -50% F
+-Buildings cost -20% S
+-Towers cost -50%
+
+Buildings
+--Fortress 300 W 300 S mul 10 max 4 (3000 W 3000 S for Aztecs)   Inside 100 MaxPop 100
+Maya HP 35.000
+unlock archers +10.000 HP  100 S 900 W
+unlock mace scout +10.000 HP 150 S 11000 W
+unlock chieves +10.000 HP 300 S 13000 W
+Aztec HP 15.000 HP
+unlock archer +10.000 HP 300 S 600 W
+unlock chieves +20.000 HP 800 S 13000 W
+Inca HP 35.000 HP
+unlock archer +10.000 HP 250 W 50 S
+unlock town center +10.000 HP 700 W 700 S 150 G
+unlock shamans +10.000 HP 100 G 900 W
+
+--Maya House I 20 W 20 S mul 3 max 8 HP 10.000  Inside 25 Max Pop 45
+--Aztec House I 20 W 20 S mul 10 max 5 HP 25.000 Inside 25 Max Pop 75
+--Inca House I 30 W 30 S mul 3 max 8 HP 10.000 Inside 25 Max Pop 45
+--Maya House II 50 W 100 S mul 2 max 10 HP 20.000 Inside 35 Max Pop 200
+--Aztec House II 50 W 50 S mul 10 max 5 HP 25.000 Inside 35 Max Pop 200
+--Inca House II 100 W 200 S mul 2 max 8 HP 5.000 Inside 50 Max Pop 60
++80 pop +10.000 HP (I 450 G 2200 W, II 1100 G 9000 W) 
+--Maya,Inca House III 350 W 100 S mul 3 max 8 HP 35.000 Inside 45 Max Pop 225
+
+--Mill 250 W 25 S mul 5 max 6 HP 10.000 Inside 35 Max Pop 20
+food +70% 10800 F 500 G (-90% cost for Aztec)
+food +80% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 34000 W 2000 S 1500 G 5000 I (-90% cost for Aztec)
+
+--Storehouse 10 W 200 S mul 5 max 6 HP 10.000 Inside 20 Max Pop 20
+
+--Town Center 300 W 300 S mul 10 max 4 HP 65.000 (25.000 for Aztec) Inside 25 Max Pop 25
+Unlock house II 4000 W 4000 S 125 G
+Unlock house III 40.000 W 32.000 S
+Paesant creation +50% 20.750 W 11.000 S
+-
+Troops +10% HP   1000 G
+melee units +5 Atk 15000 W 4000 I
+mace scout, spearman, chief +25 arrow armor 15000 W 5000 I
+-
+slinger +50% creation  300 G 800 W
+spearman +100% creation 8000 W 25.000 S
+archers -70% scatter 24000 W 5000 G (150 W for Inca)
+-
+macana, archers, chief +5 lance armor 13.000 W
+buildings +6 armor 56000 W 12000 S
+builder work +100% 1000 G
+--
+ballistics 10.000 G
+obsidian arrow: archers +10% power  (Maya)  5.000 G
+Garland War: melle units +5 Atk (Aztec)  5.000 G
+Andean slings: slinger +5 range (Inca)  5.000 G
+Atlat: javelin +6 range   4.000 G
+
+
+
+--Mine 50 W in 5->100
+
+--Temple 1000 W 1500 S mul 20 max 3  (Aztec 250 W 750 S)  HP 35.000  Inside 75 Max Pop 75
+shaman creation +100%  2000 G
+shaman healing +25  2000 G
+shaman +120 HP  2000 G
+
+--Shipyard Maya 100 W 750 S mul 5 max 5  HP 15.000
+--Shipyard Aztec/Inca/Pueblos 750 W 250 S mul 5 max 5 HP 15.000  Inside 35/50/35 Max Pop 55/45/15
+Aztec only : +40 pop +10.000 HP 50 G 100 W      +80 pop +10.000 HP 250 G 500 W
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+
+--Scout tower(Maya,Aztec): 50 W 50 S mul 1.4 max 20 HP 4000 Inside 5 Max Pop 5
+--Tower: 300 W 300 S mul 1.4 max 20 HP 25.000/10.000/5.000 (maya,aztec,inca) Inside 30/40 Max Pop 25/15
+--Market: 250 W 250 S mul 10 max 4  HP 10.000 Inside 25 Max Pop 25
+
+Maya-Tlaxacala Max Inside 2765 Max Population 5825
+Aztec-Zapotecs Max Inside 2230 Max Population 3815
+Inca-Texcoco Max Inside 2840 Max Population 5285
+
+Units
+Mayan Spearman
+HP 100-110
+Lance 7-22 Fr 70 bx 1
+D 12-30/2-20 storm 15
+F 190 W 6 S 6 Fr 80-40
+
+Mayan Archer
+HP 30-33
+sword 3-9  Fr 50     Bow 200-220  Fr 80  range 10
+D 0-6/0-6    storm 10
+F 215 W 10  Fr 25
+
+Mace scout
+Hp 55-60
+sword 5-16   Fr 50   bx 5
+D 2-8/12-18  arrow 150-175   storm 5
+F 215 W 15 S 5  Fr 10
+
+Slinger
+HP 55-60
+sword 8-20  Fr 50    sling 80  Fr 160  Range 10-15
+D 0-15/0-15    arrow 150-175  storm 10
+F 170      Fr 20-14
+
+Blowpipe
+HP 100-110
+sword 8-20   Fr 50    dart 1  Fr 80 range 6
+D 0-12/0-12    storm 10
+F 125     Fr 25
+
+chief
+HP 125
+lance 25-95   Fr 50
+D 0-45/0-45  arrow 0-100  storm 100
+F 360 G 100 Fr 800
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 25-50   Fr 100  range 4
+storm 100  (10 for Aztec)
+F 300 G 100 Fr 4000-2000 Maya 400-200 Inca 300-150 Aztec
+
+Paesant
+HP 30
+sword 20  Fr 60  storm 10
+F 100 Fr 180-120
+
+Aztec spearman
+HP 110-121
+lance 12-30     Fr 60   javelin 200    Fr 80   range 6-12
+D 2-18/2-18   arrow 50-175   storm 30
+F 140 W 12 I 10   Fr 180-90
+
+Aztec archer
+HP 120-132
+sword 15-21    Fr 50    Bow  200    Fr 80   range 20
+D 5-15/0-15   storm 10
+F 215 W 10   Fr 90
+
+Inca spearman
+HP 100-110
+lance 15-30   Fr 60
+D 2-18/2-18   storm 10
+F 180 W 20 I 15   Fr 60-30
+
+Inca archer
+Hp 120-132
+sword 12-28   Fr 50   Bow 200      Fr 60 range 13
+D 5-20/5-20  storm 30
+F 130 G 30     Fr 125
+
+Upgrades cost for spear/-line (and pueblo shooter)
+AtkI 50 G 4800 F
+AtkII 160 G 11500 F
+AtkIII 200 G 15000 F
+DefI 350 G 3200 F
+DefII 800 G 10000 F
+DefIII 6100 W 10000 F
+
+Upgrade cost for archer-line
+AtkI 350 G 9500 F
+AtkII 200 G 24100 F
+AtkIII 200 G 30000 F
+DefI 190 G 550 F
+DefII 350 G 15000 F
+DefIII 150 G 30000 F
+
+Upgrade cost for chief-line
+AtkI 200 G 1500 F
+AtkII  4600 F
+AtkIII 80000 F
+DefI 300 G 1250 F
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for macamba/blowpipe line
+AtkI 200 G 12000 F
+AtkII 360 G 12000 F
+AtkIII 200 G 20000 F
+DefI 200 G 16000 F
+DefII 800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI 500 G 500 F
+AtkII 1600 G 1000 F
+AtkIII 2000 G 4000 F
+DefI 240 G 200 F
+DefII 2550 G 
+DefIII 3500 G
+
+North Americans (Sioux,Hurons-Iroquoios,Delaware-Missisipians,Haida,Pueblos) [7]
+
+SIOUX
+-Stables work 20% faster
+-Nomad, population is already capped
+-Hunter works 25% faster
+-Can dismounted Tepee and other buildings to recover building cost
+-Can celebrate dances to boost allies stats
+
+HURONS
+-Unique buildings cannot shoot arrows, but take two times more men to capture
+-Can upgrade paesant attack and defense and HP
+
+IROQUOIOS
+-Shaman +5 healing range and +100% movement speed
+-Can upgrade paesant attack and defense and HP
+
+DELAWARE
+-Can build multiple houses
+-Archers +10% HP
+
+MISSISIPIANS
+-Units move 25% faster when in allied territory
+
+HAIDA
+-Greater Eco upgrades
+-Barrack, Temple and Town Center +50 Population
+-Shaman +5 healing range and +100% movement speed
+
+PUEBLOS
+-Town creates all units, max 3
+-Cheaper Mine upgrades
+-Max 100 paesants at any time
+
+
+Buildings
+--Barrack 250 W mul 10 max 5   (Haida mul 8 max 6)  (Sioux mul 300 max 3) MaxInside 75 MaxPop 25
+HP 45.000
+unlock tomahawks 70 G (hurons, iroquoios, Sioux)
+unlock archers 1000 W 1000 F HUR-IROQ    2000 G DEL  6000 W 200 G HAI-SIOUX
+unlock shooters 2000 G 2000 I  (2700 G DEL)
+unlock chieves 20.000 G 47.000 HUR-IROQ  3200 G DEL  1250 G HAI
+
+--House I 100 W mul 6 max 6  HUR-IROQ   5000 HP  MaxInside 5/25 MaxPop 35
+paesant +73 HP: 8400 G 
+--House I 20 W mul 3 max 10 SIOUX-DEL  5000 HP   MaxInside 5/25 MaxPop 10/60
+--House I 30 W mul 10 max 5 HAIDA  5000 HP       MaxInside 25 MaxPop 75
+
+--Mill 200 W mul 7 max 5   5000 HP  (not for Sioux)  MaxInside 35 MaxPop 25
+food +80%  11.000 W 800 G          
+food +70%  25.000 F 4000 G          (+3000 G Haida)
+field +100% 20.000 W 
+field +100% 20.000 W 1500 G 5000 I  (30.000 W 1500 G Haida)
+
+--Storehouse 100 W mul 4 max 7  5000 HP     MaxInside 20 MaxPop 20
+wood +30% 2000 G HUR-IRO-DEL   (1200 G Pueblos)
+wood +50% 2000 G 15.000 F  Sioux
+wood +100% 4250 G 12.500 W  Hai
+
+--Stable 250 W mul 10 max 5  45.000 HP  MaxInside 100 MaxPop 25
+unlock horseman 25.000 W (not for Sioux)
+unlock horse archer  100 G
+unlock horse rifleman 10.000 G
+unlock horse chief 10.000 G 3500 I
+
+--Town Center 1200 W mul 10 max 3 HP 4.000  MaxInside 25 MaxPop 25
+paesant creation +50% 37.000 W (Hai 13400 W)   (No pueblos)
+builder work +75%  4000 G (Hai 9250 W, Sioux 2000 G 12.000 W)   (No pueblos)
+archers -70% scatter 24.000 W 5000 G   (Hai 14.000 W 1500 G)
+---
+shooters -35% scatter 4000 W (Hai 2300 G 24.000 F)
+Unlock house II 20.000 W 3000 G (+10.000 W Del, 12.500 W 125 G Sioux)   (No pueblos)
+totem construction speed 2000 G
+---
+tomahawk +125/400 power +100% accuracy  1250 G   HUR-IROQ-SIOUX
+shooters +100 power  5000 G   HUR-HAI
+armored warrior -50% gold cost 27000 W 3000 I  (Haida)
+canoe +15 armor  18000 W 2500 G (Haida)
+lancer +5 lance defense (pueblos) 3000 G 
+cavalry,melee infantry +5 atk 15000 W 5000 I (Sioux,pueblos,HUR,IROQ)
+lancer +25% creation 7500 G (Sioux)
+rifleman +50% creation 2.000 G (sioux)  (pueblos +120% 4650 C 3500 G)
+archer +60% creation 5000 G 42000 F (sioux)   35.000 W 5300 G (pueblos)
+lancer,mlunted pikeman +50 arrow protection 11.600 W 2500 G (pueblos, Sioux)
+troops +10% HP 1000 G   (pueblos/del)
+HUR 3 IROQ 2 PUE 6 (-3) SIOUX 5 HAI 3 DEL 0
+
+--House II 500 W mul 3 max 7   (Sioux 500 W mul 5 max 6) 5.000 HP  
+ MaxInside 45(15 H/S) MaxPop 250 (100 S)
+--Market 750 W mul 10 max 4   Max Inside 25 MaxPop 25
+--Totem 1000 W mul 3 max 7
+
+--Temple 9250 W mul 10 max 3      MaxInside 45 D 75 I/H 35 H/S MaxPop 25
+shaman creation +100%  2000 G  (haida 12000 W)
+shaman healing +15     1750 G  (haida 42000 F)
+shaman +120 HP        12000 G
+
+Shipyard 1200 W mul 3 max 7  (Haida 600 W mul 6 max 5)  MaxInside 45 MaxPop 75 (15 Haida)
+HP 15000
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+--Hunter's Tepee  300 W mul 10 max 4 (Sioux) maxInside 15 MaxPop 15
+food +100%  10.000 F
+food +25%   8.000 W 800 G
+
+--Wise Teppe 5700 W mul 10 max 3 (Sioux, Town Center+Temple) 10.000 HP
+--Town Hall (Haida) 5500 W mul 10 max 3 (Town Center+Temple) 75.000 HP 
+--House II (Haida) 1000 W mul 4 max 6  5.000 HP  MaxInside 45 MaxPop 230
+
+--Town (Pueblos) 300 W 300 S mul 10 max 3 MaxInside 200 MaxPop 300
+HP 25.000
+Enable barrack +10.000 HP 100 W 100 S
+Enable shamans +10.000 HP 5000 W 4000 S
+Enable stable +10.000 HP 1250 S 1250 W
+Enable upgrades +10.000 HP 1000 W 1000 S 100 G
+
+Pueblos               MaxInside 1205 MaxPopulation 1315
+Delaware-Missisipians MaxInside 2380 MaxPopulation 3640
+Sioux                 MaxInside 1640 MaxPopulation 1875
+Hurons                MaxInside 1970 MaxPopulation 3250
+Iroquoios             MaxInside 2420 MaxPopulation 3250
+Haida                 MaxInside 1785 MaxPopulation 2495
+
+Units
+North American paesant
+HP 10 (10-100 for HUR-IROQ)
+sword 5-11  Fr 60    Bow 30  Fr 80  Range 10
+D 0-17/0-17   storm 2
+F 40   Fr 90-60
+
+Tomahawk warrior
+HP 100
+Sword 12-24   Fr 50   Axe 250-375 (650 for HUR)  Fr 80 range 4
+D 0-21/0-21   storm 20
+F 135 G 7 Fr 200
+
+Archer
+HP 100 IROQ-HUR- (-110 DEL)  50 PUE
+sword 3-9   HUR/PUE   12-22  IROQ-DEL  Fr 50
+Bow 200    Fr 80   range 12  storm 10
+D 0-6/0-6   HUR/IROQ/DEL    10-20/0-10  PUE
+F 110 W 10  Fr 45-30 PUE
+F 250 W 30  Fr 30  IROQ
+F 200 W 20  Fr 30  HUR
+F 160 W 10 G 10 Fr 60  DEL
+
+Shooter 
+HP 100 (100-110 for PUE/DEL)
+Sword 3-9   (12-25 for PUE)  Fr 50
+Rifle 400 (400-500 for HUR,HAI)   Fr 480  range 12 (18 IROQ)
+D 0-6/0-6    (0-18/0-18 for PUE)   (150 arrow for HUR/HAI)  storm 20 (30 for PUE)
+F 330 G 30 W 60  Fr 200 HUR/HAI 
+F 330 G 30       Fr 200 IRO/DEL 
+F 230 G 11       Fr 125-60  PUE
+
+rifle chief
+HP 100
+sword 15-80   Fr 50
+rifle 600  Fr 600 range 12 (18 iroq)
+D 0-45/0-45  storm 100
+F 1250 G 60 I 60 Fr 1600
+
+Horseman
+HP 420 (420-462 pueblos)
+Lance 8-25  Fr 36   bx 20
+D 0-18/7-30  storm 100   50-100 arrow protection (pueblos)
+F 1500 Fr 1500 
+
+Delaware spearman
+HP 100-110
+Lance 4-10  Fr 70
+D 0-24/0-24 storm 2
+F 54 W 2 S 1 G 7 Fr 40
+
+Sioux paesant
+HP 100
+Sword 24  Fr 60 Storm 20
+F 100 Fr 540-360
+
+Pueblo paesant
+HP 25
+Sword 7 Fr 60  storm 25
+F 25  Fr 25
+
+Shaman
+HP 30-150
+sword 50   Fr 50
+Healing 25-50   Fr 100  range 8 (13 for Haida and Iroq)
+storm 100
+F 400 G 85 Fr 600-300
+
+Armored warrior
+HP 150
+sword 5-17 Fr 33    bx 5
+D 4-16/8-20  150 arrow protection storm 30
+F 240 G 20-10 W 20 Fr 100
+
+Haida archer
+HP 120
+Sword 6-12  Fr 50  
+Bow 200  Fr 80  range 12   
+D 10-16/0-6   150 arrow protection   storm 20
+F 240  W 20  Fr 70
+
+Hunter-archer
+HP 100
+sword 14-20   Fr 50
+Bow 220   Fr 80   range 17
+D 0-14/0-14  storm 40
+G 50 W 30 Fr 225
+
+Sioux lancer
+HP 600
+lance 12-36   Fr 36
+D 6-12/6-12  50-100 arrow protection storm 100
+F 3200 W 25 G 10  Fr 800-640
+
+Sioux horse archer
+HP 300
+sword 7-20  Fr 50
+Bow 220    Fr 100   range 17
+D 0-12/0-12  storm 60
+F 1000 W 10  Fr 300-180
+
+Sioux horse rifleman
+HP 240
+sword 11-30  Fr 50
+rifle 400   Fr 240   range 12
+D 10-22/2-14  storm 90
+F 3600 G 120 I 100 Fr 600-400
+
+Sioux chief
+HP 600
+lance 35-105   Fr 70
+D 0-45/0-45 storm 100
+F 5400 G 750 Fr 400
+
+Unit Upgrades
+
+
+Upgrade cost for tomahawk 
+AtkI 110 G 700 F
+AtkII 250 G 1500 F
+AtkIII 700 G 30000 F
+DefI 570 G 1400 F
+DefII 850 G 20500 F
+DefIII 30000 F 15.000 W
+
+Upgrade cost for archer-line
+AtkI 350 G 500 F
+AtkII 200 G 1100 F
+AtkIII 200 G 2000 F
+DefI 200 G 450 F
+DefII 200 G 1000 F
+DefIII 300 G 4000 F
+
+Upgrade cost for chief-line
+AtkI 500 G 1500 F
+AtkII 600 G 4600 F
+AtkIII 100 G 80000 F
+DefI 250 G 1250 F
+DefII 550 G 15000 F
+DefIII 500 G 80000 F
+
+Upgrade cost for shooter-line
+AtkI 200 G 22000 F
+AtkII 360 G 12000 F
+AtkIII 200 G 10000 F
+DefI 500 G 16000 F
+DefII 500 G 15000 F
+DefIII 300 G 30000 F
+
+Upgrade cost for horseman
+AtkI 100 G 5.000 F
+AtkII 160 G 10.000 F
+AtkIII 200 G 10.000 F
+DefI 360 G 3.000 F
+DefII 500 G 16.000 F
+DefIII 16.100 W 
+
+Upgrade cost for delaware spearman-line
+AtkI 30 G 125 F
+AtkII 70 G 225 F
+AtkIII 110 G 250 F
+DefI 150 G 2000 F
+DefII 200 G 2000 F
+DefIII 400 G 1000 F
+
+Upgrade cost for armored warrior-line
+AtkI 140 G 10000 F
+AtkII 920 G 40000 F
+AtkIII 3100 G 2000 F
+DefI 100 G 20000 F
+DefII 1600 W 750 G 7000 F
+DefIII 2500 W 30000 F
+
+Upgrade cost for Sioux Archer-line
+AtkI 6.350 F
+AtkII 10.000 F
+AtkIII 12.500 F
+DefI 8.100 F
+DefII 34.000 F
+DefIII 10.000 F
+
+Upgrade cost for Mounted pikeman-line
+AtkI  400 G 22.000 F
+AtkII 500 G 20.000 F
+AtkIII 400 G 30.000 F
+DefI 520 G 22.000 F
+DefII 500 G 22.000 F
+DefIII 500 G 32.000 F
+
+Upgrade cost for Horse Archer-line
+AtkI 20.500 F
+AtkII 3500 G 20.000 F
+AtkIII 25.000 F
+DefI 3000 F
+DefII 13.000 F
+DefIII 8600 F
+
+Upgrade cost for Horse shooter-line
+AtkI 2000 G 10.000 F
+AtkII 6600 G 10.000 F
+AtkIII 2000 G 30.000 F
+DefI 2900 G 15.000 F
+DefII 4000 G 30.000 F
+DefIII 1000 G 10.000 F
+
+Upgrades cost for pueblo shooter-line
+AtkI 50 G 4800 F
+AtkII 160 G 11500 F
+AtkIII 200 G 10000 F
+DefI 350 G 3200 F
+DefII 800 G 10000 F
+DefIII 16100 W 10000 F
+
+Europeans (Piemonte-Genoa-Venetia-Latium-Sicilians, Usa-Brit, France-Dutch, Spain-Portugal,
+Germany-Bohemia-Swiss, Danes-Norvegians-Swedes, Greeks-Serbians) [19]
+ITALIANS
+-Dock and Town center upgrades cost -20%
+-Shooters cost -20%
+-Fishing ship cost -20%
+-Farm upgrades have greater effect
+-Start with +20% S
+-Archers, crossbowmen, +2/2 defense
+-Can train missionary
+
+BRIT
+-Longbow and Archer upgrades cost -90%
+-Archers are created 25% faster
+-Town Center, Church cost -40%
+
+USA
+-Can train Militianman at House II
+-Better fusilier
+-Hunter cost -50%
+
+FRANCE
+-Mounted units and fusilier +20% HP
+-Farmer work 25% faster
+-Fortress/Castle +30% HP
+
+DUCTH
+-Stable and eco upgrades cost -50%
+-Can train Villager for 10 G
+-Hunter cost -50%
+-Can train Ryuter at Stable
+
+SPAIN
+-Can train Conquistador at Stable and Fortress
+-Blacksmith upgrades cost no G
+-Builder work 50% faster
+-Infantry +10 arrow resistence
+-Can train missionary
+
+PORTUGAL
+-Units cost -20% G
+-Technologies are researched 100% faster
+-Builder work 50% faster
+-Warships +20% HP
+-Can train missionary
+
+GERMANY
+-Military buildings +10 population +10 inside
+-Double armor upgrades effect
+-Mills cost -50%
+
+SWEDES
+-Can buld Torb
+-Can train Carolean at Fortress at Barracks
+-Eco and Blacksmith upgrades cost -50%
+-Spearman/pikeman/halberdier +20% HP
+
+GREEKS
+-Buildings +20% HP
+-spearman/pikeman/halberdier and archers cost -30%
+-Fireship cost -25%, fire 20% faster
+-Towers cost -20%
+
+Buildings
+--Fort 500 W 100 S mul 100 max 3  MaxInside 75 MaxPop 75
+HP 25.000
+unlock officers +10.000 HP  1000 W
+
+--House 50 W 50 S mul 3 max 7 HP 5000 MaxInside 5 MaxPop 25
+
+--Mill 200 W 100 S mul 4 max 6 HP 5000 MaxInside 15 MaxPop 15
+food +100% 6000 W 12.000 F
+food +70%  2000 G 1500 I
+food +130% 11.000 W 60.000 F
+field +100% 14.000 W 25.000 F
+field +100% 28.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 max 6 HP 5000 MaxInside 15 MaxPop 15
+wood +100%  2100 G 31.000 F
+wood +50%   2600 G 65.000 F
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 5 HP 5500 maxInside 10 MaxPop 10
+field +100% 150 W 150 G
+armored units +6 armor  20500 W 1500 G 6200 I
+halberdier/pikeman/spearman +100% creation speed 35.000 W 2500 G 16.000 I (900 G 12.500 W Spain7Germany) 
+arquebus +100% creation speed  85.000 W 55.000 F 5000 C
+musket +100% creation speed 3000 G
+fusilier +100% creation speed  65.000 G
+
+--Mine 50 W 5000 HP inside 5-100
+
+--Fortress/Castle 4500 W 4000 G 5500 S mul 5 max 3 MaxInside 300 MaxPop 300
+HP 40.000
+unlock cavalry +10.000 HP 2000 W 5000 S     (USA,BRIT,FRA,PORT,DUTCH 3500 G 5000 S)
+unlock artillery +10.000 HP 10.000 W 2000 S (USA,BRIT,FRA,PORT,DUTCH +5000 S)
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+--House II 2000 W 50 S mul 3 max 7 HP 15.000 MaxInside 15 MaxPop 200
+
+--Town Center 5000 S 2400 W mul 10 max 3 (Germany 5000 W 2000 G 2000 S) HP 25.000 MaxIn 25 MaxPop 25
+paesant +15% creation speed 2600 G 69.000 W 108.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  28300 W 6000 S
+---
+blockhouses, Fortress/Fort/Castle +5 armor  65.000 W 10.000 S
+construction speed +75% 20.000 W 4000 S
+unlock house II 4000 W 4000 S 1320 G (+5000 W for Portugal)
+---
+enable officers 18th century, fusilier +100% creation 2000 G 8750 I
+musket,arquebus +5 attack  2000 G 4800 I  
+musket, fusilier, draggon +35% fire rate 6200 G 3500 I 8900 C
+---
+fusilier +35% fire rate 3200 I 11500 C
+shooter +10% power 1000 G 6200 C 
+ballistics 10.000 G
+fusilier -20% scatter  15500 G 7300 I 3200 C
+---
+
+
+--Church 150 W 600 S mul 10 max 3 HP 35.000 MaxIn 50 MaxPop 50
+Build hospital  6200 G 4300 W
+Heal all units by 10%: 700 G 2000 W 600 S
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 MaxIn 50 MaxPop 50
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 G
+
+--BlockHouse I 500 W 500 S mul 5 max 6 HP 20.000 maxIN 20 MaxPop 20
+--Blockhouse II 2000 W 200 S 400 I 400 C mul 2 max 7 HP 30.000 MaxIn 30 MaxPop 30
+--Hunting Lodge 1000 W mul 10 max 4 HP 15.000 Maxin 25 Maxpop 25
+
+--Stable 9000 W 1500 G 2500 S mul 10 max 4 MaxIn50 Maxpop 50
+HP 55.000
+unlock draggon 17 20000 W
+unlock draggon 18 26000 W
+unlock officer m17 34000 W
+unlock officer m18 63000 W
+cavalry +100% creation speed 2800 G 70.000 W 18.000 S
+
+Europeans MaxInside 2525 MaxPopulation 4065
+
+Units
+Paesant
+HP 100
+Sword 14 (12 Usa,Brit) Fr 60 storm 10
+F 100 Fr 200-180 (Rus F 20 Fr 200-133)
+
+Spearman
+HP 100
+lance 8-16 Fr 20    D 0-16/0-16   storm 15
+F 100 W 10 I 5  Fr 100-50
+
+Pikeman
+HP 100 
+lance 10-20  Fr 20   D4-26/4-26  150 arrow protection storm 20
+F 130 I 15 G 2  Fr 200-100
+
+Halberdier
+HP 125
+lance 14-30  Fr 30   D 4-30/4-30  180 arrow protection storm 30
+F 125 I 25 G 1  Fr 200-100
+
+Arquebusier
+HP 100
+sword 12-25 Fr 80 (France Fr 50)
+rifle 300-330  Fr 600 range 12
+D 8-22/2-16 150 arrow protection (France 4-14/6-16)   storm 20
+F 100 Fr 50-25  
+
+Musketter
+HP 125
+Sword 12-24 (28 USA/BRIT) Fr 50
+rifle 400-440 Fr 540-440 range 15
+D 1-28/5-32  (Spain/Germany +150 arrow protection) storm 25
+F 240 G 10 C 10 Fr 60-30
+
+Fusilier
+HP 125 (100 USA/BRIT)
+lance 12-24 Fr 30
+rifle 600-660 Fr 560-360  (Usa 280-180)  range 20
+D 0-18/0-18  storm 50    salary 1->80
+F 300 G 15 Fr 400-133
+F 100 G 45 I 45 Fr 480-160 (USA)
+
+Priest
+HP 30 Healing 50 Fr 100 range 4
+F 600 G 10 Fr 1800
+
+Minute man
+HP 100
+Sword 12 Fr 50 rifle 250 Fr 250 range 12  salary 1->4
+Free Fr 50
+
+Officer 17/18
+HP 125
+sword 50-75 / 150-175 Fr 50   D 0-21/0-21 (+7)  storm 100
+F 300 G 50/200  Fr 150
+
+Drummer 17/18
+HP 100  D 0-14/0-14 (+7) storm 100   
+F 100 G 10/300 Fr 150
+
+Standard 17/18
+HP 100 D 0-21/0-21 (+7) storm 100
+F 100 G 20/500 Fr 150
+
+Hunter
+HP 100
+Sword 20 Fr 60
+Rifle 400-440 Fr 440 range 15  storm 20
+G 150 Fr 400
+
+Dragoon 17/18
+HP 300/400
+Sword 12-28 Fr 50 bx 20
+rifle 350-385/400-440  Fr 240-180  range 15
+D 0-20/10-30  storm 100   salary 1->16
+F 2000/5000 G 20/50 Fr 600-300
+
+Mounted officer
+HP 600
+Sword 50-75/80-120 Fr 50
+rifle 200 Fr 100 range 5
+D 0-24/0-24  storm 100  
+F 4000 G 450 Fr 1200-600
+
+Mounted Standard
+HP 300 D 0-28/0-28 storm 100
+F 1250 G 150 Fr 400-200
+
+Conquistador
+HP 400
+Sword 20-32 Fr 50 bx 10
+Rifle 200 Fr 100 range 5
+D 16-40/0-24  150 arrow protection   storm 100
+F 6000 G 50 W 150 I 50  Fr 100-50
+
+Lancer
+HP 600
+Lance 12-24 Fr 36  bx 5
+D 6-20/0-14  storm 20
+F 600 W 35 I 25 Fr 800-640
+
+Cannon
+HP 2000
+Gun 4000 Fr 800-440 Range 100-125
+W 2500-1750 G 50-35 I 1000-700 C 150-105  Fr 3000-1000
+max 5 per castle/fortress mul 1.3 
+
+Unit upgrades
+Upgrade cost for Halberdier/pikeman/spearman-line
+AtkI 50 G 3400 F
+AtkII 160 G 34100 F
+AtkIII 200 G 125300 F
+DefI 190 G 550 F 
+DefII 800 G 13900 F 
+DefIII 1400 G 112000 F
+
+Upgrade cost for Arquebusier-line
+AtkI 50 G 150 F
+AtkII 700 G 700 F
+AtkIII 2000 G 23300 F
+DefI 190 G 800 F  
+DefII 800 G 3400 F 
+DefIII 600 G 5300 F 
+
+Upgrade cost for Musketter-line
+AtkI 500 G 12800 F
+AtkII 150 G 44100 F
+AtkIII 18200 G 43300 F
+DefI 1100 G 4550 F
+DefII 650 G 15200 F
+DefIII 7750 G 89600 F 12000 C 2700 I
+
+Upgrade cost for Fusilier-line
+AtkI 500 G 12800 F
+AtkII 700 G 44000 F
+AtkIII 19500 G 43300 F
+DefI  240 G 1350 F
+DefII 950 G 15200 F
+DefIII 2000 G 72600 F
+
+Upgrade cost for Dragoon-line
+AtkI 320 G 7200 F  (+13000 F for 18th)
+AtkII 700 G 74000 F (-540 G for 18th)
+AtkIII 18200 G 22300 F
+DefI 1000 G 24200 F (-890 G for 18th)
+DefII 800 G 73000 F (-480 G for 18th)
+DefIII 1800 G 72600 F (-1425 G for 18th)
+
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+
+Upgrade cost for Conquistador-line
+AtkI 320 G 12800 F
+AtkII 1750 G 42000 F
+AtkIII 700 G 92600 F
+DefI 70 G 12800 F
+DefII 80 G 37000 F
+DefIII 100 G 72600 F
+
+Upgrade cost for Cossack-line
+AtkI 120 G 18800 F
+AtkII 750 G 42000 F
+AtkIII 1450 G 92600 F
+DefI 90 G 11200 F
+DefII 750 G 37000 F
+DefIII 1525 G 72600 F
+
+Slavs (Russia-Poland-Lituania-Ukraine)  [4]
+RUSSIA
+-artillery and siege units cost -20%
+-Blacksmith upgrades cost no W or F
+-paesants cost only 20 F
+
+POLAND
+-can build folwark
+-Stone miner generate 0.25 G for each unit of stone mined
+-paesants cost only 20 F
+
+LITUANIA
+-Defensive buildings +10% range
+-Melee cavalry +4 attack
+-paesants cost only 20 F
+
+Buildings
+---Fort 500 W 100 S mul 100 max 3 MaxInside 75 MaxPop 75
+HP 25.000
+unlock strelet +10.000 HP 2000 S
+---House 50 W 20 S mul 3 max 7 HP 5000 MaxInside 10 MaxPop 45
+
+--Mill 200 W 100 S mul 4 max 6 Maxin 15 Maxpop 15
+food +100% 15.000 W 12.000 F 
+food +200% 2000 G 4000 S
+field +100% 25.000 W 1100 I
+field +100% 6400 W 750 G
+
+--Storehouse 200 W mul 10 max 4 maxin 15 maxpop 15
+wood 100% 1750 I 3900 S
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 5 HP 5500 maxin 10 maxpop 10
+field +100% 500 G 2500 I
+spearman +100% creation speed 25.000 W 1800 G 4200 I
+strelet +100% creation speed 28.000 W 40.000 F 1250 G 5000 C
+fusilier +35% creation speed 35.000 G
+
+--Mine 50 W 5000 HP inside 5-100
+
+--Fortress 8000 W 4000 G 500 S mul 8 max 3 maxin 300 maxpop 300
+HP 40.000
+unlock cavalry and artillery +20.000 HP 20.000 W 1000 S
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+---House II 2000 W 50 S  mul 3 max 7 HP 15.000 maxin 30 maxpop 200
+
+---Town Center 9200 S 2200 W mul 10 max 3    HP 25.000 maxin 25 max pop 25
+paesant +50% creation speed 29.000 W 4000 G 50.000 F
+enable mine upgrades, reveal all deposits 2000 G
+buildings +3 armor 28300 W 6000 S
+---
+construciotn speed +75% 20000 W 4000 S
+blockhouses, fortress +5 armor  2100 G 4200 S 
+unlock house II 4000 W 4000 S 1320 G
+---
+musket, fusilier, draggon +35% fire rate 6700 G 3500 I 8900 C
+fusilier +35% fire rate 4100 I 11500 C
+ballistics 10.000 G
+
+--Churh 750 W mul 10 max 3 HP 15.000 maxin 50 maxpop 50
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 maxin 50 maxpop 50
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 
+
+--Blockhouse II 2000 W 2000 S 600 I 500 C mul 2 max 6 HP 30.000 maxin 30 maxpop 30
+
+--Stable 9000 W 1500 G 500 S mul 2 max 7 HP 25.000  maxin 50 maxpop 150
+unlock officer m18 63000 W
+dragoon 18 +100% creation, cossack +25% creation 61000 W 2500 G 18000 S 
+
+Slavs MaxInside 2595 MaxPopulation 4695
+
+Units
+Spearman
+HP 100
+lance 8-16 Fr 20    D 0-16/0-16   storm 15
+F 50 W 10 I 7  Fr 100-50
+
+Strelet
+HP 125
+sword 15-30 Fr 50
+rifle 400-440  Fr 540-440 range 15
+D 1-28/5-28  150 arrow protection   storm 20
+F 220 G 20 Fr 100-50
+
+
+Fusilier
+HP 125  
+lance 12-24  Fr 30
+rifle 600-660  Fr 560-360  range 20
+D 0-18/0-18  storm 50
+F 470 G 10 I 45 C 30 Fr 130-80 
+
+Priest
+HP 30
+Healing 100 Fr 100 range 4
+500 F 20 G Fr 1800
+
+Officer 17/18
+HP 125
+sword 50-75 / 150-175 Fr 50   D 0-21/0-21 (+7)  storm 100
+F 300 G 50/200  Fr 150
+
+Drummer 17/18
+HP 100  D 0-14/0-14 (+7) storm 100   
+F 100 G 10/300 Fr 150
+
+Standard 17/18
+HP 100 D 0-21/0-21 (+7) storm 100
+F 100 G 20/500 Fr 150
+
+Hunter
+HP 100
+Sword 20 Fr 60
+Rifle 400-440 Fr 440 range 15  storm 20
+G 150 Fr 400
+
+Dragoon 118
+HP 420
+Sword 12-28 Fr 50 bx 20
+rifle 400  Fr 240-180  range 15
+D 0-20/10-30  storm 100   salary 1->16
+F 5000 G 50 Fr 600-300
+
+Mounted officer
+HP 600
+Sword 80-120 Fr 50
+rifle 200 Fr 100 range 5
+D 0-24/0-24  storm 100  
+F 4000 G 450 Fr 1200-600
+
+Mounted Standard
+HP 300 D 0-28/0-28 storm 100
+F 1250 G 150 Fr 400-200
+
+Cossack
+HP 600
+Lance 12-24 Fr 36  bx 5
+D 6-20/0-14  storm 20
+F 600 W 35 I 25 Fr 800-640
+
+Cannon
+HP 2000
+Gun 4000 Fr 800-440 Range 100-125
+W 2500-1750 G 50-35 I 1000-700 C 150-105  Fr 3000-1000
+max 5 per castle/fortress mul 1.3
+
+Unit Upgrades
+Upgrade cost for spearman-line
+AtkI  500 G 1000 F
+AtkII 700 G 5100 F
+AtkIII 200 G 125300 F
+DefI 190 G 4900 F
+DefII 800 G 19900 F
+DefIII 1400 G 62600 F
+Upgrade cost for Strelet-line
+AtkI 50 G 150 F
+AtkII 700 G 700 F
+AtkIII 2000 G 23300 F
+DefI 625 G 5000 F  
+DefII 2300 G 16300 F 
+DefIII 3000 G 90.000 F 4200 I
+Upgrade cost for Fusilier-line
+AtkI 500 G 12800 F
+AtkII 700 G 44000 F
+AtkIII 19500 G 43300 F
+DefI  240 G 1350 F
+DefII 950 G 15200 F
+DefIII 2000 G 72600 F
+Upgrade cost for Dragoon-line
+AtkI 320 G 20.200 F  
+AtkII 160 G 74000 F 
+AtkIII 18200 G 22300 F
+DefI 110 G 24200 F 
+DefII 320 G 73000 F 
+DefIII 375 G 72600 F 
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+Upgrade cost for Cossack-line
+AtkI 120 G 18800 F
+AtkII 750 G 42000 F
+AtkIII 1450 G 92600 F
+DefI 90 G 11200 F
+DefII 750 G 37000 F
+DefIII 1525 G 72600 F
+
+British Isles (Scots-Irish-Welsh)  [3]
+SCOTS
+
+The Islanders train all infantry at the castle, which replace the Fort and Fortress
+Can train militia at the town center
+Buildings
+---Castle 8500 W 4000 G 6500 S mul 5 max 3 Maxin 300 maxpop 300
+HP 55.000
+unlock shooters +20.000 HP 5000 W 12.500 S 5000 G
+
+---House I 50 W 50 S mul 3 max 8 HP 5000 maxin 10 maxpop 25
+---House II 1500 W 90 S mul 3 max 7 Hp 15.000 maxin 20 maxpop 225
+--Mill 200 W 100 S mul 4 max 6 HP 5000 maxin 15 maxpop 15
+food +100% 6000 W 12.000 F
+food +100%  2000 G 1500 I
+food +100% 11.000 W
+field +100% 6.000 W 5.000 F
+field +100% 4.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 max 6 HP 5000 maxin 15 maxpop 15
+wood +100%  100 G 21.000 F
+wood +50%   100 G 10.000 F
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 5 HP 5500 maxin 10 maxpop 10
+field +100% 150 W 150 G
+spearman/swordman +100% creation speed 1000 G
+archer +50% creation speed 3000 G
+shooter +35% creation speed 5000 C
+
+--Mine 50 W 5000 HP inside 5-100
+
+--Town Center 550 S 100 W mul 10 max 4 HP 25.000 maxin 25 maxpop 25
+paesant +25% creation speed  8.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  8300 W
+---
+blockhouses, Fortress/Fort/Castle +5 armor  5.000 W
+construction speed +75% 20.000 W
+unlock house II 4000 W 4000 S 1400 G 
+---  
+shooter +70% fire rate 1800 G 5500 I 2800 C
+ballistics 10.000 G
+archers -70% scatter 10.000 W 5000 G
+---
+
+--Church 350 W 600 S mul 10 max 3 HP 35.000 maxin 50 maxpop 50
+Build hospital  700 G
+Heal all units by 10%: 1200 G
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 maxin 50 maxpop 50
+warships cost -20%   5000 G
+ferry +100% speed 250 W 2500 G
+
+--Fort 1000 W 1000 S 200 I 200 C mul 4 max 6 HP 55.000 maxin 50 maxpop 50
+
+--Stable 11.000 W 2000 G 3000 S mul 10 max 4  HP 55.000 maxin 50 maxpop 50
+
+Gaels maxinside 2315 maxpopulation 4065
+
+Units
+Paesant
+HP 100 Sword 15 Fr 50 storm 20
+F 120 Fr 200-160
+
+Spearman
+HP 100
+Lance 10-20 Fr 20
+D 0-20/0-20 storm 20
+F 100 W 20 I 12 Fr 100-50
+
+Swordman
+HP 150
+Sword 30-50 Fr 50 bx 10
+D 4-24/4-24 150 arrow protection storm 50
+F 100 G 50 W 200 Fr 900-450
+
+Archer
+Hp 150
+Sword 14-28 Fr 50
+Bow 240  Fr 80  range 20
+D 0-16/0-16  storm 30
+F 200 W 20 Fr 450-300
+
+Shooter
+Hp 100
+Sword 12-24 Fr 50
+Rifle 500 Fr 560-360 Range 15
+D 0-10/0-10 Storm 20
+F 300 G 30 Fr 140-105
+
+Lancer
+Hp 400
+Lance 12-24 Fr 36  bx 10
+D 0-12/0-12  storm 30
+F 1500 Fr 600
+
+Priest
+HP 30
+Healing 100 Fr 100 range 4
+500 F 20 G Fr 1800
+
+
+Eastern Europe (Armenians-Georgians-Kazarians-Rumenians) [4]
+ARMENIANS
+GEORGIANS
+KAZARIAN
+VLACH
+Cannot build storehouses or mines, they use mule carts to gather resources
+Buildings
+---Castle 3000 W 2000 G 3000 S mul 11 max 3 maxin 300 maxpop 300
+HP 45.000
+unlock cavalry +10.000 HP  
+unlock shooter +10.000 HP
+unlock artillery +10.000 HP
+artillery -70% scatter 2900 G 2000 I 2800 C
+artillery +25% range 9100 G 5150 I 7150 C
+artillery +70% fire rate 1500 G 4300 I 8700 C
+cannon -30% cost 8400 W 6550 G
+
+---House 50 W 50 S mul 3 max 7 HP 5000 maxin 10 maxpop 25
+
+--Mill 200 W 100 S mul 4 max 6 HP 5000 maxin 15 maxpop 15
+food +100% 6000 W 12.000 F
+food +100%  2000 G 1500 I
+food +100% 1.500 W 10.000 F
+field +100% 4.000 W 25.000 F
+field +100% 4.000 W 450 G 450 I
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 5 HP 5500 maxin 10 max 10
+field +100% 150 W 150 G
+armored units +6 armor  1500 G 2200 I
+halberdier/pikeman/spearman +100% creation speed 2500 G
+arquebus +100% creation speed  500 G
+musket +100% creation speed 3000 G
+fusilier +100% creation speed  5.000 G
+
+--House II 900 W 150 S mul 3 max 7 HP 15.000 maxin 15 maxpop 225
+
+--Town Center 750 S 850 W mul 10 max 4 HP 25.000 maxin 25 maxpop 25
+paesant +50% creation speed 2000 G 8.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor, castles, forts +8 armor  6300 W
+---
+unlock house II 4000 W 4000 S 2000 G
+enable officers 18th century, fusilier +100% creation 2000 G  
+musket, fusilier, draggon +35% fire rate 6500 G 3000 I 9000 C
+---
+fusilier +35% fire rate 5000 I 5000 C
+cavalry +5 melee Atk  3000 G 
+ballistics 10.000 G
+---
+
+--Church 250 W 600 S mul 10 max 3 HP 35.000 maxin 50 maxpop 50
+Build hospital  6200 G 2300 W
+Heal all units by 10%: 700 G 2000 W 600 S
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 maxin 50 maxpop 50
+warships cost -20%   5000 G
+ferry +100% speed 250 W 2200 G
+
+--BlockHouse I 500 W 500 S mul 5 max 6 HP 20.000 maxin 20 maxpop 20
+--Blockhouse II 2000 W 200 S 400 I 400 C mul 2 max 7 HP 30.000 maxin 30 maxpop 30
+
+--Stable 9000 W 1500 G 2500 S mul 10 max 4  maxin 50 maxpop 50
+HP 55.000
+unlock officer m18 13000 W
+cavalry +100% creation speed 800 G
+
+E.Europeans Maxinside 2215 Maxpopulation 3790
+
+Units-same as europeans, but without 17th cavalry, paesant cost 80 F
+Plus: Mule cart:
+HP 1000, cannot enter buildings, made at the town center
+W 50 G 5 F 10 Fr 500  mul 2.2 max 15
+
+
+
+
+North-African (Malian-Egypt-Etiopians-Berbers-Algeria) [5]
+MALIAN
+-gold miner works 25% faster
+-buildings cost -50% W
+-sperman +50 arrow protection
+
+EGYPT
+
+ETIOPIANS
+-archers fire 33% faster
+-spear upgrades are free
+-start with +10% in all resources
+
+BERBERS
+ALGERIA
+They can build markets, and buildings cost less wood overall.
+Mine upgrades cost less.
+Buildings
+--Barrack 100 W 150 S mul 100 max 3  maxin 50 maxpop 50
+HP 25.000
+unlock officers +20.000 HP  1000 W
+
+--House 10 W 60 S mul 3 max 7 HP 5000 maxin 10 maxpop 50
+
+--Mill 200 W 200 S mul 4 max 6 HP 5000 maxin 30 maxpop 20
+food +100% 1000 W 12.000 F
+food +70%  2000 G 1200 I
+food +130% 11.000 W
+field +100% 4.000 W 5.000 F
+field +100% 8.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 max 6 HP 5000 maxin 20 maxpop 20
+wood +100%  100 G 31.000 F
+wood +50%   600 G 65.000 F
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 5 HP 5500 maxin 10 maxpop 10
+field +100% 150 W 150 G
+spearman +100% creation speed 2500 G  
+shooter +100% creation speed  5.000 G 5500 I
+
+--Mine 50 W 5000 HP inside 5-100
+
+--Fortress/Castle 4000 W 3000 G 4500 S mul 10 max 3 maxin 300 maxpop 300
+HP 40.000
+unlock cavalry +10.000 HP 2000 W 5000 S     
+unlock artillery +10.000 HP 3000 S 
+artillery -70% scatter 3000 G 2000 I 
+artillery +25% range 1100 I 
+artillery +70% fire rate 1500 G 3000 I 
+cannon +140% creation speed 2000 G
+cannon -30% cost 8400 W 2300 G
+
+--House II 400 W 200 S mul 3 max 7 HP 15.000 maxin 20 maxpop 200
+
+--Town Center 5500 S 400 W mul 10 max 3  HP 25.000 max 25 maxpop 25
+paesant +15% creation speed 800 G 8.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  2300 W 6000 S
+---
+blockhouses, Fortress/Fort/Castle +5 armor   10.000 S 
+unlock house II,construction speed +75% 10.000 S
+archers -70% scatter 20.000 W 5000 G
+---
+enable officers 18th century, fusilier +100% creation 2000 G 750 I 
+shooters +70% fire rate, +100 power  2500 G 2600 C 1200 I
+ballistics 10.000 G
+---
+
+
+--Church 150 W 600 S mul 10 max 3 HP 35.000 maxin 50 maxpop 50
+Build hospital  1600 G
+Heal all units by 10%: 1500 G
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 maxin 50 maxpop 50
+warships cost -20%   5000 G
+ferry +100% speed 600 G
+
+--Fort 100 W 2500 S 500 I 500 C mul 2 max 10 HP 30.000 maxin 30 maxpop 30
+
+--Stable 5000 W 5000 S mul 10 max 4  maxin 50 maxpop 50
+HP 55.000
+cavalry +25% creation speed 2000 G
+
+African maxinside 2585 maxpopulation 4065
+
+Units-same as europeans, but without dragoon,paesant cost 75 F
+Zagan spearman replace spear-line
+akan shooter replace arquebus/musket/fusilier
+can train archers and lancers
+
+
+South-African (Tanzania-Wagadogou-Congo-Mossi)  [4]
+TANZANIA
+WAGADOGOU
+CONGO
+MOSSI
+Specialize in aggression, they have low defense.
+--Fortress 4000 W 2000 G 3000 S mul 10 max 3 maxinside 300 maxpop 300
+HP 35.000
+unlock cavalry +10.000 HP
+unlock shooters +10.000 HP
+unlock artillery +10.000 HP
+
+--House 50 W 50 S mul 3 max 7 HP 5000 maxin 10 maxpop 50
+--House II 300 W 50 S mul 3 max 8 HP 15000 maxin 20 maxpop 250
+--Mill 100 W 100 S mul 4 max 6 HP 5000 maxin 25 maxpop 25
+
+--Storehouse 25 W 100 S mul 5 max 6 HP 5000 maxin 20 maxpop 20
+
+--Blacksmith 50 W 50 S 10 I mul 5 max 6 HP 5500 maxin 10 maxpop 10
+
+--Mine 50 W HP 5000 inside 5-100
+
+--TownCenter 7500 S 2500 W mul 10 max 3 HP 25.000 maxin 25 maxpop 25
+
+--Temple 250 W 500 S mul 10 max 3 HP 45.000 maxin 35 maxpop 15
+
+--Shipyard 100 W 1000 S mul 5 max 5 HP 25.000 maxin 35 maxpop 15
+
+--Tower 800 W 1200 S mul 1.4 max 13 HP 25.000 Maxin 25 maxpop 15
+
+--Scout Tower 50 W 50 S mul 1.4 max 20 HP 4000 Maxin 5 maxpop 5
+
+S.African Maxinside 2230 Maxpopulation 3880
+
+MiddleEast (Arabians-Pakistan-Deccanis-Ommayads-Turks)  [5]
+ARABIANS
+DECCANIS
+TURKS
+OMMAYADS
+--Barrack 250 W 250 S mul 10 max 5 HP 20.000
+
+--Stable 1000 W 400 S mul 10 max 4 HP 40.000
+
+--Mill 100 W 100 S mul 4 max 6 HP 5000
+
+--House I 50 W 50 S mul 3 max 7 HP 5000
+
+--Storehouse 25 W 100 S mul 5 max 6 HP 5000
+
+--Blacksmith 50 S 10 I mul 5 max 6 HP 5500
+
+--Mine
+
+--Castle 1000 W 4000 G 1200 S mul 8 max 3
+
+--House II 1000 W 150 S mul 3 max 7 HP 15.000
+
+--Accademy 4000 S 4000 W mul 22 max 3 HP 25.000
+
+--Market 750 S 750 W mul 10 max 4 HP 5000
+
+--Church 250 W 500 S mul 10 max 3 HP 35.000
+
+--Fort 2000 W 2000 S 400 G mul 2 max 7 HP 30.000
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000
+
+India (Hindustan-Dravidian-Cholan-Gurjaras-Bengalis-Thelugus)  [6]
+HINDUSTANIS
+DRAVIDIAN
+CHOLAN
+GURJARA
+BENGALI
+THELUGUS
+--Barrack 250 W 250 S mul 10 max 5 HP 25.000
+--Stable 1000 W 500 S mul 10 max 4 HP 40.000
+--Mill 300 W 150 S mul 3 max 7 HP 5000
+--House I 100 W 100 S mul 2 max 10 HP 5000
+--Storehouse 30 W 250 S mul 4 max 6 HP 5000 
+--Blacksmith 100 W 100 S 25 I mul 4 max 6 HP 5500
+--Mine 
+--Castle 2000 W 2000 G 3000 S mul 10 max 3 HP 35.000
+--House II 2000 W 50 S mul 3 max 7 HP 15.000
+--Accademy 7500 S 4500 W mul 10 max 3 HP 25.000
+--Caravanserai 1250 W 1250 S mul 10 max 4 HP 45.000
+--Artillery Deposit 2500 W 2500 S mul 10 max 3 HP 15.000
+--Temple 750 S mul 10 max 3 HP 75.000
+--Tower 750 W 1250 S mul 1.4 max 14 HP 30.000
+--Shipyard (can be upgraded to Harbour) 1000 W 1000 S mul 5 max 5 HP 15.000
+
+
+
+South-Asia (Vietnam-Birmania-Kmer-Malesia-Polinesia-Thai)  [6]
+VIETNAM
+BIRMANIA
+KMER
+MALESIA
+POLINESIA
+THAI
+Can build Wet Hut, which produce a small tickle of food while garrisoned
+with villagers. Fortress builds all units.
+--Fortress 300 W 300 S mul 10 max 4 HP 35.000 maxin 100 maxpop 100
+
+--Wet Hut (for Polynesia,Malesia) 200 W mul 10 max 4 HP 15.000 maxin 30 maxpop 15
+
+--House (can be upgraded to House II) 50 W 40 S mul 3 max 9 HP 5000 maxin 25 maxpop 25
+upgrade house, +75 pop +10.000 HP
+upgrade house, +75 pop +10.000 HP
+upgrade house, +75 pop +10.000 HP
+
+--Mill (not for Polinesia/Malesia) 200 W 100 S mul 4 max 6 HP 5000 maxin 20 maxpop 10
+
+--Store pit (doubles as a mine) 5 W 40 S mul 5 max 7 HP 10000
+
+--Scout tower (can be upgraded to Tower) 50 W 50 S mul 2 max 12 HP 4000 maxin 5 maxpop 5
+upgrade tower, +25 inside, +6000 HP     1000 W 1000 S
+
+--Temple (doubles as town center) 500 W 1000 S mul 10 max 4 HP 60.000 maxin 75 maxpop 75
+
+--Shipyard (can be upgraded to Harbour) 1000 W 1000 S mul 5 max 5 HP 15.000 max 35 maxpop 35
+upgrade defenses, +15.000 HP +40 pop +5 armor
+upgrade houses, +5000 HP +100 pop
+
+Malesia maxinside 1580 maxpopulation 3945
+
+West-Asia (Korea-Japan) [2]
+
+KOREA
+-military units cost -50% W
+-free Shipwright
+-Stone miner works 25% faster
+-Armor and Tower upgrades are free
+
+JAPAN
+-infantry +3 attack
+-Storehouses, mills cost-50%
+-fishing ships work 25% faster
+-Fortress works 25% faster
+
+
+--Fort
+--House I
+--Mill
+--Storehouse
+--Blacksmith
+--Mine
+--Castle
+--House II
+--Accademy
+--Shipyard
+--Temple
+--Fort
+--Artillery Deposit
+
+North-Asia (Mongols-Tatars) [2]
+Nomadic, population is already capped, uses mule karts to carry resources.
+Focus on cavalry. Cannot build mills.
+The main Gurt trains all military foot units, while the stable trains cavalry.
+
+MONGOLS
+
+TATARS
+
+-Village Gurt 600 W mul 100 max 3 HP 15.000 maxin 50
+archers -70% scatter 150 W 100 G
+wood +20% 2000 G 2500 I
+cavalry +5 melee atk 15.000 W 5000 I
+---
+cavalry +5 lance defense 10.000 I
+cavalry +25% creation speed 45.000 W 10.000 G
+cavalry +10% HP 1250 G
+
+-Gurt 100 W mul 3 max 10 HP 5000 maxin 10
+
+-Shipyard 1200 W mul 3 max 7 HP 15.000 maxin 25
+
+-Stable 250 W mul 10 max 5 HP 15.000 maxin 50
+
+-Market 750 W mul 10 max 5 HP 5000 maxin 25
+
+Nomads maxinside 800 maxpopulation 2000
+
+Units
+Hunter-Paesant
+Steppe Lancer
+Tarkan
+Mangudai
+Rifle Rider
+Shaman
+Mounted Chief
+Trebuchet
+Battle Ram
+Steppe pikeman
+Steppe archer
+
+
+Central Asia (Han-Jurchen-Tibetans-Kithans)  [4]
+HAN
+-Paesants, all technologies cost -20%
+-Building walls together makes them 50% stronger
+-Cavalry attack 10% faster
+
+JURCHEN
+TIBETANS
+KITHANS
+--Fort
+--House I
+--Mill
+--Storehouse
+--Blacksmith
+--Mine
+--Castle
+--House II
+--Accademy
+--Shipyard
+--Temple
+--Fort
+--Artillery Deposit
+
+
+Naval units
+
+Ferry
+HP 50-65.000
+Carry 250
+W 100 G 25 I 50 mul 10 max 3 Fr 400
+
+Rowboat
+HP 2500 D 150
+rifle 800 Fr 80 Range 20
+W 1200 G 400 I 100 Fr 2000  mul 1.02
+
+Caravel
+HP 56.000
+cannon 4000  Fr 200 Range 50
+W 3600 G 1500 I 600 C 600 Fr 2000 mul 2 max 5
+
+Galleon
+HP 60.000
+Cannon 4000 Fr 40 range 10-70
+W 10.000 G 7000 I 2000 C 2000 Fr 3000 mul 2 max 4
+
+Frigate
+HP 75.000
+Cannon 4000 Fr 40 range 30-100
+W 75.000 G 25.000 I 5000 C 5000 Fr 5000 mul 2 max 3
+
+Fishing canoe
+HP 1500 D 160-175
+Bow 200 Fr 80 Range 20
+W 1000 Fr 1000 Mul 1.02 max 40
+
+Battle canoe
+HP 3000 D 160-175
+Bow 200 Fr 80 Range 20-40
+W 2000 G 400 I 250 Fr 2000-1000 Mul 1.02 max 40
+
+
+Iron Age Civilizations
+
+Romans, Greeks, Gauls, Britons, Germans, Iberians, Cartaginians, Egyptians, Persians, Lombards,
+Goths, Vandals, Celts, Vikings, Han, Yamato, Choson, Lac Viet.
+
+Buildings: Barrack, House, Mill, Storehouse, Mine, Blacksmith, Castle, Stable, Town center, Temple,
+Tower, Wall, palisade, scout tower, Shipyard.
+
+Units: spearman, swordman, archer, slinger, skirmisher, horse archer, scout cavalry, heavy cavalry,
+catapult, ballista, battering ram, priest.
+
+Navy: galley, fire ship, catapult ship, ramming ship, junk, canoe, fishing ship.

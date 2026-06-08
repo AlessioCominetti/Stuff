@@ -1,0 +1,180 @@
+Weak defenses but strong infantry. Lack cavalry and gunpowder.
+Can build Farms, which produce a small tickle of F and can
+be garrisoned with animals to produce more F.
+
+Work rate
+farmer 10-20
+Hunter 20
+Woodcutter 8-10
+Miner 4
+
+NoAgeUps
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+archery practice
+herbal medicine
+block printing
+sanctity
+Ship movement
+Ship armor
+Ship cost
+paesants creation speed
+
+BUILDINGS
+
+---Fortress
+Cost 300 W 300 S mul 10 cap 5 MaxInside 50 HP 35.000
+Build new barracks: unlock all other military units 1000 W 1000 S +10.000 HP
+Build Town Hall: unlock upgrades 2000 W 5000 S +10.000 HP
+Build temple: unlock shamans 3000 W 4000 S 1000 G +10.000 HP
+^^^unlock House II 4000 W 4000 S 125 G
+^^^unlock House III 40.000 W 40.000 S 1250 G
+^^^settler creation speed +50%  20.000 W 3000 S
+^^^archers -70% scatter  5000 W 500 G
+^^^buildings +8 armor 10000 W 6000 S
+^^^shaman +25 healing 2000 G
+
+---House I->House II->House III
+Cost 30 W 30 S mul 3 cap 7 MaxInside 15 MaxPop +25 HP 15.000
+Upgrade House: Cost 30 W 30 S mul 3 cap 7 +5 MaxInside +65 MaxPop +10.000 HP
+Upgrade House: Cost 300 W 50 S mul 3 cap 7 +5 MaxInside +60 MaxPop +10.000 HP
+
+---Farm
+Cost 300 W 50 S mul 5 cap 5 MaxInside 20 HP 15.000
+food +50%  1500 G
+food +50%  8000 W 1000 G
+field +100% 2000 W 400 G
+field +100% 4000 W 1000 G
+
+---Storehouse
+Cost 50 W 200 S mul 5 cap 5 MaxInside 20 HP 15.000
+wood +25% 2000 G
+
+---Blacksmith
+Cost 1250 W 1250 S 250 I max 1 MaxInside 20 HP 25000
+melee units +5 atk  15.000 W 4000 I
+armored units +25 arrow resistence 15.000 W 5000 I
+lizard military units are created 100% faster  8000 W 40.000 S
+all units +5 lance armor    13.000 W 10.000 I
+
+---Mine 100 W 5000 HP Inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+---Outpost->Tower
+Cost 50 W 50 S mul 1.4 caps 19 MaxInside 5 HP 5000
+Upgrade to tower: cost 250 W 250 S mul 1.4 caps 19 +15 maxinside +15.000 HP
+
+---Shipyard
+Cost 750 W 250 S mul 3 cap 7 MaxInside 25 HP 15.000
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+Improve cano design: canoes +20 defense  18.000 W 2500 G
+
+Max Population 5000
+
+UNITS
+lizard settler/guard
+HP 120
+lance 14-28 Fr 30 bx 1
+D 7-18/2-18 arrowresistence 100-125 Assault 40
+F 200 Fr 360-240
+
+lizard warrior
+HP 240
+Bow 220 Fr 80 Range 17 ammo 4 W 4 I accuracy 12-36%
+Axe 14-30 Fr 30 bx 2
+D 5-20/0-20 arrow resistence 100-125 Assault 50
+F 500 G 50 Fr 120-60
+
+lizard shaman
+HP 300
+Lance 100 Fr 50
+Healing 100 (125) Fr 100 Range 8  Assault 200
+F 300 G 200 Fr 800-400
+
+chief
+HP 300
+Lance 50-100 Fr 50
+D 5-45/0-45 Arrowresistence 100-125 Assaut 200
+F 500 G 200 Fr 800-400
+
+snake warrior
+HP 100
+Bow 250 Fr 80 Range 17 ammo 4 W 4 I accuracy 12-36%
+Sword 12-24 Fr 30 bx 2
+D 6-16/1-16 arrowresistence 25-50 Assault 20
+F 300 Fr 40
+
+Upgrades cost for settler/guard
+AtkI    300 G  2500 F
+AtkII   250 G  1500 F
+AtkIII  300 G  5000 F
+DefI    350 G  3200 F
+DefII   700 G 10000 F
+DefIII  700 G 10000 F
+
+Upgrade cost for lizard warrior
+AtkI   850 G  4500 F
+AtkII  400 G  4000 F
+AtkIII 500 G
+DefI   250 G 15000 F
+DefII  250 G 15000 F
+DefIII 250 G 15000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 800 G
+DefI   300 G
+DefII  150 G 
+DefIII 800 G
+
+Upgrade cost for snake warrior
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+SHIPS
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160-180
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Tlaloc Canoe
+HP 3200
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160-180
+Cost 2000 W 500 G 4000-2000 Fr mul 1.04 max 50
+
+Ferry
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4
+
+Sea Snake
+Can attack only naval units, submerges while moving,
+exposed while attacking
+HP 25.000
+Constriction 4000 Fr 20 Defense 160-180
+G 18.000 Fr 5000 mul 2 MAX 5

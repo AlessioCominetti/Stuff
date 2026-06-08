@@ -1,0 +1,189 @@
+Insecta are insect-humans who live underground
+They represent the bees,wasps,ants,centipedes,bettles,locusts,scorpions and spiders.
+They cannot build mills (unless a specific tech has been researched). Instead,
+they convert wood to food, at a 1 to 2 ratio. Each unit of wood, provides 2 food.
+They specialize in swarming the foes with a lot o infantry units.
+They lack a ranged unit until they reach Classical Age.
+Technologies are free, but increases cost of units
+
+Work rate for ants
+Farmer 4-10
+Hunter 12
+Woodcutter 4-10
+Miner      2
+
+MaxPop 16000
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+herbal medicine
+block printing
+sanctity
+Ship movement
+Ship armor
+Ship cost
+paesants creation speed
+
+BUILDINGS
+Hive HP 25.000  Cost  300 W 300 S  mul 10 max 4  Maxinside 200 maxpop 400+200
+Unlock military housings: +10.000 HP enable more soldiers     400 W 400 S
+Unlock temple: +10.000 HP enable shamans     5000 W 5000 S
+Unlock queen chambers: +10.000 HP enable queen and upgrades  5000 W 2500 S
+Expand Hive: +10.000 HP +200 Housing   250 W 250 S
+Build aerial chambers: +10.000 HP enable flying units  5000 W 1000 S 
+
+Outpost->Tower
+50 W 50 S mul 1.4 cap 19 HP 5000 Maxin 10
+Upgrades: 250 W 250 S mul 1.4 cap 19 +10.000 HP +20 maxin
+Serves also as a drop off point for wood and food
+
+--Mine 100 W 5000 HP inside 5-50
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    10        5000 W 25.000 F 1000 G     25 sec
+2    20      20.000 W 41.000 F 2500 G    25 sec
+3    30      7000 G/I 15.000 F           25 sec
+4    40      24.000 G 9000 I 23.000 F    25 sec
+5    60      30.000 G 60.000 F           25 sec
+6   100
+
+Market HP 5000 Cost 1000 W mul 10 max 4 inside 25
+Generate 10 G/sec. Allow trade.
+
+--Shipyard 750 W 250 S mul 3 caps 7 HP 15.000  Inside 50 Max
+fish +200%  7000 W 8500 G
+fish +200%  6000 G 11000 I 20000 W
+warships +100% creation speed and +20% movement speed 15000 W 800 G
+ferry +100% speed 8250 W 1650 G
+warships +20 defense 18000 W 2500 G
+
+---Technologies---
+Improve ant colony: ants +50% creation speed, but cost +20% 
+Improve cold steel: melee attack of soldiers +5, but +5 gold cost
+Improve carapax armor: melee units +5 lance armor +25 arrow armor, but +5 gold cost
+Improve alchemy: bettles, incendiary ants +25% blast radius, but +5 gold cost
+Teach bricklayer: buildings +3 armor, but Hive +10% cost
+Hire defensive architects: towers -70% cost, but ants +10% cost
+Invite european architects: unlock houses and mills 4000 W 5000 S
+
+--House 1000 W 150 S mul 3 cap 7 HP 15.000 Maxin 15 Maxpop 250
+
+--Mill 1400 W 400 S mul 16 cap 3 HP 15000 Maxin 20
+food +100%  1500 G
+food +50%   2000 G
+field +100%  300 G
+field +100%  900 G
+
+---UNITS---
+
+legionaire ant (act also as a villager)
+HP 100
+Lance 7-18 Fr 20
+D 5-15/0-15/150-175 storm 30
+F 150  Fr 30-20
+
+Centella
+HP 70
+Bow 200 Fr 40 Range 12 ammo 2 W 2 S accuracy 20%
+Sword 6-12 Fr 30 bx 1
+D 6-12/1-12 storm 20
+F 400 W 40 Fr 80  Population 2
+
+Fire cracker ant
+HP 100
+Fire 20  Fr 10  Range 4 Blast 0.6 ammo 1 G
+D 5-15/0-15/150-175 storm 30
+F 150 G 10 Fr 60-40
+Can set buildings on fire.
+Fire damage ignores half of enemy armor
+
+Bombardier beetle
+HP 650
+Fire 320 Fr 480  Blast 1.0 ammo 50 G
+D 10-32/5-32/160-185
+F 2000 I 400 Fr 800
+Cannot enter buildings.
+Blast attack instantly set buildings on fire
+
+Beeguard (equipped with a crossbow)
+HP 100
+Sword 12-25 Fr 50
+Arrow 250 Fr 200 Range 13 ammo 2 W 2 I
+D 10-15/0-10/120-145 storm 20
+F 200 W 40 Fr 30
+
+Wasp warrior (flying, throws spears at ground foes)
+HP 100
+Lance 15-30 Fr 30
+Javelin 100 Fr 80 Range 12 ammo 10 W 4 I
+D 10-18/5-18/160-185 storm 50
+F 200 I 50 G 50 Fr 80
+
+Centipede centurion
+HP 480
+Lance 25-45 Fr 24
+D 12-32/7-32/170-195 storm 100
+F 200 I 100 Fr 100
+Can damage buildings
+
+locust warrior (flying)
+HP 240
+Sword 20-30 Fr 50
+D 12-18/1-12/125-150 storm 20
+F 300 Fr 50
+Can sap resources from attacking buildings.
+They sap 1 of each resources from every attack.
+
+scorpion warrior
+HP 350
+Lance 25-75 Fr 50
+D 12-24/1-18/150-175 storm 100
+F 1200 I 240 Fr 100
+Poison attack
+Can climb mountains
+
+spider warrior
+HP 600
+Lance 50-125 Fr 75
+D 0-24/0-29/50-75 storm 100
+F 2400 I 150 W 300 Fr 100
+poison attack
+Can climb mountains
+
+Hive queen
+HP 1200
+Sword 50-80 Fr 50
+D 12-32/7-32/160-185 storm 100
+F 2400 G 1200 Fr 400
+Can create formations
+
+Ant shaman
+HP 100
+Sword 50 Fr 50
+Healing 50 Fr 100 Range 4
+D 5-15/0-15/150-175 storm 100
+F 200 G 50 Fr 150-100
+
+SHIPS
+Fishing ship
+Ferry
+demoship
+fireship
+arrow galley
+Dragonfly ship

@@ -1,0 +1,251 @@
+TECHNOLOGIES
+ACCADEMY 10
+Wood +100%: 550 G 5500 F
+Buildings +50/100% HP: 350 G 19320 S 900 I  /  13500 W 1150 G 8750 S
+Building -75% construction time: 9050 G
+Walls, towers +70% HP: 1500 G 16200 S
+Repairs all artillery: 350 W 100 G 250 C
+Heal all units: 200 G 200 C
+Reveal map and mining deposits: 2250 G
+Stone +200/400%: 1550 G 3000 I / 1550 G 4200 F 12520 C
+
+BLACKSMITH 11
+mounted units +200% build speed: 3650 G 5300 I 8200 C
+cavalry +5 atk: 500 G 7900 I
+armored units +2/2 defense: 7000 G  / 12000 G 3000 I
+Shot power +20/50%: 13000 G  /  33000 G
+Musketters cost -50%: 1550 G 3700 C
+Pistols +35/35% fire rate: 300 G 2000 I /  5500 G 21200 C
+Melee attack +7: 12750 G
+Grenadier +25% attack: 43200 G
+
+SHIPYARD 6
+Fishing +100%: 12400 W 2520 G
+Unlock frigate: 12400 W 7040 G
+Unlock battleship: 32300 W 6800 G 9000 I 12800 C
+Boats cost -85%: 7300 W 1220 G
+Vessel speed +40%: 65400 W 24050 G
+Vessel +200% build speed: 2300 W 1150 G 58700 S
+
+MILL 5
+Grain +140/120/35%: 250 G 750 F  /  3350 G 40600 F 2900 I  /  45000 W 3200 G
+Field +200/200% durability: 400 W 100 G  / 1400 W 500 G
+
+ARTILLERY DEPOT 7
+Artillery cost -35%:
+Artillery +200% build speed:
+Artillery range +15%: 9000 G 27200 I 47250 C
+Artillery +150% HP: 500 G 3830 I 1500 C
+Artillery +30/35% accuracy: 3540 W 2000 G 7250 C  /  9540 W 12000 G 65200 C
+Unlock multi-barreled cannon: 1500 G 2500 C
+
+
+BUILDINGS
+Town Hall  700 W 700 S  HP 5000
+Mill        30 W 150 S  HP 20k
+Mine       100 W 100 S  HP 2500
+Storehouse  20 W  50 S  HP 10k
+Market     450 W        HP 5000
+Shipyard  1700 W 1100 S 500 I  HP 65k
+Barrack    100 W 100 S 300 G HP 40k
+Upgraded Barrack 1700 W 12500 G 3000 S  HP 55k
+Stable    6500 W 100 S 700 G HP 55k
+Artillery Depot  350 W 1000 S 1400 I HP 40k
+Diplomatic Center 5000 W 1700 S HP 5000
+Cathedral 100 W 100 S HP 5000
+Tower 120 W 120 S 180 G HP 20k  Atk 1000
+Palisade 5 W HP 500  Stone wall 50 S HP 65k  Gate 500 W
+House  100 W 100 S HP 10k   +30 housing
+Blacksmith  100 W 700 I  HP 5000
+Accademy 1500 W 1000 S HP 65k
+
+UNITS
+
+MELEE INFANTRY
+Pikeman 17th
+HP 100 Atk 8 (POLAND 7 atk)
+Cost 25 F 20 I 150 fr  (POLAND 45 F 1 W 100 fr)
+
+Pikeman 18th
+HP 85 Atk 8 (AUSTRIA 10 atk, SWE 11 atk)
+Cost 15 F 1 G 25 fr 
+
+Swordman
+HP 100 Atk 6
+Cost 25 F 10 I 125 fr
+
+Light infantry
+HP 55 Atk 6
+Cost 35 F 1 I 50 fr
+
+Spearman
+HP 100 Atk 9
+Cost 55 F 15 I 180 fr (TURK,ALGER -13 I -30 fr)
+
+RANGED INFANTRY
+Musketter 17th
+HP 85 Atk 9 (EN 50 hp, AU 55 hp 10 atk, NE 65 hp 7 atk, PO 95 hp)
+Cost 4 G 40 F 12 I 540 fr (EN +5 F -140 fr, AU +3 G +10 F +60 fr,
+NE -6 I +10 F -165 fr, PO -12 I +110 fr)
+
+Musketter 18th
+HP 100 Atk 18/22 (AU 18/12 atk, BA/DE 9/12 atk, PRUS 24/12 atk)
+Cost 45 G 45 F 45 I 950 fr (AU -800 fr, BA -675 fr -10 G +40 F,
+DE +150 G +50 F +40 I -800 fr, PRUS +240 G +50 F +40 I -675 fr)
+
+Grenadier
+HP 100 Atk 22/12 (SAX 25/15 atk)
+Cost 90 G 90 F 200 fr (SAX -100 fr)
+
+Chasseur
+HP 85 Atk 20
+Cost 60 F 5 I 300 fr
+
+Highlander
+HP 100 Atk 17
+Cost 50 F 7 I 250 fr
+
+Pandur
+HP 85 Atk 18
+Cost 25 F 5 I 300 fr
+
+Strelet
+HP 85 Atk 11
+Cost 60 F 15 I 5 G 480 fr
+
+Serdiuk
+HP 85 Atk 10
+Cost 70 F 15 I 3 G 600 fr
+
+Jannissary
+HP 55 Atk 12
+Cost 45 F 3 I 400 fr
+
+Archer
+HP 30 Atk 150
+Cost 10 F 2 W 25 fr
+
+MELEE CAVALRY
+Rider
+HP 350 Atk 12 (TUR -2 atk)
+Cost 100 F 25 I 3000 fr (SWE/VEN +50 F +5 I, TUR -25 I -2400 fr)
+
+Cuirassier
+HP 350 Atk 15
+Cost 125 F 50 I 1750 fr
+
+Hussar
+HP 250 Atk 11 (PRUS -3 atk, POL -15 hp +2 atk)
+Cost 110 F 8 G 1000 fr (PRUS -350 fr, POL +40 F +17 I +1500 fr)
+
+Croat
+HP 250 Atk 9
+Cost 75 F 7 I 1800 fr
+
+Light Rider
+HP 280 Atk 8
+Cost 45 F 3 I 800 fr
+
+Vityaz
+HP 380 Atk 11
+Cost 130 F 35 I 3000 fr
+
+Cossack
+HP 240 Atk 12 (UK +60 hp +1 atk)
+Cost 50 F 1100 fr (UK +7 F)
+
+Hetman
+HP 450 Atk 300
+Cost 175 G 150 F 900 fr
+
+Cavalry Guards
+HP 400 Atk 16
+Cost 150 F 15 I 1500 fr
+
+Mameluke
+HP 400 Atk 12
+Cost 75 F 8 G 700 fr
+
+RANGED CAVALRY
+Dragoon 17th
+HP 300 Atk 11
+Cost 25 G 150 F 10 I 3500 fr
+
+Dragoon 18th
+HP 320 Atk 18 (FR -200 hp -11 atk)
+Cost 45 G 70 F 15 I 3500 fr (FR +80 F +30 I -1200 fr)
+
+King's Musketter
+HP 320 Atk 100
+Cost 60 G 200 F 7000 fr
+
+Horse Archer
+HP 300 Atk 46
+Cost 80 F 10 W 500 fr
+
+ARTILLERY
+Cannon/Multi-barreled Cannon
+HP 5000 Atk 50/500
+Cost 200 W 250 G 150 S 100 I 250 C 8000 fr
+
+Howitzer
+HP 150 Atk 70
+Cost 450 G 150 I 9600 fr
+
+Mortar
+HP 100 Atk 700
+Cost 200 W 250 G 150 S 100 I 250 C 8000 fr
+
+NAVAL UNITS
+Yatch
+HP 32000 Atk 30 (TURK +3000 hp)
+Cost 600 W 450 G 150 I 200 C 3000 fr (TURK +300 W)
+
+Galley
+HP 50000 Atk 30
+Cost 9500 W 1100 G 1000 I 3000 fr
+
+Frigate
+HP 50000 Atk 30
+Cost 5000 W 1500 G 800 I 1000 C 15000 fr
+
+Battleship/Xebec/Ship of the Line/Galleas
+HP 65000 Atk 30
+Cost 9000 W 4500 G 900 I 9000 C 25000 fr
+(Xebec 7000 W 2200 G 400 I 1200 C 15000 fr)
+(Ship of the Line 65000 W 5000 G 53000 I 47000 C)
+(Galleass +2500 W -3400 G -8000 C +100 I -22000 fr)
+
+Cutter
+HP 21000 Atk 30
+Cost 4500 W 150 G 150 I 100 C 1000 fr
+
+Ketch
+HP 40000 Atk 30
+Cost 5000 W 4500 G 4500 C 1200 fr
+
+Ferry
+HP 62000 Capacity 80
+Cost 300 W 50 G 100 I 
+
+Boat
+HP 1 Capacity 1000 F
+Cost 50 W
+
+MISCELLANEOUS
+Paesant
+HP 50 Atk 30
+Cost 100 F 400 fr
+
+Priest
+HP 100 Heal 5
+Cost 50 F 150 G 750 fr
+
+Officier
+HP 150 Atk 150
+Cost 250 G 50 F 200 fr
+
+Drummer
+HP 100
+Cost 50 F
+

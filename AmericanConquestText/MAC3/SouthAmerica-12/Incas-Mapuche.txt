@@ -1,0 +1,220 @@
+INCAS
+-paesant can be upgraded to milita
+-Start with +50% F
+-archers and towers upgrade cost -90%
+-Upgrades and shamans are available at Fortress
+-Can build tambos, kamaras-
+-Can develop up to three regions to unlock new upgrades
+UU Kamayuk
+UT andean slings: slinger +5 range
+REGIONS
+Chimu: unlock better mace units
+Chachapoya: unlock Cloud spearman upgrade
+Qolla: farmers work 20% faster, can build farms on hills
+Canari: foot soldiers +10% HP
+Wari/Wanka: unlock Wari siege tower, siege units +20% HP
+Lupaca: Warships cost -50% G, move 10% faster
+Nazca: Fortress,towers +10.000 HP, shamans heal 100% faster
+Paracas: +8 morale for all units, chief cost no G
+Moche: Markets have better prices, double G tickle
+Tiwanaku: archers cost -50% G, chief are trained 50% faster
+
+Buildings
+--Fortress 300 W 300 S mul 10 caps 4 MAX 8   Inside 100 MaxPop 100
+Inca HP 35.000 HP
+unlock archer +10.000 HP 250 W 50 S
+unlock town center +10.000 HP 700 W 700 S 150 G
+unlock shamans +10.000 HP 100 G 900 W
+unlock other units +10.000 HP 2000 S 2000 W
+
+--House I 30 W 30 S mul 3 caps 8 MAX 16 HP 10.000 Inside 25 Maxpop 45
+--House II 100 W 200 S mul 2 caps 10 MAX 16 HP 5.000 Inside 35 Max Pop 70
++80 pop +10.000 HP (I 450 G 2200 W, II 1100 G 9000 W) 
+--House III 350 W 100 S mul 3 caps 8 MAX 16 HP 35.000 Inside 45 Max Pop 250
+
+--Mill 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 30 Max Pop 30
+food +70% 10800 F 500 G 
+food +80% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 34000 W 2000 S 1500 G 5000 I 
+
+--Storehouse 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 20 Max Pop 20
++25% wood    2000 G
+
+Fortress upgrades at the Town Center
+^^^Unlock house II 4000 W 4000 S 125 G
+^^^Unlock house III 40.000 W 32.000 S
+^^^Paesant creation +50% 21.000 W 11.000 S
+-
+^^^archers -70% scatter 250 W 250 G
+^^^buildings +6 armor 10000 W 4000 S
+^^^builder work +100% 2000 G
+--
+^^^Troops +10% HP   1000 G
+^^^Andean slings: slinger +5 range (Inca)  2000 G
+^^^Atlat: javelin +6 range   2000 G
+--
+^^^melee units +5 Atk 15000 W 4000 I
+^^^mace scout, spearman, chief +25 arrow armor 15000 W 5000 I
+^^^slinger +50% creation  300 G 800 W
+--
+^^^spearman +100% creation 8000 W 25.000 S
+^^^all units (except archers) +5 lance armor 13.000 W
+--
+^^^shaman creation +100%  2000 G
+^^^shaman healing +25  2000 G
+^^^shaman +120 HP  12.000 G
+---
+
+--Mine 1000 W in 5->50 (cannot build coal mines)
+Lvl Miners  Upgrade cost      Upgrade Time
+1    5        2000 W            30 sec
+2    10       5000 W 25.000 F   45 sec
+3    15      22.000 W 41.000 F  45 sec
+4    25      7000 G/I 15.000 F  45 sec
+5    50      30.000 G/I 83.000 F 45 sec
+
+--Shipyard Inca 750 W 250 S mul 3 MAX 7 HP 15.000  Inside 50 Max Pop 25
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+--Tower: 150 W 150 S mul 1.4 MAX 20 HP 10.000  Inside 40 Max Pop 40
+
+--Market: 3000 W 3000 S MAX 1  HP 10.000 Inside 25 Max Pop 25
+Generate gold equivalent to 15 miners.
+
+Total Max Population 10.500   ------9000
+total max inside 3655
+Total number of buildings 96
+
+Units
+Paesant
+HP 60
+sword 20-28  Fr 30  storm 20
+D 0-18/0-18 
+F 200 Fr 360-240 Population 2
+
+---
+Farmer 8->20
+Woodcutter 8->10
+Miner 4->5
+Hunter 20
+---
+
+Mace scout
+Hp 110-121
+sword 5-16  Fr 26   bx 5
+D 0-10/5-20  arrow 150-180   storm 10
+F 400 W 30 S 10  Fr 20  Population 2
+
+Slinger
+HP 90-99
+sword 8-25  Fr 20    
+sling 80  Fr 80  Range 10->15   ammo 2 S accuracy 10-15-23-33%
+D 6-16/1-16    arrow 125-175  storm 30
+F 450      Fr 60-36   Population 3
+
+Blowpipe
+HP 100-110
+sword 8-25   Fr 30    
+dart 1  Fr 80 range 5->6   ammo 5 G  accuracy 20-30-46-67%
+D 6-12/1-12    storm 20  poison 2 Hp/20 Fr
+F 200     Fr 50  Population 2
+
+chief
+HP 125
+sword 25-100   Fr 50
+D 0-45/0-45  arrow 50-125  storm 100
+F 360 G 100 Fr 400
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 4
+storm 100  
+F 150 G 100 Fr 400-200 
+
+Inca spearman (Upgrade to Kamayuk)
+HP 100-110
+lance 15-30   Fr 60  bx 1
+D 5-20/0-20  storm 10
+F 150 W 20 I 12   Fr 60-30 
+
+KAMAYUK
+HP 100-110
+lance 15-30  Fr 20  bx 1 range 1    
+D 6-24/1-24  arrow 125-150   storm 30
+F 500 W 60 I 36  Fr 180-90  Population 3
+
+Inca archer
+Hp 120-132
+sword 12-30   Fr 60   bx 2
+Bow 200-220   Fr 60 range 13  ammo 2 W 2 I accuracy 10-15-22-33%
+D 5-20/5-20  arrow 50-75 storm 30
+F 200 G 30     Fr 125
+
+Upgrades cost for spear-line 
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for macamba/blowpipe line
+AtkI   200 G 12000 F
+AtkII  400 G 12000 F
+AtkIII 200 G 20000 F
+DefI   300 G 15000 F
+DefII  800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+Naval units
+
+Fishing canoe
+HP 1500
+Arrow 200 Fr 40 Range 20 ammo 2 W
+Arrow protection 160
+Cost 900 W 1000 Fr mul 1.02 max 100
+
+Battle Canoe/Boarding Canoe/Flaming Canoe
+HP 3000
+Arrow 200 Fr 40 Range 40-20 ammo 2 W
+-Fire damage 200 (arrow)
+-Fire explosion 15.000
+-Melee damage 200 (boarding)
+Arrow protection 160
+Cost 2000 W 500 G 2000-1000 Fr mul 1.02 max 100
+
+Transport ship
+HP 20.000->50.000
+Inside 250
+Cost 100 W 10 G 1000 Fr mul 10 max 4

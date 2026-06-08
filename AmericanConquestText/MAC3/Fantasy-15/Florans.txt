@@ -1,0 +1,249 @@
+Florans are particular. They recover HP by themselves when idle.
+They have increased arrow and lance resistence.
+They lack cavalry and gunpowder, but possess strong infantry, defense and economy.
+Meso-american style. Great discount on buildings and technologies.
+Struggle at gathering wood.
+When any unit dies, you obtain 100 W.
+
+Work rate
+farmer 4-10
+hunter 10
+woodcutter 4-5
+miner 4
+
+Ancient Age
+-
+::
+***
+Classical Age
+-
+::
+***
+Imperial Age
+-
+::
+***
+
+Technologies
+Food I-VI
+Wood I-VI
+Mine I-VI
+Unit creation speed I-V
+Armor/attack upgrades I-VI
+unlock house II,III
+archery practice
+herbal medicine
+block printing
+sanctity
+Ship movement
+Ship armor
+Ship cost
+machicolations
+paesants creation speed
+
+BUILDINGS
+
+--Barrack->Fortress
+500 W 500 S mul 8 cap 4 HP 25.000 Maxin 100
+unlock archers +10.000 HP: 300 S 300 G
+unlock mace scouts +10.000 HP: 5500 S 500 G
+unlock chieves +10.000 HP: 6500 S 500 G
+unlock slingers/blowpipe +5000 HP: 2000 W 900 S 100 G
+
+--House I->House II->House III
+20 W 20 S mul 3 cap 9 HP 10.000 Maxin 20 MaxPop 50
+Upgrade: 2500 S 500 G +10.000 HP +10 maxin +100 maxpop
+Upgrades: 6500 S 1500 G +10.000 HP +10 maxin +100 maxpop
+
+--Mill 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 30 Max Pop 30
+food +70% 10800 F 
+food +80% 8500 W 800 G
+field +100% 2000 W 400 G
+field +100% 34000 W 2000 S 5000 I 
+
+--Storehouse 125 W 125 S mul 5 MAX 6 HP 10.000 Inside 20 Max Pop 20
++25% wood    2000 G
+
+--Blacksmith 1250 S 1250 W 250 I MAX 1 HP 10.000 Maxin 20
+^^^Troops +10% HP   1000 G
+^^^slinger +5 range (Inca)  2000 G
+^^^javelin +6 range   2000 G
+^^^melee units +5 Atk 15000 W 4000 I
+^^^mace scout, spearman, chief +25 arrow armor 15000 W 5000 I
+^^^slinger +50% creation  300 G 800 W
+^^^spearman +100% creation 8000 W 25.000 S
+^^^all units (except archers) +5 lance armor 13.000 W
+^^^archers +50% creation speed 18.000 W 2000 G
+
+--Mine 100 W 5000 HP inside 5-50 (no coal mines)
+Lvl Miners  Upgrade cost for next level Upgrade Time
+1    5        5000 W 25.000 F 1000 G     25 sec
+2    10      20.000 W 41.000 F 2500 G    25 sec
+3    15      7000 G/I 15.000 F           25 sec
+4    20      24.000 G 9000 I 23.000 F    25 sec
+5    30      30.000 G 60.000 F           25 sec
+6    50
+
+--Town center->Community Plaza 5000 S 5000 S MAX 1 HP 65.000 Maxin 50
+Generate 60 G/sec. Enable trade.
+^^^Unlock house II 4000 W 4000 S 125 G
+^^^Unlock house III 40.000 W 40.000 S
+^^^Paesant creation +50% 3.000 W 3.000 S
+^^^archers -70% scatter 250 W 250 G
+^^^buildings +6 armor 10000 W 4000 S
+^^^builder work +100% 2000 G
+
+--Temple 20.000 S MAX 1 HP 75.000 Maxin 150
+^^^shaman creation +100%  2000 G
+^^^shaman healing +25  2000 G
+^^^shaman +100 HP  2000 G
+
+Scout tower->stone tower->fortified tower
+50 W 50 S mul 1.4 cap 17 HP 5000 Maxin 5
+Upgrade: 250 W 250 S mul 1.4 cap 17 +10.000 HP +25 maxin
+Upgrade: 550 W 550 S 450 G mul 1.4 cap 17 +10.000 HP +10 maxin +20% range
+
+Palisade->stone wall->fortified wall
+W 100 HP 1000
+S 100 HP 3000
+S 100 I 100 HP 5000
+
+Dock->Shipyard->Harbor
+fish +100%  2000 W 500 G
+fish +100%  5000 W 3000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed and +20% movement speed 15000 W 800 G
+canoes +15 defense 18000 W 2500 G
+canoes cost -20% 5000 G
+ferry +100% speed 8250 W 1650 G
+
+UNITS
+
+paesant
+HP 50
+Sword 20 Fr 30
+D 0/10 arrowres 175 storm 20
+F 200 Fr 360-240 Population 2
+
+spearman
+HP 100-110
+Lance 7-22 Fr 68 bx 1
+D 15-30/0-20 storm 20
+F 200 W 10 S 2 Fr 80-40
+
+archer
+HP 30-33
+Bow 200 Fr 80 range 10 ammo 2 W 2 S accuracy 10-33%
+Sword 3-9 Fr 50
+D 0-10/0-10 storm 10
+F 200 W 10 Fr 30-20
+
+mace scout
+HP 55-60
+Sword 5-16 Fr 50 bx 5
+D 0-10/5-20 arrowres 150-175 storm 5
+F 200 W 15 S 5 Fr 20
+
+slinger
+HP 30-33
+sling 20 Fr 60 range 10-15 ammo 2 S accuracy 10-33%
+sword 8-20 Fr 60
+D 6-16/1-16 arrowres 150-175 storm 10
+F 200 Fr 20-12
+
+blowpipe
+HP 100-100
+dart 1 Fr 80 range 6 ammo 3 G accuracy 10-33%
+sword 8-20 Fr 60
+D 6-12/1-12 storm 10 poison 1 HP/20 fr
+F 200 Fr 25
+
+pikeman
+HP 120-132
+Lance 7-22 Fr 34 bx 1
+D 13-36/0-28 arrowres 125-150 storm 30
+F 200 W 40 I 5 Fr 160-80 Population 2
+
+jaguar warrior
+
+eagle warrior
+
+shark warrior
+
+snake warrior
+
+macaw warrior
+
+owl warrior
+
+chief
+HP 125
+lance 25-95   Fr 50
+D 0-45/20-65  arrow 100-175  storm 100
+F 200 G 200 Fr 400
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 50-100   Fr 100  range 4
+storm 100  
+F 400 G 100 Fr 1000-500 
+
+knife hunter
+HP 100-110
+Knife 250 Fr 80 range 6 accuracy 100% ammo 10 I
+Sword 12-24 Fr 30 bx 2
+D 0-20/5-30 arrowres 75-100 storm 20
+F 200 Fr 200 Population 2
+
+Upgrades cost for spearman/pikeman-line 
+AtkI     50 G  5000 F
+AtkII   150 G 11500 F
+AtkIII  200 G 15000 F
+DefI    350 G  3200 F
+DefII   800 G 10000 F
+DefIII  600 G 10000 F
+
+Upgrade cost for archer-line
+AtkI   850 G  4500 F
+AtkII  200 G 24000 F
+AtkIII 200 G 30000 F
+DefI   250 G 
+DefII  250 G 15000 F
+DefIII 250 G 30000 F
+
+Upgrade cost for chief-line
+AtkI   200 G
+AtkII  500 G
+AtkIII 80000 F
+DefI   300 G
+DefII  15000 F
+DefIII 80000 F
+
+Upgrade cost for mace scout/blowpipe line
+AtkI   200 G 12000 F
+AtkII  400 G 12000 F
+AtkIII 200 G 20000 F
+DefI   300 G 15000 F
+DefII  800 G 25000 F
+DefIII 300 G 20000 F
+
+Upgrade cost for slinger-line
+AtkI    500 G  500 F
+AtkII  1600 G 1000 F
+AtkIII 2000 G 2000 W
+DefI    300 G  200 F
+DefII  2500 G 
+DefIII 3500 G
+
+Upgrade cost for knife hunter
+AtkI   250 G
+AtkII  250 G
+AtkIII 700 G 30000 F
+DefI   640 G  
+DefII  900 G 20000 F
+DefIII 30.000 W
+
+SIEGE/SHIPS same as mayans/incas/aztecs
+

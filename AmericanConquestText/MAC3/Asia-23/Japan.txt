@@ -1,0 +1,6 @@
+
+JAPAN
+-Storehouses, Mills cost -50%
+-Fishing ships work 25% faster
+-Fortress works 25% faster
+UT: Bushido: infantry +5 melee attack

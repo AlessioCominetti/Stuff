@@ -1,0 +1,130 @@
+Civilization who puts enphasis on quality over quantity.
+Each soldier has the strenght of 20 men, but have lower population limits.
+Population is capped at 800.
+Doesn't need wood, and cannot gathered from it.
+Can turn Minerals(Stone,Gold,Iron,Coal) into food at a rate of 1 mineral to 20 food.
+Cannot build mills or fish.
+Doesn't need to upgrade mines.
+
+Work rate
+hunter 400 (drop off 2000 F over 5 seconds)
+miner 40
+Build 1000
+
+NoAgeups
+Technologies
+Unit creation speed, armor/defense upgrades
+archery practice, herbal medicine, dragon blood(hospitals)
+shooter upgrades
+
+BUILDINGS
+
+Fortress 25.000 HP 300 S mul 100 MAX 3 inside 50
+unlock halberdier and archers +10.000HP: 100 G 100 S
+unlock shooter and grenadiers +10.000HP: 750 G 500 I
+unlock warchief and great dragons +10.000HP: 5000 I 5000 S
+unlock crystal mancer and shamans +10.000 HP: 3000 G
+--Upgrades--
+---warrior/halberdier +50%creation speed: 2000 G
+---archer +50%creation speed: 4.000 G
+---shooter +50%creation speed: 12.000 G
+---soldier +10 melee attack: 9000 I 3000 G
+---soldiers +8 armor: 3500 G 6500 I
+---soldiers +50 arrow protection: 12.500 G
+---Buildings +8 armor: 25.000 S
+---Dragons regen 10%HP every minute: 24.000 G
+---shooters +10% fire power, +30% fire rate: 5000 I 5000 C
+
+Mine 5000 HP 100 S inside 5
+
+Shipyard 25.000 HP 250 S mul 10 MAX 4 inside 5
+
+Tower 20.000 HP 300 S mul 2 MAX 10 inside 5
+--Improve tower defenses: this tower +10.000 HP  7000 S 1000 G
+
+Max Total Population 800
+Max Building 17
+
+UNITS
+
+dragon warrior (also a worker)
+HP 400
+Lance 48-70 Fr 20
+Javelin 400 Fr 100 Range 12 Ammo 20 I
+D 30-38/30-38/150-200 storm 200
+F 2000 I 200 Fr 1500-1000
+
+dragon halberdier
+HP 600
+Lance 75-125 Fr 30
+D 32-40/32-40/165-215 storm 300
+F 2000 I 400 Fr 1800-1200
+Deal trample damage equal to 50% of damage dealt
+
+dragon archer
+HP 400
+Sword 50-70 Fr 50
+Bow 400-440 Fr 80 Range 25-30  ammo 20 I Accuracy 20-44-67%
+D 20-28/20-28/150-200 storm 100
+F 2000 I 100 Fr 1500-1000
+
+dragon sniper
+HP 400
+Sword 50-70 Fr 50
+Rifle 800-880 Fr 520-400 Range 30 ammo 20 I 40 C Accuracy 100%
+D 20-28/20-28/150-200 storm 100
+F 2000 G 1000 Fr 4500-3000
+
+dragon grenadier
+
+dragon officer
+HP 800
+Lance 150-240 Fr 50
+D 100-120/100-120/150-200 storm 1000
+F 2000 G 1000 Fr 4000
+
+dragon nomadic warrior
+HP 600
+Sword 50-70 Fr 50
+Bow 400-440 Fr 80 Range 25-30  ammo 20 I Accuracy 20-44-67%
+D 20-28/20-28/150-200 storm 100
+F 9000 I 200 Fr 1500-1000
+
+dagon crystalmancer
+HP 2000
+Sword 50-70 Fr 50
+D 40-48/40-48/165-215 storm 1000
+F 2000 G 2000 Fr 4000 MAX 100
+Special: every 30 seconds (600 Fr)
+turn a foe into a crystla dragon,
+it counts towards limit.
+
+dragon shaman
+HP 300
+Sword 50-70 Fr 50
+Healing 100 Fr 100 Range 8
+D 20-28/20-28/150-200 storm 1000
+F 2000 G 1000 Fr 3000-1500
+
+Great dragon
+HP 50.000
+Sword 300 Fr 50
+Breath 450 Fr 480 Range 12 Ammo 300 G
+siege attack 4000 Fr 50
+D 100-120/100-120/200-250
+F 80.000 G 4000 Fr 4000 MAX 5
+
+NAVAL UNITS
+
+Dragon ship
+HP 75.000
+Cannon 4000  Fr 40
+Range 20-60  Ammo 50 I 100 C
+Fire 100 Fr 2
+Range 20 Ammo 4 G
+Defense 160  Garrison 10
+Cost: 2500 I 2500 C 7500 G
+Mul 1.4 MAX 10 Fr 5000
+
+RowBoat
+

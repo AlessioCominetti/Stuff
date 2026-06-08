@@ -1,0 +1,28 @@
+BERBERS
+-Cavalry cost -25%
+-Ships move 15% faster
+-Camels regen 2 HP per sec
+UU Tuareg
+UT Kasbah: Castles work 25% faster
+
+MALIANS
+-Start with a packed horse
+-Fortifications are built with 5-10 archers inside
+-Infantry +30 arrow protection
+-Miner works 10% faster
+UU Gbeto (ranged infantry) Farariya (cavalry archer)
+UT Farimba: Cavalry +5 melee attack
+UT Faren (Town centers, fortifications +25 units inside,
+archers, cavalry cost -25% G)
+
+SIRIANS (Umayyadis)
+-First Barrack is free and built instantly
+-Buildings train faster when garrisoned
+UU Haras
+UT Ahl as-Sham: losing a unit reduce by 50% the
+cost of the next one and speed up training time by 50%
+
+ALGERIANS
+-Farm upgrades are cheaper
+-Better market prices
+-Military buildings are cheaper

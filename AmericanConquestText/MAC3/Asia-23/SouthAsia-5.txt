@@ -1,0 +1,66 @@
+Can build Wet Huts, which generates F slowly
+Can upgrade Shipyards
+Can build fish traps
+
+Shared units: sea spearman, sea archer, sea shooter,
+slinger, mace scout, bamboo pikeman, elephants, shaman,
+cannon, battering ram, mantlet
+
+THAILANDIA
+-Mills are cheaper
+-Villager regen 1 Hp every second
+
+UU Imperial Battle elephant
+UT Chatusadom: units are healed automatically near buildings
+
+MALESIA
+-Elephants cost -30%
+-Shipyards work 33% faster
+-Can upgrade docks to harbors
+-Fish traps last twice as long and cost -50%
+-Cannot build mines
+UU Karambit warrior
+UT remove G cost from infantry units
+
+POLINESIA(Maori)
+-Woodcutter generate F equal to 20% W
+-Each canoe gives +10 population
+-Cannot build mines
+
+UU Powai Tauh, Fire dart thrower, Catamaran
+UT Kailao: give charge attack to infantry
+
+VIETNAM
+-Reveal enemy positions at th start of the game
+-Eco techs cost no W
+-Woodcutter generate G equal to 5% W
+-Archers +20% HP
+UU Rattan archer
+UT elephants +20% HP
+
+TAGALOG(philippines)
+
+
+Buildings
+--Barrack
+--Wet Hut
+--Mill (for Thai and Viet)
+--Storehouse
+--Mine
+--Blacksmith(for Thai and Viet)
+--Castle
+--Stable(not for Poly)
+--Shipyard
+--Market
+--Tower
+--Temple
+--Outpost
+--Stone wall(for Thai)
+--Palisade(not for Poly or Malesia)
+--Siege workshop
+
+Total maxpopulation 
+total max inside 
+total number of buildings 
+
+Units

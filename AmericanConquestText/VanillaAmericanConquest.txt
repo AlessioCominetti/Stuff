@@ -1,0 +1,822 @@
+South American (and Pueblos)
+
+Fortress 300 W 300 S  mul 10 max 4  (mul 100 max 3 for Aztec and Pueblos)
+Maya HP 35.000
+Unlock archers 100 G 4500 F  +10.000 HP
+Unlock macana 150 G 55000F   +10.000 HP
+Unlock chieves 300 G 65000 F +10.000 HP
+Aztec HP 5.000
+unlock spearman +10.000 HP 50 G 500 F
+unlock archer +20.000 HP 250 G 2500 F
+unlock chief +30.000 HP 800 G 65.000 F
+Inca HP 35.000
+unlock archers, slingers, blowpipe 10.000 HP 250 W 300 F
+unlock shamans +10.000 HP  100 G 4500 F
+unlock town center +10.000 HP 700 W 150 G 700 S
+Pueblos HP 25.000
+unlock town center +10.000 HP 300 S 500 W
+unlock barrack +10.000 HP 50 W 50 S
+unlock temple +10.000 HP  15000 W
+unlock stable +10.000 HP 250 W 1250 S
+unlock shooter 2400 C
+unlock chieves 23000 W 12000 G
+House I Maya 20 W 20 S mul 3 max 8 (Inca cost +50%)
+HP 10.000
+Mill 250 W 25 S  mul 5 max 6
+HP 10.000
+Storehouse 10 W 200 S mul 5 max 6
+Hp 10.000
+Town Centre 300 W 300 S mul 10 max 4
+HP 65.000 maya 25.000 aztec
+Mine 50 W inside 5-100
+Temple Maya 950 W 1450 S  mul 30 max 2
+HP 55.000
+Temple Aztec 250 W 750 S mul 30 max 3
+HP 25.000
+Shipyard Maya 70 W 755 S  mul 3 max 6
+HP 15.000
+House II Maya/Inca  100 W 200 S  mul 2 max 10
+Maya HP 20.000
+Inca HP 5000
++80 pop +10.000 HP 450 G 11000 F
++80 pop +10.000 HP 1100 G 45000 F
+House III 350 W 100 S mul 3 max 8
+HP 35.000
+Scout tower 30 W 50 S mul 1.5 max 18
+HP 4000
+Tower 300 W 300 S mul 1.5 max 18
+HP 25000 Maya, 10000 Aztec, 5000 Inca
+House I Aztec 20 W 20 S mul 200 max 3
+HP 25.000
+House II Aztec 50 W 50 S mul 10 max 4
+HP 25.000
+Shipyard 750 W 250 S mul 3 max 7
+HP 15.000
++40 pop +10.000 HP 50 G 500 F (aztec)
++80 pop +10.000 HP 250 G 2500 F (aztec)
+Market Pueblos 750 W mul 10 max 5
+HP 5000
+
+Upgrades
+
+Town center
+Unlock house II 4000 W 4000 S 125 G Maya, Inca
+Unlock house II 4000 W 9000 S 125 G Aztec
+Unlock house III 40250 W 25200 G 7000 S
+field +200% 2000 W 360 G
+food +40%   2000 W 100 G
+food +40%   4000 W 250 G Not Aztec
+food +50%   2500 W 450 G Not Aztec
+paesant creation +40% 20500 W 10800 S 
+shaman creation +100%  2000 G
+shaman healing +15     1750 G
+shaman +120 HP        12000 G
+troops +10% HP   1250 G
+melee units +5 Atk  15000W 4000 I
+macana, chief, sperman +25 arrow armor  15000 W 5000 I
+builder work +75%   9000 G
+spearman +100% creation 8000 W 25000 S (aztec +40.000S)
+macana, aztec archer +5 lance defense 10000 G 65000 F
+archers -35% scatter 24000 W 5000 G (free for Incas)
+buildings +6 armor 56000 W 12000 S (Aztec)
+slinger +50% creation 300 G 3200 F (Inca)
+
+Mill
+food +120% 200 G 750 F
+food +140% 10600 F 500 G (-90% F cost for Aztec)
+field +300% 14000 W 2000 S (-90% cost for Aztec)
+field +300% 20000 W 1500 G 5000 I (-90% cost for Aztec)
+
+Shipyard
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+
+Units
+
+Mayan spearman
+HP 100-110
+lance 7-22  Fr 70     bx 1
+D 12-30/2-20    storm 15
+F 160 W 5 S 2  Fr 80-40
+
+Mayan Archer
+HP 30-33
+sword 3-9   Fr 50
+Bow 200     Fr 80  range 10
+D 0-6/0-6    storm 10
+F 200 W 10     Fr 25
+
+Macamba warrior
+HP 55-60
+sword 5-16    Fr 50    bx 5
+D 2-8/12-18    arrow 150-175  storm 5
+F 200 W 15 S 5  Fr 10
+
+Aztec spearman
+HP 110-121
+lance 12-30     Fr 60
+javelin 100    Fr 80   range 6
+D 2-18/2-18   arrow 50-175   storm 30
+F 110 W 10   Fr 180-90
+
+Aztec archer
+HP 120-132
+sword 15-21    Fr 50
+Bow  200    Fr 80 range 20
+D 0-10/0-15   storm 10
+F 200 W 10   Fr 90
+
+Inca spearman
+HP 75-82
+lance 15-30   Fr 45
+D 0-18/0-18   storm 10
+F 150 W 20 I 12   Fr 60-30
+
+Inca archer
+Hp 120-132
+sword 12-28   Fr 50
+Bow 200      Fr 60 range 13
+D 5-20/5-20  storm 30
+F 110 G 30     Fr 125
+
+Inca slinger
+HP 30-33
+sword 8-20    Fr 50
+sling 30     Fr 80  range 10
+D 0-15/0-15   storm 10
+F 150   Fr 20-14
+
+Inca blowpipe
+HP 95-104
+sword 4-15   Fr 50
+dart 1    Fr 80  range 6
+D 5-12/5-12  storm 10
+F 110   Fr 25
+
+chief
+HP 125
+lance 25-95   Fr 50
+D 0-45/0-45  arrow 0-100  storm 100
+F 360 G 100 Fr 800
+
+shaman
+HP 30-150
+sword 50   Fr 50
+Healing 25-40   Fr 100  range 4
+storm 100  (10 for Aztec)
+F 340 G 45 Fr 4000-2000 Maya 400-200 Inca 300-150 Aztec
+
+Paesant
+HP 30
+sword 20  Fr 60  storm 10
+F 100 Fr 180-130
+
+Upgrades cost for spear/-line (and pueblo shooter)
+AtkI 50 G 4800 F
+AtkII 160 G 21500 F
+AtkIII 200 G 75000 F
+DefI 350 G 3200 F
+DefII 800 G 20000 F
+DefIII 16100 W 130000 F
+Upgrade cost for archer-line
+AtkI 350 G 9500 F
+AtkII 200 G 74100 F
+AtkIII 200 G 130000 F
+DefI 190 G 550 F
+DefII 350 G 15000 F
+DefIII 150 G 80000 F
+Upgrade cost for chief-line
+AtkI 500 G 1500 F
+AtkII 1650 G 4600 F
+AtkIII 2050 G 80000 F
+DefI 240 G 1350 F
+DefII 2550 G 15000 F
+DefIII 3500 G 80000 F
+Upgrade cost for macamba/blowpipe line
+AtkI 200 G 22000 F
+AtkII 360 G 72000 F
+AtkIII 200 G 130000 F
+DefI 200 G 16000 F
+DefII 800 G 35000 F
+DefIII 300 G 130000 F
+Upgrade cost for slinger-line
+AtkI 500 G 1500 F
+AtkII 1600 G 8000 F
+AtkIII 2000 G 80000 F
+DefI 240 G 2200 F
+DefII 2550 G 14000 F
+DefIII 3500 G 100000 F
+
+North Americans
+
+Barrack 250 W mul 30 max 3 (Haida mul 12 max 4)
+HP 45.000
+unlock tomahakws  70 G 700 F (hurons,iroquoios)
+unlock bows 1000 W 1000 F    (2000 G 61000 F Delawares,   6000 W 200 G 9000 F Haida)
+unlock shooters 2000 G 2000 I (2700 G 65000 F Delawares)
+unlock chieves 20000 G 47000 F (3200 G 62500 F Delawares,  500 G 6000 F Haida)
+House I 50 W mul 7 max 5  (Hurons,Iroquoios)
+HP 5000
+paesant +73 HP   18400 G 97500 F
+House I 20 W mul 3 max 10 (Delawares, Sioux 30 W)
+HP 5000
+House I 300 W mul 10 max 4 (Haida)
+HP 5000
+Mill 200 W mul 6.5 max 5
+HP 5000
+Storehouse 30 W mul 5 max 7
+HP 5000
+Stable 250 W mul 10 max 4
+HP 15000
+unlock horse archer 100 G 4500 F (Sioux)
+unlock horse shooter 12500 G (Sioux)
+unlock horse chief 7500 G 65000 F (Sioux)
+Town Center 1125 W mul 10 max 3 (Sioux 3200 W)
+HP 4000
+House II 500 W mul 3 max 7
+HP 5000
+House II 450 W mul 5 max 6 (Sioux)
+HP 15000
+Market 750 W mul 10 max 5
+HP 5000
+Temple 9350 W mul 30 max 3  (Haida 4350 W  Delaware mul 3 max 6  Sioux 2500 W)
+HP 5000
+Shipyard 1200 W mul 3 max 7  (Haida 600 W mul 6 max 5)
+HP 15000
+Totem 900 W mul 3 max 7
+HP 5000
+Hunter's hut 200 W mul 15 max 4  (Sioux)
+HP 5000
+
+Upgrades
+
+Town center
+field +200% 3000 W (not Sioux)
+food +40%   2000 W 100 G  (haida 150 G)
+food +40%   4000 W 250 G  (haida 350 G)
+food +50%   5000 W 450 G  (haida 700 G)
+
+paesant creation +40% 37000 W  (haida 13400 W)
+
+shaman creation +100%  2000 G  (haida 12000 W)
+shaman healing +15     1750 G  (haida 42000 F)
+shaman +120 HP        12000 G
+
+builder work +75%   9000 G  (Haida 9250 W, Sioux 12000 W 2000 G)
+archers -35% scatter 24000 W 5000 G  (Haida 14000 W 1500 G)
+tomahawk +125/400 power +100% accuracy  1250 G 20000 F
+unlock horseman 25000 W
+
+wood +30%  2000 G 25000 F (Haida +80% 4250 G 12500 W, Sioux +50% 2000 G 15000 F,Pueblos 1200 G 29000 F)
+shooters +35% scatter 4000 W  (2300 G 24000 F Haida)
+shooters +100 power  5000 G   (hurons)
+archers HP*3  30000 W 47000 G (hurons,iroquoios,pueblos 7000 G 65000 F)
+Unlock house II 20.000 W 3000 G (+10.000W for Delaware)
+Unlock house II 12.500 W 125 G (Sioux)
+
+archers +5 atk  900 G  (Delawares)
+spearman +100 Hp 60000 G (Delawares)
+totem cunstruction speed +100%  2000 G
+armored warrior -50% gold cost 27000 W 3000 I  (Haida)
+canoe +15 armor  18000 W 2500 G (Haida)
+
+lancer +5 lance defense 10000 G (Sioux , pueblos 3000 G 65000 F)
+cavalry,melee infantry +5 atk 15000 W 5000 I (Sioux,pueblos)
+lancer +25% creation 45000 W 10000 G (Sioux)
+rifleman +50% creation 25000 W 12000 G (sioux,pueblos +120% 4650 C 18500 G)
+archer +60% creation 25000 W 6300 G 62000 F (sioux, pueblos 34600 W 18200 G)
+Lancer +60% creation 9400 W 5200 G (pueblos)
+lancer +50 arrow protection 2600 W 2400 G (pueblos)
+
+
+Hunter's tepee
+food +120%  1000 F
+food +140% 10600 F
+
+Mill
+food +120% 200 G 750 F
+food +140% 25300 F 4000 G          (+3000 G Haida)
+field +300% 17000 W 
+field +300% 20000 W 1500 G 5000 I  (30000 W 1500 G Haida)
+
+Shipyard
+fish +100%  2000 W 500 G
+fish +100%  5000 W 8000 G
+fish +100%  6000 G 9000 I
+fish +100%  20000 W 2000 I
+battle canoe +100% creation speed 33000 W 3300 G
+ferry +100% speed 8250 W 1650 G
+
+Units
+
+North american paesant
+HP 10 (-83 huron, iroq)
+sword 1 (-11 huron, iroq)  Fr 60
+Bow 30    Fr 80  range 10  (no bows for pueblos)
+D 0-17/0-17  storm 1  (armor upgrades only for huron,iroq)
+F 10   Fr 90-60
+
+Tomahawk warrior
+HP 100
+sword 12-21  Fr 50
+Axe 250-375-650  Fr 80  range 4
+D 0-21/0-21  storm 10
+F 100 Fr 200
+
+Archer
+HP 25-100 Iroq  30-90 Huron  12-52 Pueblos 60 Haida 105 Delaware
+Sword 3-9 Huron,haida,pueblo 12-18 iroq  11-22 delaware  Fr 50
+Bow 200    Fr 80   range 10  storm 10
+D 0-6/0-6   +4/0 haida  10-20/0-10 pueblos
+F 100 W 10 Fr 45-30 pueblos
+F 210 W 30 Fr 25 irow
+F 160 W 20 Fr 25 huron
+F 110 W 10 G 10 Fr 50 delware
+F 110 W 10 Fr 35 haida
+
+Shooter
+HP 100 (100-110 pueblos)
+Sword 3-9      (12-25 pueblos)  Fr 50
+rifle 400 (400-500 huron, 300 pueblos)
+Fr 480  range 12 (18 iroq)  storm 10 (30 for pueblos)
+D 0-6/0-6    (0-18/0-18 pueblos)  (+100 arrow protection huron)
+F 260 G 30 Fr 150   (+60 W Huron)
+F 150 G 7 Fr 125-60 (pueblos)
+
+rifle chief
+HP 100
+sword 12-77   Fr 50
+rifle 600  Fr 600 range 12 (18 iroq)
+D 0-45/0-45  storm 100
+F 1250 G 45 I 45 Fr 1600
+
+Horseman
+HP 420 (-462 pueblos)
+Lance 8-25  Fr 36
+D 0-17/8-30  storm 10   0-50 arrow protection (pueblos)
+F 1150 Fr 4500 (-3000 pueblos)
+
+Delaware spearman
+HP 10-110
+Lance 1-10  Fr 70
+D 0-24/0-24 storm 1
+F 12 W 2 S 1 Fr 30
+
+Sioux paesant
+HP 100
+Sword 23  Fr 60 Storm 10
+F 100 Fr 500-320
+
+Shaman
+HP 30-150
+sword 50   Fr 50
+Healing 25-40   Fr 100  range 8 (13 for Haida and Iroq)
+storm 100  (10 for Aztec)
+F 400 G 85 Fr 600-300
+
+Armored warrior
+HP 70
+sword 5-17 Fr 65
+D 1-11/7-17  storm 15
+F 100 G 10-5  Fr 50
+
+Hunter-archer
+HP 100
+sword 14-20   Fr 50
+Bow 220   Fr 80   range 17
+D 0-14/0-14  storm 40
+G 50 W 20  Fr 225
+
+Sioux lancer
+HP 600
+lance 12-36   Fr 36
+D 6-12/1-12  storm 35
+F 3100 W 25  Fr 800-640
+
+Sioux horse archer
+HP 280
+sword 7-20  Fr 50
+Bow 220    Fr 100   range 17
+D 0-6/5-11  storm 20
+F 900 W 10  Fr 300-180
+
+Sioux horse rifleman
+HP 240
+sword 11-30  Fr 50
+rifle 400   Fr 240   range 12
+D 9-21/1-13  storm 30
+F 3300 G 100 I 100 Fr 600-400
+
+Sioux chief
+HP 600
+lance 35-105   Fr 70
+D 0-45/0-45 storm 100
+F 5400 G 750 Fr 400
+
+
+Unit upgrades
+
+Upgrade cost for tomahawk 
+AtkI 110 G 700 F
+AtkII 1250 G 1500 F
+AtkIII 2700 G 30000 F
+DefI 570 G 1400 F
+DefII 850 G 23000 F
+DefIII 55000 F
+Upgrade cost for archer-line
+AtkI 350 G 9500 F
+AtkII 200 G 74100 F
+AtkIII 200 G 130000 F
+DefI 190 G 550 F
+DefII 350 G 15000 F
+DefIII 150 G 80000 F
+Upgrade cost for chief-line
+AtkI 500 G 1500 F
+AtkII 1650 G 4600 F
+AtkIII 2050 G 80000 F
+DefI 240 G 1350 F
+DefII 2550 G 15000 F
+DefIII 3500 G 80000 F
+Upgrade cost for shooter-line
+AtkI 200 G 22000 F
+AtkII 360 G 72000 F
+AtkIII 200 G 130000 F
+DefI 200 G 16000 F
+DefII 800 G 35000 F
+DefIII 300 G 130000 F
+Upgrade cost for horseman
+AtkI 50 G 25000 F
+AtkII 160 G 81000 F
+AtkIII 200 G 120000 F
+DefI 350 G 13200 F
+DefII 500 G 86000 F
+DefIII 16100 W 130000 F
+Upgrade cost for delaware spearman-line
+AtkI 30 G 125 F
+AtkII 70 G 225 F
+AtkIII 110 G 350 F
+DefI 750 G 8400 F
+DefII 20000 G 85000 F
+DefIII 34000 G 130000 F
+Upgrade cost for armored warrior-line
+AtkI 140 G 10000 F
+AtkII 39000 W 920 G 40000 F
+AtkIII 3100 G 102000 F
+DefI 100 G 20000 F
+DefII 12600 W 750 G 37000 F
+DefIII 52500 W 100000 F
+Upgrade cost for Sioux Archer-line
+AtkI 6350 F
+AtkII 10000 F
+AtkIII 12500 F
+DefI 8100 F
+DefII 34000 F
+DefIII 110000 F
+Upgrade cost for Mounted pikeman-line
+AtkI  400 G 22000 F
+AtkII 3500 G 60000 F
+AtkIII 900 G 130000 F
+DefI 1520 G 22000 F
+DefII 3500 G 42000 F
+DefIII 3000 G 720000 F
+Upgrade cost for Horse Archer-line
+AtkI 20500 F
+AtkII 3500 G 80000 F
+AtkIII 125000 F
+DefI 3000 F
+DefII 13000 F
+DefIII 48600 F
+Upgrade cost for Horse shooter-line
+AtkI 2000 G 100000 F
+AtkII 6600 G 110000 F
+AtkIII 12000 G 130000 F
+DefI 2900 G 115000 F
+DefII 15000 G 130000 F
+DefIII 20000 G 110000 F
+
+
+AtkI
+AtkII
+AtkIII
+DefI
+DefII
+DefIII
+
+
+
+
+Europeans
+
+Fort 500 W 100 S mul 200 max 3
+HP 25.000
+arsenal, unlock officers, +10000 HP  1000 F (Rus 2000 C)
+House 30 W 50 S mul 3 max 8  (Rus 50 W 20 S)
+HP 5000
+Mill 200 W 100 S mul 4 max 6
+HP 5000
+Storehouse  15 W 120 S mul 5 max 6  (Rus 50 W mul 20 max 4)
+HP 5000
+Blacksmith 30 W 50 S 10 I mul 5 max 5
+HP 5500
+Mine 50 W 5000 HP inside 5-100
+Fortress/Castle 4000 W 4000 G 5500 S mul 10-5  max 3  (rus 8000 W 4000 G 500 S mul 8 max 3)
+HP 40000
+unlock cavalry +10.000 HP 2000 W 5000 S (spain and germany)
+unlock artillery +15.000 HP 10000 W 2000 S (spain and germany)
+unlock cavalry+artillery +25.000 HP  12000 S 3500 G 5000 W (20.000W 1000 S Rus)
+House II 1900 W 50 S  mul 3 max 8
+HP 15.000
+Town Center 5200 S 2150 W mul 10 max 3   (Germany 5000 W 200o G 1750 S mul 5 max 4)
+HP 25.000
+Church 150 W 600 S mul 10 max 4  (750 W for Russia)
+HP 35.000-5000
+Shipyard 250 W 250 S mul 10 max 5
+HP 25.000
+Blockhouse I 300 W 300 S mul 6 max 7  (not for Rus)
+HP 20.000
+Blockhouse II 1700 W 1700 S 400 I 350 C mul 2 max 6
+HP 30.000
+Stable 9000 W 1500 G 2500 S mul 10 max 4 (Germany and Portugal)
+HP 55.000
+Stable Russia 9000 W 1500 G 500 S mul 2 max 7
+HP 25.000
+Hunting lodge 210 W mul 30 max 4 (britain and usa)
+HP 15.000
+
+Upgrades
+
+Town center
+food +140% 2100 G 1400 I (2100 G 3900 S for rus)
+food +90% 8000 W 40000 F (no for rus)
+food +80% 3200 W 20000 F (no for rus)
+field +200% 14000 W 25200 F (no for rus)
+paesant +15% creation  2600 G 69000 W 86800 F (for rus +50% 29000 W 4300 G 50000 F) 
+armored units +3 armor 20500 W 600 G 2200 I (no for rus)
+wood +100% 2100 G 31000 F (250 G 3900 S 1500 I for rus)
+wood +75% 2550 G 65000 F (no for Brit, Rus)
+enable mine upgrades, reveal all deposits 1700 G
+fortress cost -50% 65000 W 350 G 22000 F (no for rus)
+buildings +3 armor 28300 W 6000 S
+construciotn speed +75% 20000 W 4000 S
+blockhouses, fortress +5 armor 65000 W 10000 S  (2100 G 4200 S for rus)
+cavalry +100% creation 2800 G 70000 W 18000 S (61000 W 2500 G 18000 S for rus)
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+Build hospital 6200 G 4300 W
+enable officers 18th century, fusilier +100% creation 2000 G 8750 I (not for rus)
+musket,arquebus +5 attack  1750 G 4800 I  (nor for rus)
+musket, fusilier, draggon +35% fire rate 6200 G 3500 I 8900 C
+fusilier +35% fire rate 3200 I 11500 C
+shooter +10% power 1200 G 6200 C (not for rus)
+fusilier -20% scatter  25500 G 7300 I 3200 C
+unlock house II 4000 W 4000 S 1320 G (+5000 W for Portugal)
+
+Mill
+food +140%  850 F
+food +250% 6000 W 10600 F  (+9000 W for rus)
+field +300% 2400 W 250 G 400 I (+4000 W +300 G +700 I for rus)
+field +300% 25000 W 200 G
+
+Blacksmith
+field +200% 150 W 150 G  (550 G 2500 I for rus)
+armored units +3 armor  900 G 4000 I (no for rus)
+spearman +100% creation speed 33500 W 2000 G 5000 F 16000 I (for rus  25000 W 1800 G 4100 I)
+halberdier +100% creation speed  450 G 900 I 7500 W 5000 F   (spain, germany only)
+arquebus +100% creation speed 85000 W 55000 F 5000 C (no for rus)
+strelet +100% creation speed   28000 W 40000 F  1250 G 5000C       (for rus)
+musket +100% creation speed  3000 G (no for rus)
+rifleman +100% creation speed 65000 G (+35% 35000 G for rus)
+
+Shipyard
+warships cost -20%   5000 G
+
+Stable/Fortress
+unlock draggon 17 20000 W
+unlock draggon 18 26000 W
+unlock officer m17 34000 W
+unlock officer m18 63000 W
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+Units
+
+Paesant
+HP 50
+Sword 14 (12 Usa,Brit) Fr 60 storm 10
+F 30 Fr 200-180 (Rus F 20 Fr 200-133)
+
+Halberdier/pikeman/spearman
+HP 100
+lance 14-24 Fr 30  10-20  Fr 20  8-16 Fr 20
+D 4-30/4-30    0-16/0-16 spearman
+F 115 I 25 G 1 Fr 200-100
+F 125 I 15 G 2 Fr 200-100
+F 65 I 5 W 10  Fr 100-50
+storm 30-20-15
+
+Arquebusier
+HP 80 (70 Fra)
+sword 7-21 Fr 80  (Fra 11-25 Fr 50)
+rifle 300-330   Fr 600  range 12
+D 7-22/1-16    storm 20  
+D 4-13/6-15   storm 10 (Fra)
+F 40 G 2 C 10 I 3  Fr 50-25
+F 50 G 4 C 10 I 5  Fr 25-12 (Fra)
+
+Musketter
+HP 100
+sword 12-24 Fr 50
+rifle 400-440  Fr 540-440 range 15
+D 1-28/5-32   storm 10
+F 230 G 8 I 3 C 10 Fr 50-32
+
+Fusilier
+HP 125  (100 Usa 110 Brit)
+lance 10-24  Fr 70  (40-54 Usa)
+rifle 600-660  Fr 560-360 (Usa /2) range 20
+D 0-17/0-17  storm 50
+F 280 G 15 I 2 C 10 Fr 400-133
+F 75 G 45 I 45 Fr 480-160    USA
+F 470 G 10 I 45 C 30 Fr 130-80  RUS
+
+Priest
+HP 30
+Healing 50 Fr 100 range 4
+580 F 10 G Fr 1800
+
+Militian
+HP 100
+Sword 6 Fr 25
+Rifle 250 Fr 250  range 12
+F 60 G 5 I 15 Fr 50
+
+Officer 17/18
+HP 125
+sword 50-77   Fr 50   150-172 Fr 50
+D 0-27/0-27   storm 30
+F 330 G 50 Fr 150     +150 G for 18
+
+Drummer 17/18
+HP 100
+D 0-14/0-14 storm 30  +7/7 for 18
+F 80 G 10 Fr 150    +90G for 18
+
+Stendard 17/18
+HP 100
+D 0-21/0-21 storm 30  +7/7 for 18
+F 140 G 20 Fr 150     +680 G for 18
+
+Hunter
+HP 60
+Sword 20 Fr 60
+Rifle 800   Fr 880  range 13  storm 10
+G 150 Fr 400 (hunting lodge)  600 (house)
+
+Dragoon 17/18
+HP 340  /  420
+Sword 11-26  Fr 50  bx 20
+Rifle 350  Fr 240  range 13
+D 9-20/1-12  storm 30  for 17
+D 0-15/16-31 storm 30  for 18
+F 1980 G 20 Fr 300-150  for 17
+F 6180 Fr 550-275   for 18
+
+Mounted officer 17/18
+HP 480 / 550
+Sword 54-76  Fr 50  /  85-114 Fr 50
+Rifle 200 Fr 100 Range 5
+D 14-24/8-18    storm 10 / 0-22/0-22 storm 10
+F 3880 G 340 I 50 C 20 Fr 1000-500 /
+F 4280 G 380 I 10 C 30 Fr 1250-625
+
+Mounted stendard
+HP 350
+D 0-28/0-28 storm 100
+F 1230 G 150 Fr 400-200
+
+Conquistador
+HP 350
+Sword 20-32  Fr 50 bx 10
+Rifle 200 Fr 100 Range 5
+D 7-33/1-25  Arrow protection 125  storm 20
+F 5830 G 50 W 150 I 40 Fr 100-50
+
+Cossack
+HP 600
+Lance 12-24  Fr 36
+D 6-19/0-13  storm 10
+F 520 W 35 I 25 Fr 800-640
+
+Cannon
+HP 1500
+Power 4000 Fr 800-420 Range 100-125
+W 2500 G 50 I 1000 C 150 Fr 3000-600
+cost -30%
+
+
+Unit Upgrades
+
+Upgrade cost for Halberdier/pikeman-line
+AtkI 50 G 3400 F
+AtkII 160 G 34100 F
+AtkIII 200 G 125300 F
+DefI 190 G 550 F (+2000 F for pike)
+DefII 350 G 13900 F (+6000 F +450 G for pike)
+DefIII 1400 G 112000 F
+Upgrade cost for spearman-line
+AtkI  500 G 1000 F
+AtkII 700 G 5100 F
+AtkIII 200 G 125300 F
+DefI 190 G 4900 F
+DefII 800 G 19900 F
+DefIII 1400 G 62600 F
+Upgrade cost for Arquebusier/Strelet-line
+AtkI 50 G 150 F
+AtkII 700 G 700 F
+AtkIII 2000 G 23300 F
+DefI 190 G 800 F  (+385 G +4200 F for Rus)
+DefII 800 G 3400 F (+1500 G +13300 F for Rus)
+DefIII 600 G 5300 F (+2450 G +84300 F 9600 C 4200 I for Rus)
+Upgrade cost for Musketter-line
+AtkI 500 G 12800 F
+AtkII 150 G 44100 F
+AtkIII 18200 G 43300 F
+DefI 1100 G 4550 F
+DefII 650 G 15200 F
+DefIII 7750 G 89600 F 12000 C 2700 I
+Upgrade cost for Fusilier-line
+AtkI 500 G 12800 F
+AtkII 700 G 44000 F
+AtkIII 19500 G 43300 F
+DefI  240 G 1350 F
+DefII 950 G 15200 F
+DefIII 2000 G 72600 F
+Upgrade cost for Dragoon-line
+AtkI 320 G 7200 F  (+13000 F for 18th)
+AtkII 700 G 74000 F (-540 G for 18th)
+AtkIII 18200 G 22300 F
+DefI 1000 G 24200 F (-890 G for 18th)
+DefII 800 G 73000 F (-480 G for 18th)
+DefIII 1800 G 72600 F (-1425 G for 18th)
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+Upgrade cost for Conquistador-line
+AtkI 320 G 12800 F
+AtkII 1750 G 42000 F
+AtkIII 700 G 92600 F
+DefI 70 G 12800 F
+DefII 80 G 37000 F
+DefIII 100 G 72600 F
+Upgrade cost for Cossack-line
+AtkI 120 G 18800 F
+AtkII 750 G 42000 F
+AtkIII 1450 G 92600 F
+DefI 90 G 11200 F
+DefII 750 G 37000 F
+DefIII 1525 G 72600 F
+
+
+
+Naval units
+
+Ferry
+HP 50-65.000
+Carry 250
+W 100 G 25 I 50
+
+Rowboat
+HP 2500 D 150
+rifle 800 Fr 80 Range 20
+W 1200 G 400 I 100 Fr 2000  mul 1.02
+
+Caravel
+HP 56500
+cannon 4000  Fr 200 Range 50
+W 3550 G 1450 I 500 C 700 Fr 2000 mul 2
+
+Galleon
+HP 60500
+Cannon 4000 Fr 40 range 10-70
+W 9500 G 7050 I 2900 C 1100 Fr 3000 mul 2
+
+Frigate
+HP 65150
+Cannon 4000 Fr 40 range 30-100
+W 65500 G 22300 I 2500 C 7500 Fr 5000 mul 2
+
+Fishing canoe
+HP 1500 D 160-175
+Bow 200 Fr 80 Range 20
+W 850 Fr 1000 Mul 1.02
+
+Battle canoe
+HP 3000 D 160-175
+Bow 200 Fr 80 Range 20-40
+W 1900 G 400 I 250 Fr 2000-1000 Mul 1.02

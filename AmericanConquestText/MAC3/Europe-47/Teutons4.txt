@@ -1,0 +1,268 @@
+GERMANY
+-Military buildings +10 population +10 maxinside
+-Duoble effect of armor upgrades
+-Mills cost -50%
+-Can build Towncenter after placng a storehouse
+-Castles are built 100% faster
+
+UU Ulhan
+
+BOHEMIA
+-Spear infantry attack 25% faster
+-Cheaper Blacksmihts and markets
+-Villager +20% movement speed
+-Military buildings +2 armor
+
+UU War wagon
+
+SWISS
+-Military buildings cost -50% W
+-Infantry +10% HP
+-Market +20% G generated
+-Hunters are trained at houses
+
+UU Swiss guard
+
+AUSTRIANS
+
+UU Roundshield
+
+Buildings
+--Fort 500 W (250) 100 S mul 100 max 3  MaxInside 50 MaxPop 50
+HP 25.000
+unlock officers +10.000 HP  1000 W
+
+--House 100 W 100 S mul 2 max 12 HP 5000 MaxInside 5 MaxPop 15
+
+--Mill 200 W 100 S mul 4 max 6 HP 5000 MaxInside 15 MaxPop 15
+food +100% 6000 W 12.000 F
+food +70%  2000 G 1500 I
+food +130% 11.000 W 60.000 F
+field +100% 14.000 W 25.000 F
+field +100% 28.000 W 450 G 450 I
+
+--Storehouse 25 W 125 S mul 5 max 6 HP 5000 MaxInside 15 MaxPop 15
+wood +100%  2100 G 31.000 F
+wood +50%   2600 G 65.000 F
+
+--Blacksmith 250 W (100) 250 S 50 I mul 10 max 3 HP 5500 maxInside 10 MaxPop 10
+field +100% 150 W 150 G
+armored units +6 armor  20500 W 1500 G 6200 I
+halberdier/pikeman/spearman +100% creation speed 35.000 W 2500 G 16.000 I (900 G 12.500 W Spain7Germany) 
+arquebus +100% creation speed  85.000 W 55.000 F 5000 C
+musket +100% creation speed 3000 G
+fusilier +100% creation speed  65.000 G
+
+--Mine 1000 W 5000 HP inside 5-50
+
+--Fortress/Castle 4500 W (2250) 4000 G 5500 S mul 5 max 3 MaxInside 150 MaxPop 150
+HP 40.000
+unlock cavalry +10.000 HP 2000 W 5000 S     
+unlock artillery +10.000 HP 10.000 W 2000 S 
+artillery -70% scatter 2900 G 12000 I 22800 C
+artillery +25% range 9100 G 9150 I 12150 C
+artillery +70% fire rate 11500 G 4300 I 8700 C
+cannon +140% creation speed 13330 I 7700 C
+cannon -30% cost 128400 W 6550 G
+
+--House II 2000 W 50 S mul 3 max 8 HP 15.000 MaxInside 15 MaxPop 100
+
+--Town Center 5000 W 2000 G 2000 S mul 10 max 3 HP 25.000 MaxIn 25 MaxPop 25
+paesant +15% creation speed 2600 G 69.000 W 108.800 F
+enable mines upgrades, reveal deposits on the map 2000 G
+buildings +3 armor  28300 W 6000 S
+---
+blockhouses, Fortress/Fort/Castle +5 armor  65.000 W 10.000 S
+construction speed +75% 20.000 W 4000 S
+unlock house II 4000 W 4000 S 1320 G 
+---
+enable officers 18th century, fusilier +100% creation 2000 G 8750 I
+musket,arquebus +5 attack  2000 G 4800 I  
+musket, fusilier, draggon +35% fire rate 6200 G 3500 I 8900 C
+---
+fusilier +35% fire rate 3200 I 11500 C
+shooter +10% power 1000 G 6200 C 
+ballistics 10.000 G
+fusilier -20% scatter  15500 G 7300 I 3200 C
+---
+
+
+--Church 150 W 600 S mul 10 max 3 HP 35.000 MaxIn 25 MaxPop 15
+Build hospital  6200 G 4300 W
+Heal all units by 10%: 700 G 2000 W 600 S
+
+--Shipyard 1000 W 1000 S mul 5 max 5 HP 25.000 MaxIn 25 MaxPop 15
+warships cost -20%   5000 G
+ferry +100% speed 8250 W 1650 G
+
+--BlockHouse I 500 W (250) 500 S mul 5 max 6 HP 20.000 maxIN 10 MaxPop 10
+--Blockhouse II 2000 W (1000) 200 S 400 I 400 C mul 4 max 4 HP 30.000 MaxIn 30 MaxPop 10
+
+--Stable 9000 W (4500) 1500 G 2500 S mul 10 max 4 MaxIn 25 Maxpop 15
+HP 55.000
+unlock draggon 17 20000 W
+unlock draggon 18 26000 W
+unlock officer m17 34000 W
+unlock officer m18 63000 W
+cavalry +100% creation speed 2800 G 70.000 W 18.000 S
+
+Europeans MaxInside 1405 MaxPopulation 2045
+
+Units
+Paesant
+HP 100
+Sword 14 Fr 30 storm 20
+F 100 Fr 400-360 
+
+Farmer 10->40
+Woodcutter 10->40
+Miner 4->5
+
+Spearman (occupy half population with a tech)
+HP 100
+lance 8-16 Fr 20    D 0-16/0-16   storm 15
+F 100 W 10 I 5  Fr 100-50
+
+Pikeman (occupy half population with a tech)
+HP 100 
+lance 10-20  Fr 20   D4-26/4-26  150 arrow protection storm 20
+F 130 I 15 G 2  Fr 200-100
+
+Halberdier
+HP 125
+lance 14-32  Fr 30   D 4-30/4-30  175-190 arrow protection storm 30
+F 125 I 25 G 1  Fr 200-100
+
+Arquebusier (occupy half population with a tech)
+HP 100
+sword 12-25 Fr 80 
+rifle 300-330  Fr 600 range 12
+D 8-22/2-16 150 arrow protection   storm 20
+F 100 Fr 50-25  
+
+Musketter (occupy half population with a tech)
+HP 125
+Sword 12-24  Fr 50
+rifle 400-440 Fr 540-440 range 15
+D 1-28/5-32  150 arrow protection storm 25
+F 240 G 10 C 10 Fr 60-30
+
+Fusilier (occupy half population with a tech)
+HP 125 
+lance 12-24 Fr 30
+rifle 600-660 Fr 560-360    range 20
+D 0-18/0-18  storm 50    salary 1->80
+F 300 G 15 Fr 400-133
+
+Priest
+HP 30 Healing 100 Fr 100 range 4
+F 600 G 10 Fr 1800
+
+Officer 17/18
+HP 125
+sword 50-75 / 150-175 Fr 50   D 0-21/0-21 (+7)  storm 100
+F 300 G 50/200  Fr 150
+
+Drummer 17/18
+HP 100  D 0-14/0-14 (+7) storm 100   
+F 100 G 10/300 Fr 150
+
+Standard 17/18
+HP 100 D 0-21/0-21 (+7) storm 100
+F 100 G 20/500 Fr 150
+
+Hunter 
+HP 100
+Sword 20 Fr 30
+Rifle 400-440 Fr 440-274 range 15  storm 20
+G 150 Fr 800-400
+Gathering rate 20
+
+Dragoon 17/18
+HP 300/400
+Sword 12-28 Fr 50 bx 20
+rifle 350-385/400-440  Fr 240-180  range 15
+D 0-20/10-30  storm 100   salary 1->16
+F 2000/5000 G 20/50 Fr 600-300
+
+Mounted officer
+HP 600
+Sword 50-75/80-120 Fr 50
+rifle 200 Fr 100 range 5
+D 0-24/0-24  storm 100  
+F 4000 G 450 Fr 1200-600
+
+Mounted Standard
+HP 300 D 0-28/0-28 storm 100
+F 1250 G 150 Fr 400-200
+
+Lancer
+HP 600
+Lance 12-24 Fr 36  bx 5
+D 6-20/0-14  storm 20
+F 600 W 35 I 25 Fr 800-640
+
+Cannon
+HP 2000
+Gun 4000 Fr 800-440 Range 100-125
+W 2500-1750 G 50-35 I 1000-700 C 150-105  Fr 3000-1000
+max 5 per castle/fortress mul 1.3 
+
+Unit upgrades
+Upgrade cost for Halberdier/pikeman/spearman-line
+AtkI 50 G 3400 F
+AtkII 160 G 34100 F
+AtkIII 200 G 125300 F
+DefI 190 G 550 F 
+DefII 800 G 13900 F 
+DefIII 1400 G 112000 F
+
+Upgrade cost for Arquebusier-line
+AtkI 50 G 150 F
+AtkII 700 G 700 F
+AtkIII 2000 G 23300 F
+DefI 190 G 800 F  
+DefII 800 G 3400 F 
+DefIII 600 G 5300 F 
+
+Upgrade cost for Musketter-line
+AtkI 500 G 12800 F
+AtkII 150 G 44100 F
+AtkIII 18200 G 43300 F
+DefI 1100 G 4550 F
+DefII 650 G 15200 F
+DefIII 7750 G 89600 F 12000 C 2700 I
+
+Upgrade cost for Fusilier-line
+AtkI 500 G 12800 F
+AtkII 700 G 44000 F
+AtkIII 19500 G 43300 F
+DefI  240 G 1350 F
+DefII 950 G 15200 F
+DefIII 2000 G 72600 F
+
+Upgrade cost for Dragoon-line
+AtkI 320 G 7200 F  (+13000 F for 18th)
+AtkII 700 G 74000 F (-540 G for 18th)
+AtkIII 18200 G 22300 F
+DefI 1000 G 24200 F (-890 G for 18th)
+DefII 800 G 73000 F (-480 G for 18th)
+DefIII 1800 G 72600 F (-1425 G for 18th)
+
+Upgrade cost for officers/stendards/drummer-line
+AtkI 800 G 7000 F
+DefI 300 G 6300 F (+30000 F for mounted units)
+
+Upgrade cost for Cossack-line
+AtkI 120 G 18800 F
+AtkII 750 G 42000 F
+AtkIII 1450 G 92600 F
+DefI 90 G 11200 F
+DefII 750 G 37000 F
+DefIII 1525 G 72600 F
+
+ULHAN
+
+WAR WAGON
+
+SWISS GUARD

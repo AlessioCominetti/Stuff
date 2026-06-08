@@ -1,0 +1,78 @@
+COMMON
+farm upgrades
+hunt upgrades
+fish upgrades
+wood upgrades
+mine upgrades
+paesant creation speed
+---
+unit melee armor
+unit pierce armor
+unit melee attack
+unit creation speed
+unit hitpoints
+unit cost
+building's hp
+unlock new buildings
+ranged unit attack
+ranged unit accuracy
+---
+shaman hp
+shaman creation time
+shaman/priest healing
+shaman/priest speed
+---
+ship armor
+ship movement speed
+ship creation time
+ship cost
+
+EUROPEANS
+artillery attack rate
+artillery range
+artillery accuracy
+shooter attack rate
+shooter fire power
+shooter accuracy
+hospitals
+
+MISSING
+unit movement speed
+archer fire rate
+murder holes
+cavalry hp
+
+
+UNITS
+Other
+I paesant
+I priest
+I hunter
+Barrack
+I spearman II pikeman III halberdier
+I archer II crossbowman III arquebusier IV musketter V fusilier
+I swordman II two handed swordman
+I skirmisher
+I axeman
+I Officers
+Stable
+I lancer
+II knight III black rider/conquistador
+I horse archer 
+IV dragoon 17th V dragoon 18th
+IV Mounted officiers
+Siege workshop
+I onager II trebuchet III bombard cannon IV artillery
+I battering ram II Siege Tower
+I Mantlet
+I ballista
+Shipyard
+I fishing ship
+I ferry
+I archer boat III Row boat
+I Galley III Brigantine
+I Ramming ship 
+I incendiary ship
+I fire ship
+II Catapult Galley III Caravel IV Galleon  V Frigate
+

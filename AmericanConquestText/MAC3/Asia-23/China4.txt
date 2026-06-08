@@ -1,0 +1,27 @@
+HAN-JURCHEN-TIBETANS-KITHANS
+
+HAN
+-Start the game with double the paesants
+-Houses are cheaper
+-Technologies are cheaper
+UU Chu ko nu
+UT Rocket carts, Lou chuans, scorpions, +25% attack
+
+JURCHEN
+-Animals killed by this civ cannot decay
+-Cavalry units attack 20% faster
+-Siege and fortifications cost -75% W
+-Fortifications regen 5000 Hp/min
+UU Iron pagoda, ancient grenadier
+UT Grenadiers, rocket carts,louchuans provide extre explosions
+
+TIBETANS
+
+KITHANS
+-Skirmishers, spearman, scout cavalry cost -25%,
+their upgrades cost -25%
+-Attack upgrades are 25% more effective
+-Can buildpastures
+UU Liao dao
+UT Melee units return 25% of damage received in melee
+back to enemy
